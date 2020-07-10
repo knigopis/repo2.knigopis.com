@@ -1,0 +1,13 @@
+{
+    "id": "1146684568850703-facebook",
+    "nickname": "Бызов Дмитрий",
+    "photo": "https://graph.facebook.com/1146684568850703/picture?type=square",
+    "profile": "https://www.facebook.com/profile.php?id=1146684568850703",
+    "identity": "https://www.facebook.com/app_scoped_user_id/1146684568850703/",
+    "booksCount": 19,
+    "subscriptions": {
+        "332860507-vkontakte": 0
+    },
+    "createdAt": "2019-09-13 08:28:02",
+    "updatedAt": "2019-09-30 05:35:52"
+}

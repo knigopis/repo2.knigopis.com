@@ -1,0 +1,17 @@
+{
+    "id": "100935301-yandex",
+    "lang": "en",
+    "nickname": "km",
+    "photo": "https://ulogin.ru/img/photo.png",
+    "profile": "http://openid.yandex.ru/reggess/",
+    "identity": "http://openid.yandex.ru/klim.mironov/",
+    "booksCount": 1,
+    "subscriptions": {
+        "7466948-vkontakte": 224,
+        "22240417-vkontakte": 33,
+        "94738840-vkontakte": 74,
+        "76187635-vkontakte": 232
+    },
+    "createdAt": "2015-10-21 08:17:50",
+    "updatedAt": "2016-08-23 14:23:50"
+}

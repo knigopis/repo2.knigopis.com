@@ -1,0 +1,10 @@
+{
+    "id": "iR9L39VuGM",
+    "userId": "12375097-vkontakte",
+    "createdAt": "2016-03-30 05:09:01",
+    "updatedAt": "2016-03-30 05:09:01",
+    "title": "Выразительный Javascript",
+    "author": "Marijn Haverbeke",
+    "priority": 40,
+    "notes": "https://www.gitbook.com/book/karmazzin/eloquentjavascript_ru/details\n\nГригорий Петров, технический евангелист VoxImplant.\nПолагаю, лучше всего начать обучение с JavaScript. Благодаря веб браузерам, этот язык программирования является стандартом де-факто при создании веб приложений, одной из самых быстрорастущих областей разработки. Также по нему есть великолепная бесплатная книга, «Eloquent JavaScript», переведенная на русский."
+}

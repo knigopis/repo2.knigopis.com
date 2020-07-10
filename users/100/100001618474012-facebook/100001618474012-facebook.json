@@ -1,0 +1,10 @@
+{
+    "id": "100001618474012-facebook",
+    "nickname": "Bogdan",
+    "photo": "https://graph.facebook.com/100001618474012/picture?type=square",
+    "profile": "https://www.facebook.com/profile.php?id=100001618474012",
+    "identity": "https://www.facebook.com/app_scoped_user_id/100001618474012/",
+    "booksCount": 0,
+    "createdAt": "2019-08-04 07:45:46",
+    "updatedAt": "2019-08-04 07:45:46"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "83820536-yandex",
+    "lang": "ru",
+    "nickname": "lucius",
+    "photo": "https://avatars.yandex.net/get-yapic/15298/enc-067a85e74b35033f10bb734647caba6cf24874f4dc922b4eb50b455107676f1a/islands-retina-50",
+    "profile": "http://gurov.bitbucket.org/",
+    "identity": "http://openid.yandex.ru/lucius.gu/",
+    "booksCount": 151,
+    "subscriptions": {
+        "74743045-vkontakte": 118,
+        "109422146-vkontakte": 19,
+        "100001022994466-facebook": 1,
+        "18604982-vkontakte": 23,
+        "111115241650108110325-google": 18,
+        "108954498568373809294-google": 24,
+        "100978570902186865324-google": 54,
+        "8012994-vkontakte": 3,
+        "136078132-vkontakte": 6,
+        "40203070-vkontakte": 14,
+        "57718344-vkontakte": 26,
+        "107127274479758647951-google": 18,
+        "115622071-twitter": 64,
+        "104690883692185089260-google": 182
+    },
+    "createdAt": "2015-01-16 05:41:28",
+    "updatedAt": "2019-11-03 14:23:08"
+}

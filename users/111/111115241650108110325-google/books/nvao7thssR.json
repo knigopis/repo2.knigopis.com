@@ -1,0 +1,13 @@
+{
+    "id": "nvao7thssR",
+    "lang": "en",
+    "userId": "111115241650108110325-google",
+    "createdAt": "2015-05-04 19:36:53",
+    "updatedAt": "2015-09-19 10:10:04",
+    "title": "Git from the bottom up",
+    "author": "John Wiegley",
+    "readDay": "5",
+    "readMonth": "5",
+    "readYear": "2015",
+    "notes": "Отличная книга о том, как Git устроен изнутри. Вместе с автором своими руками прорабатываем команды git add и git commit."
+}

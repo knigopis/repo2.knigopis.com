@@ -1,0 +1,10 @@
+{
+    "id": "2004720323142248-facebook",
+    "nickname": "whatever",
+    "photo": "http://graph.facebook.com/2004720323142248/picture?type=square",
+    "profile": "https://www.facebook.com/app_scoped_user_id/2004720323142248/",
+    "identity": "https://www.facebook.com/app_scoped_user_id/2004720323142248/",
+    "booksCount": 15,
+    "createdAt": "2017-11-18 19:31:31",
+    "updatedAt": "2017-11-18 19:46:42"
+}

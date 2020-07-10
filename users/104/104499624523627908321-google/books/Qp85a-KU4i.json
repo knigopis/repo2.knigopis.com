@@ -1,0 +1,13 @@
+{
+    "id": "Qp85a-KU4i",
+    "lang": "ru",
+    "userId": "104499624523627908321-google",
+    "createdAt": "2015-06-25 08:13:49",
+    "updatedAt": "2015-06-25 08:13:49",
+    "title": "Linux command line and Shell. Bible. Second Edition.",
+    "author": "Richard Blum, Christine Bresnahan",
+    "readDay": "",
+    "readMonth": "12",
+    "readYear": "2014",
+    "notes": "Шикарнейший труд, описывающий возможности командных оболочек linux, стандартных команд и приложений. После прочтения очень просто стало писать shell-скрипты, пропал страх перед sed и awk."
+}

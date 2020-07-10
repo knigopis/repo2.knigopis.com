@@ -1,0 +1,11 @@
+{
+    "id": "100003223356588-facebook",
+    "lang": "ru",
+    "nickname": "Алена",
+    "photo": "http://graph.facebook.com/100003223356588/picture?type=square",
+    "profile": "https://www.facebook.com/app_scoped_user_id/100003223356588/",
+    "identity": "https://www.facebook.com/app_scoped_user_id/100003223356588/",
+    "booksCount": 1,
+    "createdAt": "2016-07-27 20:26:44",
+    "updatedAt": "2016-08-23 14:07:18"
+}

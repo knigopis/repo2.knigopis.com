@@ -1,0 +1,12 @@
+{
+    "id": "1067243422-yandex",
+    "nickname": "demo",
+    "profile": false,
+    "identity": "http://openid.yandex.ru/knigopis-demo/",
+    "booksCount": 1,
+    "subscriptions": {
+        "333646551-vkontakte": 118
+    },
+    "createdAt": "2020-04-15 21:32:49",
+    "updatedAt": "2020-06-28 01:03:45"
+}

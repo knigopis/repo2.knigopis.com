@@ -1,0 +1,10 @@
+{
+    "id": "1007576529-facebook",
+    "nickname": "Anton",
+    "photo": "https://graph.facebook.com/1007576529/picture?type=square",
+    "profile": "https://www.facebook.com/app_scoped_user_id/1007576529/",
+    "identity": "https://www.facebook.com/app_scoped_user_id/1007576529/",
+    "booksCount": 2,
+    "createdAt": "2017-10-10 09:20:11",
+    "updatedAt": "2018-03-10 15:36:34"
+}
