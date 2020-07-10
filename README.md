@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rNix](users/227/22742452-yandex)<sup>67</sup> 
+[rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>41</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 
 
-_10.07.2020 16:47:26_
+_10.07.2020 16:47:59_
