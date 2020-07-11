@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vladkozz](users/572/57239276-vkontakte)<sup>72</sup> 
+[vladkozz](users/572/57239276-vkontakte)<sup>71</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>41</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 
 
-_11.07.2020 12:54:01_
+_11.07.2020 12:54:13_
