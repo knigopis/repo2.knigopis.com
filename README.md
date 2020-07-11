@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>72</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>41</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>70</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>8</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>51</sup> 
 [vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 
 
-_10.07.2020 16:47:59_
+_11.07.2020 12:54:01_

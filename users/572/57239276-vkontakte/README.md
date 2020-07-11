@@ -1,7 +1,15 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>70</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>72</sup>
 ---
 
 ## 2020
+
+### Сочини что-нибудь
+Чак Паланик
+
+
+### Сочини что-нибудь
+Чак Паланик
+
 
 ### Левиафан
 Борис Акунин

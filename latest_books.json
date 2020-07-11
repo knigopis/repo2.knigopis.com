@@ -1,4 +1,16 @@
 {
+    "odKSw-H4_g": {
+        "id": "odKSw-H4_g",
+        "title": "Сочини что-нибудь",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2020-07-11 12:54:01",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 72
+        }
+    },
     "CB6eQsds03": {
         "id": "CB6eQsds03",
         "title": "демо",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 121
-        }
-    },
-    "Rk1RNjaInA": {
-        "id": "Rk1RNjaInA",
-        "title": "Записки о Шерлоке Холмсе",
-        "author": "Конан Дойль, Артур",
-        "notes": "",
-        "createdAt": "2020-07-06 05:41:50",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 168
         }
     }
 }
