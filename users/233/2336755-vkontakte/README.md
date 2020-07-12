@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>101</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>102</sup>
 ---
 
 ## 2020
+
+### 999
+Стивен Кинг и др.
+> [2020-07-12] 
+
 
 ### Тёмная сторона сети
 Мария Артемьева

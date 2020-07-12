@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 102,
+        "updatedAt": "2020-07-12 18:38:33"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 49,
         "updatedAt": "2020-06-30 01:18:52"
-    },
-    "176805114-yandex": {
-        "id": "176805114-yandex",
-        "nickname": "fir137",
-        "booksCount": 42,
-        "updatedAt": "2020-06-29 12:24:05"
     }
 }
