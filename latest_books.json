@@ -1,4 +1,28 @@
 {
+    "2EBDQEP8Vn": {
+        "id": "2EBDQEP8Vn",
+        "title": "Эпоха мёртвых. Москва",
+        "author": "Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-07-12 15:07:31",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 156
+        }
+    },
+    "IhW6rVN2Uj": {
+        "id": "IhW6rVN2Uj",
+        "title": "Социальное животное",
+        "author": "Дэвид Брукс",
+        "notes": "",
+        "createdAt": "2020-07-12 14:29:21",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 810
+        }
+    },
     "odKSw-H4_g": {
         "id": "odKSw-H4_g",
         "title": "Сочини что-нибудь",
@@ -333,30 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 123
-        }
-    },
-    "Niu3_aYwd4": {
-        "id": "Niu3_aYwd4",
-        "title": "Шифропанки: свобода и будущее Интернета",
-        "author": "Джулиан Ассанж, Энди Мюллер-Магун, Джейкоб Аппельбаум, Жереми Циммерман",
-        "notes": "6/10 Рассуждения о будущем свободы в интернете.",
-        "createdAt": "2020-07-06 06:10:59",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 122
-        }
-    },
-    "fALQwthLd1": {
-        "id": "fALQwthLd1",
-        "title": "Темна вежа 7.",
-        "author": "Стівен Кінг",
-        "notes": "Закінчення циклу, подальша доля героїв.",
-        "createdAt": "2020-07-06 06:07:14",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 121
         }
     }
 }

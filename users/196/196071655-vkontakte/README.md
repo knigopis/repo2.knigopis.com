@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>155</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>156</sup>
 ---
 
 ## 2020
+
+### Эпоха мёртвых. Москва
+Андрей Круз
+> [2020-07-12] 
+
 
 ### Эпоха мертвых. Начало
 Андрей Круз

@@ -34,11 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>156</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>810</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>71</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>41</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 [stewardessN4](users/108/108304368373474603096-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
 [youno](users/302/302928912-vkontakte)<sup>49</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
-[Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 
 
-_11.07.2020 12:54:13_
+_12.07.2020 15:07:31_

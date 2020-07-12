@@ -1,4 +1,16 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 156,
+        "updatedAt": "2020-07-12 15:07:31"
+    },
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 810,
+        "updatedAt": "2020-07-12 14:29:21"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -22,12 +34,6 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 41,
         "updatedAt": "2020-07-09 20:32:31"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 155,
-        "updatedAt": "2020-07-09 16:17:17"
     },
     "108304368373474603096-google": {
         "id": "108304368373474603096-google",
@@ -172,11 +178,5 @@
         "nickname": "fir137",
         "booksCount": 42,
         "updatedAt": "2020-06-29 12:24:05"
-    },
-    "111367585493471720963-google": {
-        "id": "111367585493471720963-google",
-        "nickname": "Fenix",
-        "booksCount": 5,
-        "updatedAt": "2020-06-28 09:27:08"
     }
 }
