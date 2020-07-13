@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>157</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>156</sup>
 ---
 
 ## 2020
@@ -111,11 +111,6 @@
 ### Благие Знамения
 Терри Пратчет
 > [2020-01-05] 
-
-
-### Это тестовпя запист
-Пәрод
-> [-01] 
 
 
 
