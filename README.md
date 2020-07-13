@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Norland](users/118/118077930405328356010-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>156</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>810</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>255</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>110</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
-[youno](users/302/302928912-vkontakte)<sup>49</sup> 
 
 
-_13.07.2020 09:43:49_
+_13.07.2020 13:11:13_
