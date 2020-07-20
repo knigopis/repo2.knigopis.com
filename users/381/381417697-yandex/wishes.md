@@ -40,86 +40,88 @@ Randall Munroe
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
-
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Formalized Music
-Янис Ксенакис
-> 1963
-
-### `` Мертвые души
-Николай Гоголь
-
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
-
-### `` Set Theory
-Мильтон Бэббит
-> 1992
-
-### `` Permanent Record
-Edward Snowden
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Не рычите на собаку
+### `` Qe
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
+### `` Герой нашего времени
+Михаил Лермонтов
+
+### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+Dafydd Stuttard, Marcus Pinto
+> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
+
+### `` Искусство программирования
+Дональд Кнут
+
+### `` Agile Estimating and Planning
+Mike Cohn
+
+### `` Hdhd
+
+### `` Науки об искусственном
+> Когда-то читал эту книгу давно, но не помню, дочитал или нет
+
+### `` Permanent Record
+Edward Snowden
 
 ### `` Тонкое искусство пофигизма
 
 ### `` Effective Kotlin
 
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
+### `` Set Theory
+Мильтон Бэббит
+> 1992
 
-### `` фываизчтулзвтязлвилчззочив
+### `` Мертвые души
+Николай Гоголь
 
-### `` Искусство программирования
-Дональд Кнут
+### `` Не рычите на собаку
+
+### `` Formalized Music
+Янис Ксенакис
+> 1963
+
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` A Briefer History of Time
+Stephen Hawking
+
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` Братья Карамазовы
+Фёдор Достоевский
 
 ### `` Голубое сало
 Владимир Сорокин
 > День опричника
 > Сахарный кремль
 
-### `` Братья Карамазовы
-Фёдор Достоевский
-
-### `` Науки об искусственном
-> Когда-то читал эту книгу давно, но не помню, дочитал или нет
-
-### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-Dafydd Stuttard, Marcus Pinto
-> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
-
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
-
-### `` Agile Estimating and Planning
-Mike Cohn
-
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский

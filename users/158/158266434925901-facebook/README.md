@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>110</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>111</sup>
 ---
 
 ## 2020
+
+### Элеанор Олифант в полном порядке
+Гейл Ханимен
+> [2020-07-15] 
+
 
 ### Отступник. Темный эльф - 1
 Роберт Сальваторе

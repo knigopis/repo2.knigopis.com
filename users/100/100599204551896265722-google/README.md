@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>126</sup>
+# Список прочитанных книг пользователя exulted<sup>127</sup>
 ---
 
 ## 2020
+
+### The Making of a Manager: What to Do When Everyone Looks to You
+Julie Zhuo
+> [2020-07-13] 
+
 
 ### The Hydrogen Sonata
 Iain M. Banks
