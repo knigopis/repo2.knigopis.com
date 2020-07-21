@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>85</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>86</sup>
 ---
 
 ## 2020
+
+### Антирак.Новый образ жизни
+Давид Серван-Шрейбер
+> [2020-07-21] 
+
 
 ### История одного убийства.1793
 Никлас Натт-О-Даг

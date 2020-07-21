@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>86</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>72</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup> 
 [rNix](users/227/22742452-yandex)<sup>68</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>120</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>8</sup> 
 
 
-_21.07.2020 09:52:05_
+_21.07.2020 14:19:00_

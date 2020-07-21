@@ -1,4 +1,16 @@
 {
+    "SzKv61EMR0": {
+        "id": "SzKv61EMR0",
+        "title": "Антирак.Новый образ жизни",
+        "author": "Давид Серван-Шрейбер",
+        "notes": "",
+        "createdAt": "2020-07-21 14:19:00",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 86
+        }
+    },
     "ilfBh3UWTO": {
         "id": "ilfBh3UWTO",
         "title": "Ведьмак: Последнее желание",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 126
-        }
-    },
-    "kXSFo30Ye4": {
-        "id": "kXSFo30Ye4",
-        "title": "Эпоха мёртвых. Прорыв.",
-        "author": "Андрей Круз",
-        "notes": "",
-        "createdAt": "2020-07-16 14:07:40",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 167
         }
     }
 }

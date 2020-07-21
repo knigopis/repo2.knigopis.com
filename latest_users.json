@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 86,
+        "updatedAt": "2020-07-21 14:19:00"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -166,12 +172,6 @@
         "nickname": "zAAz",
         "booksCount": 59,
         "updatedAt": "2020-07-07 17:51:27"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 85,
-        "updatedAt": "2020-07-06 20:19:41"
     },
     "110080946273609412257-google": {
         "id": "110080946273609412257-google",
