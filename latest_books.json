@@ -1,4 +1,16 @@
 {
+    "ESq3BsQv_t": {
+        "id": "ESq3BsQv_t",
+        "title": "В основном безвредна",
+        "author": "Дуглас Адамс",
+        "notes": "10/10",
+        "createdAt": "2020-07-21 07:04:53",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 70
+        }
+    },
     "dCwKnoiFBu": {
         "id": "dCwKnoiFBu",
         "title": "жжж",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 162
-        }
-    },
-    "XKlOy35SVH": {
-        "id": "XKlOy35SVH",
-        "title": "Три мушкетёра",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2020-07-16 06:46:32",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 45
         }
     }
 }

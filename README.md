@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
+    > 10/10
+
 * Безсонница ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>127</sup>
     > 7/10 Приспешники Багряного Короля готовят терракт в Дерри.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 1928 год. Веймарская Германия. На окраине большого немецкого города трое молодых людей пытаются, чем могут, зарабатывать себе на жизнь. На улицах беспокойно, появляются первые штурмовики, намекая на возвышение национал-социализма. Бедность и насилие стали обычными спутниками жизни. Для этих троих, дружба является единственной опорой и убежищем от хаоса, царящего в мире. Когда младший из них влюбляется, он приводит молодую женщину в этот круг и их дружбу ждут испытания, которые невозможно было не предвидеть, не предотвратить…
 
 * Правда ~ [Garka](users/115/115753719718250012620-google)<sup>257</sup>
-    > Хорошее описание журналистики изнутри. Книга показалась чуть более жёсткая, чем предыдущие.
 
 * Трещина во времени ~ [Elixir](users/115/115826717712507836033-google)<sup>422</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я змішаю твою кров із вугіллям ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup>
 
-* Садовые чары ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup> 
 [rNix](users/227/22742452-yandex)<sup>68</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>58</sup> 
 [](users/153/1537586159620888-facebook)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>8</sup> 
-[vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
 
 
-_20.07.2020 17:12:38_
+_21.07.2020 07:04:53_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
 * Безсонница ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>127</sup>
 * Три товарища ~ [kissamasya](users/684/68439978-vkontakte)<sup>95</sup>
 * Правда ~ [Garka](users/115/115753719718250012620-google)<sup>257</sup>
@@ -30,7 +31,6 @@
 * Договориться можно обо всем! ~ [Garka](users/115/115753719718250012620-google)<sup>255</sup>
 * Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
-* Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
 
 
-_19.07.2020 12:05:26_
+_21.07.2020 07:04:53_

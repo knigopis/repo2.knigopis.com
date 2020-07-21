@@ -1,7 +1,12 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>69</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>70</sup>
 ---
 
 ## 2020
+
+### В основном безвредна
+Дуглас Адамс
+> [2020-07-21] 10/10
+
 
 ### Пять четвертинок апельсина
 Джоан Харрис
