@@ -1,4 +1,16 @@
 {
+    "u1iNd7ff96": {
+        "id": "u1iNd7ff96",
+        "title": "Японские сказки",
+        "author": "",
+        "notes": "ISBN 978-5-4224-1519-9 с иллюстрациями Уорвика Гобла (Warwick Goble)\nДобрый Гром. Звездные возлюбленные. Ветер в ветвях Сосны. Поиски Огня. Разбитые статуи",
+        "createdAt": "2020-07-21 15:29:39",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 44
+        }
+    },
     "ESq3BsQv_t": {
         "id": "ESq3BsQv_t",
         "title": "В основном безвредна",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 254
-        }
-    },
-    "vcMNgUJfcB": {
-        "id": "vcMNgUJfcB",
-        "title": "Формула. Универсальные законы успеха.",
-        "author": "Альберт-Ласло Барабаши",
-        "notes": "Полезная книга. 8/10",
-        "createdAt": "2020-06-30 01:18:52",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 49
         }
     }
 }

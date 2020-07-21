@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
+    > ISBN 978-5-4224-1519-9 с иллюстрациями Уорвика Гобла (Warwick Goble)
+    > Добрый Гром. Звездные возлюбленные. Ветер в ветвях Сосны. Поиски Огня. Разбитые статуи
+
 * В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
     > 10/10
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 7/10 Приспешники Багряного Короля готовят терракт в Дерри.
 
 * Три товарища ~ [kissamasya](users/684/68439978-vkontakte)<sup>95</sup>
-    > 1928 год. Веймарская Германия. На окраине большого немецкого города трое молодых людей пытаются, чем могут, зарабатывать себе на жизнь. На улицах беспокойно, появляются первые штурмовики, намекая на возвышение национал-социализма. Бедность и насилие стали обычными спутниками жизни. Для этих троих, дружба является единственной опорой и убежищем от хаоса, царящего в мире. Когда младший из них влюбляется, он приводит молодую женщину в этот круг и их дружбу ждут испытания, которые невозможно было не предвидеть, не предотвратить…
 
 * Правда ~ [Garka](users/115/115753719718250012620-google)<sup>257</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хорошо быть тихоней ~ [Elixir](users/115/115826717712507836033-google)<sup>169</sup>
 
-* Я змішаю твою кров із вугіллям ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>86</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>72</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup> 
@@ -57,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>810</sup> 
 [stewardessN4](users/108/108304368373474603096-google)<sup>0</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup> 
 [](users/104/104731829794763834502-google)<sup>11</sup> 
 [En](users/333/333646551-vkontakte)<sup>120</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gray7wand](users/110/110080946273609412257-google)<sup>8</sup> 
 
 
-_21.07.2020 14:19:00_
+_21.07.2020 15:29:39_

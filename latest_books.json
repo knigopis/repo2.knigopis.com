@@ -1,4 +1,16 @@
 {
+    "u1iNd7ff96": {
+        "id": "u1iNd7ff96",
+        "title": "Японские сказки",
+        "author": "",
+        "notes": "ISBN 978-5-4224-1519-9 с иллюстрациями Уорвика Гобла (Warwick Goble)\nДобрый Гром. Звездные возлюбленные. Ветер в ветвях Сосны. Поиски Огня. Разбитые статуи",
+        "createdAt": "2020-07-21 15:29:39",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 44
+        }
+    },
     "SzKv61EMR0": {
         "id": "SzKv61EMR0",
         "title": "Антирак.Новый образ жизни",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 54
-        }
-    },
-    "eD3gu1Ue6L": {
-        "id": "eD3gu1Ue6L",
-        "title": "Жизнь археолога",
-        "author": "В.Н. Даниленко",
-        "notes": "5/10 Биография и выдержки из монографии. Не для широкого круга читателей.",
-        "createdAt": "2020-07-16 14:07:59",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 126
         }
     }
 }
