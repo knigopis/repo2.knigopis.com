@@ -1,4 +1,16 @@
 {
+    "ilfBh3UWTO": {
+        "id": "ilfBh3UWTO",
+        "title": "Ведьмак: Последнее желание",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2020-07-21 09:52:05",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 72
+        }
+    },
     "ESq3BsQv_t": {
         "id": "ESq3BsQv_t",
         "title": "В основном безвредна",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 167
-        }
-    },
-    "Xz5ccR2ARL": {
-        "id": "Xz5ccR2ARL",
-        "title": "Эпоха мёртвых. Прорыв",
-        "author": "Андрей Круз",
-        "notes": "",
-        "createdAt": "2020-07-16 14:06:05",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 162
         }
     }
 }

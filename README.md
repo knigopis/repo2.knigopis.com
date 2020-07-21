@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>72</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup> 
 [rNix](users/227/22742452-yandex)<sup>68</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>58</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Norland](users/118/118077930405328356010-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>810</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>71</sup> 
 [stewardessN4](users/108/108304368373474603096-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup> 
 [](users/104/104731829794763834502-google)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gray7wand](users/110/110080946273609412257-google)<sup>8</sup> 
 
 
-_21.07.2020 07:04:53_
+_21.07.2020 09:52:05_
