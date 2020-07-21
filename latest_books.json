@@ -1,4 +1,16 @@
 {
+    "VElwyh1inN": {
+        "id": "VElwyh1inN",
+        "title": "Похититель детей",
+        "author": "Джеральд Бром",
+        "notes": "",
+        "createdAt": "2020-07-21 16:16:39",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 55
+        }
+    },
     "u1iNd7ff96": {
         "id": "u1iNd7ff96",
         "title": "Японские сказки",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 422
-        }
-    },
-    "N4qqhZhiGF": {
-        "id": "N4qqhZhiGF",
-        "title": "asdf",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-07-16 19:08:31",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 54
         }
     }
 }
