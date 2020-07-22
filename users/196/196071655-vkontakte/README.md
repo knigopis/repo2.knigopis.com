@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>168</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>169</sup>
 ---
 
 ## 2020
+
+### От чужих берегов
+Андрей Круз
+> [2020-07-22] 
+
 
 ### Я! Еду! Домой!
 Андрей Круз
