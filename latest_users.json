@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 59,
+        "updatedAt": "2020-07-22 21:16:52"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -46,12 +52,6 @@
         "nickname": "rNix",
         "booksCount": 68,
         "updatedAt": "2020-07-20 17:12:38"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 58,
-        "updatedAt": "2020-07-20 09:02:26"
     },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",

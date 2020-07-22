@@ -1,7 +1,12 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>58</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>59</sup>
 ---
 
 ## 2020
+
+### Вождь краснокожих
+О. Генри
+> [2020-07-23] 
+
 
 ### Алые паруса
 Александр Грин

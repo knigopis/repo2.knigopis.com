@@ -1,4 +1,16 @@
 {
+    "bmFuoQ_eAp": {
+        "id": "bmFuoQ_eAp",
+        "title": "Вождь краснокожих",
+        "author": "О. Генри",
+        "notes": "",
+        "createdAt": "2020-07-22 21:16:52",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 59
+        }
+    },
     "JEYJfo5iWM": {
         "id": "JEYJfo5iWM",
         "title": "Дури ещё хватает",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 46
-        }
-    },
-    "XVR_cbm-lv": {
-        "id": "XVR_cbm-lv",
-        "title": "Правда",
-        "author": "Пратчетт, Терри",
-        "notes": "Хорошее описание журналистики изнутри. Книга показалась чуть более жёсткая, чем предыдущие.",
-        "createdAt": "2020-07-16 19:59:48",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 257
         }
     }
 }
