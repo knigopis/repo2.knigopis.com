@@ -1,4 +1,16 @@
 {
+    "JEYJfo5iWM": {
+        "id": "JEYJfo5iWM",
+        "title": "Дури ещё хватает",
+        "author": "Стивен Фрай",
+        "notes": "",
+        "createdAt": "2020-07-22 07:58:33",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 217
+        }
+    },
     "RzFW56kUI0": {
         "id": "RzFW56kUI0",
         "title": "От чужих берегов",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 257
-        }
-    },
-    "OQ26s95ZZE": {
-        "id": "OQ26s95ZZE",
-        "title": "фыва",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-07-16 19:27:05",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 55
         }
     }
 }

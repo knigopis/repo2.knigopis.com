@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 217,
+        "updatedAt": "2020-07-22 07:58:33"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 59,
         "updatedAt": "2020-07-07 17:51:27"
-    },
-    "110080946273609412257-google": {
-        "id": "110080946273609412257-google",
-        "nickname": "gray7wand",
-        "booksCount": 8,
-        "updatedAt": "2020-07-06 15:49:47"
     }
 }
