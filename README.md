@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rNix](users/227/22742452-yandex)<sup>69</sup> 
+[rNix](users/227/22742452-yandex)<sup>68</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>59</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>217</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
 
 
-_23.07.2020 08:31:12_
+_23.07.2020 08:31:17_
