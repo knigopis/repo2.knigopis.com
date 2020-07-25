@@ -1,4 +1,4 @@
-# List of books read by Aleks<sup>79</sup>
+# List of books read by Aleks<sup>78</sup>
 ---
 
 ## Other years
@@ -60,10 +60,6 @@
 
 ### Герой
 Ронда Берн
-
-
-### 200 Уроков жизни
-Робин Шарма
 
 
 ### Кто заплачет, когда ты умрёшь?
