@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/117/117835844513813219393-google)<sup>79</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>60</sup> 
 [rNix](users/227/22742452-yandex)<sup>68</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104731829794763834502-google)<sup>11</sup> 
 [En](users/333/333646551-vkontakte)<sup>120</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
 
 
-_23.07.2020 19:04:17_
+_25.07.2020 17:19:46_
