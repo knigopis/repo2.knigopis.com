@@ -1,4 +1,4 @@
-# List of books read by Aleks<sup>79</sup>
+# List of books read by Aleks<sup>78</sup>
 ---
 
 ## Other years
@@ -168,10 +168,6 @@
 
 ### Часы
 Агата Кристи
-
-
-### Добродетель эгоизма
-Айн Рэнд
 
 
 ### «Открытки с того света»
