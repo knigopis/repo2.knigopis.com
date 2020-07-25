@@ -1,4 +1,16 @@
 {
+    "hPk7bCCPRf": {
+        "id": "hPk7bCCPRf",
+        "title": "Источник",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2020-07-25 17:21:21",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 79
+        }
+    },
     "MJ0w_c1xwq": {
         "id": "MJ0w_c1xwq",
         "title": "Домино",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 54
-        }
-    },
-    "mS_tsikllP": {
-        "id": "mS_tsikllP",
-        "title": "В прекрасном и яростном мире (Машинист Мальцев)",
-        "author": "Андрей Платонович Платонов",
-        "notes": "",
-        "createdAt": "2020-07-17 14:39:47",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 48
         }
     }
 }
