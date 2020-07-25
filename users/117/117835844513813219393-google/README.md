@@ -1,4 +1,4 @@
-# List of books read by Aleks<sup>80</sup>
+# List of books read by Aleks<sup>79</sup>
 ---
 
 ## Other years
@@ -209,10 +209,6 @@
 
 ### Книжный вор
 Маркус Зусак
-
-
-### Атлант расправил плечи (1/3 )
-Айн Рэнд
 
 
 ### Маленький принц
