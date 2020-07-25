@@ -1,4 +1,16 @@
 {
+    "kZuHT919e-": {
+        "id": "kZuHT919e-",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-07-25 17:34:37",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 73
+        }
+    },
     "dEFeuy-5HQ": {
         "id": "dEFeuy-5HQ",
         "title": "Имя Розы",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 95
-        }
-    },
-    "kTsET2t2Kx": {
-        "id": "kTsET2t2Kx",
-        "title": "Я! Еду! Домой!",
-        "author": "Андрей Круз",
-        "notes": "",
-        "createdAt": "2020-07-19 07:11:07",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 168
         }
     }
 }

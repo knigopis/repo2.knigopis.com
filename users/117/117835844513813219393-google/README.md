@@ -1,10 +1,14 @@
-# List of books read by Aleks<sup>72</sup>
+# List of books read by Aleks<sup>73</sup>
 ---
 
 ## Other years
 
 ### Посторонний
 Альбер Камю
+
+
+### 451 градус по Фаренгейту
+Рэй Брэдбери
 
 
 ### Имя Розы
