@@ -1,4 +1,4 @@
-# List of books read by Aleks<sup>73</sup>
+# List of books read by Aleks<sup>72</sup>
 ---
 
 ## Other years
@@ -52,10 +52,6 @@
 
 ### Герой
 Ронда Берн
-
-
-### 7 навыков высокоэффективных людей
-Стивен Кови
 
 
 ### Как мыслит человек
