@@ -1,4 +1,4 @@
-# List of books read by Aleks<sup>77</sup>
+# List of books read by Aleks<sup>76</sup>
 ---
 
 ## Other years
@@ -56,10 +56,6 @@
 
 ### Герой
 Ронда Берн
-
-
-### Кто заплачет, когда ты умрёшь?
-Робин Шарма
 
 
 ### 7 навыков высокоэффективных людей
