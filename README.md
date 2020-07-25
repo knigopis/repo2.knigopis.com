@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
+    > Брак даже молодых людей делает старыми, давно знакомыми…
+    > Ночь – пора тоски и метаморфоз.
+
 * Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
     > ISBN 978-5-389-02467-0
     > - За это я и люблю паучков, - заявил Хоул. - Раз не получилось - пробуй еще, и еще, и еще…
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Добрый Гром. Звездные возлюбленные. Ветер в ветвях Сосны. Поиски Огня. Разбитые статуи
 
 * В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
-    > 10/10
 
 * Безсонница ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>127</sup>
 
@@ -28,16 +31,14 @@ Do not use pull requests to make changes here.
 
 * Poland ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>125</sup>
 
-* Хроники смутного времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>194</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup> 
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>60</sup> 
 [rNix](users/227/22742452-yandex)<sup>68</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>217</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>120</sup> 
 
 
-_25.07.2020 17:56:42_
+_25.07.2020 20:44:13_

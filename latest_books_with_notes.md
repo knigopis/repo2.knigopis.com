@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
 * Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
 * Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
 * В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
@@ -30,7 +31,6 @@
 * Правда о деле Гарри Квеберта ~ [En](users/333/333646551-vkontakte)<sup>119</sup>
 * Хозяйка лабиринта ~ [Chiffi](users/105/105831994080785626680-google)<sup>193</sup>
 * Записки о Шерлоке Холмсе ~ [Sky](users/118/118049897850017649660-google)<sup>169</sup>
-* Договориться можно обо всем! ~ [Garka](users/115/115753719718250012620-google)<sup>255</sup>
 
 
-_22.07.2020 23:07:24_
+_25.07.2020 20:44:13_
