@@ -1,4 +1,4 @@
-# List of books read by Aleks<sup>74</sup>
+# List of books read by Aleks<sup>73</sup>
 ---
 
 ## Other years
@@ -48,10 +48,6 @@
 
 ### Атлант расправил плечи (3 книги)
 Айн Рэнд
-
-
-### Тонкое искусство пофигизма
-Марк Мэнсон
 
 
 ### Герой
