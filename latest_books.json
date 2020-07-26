@@ -1,4 +1,16 @@
 {
+    "OHg2JzZs63": {
+        "id": "OHg2JzZs63",
+        "title": "Собор Парижской богоматери",
+        "author": "В. Гюго",
+        "notes": "",
+        "createdAt": "2020-07-26 18:13:17",
+        "user": {
+            "id": "116941085634604796026-google",
+            "nickname": "arcenloup",
+            "booksCount": 3
+        }
+    },
     "Akvt2i5pIg": {
         "id": "Akvt2i5pIg",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 51
-        }
-    },
-    "rqKgr05Men": {
-        "id": "rqKgr05Men",
-        "title": "Горбун",
-        "author": "Артур Конан Дойль",
-        "notes": "",
-        "createdAt": "2020-07-20 08:57:24",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 50
         }
     }
 }
