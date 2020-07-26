@@ -1,4 +1,16 @@
 {
+    "rP9ERnFCCV": {
+        "id": "rP9ERnFCCV",
+        "title": "Как закалялась сталь",
+        "author": "Н. Островский",
+        "notes": "",
+        "createdAt": "2020-07-26 18:14:53",
+        "user": {
+            "id": "116941085634604796026-google",
+            "nickname": "arcenloup",
+            "booksCount": 6
+        }
+    },
     "vAIA2tMokd": {
         "id": "vAIA2tMokd",
         "title": "Высокое искусство",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 54
-        }
-    },
-    "OZqD6rryXj": {
-        "id": "OZqD6rryXj",
-        "title": "Мещерская сторона",
-        "author": "Константин Георгиевич Паустовский",
-        "notes": "",
-        "createdAt": "2020-07-20 08:59:35",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 53
         }
     }
 }

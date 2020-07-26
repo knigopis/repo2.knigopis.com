@@ -1,4 +1,4 @@
-# List of books read by [arcenloup](https://plus.google.com/u/0/116941085634604796026/)<sup>5</sup>
+# List of books read by [arcenloup](https://plus.google.com/u/0/116941085634604796026/)<sup>6</sup>
 ---
 
 ## 2020
@@ -21,6 +21,10 @@
 ### Фома Гордеев
 М. Горький
 > [2020-02] 
+
+
+### Как закалялась сталь
+Н. Островский
 
 
 ### Высокое искусство
