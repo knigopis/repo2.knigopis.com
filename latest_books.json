@@ -1,4 +1,16 @@
 {
+    "qqZ4ZnDQ6O": {
+        "id": "qqZ4ZnDQ6O",
+        "title": "Раковый корпус",
+        "author": "А. И. Солженицын",
+        "notes": "",
+        "createdAt": "2020-07-26 18:11:59",
+        "user": {
+            "id": "116941085634604796026-google",
+            "nickname": "arcenloup",
+            "booksCount": 1
+        }
+    },
     "Qi12ukz8w6": {
         "id": "Qi12ukz8w6",
         "title": "История с привидением",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 24
-        }
-    },
-    "uDZlnXiD0h": {
-        "id": "uDZlnXiD0h",
-        "title": "Великий Бартини. \"Воланд\" советской авиации",
-        "author": "Н. В. Якубович",
-        "notes": "",
-        "createdAt": "2020-07-19 13:59:32",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 57
         }
     }
 }
