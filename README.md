@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116941085634604796026-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>62</sup> 
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>810</sup> 
 [stewardessN4](users/108/108304368373474603096-google)<sup>0</sup> 
 [](users/104/104731829794763834502-google)<sup>11</sup> 
-[En](users/333/333646551-vkontakte)<sup>120</sup> 
 
 
-_25.07.2020 23:56:12_
+_26.07.2020 18:08:14_
