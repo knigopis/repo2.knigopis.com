@@ -1,7 +1,12 @@
-# List of books read by [arcenloup](https://plus.google.com/u/0/116941085634604796026/)<sup>9</sup>
+# List of books read by [arcenloup](https://plus.google.com/u/0/116941085634604796026/)<sup>10</sup>
 ---
 
 ## 2020
+
+### Палата #6
+А. П. Чехов
+> [2020-07-26] 
+
 
 ### Раковый корпус
 А. И. Солженицын

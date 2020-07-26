@@ -1,4 +1,16 @@
 {
+    "LrR5mFG35e": {
+        "id": "LrR5mFG35e",
+        "title": "Палата #6",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2020-07-26 18:54:44",
+        "user": {
+            "id": "116941085634604796026-google",
+            "nickname": "arcenloup",
+            "booksCount": 10
+        }
+    },
     "X9Wd4GVtn8": {
         "id": "X9Wd4GVtn8",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 58
-        }
-    },
-    "RYxuCa6_5Q": {
-        "id": "RYxuCa6_5Q",
-        "title": "Сказание о Кише",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2020-07-20 09:01:49",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 57
         }
     }
 }
