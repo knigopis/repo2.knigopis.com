@@ -1,4 +1,16 @@
 {
+    "Akvt2i5pIg": {
+        "id": "Akvt2i5pIg",
+        "title": "Граф Монте-Кристо",
+        "author": "А. Дюма",
+        "notes": "",
+        "createdAt": "2020-07-26 18:12:39",
+        "user": {
+            "id": "116941085634604796026-google",
+            "nickname": "arcenloup",
+            "booksCount": 2
+        }
+    },
     "qqZ4ZnDQ6O": {
         "id": "qqZ4ZnDQ6O",
         "title": "Раковый корпус",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 50
-        }
-    },
-    "gvJaiqMCpW": {
-        "id": "gvJaiqMCpW",
-        "title": "Я хочу быть с тобой",
-        "author": "Наталья Толстая",
-        "notes": "",
-        "createdAt": "2020-07-19 22:08:42",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 24
         }
     }
 }
