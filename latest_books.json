@@ -1,4 +1,16 @@
 {
+    "vAIA2tMokd": {
+        "id": "vAIA2tMokd",
+        "title": "Высокое искусство",
+        "author": "К. Чуковский",
+        "notes": "",
+        "createdAt": "2020-07-26 18:14:14",
+        "user": {
+            "id": "116941085634604796026-google",
+            "nickname": "arcenloup",
+            "booksCount": 5
+        }
+    },
     "6pzekuEoOO": {
         "id": "6pzekuEoOO",
         "title": "Фома Гордеев",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 53
-        }
-    },
-    "kUI_g6UkAk": {
-        "id": "kUI_g6UkAk",
-        "title": "Мальчик у Христа на ёлке",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2020-07-20 08:58:57",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 52
         }
     }
 }
