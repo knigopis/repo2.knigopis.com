@@ -1,4 +1,16 @@
 {
+    "X9Wd4GVtn8": {
+        "id": "X9Wd4GVtn8",
+        "title": "Мы",
+        "author": "Е. Замятин",
+        "notes": "",
+        "createdAt": "2020-07-26 18:17:26",
+        "user": {
+            "id": "116941085634604796026-google",
+            "nickname": "arcenloup",
+            "booksCount": 9
+        }
+    },
     "_wiIuwoHVJ": {
         "id": "_wiIuwoHVJ",
         "title": "Вокруг света за 80 дней",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 57
-        }
-    },
-    "ZNGkhInVbV": {
-        "id": "ZNGkhInVbV",
-        "title": "Налим",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2020-07-20 09:01:25",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 56
         }
     }
 }
