@@ -1,4 +1,16 @@
 {
+    "e8xg-C4KCf": {
+        "id": "e8xg-C4KCf",
+        "title": "Мертвый Лерой",
+        "author": "Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-07-27 13:20:50",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 170
+        }
+    },
     "wAdawQ_dlI": {
         "id": "wAdawQ_dlI",
         "title": "Пиковая дама",
@@ -345,18 +357,6 @@
             "id": "22742452-yandex",
             "nickname": "rNix",
             "booksCount": 68
-        }
-    },
-    "ejbtQHY-Mc": {
-        "id": "ejbtQHY-Mc",
-        "title": "Демо1",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-07-20 17:03:28",
-        "user": {
-            "id": "22742452-yandex",
-            "nickname": "rNix",
-            "booksCount": 67
         }
     }
 }

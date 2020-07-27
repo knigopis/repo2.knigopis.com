@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 170,
+        "updatedAt": "2020-07-27 13:20:50"
+    },
     "5189131938484800934-mailru": {
         "id": "5189131938484800934-mailru",
         "nickname": "Катя Овсийчук",
@@ -46,12 +52,6 @@
         "nickname": "borodach",
         "booksCount": 217,
         "updatedAt": "2020-07-22 07:58:33"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 169,
-        "updatedAt": "2020-07-22 02:30:58"
     },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",

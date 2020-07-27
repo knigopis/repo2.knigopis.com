@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>169</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>170</sup>
 ---
 
 ## 2020
+
+### Мертвый Лерой
+Андрей Круз
+> [2020-07-27] 
+
 
 ### От чужих берегов
 Андрей Круз
