@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Катя Овсийчук](users/518/5189131938484800934-mailru)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>63</sup> 
 [arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>810</sup> 
 [stewardessN4](users/108/108304368373474603096-google)<sup>0</sup> 
-[](users/104/104731829794763834502-google)<sup>11</sup> 
 
 
-_27.07.2020 00:19:18_
+_27.07.2020 11:46:35_
