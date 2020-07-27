@@ -36,8 +36,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>63</sup> 
 [arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>62</sup> 
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
 [rNix](users/227/22742452-yandex)<sup>68</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104731829794763834502-google)<sup>11</sup> 
 
 
-_26.07.2020 18:54:44_
+_27.07.2020 00:19:18_
