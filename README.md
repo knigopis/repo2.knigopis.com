@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>141</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>170</sup> 
 [Катя Овсийчук](users/518/5189131938484800934-mailru)<sup>0</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>24</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>57</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>132</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>95</sup> 
 [Лариса](users/857/8574185466665758458-mailru)<sup>0</sup> 
 [](users/113/113682488001865717231-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>257</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>810</sup> 
 
 
-_27.07.2020 17:23:16_
+_27.07.2020 17:59:40_

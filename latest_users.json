@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 96,
+        "updatedAt": "2020-07-27 17:59:40"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -100,12 +106,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 132,
         "updatedAt": "2020-07-19 12:22:05"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 95,
-        "updatedAt": "2020-07-19 11:42:02"
     },
     "8574185466665758458-mailru": {
         "id": "8574185466665758458-mailru",

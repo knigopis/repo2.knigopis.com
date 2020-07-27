@@ -1,4 +1,16 @@
 {
+    "8XWUqsTqH8": {
+        "id": "8XWUqsTqH8",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2020-07-27 17:59:40",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 96
+        }
+    },
     "pmWS4dh58o": {
         "id": "pmWS4dh58o",
         "title": "ка",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 72
-        }
-    },
-    "ESq3BsQv_t": {
-        "id": "ESq3BsQv_t",
-        "title": "В основном безвредна",
-        "author": "Дуглас Адамс",
-        "notes": "10/10",
-        "createdAt": "2020-07-21 07:04:53",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 70
         }
     }
 }
