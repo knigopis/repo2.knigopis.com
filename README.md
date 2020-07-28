@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
+    > Отличная книга о зарождении классики мировой игровой индустрии. Толстая, но пролетела на одном дыхании. Очень наглядно показывает, откуда все взялось и почему сдохло. Категорически рекомендую всем, кто в теме ;)
+
 * Михаил Хазин ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup>
     > в процессе
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная прикладная книжка о приведении своего окружения, пространства, себя наконец в порядок. Просто, коротко, доходчиво.
 
 * Японские народные сказки ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup>
-    > Отлично идет, неспешное вечернее чтение себе и детям. Неожиданно глубокая философия - как, впрочем, в сказках многих древних народов.
-    > 
-    > в процессе
 
 * Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Три товарища ~ [kissamasya](users/684/68439978-vkontakte)<sup>95</sup>
 
-* Правда ~ [Garka](users/115/115753719718250012620-google)<sup>257</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>141</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>170</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
 
 
-_28.07.2020 09:00:54_
+_28.07.2020 09:02:06_
