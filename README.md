@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
+    > Отличная прикладная книжка о приведении своего окружения, пространства, себя наконец в порядок. Просто, коротко, доходчиво.
+
 * Японские народные сказки ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup>
     > Отлично идет, неспешное вечернее чтение себе и детям. Неожиданно глубокая философия - как, впрочем, в сказках многих древних народов.
     > 
@@ -15,8 +18,6 @@ Do not use pull requests to make changes here.
     > Ночь – пора тоски и метаморфоз.
 
 * Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
-    > ISBN 978-5-389-02467-0
-    > - За это я и люблю паучков, - заявил Хоул. - Раз не получилось - пробуй еще, и еще, и еще…
 
 * Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
 
@@ -30,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Трещина во времени ~ [Elixir](users/115/115826717712507836033-google)<sup>422</sup>
 
-* Жизнь археолога ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>126</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>141</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>170</sup> 
@@ -69,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
 
 
-_28.07.2020 08:57:35_
+_28.07.2020 08:59:15_
