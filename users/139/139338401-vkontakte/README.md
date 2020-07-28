@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>86</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>87</sup>
 ---
 
 ## 2020
+
+### Уникальный экземпляр
+Том Хэнкс
+> [2020-07-28] 
+
 
 ### Антирак.Новый образ жизни
 Давид Серван-Шрейбер

@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 87,
+        "updatedAt": "2020-07-28 12:58:29"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -76,12 +82,6 @@
         "nickname": "Антенка",
         "booksCount": 55,
         "updatedAt": "2020-07-21 16:16:39"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 86,
-        "updatedAt": "2020-07-21 14:19:00"
     },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",

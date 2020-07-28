@@ -1,4 +1,16 @@
 {
+    "UmhvnhjQsf": {
+        "id": "UmhvnhjQsf",
+        "title": "Уникальный экземпляр",
+        "author": "Том Хэнкс",
+        "notes": "",
+        "createdAt": "2020-07-28 12:58:29",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 87
+        }
+    },
     "1A4jBJIIxJ": {
         "id": "1A4jBJIIxJ",
         "title": "Повелители DOOM",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 217
-        }
-    },
-    "RzFW56kUI0": {
-        "id": "RzFW56kUI0",
-        "title": "От чужих берегов",
-        "author": "Андрей Круз",
-        "notes": "",
-        "createdAt": "2020-07-22 02:30:58",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 169
         }
     }
 }
