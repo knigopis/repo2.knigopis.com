@@ -1,4 +1,16 @@
 {
+    "mStEZrWfPu": {
+        "id": "mStEZrWfPu",
+        "title": "Михаил Хазин",
+        "author": "Воспоминания о будущем",
+        "notes": "в процессе",
+        "createdAt": "2020-07-28 09:00:54",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 237
+        }
+    },
     "X7HCB4WpKf": {
         "id": "X7HCB4WpKf",
         "title": "Магическая уборка",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 55
-        }
-    },
-    "u1iNd7ff96": {
-        "id": "u1iNd7ff96",
-        "title": "Японские сказки",
-        "author": "",
-        "notes": "ISBN 978-5-4224-1519-9 с иллюстрациями Уорвика Гобла (Warwick Goble)\nДобрый Гром. Звездные возлюбленные. Ветер в ветвях Сосны. Поиски Огня. Разбитые статуи",
-        "createdAt": "2020-07-21 15:29:39",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 44
         }
     }
 }

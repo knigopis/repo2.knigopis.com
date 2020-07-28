@@ -1,7 +1,12 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>236</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>237</sup>
 ---
 
 ## 2020
+
+### Михаил Хазин
+Воспоминания о будущем
+> [2020-07-26] в процессе
+
 
 ### Магическая уборка
 Мари Кондо

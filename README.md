@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Михаил Хазин ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup>
+    > в процессе
+
 * Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
     > Отличная прикладная книжка о приведении своего окружения, пространства, себя наконец в порядок. Просто, коротко, доходчиво.
 
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
-    > Брак даже молодых людей делает старыми, давно знакомыми…
-    > Ночь – пора тоски и метаморфоз.
 
 * Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
 
@@ -29,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Правда ~ [Garka](users/115/115753719718250012620-google)<sup>257</sup>
 
-* Трещина во времени ~ [Elixir](users/115/115826717712507836033-google)<sup>422</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>141</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>170</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
 
 
-_28.07.2020 08:59:15_
+_28.07.2020 09:00:54_
