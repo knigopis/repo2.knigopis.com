@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Японские народные сказки ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup>
+    > Отлично идет, неспешное вечернее чтение себе и детям. Неожиданно глубокая философия - как, впрочем, в сказках многих древних народов.
+    > 
+    > в процессе
+
 * Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
     > Брак даже молодых людей делает старыми, давно знакомыми…
     > Ночь – пора тоски и метаморфоз.
@@ -14,8 +19,6 @@ Do not use pull requests to make changes here.
     > - За это я и люблю паучков, - заявил Хоул. - Раз не получилось - пробуй еще, и еще, и еще…
 
 * Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
-    > ISBN 978-5-4224-1519-9 с иллюстрациями Уорвика Гобла (Warwick Goble)
-    > Добрый Гром. Звездные возлюбленные. Ветер в ветвях Сосны. Поиски Огня. Разбитые статуи
 
 * В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Жизнь археолога ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>126</sup>
 
-* Poland ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>125</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>141</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>170</sup> 
@@ -65,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>127</sup> 
 [Norland](users/118/118077930405328356010-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>102</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>810</sup> 
 
 
-_27.07.2020 17:59:40_
+_28.07.2020 08:57:35_

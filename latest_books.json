@@ -1,4 +1,16 @@
 {
+    "LHQ6vy9sSJ": {
+        "id": "LHQ6vy9sSJ",
+        "title": "Японские народные сказки",
+        "author": "",
+        "notes": "Отлично идет, неспешное вечернее чтение себе и детям. Неожиданно глубокая философия - как, впрочем, в сказках многих древних народов.\n\nв процессе",
+        "createdAt": "2020-07-28 08:57:35",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 235
+        }
+    },
     "8XWUqsTqH8": {
         "id": "8XWUqsTqH8",
         "title": "Унесенные ветром",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 86
-        }
-    },
-    "ilfBh3UWTO": {
-        "id": "ilfBh3UWTO",
-        "title": "Ведьмак: Последнее желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-07-21 09:52:05",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 72
         }
     }
 }

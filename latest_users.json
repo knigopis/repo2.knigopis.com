@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 235,
+        "updatedAt": "2020-07-28 08:57:35"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 102,
         "updatedAt": "2020-07-12 18:38:33"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 810,
-        "updatedAt": "2020-07-12 14:29:21"
     }
 }
