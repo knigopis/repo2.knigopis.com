@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Влад](users/113/113025816040423789055-google)<sup>0</sup> 
 [](users/106/106033731903118559839-google)<sup>0</sup> 
 [allicefoxalice](users/138/138247248-vkontakte)<sup>0</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>132</sup> 
 [Лариса](users/857/8574185466665758458-mailru)<sup>0</sup> 
 [](users/113/113682488001865717231-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>257</sup> 
 
 
-_29.07.2020 21:55:20_
+_29.07.2020 23:41:32_
