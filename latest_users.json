@@ -1,4 +1,10 @@
 {
+    "106033731903118559839-google": {
+        "id": "106033731903118559839-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-07-29 21:55:20"
+    },
     "138247248-vkontakte": {
         "id": "138247248-vkontakte",
         "nickname": "allicefoxalice",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 257,
         "updatedAt": "2020-07-16 19:59:48"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 55,
-        "updatedAt": "2020-07-16 19:27:05"
     }
 }
