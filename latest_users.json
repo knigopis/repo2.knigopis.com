@@ -1,4 +1,10 @@
 {
+    "130161321-vkontakte": {
+        "id": "130161321-vkontakte",
+        "nickname": "kuzzzya_99",
+        "booksCount": 0,
+        "updatedAt": "2020-07-29 18:19:33"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 194,
         "updatedAt": "2020-07-14 19:49:57"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 111,
-        "updatedAt": "2020-07-14 14:55:09"
     }
 }
