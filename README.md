@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alina_mot](users/103/103322968684647562714-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>60</sup> 
-[alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>87</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>111</sup> 
 
 
-_29.07.2020 09:23:57_
+_29.07.2020 10:17:27_
