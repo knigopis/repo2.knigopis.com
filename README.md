@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[allicefoxalice](users/138/138247248-vkontakte)<sup>0</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
 [](users/231/231441200-vkontakte)<sup>0</sup> 
 [kuzzzya_99](users/130/130161321-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113682488001865717231-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>257</sup> 
 [me](users/381/381417697-yandex)<sup>55</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>422</sup> 
 
 
-_29.07.2020 19:44:17_
+_29.07.2020 21:12:07_
