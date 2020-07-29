@@ -1,4 +1,16 @@
 {
+    "fLYPxFJBAO": {
+        "id": "fLYPxFJBAO",
+        "title": "апв",
+        "author": "вп",
+        "notes": "ва",
+        "createdAt": "2020-07-29 19:44:09",
+        "user": {
+            "id": "2417202-vkontakte",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "Dolpj2NFT5": {
         "id": "Dolpj2NFT5",
         "title": "Возвращение примитива",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 79
-        }
-    },
-    "MJ0w_c1xwq": {
-        "id": "MJ0w_c1xwq",
-        "title": "Домино",
-        "author": "Эрнест Сетон-Томпсон",
-        "notes": "",
-        "createdAt": "2020-07-23 19:04:17",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 60
         }
     }
 }
