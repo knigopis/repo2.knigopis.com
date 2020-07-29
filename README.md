@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>60</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>87</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tanusha](users/106/106286047866366932213-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>194</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>111</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>127</sup> 
 
 
-_29.07.2020 06:02:36_
+_29.07.2020 09:23:57_

@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 60,
+        "updatedAt": "2020-07-29 09:23:57"
+    },
     "103322968684647562714-google": {
         "id": "103322968684647562714-google",
         "nickname": "alina_mot",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 111,
         "updatedAt": "2020-07-14 14:55:09"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 127,
-        "updatedAt": "2020-07-13 17:58:50"
     }
 }

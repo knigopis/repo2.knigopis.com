@@ -1,4 +1,16 @@
 {
+    "zeL0AqfMta": {
+        "id": "zeL0AqfMta",
+        "title": "Гимн",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2020-07-29 09:23:57",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 60
+        }
+    },
     "UmhvnhjQsf": {
         "id": "UmhvnhjQsf",
         "title": "Уникальный экземпляр",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 59
-        }
-    },
-    "JEYJfo5iWM": {
-        "id": "JEYJfo5iWM",
-        "title": "Дури ещё хватает",
-        "author": "Стивен Фрай",
-        "notes": "",
-        "createdAt": "2020-07-22 07:58:33",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 217
         }
     }
 }
