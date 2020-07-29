@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>72</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>73</sup>
 ---
 
 ## 2020
+
+### Статский Советник
+Борис Акунин
+
 
 ### Ведьмак: Последнее желание
 Анджей Сапковский

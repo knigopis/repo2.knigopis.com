@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 73,
+        "updatedAt": "2020-07-29 12:33:24"
+    },
     "103322968684647562714-google": {
         "id": "103322968684647562714-google",
         "nickname": "alina_mot",
@@ -100,12 +106,6 @@
         "nickname": "Антенка",
         "booksCount": 55,
         "updatedAt": "2020-07-21 16:16:39"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 72,
-        "updatedAt": "2020-07-21 09:52:05"
     },
     "310646815-vkontakte": {
         "id": "310646815-vkontakte",

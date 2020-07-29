@@ -1,4 +1,16 @@
 {
+    "m8dm_iNG27": {
+        "id": "m8dm_iNG27",
+        "title": "Статский Советник",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2020-07-29 12:33:24",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 73
+        }
+    },
     "N6MCUglOfg": {
         "id": "N6MCUglOfg",
         "title": "Подпоручик Киже",
@@ -345,18 +357,6 @@
             "id": "22742452-yandex",
             "nickname": "rNix",
             "booksCount": 69
-        }
-    },
-    "JnMuBQkuBr": {
-        "id": "JnMuBQkuBr",
-        "title": "Ходячий замок",
-        "author": "Диана Уинн Джонс",
-        "notes": "ISBN 978-5-389-02467-0\n- За это я и люблю паучков, - заявил Хоул. - Раз не получилось - пробуй еще, и еще, и еще…",
-        "createdAt": "2020-07-22 23:07:24",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 45
         }
     }
 }
