@@ -1,4 +1,10 @@
 {
+    "103322968684647562714-google": {
+        "id": "103322968684647562714-google",
+        "nickname": "alina_mot",
+        "booksCount": 0,
+        "updatedAt": "2020-07-29 06:02:36"
+    },
     "114765710951931448001-google": {
         "id": "114765710951931448001-google",
         "nickname": "Aloof1227",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 127,
         "updatedAt": "2020-07-13 17:58:50"
-    },
-    "118077930405328356010-google": {
-        "id": "118077930405328356010-google",
-        "nickname": "Norland",
-        "booksCount": 0,
-        "updatedAt": "2020-07-13 13:11:12"
     }
 }
