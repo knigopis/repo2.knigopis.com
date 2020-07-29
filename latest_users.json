@@ -1,4 +1,10 @@
 {
+    "138247248-vkontakte": {
+        "id": "138247248-vkontakte",
+        "nickname": "allicefoxalice",
+        "booksCount": 0,
+        "updatedAt": "2020-07-29 21:12:07"
+    },
     "2417202-vkontakte": {
         "id": "2417202-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 55,
         "updatedAt": "2020-07-16 19:27:05"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": "Elixir",
-        "booksCount": 422,
-        "updatedAt": "2020-07-16 19:12:45"
     }
 }
