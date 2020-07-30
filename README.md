@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elochka](users/106/106611396170683247429-google)<sup>0</sup> 
+[elochka](users/106/106611396170683247429-google)<sup>1</sup> 
 [Влад](users/113/113025816040423789055-google)<sup>1</sup> 
 [](users/106/106033731903118559839-google)<sup>0</sup> 
 [allicefoxalice](users/138/138247248-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лариса](users/857/8574185466665758458-mailru)<sup>0</sup> 
 
 
-_30.07.2020 18:11:21_
+_30.07.2020 18:12:25_
