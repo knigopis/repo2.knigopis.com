@@ -1,4 +1,10 @@
 {
+    "106611396170683247429-google": {
+        "id": "106611396170683247429-google",
+        "nickname": "elochka",
+        "booksCount": 0,
+        "updatedAt": "2020-07-30 18:11:20"
+    },
     "113025816040423789055-google": {
         "id": "113025816040423789055-google",
         "nickname": "Влад",
@@ -172,11 +178,5 @@
         "nickname": "Лариса",
         "booksCount": 0,
         "updatedAt": "2020-07-18 21:16:06"
-    },
-    "113682488001865717231-google": {
-        "id": "113682488001865717231-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-07-16 22:12:35"
     }
 }
