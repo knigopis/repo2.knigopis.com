@@ -1,4 +1,16 @@
 {
+    "RZmR97q-eP": {
+        "id": "RZmR97q-eP",
+        "title": "Над пропастью во ржи",
+        "author": "Джерелом Д Селинжер",
+        "notes": "",
+        "createdAt": "2020-07-31 23:16:28",
+        "user": {
+            "id": "106033731903118559839-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "aQAxjfSMDe": {
         "id": "aQAxjfSMDe",
         "title": "Замок отравителей",
@@ -345,18 +357,6 @@
             "id": "116941085634604796026-google",
             "nickname": "arcenloup",
             "booksCount": 5
-        }
-    },
-    "6pzekuEoOO": {
-        "id": "6pzekuEoOO",
-        "title": "Фома Гордеев",
-        "author": "М. Горький",
-        "notes": "",
-        "createdAt": "2020-07-26 18:13:51",
-        "user": {
-            "id": "116941085634604796026-google",
-            "nickname": "arcenloup",
-            "booksCount": 4
         }
     }
 }
