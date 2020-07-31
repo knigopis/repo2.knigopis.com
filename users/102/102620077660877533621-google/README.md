@@ -1,7 +1,12 @@
-# List of books read by [Axxyniron](https://plus.google.com/u/0/102620077660877533621/)<sup>1</sup>
+# List of books read by [Axxyniron](https://plus.google.com/u/0/102620077660877533621/)<sup>2</sup>
 ---
 
 ## 2020
+
+### Три товарища
+Эрих Мария Ремарк
+> [2020-07-20] Великая история о дружбе, больше о дружбе, чем о любви
+
 
 ### 13 Reasons Why
 Asher.J
