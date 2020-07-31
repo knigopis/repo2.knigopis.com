@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>87</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>88</sup>
 ---
 
 ## 2020
+
+### Куриный бульон для души
+Джек Кэнфилд
+> [2020-07-31] 
+
 
 ### Уникальный экземпляр
 Том Хэнкс

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>218</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>112</sup> 
 [elochka](users/106/106611396170683247429-google)<sup>1</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>73</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>1</sup> 
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>87</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>141</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>132</sup> 
 
 
-_31.07.2020 11:07:27_
+_31.07.2020 13:17:54_
