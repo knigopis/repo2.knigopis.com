@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ..",
+        "booksCount": 112,
+        "updatedAt": "2020-07-31 05:37:08"
+    },
     "106611396170683247429-google": {
         "id": "106611396170683247429-google",
         "nickname": "elochka",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 132,
         "updatedAt": "2020-07-19 12:22:05"
-    },
-    "8574185466665758458-mailru": {
-        "id": "8574185466665758458-mailru",
-        "nickname": "Лариса",
-        "booksCount": 0,
-        "updatedAt": "2020-07-18 21:16:06"
     }
 }

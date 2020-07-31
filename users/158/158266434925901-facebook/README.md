@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>111</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>112</sup>
 ---
 
 ## 2020
+
+### Хьюго Касс: наблюдая за смертью
+Роман Гусев
+> [2020-07-30] 
+
 
 ### Элеанор Олифант в полном порядке
 Гейл Ханимен
