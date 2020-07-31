@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Axxyniron](users/102/102620077660877533621-google)<sup>0</sup> 
+[Axxyniron](users/102/102620077660877533621-google)<sup>1</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>218</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>112</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>57</sup> 
 
 
-_31.07.2020 19:24:15_
+_31.07.2020 19:25:50_
