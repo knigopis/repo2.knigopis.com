@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Axxyniron](users/102/102620077660877533621-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>218</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>112</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup> 
 [](users/153/1537586159620888-facebook)<sup>24</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>57</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>132</sup> 
 
 
-_31.07.2020 13:17:54_
+_31.07.2020 19:24:15_
