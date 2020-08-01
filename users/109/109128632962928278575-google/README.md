@@ -1,7 +1,11 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>24</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>25</sup>
 ---
 
 ## 2020
+
+### Бэтмен. Книга 2
+> [2020-06] 
+
 
 ### Бэтмен. Книга 1
 > [2020-06] 
