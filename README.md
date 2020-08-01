@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
+    > 7/10
+
 * Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
     > Отличная книга о зарождении классики мировой игровой индустрии. Толстая, но пролетела на одном дыхании. Очень наглядно показывает, откуда все взялось и почему сдохло. Категорически рекомендую всем, кто в теме ;)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
-    > Отличная прикладная книжка о приведении своего окружения, пространства, себя наконец в порядок. Просто, коротко, доходчиво.
 
 * Японские народные сказки ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Безсонница ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>127</sup>
 
-* Три товарища ~ [kissamasya](users/684/68439978-vkontakte)<sup>95</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>142</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>27</sup> 
 [](users/106/106033731903118559839-google)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>46</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>141</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>170</sup> 
 [Катя Овсийчук](users/518/5189131938484800934-mailru)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>63</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>24</sup> 
 
 
-_01.08.2020 20:20:31_
+_01.08.2020 22:30:05_

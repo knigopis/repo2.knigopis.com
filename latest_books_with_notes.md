@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
 * Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
 * Михаил Хазин ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup>
 * Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
@@ -30,7 +31,6 @@
 * Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
 * Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
 * Полный набор: Месть темной эльфийки ~ [gray7wand](users/110/110080946273609412257-google)<sup>5</sup>
-* Практическая демонология ~ [gray7wand](users/110/110080946273609412257-google)<sup>4</sup>
 
 
-_28.07.2020 09:02:06_
+_01.08.2020 22:30:05_

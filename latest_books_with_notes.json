@@ -1,4 +1,16 @@
 {
+    "TvbqM_iOC9": {
+        "id": "TvbqM_iOC9",
+        "title": "SNUFF",
+        "author": "Виктор Пелевин",
+        "notes": "7/10",
+        "createdAt": "2020-08-01 22:30:04",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 142
+        }
+    },
     "1A4jBJIIxJ": {
         "id": "1A4jBJIIxJ",
         "title": "Повелители DOOM",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 5
-        }
-    },
-    "khF3NXrc6C": {
-        "id": "khF3NXrc6C",
-        "title": "Практическая демонология",
-        "author": "Елена Кароль",
-        "notes": "7/10",
-        "createdAt": "2020-07-05 21:22:55",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 4
         }
     }
 }

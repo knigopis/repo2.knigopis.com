@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 142,
+        "updatedAt": "2020-08-01 22:30:04"
+    },
     "109128632962928278575-google": {
         "id": "109128632962928278575-google",
         "nickname": "Joxxy",
@@ -112,12 +118,6 @@
         "nickname": "kissamasya",
         "booksCount": 96,
         "updatedAt": "2020-07-27 17:59:40"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 141,
-        "updatedAt": "2020-07-27 17:23:16"
     },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "TvbqM_iOC9": {
+        "id": "TvbqM_iOC9",
+        "title": "SNUFF",
+        "author": "Виктор Пелевин",
+        "notes": "7/10",
+        "createdAt": "2020-08-01 22:30:04",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 142
+        }
+    },
     "ZYqo-5Ghx4": {
         "id": "ZYqo-5Ghx4",
         "title": "Бэтмен. Книга 4",
@@ -345,18 +357,6 @@
             "id": "116941085634604796026-google",
             "nickname": "arcenloup",
             "booksCount": 10
-        }
-    },
-    "X9Wd4GVtn8": {
-        "id": "X9Wd4GVtn8",
-        "title": "Мы",
-        "author": "Е. Замятин",
-        "notes": "",
-        "createdAt": "2020-07-26 18:17:26",
-        "user": {
-            "id": "116941085634604796026-google",
-            "nickname": "arcenloup",
-            "booksCount": 9
         }
     }
 }
