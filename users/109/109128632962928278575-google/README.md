@@ -1,7 +1,11 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>26</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>27</sup>
 ---
 
 ## 2020
+
+### Бэтмен. Книга 4
+> [2020-06] 
+
 
 ### Бэтмен. Книга 3
 > [2020-06] 
