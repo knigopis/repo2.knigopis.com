@@ -1,4 +1,16 @@
 {
+    "fwTWhSjgiC": {
+        "id": "fwTWhSjgiC",
+        "title": "Бэтмен. Книга 1",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-08-01 20:20:12",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 24
+        }
+    },
     "RZmR97q-eP": {
         "id": "RZmR97q-eP",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "116941085634604796026-google",
             "nickname": "arcenloup",
             "booksCount": 6
-        }
-    },
-    "vAIA2tMokd": {
-        "id": "vAIA2tMokd",
-        "title": "Высокое искусство",
-        "author": "К. Чуковский",
-        "notes": "",
-        "createdAt": "2020-07-26 18:14:14",
-        "user": {
-            "id": "116941085634604796026-google",
-            "nickname": "arcenloup",
-            "booksCount": 5
         }
     }
 }
