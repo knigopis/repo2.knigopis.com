@@ -1,4 +1,16 @@
 {
+    "g9U0eeE1GR": {
+        "id": "g9U0eeE1GR",
+        "title": "Бэтмен. Книга 3",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-08-01 20:20:25",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 26
+        }
+    },
     "Rez8mY3ygU": {
         "id": "Rez8mY3ygU",
         "title": "Бэтмен. Книга 2",
@@ -345,18 +357,6 @@
             "id": "116941085634604796026-google",
             "nickname": "arcenloup",
             "booksCount": 8
-        }
-    },
-    "MOllq5LEWf": {
-        "id": "MOllq5LEWf",
-        "title": "Театр",
-        "author": "С. Моэм",
-        "notes": "",
-        "createdAt": "2020-07-26 18:15:23",
-        "user": {
-            "id": "116941085634604796026-google",
-            "nickname": "arcenloup",
-            "booksCount": 7
         }
     }
 }
