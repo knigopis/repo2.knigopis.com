@@ -1,4 +1,10 @@
 {
+    "193873058-vkontakte": {
+        "id": "193873058-vkontakte",
+        "nickname": "nurvkonsetunela",
+        "booksCount": 0,
+        "updatedAt": "2020-08-02 11:05:06"
+    },
     "111978052714957627223-google": {
         "id": "111978052714957627223-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 55,
         "updatedAt": "2020-07-21 16:16:39"
-    },
-    "310646815-vkontakte": {
-        "id": "310646815-vkontakte",
-        "nickname": "stamovashahzada",
-        "booksCount": 70,
-        "updatedAt": "2020-07-21 07:04:53"
     }
 }
