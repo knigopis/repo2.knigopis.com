@@ -1,4 +1,16 @@
 {
+    "o0bTzLoASq": {
+        "id": "o0bTzLoASq",
+        "title": "Текст",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2020-08-02 11:07:22",
+        "user": {
+            "id": "193873058-vkontakte",
+            "nickname": "nurvkonsetunela",
+            "booksCount": 1
+        }
+    },
     "ifpWKcOeoB": {
         "id": "ifpWKcOeoB",
         "title": "Сияние",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 170
-        }
-    },
-    "wAdawQ_dlI": {
-        "id": "wAdawQ_dlI",
-        "title": "Пиковая дама",
-        "author": "Александр Сергеевич Пушкин",
-        "notes": "",
-        "createdAt": "2020-07-27 00:19:18",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 63
         }
     }
 }
