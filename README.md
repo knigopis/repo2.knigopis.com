@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/111/111978052714957627223-google)<sup>0</sup> 
+[](users/111/111978052714957627223-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>142</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>27</sup> 
 [](users/106/106033731903118559839-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup> 
 
 
-_02.08.2020 07:30:11_
+_02.08.2020 07:30:54_

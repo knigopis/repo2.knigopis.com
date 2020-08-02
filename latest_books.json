@@ -1,4 +1,16 @@
 {
+    "ifpWKcOeoB": {
+        "id": "ifpWKcOeoB",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-08-02 07:30:54",
+        "user": {
+            "id": "111978052714957627223-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "TvbqM_iOC9": {
         "id": "TvbqM_iOC9",
         "title": "SNUFF",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 63
-        }
-    },
-    "LrR5mFG35e": {
-        "id": "LrR5mFG35e",
-        "title": "Палата #6",
-        "author": "А. П. Чехов",
-        "notes": "",
-        "createdAt": "2020-07-26 18:54:44",
-        "user": {
-            "id": "116941085634604796026-google",
-            "nickname": "arcenloup",
-            "booksCount": 10
         }
     }
 }
