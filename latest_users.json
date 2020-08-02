@@ -1,4 +1,10 @@
 {
+    "111978052714957627223-google": {
+        "id": "111978052714957627223-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-08-02 07:30:11"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "stamovashahzada",
         "booksCount": 70,
         "updatedAt": "2020-07-21 07:04:53"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 24,
-        "updatedAt": "2020-07-19 22:08:42"
     }
 }
