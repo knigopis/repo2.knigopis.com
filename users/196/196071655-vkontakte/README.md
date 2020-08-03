@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>172</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>173</sup>
 ---
 
 ## 2020
+
+### Как не умереть молодым
+Алексей Решетун
+> [2020-08-02] 
+
 
 ### Вскрытие покажет
 Алексей Решетун
