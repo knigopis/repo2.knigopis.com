@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
+    > «Эту книгу обязан прочитать каждый», – считает британский журнал «The Economist» и я с этим согласна. Но скорее всего именно тем, кому эту книгу прочитать необходимо (религиозные фанатики), даже не станут пытаться этого сделать, так как вера их слепа.
+
 * SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная книга о зарождении классики мировой игровой индустрии. Толстая, но пролетела на одном дыхании. Очень наглядно показывает, откуда все взялось и почему сдохло. Категорически рекомендую всем, кто в теме ;)
 
 * Михаил Хазин ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup>
-    > в процессе
 
 * Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
 
-* Безсонница ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>127</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>173</sup> 
 [](users/768/768549983-yandex)<sup>0</sup> 
 [nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
-[rNix](users/227/22742452-yandex)<sup>68</sup> 
 
 
-_03.08.2020 06:32:42_
+_03.08.2020 16:33:11_

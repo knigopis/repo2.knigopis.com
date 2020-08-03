@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 258,
+        "updatedAt": "2020-08-03 16:33:11"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Aleks",
         "booksCount": 74,
         "updatedAt": "2020-07-25 17:35:23"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 68,
-        "updatedAt": "2020-07-23 08:31:17"
     }
 }
