@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 171,
+        "updatedAt": "2020-08-03 06:31:54"
+    },
     "768549983-yandex": {
         "id": "768549983-yandex",
         "nickname": null,
@@ -136,12 +142,6 @@
         "nickname": "kissamasya",
         "booksCount": 96,
         "updatedAt": "2020-07-27 17:59:40"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 170,
-        "updatedAt": "2020-07-27 13:20:50"
     },
     "5189131938484800934-mailru": {
         "id": "5189131938484800934-mailru",

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>171</sup> 
 [](users/768/768549983-yandex)<sup>0</sup> 
 [nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
 [](users/111/111978052714957627223-google)<sup>1</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>170</sup> 
 [Катя Овсийчук](users/518/5189131938484800934-mailru)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>63</sup> 
 [arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>68</sup> 
 
 
-_02.08.2020 13:57:38_
+_03.08.2020 06:31:54_
