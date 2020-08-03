@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>171</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>172</sup>
 ---
 
 ## 2020
+
+### Вскрытие покажет
+Алексей Решетун
+> [2020-08-01] 
+
 
 ### Между жизнями
 Алексей Решетун
