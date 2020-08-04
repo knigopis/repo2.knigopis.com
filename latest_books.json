@@ -1,4 +1,16 @@
 {
+    "L6qPjDup_L": {
+        "id": "L6qPjDup_L",
+        "title": "Барышня-крестьянка",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:32:17",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 41
+        }
+    },
     "ylcvFVeYjz": {
         "id": "ylcvFVeYjz",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 12
-        }
-    },
-    "MMKkmo8X3i": {
-        "id": "MMKkmo8X3i",
-        "title": "Жёлтая стрела",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2020-08-04 05:16:40",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 11
         }
     }
 }
