@@ -1,7 +1,12 @@
-# List of books read by [](http://vk.com/id300123225)<sup>35</sup>
+# List of books read by [](http://vk.com/id300123225)<sup>36</sup>
 ---
 
 ## 2020
+
+### Судьба человека
+Михаил Шолохов
+> [2020-08-04] 
+
 
 ### Generation "П"
 Виктор Пелевин
