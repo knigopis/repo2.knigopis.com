@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>64</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>65</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
 [](users/300/300123225-vkontakte)<sup>84</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 
 
-_04.08.2020 18:30:23_
+_04.08.2020 19:39:41_
