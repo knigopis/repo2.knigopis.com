@@ -1,4 +1,16 @@
 {
+    "NTrtb_qS6t": {
+        "id": "NTrtb_qS6t",
+        "title": "Двенадцать стульев",
+        "author": "Ильф И Петров",
+        "notes": "",
+        "createdAt": "2020-08-04 05:21:39",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 22
+        }
+    },
     "Xe7aKx95da": {
         "id": "Xe7aKx95da",
         "title": "Рассказы",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 27
-        }
-    },
-    "g9U0eeE1GR": {
-        "id": "g9U0eeE1GR",
-        "title": "Бэтмен. Книга 3",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-08-01 20:20:25",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 26
         }
     }
 }
