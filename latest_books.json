@@ -1,4 +1,16 @@
 {
+    "fGofb01HGg": {
+        "id": "fGofb01HGg",
+        "title": "Голодные игры Сойка-пересмешница",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2020-08-04 05:48:28",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 64
+        }
+    },
     "bZcOhfNPvr": {
         "id": "bZcOhfNPvr",
         "title": "Голодные игры и вспыхнет пламя",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 34
-        }
-    },
-    "bFZEtYBjQa": {
-        "id": "bFZEtYBjQa",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2020-08-04 05:27:01",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 33
         }
     }
 }
