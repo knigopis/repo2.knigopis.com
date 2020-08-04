@@ -1,4 +1,16 @@
 {
+    "bFZEtYBjQa": {
+        "id": "bFZEtYBjQa",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2020-08-04 05:27:01",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 33
+        }
+    },
     "33moCKKq4Q": {
         "id": "33moCKKq4Q",
         "title": "БДВ, или Большой и добрый великан",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "rZCgLoViZ7": {
-        "id": "rZCgLoViZ7",
-        "title": "Гарри Поттер и Кубок Огня",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2020-08-04 05:12:12",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
