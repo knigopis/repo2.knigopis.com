@@ -1,4 +1,16 @@
 {
+    "csFWre9gbK": {
+        "id": "csFWre9gbK",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2020-08-04 05:10:50",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "SxOJiqCn-i": {
         "id": "SxOJiqCn-i",
         "title": "Бог как иллюзия",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 237
-        }
-    },
-    "X7HCB4WpKf": {
-        "id": "X7HCB4WpKf",
-        "title": "Магическая уборка",
-        "author": "Мари Кондо",
-        "notes": "Отличная прикладная книжка о приведении своего окружения, пространства, себя наконец в порядок. Просто, коротко, доходчиво.",
-        "createdAt": "2020-07-28 08:59:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 236
         }
     }
 }
