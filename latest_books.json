@@ -1,4 +1,16 @@
 {
+    "Xe7aKx95da": {
+        "id": "Xe7aKx95da",
+        "title": "Рассказы",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2020-08-04 05:21:12",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "jHctVfzwfU": {
         "id": "jHctVfzwfU",
         "title": "Грантовый браслет",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 26
-        }
-    },
-    "Rez8mY3ygU": {
-        "id": "Rez8mY3ygU",
-        "title": "Бэтмен. Книга 2",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-08-01 20:20:20",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 25
         }
     }
 }
