@@ -1,4 +1,16 @@
 {
+    "MMKkmo8X3i": {
+        "id": "MMKkmo8X3i",
+        "title": "Жёлтая стрела",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:16:40",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "h9HXlfVi81": {
         "id": "h9HXlfVi81",
         "title": "Шлем ужаса",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 112
-        }
-    },
-    "ZZ-PKZNY0e": {
-        "id": "ZZ-PKZNY0e",
-        "title": "До встречи с тобой",
-        "author": "Джоджо мойес",
-        "notes": "",
-        "createdAt": "2020-07-30 18:12:25",
-        "user": {
-            "id": "106611396170683247429-google",
-            "nickname": "elochka",
-            "booksCount": 1
         }
     }
 }
