@@ -1,4 +1,16 @@
 {
+    "lCRqM82f6W": {
+        "id": "lCRqM82f6W",
+        "title": "Война и Мир",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2020-08-04 05:16:52",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "MMKkmo8X3i": {
         "id": "MMKkmo8X3i",
         "title": "Жёлтая стрела",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 218
-        }
-    },
-    "46FzmdDFGX": {
-        "id": "46FzmdDFGX",
-        "title": "Хьюго Касс: наблюдая за смертью",
-        "author": "Роман Гусев",
-        "notes": "",
-        "createdAt": "2020-07-31 05:37:08",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 112
         }
     }
 }
