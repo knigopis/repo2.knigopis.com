@@ -1,4 +1,16 @@
 {
+    "A1jBBFX_1i": {
+        "id": "A1jBBFX_1i",
+        "title": "Мы",
+        "author": "Евгений Замятин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:23:18",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 27
+        }
+    },
     "Vb3Ek6vvu7": {
         "id": "Vb3Ek6vvu7",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 172
-        }
-    },
-    "Q7VGeTiI52": {
-        "id": "Q7VGeTiI52",
-        "title": "Между жизнями",
-        "author": "Алексей Решетун",
-        "notes": "",
-        "createdAt": "2020-08-03 06:31:54",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 171
         }
     }
 }
