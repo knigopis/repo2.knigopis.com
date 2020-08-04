@@ -1,4 +1,16 @@
 {
+    "3B0GSilY00": {
+        "id": "3B0GSilY00",
+        "title": "Мёртвые души",
+        "author": "Н.В.Гоголь",
+        "notes": "",
+        "createdAt": "2020-08-04 05:19:07",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "k1jMVPUJ9c": {
         "id": "k1jMVPUJ9c",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 46
-        }
-    },
-    "zcT8jK9v18": {
-        "id": "zcT8jK9v18",
-        "title": "Как мозг заставляет делать нас глупости",
-        "author": "Ася Казанцева",
-        "notes": "",
-        "createdAt": "2020-07-31 19:28:38",
-        "user": {
-            "id": "102620077660877533621-google",
-            "nickname": "Axxyniron",
-            "booksCount": 3
         }
     }
 }
