@@ -1,4 +1,4 @@
-# List of books read by [](http://vk.com/id300123225)<sup>85</sup>
+# List of books read by [](http://vk.com/id300123225)<sup>84</sup>
 ---
 
 ## 2020
@@ -155,10 +155,6 @@
 
 
 ### Алые паруса
-Джон Грин
-
-
-### Виноваты звезды
 Джон Грин
 
 
