@@ -1,4 +1,16 @@
 {
+    "h9HXlfVi81": {
+        "id": "h9HXlfVi81",
+        "title": "Шлем ужаса",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:16:16",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "wvQmhnRLF0": {
         "id": "wvQmhnRLF0",
         "title": "Generation \"П\"",
@@ -344,18 +356,6 @@
         "user": {
             "id": "106611396170683247429-google",
             "nickname": "elochka",
-            "booksCount": 1
-        }
-    },
-    "1RhG3tdWp4": {
-        "id": "1RhG3tdWp4",
-        "title": "Гарри Поттер и Философский камень",
-        "author": "Роулинг",
-        "notes": "",
-        "createdAt": "2020-07-29 23:42:08",
-        "user": {
-            "id": "113025816040423789055-google",
-            "nickname": "Влад",
             "booksCount": 1
         }
     }
