@@ -1,7 +1,12 @@
-# List of books read by [](http://vk.com/id300123225)<sup>8</sup>
+# List of books read by [](http://vk.com/id300123225)<sup>9</sup>
 ---
 
 ## 2020
+
+### Generation "П"
+Виктор Пелевин
+> [2020-08-04] 
+
 
 ### Священная книга Оборотня
 Виктор Пелевин
