@@ -1,4 +1,16 @@
 {
+    "jHctVfzwfU": {
+        "id": "jHctVfzwfU",
+        "title": "Грантовый браслет",
+        "author": "Александр Куприн",
+        "notes": "",
+        "createdAt": "2020-08-04 05:20:50",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "UY6xDJyLoi": {
         "id": "UY6xDJyLoi",
         "title": "Левша",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 25
-        }
-    },
-    "fwTWhSjgiC": {
-        "id": "fwTWhSjgiC",
-        "title": "Бэтмен. Книга 1",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-08-01 20:20:12",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 24
         }
     }
 }
