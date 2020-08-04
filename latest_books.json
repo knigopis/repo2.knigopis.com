@@ -1,4 +1,16 @@
 {
+    "HCqckSVZZH": {
+        "id": "HCqckSVZZH",
+        "title": "Палата 6",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2020-08-04 05:30:55",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 38
+        }
+    },
     "UTQCoRKV1-": {
         "id": "UTQCoRKV1-",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "x_ABmNE5ej": {
-        "id": "x_ABmNE5ej",
-        "title": "Священная книга Оборотня",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2020-08-04 05:15:16",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
