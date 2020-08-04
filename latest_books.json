@@ -1,4 +1,16 @@
 {
+    "UY6xDJyLoi": {
+        "id": "UY6xDJyLoi",
+        "title": "Левша",
+        "author": "Лесков",
+        "notes": "",
+        "createdAt": "2020-08-04 05:20:23",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "OAss8_lCFI": {
         "id": "OAss8_lCFI",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 24
-        }
-    },
-    "RZmR97q-eP": {
-        "id": "RZmR97q-eP",
-        "title": "Над пропастью во ржи",
-        "author": "Джерелом Д Селинжер",
-        "notes": "",
-        "createdAt": "2020-07-31 23:16:28",
-        "user": {
-            "id": "106033731903118559839-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
