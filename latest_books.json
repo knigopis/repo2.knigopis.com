@@ -1,4 +1,16 @@
 {
+    "Vb3Ek6vvu7": {
+        "id": "Vb3Ek6vvu7",
+        "title": "На дне",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2020-08-04 05:23:03",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 26
+        }
+    },
     "hWuSAKcd6O": {
         "id": "hWuSAKcd6O",
         "title": "Уроки французского",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 171
-        }
-    },
-    "o0bTzLoASq": {
-        "id": "o0bTzLoASq",
-        "title": "Текст",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2020-08-02 11:07:22",
-        "user": {
-            "id": "193873058-vkontakte",
-            "nickname": "nurvkonsetunela",
-            "booksCount": 1
         }
     }
 }
