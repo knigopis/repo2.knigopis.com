@@ -1,4 +1,16 @@
 {
+    "bOUjHBPvyt": {
+        "id": "bOUjHBPvyt",
+        "title": "Виноваты звезды",
+        "author": "Джон Грин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:38:43",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 50
+        }
+    },
     "fyzZr9DfAF": {
         "id": "fyzZr9DfAF",
         "title": "Виновата ложь",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "jHctVfzwfU": {
-        "id": "jHctVfzwfU",
-        "title": "Грантовый браслет",
-        "author": "Александр Куприн",
-        "notes": "",
-        "createdAt": "2020-08-04 05:20:50",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
