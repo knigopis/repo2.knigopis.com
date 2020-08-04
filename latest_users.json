@@ -1,4 +1,10 @@
 {
+    "300123225-vkontakte": {
+        "id": "300123225-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-08-04 05:10:14"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 152,
         "updatedAt": "2020-07-25 17:56:42"
-    },
-    "117835844513813219393-google": {
-        "id": "117835844513813219393-google",
-        "nickname": "Aleks",
-        "booksCount": 74,
-        "updatedAt": "2020-07-25 17:35:23"
     }
 }
