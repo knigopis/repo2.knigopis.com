@@ -1,4 +1,16 @@
 {
+    "Joko8opqxO": {
+        "id": "Joko8opqxO",
+        "title": "А зори здесь тихие",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2020-08-04 05:22:22",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 24
+        }
+    },
     "6zQxbX_ry4": {
         "id": "6zQxbX_ry4",
         "title": "Записки охотника",
@@ -345,18 +357,6 @@
             "id": "111978052714957627223-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "TvbqM_iOC9": {
-        "id": "TvbqM_iOC9",
-        "title": "SNUFF",
-        "author": "Виктор Пелевин",
-        "notes": "7/10",
-        "createdAt": "2020-08-01 22:30:04",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 142
         }
     }
 }
