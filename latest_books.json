@@ -1,4 +1,16 @@
 {
+    "x_ABmNE5ej": {
+        "id": "x_ABmNE5ej",
+        "title": "Священная книга Оборотня",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:15:16",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "_dyI5KrpV-": {
         "id": "_dyI5KrpV-",
         "title": "Гарри Поттер и Принц-Полукровка",
@@ -345,18 +357,6 @@
             "id": "2417202-vkontakte",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "Dolpj2NFT5": {
-        "id": "Dolpj2NFT5",
-        "title": "Возвращение примитива",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2020-07-29 16:32:31",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 61
         }
     }
 }
