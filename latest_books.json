@@ -1,4 +1,16 @@
 {
+    "6Vj5WoCCcA": {
+        "id": "6Vj5WoCCcA",
+        "title": "Красная таблетка",
+        "author": "Андрей Курпатов",
+        "notes": "",
+        "createdAt": "2020-08-04 06:01:17",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 85
+        }
+    },
     "PZBgHKM8Il": {
         "id": "PZBgHKM8Il",
         "title": "Город пустых",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 56
-        }
-    },
-    "VGEwWDX7M6": {
-        "id": "VGEwWDX7M6",
-        "title": "Трое в лодке не считая собаки",
-        "author": "Джером Клапка Джером",
-        "notes": "",
-        "createdAt": "2020-08-04 05:42:33",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 55
         }
     }
 }
