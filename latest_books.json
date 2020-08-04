@@ -1,4 +1,16 @@
 {
+    "ghx-egtQeZ": {
+        "id": "ghx-egtQeZ",
+        "title": "Капитанская дочка",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:17:11",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "lCRqM82f6W": {
         "id": "lCRqM82f6W",
         "title": "Война и Мир",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 88
-        }
-    },
-    "tnx3LgKrCT": {
-        "id": "tnx3LgKrCT",
-        "title": "Женщины",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2020-07-31 11:07:27",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 218
         }
     }
 }
