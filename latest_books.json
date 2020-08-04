@@ -1,4 +1,16 @@
 {
+    "p9bPWtw3C7": {
+        "id": "p9bPWtw3C7",
+        "title": "История одного города",
+        "author": "Салтыков-Щедрин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:55:53",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 78
+        }
+    },
     "o65D5aDJgY": {
         "id": "o65D5aDJgY",
         "title": "Толстый и Тонкий",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 48
-        }
-    },
-    "K1SVeudJha": {
-        "id": "K1SVeudJha",
-        "title": "Оно",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-08-04 05:35:34",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 47
         }
     }
 }
