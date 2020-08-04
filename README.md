@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/300/300123225-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>173</sup> 
 [](users/768/768549983-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>63</sup> 
 [arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
-[Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
 
 
-_03.08.2020 16:33:11_
+_04.08.2020 05:10:15_
