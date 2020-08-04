@@ -1,4 +1,16 @@
 {
+    "WihBrJF5nr": {
+        "id": "WihBrJF5nr",
+        "title": "Маленький принц",
+        "author": "Антуан Де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2020-08-04 05:52:48",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 72
+        }
+    },
     "B9Rrbvwcyq": {
         "id": "B9Rrbvwcyq",
         "title": "Медный всадник",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 42
-        }
-    },
-    "L6qPjDup_L": {
-        "id": "L6qPjDup_L",
-        "title": "Барышня-крестьянка",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2020-08-04 05:32:17",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 41
         }
     }
 }
