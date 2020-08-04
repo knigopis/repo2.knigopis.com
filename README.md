@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
+    > в процессе
+
 * Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > «Эту книгу обязан прочитать каждый», – считает британский журнал «The Economist» и я с этим согласна. Но скорее всего именно тем, кому эту книгу прочитать необходимо (религиозные фанатики), даже не станут пытаться этого сделать, так как вера их слепа.
 
 * SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
-    > 7/10
 
 * Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
 
-* Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
 [](users/300/300123225-vkontakte)<sup>84</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>173</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 
 
-_04.08.2020 09:25:13_
+_04.08.2020 09:27:29_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
 * Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
 * Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
 * SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
@@ -30,7 +31,6 @@
 * Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
 * Шифропанки: свобода и будущее Интернета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup>
 * Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
-* Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
 
 
-_04.08.2020 09:25:13_
+_04.08.2020 09:27:29_
