@@ -1,4 +1,16 @@
 {
+    "k1jMVPUJ9c": {
+        "id": "k1jMVPUJ9c",
+        "title": "Герой нашего времени",
+        "author": "М.Ю.Лермонтов",
+        "notes": "",
+        "createdAt": "2020-08-04 05:18:48",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "OQDLHhn0bI": {
         "id": "OQDLHhn0bI",
         "title": "Бедная Лиза",
@@ -345,18 +357,6 @@
             "id": "102620077660877533621-google",
             "nickname": "Axxyniron",
             "booksCount": 3
-        }
-    },
-    "PeHQ6d-D55": {
-        "id": "PeHQ6d-D55",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Великая история о дружбе, больше о дружбе, чем о любви",
-        "createdAt": "2020-07-31 19:26:56",
-        "user": {
-            "id": "102620077660877533621-google",
-            "nickname": "Axxyniron",
-            "booksCount": 2
         }
     }
 }
