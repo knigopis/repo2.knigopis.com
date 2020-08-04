@@ -1,4 +1,16 @@
 {
+    "dn-1GePrXL": {
+        "id": "dn-1GePrXL",
+        "title": "Гарри Поттер и Узник Азкабана",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2020-08-04 05:12:35",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "rZCgLoViZ7": {
         "id": "rZCgLoViZ7",
         "title": "Гарри Поттер и Кубок Огня",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 60
-        }
-    },
-    "UmhvnhjQsf": {
-        "id": "UmhvnhjQsf",
-        "title": "Уникальный экземпляр",
-        "author": "Том Хэнкс",
-        "notes": "",
-        "createdAt": "2020-07-28 12:58:29",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 87
         }
     }
 }
