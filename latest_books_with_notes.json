@@ -1,4 +1,16 @@
 {
+    "z5f9UKpuyN": {
+        "id": "z5f9UKpuyN",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "в процессе",
+        "createdAt": "2020-08-04 09:25:13",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 239
+        }
+    },
     "SxOJiqCn-i": {
         "id": "SxOJiqCn-i",
         "title": "Бог как иллюзия",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 42
-        }
-    },
-    "GSSjHKlw7q": {
-        "id": "GSSjHKlw7q",
-        "title": "Полный набор: Великая Миссия",
-        "author": "Князев Милослав",
-        "notes": "7/10",
-        "createdAt": "2020-07-05 21:24:30",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 6
         }
     }
 }

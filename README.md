@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
+    > в процессе
+
 * Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
     > «Эту книгу обязан прочитать каждый», – считает британский журнал «The Economist» и я с этим согласна. Но скорее всего именно тем, кому эту книгу прочитать необходимо (религиозные фанатики), даже не станут пытаться этого сделать, так как вера их слепа.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
-    > Отличная книга о зарождении классики мировой игровой индустрии. Толстая, но пролетела на одном дыхании. Очень наглядно показывает, откуда все взялось и почему сдохло. Категорически рекомендую всем, кто в теме ;)
 
 * Михаил Хазин ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
 
-* В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup> 
 [](users/300/300123225-vkontakte)<sup>84</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>173</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>73</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>1</sup> 
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [Катя Овсийчук](users/518/5189131938484800934-mailru)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>63</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 
 
-_04.08.2020 06:11:00_
+_04.08.2020 09:25:13_
