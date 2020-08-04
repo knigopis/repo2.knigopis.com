@@ -1,4 +1,16 @@
 {
+    "aW32R9edGC": {
+        "id": "aW32R9edGC",
+        "title": "Гарри Поттер и Тайная Комната",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2020-08-04 05:11:16",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "csFWre9gbK": {
         "id": "csFWre9gbK",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 238
-        }
-    },
-    "mStEZrWfPu": {
-        "id": "mStEZrWfPu",
-        "title": "Михаил Хазин",
-        "author": "Воспоминания о будущем",
-        "notes": "в процессе",
-        "createdAt": "2020-07-28 09:00:54",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 237
         }
     }
 }
