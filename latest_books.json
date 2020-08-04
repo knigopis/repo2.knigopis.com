@@ -1,4 +1,16 @@
 {
+    "hWuSAKcd6O": {
+        "id": "hWuSAKcd6O",
+        "title": "Уроки французского",
+        "author": "Валентин Распутин",
+        "notes": "",
+        "createdAt": "2020-08-04 05:22:48",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 25
+        }
+    },
     "Joko8opqxO": {
         "id": "Joko8opqxO",
         "title": "А зори здесь тихие",
@@ -344,18 +356,6 @@
         "user": {
             "id": "193873058-vkontakte",
             "nickname": "nurvkonsetunela",
-            "booksCount": 1
-        }
-    },
-    "ifpWKcOeoB": {
-        "id": "ifpWKcOeoB",
-        "title": "Сияние",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-08-02 07:30:54",
-        "user": {
-            "id": "111978052714957627223-google",
-            "nickname": null,
             "booksCount": 1
         }
     }
