@@ -1,4 +1,16 @@
 {
+    "xbP-3VGk_e": {
+        "id": "xbP-3VGk_e",
+        "title": "Горе от ума",
+        "author": "Александр Грибоедов",
+        "notes": "",
+        "createdAt": "2020-08-04 05:17:44",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 14
+        }
+    },
     "ghx-egtQeZ": {
         "id": "ghx-egtQeZ",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "102620077660877533621-google",
             "nickname": "Axxyniron",
             "booksCount": 1
-        }
-    },
-    "-JUJeQY3A5": {
-        "id": "-JUJeQY3A5",
-        "title": "Куриный бульон для души",
-        "author": "Джек Кэнфилд",
-        "notes": "",
-        "createdAt": "2020-07-31 13:17:54",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 88
         }
     }
 }
