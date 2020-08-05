@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повести Белкина ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup>
+    > "Но на чужой манер хлеб русский не родится"
+
 * Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
-    > «Эту книгу обязан прочитать каждый», – считает британский журнал «The Economist» и я с этим согласна. Но скорее всего именно тем, кому эту книгу прочитать необходимо (религиозные фанатики), даже не станут пытаться этого сделать, так как вера их слепа.
 
 * SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
 
-* Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>66</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>219</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
 [](users/300/300123225-vkontakte)<sup>84</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 
 
-_05.08.2020 15:00:00_
+_05.08.2020 18:06:34_
