@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>219</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>65</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
 [](users/300/300123225-vkontakte)<sup>84</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>46</sup> 
 [Axxyniron](users/102/102620077660877533621-google)<sup>3</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>218</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>112</sup> 
 [elochka](users/106/106611396170683247429-google)<sup>1</sup> 
 [Влад](users/113/113025816040423789055-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>152</sup> 
 
 
-_04.08.2020 19:39:41_
+_05.08.2020 09:59:48_
