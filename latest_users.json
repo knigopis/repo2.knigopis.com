@@ -1,4 +1,10 @@
 {
+    "100638342-vkontakte": {
+        "id": "100638342-vkontakte",
+        "nickname": "ftswm",
+        "booksCount": 0,
+        "updatedAt": "2020-08-06 10:23:55"
+    },
     "106892998330932949986-google": {
         "id": "106892998330932949986-google",
         "nickname": "littlmuk",
@@ -172,11 +178,5 @@
         "nickname": "Катя Овсийчук",
         "booksCount": 0,
         "updatedAt": "2020-07-27 11:46:35"
-    },
-    "116941085634604796026-google": {
-        "id": "116941085634604796026-google",
-        "nickname": "arcenloup",
-        "booksCount": 10,
-        "updatedAt": "2020-07-26 18:54:44"
     }
 }
