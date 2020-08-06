@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ftswm](users/100/100638342-vkontakte)<sup>0</sup> 
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>219</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [Катя Овсийчук](users/518/5189131938484800934-mailru)<sup>0</sup> 
-[arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
 
 
-_06.08.2020 08:42:35_
+_06.08.2020 10:23:55_
