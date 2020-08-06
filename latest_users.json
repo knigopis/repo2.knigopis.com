@@ -1,4 +1,10 @@
 {
+    "230130972-vkontakte": {
+        "id": "230130972-vkontakte",
+        "nickname": "aonty",
+        "booksCount": 0,
+        "updatedAt": "2020-08-06 22:08:35"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -172,11 +178,5 @@
         "nickname": "Aloof1227",
         "booksCount": 0,
         "updatedAt": "2020-07-28 17:23:23"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 96,
-        "updatedAt": "2020-07-27 17:59:40"
     }
 }
