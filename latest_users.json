@@ -1,4 +1,10 @@
 {
+    "106892998330932949986-google": {
+        "id": "106892998330932949986-google",
+        "nickname": "littlmuk",
+        "booksCount": 0,
+        "updatedAt": "2020-08-06 08:41:24"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "arcenloup",
         "booksCount": 10,
         "updatedAt": "2020-07-26 18:54:44"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 152,
-        "updatedAt": "2020-07-25 17:56:42"
     }
 }
