@@ -1,4 +1,16 @@
 {
+    "_r-QmAqJx-": {
+        "id": "_r-QmAqJx-",
+        "title": "Добродетель эгоизма",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2020-08-06 18:54:25",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 62
+        }
+    },
     "gPADX25Nxm": {
         "id": "gPADX25Nxm",
         "title": "Манюня",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 65
-        }
-    },
-    "fGofb01HGg": {
-        "id": "fGofb01HGg",
-        "title": "Голодные игры Сойка-пересмешница",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2020-08-04 05:48:28",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 64
         }
     }
 }
