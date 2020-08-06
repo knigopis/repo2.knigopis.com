@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aonty](users/230/230130972-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>62</sup> 
 [Марина Шилович](users/172/17277138623026186920-mailru)<sup>0</sup> 
 [ftswm](users/100/100638342-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>73</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>1</sup> 
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 
 
-_06.08.2020 18:54:25_
+_06.08.2020 22:08:35_
