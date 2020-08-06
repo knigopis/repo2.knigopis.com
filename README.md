@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[littlmuk](users/106/106892998330932949986-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>219</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>96</sup> 
 [Катя Овсийчук](users/518/5189131938484800934-mailru)<sup>0</sup> 
 [arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
-[lucius](users/838/83820536-yandex)<sup>152</sup> 
 
 
-_05.08.2020 18:06:34_
+_06.08.2020 08:41:24_
