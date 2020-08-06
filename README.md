@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[littlmuk](users/106/106892998330932949986-google)<sup>0</sup> 
+[littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>219</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [arcenloup](users/116/116941085634604796026-google)<sup>10</sup> 
 
 
-_06.08.2020 08:41:24_
+_06.08.2020 08:42:35_
