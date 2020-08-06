@@ -1,4 +1,10 @@
 {
+    "17277138623026186920-mailru": {
+        "id": "17277138623026186920-mailru",
+        "nickname": "Марина Шилович",
+        "booksCount": 0,
+        "updatedAt": "2020-08-06 12:44:53"
+    },
     "100638342-vkontakte": {
         "id": "100638342-vkontakte",
         "nickname": "ftswm",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 96,
         "updatedAt": "2020-07-27 17:59:40"
-    },
-    "5189131938484800934-mailru": {
-        "id": "5189131938484800934-mailru",
-        "nickname": "Катя Овсийчук",
-        "booksCount": 0,
-        "updatedAt": "2020-07-27 11:46:35"
     }
 }
