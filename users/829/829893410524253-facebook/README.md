@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>133</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>134</sup>
 ---
 
 ## 2020
+
+### Смиренные сестры Элурии
+Стивен Кинг
+> [2020-08-04] 9/10 Рассказ из молодости Роланда.
+
 
 ### Жребий Салема
 Стивен Кинг

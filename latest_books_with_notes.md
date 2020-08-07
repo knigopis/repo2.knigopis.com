@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
 * Жребий Салема ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup>
 * Повести Белкина ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup>
 * Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
@@ -30,7 +31,6 @@
 * Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
 * Полный набор: Война с орками ~ [gray7wand](users/110/110080946273609412257-google)<sup>8</sup>
 * Полный набор: Свой замок ~ [gray7wand](users/110/110080946273609412257-google)<sup>7</sup>
-* Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
 
 
-_07.08.2020 20:49:39_
+_07.08.2020 20:50:38_

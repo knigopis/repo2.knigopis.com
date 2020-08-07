@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
+    > 9/10 Рассказ из молодости Роланда.
+
 * Жребий Салема ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup>
     > 9/10 Вампиры в городе.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > "Но на чужой манер хлеб русский не родится"
 
 * Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
-    > в процессе
 
 * Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
 
-* Японские народные сказки ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>71</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>113</sup> 
 [aonty](users/230/230130972-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alina_mot](users/103/103322968684647562714-google)<sup>1</sup> 
 
 
-_07.08.2020 20:49:39_
+_07.08.2020 20:50:38_
