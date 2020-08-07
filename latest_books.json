@@ -1,4 +1,16 @@
 {
+    "HB8fvaolaj": {
+        "id": "HB8fvaolaj",
+        "title": "Тупейный художник",
+        "author": "Николай Семёнович Лесков",
+        "notes": "",
+        "createdAt": "2020-08-07 15:31:22",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 70
+        }
+    },
     "I1UDJeF7Sa": {
         "id": "I1UDJeF7Sa",
         "title": "Мистика",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 69
-        }
-    },
-    "73Qtmrv_mM": {
-        "id": "73Qtmrv_mM",
-        "title": "Слово о полку Игореве",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-08-04 05:50:31",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 68
         }
     }
 }
