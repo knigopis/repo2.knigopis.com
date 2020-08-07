@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>112</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>113</sup>
 ---
 
 ## 2020
+
+### Мистика
+Астралия Дик
+> [2020-08-08] 
+
 
 ### Хьюго Касс: наблюдая за смертью
 Роман Гусев

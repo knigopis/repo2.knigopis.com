@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>113</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>69</sup> 
 [aonty](users/230/230130972-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>62</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>46</sup> 
 [Axxyniron](users/102/102620077660877533621-google)<sup>3</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>112</sup> 
 [elochka](users/106/106611396170683247429-google)<sup>1</sup> 
 [Влад](users/113/113025816040423789055-google)<sup>1</sup> 
 [allicefoxalice](users/138/138247248-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
 
 
-_07.08.2020 13:14:01_
+_07.08.2020 14:10:12_
