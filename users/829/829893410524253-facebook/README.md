@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>132</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>133</sup>
 ---
 
 ## 2020
+
+### Жребий Салема
+Стивен Кинг
+> [2020-08-02] 9/10 Вампиры в городе.
+
 
 ### Безсонница
 Стивен Кинг

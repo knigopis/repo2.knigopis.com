@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жребий Салема ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup>
+    > 9/10 Вампиры в городе.
+
 * Повести Белкина ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup>
     > "Но на чужой манер хлеб русский не родится"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
-    > в процессе
 
 * Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Японские народные сказки ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup>
 
-* Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>71</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>113</sup> 
 [aonty](users/230/230130972-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kuzzzya_99](users/130/130161321-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>73</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>1</sup> 
-[Aloof1227](users/114/114765710951931448001-google)<sup>0</sup> 
 
 
-_07.08.2020 17:23:30_
+_07.08.2020 20:49:39_
