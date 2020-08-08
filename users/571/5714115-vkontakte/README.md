@@ -1,7 +1,12 @@
-# List of books read by [dmiro](http://vk.com/id5714115)<sup>29</sup>
+# List of books read by [dmiro](http://vk.com/id5714115)<sup>30</sup>
 ---
 
 ## 2020
+
+### Дальше живите сами
+Джоннатан Троппер
+> [2020-06] 
+
 
 ### Бойся, я с тобой
 Таня Танк

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>30</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [allicefoxalice](users/138/138247248-vkontakte)<sup>0</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
 [](users/231/231441200-vkontakte)<sup>0</sup> 
-[kuzzzya_99](users/130/130161321-vkontakte)<sup>0</sup> 
 
 
-_08.08.2020 10:29:20_
+_08.08.2020 10:41:03_
