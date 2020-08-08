@@ -45,13 +45,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>72</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>174</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>114</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>71</sup> 
 [aonty](users/230/230130972-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>62</sup> 
 [Марина Шилович](users/172/17277138623026186920-mailru)<sup>0</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/231/231441200-vkontakte)<sup>0</sup> 
 
 
-_08.08.2020 16:11:00_
+_08.08.2020 18:08:31_

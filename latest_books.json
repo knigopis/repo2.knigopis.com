@@ -1,4 +1,16 @@
 {
+    "In3TSbHVNP": {
+        "id": "In3TSbHVNP",
+        "title": "Остров сокровищ",
+        "author": "Роберт Льюис Стивенсон",
+        "notes": "",
+        "createdAt": "2020-08-08 18:08:31",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 72
+        }
+    },
     "MgcLKlSlnQ": {
         "id": "MgcLKlSlnQ",
         "title": "Война миров",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 79
-        }
-    },
-    "p9bPWtw3C7": {
-        "id": "p9bPWtw3C7",
-        "title": "История одного города",
-        "author": "Салтыков-Щедрин",
-        "notes": "",
-        "createdAt": "2020-08-04 05:55:53",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 78
         }
     }
 }
