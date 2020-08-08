@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>71</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>113</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/231/231441200-vkontakte)<sup>0</sup> 
 [kuzzzya_99](users/130/130161321-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>73</sup> 
-[alina_mot](users/103/103322968684647562714-google)<sup>1</sup> 
 
 
-_07.08.2020 20:50:38_
+_08.08.2020 02:28:07_
