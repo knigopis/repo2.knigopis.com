@@ -45,6 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>174</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>114</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
 [](users/300/300123225-vkontakte)<sup>84</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>173</sup> 
 [](users/768/768549983-yandex)<sup>0</sup> 
 [nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
 [](users/111/111978052714957627223-google)<sup>1</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/231/231441200-vkontakte)<sup>0</sup> 
 
 
-_08.08.2020 14:19:23_
+_08.08.2020 16:11:00_

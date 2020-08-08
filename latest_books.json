@@ -1,4 +1,16 @@
 {
+    "MgcLKlSlnQ": {
+        "id": "MgcLKlSlnQ",
+        "title": "Война миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2020-08-08 16:11:00",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 174
+        }
+    },
     "bj39-VkX0N": {
         "id": "bj39-VkX0N",
         "title": "Вопрос - половинка сердца",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 78
-        }
-    },
-    "o65D5aDJgY": {
-        "id": "o65D5aDJgY",
-        "title": "Толстый и Тонкий",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2020-08-04 05:55:32",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 77
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>173</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>174</sup>
 ---
 
 ## 2020
+
+### Война миров
+Герберт Уэллс
+> [2020-08-06] 
+
 
 ### Как не умереть молодым
 Алексей Решетун
