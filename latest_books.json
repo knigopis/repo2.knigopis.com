@@ -1,4 +1,16 @@
 {
+    "xZ7HM6UZPY": {
+        "id": "xZ7HM6UZPY",
+        "title": "Лавр",
+        "author": "Водолазкин, Евгений",
+        "notes": "",
+        "createdAt": "2020-08-08 10:29:20",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 423
+        }
+    },
     "eUVgjdPLFQ": {
         "id": "eUVgjdPLFQ",
         "title": "Смиренные сестры Элурии",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 73
-        }
-    },
-    "WihBrJF5nr": {
-        "id": "WihBrJF5nr",
-        "title": "Маленький принц",
-        "author": "Антуан Де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2020-08-04 05:52:48",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 72
         }
     }
 }
