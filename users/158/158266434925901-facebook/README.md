@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>113</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>114</sup>
 ---
 
 ## 2020
+
+### Вопрос - половинка сердца
+София Лундберг
+> [2020-08-08] 
+
 
 ### Мистика
 Астралия Дик
