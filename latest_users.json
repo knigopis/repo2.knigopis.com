@@ -1,4 +1,10 @@
 {
+    "103322968684647562714-google": {
+        "id": "103322968684647562714-google",
+        "nickname": "alina_mot",
+        "booksCount": 0,
+        "updatedAt": "2020-08-08 02:28:07"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 73,
         "updatedAt": "2020-07-29 12:33:24"
-    },
-    "103322968684647562714-google": {
-        "id": "103322968684647562714-google",
-        "nickname": "alina_mot",
-        "booksCount": 1,
-        "updatedAt": "2020-07-29 10:17:27"
     }
 }
