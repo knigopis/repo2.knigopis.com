@@ -45,7 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>72</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>73</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>174</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>114</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/231/231441200-vkontakte)<sup>0</sup> 
 
 
-_08.08.2020 18:08:31_
+_08.08.2020 18:28:33_

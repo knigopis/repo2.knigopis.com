@@ -1,4 +1,16 @@
 {
+    "GCL1oKVUV1": {
+        "id": "GCL1oKVUV1",
+        "title": "Медный всадник",
+        "author": "Александр Сергеевич Пушкин",
+        "notes": "",
+        "createdAt": "2020-08-08 18:28:33",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 73
+        }
+    },
     "In3TSbHVNP": {
         "id": "In3TSbHVNP",
         "title": "Остров сокровищ",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 80
-        }
-    },
-    "T3pKy-7nvb": {
-        "id": "T3pKy-7nvb",
-        "title": "Бесприданница",
-        "author": "Александр Островский",
-        "notes": "",
-        "createdAt": "2020-08-04 05:56:11",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 79
         }
     }
 }
