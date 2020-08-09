@@ -45,6 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/108/108099895630206704374-google)<sup>0</sup> 
 [](users/109/109106074083820102515-google)<sup>1</sup> 
 [Lases13](users/103/103233187704022534226-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>73</sup> 
@@ -74,7 +75,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
 [elochka](users/106/106611396170683247429-google)<sup>1</sup> 
 [Влад](users/113/113025816040423789055-google)<sup>1</sup> 
-[allicefoxalice](users/138/138247248-vkontakte)<sup>0</sup> 
 
 
-_09.08.2020 19:11:21_
+_09.08.2020 19:17:18_
