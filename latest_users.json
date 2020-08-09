@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 74,
+        "updatedAt": "2020-08-09 20:52:03"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -22,12 +28,6 @@
         "nickname": "Lases13",
         "booksCount": 0,
         "updatedAt": "2020-08-09 09:26:42"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 73,
-        "updatedAt": "2020-08-08 18:28:33"
     },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
