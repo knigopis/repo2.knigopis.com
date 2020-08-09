@@ -1,4 +1,10 @@
 {
+    "108099895630206704374-google": {
+        "id": "108099895630206704374-google",
+        "nickname": "Таньчик",
+        "booksCount": 0,
+        "updatedAt": "2020-08-09 19:17:18"
+    },
     "109106074083820102515-google": {
         "id": "109106074083820102515-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Влад",
         "booksCount": 1,
         "updatedAt": "2020-07-29 23:42:08"
-    },
-    "138247248-vkontakte": {
-        "id": "138247248-vkontakte",
-        "nickname": "allicefoxalice",
-        "booksCount": 0,
-        "updatedAt": "2020-07-29 21:12:07"
     }
 }
