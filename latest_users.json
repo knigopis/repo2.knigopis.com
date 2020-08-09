@@ -1,4 +1,10 @@
 {
+    "109106074083820102515-google": {
+        "id": "109106074083820102515-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-08-09 19:08:58"
+    },
     "103233187704022534226-google": {
         "id": "103233187704022534226-google",
         "nickname": "Lases13",
@@ -172,11 +178,5 @@
         "nickname": "allicefoxalice",
         "booksCount": 0,
         "updatedAt": "2020-07-29 21:12:07"
-    },
-    "2417202-vkontakte": {
-        "id": "2417202-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-07-29 19:44:17"
     }
 }
