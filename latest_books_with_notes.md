@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
 * Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
 * Госпожа Бовари ~ [dmiro](users/571/5714115-vkontakte)<sup>31</sup>
 * Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
@@ -30,7 +31,6 @@
 * Садовые чары ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup>
 * Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
 * Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
-* Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
 
 
-_08.08.2020 11:07:09_
+_09.08.2020 19:21:25_

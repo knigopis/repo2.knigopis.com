@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
+    > Сутки
+
 * Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
     > "Завтрак у Тиффани" можно перечитывать многократно: элегантно, легко и глубоко. "Голоса травы" читалось тяжеловато, но прекрасная эпоха описана красивыми словами.
 
@@ -24,7 +27,6 @@ Do not use pull requests to make changes here.
     > Она не могла себе представить, чтобы спокойствие, в котором она жила, и было счастьем, — не о таком счастье она мечтала.
 
 * Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
-    > 9/10 Рассказ из молодости Роланда.
 
 * Жребий Салема ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup>
 
@@ -38,14 +40,12 @@ Do not use pull requests to make changes here.
 
 * SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
 
-* Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Таньчик](users/209/2096581563762610-facebook)<sup>90</sup> 
+[Таньчик](users/209/2096581563762610-facebook)<sup>91</sup> 
 [Таньчик](users/108/108099895630206704374-google)<sup>0</sup> 
 [](users/109/109106074083820102515-google)<sup>1</sup> 
 [Lases13](users/103/103233187704022534226-google)<sup>0</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elochka](users/106/106611396170683247429-google)<sup>1</sup> 
 
 
-_09.08.2020 19:20:28_
+_09.08.2020 19:21:25_
