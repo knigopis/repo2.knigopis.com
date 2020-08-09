@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>89</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>90</sup>
 ---
 
 ## 2020
+
+### Байки бывалого хирурга
+Дмитрий Правдин
+> [2020-08-04] 
+
 
 ### Время в порядке
 Анна Всехсвятская
