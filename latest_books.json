@@ -1,4 +1,16 @@
 {
+    "bztCoi4eGS": {
+        "id": "bztCoi4eGS",
+        "title": "Абракадабра",
+        "author": "Эрик Фрэнк Рассел",
+        "notes": "",
+        "createdAt": "2020-08-09 19:11:21",
+        "user": {
+            "id": "109106074083820102515-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "GCL1oKVUV1": {
         "id": "GCL1oKVUV1",
         "title": "Медный всадник",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 81
-        }
-    },
-    "-fImq-k3Xz": {
-        "id": "-fImq-k3Xz",
-        "title": "Ионыч",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2020-08-04 05:56:31",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 80
         }
     }
 }
