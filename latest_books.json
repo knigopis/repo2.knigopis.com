@@ -1,4 +1,16 @@
 {
+    "Dg25jM9AWm": {
+        "id": "Dg25jM9AWm",
+        "title": "Старуха Изергиль",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2020-08-09 23:38:17",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 75
+        }
+    },
     "vCvgv3Ubik": {
         "id": "vCvgv3Ubik",
         "title": "Тарас Бульба",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 240
-        }
-    },
-    "z5f9UKpuyN": {
-        "id": "z5f9UKpuyN",
-        "title": "Тонкое искусство пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "в процессе",
-        "createdAt": "2020-08-04 09:25:13",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 239
         }
     }
 }
