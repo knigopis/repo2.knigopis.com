@@ -1,4 +1,16 @@
 {
+    "idnNVQBp-J": {
+        "id": "idnNVQBp-J",
+        "title": "The Woj way. Как воспитать успешного человека",
+        "author": "Эстер Войджицки",
+        "notes": "",
+        "createdAt": "2020-08-09 19:22:19",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 92
+        }
+    },
     "56dG-rAzdS": {
         "id": "56dG-rAzdS",
         "title": "Пять языков любви",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 84
-        }
-    },
-    "rE75W3e_Jg": {
-        "id": "rE75W3e_Jg",
-        "title": "Дом странных детей",
-        "author": "Ренсом Риггз",
-        "notes": "",
-        "createdAt": "2020-08-04 05:59:31",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 83
         }
     }
 }

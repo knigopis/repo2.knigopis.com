@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>91</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>92</sup>
 ---
 
 ## 2020
+
+### The Woj way. Как воспитать успешного человека
+Эстер Войджицки
+> [2020-08-06] 
+
 
 ### Пять языков любви
 Гэри Чепмен
