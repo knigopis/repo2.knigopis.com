@@ -1,4 +1,16 @@
 {
+    "l4evC2xVqE": {
+        "id": "l4evC2xVqE",
+        "title": "Диалоги о песке",
+        "author": "Сюгоро Ямомото",
+        "notes": "",
+        "createdAt": "2020-08-10 02:02:26",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 76
+        }
+    },
     "Dg25jM9AWm": {
         "id": "Dg25jM9AWm",
         "title": "Старуха Изергиль",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 64
-        }
-    },
-    "n-589ZRt9R": {
-        "id": "n-589ZRt9R",
-        "title": "Вернуться в Россию",
-        "author": "А.П. Решетников",
-        "notes": "в процессе",
-        "createdAt": "2020-08-04 09:27:29",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 240
         }
     }
 }

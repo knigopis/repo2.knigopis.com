@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>75</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>76</sup> 
 [uksare](users/124/1241750892508336-facebook)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>93</sup> 
 [Таньчик](users/108/108099895630206704374-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
 
 
-_09.08.2020 23:38:17_
+_10.08.2020 02:02:27_
