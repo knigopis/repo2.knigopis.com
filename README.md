@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/104/104760281666580438661-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>76</sup> 
 [uksare](users/124/1241750892508336-facebook)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>93</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106033731903118559839-google)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>46</sup> 
 [Axxyniron](users/102/102620077660877533621-google)<sup>3</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>88</sup> 
 
 
-_10.08.2020 02:02:27_
+_10.08.2020 08:59:28_
