@@ -1,4 +1,16 @@
 {
+    "gLP0jsIKSw": {
+        "id": "gLP0jsIKSw",
+        "title": "Эмпайр Фоллз",
+        "author": "Ричард Руссо",
+        "notes": "",
+        "createdAt": "2020-08-10 10:12:09",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 58
+        }
+    },
     "l4evC2xVqE": {
         "id": "l4evC2xVqE",
         "title": "Диалоги о песке",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 65
-        }
-    },
-    "pgNDPlSf35": {
-        "id": "pgNDPlSf35",
-        "title": "Бесы",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2020-08-04 18:30:23",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 64
         }
     }
 }

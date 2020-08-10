@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 58,
+        "updatedAt": "2020-08-10 10:12:09"
+    },
     "104760281666580438661-google": {
         "id": "104760281666580438661-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 46,
         "updatedAt": "2020-07-31 21:58:22"
-    },
-    "102620077660877533621-google": {
-        "id": "102620077660877533621-google",
-        "nickname": "Axxyniron",
-        "booksCount": 3,
-        "updatedAt": "2020-07-31 19:28:38"
     }
 }
