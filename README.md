@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>89</sup> 
 [](users/113/113751741123975959230-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>59</sup> 
 [](users/104/104760281666580438661-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111978052714957627223-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>142</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>27</sup> 
-[](users/106/106033731903118559839-google)<sup>1</sup> 
 
 
-_11.08.2020 12:05:09_
+_11.08.2020 13:38:59_

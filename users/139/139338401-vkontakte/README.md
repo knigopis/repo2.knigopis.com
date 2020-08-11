@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>88</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>89</sup>
 ---
 
 ## 2020
+
+### Амалия и белое видение
+Мастер Чэнь
+> [2020-08-10] 
+
 
 ### Куриный бульон для души
 Джек Кэнфилд
