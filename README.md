@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[reznik](users/107/107373097238064458501-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>94</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>89</sup> 
 [](users/113/113751741123975959230-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
 [](users/111/111978052714957627223-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>142</sup> 
-[Joxxy](users/109/109128632962928278575-google)<sup>27</sup> 
 
 
-_11.08.2020 20:04:14_
+_11.08.2020 20:52:32_
