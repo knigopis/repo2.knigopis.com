@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>60</sup> 
 [reznik](users/107/107373097238064458501-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>94</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/768/768549983-yandex)<sup>0</sup> 
 [nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
 [](users/111/111978052714957627223-google)<sup>1</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>142</sup> 
 
 
-_12.08.2020 09:41:05_
+_12.08.2020 23:11:30_
