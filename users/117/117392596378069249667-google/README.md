@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>59</sup>
+# List of books read by 4apa<sup>60</sup>
 ---
 
 ## 2020
+
+### Бруклинские глупости
+Пол Остер
+> [2020-08-12] 
+
 
 ### День независимости
 Ричард Форд

@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>60</sup> 
 [reznik](users/107/107373097238064458501-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>94</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>89</sup> 
 [](users/113/113751741123975959230-google)<sup>0</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>59</sup> 
 [](users/104/104760281666580438661-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>76</sup> 
 [uksare](users/124/1241750892508336-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>142</sup> 
 
 
-_11.08.2020 20:52:32_
+_12.08.2020 09:41:05_

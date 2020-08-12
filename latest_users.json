@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 60,
+        "updatedAt": "2020-08-12 09:41:05"
+    },
     "107373097238064458501-google": {
         "id": "107373097238064458501-google",
         "nickname": "reznik",
@@ -22,12 +28,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-08-11 12:05:09"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 59,
-        "updatedAt": "2020-08-10 10:12:53"
     },
     "104760281666580438661-google": {
         "id": "104760281666580438661-google",

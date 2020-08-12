@@ -1,4 +1,16 @@
 {
+    "CsRlLQaJM3": {
+        "id": "CsRlLQaJM3",
+        "title": "Бруклинские глупости",
+        "author": "Пол Остер",
+        "notes": "",
+        "createdAt": "2020-08-12 09:41:05",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 60
+        }
+    },
     "FUPUFRbh_0": {
         "id": "FUPUFRbh_0",
         "title": "Байки из роддома",
@@ -345,18 +357,6 @@
             "id": "106892998330932949986-google",
             "nickname": "littlmuk",
             "booksCount": 1
-        }
-    },
-    "_qfTiJMs50": {
-        "id": "_qfTiJMs50",
-        "title": "Повести Белкина",
-        "author": "Александр Сергеевич Пушкин",
-        "notes": "\"Но на чужой манер хлеб русский не родится\"",
-        "createdAt": "2020-08-05 18:06:34",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 67
         }
     }
 }
