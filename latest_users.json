@@ -1,4 +1,10 @@
 {
+    "300123225-vkontakte": {
+        "id": "300123225-vkontakte",
+        "nickname": null,
+        "booksCount": 85,
+        "updatedAt": "2020-08-13 18:53:49"
+    },
     "87846211-vkontakte": {
         "id": "87846211-vkontakte",
         "nickname": "No Pasaran",
@@ -148,12 +154,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 240,
         "updatedAt": "2020-08-04 09:27:29"
-    },
-    "300123225-vkontakte": {
-        "id": "300123225-vkontakte",
-        "nickname": null,
-        "booksCount": 84,
-        "updatedAt": "2020-08-04 06:11:00"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

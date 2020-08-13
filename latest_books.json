@@ -1,4 +1,16 @@
 {
+    "r84Te0DNVF": {
+        "id": "r84Te0DNVF",
+        "title": "Похороните меня за плинтусом",
+        "author": "Павел Санаев",
+        "notes": "",
+        "createdAt": "2020-08-13 18:53:49",
+        "user": {
+            "id": "300123225-vkontakte",
+            "nickname": null,
+            "booksCount": 85
+        }
+    },
     "CsRlLQaJM3": {
         "id": "CsRlLQaJM3",
         "title": "Бруклинские глупости",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 62
-        }
-    },
-    "gPADX25Nxm": {
-        "id": "gPADX25Nxm",
-        "title": "Манюня",
-        "author": "Нарине Абгарян",
-        "notes": "",
-        "createdAt": "2020-08-06 08:42:35",
-        "user": {
-            "id": "106892998330932949986-google",
-            "nickname": "littlmuk",
-            "booksCount": 1
         }
     }
 }
