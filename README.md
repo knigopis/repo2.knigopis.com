@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна форта с привидениями ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup>
+    > А также Тайна домика на утесе и Тайна комнаты без пола. Расследование ведут братья Харди!
+
 * Тарас Бульба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>74</sup>
     > "Коли человек влюбится, то он все равно что подошва, которую, коли размочишь в воде, возьми, согни – она и согнется."
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сутки
 
 * Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
-    > "Завтрак у Тиффани" можно перечитывать многократно: элегантно, легко и глубоко. "Голоса травы" читалось тяжеловато, но прекрасная эпоха описана красивыми словами.
 
 * Госпожа Бовари ~ [dmiro](users/571/5714115-vkontakte)<sup>31</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
 
-* Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup> 
 [](users/300/300123225-vkontakte)<sup>85</sup> 
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 [](users/768/768549983-yandex)<sup>0</sup> 
 [nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
-[](users/111/111978052714957627223-google)<sup>1</sup> 
 
 
-_13.08.2020 18:53:49_
+_13.08.2020 19:28:01_

@@ -1,4 +1,16 @@
 {
+    "LxwsXNQgKj": {
+        "id": "LxwsXNQgKj",
+        "title": "Тайна форта с привидениями",
+        "author": "Франклин Диксон",
+        "notes": "А также Тайна домика на утесе и Тайна комнаты без пола. Расследование ведут братья Харди!",
+        "createdAt": "2020-08-13 19:28:01",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 47
+        }
+    },
     "r84Te0DNVF": {
         "id": "r84Te0DNVF",
         "title": "Похороните меня за плинтусом",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 68
-        }
-    },
-    "_r-QmAqJx-": {
-        "id": "_r-QmAqJx-",
-        "title": "Добродетель эгоизма",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2020-08-06 18:54:25",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 62
         }
     }
 }
