@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ImpendingSky](users/118/118049897850017649660-googleplus)<sup>0</sup> 
+[Sky](users/118/118049897850017649660-googleplus)<sup>170</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>95</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 
 
-_14.08.2020 19:19:36_
+_14.08.2020 19:28:34_
