@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "ImpendingSky",
+        "booksCount": 0,
+        "updatedAt": "2020-08-14 19:19:36"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 258,
         "updatedAt": "2020-08-03 16:33:11"
-    },
-    "768549983-yandex": {
-        "id": "768549983-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-08-02 13:57:38"
     }
 }
