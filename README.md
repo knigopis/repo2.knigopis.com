@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>95</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup> 
 [](users/300/300123225-vkontakte)<sup>85</sup> 
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>60</sup> 
 [reznik](users/107/107373097238064458501-google)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>94</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>89</sup> 
 [](users/113/113751741123975959230-google)<sup>0</sup> 
 [](users/104/104760281666580438661-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
 
 
-_13.08.2020 19:28:01_
+_14.08.2020 11:18:32_
