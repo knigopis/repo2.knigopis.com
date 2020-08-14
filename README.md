@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Страна радости ~ [Rainbow](users/109/109787328219839805802-google)<sup>57</sup>
+    > «Должен признать, идея вновь появиться в газетах мне нравилась. Для моего эго и самоуважения это лето выдалось трудным, и я приветствовал все, что их повышало.»
+    > Слишком лёгкое, но продолжительное по времени чтение не по мне – не понравилось.
+
 * Тайна форта с привидениями ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup>
     > А также Тайна домика на утесе и Тайна комнаты без пола. Расследование ведут братья Харди!
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > "Коли человек влюбится, то он все равно что подошва, которую, коли размочишь в воде, возьми, согни – она и согнется."
 
 * Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
-    > Сутки
 
 * Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
 
-* Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>95</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup> 
 [](users/300/300123225-vkontakte)<sup>85</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 [](users/768/768549983-yandex)<sup>0</sup> 
-[nurvkonsetunela](users/193/193873058-vkontakte)<sup>1</sup> 
 
 
-_14.08.2020 11:18:32_
+_14.08.2020 17:18:19_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Страна радости ~ [Rainbow](users/109/109787328219839805802-google)<sup>57</sup>
 * Тайна форта с привидениями ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup>
 * Тарас Бульба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>74</sup>
 * Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
@@ -30,7 +31,6 @@
 * Хроники смутного времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>194</sup>
 * Хорошо быть тихоней ~ [Elixir](users/115/115826717712507836033-google)<sup>169</sup>
 * Я змішаю твою кров із вугіллям ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup>
-* Садовые чары ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup>
 
 
-_13.08.2020 19:28:01_
+_14.08.2020 17:18:19_

@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 57,
+        "updatedAt": "2020-08-14 17:18:19"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-08-02 13:57:38"
-    },
-    "193873058-vkontakte": {
-        "id": "193873058-vkontakte",
-        "nickname": "nurvkonsetunela",
-        "booksCount": 1,
-        "updatedAt": "2020-08-02 11:07:22"
     }
 }
