@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>171</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>95</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>219</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>258</sup> 
 
 
-_14.08.2020 19:30:25_
+_15.08.2020 07:12:58_
