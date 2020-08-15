@@ -1,4 +1,10 @@
 {
+    "34250840-vkontakte": {
+        "id": "34250840-vkontakte",
+        "nickname": "termer_craft",
+        "booksCount": 0,
+        "updatedAt": "2020-08-15 13:42:31"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "littlmuk",
         "booksCount": 1,
         "updatedAt": "2020-08-06 08:42:35"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 219,
-        "updatedAt": "2020-08-05 09:59:48"
     }
 }
