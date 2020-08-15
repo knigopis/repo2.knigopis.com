@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>128</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>171</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Марина Шилович](users/172/17277138623026186920-mailru)<sup>0</sup> 
 [ftswm](users/100/100638342-vkontakte)<sup>0</sup> 
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>219</sup> 
 
 
-_15.08.2020 13:01:21_
+_15.08.2020 13:42:32_
