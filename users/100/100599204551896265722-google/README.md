@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>129</sup>
+# Список прочитанных книг пользователя exulted<sup>130</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Conspiracy: A breathtaking espionage thriller in the Sunday Times bestselling Giordano Bruno series (Giordano Bruno, Book 5)
 S.J. Parris
 > [2020-08-13] 
+
+
+### Далекие Годы
+Паустовский К.Г.
+> [2020-07-27] Книга 1, Повесть о жизни
 
 
 ### Весна народов. Русские и украинцы между Булгаковым и Петлюрой

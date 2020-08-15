@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
+    > Книга 1, Повесть о жизни
+
 * Страна радости ~ [Rainbow](users/109/109787328219839805802-google)<sup>57</sup>
     > «Должен признать, идея вновь появиться в газетах мне нравилась. Для моего эго и самоуважения это лето выдалось трудным, и я приветствовал все, что их повышало.»
     > Слишком лёгкое, но продолжительное по времени чтение не по мне – не понравилось.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > А также Тайна домика на утесе и Тайна комнаты без пола. Расследование ведут братья Харди!
 
 * Тарас Бульба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>74</sup>
-    > "Коли человек влюбится, то он все равно что подошва, которую, коли размочишь в воде, возьми, согни – она и согнется."
 
 * Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Повести Белкина ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup>
 
-* Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>129</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>171</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 
 
-_15.08.2020 14:18:34_
+_15.08.2020 14:20:12_
