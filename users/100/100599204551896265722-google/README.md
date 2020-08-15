@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>128</sup>
+# Список прочитанных книг пользователя exulted<sup>129</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Conspiracy: A breathtaking espionage thriller in the Sunday Times bestselling Giordano Bruno series (Giordano Bruno, Book 5)
 S.J. Parris
 > [2020-08-13] 
+
+
+### Весна народов. Русские и украинцы между Булгаковым и Петлюрой
+Беляков Сергей
+> [2020-07-20] 
 
 
 ### The Making of a Manager: What to Do When Everyone Looks to You

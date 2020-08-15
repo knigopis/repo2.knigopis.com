@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>129</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>128</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>171</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 
 
-_15.08.2020 13:42:32_
+_15.08.2020 14:18:34_
