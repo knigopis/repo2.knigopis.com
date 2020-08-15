@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 128,
+        "updatedAt": "2020-08-15 13:01:21"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 219,
         "updatedAt": "2020-08-05 09:59:48"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 240,
-        "updatedAt": "2020-08-04 09:27:29"
     }
 }

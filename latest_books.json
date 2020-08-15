@@ -1,4 +1,16 @@
 {
+    "Dm6iTI4GZj": {
+        "id": "Dm6iTI4GZj",
+        "title": "Conspiracy: A breathtaking espionage thriller in the Sunday Times bestselling Giordano Bruno series (Giordano Bruno, Book 5)",
+        "author": "S.J. Parris",
+        "notes": "",
+        "createdAt": "2020-08-15 13:01:21",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 128
+        }
+    },
     "D-eEwZb8y8": {
         "id": "D-eEwZb8y8",
         "title": "Архив буресвета. Давший клятву. Часть 2",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 133
-        }
-    },
-    "as_wDYklOS": {
-        "id": "as_wDYklOS",
-        "title": "На берегах Сакраменто",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2020-08-07 17:23:30",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 71
         }
     }
 }

@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>127</sup>
+# Список прочитанных книг пользователя exulted<sup>128</sup>
 ---
 
 ## 2020
+
+### Conspiracy: A breathtaking espionage thriller in the Sunday Times bestselling Giordano Bruno series (Giordano Bruno, Book 5)
+S.J. Parris
+> [2020-08-13] 
+
 
 ### The Making of a Manager: What to Do When Everyone Looks to You
 Julie Zhuo
