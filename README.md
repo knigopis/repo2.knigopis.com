@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109106074083820102515-google)<sup>1</sup> 
 [Lases13](users/103/103233187704022534226-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>174</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>114</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 
 
-_16.08.2020 10:09:30_
+_16.08.2020 13:14:53_
