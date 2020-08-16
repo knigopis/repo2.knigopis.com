@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[florenxce](users/113/113221536298663028563-googleplus)<sup>1</sup> 
+[florenxce](users/113/113221536298663028563-googleplus)<sup>2</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ftswm](users/100/100638342-vkontakte)<sup>0</sup> 
 
 
-_16.08.2020 14:09:41_
+_16.08.2020 14:11:16_

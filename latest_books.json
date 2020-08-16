@@ -1,4 +1,16 @@
 {
+    "ISAs_1pvyV": {
+        "id": "ISAs_1pvyV",
+        "title": "Сыновья и любовники",
+        "author": "Дэвиг Герберт Лоуренс",
+        "notes": "",
+        "createdAt": "2020-08-16 14:11:16",
+        "user": {
+            "id": "113221536298663028563-googleplus",
+            "nickname": "florenxce",
+            "booksCount": 2
+        }
+    },
     "YG7XoXEaPN": {
         "id": "YG7XoXEaPN",
         "title": "Прекрасные и проклятые",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 72
-        }
-    },
-    "MgcLKlSlnQ": {
-        "id": "MgcLKlSlnQ",
-        "title": "Война миров",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2020-08-08 16:11:00",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 174
         }
     }
 }
