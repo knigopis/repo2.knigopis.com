@@ -1,4 +1,10 @@
 {
+    "113221536298663028563-googleplus": {
+        "id": "113221536298663028563-googleplus",
+        "nickname": "florenxce",
+        "booksCount": 0,
+        "updatedAt": "2020-08-16 14:09:17"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "ftswm",
         "booksCount": 0,
         "updatedAt": "2020-08-06 10:23:55"
-    },
-    "106892998330932949986-google": {
-        "id": "106892998330932949986-google",
-        "nickname": "littlmuk",
-        "booksCount": 1,
-        "updatedAt": "2020-08-06 08:42:35"
     }
 }
