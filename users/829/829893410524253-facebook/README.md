@@ -1,4 +1,4 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>134</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>135</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Смиренные сестры Элурии
 Стивен Кинг
 > [2020-08-04] 9/10 Рассказ из молодости Роланда.
+
+
+### Nowele przykładne
+Miguel de Cervantes
+> [2020-08-02] 5/10 Banalne romantyczne opowiadania.
 
 
 ### Жребий Салема

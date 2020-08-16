@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
+    > 5/10 Banalne romantyczne opowiadania.
+
 * Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
     > Книга 1, Повесть о жизни
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Слишком лёгкое, но продолжительное по времени чтение не по мне – не понравилось.
 
 * Тайна форта с привидениями ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup>
-    > А также Тайна домика на утесе и Тайна комнаты без пола. Расследование ведут братья Харди!
 
 * Тарас Бульба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>74</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Жребий Салема ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup>
 
-* Повести Белкина ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup> 
 [aonty](users/230/230130972-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>62</sup> 
 [Марина Шилович](users/172/17277138623026186920-mailru)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 
 
-_15.08.2020 14:20:12_
+_16.08.2020 10:05:01_
