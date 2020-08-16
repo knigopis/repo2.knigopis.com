@@ -1,4 +1,16 @@
 {
+    "YG7XoXEaPN": {
+        "id": "YG7XoXEaPN",
+        "title": "Прекрасные и проклятые",
+        "author": "Ф. С. Фицджеральд",
+        "notes": "",
+        "createdAt": "2020-08-16 14:09:41",
+        "user": {
+            "id": "113221536298663028563-googleplus",
+            "nickname": "florenxce",
+            "booksCount": 1
+        }
+    },
     "I5H3GQNsaV": {
         "id": "I5H3GQNsaV",
         "title": "Гордость и предупреждение",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 174
-        }
-    },
-    "bj39-VkX0N": {
-        "id": "bj39-VkX0N",
-        "title": "Вопрос - половинка сердца",
-        "author": "София Лундберг",
-        "notes": "",
-        "createdAt": "2020-08-08 14:19:23",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 114
         }
     }
 }
