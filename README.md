@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
+    > 8/10 Сборник фентези рассказов.
+
 * Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
     > 7/10 Ретродетеив о перезде и французской делегации.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Banalne romantyczne opowiadania.
 
 * Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
-    > Книга 1, Повесть о жизни
 
 * Страна радости ~ [Rainbow](users/109/109787328219839805802-google)<sup>57</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Госпожа Бовари ~ [dmiro](users/571/5714115-vkontakte)<sup>31</sup>
 
-* Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [littlmuk](users/106/106892998330932949986-google)<sup>1</sup> 
 
 
-_16.08.2020 10:08:37_
+_16.08.2020 10:09:30_
