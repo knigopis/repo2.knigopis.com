@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
 * Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
 * Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
 * Страна радости ~ [Rainbow](users/109/109787328219839805802-google)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Трещина во времени ~ [Elixir](users/115/115826717712507836033-google)<sup>422</sup>
 * Жизнь археолога ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>126</sup>
 * Poland ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>125</sup>
-* Хроники смутного времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>194</sup>
 
 
-_16.08.2020 10:05:01_
+_16.08.2020 10:08:37_

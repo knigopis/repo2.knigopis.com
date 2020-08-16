@@ -1,4 +1,16 @@
 {
+    "8-2xwErfZZ": {
+        "id": "8-2xwErfZZ",
+        "title": "Труп из первой столиці",
+        "author": "Ирина Потанина",
+        "notes": "7/10 Ретродетеив о перезде и французской делегации.",
+        "createdAt": "2020-08-16 10:08:37",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 136
+        }
+    },
     "NOJh6vVpIB": {
         "id": "NOJh6vVpIB",
         "title": "Nowele przykładne",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 125
-        }
-    },
-    "nrppaKLXli": {
-        "id": "nrppaKLXli",
-        "title": "Хроники смутного времени",
-        "author": "Зубарев Евгений",
-        "notes": "Беда хороших людей в том, что они всех подозревают в порядочности",
-        "createdAt": "2020-07-14 19:49:57",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 194
         }
     }
 }

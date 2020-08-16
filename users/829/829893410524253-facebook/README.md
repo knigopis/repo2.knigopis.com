@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>135</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>136</sup>
 ---
 
 ## 2020
+
+### Труп из первой столиці
+Ирина Потанина
+> [2020-08-10] 7/10 Ретродетеив о перезде и французской делегации.
+
 
 ### Смиренные сестры Элурии
 Стивен Кинг
