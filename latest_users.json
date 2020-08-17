@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 96,
+        "updatedAt": "2020-08-17 06:49:28"
+    },
     "113221536298663028563-googleplus": {
         "id": "113221536298663028563-googleplus",
         "nickname": "florenxce",
@@ -46,12 +52,6 @@
         "nickname": "Rainbow",
         "booksCount": 57,
         "updatedAt": "2020-08-14 17:18:19"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 95,
-        "updatedAt": "2020-08-14 11:18:32"
     },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
