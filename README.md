@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Jinmi Gikkins](users/116/116590656999595569531-google)<sup>0</sup> 
 [christo_redemptor](users/144/14490047-vkontakte)<sup>1</sup> 
 [negodok](users/884/8841255-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>96</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 [alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 [aonty](users/230/230130972-vkontakte)<sup>0</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>62</sup> 
 
 
-_17.08.2020 12:48:28_
+_17.08.2020 19:39:28_
