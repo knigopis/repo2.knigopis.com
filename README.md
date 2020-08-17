@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[negodok](users/884/8841255-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>96</sup> 
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aonty](users/230/230130972-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>62</sup> 
 [Марина Шилович](users/172/17277138623026186920-mailru)<sup>0</sup> 
-[ftswm](users/100/100638342-vkontakte)<sup>0</sup> 
 
 
-_17.08.2020 06:49:28_
+_17.08.2020 08:00:25_
