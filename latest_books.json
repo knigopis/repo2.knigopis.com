@@ -1,4 +1,16 @@
 {
+    "90OGZm1_up": {
+        "id": "90OGZm1_up",
+        "title": "",
+        "author": "зыгарь",
+        "notes": "",
+        "createdAt": "2020-08-17 12:48:28",
+        "user": {
+            "id": "14490047-vkontakte",
+            "nickname": "christo_redemptor",
+            "booksCount": 1
+        }
+    },
     "sI5FqjXtGJ": {
         "id": "sI5FqjXtGJ",
         "title": "Ошибка молодости",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 90
-        }
-    },
-    "bztCoi4eGS": {
-        "id": "bztCoi4eGS",
-        "title": "Абракадабра",
-        "author": "Эрик Фрэнк Рассел",
-        "notes": "",
-        "createdAt": "2020-08-09 19:11:21",
-        "user": {
-            "id": "109106074083820102515-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

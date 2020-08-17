@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[christo_redemptor](users/144/14490047-vkontakte)<sup>0</sup> 
+[christo_redemptor](users/144/14490047-vkontakte)<sup>1</sup> 
 [negodok](users/884/8841255-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>96</sup> 
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>62</sup> 
 
 
-_17.08.2020 12:48:02_
+_17.08.2020 12:48:28_
