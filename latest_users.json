@@ -1,4 +1,10 @@
 {
+    "8841255-vkontakte": {
+        "id": "8841255-vkontakte",
+        "nickname": "negodok",
+        "booksCount": 0,
+        "updatedAt": "2020-08-17 08:00:25"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Марина Шилович",
         "booksCount": 0,
         "updatedAt": "2020-08-06 12:44:53"
-    },
-    "100638342-vkontakte": {
-        "id": "100638342-vkontakte",
-        "nickname": "ftswm",
-        "booksCount": 0,
-        "updatedAt": "2020-08-06 10:23:55"
     }
 }
