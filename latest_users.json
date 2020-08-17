@@ -1,4 +1,10 @@
 {
+    "14490047-vkontakte": {
+        "id": "14490047-vkontakte",
+        "nickname": "christo_redemptor",
+        "booksCount": 0,
+        "updatedAt": "2020-08-17 12:48:02"
+    },
     "8841255-vkontakte": {
         "id": "8841255-vkontakte",
         "nickname": "negodok",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 62,
         "updatedAt": "2020-08-06 18:54:25"
-    },
-    "17277138623026186920-mailru": {
-        "id": "17277138623026186920-mailru",
-        "nickname": "Марина Шилович",
-        "booksCount": 0,
-        "updatedAt": "2020-08-06 12:44:53"
     }
 }
