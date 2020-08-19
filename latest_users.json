@@ -1,4 +1,10 @@
 {
+    "104915951904734387490-google": {
+        "id": "104915951904734387490-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-08-19 09:25:59"
+    },
     "116590656999595569531-google": {
         "id": "116590656999595569531-google",
         "nickname": "Jinmi Gikkins",
@@ -172,11 +178,5 @@
         "nickname": "alina_mot",
         "booksCount": 0,
         "updatedAt": "2020-08-08 02:28:07"
-    },
-    "230130972-vkontakte": {
-        "id": "230130972-vkontakte",
-        "nickname": "aonty",
-        "booksCount": 0,
-        "updatedAt": "2020-08-06 22:08:35"
     }
 }
