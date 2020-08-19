@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>97</sup> 
 [](users/104/104915951904734387490-google)<sup>0</sup> 
 [Jinmi Gikkins](users/116/116590656999595569531-google)<sup>0</sup> 
 [christo_redemptor](users/144/14490047-vkontakte)<sup>1</sup> 
 [negodok](users/884/8841255-vkontakte)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>96</sup> 
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 
 
-_19.08.2020 09:25:59_
+_19.08.2020 18:07:27_
