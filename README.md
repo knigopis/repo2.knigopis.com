@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
+    > Немного фентези, немного философии, немного квантовой физики. Классная книга, Смерть великолепен
+
 * Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
     > 8/10 Сборник фентези рассказов.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Ретродетеив о перезде и французской делегации.
 
 * Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
-    > 5/10 Banalne romantyczne opowiadania.
 
 * Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
 
-* Госпожа Бовари ~ [dmiro](users/571/5714115-vkontakte)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>259</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>97</sup> 
 [](users/104/104915951904734387490-google)<sup>0</sup> 
 [Jinmi Gikkins](users/116/116590656999595569531-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>174</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
-[alina_mot](users/103/103322968684647562714-google)<sup>0</sup> 
 
 
-_19.08.2020 18:07:27_
+_20.08.2020 17:13:33_
