@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
+    > Скорее даже не рассказ, сага в прозе о Серебряной орде и их героическом спасении мира от конца света, который правда они сами и устроили
+
 * Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
     > Немного фентези, немного философии, немного квантовой физики. Классная книга, Смерть великолепен
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Сборник фентези рассказов.
 
 * Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
-    > 7/10 Ретродетеив о перезде и французской делегации.
 
 * Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
 
-* Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>259</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>260</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>97</sup> 
 [](users/104/104915951904734387490-google)<sup>0</sup> 
 [Jinmi Gikkins](users/116/116590656999595569531-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 
 
-_20.08.2020 17:13:33_
+_20.08.2020 17:16:15_
