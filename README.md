@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
+    > Книга 2, Повесть о жизни
+
 * Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
     > Скорее даже не рассказ, сага в прозе о Серебряной орде и их героическом спасении мира от конца света, который правда они сами и устроили
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Немного фентези, немного философии, немного квантовой физики. Классная книга, Смерть великолепен
 
 * Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
-    > 8/10 Сборник фентези рассказов.
 
 * Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тарас Бульба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>74</sup>
 
-* Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>260</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>97</sup> 
 [](users/104/104915951904734387490-google)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>171</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 
 
-_20.08.2020 17:16:15_
+_20.08.2020 17:32:20_

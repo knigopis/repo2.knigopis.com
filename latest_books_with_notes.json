@@ -1,4 +1,16 @@
 {
+    "Xoy0KgsKjq": {
+        "id": "Xoy0KgsKjq",
+        "title": "Беспокойная юность",
+        "author": "Паустовский К.Г.",
+        "notes": "Книга 2, Повесть о жизни",
+        "createdAt": "2020-08-20 17:32:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 131
+        }
+    },
     "4bwvAv_O9C": {
         "id": "4bwvAv_O9C",
         "title": "Последний герой",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 95
-        }
-    },
-    "XVR_cbm-lv": {
-        "id": "XVR_cbm-lv",
-        "title": "Правда",
-        "author": "Пратчетт, Терри",
-        "notes": "Хорошее описание журналистики изнутри. Книга показалась чуть более жёсткая, чем предыдущие.",
-        "createdAt": "2020-07-16 19:59:48",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 257
         }
     }
 }
