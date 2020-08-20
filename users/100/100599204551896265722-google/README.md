@@ -3,7 +3,7 @@
 
 ## 2020
 
-### Conspiracy: A breathtaking espionage thriller in the Sunday Times bestselling Giordano Bruno series (Giordano Bruno, Book 5)
+### Conspiracy: (Giordano Bruno, Book 5)
 S.J. Parris
 > [2020-08-13] 
 
