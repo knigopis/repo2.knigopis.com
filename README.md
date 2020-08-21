@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112786334705654109133-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109106074083820102515-google)<sup>1</sup> 
 [Lases13](users/103/103233187704022534226-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>174</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
 
 
-_21.08.2020 13:20:26_
+_21.08.2020 15:27:09_
