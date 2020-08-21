@@ -1,4 +1,10 @@
 {
+    "112786334705654109133-google": {
+        "id": "112786334705654109133-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-08-21 15:27:09"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 174,
         "updatedAt": "2020-08-08 16:11:00"
-    },
-    "5714115-vkontakte": {
-        "id": "5714115-vkontakte",
-        "nickname": "dmiro",
-        "booksCount": 32,
-        "updatedAt": "2020-08-08 11:07:09"
     }
 }
