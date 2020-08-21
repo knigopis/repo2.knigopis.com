@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
 * Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 * Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
@@ -30,7 +31,6 @@
 * Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
 * Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
 * В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
-* Безсонница ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>127</sup>
 
 
-_21.08.2020 10:46:28_
+_21.08.2020 18:29:36_
