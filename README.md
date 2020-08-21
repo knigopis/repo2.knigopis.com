@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
+    > Хорошая книга о философии жизни. Много про то, что не надо бежать впереди жизни, нужно научится ценить моменты, быть мягкими и гибкими и открываться миру несмотря ни на что. Сейчас так редко мы позволяем жизни просто течь, без цели, без смысла, просто жить, наслаждаясь моментом
+
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
     > Книга 2, Повесть о жизни
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Скорее даже не рассказ, сага в прозе о Серебряной орде и их героическом спасении мира от конца света, который правда они сами и устроили
 
 * Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
-    > Немного фентези, немного философии, немного квантовой физики. Классная книга, Смерть великолепен
 
 * Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тайна форта с привидениями ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup>
 
-* Тарас Бульба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>260</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lases13](users/103/103233187704022534226-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>174</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>32</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>423</sup> 
 
 
-_20.08.2020 17:32:20_
+_21.08.2020 10:46:28_

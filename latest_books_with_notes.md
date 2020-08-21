@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 * Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
 * Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
@@ -30,7 +31,6 @@
 * Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
 * В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
 * Безсонница ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>127</sup>
-* Три товарища ~ [kissamasya](users/684/68439978-vkontakte)<sup>95</sup>
 
 
-_20.08.2020 17:32:20_
+_21.08.2020 10:46:28_
