@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>172</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>63</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup> 
 [](users/112/112786334705654109133-google)<sup>0</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>56</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>171</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
 [](users/300/300123225-vkontakte)<sup>85</sup> 
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lases13](users/103/103233187704022534226-google)<sup>0</sup> 
 
 
-_22.08.2020 14:45:10_
+_22.08.2020 15:08:47_

@@ -1,7 +1,12 @@
-# List of books read by Sky<sup>171</sup>
+# List of books read by Sky<sup>172</sup>
 ---
 
 ## 2020
+
+### Шамайка
+Юрий Коваль
+> [2020-08-20] 
+
 
 ### Светила
 Элеанор Каттон
