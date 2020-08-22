@@ -1,4 +1,16 @@
 {
+    "KtaCf_t70d": {
+        "id": "KtaCf_t70d",
+        "title": "Искусство любить",
+        "author": "Эрих Фромм",
+        "notes": "",
+        "createdAt": "2020-08-22 14:45:10",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 63
+        }
+    },
     "uHsJon5Cch": {
         "id": "uHsJon5Cch",
         "title": "Простые волшебные вещи",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 59
-        }
-    },
-    "gLP0jsIKSw": {
-        "id": "gLP0jsIKSw",
-        "title": "Эмпайр Фоллз",
-        "author": "Ричард Руссо",
-        "notes": "",
-        "createdAt": "2020-08-10 10:12:09",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 58
         }
     }
 }

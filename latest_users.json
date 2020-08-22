@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 63,
+        "updatedAt": "2020-08-22 14:45:10"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Lases13",
         "booksCount": 0,
         "updatedAt": "2020-08-09 09:26:42"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 174,
-        "updatedAt": "2020-08-08 16:11:00"
     }
 }
