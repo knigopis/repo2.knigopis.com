@@ -1,4 +1,16 @@
 {
+    "LY8GqMwYj1": {
+        "id": "LY8GqMwYj1",
+        "title": "Ослокрады",
+        "author": "Джеральд Даррелл",
+        "notes": "",
+        "createdAt": "2020-08-22 15:10:30",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 173
+        }
+    },
     "nnA4SnJxtZ": {
         "id": "nnA4SnJxtZ",
         "title": "Шамайка",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 94
-        }
-    },
-    "KsalBAV5AT": {
-        "id": "KsalBAV5AT",
-        "title": "Амалия и белое видение",
-        "author": "Мастер Чэнь",
-        "notes": "",
-        "createdAt": "2020-08-11 13:38:58",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 89
         }
     }
 }
