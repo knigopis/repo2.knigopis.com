@@ -1,4 +1,16 @@
 {
+    "kAt7zQswQx": {
+        "id": "kAt7zQswQx",
+        "title": "Чужие",
+        "author": "Дин Алан Фостер",
+        "notes": "",
+        "createdAt": "2020-08-23 05:03:47",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 176
+        }
+    },
     "xb86mi7CHX": {
         "id": "xb86mi7CHX",
         "title": "Чужой",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 57
-        }
-    },
-    "g8eDf3Foiw": {
-        "id": "g8eDf3Foiw",
-        "title": "И шарик вернется",
-        "author": "Мария Метлицкая",
-        "notes": "",
-        "createdAt": "2020-08-14 11:18:32",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 95
         }
     }
 }
