@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>174</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>175</sup>
 ---
 
 ## 2020
+
+### Чужой
+Дин Алан Фостер
+> [2020-08-18] 
+
 
 ### Война миров
 Герберт Уэллс

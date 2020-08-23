@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>175</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>63</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>76</sup> 
 [uksare](users/124/1241750892508336-facebook)<sup>0</sup> 
 [Таньчик](users/108/108099895630206704374-google)<sup>0</sup> 
-[](users/109/109106074083820102515-google)<sup>1</sup> 
 
 
-_23.08.2020 04:24:16_
+_23.08.2020 05:03:20_

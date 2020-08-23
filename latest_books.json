@@ -1,4 +1,16 @@
 {
+    "xb86mi7CHX": {
+        "id": "xb86mi7CHX",
+        "title": "Чужой",
+        "author": "Дин Алан Фостер",
+        "notes": "",
+        "createdAt": "2020-08-23 05:03:20",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 175
+        }
+    },
     "TYSZGGCO75": {
         "id": "TYSZGGCO75",
         "title": "Джек Лондон",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 95
-        }
-    },
-    "LxwsXNQgKj": {
-        "id": "LxwsXNQgKj",
-        "title": "Тайна форта с привидениями",
-        "author": "Франклин Диксон",
-        "notes": "А также Тайна домика на утесе и Тайна комнаты без пола. Расследование ведут братья Харди!",
-        "createdAt": "2020-08-13 19:28:01",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 47
         }
     }
 }
