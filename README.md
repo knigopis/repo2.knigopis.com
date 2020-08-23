@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>98</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>57</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>176</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>260</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>97</sup> 
 [](users/104/104915951904734387490-google)<sup>0</sup> 
 [Jinmi Gikkins](users/116/116590656999595569531-google)<sup>0</sup> 
 [christo_redemptor](users/144/14490047-vkontakte)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/108/108099895630206704374-google)<sup>0</sup> 
 
 
-_23.08.2020 16:24:12_
+_23.08.2020 18:12:44_
