@@ -1,4 +1,16 @@
 {
+    "TYSZGGCO75": {
+        "id": "TYSZGGCO75",
+        "title": "Джек Лондон",
+        "author": "Сказание о Кише",
+        "notes": "",
+        "createdAt": "2020-08-23 04:24:16",
+        "user": {
+            "id": "221759364-yandex",
+            "nickname": "Vladasbook",
+            "booksCount": 3
+        }
+    },
     "CfPhoYZuwW": {
         "id": "CfPhoYZuwW",
         "title": "Первый учитель. (Повесть).",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 47
-        }
-    },
-    "r84Te0DNVF": {
-        "id": "r84Te0DNVF",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2020-08-13 18:53:49",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 85
         }
     }
 }

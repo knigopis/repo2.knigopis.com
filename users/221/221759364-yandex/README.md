@@ -1,7 +1,11 @@
-# List of books read by Vladasbook<sup>2</sup>
+# List of books read by Vladasbook<sup>3</sup>
 ---
 
 ## 2020
+
+### Джек Лондон
+Сказание о Кише
+
 
 ### Первый учитель. (Повесть).
 Чингиз Айтматов
