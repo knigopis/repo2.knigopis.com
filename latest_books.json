@@ -1,4 +1,16 @@
 {
+    "CfPhoYZuwW": {
+        "id": "CfPhoYZuwW",
+        "title": "Первый учитель. (Повесть).",
+        "author": "Чингиз Айтматов",
+        "notes": "",
+        "createdAt": "2020-08-23 03:49:20",
+        "user": {
+            "id": "221759364-yandex",
+            "nickname": "Vladasbook",
+            "booksCount": 2
+        }
+    },
     "2TtmCirUAK": {
         "id": "2TtmCirUAK",
         "title": "Сказание о Кише",
@@ -345,18 +357,6 @@
             "id": "300123225-vkontakte",
             "nickname": null,
             "booksCount": 85
-        }
-    },
-    "CsRlLQaJM3": {
-        "id": "CsRlLQaJM3",
-        "title": "Бруклинские глупости",
-        "author": "Пол Остер",
-        "notes": "",
-        "createdAt": "2020-08-12 09:41:05",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 60
         }
     }
 }
