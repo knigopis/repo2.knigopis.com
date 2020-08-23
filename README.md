@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vladasbook](users/221/221759364-yandex)<sup>0</sup> 
+[Vladasbook](users/221/221759364-yandex)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>63</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109106074083820102515-google)<sup>1</sup> 
 
 
-_23.08.2020 03:20:58_
+_23.08.2020 03:30:31_
