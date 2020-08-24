@@ -1,4 +1,16 @@
 {
+    "rMU6S0p98Z": {
+        "id": "rMU6S0p98Z",
+        "title": "Война и мир",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2020-08-24 18:12:16",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 77
+        }
+    },
     "uaJjMTZ3qY": {
         "id": "uaJjMTZ3qY",
         "title": "Дэвид Копперфилд",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 137
-        }
-    },
-    "8-2xwErfZZ": {
-        "id": "8-2xwErfZZ",
-        "title": "Труп из первой столиці",
-        "author": "Ирина Потанина",
-        "notes": "7/10 Ретродетеив о перезде и французской делегации.",
-        "createdAt": "2020-08-16 10:08:37",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 136
         }
     }
 }

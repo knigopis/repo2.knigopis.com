@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>77</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>197</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>98</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>89</sup> 
 [](users/113/113751741123975959230-google)<sup>0</sup> 
 [](users/104/104760281666580438661-google)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>76</sup> 
 
 
-_24.08.2020 17:52:36_
+_24.08.2020 18:12:16_
