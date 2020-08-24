@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nkot46](users/104/104299837-vkontakte)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>49</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>79</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [reznik](users/107/107373097238064458501-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>89</sup> 
 [](users/113/113751741123975959230-google)<sup>0</sup> 
-[](users/104/104760281666580438661-google)<sup>0</sup> 
 
 
-_24.08.2020 19:05:46_
+_24.08.2020 19:49:51_
