@@ -1,4 +1,16 @@
 {
+    "uaJjMTZ3qY": {
+        "id": "uaJjMTZ3qY",
+        "title": "Дэвид Копперфилд",
+        "author": "Диккенс",
+        "notes": "",
+        "createdAt": "2020-08-24 17:52:36",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 3
+        }
+    },
     "cNNUey3E_w": {
         "id": "cNNUey3E_w",
         "title": "Свои погремушки",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 136
-        }
-    },
-    "NOJh6vVpIB": {
-        "id": "NOJh6vVpIB",
-        "title": "Nowele przykładne",
-        "author": "Miguel de Cervantes",
-        "notes": "5/10 Banalne romantyczne opowiadania.",
-        "createdAt": "2020-08-16 10:05:00",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 135
         }
     }
 }
