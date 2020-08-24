@@ -1,7 +1,7 @@
 # Wish list of books by [Ночнокошкин](http://vk.com/id104299837)
 ---
 
-### `3` Koe no Katachi
+### `5` Koe no Katachi
 
 ### `2` Инициал Д.
 
