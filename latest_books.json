@@ -1,4 +1,16 @@
 {
+    "gxAKt4Isc_": {
+        "id": "gxAKt4Isc_",
+        "title": "Хроники Амбера",
+        "author": "Желязны Роджер",
+        "notes": "",
+        "createdAt": "2020-08-24 15:23:39",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 195
+        }
+    },
     "HlO02e4hri": {
         "id": "HlO02e4hri",
         "title": "Наша маленькая жизнь",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 129
-        }
-    },
-    "Dm6iTI4GZj": {
-        "id": "Dm6iTI4GZj",
-        "title": "Conspiracy: A breathtaking espionage thriller in the Sunday Times bestselling Giordano Bruno series (Giordano Bruno, Book 5)",
-        "author": "S.J. Parris",
-        "notes": "",
-        "createdAt": "2020-08-15 13:01:21",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 128
         }
     }
 }
