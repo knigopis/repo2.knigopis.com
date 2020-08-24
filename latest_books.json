@@ -1,4 +1,16 @@
 {
+    "KpA7Y7Zt9u": {
+        "id": "KpA7Y7Zt9u",
+        "title": "Человек-невидимка (1897)",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2020-08-24 19:55:00",
+        "user": {
+            "id": "104299837-vkontakte",
+            "nickname": "nkot46",
+            "booksCount": 3
+        }
+    },
     "GUg-AxI1pN": {
         "id": "GUg-AxI1pN",
         "title": "Машина времени",
@@ -345,18 +357,6 @@
             "id": "14490047-vkontakte",
             "nickname": "christo_redemptor",
             "booksCount": 1
-        }
-    },
-    "sI5FqjXtGJ": {
-        "id": "sI5FqjXtGJ",
-        "title": "Ошибка молодости",
-        "author": "Мария Метлицкая",
-        "notes": "",
-        "createdAt": "2020-08-17 06:49:28",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 96
         }
     }
 }
