@@ -1,4 +1,16 @@
 {
+    "WlsuEkbNL1": {
+        "id": "WlsuEkbNL1",
+        "title": "Инициал Д. 1 Том",
+        "author": "Сюити Сигэно",
+        "notes": "Аниме",
+        "createdAt": "2020-08-24 19:50:52",
+        "user": {
+            "id": "104299837-vkontakte",
+            "nickname": "nkot46",
+            "booksCount": 1
+        }
+    },
     "yVtKFkuorZ": {
         "id": "yVtKFkuorZ",
         "title": "Король Лир",
@@ -345,18 +357,6 @@
             "id": "113221536298663028563-googleplus",
             "nickname": "florenxce",
             "booksCount": 3
-        }
-    },
-    "ISAs_1pvyV": {
-        "id": "ISAs_1pvyV",
-        "title": "Сыновья и любовники",
-        "author": "Дэвиг Герберт Лоуренс",
-        "notes": "",
-        "createdAt": "2020-08-16 14:11:16",
-        "user": {
-            "id": "113221536298663028563-googleplus",
-            "nickname": "florenxce",
-            "booksCount": 2
         }
     }
 }
