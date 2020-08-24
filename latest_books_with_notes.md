@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
 * Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
 * Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
@@ -30,7 +31,6 @@
 * Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
 * Ходячий замок ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>45</sup>
 * Японские сказки ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>44</sup>
-* В основном безвредна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>70</sup>
 
 
-_21.08.2020 18:29:36_
+_24.08.2020 15:25:10_
