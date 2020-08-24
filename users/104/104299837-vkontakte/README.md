@@ -1,7 +1,11 @@
-# List of books read by [nkot46](http://vk.com/id104299837)<sup>5</sup>
+# List of books read by [Ночнокошкин](http://vk.com/id104299837)<sup>6</sup>
 ---
 
 ## 2019
+
+### Нахальный принц и кошка-несмеяна. Том 1
+Со Сагара
+
 
 ### Инициал Д. 1 Том
 Сюити Сигэно
