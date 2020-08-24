@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>49</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>79</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>197</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>176</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>63</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup> 
 [](users/112/112786334705654109133-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104760281666580438661-google)<sup>0</sup> 
 
 
-_24.08.2020 18:58:18_
+_24.08.2020 19:05:46_

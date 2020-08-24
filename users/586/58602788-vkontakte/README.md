@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>48</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>49</sup>
 ---
 
 ## 2020
+
+### Король Лир
+Уильям Шекспир
+> [2020-08] 
+
 
 ### Простые волшебные вещи
 Макс Фрай

@@ -1,4 +1,16 @@
 {
+    "yVtKFkuorZ": {
+        "id": "yVtKFkuorZ",
+        "title": "Король Лир",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2020-08-24 19:05:46",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 49
+        }
+    },
     "ntquIE5uga": {
         "id": "ntquIE5uga",
         "title": "Тоска",
@@ -345,18 +357,6 @@
             "id": "113221536298663028563-googleplus",
             "nickname": "florenxce",
             "booksCount": 2
-        }
-    },
-    "YG7XoXEaPN": {
-        "id": "YG7XoXEaPN",
-        "title": "Прекрасные и проклятые",
-        "author": "Ф. С. Фицджеральд",
-        "notes": "",
-        "createdAt": "2020-08-16 14:09:41",
-        "user": {
-            "id": "113221536298663028563-googleplus",
-            "nickname": "florenxce",
-            "booksCount": 1
         }
     }
 }
