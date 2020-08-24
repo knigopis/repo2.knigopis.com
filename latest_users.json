@@ -1,4 +1,10 @@
 {
+    "104299837-vkontakte": {
+        "id": "104299837-vkontakte",
+        "nickname": "nkot46",
+        "booksCount": 0,
+        "updatedAt": "2020-08-24 19:49:51"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-08-11 12:05:09"
-    },
-    "104760281666580438661-google": {
-        "id": "104760281666580438661-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-08-10 08:59:27"
     }
 }
