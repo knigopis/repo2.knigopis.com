@@ -1,4 +1,16 @@
 {
+    "GUg-AxI1pN": {
+        "id": "GUg-AxI1pN",
+        "title": "Машина времени",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2020-08-24 19:54:29",
+        "user": {
+            "id": "104299837-vkontakte",
+            "nickname": "nkot46",
+            "booksCount": 2
+        }
+    },
     "WlsuEkbNL1": {
         "id": "WlsuEkbNL1",
         "title": "Инициал Д. 1 Том",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 96
-        }
-    },
-    "MmtLDnhB34": {
-        "id": "MmtLDnhB34",
-        "title": "Тэсс из рода д'Эрбервиллей",
-        "author": "Томас Гарди",
-        "notes": "",
-        "createdAt": "2020-08-16 14:11:52",
-        "user": {
-            "id": "113221536298663028563-googleplus",
-            "nickname": "florenxce",
-            "booksCount": 3
         }
     }
 }
