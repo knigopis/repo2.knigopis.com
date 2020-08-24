@@ -1,4 +1,16 @@
 {
+    "wzb__PfD-R": {
+        "id": "wzb__PfD-R",
+        "title": "Sekai no Hate de Aimashou",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-08-24 20:16:37",
+        "user": {
+            "id": "104299837-vkontakte",
+            "nickname": "Ночнокошкин",
+            "booksCount": 7
+        }
+    },
     "RTONJIWVDY": {
         "id": "RTONJIWVDY",
         "title": "Нахальный принц и кошка-несмеяна. Том 1",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 131
-        }
-    },
-    "4bwvAv_O9C": {
-        "id": "4bwvAv_O9C",
-        "title": "Последний герой",
-        "author": "Пратчетт, Терри",
-        "notes": "Скорее даже не рассказ, сага в прозе о Серебряной орде и их героическом спасении мира от конца света, который правда они сами и устроили",
-        "createdAt": "2020-08-20 17:16:15",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 260
         }
     }
 }
