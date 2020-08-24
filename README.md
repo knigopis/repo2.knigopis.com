@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Свои погремушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>197</sup>
+    > Почему главную героиню зовут Аглая или Злата? Т.е. с обычным именем ничего не светит?
+
 * Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
     > Как обычно сказочка для взрослых женщин. Но очень красивый язык
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Вы не впиливаете, Макс. Я уезжаю навсегда, и вообще все всегда уезжают навсегда. Вернуться невозможно - вместо нас всегда возвращается кто-то другой, но это никто не впиливает. (с) Андэ Пу
 
 * Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
-    > Хорошая книга о философии жизни. Много про то, что не надо бежать впереди жизни, нужно научится ценить моменты, быть мягкими и гибкими и открываться миру несмотря ни на что. Сейчас так редко мы позволяем жизни просто течь, без цели, без смысла, просто жить, наслаждаясь моментом
 
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 
@@ -29,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
 
-* Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>196</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>197</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>98</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>57</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uksare](users/124/1241750892508336-facebook)<sup>0</sup> 
 
 
-_24.08.2020 15:25:10_
+_24.08.2020 15:26:46_
