@@ -1,4 +1,16 @@
 {
+    "fx876nyw_E": {
+        "id": "fx876nyw_E",
+        "title": "Прыжок в ничто",
+        "author": "Александр Беляев",
+        "notes": "",
+        "createdAt": "2020-08-24 19:58:06",
+        "user": {
+            "id": "104299837-vkontakte",
+            "nickname": "nkot46",
+            "booksCount": 4
+        }
+    },
     "KpA7Y7Zt9u": {
         "id": "KpA7Y7Zt9u",
         "title": "Человек-невидимка (1897)",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 97
-        }
-    },
-    "90OGZm1_up": {
-        "id": "90OGZm1_up",
-        "title": "",
-        "author": "зыгарь",
-        "notes": "",
-        "createdAt": "2020-08-17 12:48:28",
-        "user": {
-            "id": "14490047-vkontakte",
-            "nickname": "christo_redemptor",
-            "booksCount": 1
         }
     }
 }
