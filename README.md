@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
+    > 8/10
+
 * Свои погремушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>197</sup>
     > Почему главную героиню зовут Аглая или Злата? Т.е. с обычным именем ничего не светит?
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > Как обычно сказочка для взрослых женщин. Но очень красивый язык
 
 * Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
-    > Надо же! Всего каких-то сто лет назад этот мальчик торжественно клялся, что вообще не будет спать, когда вырастет. (с) матушка Мелифаро
-    > Мне пришлось перейти на галоп, чтобы догнать неугомонного господина Почтеннейшего Начальника, скатившегося вниз, в гостиную, по перилам. Любимый спорт младших школьников и злых колдунов.
-    > У меня появилась хорошая возможность отпустить домой симпатичного капитана Гьяту и заодно помочь своему приятелю Андэ на собственном опыте уяснить, что сбывшаяся мечта далеко не всегда тождественна счастью.
-    > Вы не впиливаете, Макс. Я уезжаю навсегда, и вообще все всегда уезжают навсегда. Вернуться невозможно - вместо нас всегда возвращается кто-то другой, но это никто не впиливает. (с) Андэ Пу
 
 * Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 
@@ -29,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
 
-* Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>143</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 [Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>49</sup> 
@@ -65,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/300/300123225-vkontakte)<sup>85</sup> 
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
 [reznik](users/107/107373097238064458501-google)<sup>0</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>89</sup> 
 
 
-_24.08.2020 22:18:07_
+_25.08.2020 00:45:17_
