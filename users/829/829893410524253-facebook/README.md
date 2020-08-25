@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>137</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>138</sup>
 ---
 
 ## 2020
+
+### Czyjem ja żyłem życiem?
+Andrzej Mularczyk
+> [2020-08-23] 9/10 Dobra książka o powojennych losach Polaków.
+
 
 ### Век волков
 Сборник

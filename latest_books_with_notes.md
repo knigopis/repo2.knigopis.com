@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
 * Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
 * Свои погремушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>197</sup>
 * Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
@@ -30,7 +31,6 @@
 * Михаил Хазин ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup>
 * Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
 * Японские народные сказки ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>235</sup>
-* Марсианские хроники ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>61</sup>
 
 
-_25.08.2020 00:45:17_
+_25.08.2020 10:34:54_

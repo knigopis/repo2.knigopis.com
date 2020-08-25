@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
+    > 9/10 Dobra książka o powojennych losach Polaków.
+
 * Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
     > 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Почему главную героиню зовут Аглая или Злата? Т.е. с обычным именем ничего не светит?
 
 * Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
-    > Как обычно сказочка для взрослых женщин. Но очень красивый язык
 
 * Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
 
-* Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>143</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 [Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [negodok](users/884/8841255-vkontakte)<sup>0</sup> 
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
 [](users/300/300123225-vkontakte)<sup>85</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [reznik](users/107/107373097238064458501-google)<sup>0</sup> 
 
 
-_25.08.2020 00:45:17_
+_25.08.2020 10:34:54_
