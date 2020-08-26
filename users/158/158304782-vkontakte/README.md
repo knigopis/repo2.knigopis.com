@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>213</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>214</sup>
 ---
 
 ## 2020
+
+### Синастрическая Астрология
+Шестопалов
+> [2020-06] 
+
 
 ### Учение дона Хуана
 Карлос Кастанеда

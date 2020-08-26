@@ -1,4 +1,16 @@
 {
+    "KfzMJZbyic": {
+        "id": "KfzMJZbyic",
+        "title": "Синастрическая Астрология",
+        "author": "Шестопалов",
+        "notes": "",
+        "createdAt": "2020-08-26 07:25:42",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 214
+        }
+    },
     "bYBJekojdZ": {
         "id": "bYBJekojdZ",
         "title": "Учение дона Хуана",
@@ -345,18 +357,6 @@
             "id": "221759364-yandex",
             "nickname": "Vladasbook",
             "booksCount": 3
-        }
-    },
-    "CfPhoYZuwW": {
-        "id": "CfPhoYZuwW",
-        "title": "Первый учитель. (Повесть).",
-        "author": "Чингиз Айтматов",
-        "notes": "",
-        "createdAt": "2020-08-23 03:49:20",
-        "user": {
-            "id": "221759364-yandex",
-            "nickname": "Vladasbook",
-            "booksCount": 2
         }
     }
 }
