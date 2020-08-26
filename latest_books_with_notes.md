@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дикая Роза ~ [Madlax](users/158/158304782-vkontakte)<sup>215</sup>
 * Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
 * 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
 * vfcd ~ [Madlax](users/158/158304782-vkontakte)<sup>210</sup>
@@ -30,7 +31,6 @@
 * Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
 * Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
 * SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
-* Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
 
 
-_26.08.2020 07:24:28_
+_26.08.2020 07:27:31_
