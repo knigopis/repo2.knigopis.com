@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* vfcd ~ [Madlax](users/158/158304782-vkontakte)<sup>210</sup>
+    > ffff
+
 * Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
     > 9/10 Dobra książka o powojennych losach Polaków.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Свои погремушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>197</sup>
-    > Почему главную героиню зовут Аглая или Злата? Т.е. с обычным именем ничего не светит?
 
 * Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
 
-* Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>210</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>143</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
 [](users/300/300123225-vkontakte)<sup>85</sup> 
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
-[reznik](users/107/107373097238064458501-google)<sup>0</sup> 
 
 
-_25.08.2020 10:34:54_
+_26.08.2020 07:20:39_

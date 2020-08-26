@@ -1,4 +1,10 @@
 {
+    "158304782-vkontakte": {
+        "id": "158304782-vkontakte",
+        "nickname": "Madlax",
+        "booksCount": 210,
+        "updatedAt": "2020-08-26 07:20:39"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "No Pasaran",
         "booksCount": 0,
         "updatedAt": "2020-08-12 23:11:30"
-    },
-    "107373097238064458501-google": {
-        "id": "107373097238064458501-google",
-        "nickname": "reznik",
-        "booksCount": 0,
-        "updatedAt": "2020-08-11 20:52:32"
     }
 }
