@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>81</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>82</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>220</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/300/300123225-vkontakte)<sup>85</sup> 
 
 
-_26.08.2020 20:53:12_
+_26.08.2020 21:18:15_
