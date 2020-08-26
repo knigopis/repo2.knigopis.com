@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>215</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>216</sup>
 ---
 
 ## 2020
+
+### Астрология предпринимательства
+Шестопалов
+> [2020-07] 
+
 
 ### Дикая Роза
 Айрис Мердок

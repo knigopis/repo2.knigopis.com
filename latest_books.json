@@ -1,4 +1,16 @@
 {
+    "tEqJb3HPZn": {
+        "id": "tEqJb3HPZn",
+        "title": "Астрология предпринимательства",
+        "author": "Шестопалов",
+        "notes": "",
+        "createdAt": "2020-08-26 07:28:01",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 216
+        }
+    },
     "ljFFoWQy-a": {
         "id": "ljFFoWQy-a",
         "title": "Дикая Роза",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 176
-        }
-    },
-    "xb86mi7CHX": {
-        "id": "xb86mi7CHX",
-        "title": "Чужой",
-        "author": "Дин Алан Фостер",
-        "notes": "",
-        "createdAt": "2020-08-23 05:03:20",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 175
         }
     }
 }
