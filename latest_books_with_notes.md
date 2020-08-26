@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
 * vfcd ~ [Madlax](users/158/158304782-vkontakte)<sup>210</sup>
 * Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
 * Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
@@ -30,7 +31,6 @@
 * SNUFF ~ [anvonamore](users/595/5957175-vkontakte)<sup>142</sup>
 * Повелители DOOM ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>238</sup>
 * Михаил Хазин ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>237</sup>
-* Магическая уборка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>236</sup>
 
 
-_26.08.2020 07:20:39_
+_26.08.2020 07:22:01_
