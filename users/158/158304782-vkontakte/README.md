@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>212</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>213</sup>
 ---
 
 ## 2020
+
+### Учение дона Хуана
+Карлос Кастанеда
+> [2020-06] 
+
 
 ### Бегство от Волшебника
 Айрис Мердок

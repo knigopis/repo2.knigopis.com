@@ -1,4 +1,16 @@
 {
+    "bYBJekojdZ": {
+        "id": "bYBJekojdZ",
+        "title": "Учение дона Хуана",
+        "author": "Карлос Кастанеда",
+        "notes": "",
+        "createdAt": "2020-08-26 07:24:59",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 213
+        }
+    },
     "UyzY8sAY5n": {
         "id": "UyzY8sAY5n",
         "title": "Бегство от Волшебника",
@@ -345,18 +357,6 @@
             "id": "221759364-yandex",
             "nickname": "Vladasbook",
             "booksCount": 2
-        }
-    },
-    "2TtmCirUAK": {
-        "id": "2TtmCirUAK",
-        "title": "Сказание о Кише",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2020-08-23 03:30:31",
-        "user": {
-            "id": "221759364-yandex",
-            "nickname": "Vladasbook",
-            "booksCount": 1
         }
     }
 }
