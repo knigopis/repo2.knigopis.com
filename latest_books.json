@@ -1,4 +1,16 @@
 {
+    "rfcqnOLnkm": {
+        "id": "rfcqnOLnkm",
+        "title": "Отдельная реальность",
+        "author": "Карлос Кастанеда",
+        "notes": "",
+        "createdAt": "2020-08-26 07:28:31",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 217
+        }
+    },
     "tEqJb3HPZn": {
         "id": "tEqJb3HPZn",
         "title": "Астрология предпринимательства",
@@ -345,18 +357,6 @@
             "id": "221759364-yandex",
             "nickname": "Vladasbook",
             "booksCount": 4
-        }
-    },
-    "kAt7zQswQx": {
-        "id": "kAt7zQswQx",
-        "title": "Чужие",
-        "author": "Дин Алан Фостер",
-        "notes": "",
-        "createdAt": "2020-08-23 05:03:47",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 176
         }
     }
 }

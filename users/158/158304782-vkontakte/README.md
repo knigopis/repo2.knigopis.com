@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>216</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>217</sup>
 ---
 
 ## 2020
+
+### Отдельная реальность
+Карлос Кастанеда
+> [2020-07] 
+
 
 ### Астрология предпринимательства
 Шестопалов
