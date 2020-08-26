@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 80,
+        "updatedAt": "2020-08-26 19:39:35"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -40,12 +46,6 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 49,
         "updatedAt": "2020-08-24 19:05:46"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 79,
-        "updatedAt": "2020-08-24 18:58:18"
     },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",

@@ -1,7 +1,12 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>79</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>80</sup>
 ---
 
 ## 2020
+
+### Детство
+Максим Горький
+> [2020-08-26] 
+
 
 ### Тоска
 Антон Павлович Чехов
