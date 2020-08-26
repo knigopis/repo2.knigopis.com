@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
+    > История о людях, любви, фабрике, странных и сложных привязанностях. О издательской конторе, которой хотел завладеть Хантер. О поездках к морю.
+
 * 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
     > Не понравилась. Ни о чем. Не советую.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ffff
 
 * Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
-    > 9/10 Dobra książka o powojennych losach Polaków.
 
 * Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 
-* Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>211</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>212</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>143</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
 
 
-_26.08.2020 07:22:01_
+_26.08.2020 07:24:28_

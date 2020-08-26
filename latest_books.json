@@ -1,4 +1,16 @@
 {
+    "UyzY8sAY5n": {
+        "id": "UyzY8sAY5n",
+        "title": "Бегство от Волшебника",
+        "author": "Айрис Мердок",
+        "notes": "История о людях, любви, фабрике, странных и сложных привязанностях. О издательской конторе, которой хотел завладеть Хантер. О поездках к морю.",
+        "createdAt": "2020-08-26 07:24:28",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 212
+        }
+    },
     "sdlmeyYUuu": {
         "id": "sdlmeyYUuu",
         "title": "12 шагов к собственному бизнесу",
@@ -345,18 +357,6 @@
             "id": "221759364-yandex",
             "nickname": "Vladasbook",
             "booksCount": 1
-        }
-    },
-    "LY8GqMwYj1": {
-        "id": "LY8GqMwYj1",
-        "title": "Ослокрады",
-        "author": "Джеральд Даррелл",
-        "notes": "",
-        "createdAt": "2020-08-22 15:10:30",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 173
         }
     }
 }
