@@ -1,4 +1,16 @@
 {
+    "VLt0lNa1GL": {
+        "id": "VLt0lNa1GL",
+        "title": "Дилемма Джексона",
+        "author": "Айрис Мердок",
+        "notes": "Джексон - неизвестно откуда взявшийся слуга одинокого Бенета. Сорванная свадьба, которая в итоге приводит к тому, что брачущиеся счастливы с другими половинками. \nИ все это благодаря Джексону.",
+        "createdAt": "2020-08-26 07:29:45",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 218
+        }
+    },
     "ljFFoWQy-a": {
         "id": "ljFFoWQy-a",
         "title": "Дикая Роза",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 258
-        }
-    },
-    "TvbqM_iOC9": {
-        "id": "TvbqM_iOC9",
-        "title": "SNUFF",
-        "author": "Виктор Пелевин",
-        "notes": "7/10",
-        "createdAt": "2020-08-01 22:30:04",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 142
         }
     }
 }

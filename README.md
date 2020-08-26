@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
+    > Джексон - неизвестно откуда взявшийся слуга одинокого Бенета. Сорванная свадьба, которая в итоге приводит к тому, что брачущиеся счастливы с другими половинками. 
+    > И все это благодаря Джексону.
+
 * Дикая Роза ~ [Madlax](users/158/158304782-vkontakte)<sup>215</sup>
     > Есть целая плантация роз, есть погибший сын, множество гостей. Хотя все начинается с похорон, на которые приходит бывшая любовь вдовца со своей спутницей (служанкой), в которую по случайности или злому умыслу влюбиться сын вдовца, уже имеющий жену и ребенка. 
     > История любви, глупости, ума и хитрости.
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > История о людях, любви, фабрике, странных и сложных привязанностях. О издательской конторе, которой хотел завладеть Хантер. О поездках к морю.
 
 * 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
-    > Не понравилась. Ни о чем. Не советую.
 
 * vfcd ~ [Madlax](users/158/158304782-vkontakte)<sup>210</sup>
 
@@ -28,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
 
-* Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>217</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>218</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>143</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
 
 
-_26.08.2020 07:28:31_
+_26.08.2020 07:29:45_
