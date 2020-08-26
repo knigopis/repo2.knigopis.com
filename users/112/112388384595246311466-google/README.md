@@ -1,7 +1,12 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>80</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>81</sup>
 ---
 
 ## 2020
+
+### Размазня
+Антон Павлович Чехов
+> [2020-08-26] 
+
 
 ### Детство
 Максим Горький
