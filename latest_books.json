@@ -1,4 +1,16 @@
 {
+    "mxeYG72iL9": {
+        "id": "mxeYG72iL9",
+        "title": "Здоровое общество. Догмат о Христе",
+        "author": "Эрик Фромм",
+        "notes": "",
+        "createdAt": "2020-08-26 07:30:25",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 219
+        }
+    },
     "VLt0lNa1GL": {
         "id": "VLt0lNa1GL",
         "title": "Дилемма Джексона",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 98
-        }
-    },
-    "nIALbuMhr1": {
-        "id": "nIALbuMhr1",
-        "title": "Здравствуйте, мистер Бог, это Анна",
-        "author": "Финн",
-        "notes": "",
-        "createdAt": "2020-08-23 16:24:12",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 57
         }
     }
 }

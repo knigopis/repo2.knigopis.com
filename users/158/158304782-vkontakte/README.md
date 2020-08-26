@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>218</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>219</sup>
 ---
 
 ## 2020
+
+### Здоровое общество. Догмат о Христе
+Эрик Фромм
+> [2020-08] 
+
 
 ### Дилемма Джексона
 Айрис Мердок
