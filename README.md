@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
+    > Довольно легко читается, хотя и много воды для всего лишь 200 страниц
+
 * Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
     > Джексон - неизвестно откуда взявшийся слуга одинокого Бенета. Сорванная свадьба, которая в итоге приводит к тому, что брачущиеся счастливы с другими половинками. 
     > И все это благодаря Джексону.
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Кто-то крутит людьми как марионетками, играя на их чувствах.
 
 * Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
-    > История о людях, любви, фабрике, странных и сложных привязанностях. О издательской конторе, которой хотел завладеть Хантер. О поездках к морю.
 
 * 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
 
@@ -29,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
 
-* Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>219</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>143</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [No Pasaran](users/878/87846211-vkontakte)<sup>0</sup> 
 
 
-_26.08.2020 07:30:25_
+_26.08.2020 07:31:29_

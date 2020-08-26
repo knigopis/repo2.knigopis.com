@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
 * Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
 * Дикая Роза ~ [Madlax](users/158/158304782-vkontakte)<sup>215</sup>
 * Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
@@ -30,7 +31,6 @@
 * Повести Белкина ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup>
 * Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
 * Тонкое искусство пофигизма ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>239</sup>
-* Бог как иллюзия ~ [Garka](users/115/115753719718250012620-google)<sup>258</sup>
 
 
-_26.08.2020 07:29:45_
+_26.08.2020 07:31:29_

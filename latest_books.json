@@ -1,4 +1,16 @@
 {
+    "z6VVhSoYxq": {
+        "id": "z6VVhSoYxq",
+        "title": "Перегруженный мозг",
+        "author": "Кингберг",
+        "notes": "Довольно легко читается, хотя и много воды для всего лишь 200 страниц",
+        "createdAt": "2020-08-26 07:31:29",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 220
+        }
+    },
     "mxeYG72iL9": {
         "id": "mxeYG72iL9",
         "title": "Здоровое общество. Догмат о Христе",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 195
-        }
-    },
-    "HlO02e4hri": {
-        "id": "HlO02e4hri",
-        "title": "Наша маленькая жизнь",
-        "author": "Мария Метлицкая",
-        "notes": "",
-        "createdAt": "2020-08-23 18:12:44",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 98
         }
     }
 }
