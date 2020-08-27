@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>72</sup>
+# List of books read by inna.besprozvannykh<sup>73</sup>
 ---
 
 ## 2020
+
+### Ящик Пандоры
+Бернар Вербер
+> [2020-07-12] 8
+
 
 ### Книга, которой нет
 Алекс Новак

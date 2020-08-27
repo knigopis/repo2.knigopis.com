@@ -1,4 +1,16 @@
 {
+    "i-0tBqrrLH": {
+        "id": "i-0tBqrrLH",
+        "title": "Ящик Пандоры",
+        "author": "Бернар Вербер",
+        "notes": "8",
+        "createdAt": "2020-08-27 13:16:49",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 73
+        }
+    },
     "DrIeTYOp_f": {
         "id": "DrIeTYOp_f",
         "title": "Как хочет женщина",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 49
-        }
-    },
-    "ntquIE5uga": {
-        "id": "ntquIE5uga",
-        "title": "Тоска",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2020-08-24 18:58:18",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 79
         }
     }
 }
