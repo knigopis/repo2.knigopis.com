@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тошнота ~ [Rainbow](users/109/109787328219839805802-google)<sup>58</sup>
 * Как хочет женщина ~ [dmiro](users/571/5714115-vkontakte)<sup>33</sup>
 * Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
 * Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
@@ -30,7 +31,6 @@
 * Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
 * Жребий Салема ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup>
 * Повести Белкина ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>67</sup>
-* Вернуться в Россию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>240</sup>
 
 
-_27.08.2020 07:16:27_
+_27.08.2020 17:19:34_
