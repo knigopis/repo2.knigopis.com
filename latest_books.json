@@ -1,4 +1,16 @@
 {
+    "ouNfF3hD3A": {
+        "id": "ouNfF3hD3A",
+        "title": "Чужой: Холодная кузница",
+        "author": "Алекс Уайт",
+        "notes": "",
+        "createdAt": "2020-08-27 14:27:28",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 177
+        }
+    },
     "q2vK6iGAEH": {
         "id": "q2vK6iGAEH",
         "title": "Не навреди",
@@ -345,18 +357,6 @@
             "id": "104299837-vkontakte",
             "nickname": "nkot46",
             "booksCount": 2
-        }
-    },
-    "WlsuEkbNL1": {
-        "id": "WlsuEkbNL1",
-        "title": "Инициал Д. 1 Том",
-        "author": "Сюити Сигэно",
-        "notes": "Аниме",
-        "createdAt": "2020-08-24 19:50:52",
-        "user": {
-            "id": "104299837-vkontakte",
-            "nickname": "nkot46",
-            "booksCount": 1
         }
     }
 }

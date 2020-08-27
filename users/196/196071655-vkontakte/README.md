@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>176</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>177</sup>
 ---
 
 ## 2020
+
+### Чужой: Холодная кузница
+Алекс Уайт
+> [2020-08-27] 
+
 
 ### Чужие
 Дин Алан Фостер

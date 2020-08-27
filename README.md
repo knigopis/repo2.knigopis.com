@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>177</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>74</sup> 
 [alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>98</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>57</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>176</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>63</sup> 
 [](users/112/112786334705654109133-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 
 
-_27.08.2020 13:17:13_
+_27.08.2020 14:27:28_
