@@ -36,13 +36,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>84</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>99</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>58</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>177</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>74</sup> 
 [alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>83</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>220</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
 
 
-_27.08.2020 19:38:42_
+_27.08.2020 20:19:32_

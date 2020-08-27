@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 84,
+        "updatedAt": "2020-08-27 20:19:32"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -34,12 +40,6 @@
         "nickname": "dmiro",
         "booksCount": 33,
         "updatedAt": "2020-08-27 07:16:27"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 83,
-        "updatedAt": "2020-08-26 22:32:46"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",

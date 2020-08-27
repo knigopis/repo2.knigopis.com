@@ -1,4 +1,16 @@
 {
+    "IJzjLpuWAQ": {
+        "id": "IJzjLpuWAQ",
+        "title": "Планета людей",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2020-08-27 20:19:32",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 84
+        }
+    },
     "49eqeaoIbt": {
         "id": "49eqeaoIbt",
         "title": "Второе дыхание",
@@ -345,18 +357,6 @@
             "id": "104299837-vkontakte",
             "nickname": "nkot46",
             "booksCount": 5
-        }
-    },
-    "fx876nyw_E": {
-        "id": "fx876nyw_E",
-        "title": "Прыжок в ничто",
-        "author": "Александр Беляев",
-        "notes": "",
-        "createdAt": "2020-08-24 19:58:06",
-        "user": {
-            "id": "104299837-vkontakte",
-            "nickname": "nkot46",
-            "booksCount": 4
         }
     }
 }
