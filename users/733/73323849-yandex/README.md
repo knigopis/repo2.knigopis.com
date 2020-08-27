@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>73</sup>
+# List of books read by inna.besprozvannykh<sup>74</sup>
 ---
 
 ## 2020
+
+### Не навреди
+Генри Марш
+> [2020-08-12] 9
+
 
 ### Ящик Пандоры
 Бернар Вербер

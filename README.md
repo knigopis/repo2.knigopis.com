@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>73</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>74</sup> 
 [alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>83</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 
 
-_27.08.2020 13:16:49_
+_27.08.2020 13:17:13_
