@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 99,
+        "updatedAt": "2020-08-27 19:38:42"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -88,12 +94,6 @@
         "nickname": "Chiffi",
         "booksCount": 197,
         "updatedAt": "2020-08-24 15:26:45"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 98,
-        "updatedAt": "2020-08-23 18:12:44"
     },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
