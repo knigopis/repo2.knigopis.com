@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>138</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>139</sup>
 ---
 
 ## 2020
+
+### 0,05 Доказательная медицина от магии до поисков бессмертия
+Петр Талантов
+> [2020-08-27] 8/10 История медицинских иследований доказательств.
+
 
 ### Czyjem ja żyłem życiem?
 Andrzej Mularczyk

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 0,05 Доказательная медицина от магии до поисков бессмертия ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>139</sup>
+    > 8/10 История медицинских иследований доказательств.
+
 * Тошнота ~ [Rainbow](users/109/109787328219839805802-google)<sup>58</sup>
     > «скажу прямо – я боюсь. И не потому, что жизнь моя так уж богата, насыщена, драгоценна. Я боюсь того, что готово народиться, что завладеет мной и увлечет меня – куда? Неужели мне опять придется уехать, бросить, не закончив, все, что я начал – исследования, книгу? И потом через несколько месяцев, через несколько лет вновь очнуться изнуренным, разочарованным среди новых руин? »
     > «наедине с собой этот человек всегда спит»
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Книга полезная, многое перекликается со второй книгой про стресс. Если бы было страниц в два раза меньше, было бы совсем прекрасно ^^
 
 * Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
-    > Довольно легко читается, хотя и много воды для всего лишь 200 страниц
 
 * Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
 
-* Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>139</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>84</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>99</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>58</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>220</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>143</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 [Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
 
 
-_27.08.2020 20:19:32_
+_27.08.2020 20:30:01_

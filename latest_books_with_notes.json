@@ -1,4 +1,16 @@
 {
+    "EafbaXI3AO": {
+        "id": "EafbaXI3AO",
+        "title": "0,05 Доказательная медицина от магии до поисков бессмертия",
+        "author": "Петр Талантов",
+        "notes": "8/10 История медицинских иследований доказательств.",
+        "createdAt": "2020-08-27 20:30:01",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 139
+        }
+    },
     "6OpW-XUmAN": {
         "id": "6OpW-XUmAN",
         "title": "Тошнота",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 133
-        }
-    },
-    "_qfTiJMs50": {
-        "id": "_qfTiJMs50",
-        "title": "Повести Белкина",
-        "author": "Александр Сергеевич Пушкин",
-        "notes": "\"Но на чужой манер хлеб русский не родится\"",
-        "createdAt": "2020-08-05 18:06:34",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 67
         }
     }
 }
