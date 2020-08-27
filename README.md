@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как хочет женщина ~ [dmiro](users/571/5714115-vkontakte)<sup>33</sup>
+    > Книга полезная, многое перекликается со второй книгой про стресс. Если бы было страниц в два раза меньше, было бы совсем прекрасно ^^
+
 * Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
     > Довольно легко читается, хотя и много воды для всего лишь 200 страниц
 
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > И все это благодаря Джексону.
 
 * Дикая Роза ~ [Madlax](users/158/158304782-vkontakte)<sup>215</sup>
-    > Есть целая плантация роз, есть погибший сын, множество гостей. Хотя все начинается с похорон, на которые приходит бывшая любовь вдовца со своей спутницей (служанкой), в которую по случайности или злому умыслу влюбиться сын вдовца, уже имеющий жену и ребенка. 
-    > История любви, глупости, ума и хитрости.
-    > Кто-то крутит людьми как марионетками, играя на их чувствах.
 
 * Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
 
@@ -29,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Свои погремушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>197</sup>
 
-* Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>83</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>220</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
@@ -65,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
-[](users/300/300123225-vkontakte)<sup>85</sup> 
 
 
-_26.08.2020 22:32:46_
+_27.08.2020 07:16:27_

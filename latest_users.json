@@ -1,4 +1,10 @@
 {
+    "5714115-vkontakte": {
+        "id": "5714115-vkontakte",
+        "nickname": "dmiro",
+        "booksCount": 33,
+        "updatedAt": "2020-08-27 07:16:27"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 57,
         "updatedAt": "2020-08-14 17:18:19"
-    },
-    "300123225-vkontakte": {
-        "id": "300123225-vkontakte",
-        "nickname": null,
-        "booksCount": 85,
-        "updatedAt": "2020-08-13 18:53:49"
     }
 }
