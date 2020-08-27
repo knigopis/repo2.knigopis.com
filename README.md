@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>83</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>220</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [florenxce](users/113/113221536298663028563-googleplus)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>115</sup> 
 [termer_craft](users/342/34250840-vkontakte)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
 
 
-_27.08.2020 07:16:27_
+_27.08.2020 13:16:04_
