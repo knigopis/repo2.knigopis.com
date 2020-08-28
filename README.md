@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чемні дівчатка потрапляють у рай, погані - куди забажають. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup>
+    > 6/10 Як жінки через примарну вихованість саботують свої шанси на щасливе життя.
+
 * 8 важных свиданий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>140</sup>
     > 7/10 Важные темы для разговоров супружеских пар.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга, благодаря которой узнаешь традиции и культуру Японии
 
 * 0,05 Доказательная медицина от магии до поисков бессмертия ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>139</sup>
-    > 8/10 История медицинских иследований доказательств.
 
 * Тошнота ~ [Rainbow](users/109/109787328219839805802-google)<sup>58</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
 
-* 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>140</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>424</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>84</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>99</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [negodok](users/884/8841255-vkontakte)<sup>0</sup> 
 
 
-_28.08.2020 13:21:54_
+_28.08.2020 13:24:17_

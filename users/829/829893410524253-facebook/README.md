@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>140</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>141</sup>
 ---
 
 ## 2020
+
+### Чемні дівчатка потрапляють у рай, погані - куди забажають.
+Уте Ергардт
+> [2020-08-28] 6/10 Як жінки через примарну вихованість саботують свої шанси на щасливе життя.
+
 
 ### 8 важных свиданий
 Джон Готтман
