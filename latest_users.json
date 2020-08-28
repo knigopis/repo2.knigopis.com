@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 811,
+        "updatedAt": "2020-08-28 16:22:53"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "christo_redemptor",
         "booksCount": 1,
         "updatedAt": "2020-08-17 12:48:28"
-    },
-    "8841255-vkontakte": {
-        "id": "8841255-vkontakte",
-        "nickname": "negodok",
-        "booksCount": 0,
-        "updatedAt": "2020-08-17 08:00:25"
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>811</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>424</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>84</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104915951904734387490-google)<sup>0</sup> 
 [Jinmi Gikkins](users/116/116590656999595569531-google)<sup>0</sup> 
 [christo_redemptor](users/144/14490047-vkontakte)<sup>1</sup> 
-[negodok](users/884/8841255-vkontakte)<sup>0</sup> 
 
 
-_28.08.2020 13:24:17_
+_28.08.2020 16:22:54_
