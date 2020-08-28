@@ -1,4 +1,16 @@
 {
+    "HFHZucz6g6": {
+        "id": "HFHZucz6g6",
+        "title": "8 важных свиданий",
+        "author": "Джон Готтман",
+        "notes": "7/10 Важные темы для разговоров супружеских пар.",
+        "createdAt": "2020-08-28 13:21:54",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 140
+        }
+    },
     "TmbjLs-nAw": {
         "id": "TmbjLs-nAw",
         "title": "Мемуары гейши",
@@ -345,18 +357,6 @@
             "id": "104299837-vkontakte",
             "nickname": "Ночнокошкин",
             "booksCount": 6
-        }
-    },
-    "wzb__PfD-R": {
-        "id": "wzb__PfD-R",
-        "title": "Sekai no Hate de Aimashou",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-08-24 20:16:37",
-        "user": {
-            "id": "104299837-vkontakte",
-            "nickname": "Ночнокошкин",
-            "booksCount": 7
         }
     }
 }

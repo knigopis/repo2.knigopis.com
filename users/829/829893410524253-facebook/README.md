@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>139</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>140</sup>
 ---
 
 ## 2020
+
+### 8 важных свиданий
+Джон Готтман
+> [2020-08-28] 7/10 Важные темы для разговоров супружеских пар.
+
 
 ### 0,05 Доказательная медицина от магии до поисков бессмертия
 Петр Талантов

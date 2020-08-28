@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 8 важных свиданий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>140</sup>
 * Мемуары гейши ~ [Elixir](users/115/115826717712507836033-google)<sup>424</sup>
 * 0,05 Доказательная медицина от магии до поисков бессмертия ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>139</sup>
 * Тошнота ~ [Rainbow](users/109/109787328219839805802-google)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Пять языков любви ~ [Таньчик](users/209/2096581563762610-facebook)<sup>91</sup>
 * Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
 * Госпожа Бовари ~ [dmiro](users/571/5714115-vkontakte)<sup>31</sup>
-* Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
 
 
-_28.08.2020 01:53:01_
+_28.08.2020 13:21:54_
