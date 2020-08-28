@@ -1,4 +1,16 @@
 {
+    "TmbjLs-nAw": {
+        "id": "TmbjLs-nAw",
+        "title": "Мемуары гейши",
+        "author": "Голден, Артур",
+        "notes": "Книга, благодаря которой узнаешь традиции и культуру Японии",
+        "createdAt": "2020-08-28 01:53:01",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 424
+        }
+    },
     "EafbaXI3AO": {
         "id": "EafbaXI3AO",
         "title": "0,05 Доказательная медицина от магии до поисков бессмертия",
@@ -345,18 +357,6 @@
             "id": "104299837-vkontakte",
             "nickname": "Ночнокошкин",
             "booksCount": 7
-        }
-    },
-    "RTONJIWVDY": {
-        "id": "RTONJIWVDY",
-        "title": "Нахальный принц и кошка-несмеяна. Том 1",
-        "author": "Со Сагара",
-        "notes": "",
-        "createdAt": "2020-08-24 20:10:07",
-        "user": {
-            "id": "104299837-vkontakte",
-            "nickname": "Ночнокошкин",
-            "booksCount": 6
         }
     }
 }

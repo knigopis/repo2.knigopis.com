@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мемуары гейши ~ [Elixir](users/115/115826717712507836033-google)<sup>424</sup>
 * 0,05 Доказательная медицина от магии до поисков бессмертия ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>139</sup>
 * Тошнота ~ [Rainbow](users/109/109787328219839805802-google)<sup>58</sup>
 * Как хочет женщина ~ [dmiro](users/571/5714115-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * Завтрак у Тиффани, Голоса травы ~ [dmiro](users/571/5714115-vkontakte)<sup>32</sup>
 * Госпожа Бовари ~ [dmiro](users/571/5714115-vkontakte)<sup>31</sup>
 * Смиренные сестры Элурии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>134</sup>
-* Жребий Салема ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>133</sup>
 
 
-_27.08.2020 20:30:01_
+_28.08.2020 01:53:01_
