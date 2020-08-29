@@ -1,4 +1,10 @@
 {
+    "28646910-vkontakte": {
+        "id": "28646910-vkontakte",
+        "nickname": "diaox",
+        "booksCount": 0,
+        "updatedAt": "2020-08-29 14:44:16"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 260,
         "updatedAt": "2020-08-20 17:16:15"
-    },
-    "104915951904734387490-google": {
-        "id": "104915951904734387490-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-08-19 09:25:59"
     }
 }
