@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>58</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>198</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>260</sup> 
-[](users/104/104915951904734387490-google)<sup>0</sup> 
 
 
-_29.08.2020 11:47:28_
+_29.08.2020 14:44:16_
