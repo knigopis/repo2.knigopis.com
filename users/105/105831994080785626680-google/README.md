@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>197</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>198</sup>
 ---
 
 ## 2020
+
+### Герметикон 6  Прошлое должно умереть
+Панов Вадим
+> [2020-08-28] 
+
 
 ### Свои погремушки
 Вильмонт Екатерина
