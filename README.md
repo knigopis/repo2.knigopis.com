@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>64</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>260</sup> 
 
 
-_29.08.2020 19:40:49_
+_29.08.2020 20:38:46_
