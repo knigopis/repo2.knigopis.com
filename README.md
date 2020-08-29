@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>64</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>58</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>63</sup> 
 [](users/112/112786334705654109133-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>260</sup> 
 
 
-_29.08.2020 14:44:16_
+_29.08.2020 19:40:49_
