@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/114/114590628984975057130-google)<sup>0</sup> 
+[](users/114/114590628984975057130-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>198</sup> 
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>811</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104915951904734387490-google)<sup>0</sup> 
 
 
-_29.08.2020 06:24:59_
+_29.08.2020 06:25:36_
