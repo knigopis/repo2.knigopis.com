@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>85</sup> 
 [vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>64</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>811</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>424</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>84</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>99</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>58</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>177</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 
 
-_29.08.2020 20:38:46_
+_30.08.2020 01:36:01_

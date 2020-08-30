@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 85,
+        "updatedAt": "2020-08-30 01:36:01"
+    },
     "22305058-vkontakte": {
         "id": "22305058-vkontakte",
         "nickname": "vladoelf",
@@ -58,12 +64,6 @@
         "nickname": "Elixir",
         "booksCount": 424,
         "updatedAt": "2020-08-28 01:53:01"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 84,
-        "updatedAt": "2020-08-27 20:19:32"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
