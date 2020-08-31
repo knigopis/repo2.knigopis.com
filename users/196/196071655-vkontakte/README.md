@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>177</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>178</sup>
 ---
 
 ## 2020
+
+### Земля лишних. Два билета туда
+Андрей Круз
+> [2020-08-31] 
+
 
 ### Чужой: Холодная кузница
 Алекс Уайт

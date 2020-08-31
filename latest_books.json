@@ -1,4 +1,16 @@
 {
+    "xIBM7lpyi3": {
+        "id": "xIBM7lpyi3",
+        "title": "Земля лишних. Два билета туда",
+        "author": "Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-08-31 14:40:15",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 178
+        }
+    },
     "yd-tYcaLnk": {
         "id": "yd-tYcaLnk",
         "title": "А жизнь была совсем хорошая",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 215
-        }
-    },
-    "KfzMJZbyic": {
-        "id": "KfzMJZbyic",
-        "title": "Синастрическая Астрология",
-        "author": "Шестопалов",
-        "notes": "",
-        "createdAt": "2020-08-26 07:25:42",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 214
         }
     }
 }
