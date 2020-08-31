@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>86</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>178</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>100</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>85</sup> 
 [vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>64</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 
 
-_31.08.2020 14:40:16_
+_31.08.2020 16:18:53_

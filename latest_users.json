@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 86,
+        "updatedAt": "2020-08-31 16:18:53"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -10,12 +16,6 @@
         "nickname": "Таньчик",
         "booksCount": 100,
         "updatedAt": "2020-08-30 20:07:17"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 85,
-        "updatedAt": "2020-08-30 01:36:01"
     },
     "22305058-vkontakte": {
         "id": "22305058-vkontakte",
