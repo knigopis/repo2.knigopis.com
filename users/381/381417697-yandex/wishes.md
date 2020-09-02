@@ -119,6 +119,7 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 > 1963
 
 ### `` Thinking, Fast and Slow
+Daniel Kahneman
 
 ### `` Тонкое искусство пофигизма
 
