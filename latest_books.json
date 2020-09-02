@@ -1,4 +1,16 @@
 {
+    "bmsslRnC74": {
+        "id": "bmsslRnC74",
+        "title": "Бремя страстей человеческих",
+        "author": "Сомерсет Моэм",
+        "notes": "7/10",
+        "createdAt": "2020-09-02 17:59:26",
+        "user": {
+            "id": "3605959179435376-facebook",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "vuN6F5KzDN": {
         "id": "vuN6F5KzDN",
         "title": "Те, кто выжил",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 220
-        }
-    },
-    "mxeYG72iL9": {
-        "id": "mxeYG72iL9",
-        "title": "Здоровое общество. Догмат о Христе",
-        "author": "Эрик Фромм",
-        "notes": "",
-        "createdAt": "2020-08-26 07:30:25",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 219
         }
     }
 }
