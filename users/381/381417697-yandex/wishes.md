@@ -72,56 +72,58 @@ Mike Cohn
 ### `` Permanent Record
 Edward Snowden
 
-### `` Тонкое искусство пофигизма
-
-### `` Effective Kotlin
-
-### `` Set Theory
-Мильтон Бэббит
-> 1992
-
-### `` Мертвые души
-Николай Гоголь
-
 ### `` Не рычите на собаку
 
-### `` Formalized Music
-Янис Ксенакис
-> 1963
-
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
-
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` The Hacker Playbook: Practical Guide To Penetration Testing
-Peter Kim
-> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+### `` Effective Kotlin
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` Повелитель мух
-Уильям Голдинг
-
-### `` Братья Карамазовы
-Фёдор Достоевский
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
 
 ### `` Голубое сало
 Владимир Сорокин
 > День опричника
 > Сахарный кремль
 
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
+### `` Братья Карамазовы
+Фёдор Достоевский
+
+### `` Повелитель мух
+Уильям Голдинг
+
+### `` A Briefer History of Time
+Stephen Hawking
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` The Hacker Playbook: Practical Guide To Penetration Testing
+Peter Kim
+> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+
+### `` Set Theory
+Мильтон Бэббит
+> 1992
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
+### `` Formalized Music
+Янис Ксенакис
+> 1963
+
+### `` Thinking, Fast and Slow
+
+### `` Тонкое искусство пофигизма
+
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
