@@ -1,4 +1,16 @@
 {
+    "vuN6F5KzDN": {
+        "id": "vuN6F5KzDN",
+        "title": "Те, кто выжил",
+        "author": "Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-09-02 05:02:30",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 179
+        }
+    },
     "h8bhxWdHKv": {
         "id": "h8bhxWdHKv",
         "title": "Что делать?",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 219
-        }
-    },
-    "VLt0lNa1GL": {
-        "id": "VLt0lNa1GL",
-        "title": "Дилемма Джексона",
-        "author": "Айрис Мердок",
-        "notes": "Джексон - неизвестно откуда взявшийся слуга одинокого Бенета. Сорванная свадьба, которая в итоге приводит к тому, что брачущиеся счастливы с другими половинками. \nИ все это благодаря Джексону.",
-        "createdAt": "2020-08-26 07:29:45",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 218
         }
     }
 }
