@@ -21,9 +21,9 @@ Kevin Kwan
 
 ## 2018
 
-### Cinder
+### Киберзолушка
 Marissa Meyer
-> 10/10
+> 10/10  Cinder. Read on English
 
 
 ### Аэропорт
