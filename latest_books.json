@@ -1,4 +1,16 @@
 {
+    "Hit0YRkeO6": {
+        "id": "Hit0YRkeO6",
+        "title": "Cinder",
+        "author": "Marissa Meyer",
+        "notes": "10/10",
+        "createdAt": "2020-09-02 18:04:29",
+        "user": {
+            "id": "3605959179435376-facebook",
+            "nickname": "Julia",
+            "booksCount": 6
+        }
+    },
     "IHFoIb6XxW": {
         "id": "IHFoIb6XxW",
         "title": "Rich people problems",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 33
-        }
-    },
-    "cszDnA5ndq": {
-        "id": "cszDnA5ndq",
-        "title": "Бурмистр",
-        "author": "Иван Сергеевич Тургенев",
-        "notes": "",
-        "createdAt": "2020-08-26 22:32:46",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 83
         }
     }
 }
