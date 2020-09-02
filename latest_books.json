@@ -1,4 +1,16 @@
 {
+    "jSDagTttrC": {
+        "id": "jSDagTttrC",
+        "title": "Crazy rich Asians",
+        "author": "Kevin Kwan",
+        "notes": "8/10",
+        "createdAt": "2020-09-02 18:02:10",
+        "user": {
+            "id": "3605959179435376-facebook",
+            "nickname": "Julia",
+            "booksCount": 3
+        }
+    },
     "Xpb3pq_Kl1": {
         "id": "Xpb3pq_Kl1",
         "title": "Аэропорт",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 81
-        }
-    },
-    "OdITiNB7RU": {
-        "id": "OdITiNB7RU",
-        "title": "Начало конца",
-        "author": "Марк Алданов",
-        "notes": "",
-        "createdAt": "2020-08-26 11:37:30",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 220
         }
     }
 }
