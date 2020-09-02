@@ -1,4 +1,10 @@
 {
+    "3605959179435376-facebook": {
+        "id": "3605959179435376-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-09-02 17:56:50"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Len4e91",
         "booksCount": 9,
         "updatedAt": "2020-08-21 10:46:28"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 131,
-        "updatedAt": "2020-08-20 17:32:20"
     }
 }
