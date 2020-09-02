@@ -85,7 +85,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/360/3605959179435376-facebook)<sup>1</sup> 
+[](users/360/3605959179435376-facebook)<sup>2</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>179</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>61</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>86</sup> 
@@ -117,4 +117,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
 
 
-_02.09.2020 17:59:26_
+_02.09.2020 18:00:12_
