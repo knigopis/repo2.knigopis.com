@@ -1,4 +1,16 @@
 {
+    "EhoBwEs7fR": {
+        "id": "EhoBwEs7fR",
+        "title": "Скупой рыцарь",
+        "author": "Александр Сергеевич Пушкин",
+        "notes": "",
+        "createdAt": "2020-09-03 07:57:13",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 90
+        }
+    },
     "fd95DX82Yi": {
         "id": "fd95DX82Yi",
         "title": "Последний дюйм",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 58
-        }
-    },
-    "ouNfF3hD3A": {
-        "id": "ouNfF3hD3A",
-        "title": "Чужой: Холодная кузница",
-        "author": "Алекс Уайт",
-        "notes": "",
-        "createdAt": "2020-08-27 14:27:28",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 177
         }
     }
 }
