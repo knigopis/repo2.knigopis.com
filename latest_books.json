@@ -1,4 +1,16 @@
 {
+    "xAEKHrTyoh": {
+        "id": "xAEKHrTyoh",
+        "title": "Всё лето в один день",
+        "author": "Рей Брэдбери",
+        "notes": "",
+        "createdAt": "2020-09-03 06:53:15",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 88
+        }
+    },
     "NNMDBMGtTl": {
         "id": "NNMDBMGtTl",
         "title": "Смиренное кладбище",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 74
-        }
-    },
-    "i-0tBqrrLH": {
-        "id": "i-0tBqrrLH",
-        "title": "Ящик Пандоры",
-        "author": "Бернар Вербер",
-        "notes": "8",
-        "createdAt": "2020-08-27 13:16:49",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 73
         }
     }
 }
