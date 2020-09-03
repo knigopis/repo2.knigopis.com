@@ -46,13 +46,10 @@ Joel Spolsky
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
 
-### `` Три товарища
-Эрих Мария Ремарк
+### `` Agile Estimating and Planning
+Mike Cohn
 
-### `` Qe
-
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` Effective Kotlin
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
@@ -61,10 +58,12 @@ Dafydd Stuttard, Marcus Pinto
 ### `` Искусство программирования
 Дональд Кнут
 
-### `` Agile Estimating and Planning
-Mike Cohn
-
 ### `` Hdhd
+
+### `` Qe
+
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
@@ -72,9 +71,14 @@ Mike Cohn
 ### `` Permanent Record
 Edward Snowden
 
-### `` Не рычите на собаку
+### `` Герой нашего времени
+Михаил Лермонтов
 
-### `` Effective Kotlin
+### `` Тонкое искусство пофигизма
+
+### `` Set Theory
+Мильтон Бэббит
+> 1992
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
@@ -104,9 +108,8 @@ Satoshi Nakamoto
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
-### `` Set Theory
-Мильтон Бэббит
-> 1992
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
@@ -121,10 +124,9 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
 
-### `` Тонкое искусство пофигизма
+### `` Не рычите на собаку
 
-### `` Мертвые души
-Николай Гоголь
+### `` asdf
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
