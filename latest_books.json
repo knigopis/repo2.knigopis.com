@@ -1,4 +1,16 @@
 {
+    "epxbJXhTqe": {
+        "id": "epxbJXhTqe",
+        "title": "Мальчик в белой рубашке",
+        "author": "Виктор Петрович Астафьев",
+        "notes": "",
+        "createdAt": "2020-09-03 19:09:43",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 92
+        }
+    },
     "kh0Q2nZxv8": {
         "id": "kh0Q2nZxv8",
         "title": "Сны Чанга",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 424
-        }
-    },
-    "EafbaXI3AO": {
-        "id": "EafbaXI3AO",
-        "title": "0,05 Доказательная медицина от магии до поисков бессмертия",
-        "author": "Петр Талантов",
-        "notes": "8/10 История медицинских иследований доказательств.",
-        "createdAt": "2020-08-27 20:30:01",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 139
         }
     }
 }
