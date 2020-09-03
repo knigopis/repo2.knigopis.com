@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герметикон 7 Скопление неприятностей ~ [Chiffi](users/105/105831994080785626680-google)<sup>199</sup>
+    > Интересные рассуждения про демократию и сменяемость власти. Интересно, ели галаниты это америкосы, кто тогда адигены? Английские лорды?
+
 * Поэмы: Черкесы, Кавказский пленник, Измаил-Бей, Аул Бастунджи, Хаджи Абрек, Демон, Мцыри ~ [Rainbow](users/109/109787328219839805802-google)<sup>61</sup>
     > «   Там поразить врага – не преступленье;
     >    Верна там дружба, но вернее мщенье;
@@ -64,7 +67,6 @@ Do not use pull requests to make changes here.
     > Любовь — противовес этому ужасу, любовь — акт единения и сохранения. Как люди во время шторма держатся за руки, чтобы их не оторвало друг от друга и не смыло в море, так и соединение наших тел стало звеном в цепи, удерживающей нас от движения в пустоту.»
 
 * Чемні дівчатка потрапляють у рай, погані - куди забажають. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup>
-    > 6/10 Як жінки через примарну вихованість саботують свої шанси на щасливе життя.
 
 * 8 важных свиданий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>140</sup>
 
@@ -78,13 +80,12 @@ Do not use pull requests to make changes here.
 
 * Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
 
-* Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>199</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>90</sup> 
 [Julia](users/360/3605959179435376-facebook)<sup>6</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>179</sup> 
@@ -95,7 +96,6 @@ _More notes [here](latest_books_with_notes.md)._
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>58</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>198</sup> 
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>811</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup> 
@@ -117,4 +117,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>9</sup> 
 
 
-_03.09.2020 07:57:13_
+_03.09.2020 17:14:14_
