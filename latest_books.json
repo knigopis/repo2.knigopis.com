@@ -1,4 +1,16 @@
 {
+    "AJ_W5PBAky": {
+        "id": "AJ_W5PBAky",
+        "title": "Макар Чудра",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2020-09-03 19:43:04",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 93
+        }
+    },
     "epxbJXhTqe": {
         "id": "epxbJXhTqe",
         "title": "Мальчик в белой рубашке",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 140
-        }
-    },
-    "TmbjLs-nAw": {
-        "id": "TmbjLs-nAw",
-        "title": "Мемуары гейши",
-        "author": "Голден, Артур",
-        "notes": "Книга, благодаря которой узнаешь традиции и культуру Японии",
-        "createdAt": "2020-08-28 01:53:01",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 424
         }
     }
 }
