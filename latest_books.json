@@ -1,4 +1,16 @@
 {
+    "bohs9HRcN2": {
+        "id": "bohs9HRcN2",
+        "title": "Складки на ткани пространства-времени",
+        "author": "Г. Шиллинг",
+        "notes": "",
+        "createdAt": "2020-09-03 17:26:19",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 62
+        }
+    },
     "kTG3slodNv": {
         "id": "kTG3slodNv",
         "title": "Герметикон 7 Скопление неприятностей",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 84
-        }
-    },
-    "49eqeaoIbt": {
-        "id": "49eqeaoIbt",
-        "title": "Второе дыхание",
-        "author": "Мария Метлицкая",
-        "notes": "",
-        "createdAt": "2020-08-27 19:38:42",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 99
         }
     }
 }
