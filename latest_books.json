@@ -1,4 +1,16 @@
 {
+    "fd95DX82Yi": {
+        "id": "fd95DX82Yi",
+        "title": "Последний дюйм",
+        "author": "Джеймс Олдридж",
+        "notes": "",
+        "createdAt": "2020-09-03 07:43:25",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 89
+        }
+    },
     "xAEKHrTyoh": {
         "id": "xAEKHrTyoh",
         "title": "Всё лето в один день",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 177
-        }
-    },
-    "q2vK6iGAEH": {
-        "id": "q2vK6iGAEH",
-        "title": "Не навреди",
-        "author": "Генри Марш",
-        "notes": "9",
-        "createdAt": "2020-08-27 13:17:13",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 74
         }
     }
 }
