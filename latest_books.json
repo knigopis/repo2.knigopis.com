@@ -1,4 +1,16 @@
 {
+    "NNMDBMGtTl": {
+        "id": "NNMDBMGtTl",
+        "title": "Смиренное кладбище",
+        "author": "Сергей Евгеньевич Каледин",
+        "notes": "",
+        "createdAt": "2020-09-03 06:44:11",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 87
+        }
+    },
     "Hit0YRkeO6": {
         "id": "Hit0YRkeO6",
         "title": "Cinder",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 73
-        }
-    },
-    "DrIeTYOp_f": {
-        "id": "DrIeTYOp_f",
-        "title": "Как хочет женщина",
-        "author": "Эмили Нагоски",
-        "notes": "Книга полезная, многое перекликается со второй книгой про стресс. Если бы было страниц в два раза меньше, было бы совсем прекрасно ^^",
-        "createdAt": "2020-08-27 07:16:27",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 33
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 87,
+        "updatedAt": "2020-09-03 06:44:11"
+    },
     "3605959179435376-facebook": {
         "id": "3605959179435376-facebook",
         "nickname": "Julia",
@@ -16,12 +22,6 @@
         "nickname": "Rainbow",
         "booksCount": 61,
         "updatedAt": "2020-08-31 23:29:58"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 86,
-        "updatedAt": "2020-08-31 16:18:53"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
