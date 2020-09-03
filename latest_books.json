@@ -1,4 +1,16 @@
 {
+    "0_cGI9AOWY": {
+        "id": "0_cGI9AOWY",
+        "title": "Человек, который принял жену за шляпу",
+        "author": "Оливер Сакс",
+        "notes": "7/10",
+        "createdAt": "2020-09-03 21:50:35",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 144
+        }
+    },
     "AJ_W5PBAky": {
         "id": "AJ_W5PBAky",
         "title": "Макар Чудра",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 141
-        }
-    },
-    "HFHZucz6g6": {
-        "id": "HFHZucz6g6",
-        "title": "8 важных свиданий",
-        "author": "Джон Готтман",
-        "notes": "7/10 Важные темы для разговоров супружеских пар.",
-        "createdAt": "2020-08-28 13:21:54",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 140
         }
     }
 }

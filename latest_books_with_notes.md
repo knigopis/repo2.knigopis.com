@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Человек, который принял жену за шляпу ~ [anvonamore](users/595/5957175-vkontakte)<sup>144</sup>
 * Герметикон 7 Скопление неприятностей ~ [Chiffi](users/105/105831994080785626680-google)<sup>199</sup>
 * Поэмы: Черкесы, Кавказский пленник, Измаил-Бей, Аул Бастунджи, Хаджи Абрек, Демон, Мцыри ~ [Rainbow](users/109/109787328219839805802-google)<sup>61</sup>
 * Цветы для Элджернона ~ [Rainbow](users/109/109787328219839805802-google)<sup>59</sup>
@@ -30,7 +31,6 @@
 * Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
 * Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
 * Страна радости ~ [Rainbow](users/109/109787328219839805802-google)<sup>57</sup>
-* Тайна форта с привидениями ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>47</sup>
 
 
-_03.09.2020 17:14:14_
+_03.09.2020 21:50:35_
