@@ -79,6 +79,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>97</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>50</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>103</sup> 
@@ -87,7 +88,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>62</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>199</sup> 
 [Julia](users/360/3605959179435376-facebook)<sup>6</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>179</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>61</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>100</sup> 
 [vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
@@ -111,4 +111,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
 
 
-_04.09.2020 12:41:22_
+_04.09.2020 14:26:43_

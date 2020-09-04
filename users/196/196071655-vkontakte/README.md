@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>179</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>180</sup>
 ---
 
 ## 2020
+
+### Земля лишних. Последний борт на Одессу
+Андрей Круз, Андрей Царев
+> [2020-09-04] 
+
 
 ### Земля лишних. Два билета туда
 Андрей Круз
