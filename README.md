@@ -79,7 +79,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Himik](users/100/100471902502443753809-google)<sup>1</sup> 
+[Himik](users/100/100471902502443753809-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>144</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>93</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>62</sup> 
@@ -111,4 +111,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112786334705654109133-google)<sup>0</sup> 
 
 
-_04.09.2020 05:23:06_
+_04.09.2020 05:23:45_
