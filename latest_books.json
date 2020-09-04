@@ -1,4 +1,16 @@
 {
+    "zZAPXJjdMm": {
+        "id": "zZAPXJjdMm",
+        "title": "Украденное письмо",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2020-09-04 10:23:04",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 96
+        }
+    },
     "HvvVgR3ph7": {
         "id": "HvvVgR3ph7",
         "title": "После бала",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 64
-        }
-    },
-    "m_0ukX6_vI": {
-        "id": "m_0ukX6_vI",
-        "title": "Рождённый туманом. Пепел и сталь",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2020-08-29 11:47:28",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 58
         }
     }
 }
