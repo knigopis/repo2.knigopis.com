@@ -1,4 +1,16 @@
 {
+    "HvvVgR3ph7": {
+        "id": "HvvVgR3ph7",
+        "title": "После бала",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2020-09-04 10:00:00",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 95
+        }
+    },
     "I9hOgZ-0cD": {
         "id": "I9hOgZ-0cD",
         "title": "В добрый час",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 58
-        }
-    },
-    "qGvttBLmyL": {
-        "id": "qGvttBLmyL",
-        "title": "Колодец с живой водой",
-        "author": "Чарльз Мартин",
-        "notes": "",
-        "createdAt": "2020-08-29 06:25:36",
-        "user": {
-            "id": "114590628984975057130-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
