@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>49</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>50</sup>
 ---
 
 ## 2020
+
+### Сквозь зеркала. Граница миров
+Кристель Дабо
+> [2020-08] 
+
 
 ### Король Лир (The Tragedy of King Lear)
 Уильям Шекспир

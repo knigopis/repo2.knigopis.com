@@ -79,6 +79,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>50</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>96</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>103</sup> 
 [Himik](users/100/100471902502443753809-google)<sup>0</sup> 
@@ -105,10 +106,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 [Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>49</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
 
 
-_04.09.2020 10:23:04_
+_04.09.2020 12:01:21_

@@ -1,4 +1,16 @@
 {
+    "11f7DoBCTg": {
+        "id": "11f7DoBCTg",
+        "title": "Сквозь зеркала. Граница миров",
+        "author": "Кристель Дабо",
+        "notes": "",
+        "createdAt": "2020-09-04 12:01:21",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 50
+        }
+    },
     "zZAPXJjdMm": {
         "id": "zZAPXJjdMm",
         "title": "Украденное письмо",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 85
-        }
-    },
-    "0o8eJ-T2Xy": {
-        "id": "0o8eJ-T2Xy",
-        "title": "Бегство от свободы",
-        "author": "Эрих Фромм",
-        "notes": "",
-        "createdAt": "2020-08-29 19:40:49",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 64
         }
     }
 }

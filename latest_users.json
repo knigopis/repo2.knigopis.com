@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 50,
+        "updatedAt": "2020-09-04 12:01:21"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -154,12 +160,6 @@
         "nickname": "Ночнокошкин",
         "booksCount": 6,
         "updatedAt": "2020-08-24 20:20:39"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 49,
-        "updatedAt": "2020-08-24 19:05:46"
     },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
