@@ -79,6 +79,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>103</sup> 
 [Himik](users/100/100471902502443753809-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>144</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>93</sup> 
@@ -108,7 +109,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
-[](users/112/112786334705654109133-google)<sup>0</sup> 
 
 
-_04.09.2020 05:23:45_
+_04.09.2020 06:46:31_

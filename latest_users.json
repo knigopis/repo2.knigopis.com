@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 103,
+        "updatedAt": "2020-09-04 06:46:31"
+    },
     "100471902502443753809-google": {
         "id": "100471902502443753809-google",
         "nickname": "Himik",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 173,
         "updatedAt": "2020-08-22 15:10:30"
-    },
-    "112786334705654109133-google": {
-        "id": "112786334705654109133-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-08-21 15:27:09"
     }
 }
