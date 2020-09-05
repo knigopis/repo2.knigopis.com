@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rambes](users/110/110244383879018406725-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>200</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>173</sup> 
 
 
-_05.09.2020 13:41:08_
+_05.09.2020 22:13:57_
