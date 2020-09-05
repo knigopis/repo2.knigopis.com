@@ -1,4 +1,10 @@
 {
+    "110244383879018406725-google": {
+        "id": "110244383879018406725-google",
+        "nickname": "Rambes",
+        "booksCount": 0,
+        "updatedAt": "2020-09-05 22:13:57"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Vladasbook",
         "booksCount": 4,
         "updatedAt": "2020-08-23 08:40:18"
-    },
-    "118049897850017649660-googleplus": {
-        "id": "118049897850017649660-googleplus",
-        "nickname": "Sky",
-        "booksCount": 173,
-        "updatedAt": "2020-08-22 15:10:30"
     }
 }
