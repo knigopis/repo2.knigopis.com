@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>59</sup> 
 [Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>200</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>61</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>100</sup> 
 [vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>64</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 
 
-_06.09.2020 04:52:06_
+_06.09.2020 09:07:03_
