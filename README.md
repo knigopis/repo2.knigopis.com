@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
+    > Сутки
+
 * Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
     > Сказочка для взрослых девочек. Но очень милая и достаточно забавная
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Герметикон 7 Скопление неприятностей ~ [Chiffi](users/105/105831994080785626680-google)<sup>199</sup>
-    > Интересные рассуждения про демократию и сменяемость власти. Интересно, ели галаниты это америкосы, кто тогда адигены? Английские лорды?
 
 * Поэмы: Черкесы, Кавказский пленник, Измаил-Бей, Аул Бастунджи, Хаджи Абрек, Демон, Мцыри ~ [Rainbow](users/109/109787328219839805802-google)<sup>61</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * 0,05 Доказательная медицина от магии до поисков бессмертия ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>139</sup>
 
-* Тошнота ~ [Rainbow](users/109/109787328219839805802-google)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Таньчик](users/209/2096581563762610-facebook)<sup>101</sup> 
+[Таньчик](users/209/2096581563762610-facebook)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [](users/111/111978052714957627223-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 
 
-_06.09.2020 18:12:46_
+_06.09.2020 18:13:30_

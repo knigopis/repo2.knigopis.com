@@ -1,4 +1,16 @@
 {
+    "ws2LgKDr-C": {
+        "id": "ws2LgKDr-C",
+        "title": "Воспитание без криков и наказаний",
+        "author": "Екатерина Кес",
+        "notes": "Сутки",
+        "createdAt": "2020-09-06 18:13:30",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 102
+        }
+    },
     "oZcE8FrpsF": {
         "id": "oZcE8FrpsF",
         "title": "Записки патологоанатома",
@@ -345,18 +357,6 @@
             "id": "3605959179435376-facebook",
             "nickname": "Julia",
             "booksCount": 3
-        }
-    },
-    "Xpb3pq_Kl1": {
-        "id": "Xpb3pq_Kl1",
-        "title": "Аэропорт",
-        "author": "Артур Хейли",
-        "notes": "10/10",
-        "createdAt": "2020-09-02 18:00:11",
-        "user": {
-            "id": "3605959179435376-facebook",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }

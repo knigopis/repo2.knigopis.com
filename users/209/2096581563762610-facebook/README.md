@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>101</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>102</sup>
 ---
 
 ## 2020
+
+### Воспитание без криков и наказаний
+Екатерина Кес
+> [2020-09-06] Сутки
+
 
 ### Записки патологоанатома
 Андрей Шляхов

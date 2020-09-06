@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
 * Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
 * Человек, который принял жену за шляпу ~ [anvonamore](users/595/5957175-vkontakte)<sup>144</sup>
 * Герметикон 7 Скопление неприятностей ~ [Chiffi](users/105/105831994080785626680-google)<sup>199</sup>
@@ -30,7 +31,6 @@
 * Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
 * Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
 * Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
-* Далекие Годы ~ [exulted](users/100/100599204551896265722-google)<sup>130</sup>
 
 
-_05.09.2020 13:41:08_
+_06.09.2020 18:13:30_
