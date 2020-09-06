@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111978052714957627223-google)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>59</sup> 
 [Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 [Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
-[Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 
 
-_06.09.2020 09:07:03_
+_06.09.2020 12:55:31_
