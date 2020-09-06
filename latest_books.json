@@ -1,4 +1,16 @@
 {
+    "s1Z5rpwlMR": {
+        "id": "s1Z5rpwlMR",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-09-06 12:59:20",
+        "user": {
+            "id": "111978052714957627223-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "RpxInSvOc6": {
         "id": "RpxInSvOc6",
         "title": "Человек для себя",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 179
-        }
-    },
-    "h8bhxWdHKv": {
-        "id": "h8bhxWdHKv",
-        "title": "Что делать?",
-        "author": "Николай Чернышевский",
-        "notes": "",
-        "createdAt": "2020-08-31 23:29:32",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 62
         }
     }
 }
