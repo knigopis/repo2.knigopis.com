@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>100</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>101</sup>
 ---
 
 ## 2020
+
+### Записки патологоанатома
+Андрей Шляхов
+> [2020-09-05] 
+
 
 ### А жизнь была совсем хорошая
 Мария Метлицкая

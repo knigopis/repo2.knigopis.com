@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [](users/111/111978052714957627223-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>62</sup> 
 [Julia](users/360/3605959179435376-facebook)<sup>6</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>61</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>100</sup> 
 [vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 
 
-_06.09.2020 13:36:52_
+_06.09.2020 18:12:46_

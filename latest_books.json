@@ -1,4 +1,16 @@
 {
+    "oZcE8FrpsF": {
+        "id": "oZcE8FrpsF",
+        "title": "Записки патологоанатома",
+        "author": "Андрей Шляхов",
+        "notes": "",
+        "createdAt": "2020-09-06 18:12:46",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 101
+        }
+    },
     "TAWabULx9g": {
         "id": "TAWabULx9g",
         "title": "Замок из стекла",
@@ -345,18 +357,6 @@
             "id": "3605959179435376-facebook",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "bmsslRnC74": {
-        "id": "bmsslRnC74",
-        "title": "Бремя страстей человеческих",
-        "author": "Сомерсет Моэм",
-        "notes": "7/10",
-        "createdAt": "2020-09-02 17:59:26",
-        "user": {
-            "id": "3605959179435376-facebook",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
