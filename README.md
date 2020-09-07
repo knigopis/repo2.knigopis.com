@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
+    > ASIN : B000SEFH74
+
 * Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
     > Сутки
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сказочка для взрослых девочек. Но очень милая и достаточно забавная
 
 * Человек, который принял жену за шляпу ~ [anvonamore](users/595/5957175-vkontakte)<sup>144</sup>
-    > 7/10
 
 * Герметикон 7 Скопление неприятностей ~ [Chiffi](users/105/105831994080785626680-google)<sup>199</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мемуары гейши ~ [Elixir](users/115/115826717712507836033-google)<sup>424</sup>
 
-* 0,05 Доказательная медицина от магии до поисков бессмертия ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>139</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>132</sup> 
 [](users/153/1537586159620888-facebook)<sup>25</sup> 
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>220</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
-[Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
 
 
-_07.09.2020 13:32:12_
+_07.09.2020 17:33:15_

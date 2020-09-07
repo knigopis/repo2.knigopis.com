@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 * Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
 * Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
 * Человек, который принял жену за шляпу ~ [anvonamore](users/595/5957175-vkontakte)<sup>144</sup>
@@ -30,7 +31,6 @@
 * Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
 * Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
 * Труп из первой столиці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>136</sup>
-* Nowele przykładne ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>135</sup>
 
 
-_06.09.2020 18:13:30_
+_07.09.2020 17:33:15_

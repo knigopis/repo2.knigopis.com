@@ -1,4 +1,16 @@
 {
+    "WaFmSO42ul": {
+        "id": "WaFmSO42ul",
+        "title": "Fields of Fire: A Novel",
+        "author": "James Webb",
+        "notes": "ASIN : B000SEFH74",
+        "createdAt": "2020-09-07 17:33:15",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 132
+        }
+    },
     "or1IbmG0E4": {
         "id": "or1IbmG0E4",
         "title": "Первый год жизни",
@@ -345,18 +357,6 @@
             "id": "3605959179435376-facebook",
             "nickname": "Julia",
             "booksCount": 6
-        }
-    },
-    "IHFoIb6XxW": {
-        "id": "IHFoIb6XxW",
-        "title": "Rich people problems",
-        "author": "Kewin Kwan",
-        "notes": "7/10",
-        "createdAt": "2020-09-02 18:03:52",
-        "user": {
-            "id": "3605959179435376-facebook",
-            "nickname": "Julia",
-            "booksCount": 5
         }
     }
 }
