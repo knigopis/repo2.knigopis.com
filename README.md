@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
+    > Повесть о жизни. Книга 3
+
 * Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
     > ASIN : B000SEFH74
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сутки
 
 * Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
-    > Сказочка для взрослых девочек. Но очень милая и достаточно забавная
 
 * Человек, который принял жену за шляпу ~ [anvonamore](users/595/5957175-vkontakte)<sup>144</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * 8 важных свиданий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>140</sup>
 
-* Мемуары гейши ~ [Elixir](users/115/115826717712507836033-google)<sup>424</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>132</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>25</sup> 
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 
 
-_07.09.2020 17:33:15_
+_07.09.2020 17:35:07_
