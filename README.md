@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>25</sup> 
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 [Ночнокошкин](users/104/104299837-vkontakte)<sup>6</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>3</sup> 
 
 
-_06.09.2020 21:29:13_
+_07.09.2020 13:32:12_

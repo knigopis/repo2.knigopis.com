@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 25,
+        "updatedAt": "2020-09-07 13:32:12"
+    },
     "111978052714957627223-google": {
         "id": "111978052714957627223-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Ночнокошкин",
         "booksCount": 6,
         "updatedAt": "2020-08-24 20:20:39"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 3,
-        "updatedAt": "2020-08-24 17:52:36"
     }
 }
