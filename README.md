@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>103</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>220</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 
 
-_08.09.2020 12:43:12_
+_08.09.2020 18:00:42_
