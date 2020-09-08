@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>103</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>25</sup> 
 [](users/111/111978052714957627223-google)<sup>2</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>59</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>40</sup> 
 
 
-_07.09.2020 17:35:07_
+_08.09.2020 12:43:12_

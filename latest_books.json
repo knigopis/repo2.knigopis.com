@@ -1,4 +1,16 @@
 {
+    "YfRq20maIt": {
+        "id": "YfRq20maIt",
+        "title": "Одна привычка в неделю. Измени себя за год",
+        "author": "Бретт Блюменталь",
+        "notes": "",
+        "createdAt": "2020-09-08 12:43:12",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 103
+        }
+    },
     "nd-CoRkdK6": {
         "id": "nd-CoRkdK6",
         "title": "Начало неведомого века",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 88
-        }
-    },
-    "NNMDBMGtTl": {
-        "id": "NNMDBMGtTl",
-        "title": "Смиренное кладбище",
-        "author": "Сергей Евгеньевич Каледин",
-        "notes": "",
-        "createdAt": "2020-09-03 06:44:11",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 87
         }
     }
 }

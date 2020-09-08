@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>102</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>103</sup>
 ---
 
 ## 2020
+
+### Одна привычка в неделю. Измени себя за год
+Бретт Блюменталь
+> [2020-09-08] 
+
 
 ### Воспитание без криков и наказаний
 Екатерина Кес
