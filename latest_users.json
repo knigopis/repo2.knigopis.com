@@ -1,4 +1,10 @@
 {
+    "301076397-vkontakte": {
+        "id": "301076397-vkontakte",
+        "nickname": "zhandz",
+        "booksCount": 0,
+        "updatedAt": "2020-09-08 18:00:42"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Madlax",
         "booksCount": 220,
         "updatedAt": "2020-08-26 07:31:29"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 40,
-        "updatedAt": "2020-08-24 22:18:07"
     }
 }
