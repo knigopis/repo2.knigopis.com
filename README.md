@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
+    > Снова сказочка. Автору понравились свои находки (герои) и теперь она к ним примеряет разные сюжеты. Но в целом миленько и позитивно
+
 * Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
     > Повесть о жизни. Книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN : B000SEFH74
 
 * Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
-    > Сутки
 
 * Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чемні дівчатка потрапляють у рай, погані - куди забажають. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup>
 
-* 8 важных свиданий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>140</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>201</sup> 
 [zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>103</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>59</sup> 
 [Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>200</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>97</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>50</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 
 
-_08.09.2020 18:00:42_
+_09.09.2020 05:20:07_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
 * Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
 * Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 * Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
@@ -30,7 +31,6 @@
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 * Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
 * Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
-* Век волков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>137</sup>
 
 
-_07.09.2020 17:35:07_
+_09.09.2020 05:20:07_
