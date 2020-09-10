@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
 * Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
 * Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
 * Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
@@ -30,7 +31,6 @@
 * Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 * Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
-* Вор времени ~ [Garka](users/115/115753719718250012620-google)<sup>259</sup>
 
 
-_09.09.2020 05:20:07_
+_10.09.2020 15:13:31_
