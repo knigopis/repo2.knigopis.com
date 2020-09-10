@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>221</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>201</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>59</sup> 
 [Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>97</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 
 
-_10.09.2020 15:13:31_
+_10.09.2020 16:34:39_
