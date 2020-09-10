@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
 * Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
 * Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
 * Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
@@ -30,7 +31,6 @@
 * Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
 * Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 * Беспокойная юность ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
-* Последний герой ~ [Garka](users/115/115753719718250012620-google)<sup>260</sup>
 
 
-_10.09.2020 15:13:31_
+_10.09.2020 18:42:32_

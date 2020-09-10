@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
+    > 8/10 Що станеться якщо жінки зможуть себе задовольняти самостійно, без чоловіків?
+
 * Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
     > Харри Холе снова в деле. Читается, что называется, залпом. На этот раз грозе норвежской полиции предстоит поймать серийного убийцу полицейских. Хоть он и не хотел, но пришлось снова взяться за расследование. 
     > Что примечательно, Холе не выпил ни грамма в этой книге.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Снова сказочка. Автору понравились свои находки (герои) и теперь она к ним примеряет разные сюжеты. Но в целом миленько и позитивно
 
 * Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
-    > Повесть о жизни. Книга 3
 
 * Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Поэмы: Черкесы, Кавказский пленник, Измаил-Бей, Аул Бастунджи, Хаджи Абрек, Демон, Мцыри ~ [Rainbow](users/109/109787328219839805802-google)<sup>61</sup>
 
-* Цветы для Элджернона ~ [Rainbow](users/109/109787328219839805802-google)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>221</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>141</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>424</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>74</sup> 
 [alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 
 
-_10.09.2020 16:34:39_
+_10.09.2020 18:42:32_

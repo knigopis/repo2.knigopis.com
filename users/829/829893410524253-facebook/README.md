@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>141</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>142</sup>
 ---
 
 ## 2020
+
+### Чарівна ти
+Чак Поланік
+> [2020-09-09] 8/10 Що станеться якщо жінки зможуть себе задовольняти самостійно, без чоловіків?
+
 
 ### Чемні дівчатка потрапляють у рай, погані - куди забажають.
 Уте Ергардт
