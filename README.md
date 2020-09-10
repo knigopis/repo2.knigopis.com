@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>221</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>201</sup> 
 [zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>103</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>74</sup> 
 [alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>33</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>220</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>220</sup> 
 
 
-_09.09.2020 05:20:07_
+_10.09.2020 07:56:43_

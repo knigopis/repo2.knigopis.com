@@ -1,4 +1,16 @@
 {
+    "yo2wLV60ja": {
+        "id": "yo2wLV60ja",
+        "title": "Острова в океане",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2020-09-10 07:56:43",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 221
+        }
+    },
     "ELq1a5B3OI": {
         "id": "ELq1a5B3OI",
         "title": "Практическая работа для похищенной",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 90
-        }
-    },
-    "fd95DX82Yi": {
-        "id": "fd95DX82Yi",
-        "title": "Последний дюйм",
-        "author": "Джеймс Олдридж",
-        "notes": "",
-        "createdAt": "2020-09-03 07:43:25",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 89
         }
     }
 }
