@@ -1,4 +1,10 @@
 {
+    "115115073269202114765-google": {
+        "id": "115115073269202114765-google",
+        "nickname": "TekTonik18",
+        "booksCount": 0,
+        "updatedAt": "2020-09-11 08:18:40"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "alexandr.manvelyan",
         "booksCount": 0,
         "updatedAt": "2020-08-27 13:16:04"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 220,
-        "updatedAt": "2020-08-26 07:31:29"
     }
 }
