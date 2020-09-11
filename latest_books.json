@@ -1,4 +1,16 @@
 {
+    "gtwTKLn3X4": {
+        "id": "gtwTKLn3X4",
+        "title": "Письма к Науму Сагаловскому",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2020-09-11 09:22:51",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 222
+        }
+    },
     "dn0NNfQrbC": {
         "id": "dn0NNfQrbC",
         "title": "Нейромант",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 93
-        }
-    },
-    "epxbJXhTqe": {
-        "id": "epxbJXhTqe",
-        "title": "Мальчик в белой рубашке",
-        "author": "Виктор Петрович Астафьев",
-        "notes": "",
-        "createdAt": "2020-09-03 19:09:43",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 92
         }
     }
 }
