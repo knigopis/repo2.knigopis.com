@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TekTonik18](users/115/115115073269202114765-google)<sup>0</sup> 
+[TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 
 
-_11.09.2020 08:18:41_
+_11.09.2020 08:19:35_
