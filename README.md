@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
+    > Смесь детектива и мистики. Читать интересно. Было написано, что это первая книга серии, но постоянно идут отсылки к прошлым событиям.
+
 * Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
     > 8/10 Що станеться якщо жінки зможуть себе задовольняти самостійно, без чоловіків?
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Что примечательно, Холе не выпил ни грамма в этой книге.
 
 * Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
-    > Снова сказочка. Автору понравились свои находки (герои) и теперь она к ним примеряет разные сюжеты. Но в целом миленько и позитивно
 
 * Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
 
@@ -27,19 +29,17 @@ Do not use pull requests to make changes here.
 
 * Герметикон 7 Скопление неприятностей ~ [Chiffi](users/105/105831994080785626680-google)<sup>199</sup>
 
-* Поэмы: Черкесы, Кавказский пленник, Измаил-Бей, Аул Бастунджи, Хаджи Абрек, Демон, Мцыри ~ [Rainbow](users/109/109787328219839805802-google)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>202</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>222</sup> 
 [TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>201</sup> 
 [zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>103</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandr.manvelyan](users/265/265546908-yandex)<sup>0</sup> 
 
 
-_11.09.2020 09:22:51_
+_12.09.2020 05:30:51_
