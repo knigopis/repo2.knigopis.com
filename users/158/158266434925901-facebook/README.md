@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>115</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>116</sup>
 ---
 
 ## 2020
+
+### Долгая зима
+Джон Кристофер
+> [2020-09-12] 
+
 
 ### Гордость и предупреждение
 Джейн Остин
