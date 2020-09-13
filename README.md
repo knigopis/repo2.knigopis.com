@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
+    > Интересный мистический детектив.
+
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
     > Смесь детектива и мистики. Читать интересно. Было написано, что это первая книга серии, но постоянно идут отсылки к прошлым событиям.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Що станеться якщо жінки зможуть себе задовольняти самостійно, без чоловіків?
 
 * Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
-    > Харри Холе снова в деле. Читается, что называется, залпом. На этот раз грозе норвежской полиции предстоит поймать серийного убийцу полицейских. Хоть он и не хотел, но пришлось снова взяться за расследование. 
-    > Что примечательно, Холе не выпил ни грамма в этой книге.
 
 * Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
 
@@ -27,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Человек, который принял жену за шляпу ~ [anvonamore](users/595/5957175-vkontakte)<sup>144</sup>
 
-* Герметикон 7 Скопление неприятностей ~ [Chiffi](users/105/105831994080785626680-google)<sup>199</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>203</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>116</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>202</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>222</sup> 
 [TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>74</sup> 
 
 
-_12.09.2020 06:04:11_
+_13.09.2020 05:55:39_

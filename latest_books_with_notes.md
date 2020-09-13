@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
 * Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
 * Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
@@ -30,7 +31,6 @@
 * Свои погремушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>197</sup>
 * Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
 * Простые волшебные вещи ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>48</sup>
-* Близость ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 
 
-_12.09.2020 05:30:51_
+_13.09.2020 05:55:39_
