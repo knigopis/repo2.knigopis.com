@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107981781314871592859-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>203</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>116</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>222</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114590628984975057130-google)<sup>1</sup> 
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>424</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>74</sup> 
 
 
-_13.09.2020 05:55:39_
+_13.09.2020 12:33:55_
