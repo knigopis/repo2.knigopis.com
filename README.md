@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>204</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>424</sup> 
 
 
-_14.09.2020 07:04:11_
+_14.09.2020 23:31:41_
