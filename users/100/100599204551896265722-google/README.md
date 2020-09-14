@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>133</sup>
+# Список прочитанных книг пользователя exulted<sup>134</sup>
 ---
 
 ## 2020
+
+### Pronto: A Novel (Raylan Givens Book 1)
+Elmore Leonard
+> [2020-09-14] ASIN : B000FC13FY
+
 
 ### Fields of Fire: A Novel
 James Webb

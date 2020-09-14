@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
+    > ASIN : B000FC13FY
+
 * Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
     > Интересный мистический детектив.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Смесь детектива и мистики. Читать интересно. Было написано, что это первая книга серии, но постоянно идут отсылки к прошлым событиям.
 
 * Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
-    > 8/10 Що станеться якщо жінки зможуть себе задовольняти самостійно, без чоловіків?
 
 * Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
 
-* Человек, который принял жену за шляпу ~ [anvonamore](users/595/5957175-vkontakte)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>204</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>116</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
 [zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>103</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>25</sup> 
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>424</sup> 
 
 
-_14.09.2020 05:15:53_
+_14.09.2020 07:04:11_
