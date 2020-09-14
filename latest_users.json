@@ -1,4 +1,10 @@
 {
+    "108316544552221405099-google": {
+        "id": "108316544552221405099-google",
+        "nickname": "Tanya Lt",
+        "booksCount": 0,
+        "updatedAt": "2020-09-14 23:31:41"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "nazarkutsovol",
         "booksCount": 0,
         "updatedAt": "2020-08-28 17:19:30"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": "Elixir",
-        "booksCount": 424,
-        "updatedAt": "2020-08-28 01:53:01"
     }
 }
