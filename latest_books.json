@@ -1,4 +1,16 @@
 {
+    "J_OA-UVIbM": {
+        "id": "J_OA-UVIbM",
+        "title": "Институт исследований необьяснимого 3. Ненастоящие.",
+        "author": "Обухова Лена, Тимошенко Наталья",
+        "notes": "",
+        "createdAt": "2020-09-14 05:15:53",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 204
+        }
+    },
     "51TP88SOaJ": {
         "id": "51TP88SOaJ",
         "title": "Институт исследований 2. Чудовищ.net.",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 94
-        }
-    },
-    "R8lpMTZrC2": {
-        "id": "R8lpMTZrC2",
-        "title": "Человек, который смеется",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2020-09-04 06:46:31",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 103
         }
     }
 }
