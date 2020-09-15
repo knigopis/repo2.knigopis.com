@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 181,
+        "updatedAt": "2020-09-15 12:17:12"
+    },
     "108316544552221405099-google": {
         "id": "108316544552221405099-google",
         "nickname": "Tanya Lt",
@@ -100,12 +106,6 @@
         "nickname": "Rambes",
         "booksCount": 1,
         "updatedAt": "2020-09-05 22:15:03"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 180,
-        "updatedAt": "2020-09-04 14:26:43"
     },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",

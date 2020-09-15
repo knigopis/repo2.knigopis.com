@@ -1,4 +1,16 @@
 {
+    "WBeu5K3eFx": {
+        "id": "WBeu5K3eFx",
+        "title": "Хмель и Клондайк",
+        "author": "Павер Корнев, Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-09-15 12:17:12",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 181
+        }
+    },
     "I2knJQRGj5": {
         "id": "I2knJQRGj5",
         "title": "Pronto: A Novel (Raylan Givens Book 1)",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 96
-        }
-    },
-    "HvvVgR3ph7": {
-        "id": "HvvVgR3ph7",
-        "title": "После бала",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2020-09-04 10:00:00",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 95
         }
     }
 }

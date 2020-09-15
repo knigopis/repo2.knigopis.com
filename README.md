@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>181</sup> 
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>204</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 [Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>97</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>50</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>103</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
 
 
-_14.09.2020 23:31:41_
+_15.09.2020 12:17:12_
