@@ -1,4 +1,16 @@
 {
+    "jtIGf8r7eZ": {
+        "id": "jtIGf8r7eZ",
+        "title": "Счастье в трудные времена",
+        "author": "Эндрю Мэтьюз",
+        "notes": "",
+        "createdAt": "2020-09-16 21:13:49",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 104
+        }
+    },
     "8Ie6eyvM2s": {
         "id": "8Ie6eyvM2s",
         "title": "Сто лет одиночества",
@@ -345,18 +357,6 @@
             "id": "110244383879018406725-google",
             "nickname": "Rambes",
             "booksCount": 1
-        }
-    },
-    "bBw4_VtmFh": {
-        "id": "bBw4_VtmFh",
-        "title": "Прикладная некромантия",
-        "author": "Огинская Купава",
-        "notes": "Сказочка для взрослых девочек. Но очень милая и достаточно забавная",
-        "createdAt": "2020-09-05 13:41:08",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 200
         }
     }
 }
