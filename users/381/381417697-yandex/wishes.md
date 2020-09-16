@@ -31,54 +31,57 @@ Linus Torvalds, David Diamond
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
 
-### `4` Паттерны проектирования
-Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
-
 ### `4` Атлант расправил плечи
 Айн Рэнд
 
-### `1` Joel on Software
-Joel Spolsky
-
-### `1` Портной из Панамы
-Джон Ле Карре
+### `4` Паттерны проектирования
+Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
 
+### `1` Портной из Панамы
+Джон Ле Карре
+
+### `1` Joel on Software
+Joel Spolsky
+
+### `` Три товарища
+Эрих Мария Ремарк
+
+### `` Permanent Record
+Edward Snowden
+
+### `` Qe
+
+### `` Герой нашего времени
+Михаил Лермонтов
+
+### `` Искусство программирования
+Дональд Кнут
+
 ### `` Agile Estimating and Planning
 Mike Cohn
 
-### `` Effective Kotlin
+### `` Set Theory
+Мильтон Бэббит
+> 1992
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
-### `` Искусство программирования
-Дональд Кнут
-
-### `` Qe
-
 ### `` Hdhd
-
-### `` Три товарища
-Эрих Мария Ремарк
 
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
 
-### `` Permanent Record
-Edward Snowden
-
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` Effective Kotlin
 
 ### `` Не рычите на собаку
 
-### `` Set Theory
-Мильтон Бэббит
-> 1992
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
@@ -102,12 +105,13 @@ Stephen Hawking
 
 ### `` Super Intelligence
 
+### `` Как измерить что угодно
+
+### `` asdf
+
 ### `` Hacking: Art of Exploitation
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
-
-### `` Мертвые души
-Николай Гоголь
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
@@ -127,8 +131,6 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 Daniel Kahneman
 
 ### `` Тонкое искусство пофигизма
-
-### `` asdf
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
