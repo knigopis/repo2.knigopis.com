@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
+    > Это уже больше на ужастики похоже, но интересно. Особенно нравится то, что второстепенные па первый взгляд герои появляются в следующих книгах.
+
 * Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
     > ASIN : B000FC13FY
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересный мистический детектив.
 
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
-    > Смесь детектива и мистики. Читать интересно. Было написано, что это первая книга серии, но постоянно идут отсылки к прошлым событиям.
 
 * Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
 
-* Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>205</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>98</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>181</sup> 
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>204</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>116</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>222</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
 
 
-_15.09.2020 21:05:32_
+_16.09.2020 05:38:17_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
 * Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
 * Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
@@ -30,7 +31,6 @@
 * Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
 * Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
 * Свои погремушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>197</sup>
-* Птицы его мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>196</sup>
 
 
-_14.09.2020 07:04:11_
+_16.09.2020 05:38:17_
