@@ -1,4 +1,16 @@
 {
+    "WaS0HwSa_L": {
+        "id": "WaS0HwSa_L",
+        "title": "Холод, пиво, дробовик",
+        "author": "Павел Корнев, Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-09-16 13:07:17",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 182
+        }
+    },
     "RY-GST6s1V": {
         "id": "RY-GST6s1V",
         "title": "Институт исследований необъяснимого 4. Добровольно проклятые.",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 180
-        }
-    },
-    "vUJPbBFmk9": {
-        "id": "vUJPbBFmk9",
-        "title": "Ася",
-        "author": "Иван Сергеевич Тургенев",
-        "notes": "",
-        "createdAt": "2020-09-04 12:41:21",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 97
         }
     }
 }

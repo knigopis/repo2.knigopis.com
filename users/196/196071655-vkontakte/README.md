@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>181</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>182</sup>
 ---
 
 ## 2020
+
+### Холод, пиво, дробовик
+Павел Корнев, Андрей Круз
+> [2020-09-16] 
+
 
 ### Хмель и Клондайк
 Павер Корнев, Андрей Круз

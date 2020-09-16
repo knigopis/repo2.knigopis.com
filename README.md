@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>182</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>205</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>98</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>181</sup> 
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
 
 
-_16.09.2020 05:38:17_
+_16.09.2020 13:07:17_
