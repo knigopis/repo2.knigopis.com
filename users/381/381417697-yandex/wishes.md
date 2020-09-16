@@ -37,11 +37,11 @@ Randall Munroe
 ### `4` Атлант расправил плечи
 Айн Рэнд
 
-### `1` Портной из Панамы
-Джон Ле Карре
-
 ### `1` Joel on Software
 Joel Spolsky
+
+### `1` Портной из Панамы
+Джон Ле Карре
 
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
@@ -58,9 +58,9 @@ Dafydd Stuttard, Marcus Pinto
 ### `` Искусство программирования
 Дональд Кнут
 
-### `` Hdhd
-
 ### `` Qe
+
+### `` Hdhd
 
 ### `` Три товарища
 Эрих Мария Ремарк
@@ -74,15 +74,14 @@ Edward Snowden
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` Тонкое искусство пофигизма
+### `` Не рычите на собаку
 
 ### `` Set Theory
 Мильтон Бэббит
 > 1992
 
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
@@ -101,15 +100,18 @@ Eric S. Raymond
 ### `` A Briefer History of Time
 Stephen Hawking
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Super Intelligence
+
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+
+### `` Мертвые души
+Николай Гоголь
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
-
-### `` Мертвые души
-Николай Гоголь
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
@@ -124,7 +126,7 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
 
-### `` Не рычите на собаку
+### `` Тонкое искусство пофигизма
 
 ### `` asdf
 
