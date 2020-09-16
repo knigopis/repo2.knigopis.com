@@ -1,4 +1,16 @@
 {
+    "8Ie6eyvM2s": {
+        "id": "8Ie6eyvM2s",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "На один раз...",
+        "createdAt": "2020-09-16 16:31:18",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 79
+        }
+    },
     "RY-GST6s1V": {
         "id": "RY-GST6s1V",
         "title": "Институт исследований необъяснимого 4. Добровольно проклятые.",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 143
-        }
-    },
-    "cNNUey3E_w": {
-        "id": "cNNUey3E_w",
-        "title": "Свои погремушки",
-        "author": "Вильмонт Екатерина",
-        "notes": "Почему главную героиню зовут Аглая или Злата? Т.е. с обычным именем ничего не светит?",
-        "createdAt": "2020-08-24 15:26:45",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 197
         }
     }
 }

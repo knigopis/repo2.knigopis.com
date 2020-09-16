@@ -1,4 +1,16 @@
 {
+    "8Ie6eyvM2s": {
+        "id": "8Ie6eyvM2s",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "На один раз...",
+        "createdAt": "2020-09-16 16:31:18",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 79
+        }
+    },
     "WaS0HwSa_L": {
         "id": "WaS0HwSa_L",
         "title": "Холод, пиво, дробовик",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 200
-        }
-    },
-    "zaIS8IyxbH": {
-        "id": "zaIS8IyxbH",
-        "title": "Земля лишних. Последний борт на Одессу",
-        "author": "Андрей Круз, Андрей Царев",
-        "notes": "",
-        "createdAt": "2020-09-04 14:26:43",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 180
         }
     }
 }

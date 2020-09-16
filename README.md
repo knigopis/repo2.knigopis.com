@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
+    > На один раз...
+
 * Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
     > Это уже больше на ужастики похоже, но интересно. Особенно нравится то, что второстепенные па первый взгляд герои появляются в следующих книгах.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN : B000FC13FY
 
 * Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
-    > Интересный мистический детектив.
 
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 
-* Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>182</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>205</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>98</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
 [](users/114/114590628984975057130-google)<sup>1</sup> 
-[nazarkutsovol](users/180/180462035-vkontakte)<sup>0</sup> 
 
 
-_16.09.2020 13:07:17_
+_16.09.2020 16:31:18_
