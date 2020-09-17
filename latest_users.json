@@ -1,4 +1,10 @@
 {
+    "1525885927708569-facebook": {
+        "id": "1525885927708569-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-09-17 06:54:04"
+    },
     "109758218469192505127-google": {
         "id": "109758218469192505127-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "vladoelf",
         "booksCount": 0,
         "updatedAt": "2020-08-29 20:38:45"
-    },
-    "28646910-vkontakte": {
-        "id": "28646910-vkontakte",
-        "nickname": "diaox",
-        "booksCount": 0,
-        "updatedAt": "2020-08-29 14:44:16"
     }
 }
