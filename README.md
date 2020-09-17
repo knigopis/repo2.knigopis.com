@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109758218469192505127-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>63</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>104</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>61</sup> 
 [vladoelf](users/223/22305058-vkontakte)<sup>0</sup> 
 [diaox](users/286/28646910-vkontakte)<sup>0</sup> 
-[](users/114/114590628984975057130-google)<sup>1</sup> 
 
 
-_17.09.2020 06:02:02_
+_17.09.2020 06:53:03_
