@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
 * Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
 * Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
 * Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
@@ -30,7 +31,6 @@
 * 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
 * vfcd ~ [Madlax](users/158/158304782-vkontakte)<sup>210</sup>
 * Czyjem ja żyłem życiem? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>138</sup>
-* Гарри Поттер и Дары Смерти ~ [anvonamore](users/595/5957175-vkontakte)<sup>143</sup>
 
 
-_16.09.2020 16:31:18_
+_18.09.2020 11:09:33_
