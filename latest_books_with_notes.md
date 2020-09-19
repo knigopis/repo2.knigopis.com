@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Наследник Ранхара ~ [Lala](users/761/76187635-vkontakte)<sup>317</sup>
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
 * Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
 * Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
@@ -30,7 +31,6 @@
 * Дикая Роза ~ [Madlax](users/158/158304782-vkontakte)<sup>215</sup>
 * Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
 * 12 шагов к собственному бизнесу ~ [Madlax](users/158/158304782-vkontakte)<sup>211</sup>
-* vfcd ~ [Madlax](users/158/158304782-vkontakte)<sup>210</sup>
 
 
-_18.09.2020 21:00:34_
+_19.09.2020 04:04:55_

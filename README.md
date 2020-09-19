@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Наследник Ранхара ~ [Lala](users/761/76187635-vkontakte)<sup>317</sup>
+    > надо дочитать
+
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
     > Основная сюжетная линия (убийства в монастыре) интересно. Очень нудное описание католических орденов, противостояния Людовика и Папы, проповеди
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Роман вызывает множество нежных чувств, эмоций, сопереживаний. Но исторические отсылки автора пусты и поверхностны. Ты ждешь от этих отступлений глубины и фактов, а получаешь нераскрытые темы, что ухудшает читаемость и восприятие текста. Произведение хорошо с эмоциональной точки зрения, но абсолютно пусто как литературное произведение.
 
 * Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
-    > На один раз...
 
 * Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
 
-* Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lala](users/761/76187635-vkontakte)<sup>316</sup> 
+[Lala](users/761/76187635-vkontakte)<sup>317</sup> 
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Himik](users/100/100471902502443753809-google)<sup>0</sup> 
 
 
-_19.09.2020 04:04:45_
+_19.09.2020 04:04:55_

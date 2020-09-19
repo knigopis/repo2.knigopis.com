@@ -1,4 +1,16 @@
 {
+    "aVx0r0LcRO": {
+        "id": "aVx0r0LcRO",
+        "title": "Наследник Ранхара",
+        "author": "Буланова Ю., Карелин С.В",
+        "notes": "надо дочитать",
+        "createdAt": "2020-09-19 04:04:55",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 317
+        }
+    },
     "kcF2d_ahqK": {
         "id": "kcF2d_ahqK",
         "title": "Имя розы",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 211
-        }
-    },
-    "Mo_Tnq_j-5": {
-        "id": "Mo_Tnq_j-5",
-        "title": "vfcd",
-        "author": "ffff",
-        "notes": "ffff",
-        "createdAt": "2020-08-26 07:20:39",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 210
         }
     }
 }
