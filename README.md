@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/113/113120851982565613531-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>181</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>103</sup> 
 [Himik](users/100/100471902502443753809-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>144</sup> 
-[Julia](users/360/3605959179435376-facebook)<sup>6</sup> 
 
 
-_18.09.2020 21:00:34_
+_19.09.2020 04:01:22_
