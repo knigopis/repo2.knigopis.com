@@ -1,4 +1,16 @@
 {
+    "sqVnVqEv3M": {
+        "id": "sqVnVqEv3M",
+        "title": "Сильнее страха",
+        "author": "Марк Леви",
+        "notes": "",
+        "createdAt": "2020-09-19 04:07:19",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 318
+        }
+    },
     "aVx0r0LcRO": {
         "id": "aVx0r0LcRO",
         "title": "Наследник Ранхара",
@@ -345,18 +357,6 @@
             "id": "111978052714957627223-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "ws2LgKDr-C": {
-        "id": "ws2LgKDr-C",
-        "title": "Воспитание без криков и наказаний",
-        "author": "Екатерина Кес",
-        "notes": "Сутки",
-        "createdAt": "2020-09-06 18:13:30",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 102
         }
     }
 }
