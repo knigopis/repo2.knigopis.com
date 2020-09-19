@@ -1,4 +1,16 @@
 {
+    "nwbQhNQE9J": {
+        "id": "nwbQhNQE9J",
+        "title": "Чёрт из табакерки",
+        "author": "Сандра Бушар",
+        "notes": "",
+        "createdAt": "2020-09-19 04:09:26",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 320
+        }
+    },
     "oLDWv9Y28j": {
         "id": "oLDWv9Y28j",
         "title": "Синтонимы",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 132
-        }
-    },
-    "or1IbmG0E4": {
-        "id": "or1IbmG0E4",
-        "title": "Первый год жизни",
-        "author": "Комаровский",
-        "notes": "",
-        "createdAt": "2020-09-07 13:32:12",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 25
         }
     }
 }

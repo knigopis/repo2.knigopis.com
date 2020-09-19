@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lala](users/761/76187635-vkontakte)<sup>319</sup> 
+[Lala](users/761/76187635-vkontakte)<sup>320</sup> 
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Himik](users/100/100471902502443753809-google)<sup>0</sup> 
 
 
-_19.09.2020 04:08:16_
+_19.09.2020 04:09:26_
