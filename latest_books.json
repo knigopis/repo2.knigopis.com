@@ -1,4 +1,16 @@
 {
+    "XxASLU6NJ7": {
+        "id": "XxASLU6NJ7",
+        "title": "Страж Вьюга и я",
+        "author": "Лана Ежова",
+        "notes": "",
+        "createdAt": "2020-09-19 04:04:44",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 316
+        }
+    },
     "kcF2d_ahqK": {
         "id": "kcF2d_ahqK",
         "title": "Имя розы",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 101
-        }
-    },
-    "TAWabULx9g": {
-        "id": "TAWabULx9g",
-        "title": "Замок из стекла",
-        "author": "Джаннет Уоллс",
-        "notes": "",
-        "createdAt": "2020-09-06 13:36:52",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 812
         }
     }
 }
