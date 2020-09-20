@@ -20,6 +20,9 @@
 ### `50` Ключевые цифры. Как заработать больше используя данные которые у Вас уже есть.
 Димитри Маекс
 
+### `` The Cronies of Narnia.The Lion, The witch and The wardrobe
+Clive Staples Lewis
+
 ### `` Тёмная башня. Волки Кальи
 Стивен Кинг
 
