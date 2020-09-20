@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>389</sup>
+# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>390</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### The Cronies of Narnia.The Lion, The witch and The wardrobe
 Clive Staples Lewis
 > [2020-09-20] 
+
+
+### Тёмная башня. Волки Кальи
+Стивен Кинг
+> [2020-09-18] 
 
 
 ### Тёмная башня. Ветер сквозь замочную скважину
