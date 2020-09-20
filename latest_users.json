@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 174,
+        "updatedAt": "2020-09-20 20:02:27"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Rambes",
         "booksCount": 1,
         "updatedAt": "2020-09-05 22:15:03"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 103,
-        "updatedAt": "2020-09-04 06:46:31"
     }
 }

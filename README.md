@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>174</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>207</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>135</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 [Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>103</sup> 
 
 
-_20.09.2020 12:13:12_
+_20.09.2020 20:02:27_
