@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Секретное досье 6. Лукавый морок ~ [Chiffi](users/105/105831994080785626680-google)<sup>207</sup>
 * Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
 * Наследник Ранхара ~ [Lala](users/761/76187635-vkontakte)<sup>317</sup>
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
@@ -30,7 +31,6 @@
 * Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
 * Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
 * Дикая Роза ~ [Madlax](users/158/158304782-vkontakte)<sup>215</sup>
-* Бегство от Волшебника ~ [Madlax](users/158/158304782-vkontakte)<sup>212</sup>
 
 
-_20.09.2020 07:12:32_
+_20.09.2020 08:36:30_

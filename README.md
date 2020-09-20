@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Секретное досье 6. Лукавый морок ~ [Chiffi](users/105/105831994080785626680-google)<sup>207</sup>
+    > Глуп. У него нет тормозов, нет моральных ориентиров. Он жаден и примитивен. Из тех, кто с любопытством стучит молотком по атомной бомбе, считая, что не произойдет ничего страшного, если она вдруг взорвется, ведь у него в запасе есть вторая.... не призываю жить каждый день как последний, но инвестируя в будущее, нельзя делать это за счет настоящего. Можешь быть счастлива сегодня – будь. Не отказывайся от этого во имя завтра, ведь оно может и не наступить.  «Самое страшное зло порой выглядит как самая чистая невинность».
+
 * Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
     > ASIN : B07WZ7TRC4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > надо дочитать
 
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
-    > Основная сюжетная линия (убийства в монастыре) интересно. Очень нудное описание католических орденов, противостояния Людовика и Папы, проповеди
 
 * Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
 
-* Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>207</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>135</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>390</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>320</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>181</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>206</sup> 
 [](users/152/1525885927708569-facebook)<sup>0</sup> 
 [](users/109/109758218469192505127-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>63</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>103</sup> 
 
 
-_20.09.2020 07:12:32_
+_20.09.2020 08:36:30_
