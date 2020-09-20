@@ -1,4 +1,16 @@
 {
+    "5eyluAwui1": {
+        "id": "5eyluAwui1",
+        "title": "Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth",
+        "author": "Stuart Ritchie",
+        "notes": "ASIN : B07WZ7TRC4",
+        "createdAt": "2020-09-20 07:12:32",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 135
+        }
+    },
     "aVx0r0LcRO": {
         "id": "aVx0r0LcRO",
         "title": "Наследник Ранхара",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 212
-        }
-    },
-    "sdlmeyYUuu": {
-        "id": "sdlmeyYUuu",
-        "title": "12 шагов к собственному бизнесу",
-        "author": "В. Абчук",
-        "notes": "Не понравилась. Ни о чем. Не советую.",
-        "createdAt": "2020-08-26 07:22:01",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 211
         }
     }
 }

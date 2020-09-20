@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>134</sup>
+# Список прочитанных книг пользователя exulted<sup>135</sup>
 ---
 
 ## 2020
+
+### Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth
+Stuart Ritchie
+> [2020-09-20] ASIN : B07WZ7TRC4
+
 
 ### Pronto: A Novel (Raylan Givens Book 1)
 Elmore Leonard
