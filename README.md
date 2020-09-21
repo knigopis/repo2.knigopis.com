@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>174</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>207</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>181</sup> 
 [](users/152/1525885927708569-facebook)<sup>0</sup> 
 [](users/109/109758218469192505127-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>63</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
 
 
-_20.09.2020 20:02:27_
+_21.09.2020 13:09:31_
