@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 180,
+        "updatedAt": "2020-09-21 13:09:30"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -52,12 +58,6 @@
         "nickname": "Victoria",
         "booksCount": 48,
         "updatedAt": "2020-09-18 11:09:33"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 181,
-        "updatedAt": "2020-09-18 04:47:44"
     },
     "1525885927708569-facebook": {
         "id": "1525885927708569-facebook",
