@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>174</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
-[Rambes](users/110/110244383879018406725-google)<sup>1</sup> 
 
 
-_21.09.2020 13:09:31_
+_21.09.2020 17:15:06_
