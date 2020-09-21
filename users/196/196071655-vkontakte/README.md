@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>181</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>180</sup>
 ---
 
 ## 2020
@@ -432,10 +432,6 @@
 
 ### Таинственная история Билли Миллигана
 -
-
-
-### 1984
-Джордж Оруел
 
 
 
