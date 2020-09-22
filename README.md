@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нормальное аномальное 1. Тайна таёжной деревни. ~ [Chiffi](users/105/105831994080785626680-google)<sup>208</sup>
+    > Нормальные люди не читают серию с продолжения. Но так даже интереснее. Детектив+мистика.
+
 * Тим Талер, или проданный смех ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup>
     > ISBN 5-8420-0001-6, перевод А. Исаевой
     > Старенькая фрау Рикерт рядом с ним так смеялась, что даже закрыла лицо руками и наклонилась вперед. Из глаз ее катились слезы. И тут Тим впервые заметил, как похожи движения смеющегося человека на движения плачущего. Он закрыл лицо руками, нагнулся вперед и сделал вид, будто тоже смеется. Но Тим не смеялся. Он плакал.
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Глуп. У него нет тормозов, нет моральных ориентиров. Он жаден и примитивен. Из тех, кто с любопытством стучит молотком по атомной бомбе, считая, что не произойдет ничего страшного, если она вдруг взорвется, ведь у него в запасе есть вторая.... не призываю жить каждый день как последний, но инвестируя в будущее, нельзя делать это за счет настоящего. Можешь быть счастлива сегодня – будь. Не отказывайся от этого во имя завтра, ведь оно может и не наступить.  «Самое страшное зло порой выглядит как самая чистая невинность».
 
 * Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
-    > ASIN : B07WZ7TRC4
 
 * Наследник Ранхара ~ [Lala](users/761/76187635-vkontakte)<sup>317</sup>
 
@@ -34,19 +36,17 @@ Do not use pull requests to make changes here.
 
 * Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
 
-* Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>208</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>105</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>174</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>207</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>135</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>390</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>320</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 
 
-_21.09.2020 21:46:07_
+_22.09.2020 18:19:37_

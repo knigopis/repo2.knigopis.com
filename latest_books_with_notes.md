@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нормальное аномальное 1. Тайна таёжной деревни. ~ [Chiffi](users/105/105831994080785626680-google)<sup>208</sup>
 * Тим Талер, или проданный смех ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup>
 * Секретное досье 6. Лукавый морок ~ [Chiffi](users/105/105831994080785626680-google)<sup>207</sup>
 * Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
@@ -30,7 +31,6 @@
 * Тошнота ~ [Rainbow](users/109/109787328219839805802-google)<sup>58</sup>
 * Как хочет женщина ~ [dmiro](users/571/5714115-vkontakte)<sup>33</sup>
 * Перегруженный мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>220</sup>
-* Дилемма Джексона ~ [Madlax](users/158/158304782-vkontakte)<sup>218</sup>
 
 
-_20.09.2020 12:13:12_
+_22.09.2020 18:19:37_
