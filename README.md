@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>99</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>66</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>813</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>208</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109758218469192505127-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>63</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>98</sup> 
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>116</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 
 
-_23.09.2020 15:03:09_
+_23.09.2020 15:07:24_
