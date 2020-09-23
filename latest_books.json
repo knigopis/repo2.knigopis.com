@@ -1,4 +1,16 @@
 {
+    "LNzlWUnkZL": {
+        "id": "LNzlWUnkZL",
+        "title": "Здоровое общество",
+        "author": "Эрих Фромм",
+        "notes": "",
+        "createdAt": "2020-09-23 15:03:09",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 66
+        }
+    },
     "wyENtUPxEt": {
         "id": "wyENtUPxEt",
         "title": "Подарок: 12 уроков, чтобы спасти свою жизнь",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 202
-        }
-    },
-    "gtwTKLn3X4": {
-        "id": "gtwTKLn3X4",
-        "title": "Письма к Науму Сагаловскому",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2020-09-11 09:22:51",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 222
         }
     }
 }
