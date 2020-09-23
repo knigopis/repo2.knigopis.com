@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>813</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>208</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>105</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
@@ -69,8 +70,7 @@ _More notes [here](latest_books_with_notes.md)._
 [zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>25</sup> 
 [](users/111/111978052714957627223-google)<sup>2</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>812</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>65</sup> 
 
 
-_22.09.2020 18:19:37_
+_23.09.2020 15:01:36_
