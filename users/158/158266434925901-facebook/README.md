@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>116</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>117</sup>
 ---
 
 ## 2020
+
+### Чёрная пантера с бирюзовыми глазами
+Чекменёва Оксана
+> [2020-09-24] 
+
 
 ### Долгая зима
 Джон Кристофер
