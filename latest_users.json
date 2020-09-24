@@ -1,4 +1,10 @@
 {
+    "157469036-yandex": {
+        "id": "157469036-yandex",
+        "nickname": "vrishin",
+        "booksCount": 0,
+        "updatedAt": "2020-09-24 17:49:45"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 25,
         "updatedAt": "2020-09-07 13:32:12"
-    },
-    "111978052714957627223-google": {
-        "id": "111978052714957627223-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2020-09-06 21:29:13"
     }
 }
