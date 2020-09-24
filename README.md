@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>223</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>117</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>99</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>66</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup> 
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>222</sup> 
 [TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 
 
-_23.09.2020 16:30:39_
+_24.09.2020 10:03:39_

@@ -1,4 +1,16 @@
 {
+    "_zDhNx-ul5": {
+        "id": "_zDhNx-ul5",
+        "title": "Планета мистера Сэммлера",
+        "author": "Сол Беллоу",
+        "notes": "",
+        "createdAt": "2020-09-24 10:03:39",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 223
+        }
+    },
     "KMZzL-nfaL": {
         "id": "KMZzL-nfaL",
         "title": "Чёрная пантера с бирюзовыми глазами",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 204
-        }
-    },
-    "51TP88SOaJ": {
-        "id": "51TP88SOaJ",
-        "title": "Институт исследований 2. Чудовищ.net.",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "Интересный мистический детектив.",
-        "createdAt": "2020-09-13 05:55:39",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 203
         }
     }
 }
