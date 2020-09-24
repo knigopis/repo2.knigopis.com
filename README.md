@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Захисники галактики»: влада і криза в чоловічому світі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup>
+    > 6/10 Криза маскулінності, гендерні студії та українські реалії.
+
 * Нормальное аномальное 1. Тайна таёжной деревни. ~ [Chiffi](users/105/105831994080785626680-google)<sup>208</sup>
     > Нормальные люди не читают серию с продолжения. Но так даже интереснее. Детектив+мистика.
 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Они отлично позавтракали вдвоем. Госпожа Рикерт больше всего на свете любила завтракать и потому с удовольствием позавтракала во второй раз.
 
 * Секретное досье 6. Лукавый морок ~ [Chiffi](users/105/105831994080785626680-google)<sup>207</sup>
-    > Глуп. У него нет тормозов, нет моральных ориентиров. Он жаден и примитивен. Из тех, кто с любопытством стучит молотком по атомной бомбе, считая, что не произойдет ничего страшного, если она вдруг взорвется, ведь у него в запасе есть вторая.... не призываю жить каждый день как последний, но инвестируя в будущее, нельзя делать это за счет настоящего. Можешь быть счастлива сегодня – будь. Не отказывайся от этого во имя завтра, ведь оно может и не наступить.  «Самое страшное зло порой выглядит как самая чистая невинность».
 
 * Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
 
-* Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>223</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>117</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>99</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
 [TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
 [zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111978052714957627223-google)<sup>2</sup> 
 
 
-_24.09.2020 10:03:39_
+_24.09.2020 12:00:51_

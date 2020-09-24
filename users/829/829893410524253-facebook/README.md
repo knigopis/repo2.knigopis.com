@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>142</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>143</sup>
 ---
 
 ## 2020
+
+### «Захисники галактики»: влада і криза в чоловічому світі
+Тамара Марценюк
+> [2020-09-22] 6/10 Криза маскулінності, гендерні студії та українські реалії.
+
 
 ### Чарівна ти
 Чак Поланік

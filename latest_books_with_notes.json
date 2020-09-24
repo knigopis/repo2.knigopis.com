@@ -1,4 +1,16 @@
 {
+    "L9jTruTRP5": {
+        "id": "L9jTruTRP5",
+        "title": "«Захисники галактики»: влада і криза в чоловічому світі",
+        "author": "Тамара Марценюк",
+        "notes": "6/10 Криза маскулінності, гендерні студії та українські реалії.",
+        "createdAt": "2020-09-24 12:00:51",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 143
+        }
+    },
     "XLekDllIFt": {
         "id": "XLekDllIFt",
         "title": "Нормальное аномальное 1. Тайна таёжной деревни.",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 33
-        }
-    },
-    "z6VVhSoYxq": {
-        "id": "z6VVhSoYxq",
-        "title": "Перегруженный мозг",
-        "author": "Кингберг",
-        "notes": "Довольно легко читается, хотя и много воды для всего лишь 200 страниц",
-        "createdAt": "2020-08-26 07:31:29",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 220
         }
     }
 }
