@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vrishin](users/157/157469036-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>223</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>117</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
 [zhandz](users/301/301076397-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>25</sup> 
-[](users/111/111978052714957627223-google)<sup>2</sup> 
 
 
-_24.09.2020 12:00:51_
+_24.09.2020 17:49:46_
