@@ -1,4 +1,16 @@
 {
+    "SH4cfSsMxP": {
+        "id": "SH4cfSsMxP",
+        "title": "Нормальное аномальное 2. Легенды древнего озера.",
+        "author": "Обухова Лена, Тимошенко Наталья.",
+        "notes": "Такое ощущение, что авторы продумывали несколько книг наперед. Сюжет продуманный и плавно перетекает из книги в книгу.",
+        "createdAt": "2020-09-25 16:53:28",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 209
+        }
+    },
     "L9jTruTRP5": {
         "id": "L9jTruTRP5",
         "title": "«Захисники галактики»: влада і криза в чоловічому світі",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 181
-        }
-    },
-    "I2knJQRGj5": {
-        "id": "I2knJQRGj5",
-        "title": "Pronto: A Novel (Raylan Givens Book 1)",
-        "author": "Elmore Leonard",
-        "notes": "ASIN : B000FC13FY",
-        "createdAt": "2020-09-14 07:04:10",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 134
         }
     }
 }
