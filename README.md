@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>90</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>62</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>209</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107981781314871592859-google)<sup>0</sup> 
 [TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>34</sup> 
 
 
-_25.09.2020 18:56:36_
+_25.09.2020 21:35:00_

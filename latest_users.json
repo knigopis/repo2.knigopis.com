@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 90,
+        "updatedAt": "2020-09-25 21:34:59"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 60,
         "updatedAt": "2020-09-10 16:34:39"
-    },
-    "5714115-vkontakte": {
-        "id": "5714115-vkontakte",
-        "nickname": "dmiro",
-        "booksCount": 34,
-        "updatedAt": "2020-09-10 15:13:31"
     }
 }
