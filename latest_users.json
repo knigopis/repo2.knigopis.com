@@ -1,4 +1,10 @@
 {
+    "108685354966939535397-google": {
+        "id": "108685354966939535397-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-09-25 11:55:58"
+    },
     "157469036-yandex": {
         "id": "157469036-yandex",
         "nickname": "vrishin",
@@ -172,11 +178,5 @@
         "nickname": "zhandz",
         "booksCount": 0,
         "updatedAt": "2020-09-08 18:00:42"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 25,
-        "updatedAt": "2020-09-07 13:32:12"
     }
 }
