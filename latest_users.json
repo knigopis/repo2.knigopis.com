@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 100,
+        "updatedAt": "2020-09-25 23:50:43"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -46,12 +52,6 @@
         "nickname": "GvenVivar ..",
         "booksCount": 117,
         "updatedAt": "2020-09-23 16:30:39"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 99,
-        "updatedAt": "2020-09-23 15:07:24"
     },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
