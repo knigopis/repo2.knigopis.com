@@ -1,4 +1,16 @@
 {
+    "mwTby2MpAu": {
+        "id": "mwTby2MpAu",
+        "title": "Дети полуночи",
+        "author": "Салман Рушди",
+        "notes": "",
+        "createdAt": "2020-09-26 20:11:31",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 814
+        }
+    },
     "0QBJ2RCo6P": {
         "id": "0QBJ2RCo6P",
         "title": "Безупречная репутация",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 206
-        }
-    },
-    "IFCvOwxqZN": {
-        "id": "IFCvOwxqZN",
-        "title": "Эйнштейн. Его жизнь и его Вселенная",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2020-09-17 06:02:02",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 63
         }
     }
 }
