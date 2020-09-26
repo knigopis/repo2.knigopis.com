@@ -1,4 +1,16 @@
 {
+    "ZepSyy5U3r": {
+        "id": "ZepSyy5U3r",
+        "title": "Дневники вампира - 1",
+        "author": "Л. Дж. Смит",
+        "notes": "",
+        "createdAt": "2020-09-26 10:52:58",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 118
+        }
+    },
     "4ZANKjH5dD": {
         "id": "4ZANKjH5dD",
         "title": "Цена соли",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 79
-        }
-    },
-    "WaS0HwSa_L": {
-        "id": "WaS0HwSa_L",
-        "title": "Холод, пиво, дробовик",
-        "author": "Павел Корнев, Андрей Круз",
-        "notes": "",
-        "createdAt": "2020-09-16 13:07:17",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 182
         }
     }
 }

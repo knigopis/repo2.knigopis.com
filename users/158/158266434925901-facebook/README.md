@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>117</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>118</sup>
 ---
 
 ## 2020
+
+### Дневники вампира - 1
+Л. Дж. Смит
+> [2020-09-26] 
+
 
 ### Чёрная пантера с бирюзовыми глазами
 Чекменёва Оксана
