@@ -39,8 +39,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>815</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>106</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>64</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>118</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>100</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 
 
-_27.09.2020 11:54:49_
+_27.09.2020 21:48:15_
