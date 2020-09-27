@@ -1,4 +1,16 @@
 {
+    "VeLtiI2hBL": {
+        "id": "VeLtiI2hBL",
+        "title": "Герцог",
+        "author": "Сол Беллоу",
+        "notes": "",
+        "createdAt": "2020-09-27 11:54:49",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 815
+        }
+    },
     "mwTby2MpAu": {
         "id": "mwTby2MpAu",
         "title": "Дети полуночи",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 48
-        }
-    },
-    "7eU_JxyDFq": {
-        "id": "7eU_JxyDFq",
-        "title": "Секретное досье 5. Мертвым вход запрещен",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "",
-        "createdAt": "2020-09-17 20:05:30",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 206
         }
     }
 }
