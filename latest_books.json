@@ -1,4 +1,16 @@
 {
+    "75532YfirF": {
+        "id": "75532YfirF",
+        "title": "С широко закрытыми глазами",
+        "author": "Артур Шницлер",
+        "notes": "",
+        "createdAt": "2020-09-28 10:40:58",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 224
+        }
+    },
     "y3wnj5EGDh": {
         "id": "y3wnj5EGDh",
         "title": "Нормальное аномальное 3. Тишина старого кладбища.",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 317
-        }
-    },
-    "XxASLU6NJ7": {
-        "id": "XxASLU6NJ7",
-        "title": "Страж Вьюга и я",
-        "author": "Лана Ежова",
-        "notes": "",
-        "createdAt": "2020-09-19 04:04:44",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 316
         }
     }
 }

@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>210</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>815</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 [vrishin](users/157/157469036-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>223</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>66</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 
 
-_28.09.2020 05:32:14_
+_28.09.2020 10:40:58_
