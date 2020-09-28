@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нормальное аномальное 3. Тишина старого кладбища. ~ [Chiffi](users/105/105831994080785626680-google)<sup>210</sup>
+    > Отличная серия. Смесь детектива с мистикой + примесь любовного романа.
+
 * Положение человека в Космосе ~ [Rainbow](users/109/109787328219839805802-google)<sup>62</sup>
     > 77%
     > «человек в старости все больше становитсярабом привычки»
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > Такое ощущение, что авторы продумывали несколько книг наперед. Сюжет продуманный и плавно перетекает из книги в книгу.
 
 * «Захисники галактики»: влада і криза в чоловічому світі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup>
-    > 6/10 Криза маскулінності, гендерні студії та українські реалії.
 
 * Нормальное аномальное 1. Тайна таёжной деревни. ~ [Chiffi](users/105/105831994080785626680-google)<sup>208</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
 
-* Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>210</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>815</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>64</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>100</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>90</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>62</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>209</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 [vrishin](users/157/157469036-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 
 
-_27.09.2020 21:48:15_
+_28.09.2020 05:32:14_
