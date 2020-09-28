@@ -1,4 +1,16 @@
 {
+    "XyEP028Q6a": {
+        "id": "XyEP028Q6a",
+        "title": "4 с половиной шага",
+        "author": "Олег Сенцов",
+        "notes": "10/10 Сборник рассказов о людях, попавших в современную российскую тюрьму.",
+        "createdAt": "2020-09-28 13:41:34",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 144
+        }
+    },
     "y3wnj5EGDh": {
         "id": "y3wnj5EGDh",
         "title": "Нормальное аномальное 3. Тишина старого кладбища.",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 140
-        }
-    },
-    "TmbjLs-nAw": {
-        "id": "TmbjLs-nAw",
-        "title": "Мемуары гейши",
-        "author": "Голден, Артур",
-        "notes": "Книга, благодаря которой узнаешь традиции и культуру Японии",
-        "createdAt": "2020-08-28 01:53:01",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 424
         }
     }
 }

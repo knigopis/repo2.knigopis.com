@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>143</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>144</sup>
 ---
 
 ## 2020
+
+### 4 с половиной шага
+Олег Сенцов
+> [2020-09-28] 10/10 Сборник рассказов о людях, попавших в современную российскую тюрьму.
+
 
 ### «Захисники галактики»: влада і криза в чоловічому світі
 Тамара Марценюк

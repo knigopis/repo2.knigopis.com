@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 4 с половиной шага ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>144</sup>
+    > 10/10 Сборник рассказов о людях, попавших в современную российскую тюрьму.
+
 * Нормальное аномальное 3. Тишина старого кладбища. ~ [Chiffi](users/105/105831994080785626680-google)<sup>210</sup>
     > Отличная серия. Смесь детектива с мистикой + примесь любовного романа.
 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > «Таким образом, человек должен научиться терпетьсебя самого, в том числе и те склонности, которые он считает дурными и пагубными. Он не может вступить в прямую борьбу с ними, но должен научиться преодолевать их косвенно, направляя свою энергию на выполнение доступных ему важных задач, признаваемых его совестью достойными»
 
 * Нормальное аномальное 2. Легенды древнего озера. ~ [Chiffi](users/105/105831994080785626680-google)<sup>209</sup>
-    > Такое ощущение, что авторы продумывали несколько книг наперед. Сюжет продуманный и плавно перетекает из книги в книгу.
 
 * «Захисники галактики»: влада і криза в чоловічому світі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Наследник Ранхара ~ [Lala](users/761/76187635-vkontakte)<sup>317</sup>
 
-* Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>144</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>210</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>62</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 [vrishin](users/157/157469036-yandex)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>66</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 
 
-_28.09.2020 10:40:58_
+_28.09.2020 13:41:34_
