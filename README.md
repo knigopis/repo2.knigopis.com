@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>10</sup>
+    > Легкая и интересная книга, с шуточками и забавными историями. Описаны различия в мужской и женской психологии. Мужчины прямолинейны, женщины чувствительны. Порой мы очень многого хотим от партнера и предъявляем к нему завышенные требования. Нужно уметь выбрать правильный момент для разговора, не нарушать личные границы, тогда жизнь в отношениях будет намного счастливой.
+
 * Имя зверя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup>
     > 9/10 Отличный сборник фантастики и ужаса.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Сборник рассказов о людях, попавших в современную российскую тюрьму.
 
 * Нормальное аномальное 3. Тишина старого кладбища. ~ [Chiffi](users/105/105831994080785626680-google)<sup>210</sup>
-    > Отличная серия. Смесь детектива с мистикой + примесь любовного романа.
 
 * Положение человека в Космосе ~ [Rainbow](users/109/109787328219839805802-google)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Секретное досье 6. Лукавый морок ~ [Chiffi](users/105/105831994080785626680-google)<sup>207</sup>
 
-* Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>10</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>816</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
 [TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>60</sup> 
 
 
-_28.09.2020 18:55:19_
+_29.09.2020 12:24:32_

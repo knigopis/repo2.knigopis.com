@@ -1,4 +1,10 @@
 {
+    "254448176-yandex": {
+        "id": "254448176-yandex",
+        "nickname": "Len4e91",
+        "booksCount": 10,
+        "updatedAt": "2020-09-29 12:24:32"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "TekTonik18",
         "booksCount": 1,
         "updatedAt": "2020-09-11 08:19:35"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 60,
-        "updatedAt": "2020-09-10 16:34:39"
     }
 }
