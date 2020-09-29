@@ -1,4 +1,10 @@
 {
+    "107750268-vkontakte": {
+        "id": "107750268-vkontakte",
+        "nickname": "ivenkb",
+        "booksCount": 0,
+        "updatedAt": "2020-09-29 17:43:56"
+    },
     "254448176-yandex": {
         "id": "254448176-yandex",
         "nickname": "Len4e91",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-09-13 12:33:54"
-    },
-    "115115073269202114765-google": {
-        "id": "115115073269202114765-google",
-        "nickname": "TekTonik18",
-        "booksCount": 1,
-        "updatedAt": "2020-09-11 08:19:35"
     }
 }
