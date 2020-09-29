@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>816</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup> 
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
 [](users/107/107981781314871592859-google)<sup>0</sup> 
-[TekTonik18](users/115/115115073269202114765-google)<sup>1</sup> 
 
 
-_29.09.2020 12:24:32_
+_29.09.2020 17:43:56_
