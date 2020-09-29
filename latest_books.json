@@ -1,4 +1,16 @@
 {
+    "EBsY-T73eF": {
+        "id": "EBsY-T73eF",
+        "title": "Красная Шапочка",
+        "author": "Марисса Мейер",
+        "notes": "",
+        "createdAt": "2020-09-29 19:03:15",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 176
+        }
+    },
     "17Cd5pVE0B": {
         "id": "17Cd5pVE0B",
         "title": "Рапунцель",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 135
-        }
-    },
-    "02n-PSNwKQ": {
-        "id": "02n-PSNwKQ",
-        "title": "Тёмная башня. Волки Кальи",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-09-20 07:09:31",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 390
         }
     }
 }
