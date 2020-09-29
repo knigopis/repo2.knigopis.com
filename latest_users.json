@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 211,
+        "updatedAt": "2020-09-29 19:28:29"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -34,12 +40,6 @@
         "nickname": "borodach",
         "booksCount": 224,
         "updatedAt": "2020-09-28 10:40:58"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 210,
-        "updatedAt": "2020-09-28 05:32:14"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
