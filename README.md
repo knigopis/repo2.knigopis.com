@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118254658890672334687-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>211</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>176</sup> 
 [ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109758218469192505127-google)<sup>0</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup> 
 [Tanya Lt](users/108/108316544552221405099-google)<sup>0</sup> 
-[](users/107/107981781314871592859-google)<sup>0</sup> 
 
 
-_29.09.2020 19:28:29_
+_29.09.2020 23:11:11_
