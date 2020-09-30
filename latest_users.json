@@ -1,4 +1,10 @@
 {
+    "102344559278955514892-google": {
+        "id": "102344559278955514892-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-09-30 13:49:16"
+    },
     "118254658890672334687-google": {
         "id": "118254658890672334687-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 79,
         "updatedAt": "2020-09-16 16:31:18"
-    },
-    "108316544552221405099-google": {
-        "id": "108316544552221405099-google",
-        "nickname": "Tanya Lt",
-        "booksCount": 0,
-        "updatedAt": "2020-09-14 23:31:41"
     }
 }
