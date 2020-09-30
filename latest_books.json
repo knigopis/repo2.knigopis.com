@@ -1,4 +1,16 @@
 {
+    "xi0qAb5bxa": {
+        "id": "xi0qAb5bxa",
+        "title": "Кайдзен",
+        "author": "Масааки Имаи",
+        "notes": "в процессе",
+        "createdAt": "2020-09-30 21:20:40",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 242
+        }
+    },
     "Ku1kISfTeA": {
         "id": "Ku1kISfTeA",
         "title": "Лествица",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 105
-        }
-    },
-    "0_38noPUEi": {
-        "id": "0_38noPUEi",
-        "title": "Киберзолушка",
-        "author": "Марисса Мейер",
-        "notes": "",
-        "createdAt": "2020-09-20 20:02:27",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 174
         }
     }
 }
