@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 67,
+        "updatedAt": "2020-09-30 19:22:08"
+    },
     "102344559278955514892-google": {
         "id": "102344559278955514892-google",
         "nickname": null,
@@ -100,12 +106,6 @@
         "nickname": "vrishin",
         "booksCount": 0,
         "updatedAt": "2020-09-24 17:49:45"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 66,
-        "updatedAt": "2020-09-23 15:03:09"
     },
     "12133433-vkontakte": {
         "id": "12133433-vkontakte",

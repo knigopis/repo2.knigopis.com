@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
 [](users/102/102344559278955514892-google)<sup>0</sup> 
 [](users/118/118254658890672334687-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>211</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>62</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 [vrishin](users/157/157469036-yandex)<sup>0</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>66</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup> 
 
 
-_30.09.2020 13:49:16_
+_30.09.2020 19:22:08_
