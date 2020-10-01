@@ -1,4 +1,16 @@
 {
+    "anKBGXT1Tk": {
+        "id": "anKBGXT1Tk",
+        "title": "Нормальное аномальное 5. Проклятие пражской синагоги.",
+        "author": "Обухова Лена, Тимошенко Наталья",
+        "notes": "Чем дольше читаю, тем больше затягивает.",
+        "createdAt": "2020-10-01 17:45:29",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 212
+        }
+    },
     "OgnikXvdqq": {
         "id": "OgnikXvdqq",
         "title": "Поступь хаоса",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 117
-        }
-    },
-    "N_J69jUZ-f": {
-        "id": "N_J69jUZ-f",
-        "title": "Анна Каренина",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2020-09-23 15:07:24",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 99
         }
     }
 }

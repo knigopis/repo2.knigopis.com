@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нормальное аномальное 5. Проклятие пражской синагоги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>212</sup>
+    > Чем дольше читаю, тем больше затягивает.
+
 * Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
     > Перечитана
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 4, Повесть о жизни
 
 * А.Ф.Прасол ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup>
-    > в процессе
 
 * Кайдзен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>242</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Нормальное аномальное 3. Тишина старого кладбища. ~ [Chiffi](users/105/105831994080785626680-google)<sup>210</sup>
 
-* Положение человека в Космосе ~ [Rainbow](users/109/109787328219839805802-google)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>212</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>137</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
 [](users/102/102344559278955514892-google)<sup>0</sup> 
 [](users/118/118254658890672334687-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>211</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>176</sup> 
 [ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/152/1525885927708569-facebook)<sup>0</sup> 
 
 
-_01.10.2020 16:07:24_
+_01.10.2020 17:45:29_
