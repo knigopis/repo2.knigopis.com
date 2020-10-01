@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>136</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>137</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/152/1525885927708569-facebook)<sup>0</sup> 
 
 
-_01.10.2020 06:50:47_
+_01.10.2020 06:52:45_
