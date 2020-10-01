@@ -1,4 +1,10 @@
 {
+    "63596061-vkontakte": {
+        "id": "63596061-vkontakte",
+        "nickname": "tonydanza",
+        "booksCount": 0,
+        "updatedAt": "2020-10-01 05:34:10"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-09-17 06:54:04"
-    },
-    "109758218469192505127-google": {
-        "id": "109758218469192505127-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-09-17 06:53:03"
     }
 }
