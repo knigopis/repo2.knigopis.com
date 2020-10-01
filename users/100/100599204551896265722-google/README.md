@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>135</sup>
+# Список прочитанных книг пользователя exulted<sup>136</sup>
 ---
 
 ## 2020
+
+### Время больших ожиданий
+Паустовский К.Г.
+> [2020-09-25] Книга 4, Повесть о жизни
+
 
 ### Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth
 Stuart Ritchie

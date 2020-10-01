@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 136,
+        "updatedAt": "2020-10-01 06:50:46"
+    },
     "63596061-vkontakte": {
         "id": "63596061-vkontakte",
         "nickname": "tonydanza",
@@ -136,12 +142,6 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 51,
         "updatedAt": "2020-09-20 12:13:12"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 135,
-        "updatedAt": "2020-09-20 07:12:32"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

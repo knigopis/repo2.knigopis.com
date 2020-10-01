@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Время больших ожиданий ~ [exulted](users/100/100599204551896265722-google)<sup>136</sup>
+    > Книга 4, Повесть о жизни
+
 * А.Ф.Прасол ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Лествица ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>241</sup>
-    > Классика, классика. С большим количеством неочевидных тезисов, которые "нигде больше не купишь". Прочитав. задумался - а так ли я живу. о том ли я думаю... Без иронии.
 
 * Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>10</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Нормальное аномальное 2. Легенды древнего озера. ~ [Chiffi](users/105/105831994080785626680-google)<sup>209</sup>
 
-* «Захисники галактики»: влада і криза в чоловічому світі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>143</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>136</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>135</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>390</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>320</sup> 
 [](users/113/113120851982565613531-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/152/1525885927708569-facebook)<sup>0</sup> 
 
 
-_01.10.2020 05:34:11_
+_01.10.2020 06:50:47_
