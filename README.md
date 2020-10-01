@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
 [](users/102/102344559278955514892-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 [](users/152/1525885927708569-facebook)<sup>0</sup> 
-[](users/109/109758218469192505127-google)<sup>0</sup> 
 
 
-_30.09.2020 21:21:24_
+_01.10.2020 05:34:11_
