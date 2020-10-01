@@ -1,4 +1,16 @@
 {
+    "OgnikXvdqq": {
+        "id": "OgnikXvdqq",
+        "title": "Поступь хаоса",
+        "author": "Патрик Несс",
+        "notes": "Перечитана",
+        "createdAt": "2020-10-01 16:07:24",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 119
+        }
+    },
     "TksNnjlUjg": {
         "id": "TksNnjlUjg",
         "title": "Время больших ожиданий",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 102
-        }
-    },
-    "bBw4_VtmFh": {
-        "id": "bBw4_VtmFh",
-        "title": "Прикладная некромантия",
-        "author": "Огинская Купава",
-        "notes": "Сказочка для взрослых девочек. Но очень милая и достаточно забавная",
-        "createdAt": "2020-09-05 13:41:08",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 200
         }
     }
 }

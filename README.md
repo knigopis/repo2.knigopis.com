@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
+    > Перечитана
+
 * Время больших ожиданий ~ [exulted](users/100/100599204551896265722-google)<sup>136</sup>
     > Книга 4, Повесть о жизни
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Кайдзен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>242</sup>
-    > в процессе
 
 * Лествица ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>241</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Положение человека в Космосе ~ [Rainbow](users/109/109787328219839805802-google)<sup>62</sup>
 
-* Нормальное аномальное 2. Легенды древнего озера. ~ [Chiffi](users/105/105831994080785626680-google)<sup>209</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>137</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>64</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>118</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>100</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>90</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>62</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/152/1525885927708569-facebook)<sup>0</sup> 
 
 
-_01.10.2020 06:52:45_
+_01.10.2020 16:07:24_

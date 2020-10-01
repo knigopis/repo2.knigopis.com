@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
 * Время больших ожиданий ~ [exulted](users/100/100599204551896265722-google)<sup>136</sup>
 * А.Ф.Прасол ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup>
 * Кайдзен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>242</sup>
@@ -30,7 +31,6 @@
 * Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
 * Fields of Fire: A Novel ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 * Воспитание без криков и наказаний ~ [Таньчик](users/209/2096581563762610-facebook)<sup>102</sup>
-* Прикладная некромантия ~ [Chiffi](users/105/105831994080785626680-google)<sup>200</sup>
 
 
-_01.10.2020 06:50:47_
+_01.10.2020 16:07:24_

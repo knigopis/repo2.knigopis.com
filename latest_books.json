@@ -1,4 +1,16 @@
 {
+    "OgnikXvdqq": {
+        "id": "OgnikXvdqq",
+        "title": "Поступь хаоса",
+        "author": "Патрик Несс",
+        "notes": "Перечитана",
+        "createdAt": "2020-10-01 16:07:24",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 119
+        }
+    },
     "WUByZx36iW": {
         "id": "WUByZx36iW",
         "title": "В дни поражений и побед",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 99
-        }
-    },
-    "LNzlWUnkZL": {
-        "id": "LNzlWUnkZL",
-        "title": "Здоровое общество",
-        "author": "Эрих Фромм",
-        "notes": "",
-        "createdAt": "2020-09-23 15:03:09",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 66
         }
     }
 }
