@@ -1,4 +1,16 @@
 {
+    "0t8TM1cwUT": {
+        "id": "0t8TM1cwUT",
+        "title": "Сеньорита Кора",
+        "author": "Хулио Кортасар",
+        "notes": "",
+        "createdAt": "2020-10-02 11:39:58",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 817
+        }
+    },
     "7IWTlvBurv": {
         "id": "7IWTlvBurv",
         "title": "Тёмная башня. Песнь сюзанны",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 143
-        }
-    },
-    "_zDhNx-ul5": {
-        "id": "_zDhNx-ul5",
-        "title": "Планета мистера Сэммлера",
-        "author": "Сол Беллоу",
-        "notes": "",
-        "createdAt": "2020-09-24 10:03:39",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 223
         }
     }
 }
