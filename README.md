@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>213</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>817</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>212</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>137</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 
 
-_02.10.2020 11:39:58_
+_02.10.2020 19:42:48_
