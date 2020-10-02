@@ -1,4 +1,10 @@
 {
+    "114314396404197072995-google": {
+        "id": "114314396404197072995-google",
+        "nickname": "Зелёный Ёж",
+        "booksCount": 0,
+        "updatedAt": "2020-10-02 06:03:29"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 48,
         "updatedAt": "2020-09-18 11:09:33"
-    },
-    "1525885927708569-facebook": {
-        "id": "1525885927708569-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-09-17 06:54:04"
     }
 }
