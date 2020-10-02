@@ -1,4 +1,16 @@
 {
+    "7IWTlvBurv": {
+        "id": "7IWTlvBurv",
+        "title": "Тёмная башня. Песнь сюзанны",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-10-02 07:53:59",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 391
+        }
+    },
     "anKBGXT1Tk": {
         "id": "anKBGXT1Tk",
         "title": "Нормальное аномальное 5. Проклятие пражской синагоги.",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 223
-        }
-    },
-    "KMZzL-nfaL": {
-        "id": "KMZzL-nfaL",
-        "title": "Чёрная пантера с бирюзовыми глазами",
-        "author": "Чекменёва Оксана",
-        "notes": "",
-        "createdAt": "2020-09-23 16:30:39",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 117
         }
     }
 }

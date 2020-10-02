@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>390</sup>
+# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>391</sup>
 ---
 
 ## 2020
+
+### Тёмная башня. Песнь сюзанны
+Стивен Кинг
+> [2020-10-01] 
+
 
 ### The Cronies of Narnia.The Lion, The witch and The wardrobe
 Clive Staples Lewis

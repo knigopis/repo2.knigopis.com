@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>391</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>212</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>390</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>320</sup> 
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 
 
-_02.10.2020 06:03:29_
+_02.10.2020 07:53:59_

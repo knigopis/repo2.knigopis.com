@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 391,
+        "updatedAt": "2020-10-02 07:53:59"
+    },
     "114314396404197072995-google": {
         "id": "114314396404197072995-google",
         "nickname": "Зелёный Ёж",
@@ -148,12 +154,6 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 51,
         "updatedAt": "2020-09-20 12:13:12"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 390,
-        "updatedAt": "2020-09-20 07:09:31"
     },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
