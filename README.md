@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>101</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>213</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>817</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>64</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>100</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>90</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>62</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 
 
-_02.10.2020 19:42:48_
+_02.10.2020 20:45:31_
