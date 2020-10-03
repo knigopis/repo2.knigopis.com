@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
+    > Класс!
+
 * Хроника одной голодовки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup>
     > 10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чем дольше читаю, тем больше затягивает.
 
 * Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
-    > Перечитана
 
 * Время больших ожиданий ~ [exulted](users/100/100599204551896265722-google)<sup>136</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Имя зверя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup>
 
-* 4 с половиной шага ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>120</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>818</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>320</sup> 
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 
 
-_03.10.2020 16:14:29_
+_03.10.2020 16:59:54_

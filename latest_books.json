@@ -1,4 +1,16 @@
 {
+    "L_jrURJiEK": {
+        "id": "L_jrURJiEK",
+        "title": "Русские предприниматели. Двигатели прогресса",
+        "author": "Мудрова И.А.",
+        "notes": "Класс!",
+        "createdAt": "2020-10-03 16:59:54",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 80
+        }
+    },
     "CEm8iJc2xB": {
         "id": "CEm8iJc2xB",
         "title": "Дочери Темперанс Хоббс",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 64
-        }
-    },
-    "ZepSyy5U3r": {
-        "id": "ZepSyy5U3r",
-        "title": "Дневники вампира - 1",
-        "author": "Л. Дж. Смит",
-        "notes": "",
-        "createdAt": "2020-09-26 10:52:58",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 118
         }
     }
 }

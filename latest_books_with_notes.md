@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
 * Хроника одной голодовки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup>
 * Нормальное аномальное 5. Проклятие пражской синагоги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>212</sup>
 * Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
@@ -30,7 +31,6 @@
 * Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
 * Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
 * Практическая работа для похищенной ~ [Chiffi](users/105/105831994080785626680-google)<sup>201</sup>
-* Начало неведомого века ~ [exulted](users/100/100599204551896265722-google)<sup>133</sup>
 
 
-_03.10.2020 15:44:24_
+_03.10.2020 16:59:54_

@@ -1,4 +1,16 @@
 {
+    "L_jrURJiEK": {
+        "id": "L_jrURJiEK",
+        "title": "Русские предприниматели. Двигатели прогресса",
+        "author": "Мудрова И.А.",
+        "notes": "Класс!",
+        "createdAt": "2020-10-03 16:59:54",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 80
+        }
+    },
     "SrVztjyNmh": {
         "id": "SrVztjyNmh",
         "title": "Хроника одной голодовки",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 201
-        }
-    },
-    "nd-CoRkdK6": {
-        "id": "nd-CoRkdK6",
-        "title": "Начало неведомого века",
-        "author": "Па",
-        "notes": "Повесть о жизни. Книга 3",
-        "createdAt": "2020-09-07 17:35:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 133
         }
     }
 }
