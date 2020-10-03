@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>145</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>146</sup>
 ---
 
 ## 2020
+
+### Хроника одной голодовки
+Олег Сенцов
+> [2020-10-02] 10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.
+
 
 ### 4 с половиной шага
 Олег Сенцов

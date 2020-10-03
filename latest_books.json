@@ -1,4 +1,16 @@
 {
+    "SrVztjyNmh": {
+        "id": "SrVztjyNmh",
+        "title": "Хроника одной голодовки",
+        "author": "Олег Сенцов",
+        "notes": "10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.",
+        "createdAt": "2020-10-03 15:44:24",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 146
+        }
+    },
     "Ux81rFSLGJ": {
         "id": "Ux81rFSLGJ",
         "title": "Поднявшийся с земли",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 100
-        }
-    },
-    "5Ac_2DQBxt": {
-        "id": "5Ac_2DQBxt",
-        "title": "Вызовите акушерку.Подлинная история ист-энда 1950-х годов",
-        "author": "Дженнифер Уорф",
-        "notes": "",
-        "createdAt": "2020-09-25 21:34:59",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 90
         }
     }
 }

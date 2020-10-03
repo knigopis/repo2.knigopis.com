@@ -1,4 +1,16 @@
 {
+    "SrVztjyNmh": {
+        "id": "SrVztjyNmh",
+        "title": "Хроника одной голодовки",
+        "author": "Олег Сенцов",
+        "notes": "10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.",
+        "createdAt": "2020-10-03 15:44:24",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 146
+        }
+    },
     "anKBGXT1Tk": {
         "id": "anKBGXT1Tk",
         "title": "Нормальное аномальное 5. Проклятие пражской синагоги.",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 133
-        }
-    },
-    "WaFmSO42ul": {
-        "id": "WaFmSO42ul",
-        "title": "Fields of Fire: A Novel",
-        "author": "James Webb",
-        "notes": "ASIN : B000SEFH74",
-        "createdAt": "2020-09-07 17:33:15",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 132
         }
     }
 }

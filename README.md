@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроника одной голодовки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup>
+    > 10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.
+
 * Нормальное аномальное 5. Проклятие пражской синагоги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>212</sup>
     > Чем дольше читаю, тем больше затягивает.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перечитана
 
 * Время больших ожиданий ~ [exulted](users/100/100599204551896265722-google)<sup>136</sup>
-    > Книга 4, Повесть о жизни
 
 * А.Ф.Прасол ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 4 с половиной шага ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>144</sup>
 
-* Нормальное аномальное 3. Тишина старого кладбища. ~ [Chiffi](users/105/105831994080785626680-google)<sup>210</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>818</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>101</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>213</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>176</sup> 
 [ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>48</sup> 
 
 
-_03.10.2020 14:13:11_
+_03.10.2020 15:44:24_
