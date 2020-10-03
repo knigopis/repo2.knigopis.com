@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 214,
+        "updatedAt": "2020-10-03 18:46:51"
+    },
     "219259003-vkontakte": {
         "id": "219259003-vkontakte",
         "nickname": "victoria_spilioti",
@@ -28,12 +34,6 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 101,
         "updatedAt": "2020-10-02 20:45:31"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 213,
-        "updatedAt": "2020-10-02 19:42:48"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

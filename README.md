@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нормальное аномальное 7. Город мертвый отражений ~ [Chiffi](users/105/105831994080785626680-google)<sup>214</sup>
+    > Чем дальше, тем мистичнее
+
 * Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
     > Класс!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.
 
 * Нормальное аномальное 5. Проклятие пражской синагоги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>212</sup>
-    > Чем дольше читаю, тем больше затягивает.
 
 * Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>10</sup>
 
-* Имя зверя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>214</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>120</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>818</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>101</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>213</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>137</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 
 
-_03.10.2020 16:59:54_
+_03.10.2020 18:46:51_
