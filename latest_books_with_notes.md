@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Повелитель мух ~ [Rainbow](users/109/109787328219839805802-google)<sup>63</sup>
 * Нормальное аномальное 7. Город мертвый отражений ~ [Chiffi](users/105/105831994080785626680-google)<sup>214</sup>
 * Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
 * Хроника одной голодовки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup>
@@ -30,7 +31,6 @@
 * Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
 * Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
-* Полиция ~ [dmiro](users/571/5714115-vkontakte)<sup>34</sup>
 
 
-_03.10.2020 18:46:51_
+_03.10.2020 20:40:34_

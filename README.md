@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повелитель мух ~ [Rainbow](users/109/109787328219839805802-google)<sup>63</sup>
+    > «Но ты же знал, правда? Что я – часть тебя самого? Неотделимая часть! Что это из-за меня ничего у вас не вышло? Что все получилось из-за меня?»
+    > «И, стоя среди них, грязный, косматый, с неутертым носом, Ральф рыдал над прежней невинностью, над тем, как темна человеческая душа, над тем, как переворачивался тогда на лету верный мудрый друг по прозвищу Хрюша»
+
 * Нормальное аномальное 7. Город мертвый отражений ~ [Chiffi](users/105/105831994080785626680-google)<sup>214</sup>
     > Чем дальше, тем мистичнее
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Класс!
 
 * Хроника одной голодовки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup>
-    > 10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.
 
 * Нормальное аномальное 5. Проклятие пражской синагоги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>212</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Лествица ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>241</sup>
 
-* Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>214</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>120</sup> 
@@ -54,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>64</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>90</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>62</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 [vrishin](users/157/157469036-yandex)<sup>0</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 
 
-_03.10.2020 18:46:51_
+_03.10.2020 20:40:34_
