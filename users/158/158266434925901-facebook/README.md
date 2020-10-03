@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>119</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>120</sup>
 ---
 
 ## 2020
+
+### Дочери Темперанс Хоббс
+Кэтрин Хоу
+> [2020-10-03] 
+
 
 ### Поступь хаоса
 Патрик Несс

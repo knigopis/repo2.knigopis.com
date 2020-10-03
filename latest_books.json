@@ -1,4 +1,16 @@
 {
+    "CEm8iJc2xB": {
+        "id": "CEm8iJc2xB",
+        "title": "Дочери Темперанс Хоббс",
+        "author": "Кэтрин Хоу",
+        "notes": "",
+        "createdAt": "2020-10-03 16:14:29",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 120
+        }
+    },
     "SrVztjyNmh": {
         "id": "SrVztjyNmh",
         "title": "Хроника одной голодовки",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 118
-        }
-    },
-    "4ZANKjH5dD": {
-        "id": "4ZANKjH5dD",
-        "title": "Цена соли",
-        "author": "Патриция Хайсмит",
-        "notes": "",
-        "createdAt": "2020-09-25 23:50:43",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 100
         }
     }
 }
