@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Our Man in Havana ~ [exulted](users/100/100599204551896265722-google)<sup>138</sup>
+    > ASIN : B07CMKNQ3G
+
 * Повелитель мух ~ [Rainbow](users/109/109787328219839805802-google)<sup>63</sup>
     > «Но ты же знал, правда? Что я – часть тебя самого? Неотделимая часть! Что это из-за меня ничего у вас не вышло? Что все получилось из-за меня?»
     > «И, стоя среди них, грязный, косматый, с неутертым носом, Ральф рыдал над прежней невинностью, над тем, как темна человеческая душа, над тем, как переворачивался тогда на лету верный мудрый друг по прозвищу Хрюша»
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Чем дальше, тем мистичнее
 
 * Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
-    > Класс!
 
 * Хроника одной голодовки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Кайдзен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>242</sup>
 
-* Лествица ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>241</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>138</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>819</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>63</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>101</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>137</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 
 
-_04.10.2020 09:00:42_
+_04.10.2020 14:16:50_

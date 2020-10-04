@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Our Man in Havana ~ [exulted](users/100/100599204551896265722-google)<sup>138</sup>
 * Повелитель мух ~ [Rainbow](users/109/109787328219839805802-google)<sup>63</sup>
 * Нормальное аномальное 7. Город мертвый отражений ~ [Chiffi](users/105/105831994080785626680-google)<sup>214</sup>
 * Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
@@ -30,7 +31,6 @@
 * Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
 * Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
 * Сотканная из тумана ~ [Chiffi](users/105/105831994080785626680-google)<sup>202</sup>
-* Чарівна ти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>142</sup>
 
 
-_03.10.2020 20:40:34_
+_04.10.2020 14:16:50_
