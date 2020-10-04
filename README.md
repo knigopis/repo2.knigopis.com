@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>820</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>138</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>819</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>214</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 
 
-_04.10.2020 14:16:50_
+_04.10.2020 19:34:24_

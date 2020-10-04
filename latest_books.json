@@ -1,4 +1,16 @@
 {
+    "vFWnRxpeBp": {
+        "id": "vFWnRxpeBp",
+        "title": "Текст",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2020-10-04 19:34:24",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 820
+        }
+    },
     "oIGTn3-51w": {
         "id": "oIGTn3-51w",
         "title": "Our Man in Havana",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 224
-        }
-    },
-    "y3wnj5EGDh": {
-        "id": "y3wnj5EGDh",
-        "title": "Нормальное аномальное 3. Тишина старого кладбища.",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "Отличная серия. Смесь детектива с мистикой + примесь любовного романа.",
-        "createdAt": "2020-09-28 05:32:14",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 210
         }
     }
 }
