@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>64</sup>
+# List of books read by 4apa<sup>65</sup>
 ---
 
 ## 2020
+
+### Бредовая работа
+Д. Гребер
+> [2020-10-05] 
+
 
 ### Непобедимое солнце
 В. Пелевин
