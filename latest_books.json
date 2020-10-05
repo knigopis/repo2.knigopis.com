@@ -1,4 +1,16 @@
 {
+    "37Ji48N-oC": {
+        "id": "37Ji48N-oC",
+        "title": "Миры Артёма Каменистого S-T-I-K-S. Шатун",
+        "author": "Василий Евстратов",
+        "notes": "",
+        "createdAt": "2020-10-05 03:15:35",
+        "user": {
+            "id": "114314396404197072995-google",
+            "nickname": "Зелёный Ёж",
+            "booksCount": 2
+        }
+    },
     "vFWnRxpeBp": {
         "id": "vFWnRxpeBp",
         "title": "Текст",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 144
-        }
-    },
-    "75532YfirF": {
-        "id": "75532YfirF",
-        "title": "С широко закрытыми глазами",
-        "author": "Артур Шницлер",
-        "notes": "",
-        "createdAt": "2020-09-28 10:40:58",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 224
         }
     }
 }
