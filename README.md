@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fyriya](users/109/109038786800069495823-google)<sup>0</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>820</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>138</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>320</sup> 
 [](users/113/113120851982565613531-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>261</sup> 
 
 
-_05.10.2020 03:21:45_
+_05.10.2020 11:12:43_
