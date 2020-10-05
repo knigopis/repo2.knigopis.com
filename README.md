@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fyriya](users/109/109038786800069495823-google)<sup>3</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>65</sup> 
-[Fyriya](users/109/109038786800069495823-google)<sup>2</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>820</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>138</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 
 
-_05.10.2020 14:34:25_
+_05.10.2020 15:44:55_
