@@ -1,4 +1,10 @@
 {
+    "109038786800069495823-google": {
+        "id": "109038786800069495823-google",
+        "nickname": "Fyriya",
+        "booksCount": 0,
+        "updatedAt": "2020-10-05 11:12:43"
+    },
     "114314396404197072995-google": {
         "id": "114314396404197072995-google",
         "nickname": "Зелёный Ёж",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-09-19 04:01:21"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 261,
-        "updatedAt": "2020-09-18 21:00:34"
     }
 }
