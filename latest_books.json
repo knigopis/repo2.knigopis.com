@@ -1,4 +1,16 @@
 {
+    "oN1ysj2aZv": {
+        "id": "oN1ysj2aZv",
+        "title": "Маленькие женщины",
+        "author": "Луиза Мэй Олкотт",
+        "notes": "",
+        "createdAt": "2020-10-06 20:24:21",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 91
+        }
+    },
     "2g86Z7Kojp": {
         "id": "2g86Z7Kojp",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 243
-        }
-    },
-    "xi0qAb5bxa": {
-        "id": "xi0qAb5bxa",
-        "title": "Кайдзен",
-        "author": "Масааки Имаи",
-        "notes": "в процессе",
-        "createdAt": "2020-09-30 21:20:40",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 242
         }
     }
 }

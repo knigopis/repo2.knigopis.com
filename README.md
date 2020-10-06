@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>91</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>102</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>215</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>90</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 [vrishin](users/157/157469036-yandex)<sup>0</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 
 
-_06.10.2020 13:36:33_
+_06.10.2020 20:24:21_
