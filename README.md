@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>102</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>215</sup> 
 [Fyriya](users/109/109038786800069495823-google)<sup>4</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>120</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>101</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113120851982565613531-google)<sup>0</sup> 
 
 
-_06.10.2020 07:15:03_
+_06.10.2020 13:36:33_
