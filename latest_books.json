@@ -1,4 +1,16 @@
 {
+    "RPGOu9OwUs": {
+        "id": "RPGOu9OwUs",
+        "title": "Миры Артёма Каменистого. Шатун 2",
+        "author": "Василий Евстратов",
+        "notes": "",
+        "createdAt": "2020-10-06 07:15:03",
+        "user": {
+            "id": "114314396404197072995-google",
+            "nickname": "Зелёный Ёж",
+            "booksCount": 3
+        }
+    },
     "08DjYq61UI": {
         "id": "08DjYq61UI",
         "title": "Нормальное аномальное 8. Месть кровавого жнеца",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 241
-        }
-    },
-    "16O2m8Ma8R": {
-        "id": "16O2m8Ma8R",
-        "title": "Иметь или быть?",
-        "author": "Эрих Фромм",
-        "notes": "",
-        "createdAt": "2020-09-30 19:22:08",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 67
         }
     }
 }
