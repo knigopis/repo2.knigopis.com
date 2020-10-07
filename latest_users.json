@@ -1,4 +1,10 @@
 {
+    "102518264971411177101-google": {
+        "id": "102518264971411177101-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-10-07 14:15:36"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 51,
         "updatedAt": "2020-09-20 12:13:12"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 320,
-        "updatedAt": "2020-09-19 04:09:26"
     }
 }
