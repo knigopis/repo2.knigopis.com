@@ -1,4 +1,16 @@
 {
+    "pyxSzotZTK": {
+        "id": "pyxSzotZTK",
+        "title": "Миры Артёма Каменистого. Шатун 3",
+        "author": "Василий Евстратов",
+        "notes": "",
+        "createdAt": "2020-10-07 01:43:36",
+        "user": {
+            "id": "114314396404197072995-google",
+            "nickname": "Зелёный Ёж",
+            "booksCount": 4
+        }
+    },
     "oN1ysj2aZv": {
         "id": "oN1ysj2aZv",
         "title": "Маленькие женщины",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 136
-        }
-    },
-    "yVRawO4Hw8": {
-        "id": "yVRawO4Hw8",
-        "title": "А.Ф.Прасол",
-        "author": "Объединение Японии: Токугава Иэясу",
-        "notes": "в процессе",
-        "createdAt": "2020-09-30 21:21:24",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 243
         }
     }
 }
