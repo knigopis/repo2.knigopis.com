@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/102/102518264971411177101-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>104</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>104</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>4</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/121/12133433-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>320</sup> 
 
 
-_07.10.2020 11:23:14_
+_07.10.2020 14:15:37_
