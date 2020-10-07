@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>103</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>104</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>4</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>91</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>102</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>215</sup> 
 [Fyriya](users/109/109038786800069495823-google)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>65</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>320</sup> 
 
 
-_07.10.2020 07:05:57_
+_07.10.2020 11:22:25_
