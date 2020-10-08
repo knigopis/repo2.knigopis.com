@@ -1,4 +1,10 @@
 {
+    "101246770249690626708-google": {
+        "id": "101246770249690626708-google",
+        "nickname": "bakhtiyor",
+        "booksCount": 0,
+        "updatedAt": "2020-10-08 18:11:20"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-09-21 17:15:05"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 180,
-        "updatedAt": "2020-09-21 13:09:30"
     }
 }
