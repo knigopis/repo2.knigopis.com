@@ -1,5 +1,12 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>106</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>107</sup>
 ---
+
+## 2020
+
+### Sapiens: Краткая история человечества
+Юваль Ной Харари
+
+
 
 ## 2019
 

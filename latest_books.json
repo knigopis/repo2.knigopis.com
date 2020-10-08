@@ -1,4 +1,16 @@
 {
+    "JDEYRQnE78": {
+        "id": "JDEYRQnE78",
+        "title": "Sapiens: Краткая история человечества",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2020-10-08 19:05:36",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 107
+        }
+    },
     "mH6JTxCJbK": {
         "id": "mH6JTxCJbK",
         "title": "Трилогия «Первый Закон»",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 146
-        }
-    },
-    "Ux81rFSLGJ": {
-        "id": "Ux81rFSLGJ",
-        "title": "Поднявшийся с земли",
-        "author": "Жозе Сарамаго",
-        "notes": "",
-        "createdAt": "2020-10-03 14:13:11",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 818
         }
     }
 }
