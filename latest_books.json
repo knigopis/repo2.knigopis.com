@@ -1,4 +1,16 @@
 {
+    "F_6qF7Z3HJ": {
+        "id": "F_6qF7Z3HJ",
+        "title": "Гении и аутсайдеры",
+        "author": "Малкольм Гладуелл",
+        "notes": "",
+        "createdAt": "2020-10-08 18:12:12",
+        "user": {
+            "id": "101246770249690626708-google",
+            "nickname": "bakhtiyor",
+            "booksCount": 1
+        }
+    },
     "amnd0ineiF": {
         "id": "amnd0ineiF",
         "title": "Спящая красавица",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 101
-        }
-    },
-    "t4G4iQtz7N": {
-        "id": "t4G4iQtz7N",
-        "title": "Нормальное аномальное 6. Галерея последних портретоа",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "",
-        "createdAt": "2020-10-02 19:42:48",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 213
         }
     }
 }
