@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 64,
+        "updatedAt": "2020-10-08 19:25:45"
+    },
     "105866022348292919948-google": {
         "id": "105866022348292919948-google",
         "nickname": "Chandravadana",
@@ -88,12 +94,6 @@
         "nickname": "exulted",
         "booksCount": 138,
         "updatedAt": "2020-10-04 14:16:50"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 63,
-        "updatedAt": "2020-10-03 20:40:34"
     },
     "219259003-vkontakte": {
         "id": "219259003-vkontakte",

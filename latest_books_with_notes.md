@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
 * Трилогия «Первый Закон» ~ [Chandravadana](users/105/105866022348292919948-google)<sup>106</sup>
 * Our Man in Havana ~ [exulted](users/100/100599204551896265722-google)<sup>138</sup>
 * Повелитель мух ~ [Rainbow](users/109/109787328219839805802-google)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
 * Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
 * Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
-* Институт исследований 2. Чудовищ.net. ~ [Chiffi](users/105/105831994080785626680-google)<sup>203</sup>
 
 
-_08.10.2020 19:03:01_
+_08.10.2020 19:25:45_
