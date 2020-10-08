@@ -1,4 +1,16 @@
 {
+    "iO_3_o3uL9": {
+        "id": "iO_3_o3uL9",
+        "title": "Homo Deus: Краткая история завтрашнего дня",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2020-10-08 19:06:06",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 108
+        }
+    },
     "JDEYRQnE78": {
         "id": "JDEYRQnE78",
         "title": "Sapiens: Краткая история человечества",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 120
-        }
-    },
-    "SrVztjyNmh": {
-        "id": "SrVztjyNmh",
-        "title": "Хроника одной голодовки",
-        "author": "Олег Сенцов",
-        "notes": "10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.",
-        "createdAt": "2020-10-03 15:44:24",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 146
         }
     }
 }

@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>107</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>108</sup> 
 [Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
 [bakhtiyor](users/101/101246770249690626708-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 
 
-_08.10.2020 19:05:36_
+_08.10.2020 19:06:06_

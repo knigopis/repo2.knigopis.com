@@ -1,7 +1,11 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>107</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>108</sup>
 ---
 
 ## 2020
+
+### Homo Deus: Краткая история завтрашнего дня
+Юваль Ной Харари
+
 
 ### Sapiens: Краткая история человечества
 Юваль Ной Харари
