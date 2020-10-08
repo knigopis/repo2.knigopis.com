@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bakhtiyor](users/101/101246770249690626708-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 [](users/102/102518264971411177101-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 [vrishin](users/157/157469036-yandex)<sup>0</sup> 
 [](users/121/12133433-vkontakte)<sup>0</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 
 
-_08.10.2020 15:29:57_
+_08.10.2020 18:11:20_
