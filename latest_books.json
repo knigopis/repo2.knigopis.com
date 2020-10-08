@@ -1,4 +1,16 @@
 {
+    "amnd0ineiF": {
+        "id": "amnd0ineiF",
+        "title": "Спящая красавица",
+        "author": "Марисса Мейер",
+        "notes": "",
+        "createdAt": "2020-10-08 15:29:57",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 177
+        }
+    },
     "8C72ft1zsS": {
         "id": "8C72ft1zsS",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 213
-        }
-    },
-    "0t8TM1cwUT": {
-        "id": "0t8TM1cwUT",
-        "title": "Сеньорита Кора",
-        "author": "Хулио Кортасар",
-        "notes": "",
-        "createdAt": "2020-10-02 11:39:58",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 817
         }
     }
 }

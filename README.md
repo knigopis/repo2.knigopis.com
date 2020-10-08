@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 [](users/102/102518264971411177101-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>104</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
 [](users/102/102344559278955514892-google)<sup>0</sup> 
 [](users/118/118254658890672334687-google)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>176</sup> 
 [ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>180</sup> 
 
 
-_08.10.2020 12:05:34_
+_08.10.2020 15:29:57_
