@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трилогия «Первый Закон» ~ [Chandravadana](users/105/105866022348292919948-google)<sup>106</sup>
+    > Кровь и железо, Прежде чем их повесят, Последний довод королей
+
 * Our Man in Havana ~ [exulted](users/100/100599204551896265722-google)<sup>138</sup>
     > ASIN : B07CMKNQ3G
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > «И, стоя среди них, грязный, косматый, с неутертым носом, Ральф рыдал над прежней невинностью, над тем, как темна человеческая душа, над тем, как переворачивался тогда на лету верный мудрый друг по прозвищу Хрюша»
 
 * Нормальное аномальное 7. Город мертвый отражений ~ [Chiffi](users/105/105831994080785626680-google)<sup>214</sup>
-    > Чем дальше, тем мистичнее
 
 * Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * А.Ф.Прасол ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>243</sup>
 
-* Кайдзен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>242</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chandravadana](users/105/105866022348292919948-google)<sup>106</sup> 
 [Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
 [bakhtiyor](users/101/101246770249690626708-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
-[vrishin](users/157/157469036-yandex)<sup>0</sup> 
 
 
-_08.10.2020 18:39:06_
+_08.10.2020 19:03:01_

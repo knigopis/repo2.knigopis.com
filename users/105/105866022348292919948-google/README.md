@@ -1,5 +1,13 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>105</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>106</sup>
 ---
+
+## 2019
+
+### Трилогия «Первый Закон»
+Джо Аберкромби
+> Кровь и железо, Прежде чем их повесят, Последний довод королей
+
+
 
 ## 2018
 

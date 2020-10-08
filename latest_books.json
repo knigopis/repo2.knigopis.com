@@ -1,4 +1,16 @@
 {
+    "mH6JTxCJbK": {
+        "id": "mH6JTxCJbK",
+        "title": "Трилогия «Первый Закон»",
+        "author": "Джо Аберкромби",
+        "notes": "Кровь и железо, Прежде чем их повесят, Последний довод королей",
+        "createdAt": "2020-10-08 19:03:01",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 106
+        }
+    },
     "F_6qF7Z3HJ": {
         "id": "F_6qF7Z3HJ",
         "title": "Гении и аутсайдеры",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 818
-        }
-    },
-    "wz5de21fWM": {
-        "id": "wz5de21fWM",
-        "title": "Преступление и наказание",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2020-10-02 20:45:31",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 101
         }
     }
 }
