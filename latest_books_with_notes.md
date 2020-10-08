@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
 * Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
 * Трилогия «Первый Закон» ~ [Chandravadana](users/105/105866022348292919948-google)<sup>106</sup>
 * Our Man in Havana ~ [exulted](users/100/100599204551896265722-google)<sup>138</sup>
@@ -30,7 +31,6 @@
 * Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
 * Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
 * Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
-* Pronto: A Novel (Raylan Givens Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>134</sup>
 
 
-_08.10.2020 19:25:45_
+_08.10.2020 20:18:50_
