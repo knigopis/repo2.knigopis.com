@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>69</sup>
+# List of books read by violet_velva<sup>70</sup>
 ---
 
 ## 2020
+
+### Горчаков
+Виктор Лопатников
+> [2020-07-13] 
+
 
 ### Silkworm
 Robert Galbraith
