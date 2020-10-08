@@ -1,4 +1,10 @@
 {
+    "94290939-yandex": {
+        "id": "94290939-yandex",
+        "nickname": "Shinomori.Aoshi",
+        "booksCount": 0,
+        "updatedAt": "2020-10-08 18:39:06"
+    },
     "101246770249690626708-google": {
         "id": "101246770249690626708-google",
         "nickname": "bakhtiyor",
@@ -172,11 +178,5 @@
         "nickname": "vrishin",
         "booksCount": 0,
         "updatedAt": "2020-09-24 17:49:45"
-    },
-    "12133433-vkontakte": {
-        "id": "12133433-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-09-21 17:15:05"
     }
 }
