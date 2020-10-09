@@ -1,4 +1,16 @@
 {
+    "B1lI2V_ENQ": {
+        "id": "B1lI2V_ENQ",
+        "title": "23000",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2020-10-09 04:17:14",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 225
+        }
+    },
     "W72-YDWj7X": {
         "id": "W72-YDWj7X",
         "title": "Искусство любить",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 63
-        }
-    },
-    "wvy_QDWdvq": {
-        "id": "wvy_QDWdvq",
-        "title": "Нормальное аномальное 7. Город мертвый отражений",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "Чем дальше, тем мистичнее",
-        "createdAt": "2020-10-03 18:46:51",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 214
         }
     }
 }

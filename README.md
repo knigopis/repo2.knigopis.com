@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>225</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>65</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>108</sup> 
 [Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
@@ -69,9 +70,8 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118254658890672334687-google)<sup>0</sup> 
 [ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>224</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 
 
-_08.10.2020 20:18:50_
+_09.10.2020 04:17:14_
