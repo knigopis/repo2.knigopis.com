@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>216</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>105</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>61</sup> 
 [youno](users/302/302928912-vkontakte)<sup>50</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>104</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>4</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>91</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>215</sup> 
 [Fyriya](users/109/109038786800069495823-google)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>65</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>820</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
 
 
-_09.10.2020 18:02:14_
+_09.10.2020 19:59:24_
