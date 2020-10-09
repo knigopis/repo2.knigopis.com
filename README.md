@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106383650641170242772-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>108</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>216</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>105</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
 [](users/102/102344559278955514892-google)<sup>0</sup> 
 [](users/118/118254658890672334687-google)<sup>0</sup> 
-[ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 
 
-_09.10.2020 21:14:01_
+_09.10.2020 22:44:29_
