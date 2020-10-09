@@ -1,7 +1,11 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>49</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>50</sup>
 ---
 
 ## 2020
+
+Роберт Родригес
+> [2020-10-09] Вдохновляет
+
 
 ### Формула. Универсальные законы успеха.
 Альберт-Ласло Барабаши

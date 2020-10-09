@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
 * Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
 * Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
 * Трилогия «Первый Закон» ~ [Chandravadana](users/105/105866022348292919948-google)<sup>106</sup>
@@ -30,7 +31,6 @@
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
 * Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
 * Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
-* Институт исследований необъяснимого 4. Добровольно проклятые. ~ [Chiffi](users/105/105831994080785626680-google)<sup>205</sup>
 
 
-_08.10.2020 20:18:50_
+_09.10.2020 16:15:05_

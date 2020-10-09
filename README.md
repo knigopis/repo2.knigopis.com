@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
+    > Вдохновляет
+
 * Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
     > Не знаю почему многие хвалят эту книгу, она внесла лишь немного ясности, хотя, наверное, больше запутала философским языком и запугала тяжёлой достижимости способности любви.
     > ----
@@ -21,7 +24,6 @@ Do not use pull requests to make changes here.
     > Можно перечитать главу про перфекционизм и выписать тезисы
 
 * Трилогия «Первый Закон» ~ [Chandravadana](users/105/105866022348292919948-google)<sup>106</sup>
-    > Кровь и железо, Прежде чем их повесят, Последний довод королей
 
 * Our Man in Havana ~ [exulted](users/100/100599204551896265722-google)<sup>138</sup>
 
@@ -35,13 +37,12 @@ Do not use pull requests to make changes here.
 
 * Нормальное аномальное 5. Проклятие пражской синагоги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>212</sup>
 
-* Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>50</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>121</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>225</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
-[](users/108/108685354966939535397-google)<sup>0</sup> 
 
 
-_09.10.2020 12:38:37_
+_09.10.2020 16:15:05_

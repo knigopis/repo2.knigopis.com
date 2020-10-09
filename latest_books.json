@@ -1,4 +1,16 @@
 {
+    "rVVVjiTf-X": {
+        "id": "rVVVjiTf-X",
+        "title": "",
+        "author": "Роберт Родригес",
+        "notes": "Вдохновляет",
+        "createdAt": "2020-10-09 16:15:05",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 50
+        }
+    },
     "DpTc_AZQO3": {
         "id": "DpTc_AZQO3",
         "title": "Архивариус",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 138
-        }
-    },
-    "b2agah0Toq": {
-        "id": "b2agah0Toq",
-        "title": "Повседневная жизнь в Северной Корее",
-        "author": "Барбара Демик",
-        "notes": "",
-        "createdAt": "2020-10-04 09:00:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 819
         }
     }
 }
