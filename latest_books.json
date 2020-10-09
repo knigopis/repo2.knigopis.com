@@ -1,4 +1,16 @@
 {
+    "EzPLXge11N": {
+        "id": "EzPLXge11N",
+        "title": "В списках не значился",
+        "author": "Васильев Борис Леонидович",
+        "notes": "",
+        "createdAt": "2020-10-09 18:02:14",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 105
+        }
+    },
     "SoCpvr_Ynl": {
         "id": "SoCpvr_Ynl",
         "title": "Процесс",
@@ -345,18 +357,6 @@
             "id": "114314396404197072995-google",
             "nickname": "Зелёный Ёж",
             "booksCount": 2
-        }
-    },
-    "vFWnRxpeBp": {
-        "id": "vFWnRxpeBp",
-        "title": "Текст",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2020-10-04 19:34:24",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 820
         }
     }
 }
