@@ -1,4 +1,10 @@
 {
+    "106383650641170242772-google": {
+        "id": "106383650641170242772-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-10-09 22:44:28"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-09-29 23:11:10"
-    },
-    "107750268-vkontakte": {
-        "id": "107750268-vkontakte",
-        "nickname": "ivenkb",
-        "booksCount": 0,
-        "updatedAt": "2020-09-29 17:43:56"
     }
 }
