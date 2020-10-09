@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>225</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>65</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>108</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fyriya](users/109/109038786800069495823-google)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>65</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>820</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>138</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>120</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108685354966939535397-google)<sup>0</sup> 
 
 
-_09.10.2020 04:17:14_
+_09.10.2020 08:22:48_
