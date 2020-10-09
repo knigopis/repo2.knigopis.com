@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>61</sup> 
 [youno](users/302/302928912-vkontakte)<sup>50</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>121</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>139</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118254658890672334687-google)<sup>0</sup> 
 [ivenkb](users/107/107750268-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>10</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>107</sup> 
 
 
-_09.10.2020 16:15:05_
+_09.10.2020 16:56:48_

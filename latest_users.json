@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 61,
+        "updatedAt": "2020-10-09 16:56:48"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": "Len4e91",
         "booksCount": 10,
         "updatedAt": "2020-09-29 12:24:32"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 107,
-        "updatedAt": "2020-09-27 21:48:15"
     }
 }
