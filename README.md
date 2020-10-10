@@ -42,11 +42,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>62</sup> 
 [](users/106/106383650641170242772-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>108</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>216</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>105</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>61</sup> 
 [youno](users/302/302928912-vkontakte)<sup>50</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>121</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>139</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118254658890672334687-google)<sup>0</sup> 
 
 
-_09.10.2020 22:44:29_
+_10.10.2020 19:25:16_

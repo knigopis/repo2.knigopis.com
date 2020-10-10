@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>61</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>62</sup>
 ---
 
 ## 2020
+
+### Око мира
+Роберт Джордан
+> [2020-10-11] 
+
 
 ### Процесс
 Франц Кафка
