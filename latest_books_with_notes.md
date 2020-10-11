@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Код женщины ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 *  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
 * Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
 * Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Наследник Ранхара ~ [Lala](users/761/76187635-vkontakte)<sup>317</sup>
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
 * Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
-* Сто лет одиночества ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>79</sup>
 
 
-_09.10.2020 16:15:05_
+_11.10.2020 06:17:51_

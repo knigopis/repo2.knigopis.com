@@ -1,4 +1,10 @@
 {
+    "254448176-yandex": {
+        "id": "254448176-yandex",
+        "nickname": "Len4e91",
+        "booksCount": 11,
+        "updatedAt": "2020-10-11 06:17:51"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-09-30 13:49:16"
-    },
-    "118254658890672334687-google": {
-        "id": "118254658890672334687-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-09-29 23:11:10"
     }
 }
