@@ -1,7 +1,12 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>243</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>244</sup>
 ---
 
 ## 2020
+
+### Самурай без меча
+Китами Масао
+> [2020-10-11] в процессе
+
 
 ### А.Ф.Прасол
 Объединение Японии: Токугава Иэясу

@@ -1,4 +1,16 @@
 {
+    "_PSp0sCtIf": {
+        "id": "_PSp0sCtIf",
+        "title": "Самурай без меча",
+        "author": "Китами Масао",
+        "notes": "в процессе",
+        "createdAt": "2020-10-11 20:12:03",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 244
+        }
+    },
     "cWK_M67khD": {
         "id": "cWK_M67khD",
         "title": "Почему мужчины врут, а женщины ревут",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 215
-        }
-    },
-    "H6IFqCrqNT": {
-        "id": "H6IFqCrqNT",
-        "title": "Высшая школа библиотекарей Цикл 5 книг",
-        "author": "Милена Завойчинская",
-        "notes": "",
-        "createdAt": "2020-10-05 15:58:13",
-        "user": {
-            "id": "109038786800069495823-google",
-            "nickname": "Fyriya",
-            "booksCount": 4
         }
     }
 }

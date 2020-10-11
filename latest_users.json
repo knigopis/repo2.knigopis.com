@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 244,
+        "updatedAt": "2020-10-11 20:12:03"
+    },
     "254448176-yandex": {
         "id": "254448176-yandex",
         "nickname": "Len4e91",
@@ -160,12 +166,6 @@
         "nickname": "tonydanza",
         "booksCount": 0,
         "updatedAt": "2020-10-01 05:34:10"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 243,
-        "updatedAt": "2020-09-30 21:21:24"
     },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",

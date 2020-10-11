@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Самурай без меча ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup>
 * Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 * Код женщины ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 *  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
 * Наследник Ранхара ~ [Lala](users/761/76187635-vkontakte)<sup>317</sup>
 * Имя розы ~ [Garka](users/115/115753719718250012620-google)<sup>261</sup>
-* Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
 
 
-_11.10.2020 06:21:32_
+_11.10.2020 20:12:03_
