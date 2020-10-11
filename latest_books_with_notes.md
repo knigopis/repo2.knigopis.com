@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
+* Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 * Код женщины ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 *  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
 * Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
@@ -33,4 +33,4 @@
 * Неаполитанский квартет ~ [Victoria](users/113/113794223924688167852-google)<sup>48</sup>
 
 
-_11.10.2020 06:19:10_
+_11.10.2020 06:21:32_
