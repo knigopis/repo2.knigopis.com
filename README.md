@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Len4e91](users/254/254448176-yandex)<sup>12</sup> 
+[Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>217</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>62</sup> 
 [](users/106/106383650641170242772-google)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102344559278955514892-google)<sup>0</sup> 
 
 
-_11.10.2020 06:19:10_
+_11.10.2020 06:20:25_
