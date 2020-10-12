@@ -1,4 +1,10 @@
 {
+    "76641149-vkontakte": {
+        "id": "76641149-vkontakte",
+        "nickname": "nikita_konyaev",
+        "booksCount": 0,
+        "updatedAt": "2020-10-12 21:40:15"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 67,
         "updatedAt": "2020-09-30 19:22:08"
-    },
-    "102344559278955514892-google": {
-        "id": "102344559278955514892-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-09-30 13:49:16"
     }
 }
