@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>109</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>218</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
 [tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
-[](users/102/102344559278955514892-google)<sup>0</sup> 
 
 
-_12.10.2020 19:23:07_
+_12.10.2020 21:40:16_
