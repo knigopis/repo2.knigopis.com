@@ -1,4 +1,16 @@
 {
+    "8rruWSpPR7": {
+        "id": "8rruWSpPR7",
+        "title": "Туарег",
+        "author": "Альберто Васкес-Фигероа",
+        "notes": "",
+        "createdAt": "2020-10-12 19:19:58",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 109
+        }
+    },
     "kKVV7IBAYk": {
         "id": "kKVV7IBAYk",
         "title": "Нормальное аномальное 11. Холод туманного замка.",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 102
-        }
-    },
-    "RPGOu9OwUs": {
-        "id": "RPGOu9OwUs",
-        "title": "Миры Артёма Каменистого. Шатун 2",
-        "author": "Василий Евстратов",
-        "notes": "",
-        "createdAt": "2020-10-06 07:15:03",
-        "user": {
-            "id": "114314396404197072995-google",
-            "nickname": "Зелёный Ёж",
-            "booksCount": 3
         }
     }
 }

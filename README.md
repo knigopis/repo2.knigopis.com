@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>218</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>225</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>65</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>108</sup> 
 [Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
 [bakhtiyor](users/101/101246770249690626708-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102344559278955514892-google)<sup>0</sup> 
 
 
-_12.10.2020 18:18:43_
+_12.10.2020 19:19:58_

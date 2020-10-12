@@ -1,7 +1,12 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>108</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>109</sup>
 ---
 
 ## 2020
+
+### Туарег
+Альберто Васкес-Фигероа
+> [2020-10-12] 
+
 
 ### Homo Deus: Краткая история завтрашнего дня
 Юваль Ной Харари
