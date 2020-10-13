@@ -37,13 +37,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>63</sup> 
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>109</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>218</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>62</sup> 
 [](users/106/106383650641170242772-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>105</sup> 
 [youno](users/302/302928912-vkontakte)<sup>50</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>67</sup> 
 
 
-_12.10.2020 21:40:16_
+_13.10.2020 02:38:51_

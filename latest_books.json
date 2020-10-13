@@ -1,4 +1,16 @@
 {
+    "RgJ-C-iGLC": {
+        "id": "RgJ-C-iGLC",
+        "title": "Убийца королевы",
+        "author": "Себастьян де Кастелл",
+        "notes": "",
+        "createdAt": "2020-10-13 02:38:51",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 63
+        }
+    },
     "ct41EDuEN1": {
         "id": "ct41EDuEN1",
         "title": "Жить",
@@ -345,18 +357,6 @@
             "id": "114314396404197072995-google",
             "nickname": "Зелёный Ёж",
             "booksCount": 4
-        }
-    },
-    "oN1ysj2aZv": {
-        "id": "oN1ysj2aZv",
-        "title": "Маленькие женщины",
-        "author": "Луиза Мэй Олкотт",
-        "notes": "",
-        "createdAt": "2020-10-06 20:24:21",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 91
         }
     }
 }

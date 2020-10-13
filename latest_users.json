@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 63,
+        "updatedAt": "2020-10-13 02:38:51"
+    },
     "76641149-vkontakte": {
         "id": "76641149-vkontakte",
         "nickname": "nikita_konyaev",
@@ -34,12 +40,6 @@
         "nickname": "Len4e91",
         "booksCount": 11,
         "updatedAt": "2020-10-11 06:21:32"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 62,
-        "updatedAt": "2020-10-10 19:25:16"
     },
     "106383650641170242772-google": {
         "id": "106383650641170242772-google",
