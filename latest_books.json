@@ -1,4 +1,16 @@
 {
+    "ryxgZzCxy_": {
+        "id": "ryxgZzCxy_",
+        "title": "Куколки",
+        "author": "Джон Уиндем",
+        "notes": "",
+        "createdAt": "2020-10-13 13:23:53",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 122
+        }
+    },
     "RgJ-C-iGLC": {
         "id": "RgJ-C-iGLC",
         "title": "Убийца королевы",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 104
-        }
-    },
-    "pyxSzotZTK": {
-        "id": "pyxSzotZTK",
-        "title": "Миры Артёма Каменистого. Шатун 3",
-        "author": "Василий Евстратов",
-        "notes": "",
-        "createdAt": "2020-10-07 01:43:36",
-        "user": {
-            "id": "114314396404197072995-google",
-            "nickname": "Зелёный Ёж",
-            "booksCount": 4
         }
     }
 }
