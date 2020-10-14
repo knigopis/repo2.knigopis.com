@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Скопление неприятностей (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>263</sup>
 * Прошлое должно умереть (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>262</sup>
 * Нормальное аномальное 12. Дом безликих теней. ~ [Chiffi](users/105/105831994080785626680-google)<sup>219</sup>
 * Самурай без меча ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup>
@@ -30,7 +31,6 @@
 * Нормальное аномальное 1. Тайна таёжной деревни. ~ [Chiffi](users/105/105831994080785626680-google)<sup>208</sup>
 * Тим Талер, или проданный смех ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>51</sup>
 * Секретное досье 6. Лукавый морок ~ [Chiffi](users/105/105831994080785626680-google)<sup>207</sup>
-* Science Fictions: How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth ~ [exulted](users/100/100599204551896265722-google)<sup>135</sup>
 
 
-_14.10.2020 16:05:13_
+_14.10.2020 16:07:59_
