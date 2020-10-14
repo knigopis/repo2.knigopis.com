@@ -1,4 +1,16 @@
 {
+    "cQZcTR7g9S": {
+        "id": "cQZcTR7g9S",
+        "title": "Прошлое должно умереть (Герметикон)",
+        "author": "Панов, Вадим",
+        "notes": "Помпилио мстит Огнеделу",
+        "createdAt": "2020-10-14 16:05:12",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 262
+        }
+    },
     "JkBE-oT2UK": {
         "id": "JkBE-oT2UK",
         "title": "Нормальное аномальное 12. Дом безликих теней.",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 135
-        }
-    },
-    "aVx0r0LcRO": {
-        "id": "aVx0r0LcRO",
-        "title": "Наследник Ранхара",
-        "author": "Буланова Ю., Карелин С.В",
-        "notes": "надо дочитать",
-        "createdAt": "2020-09-19 04:04:55",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 317
         }
     }
 }

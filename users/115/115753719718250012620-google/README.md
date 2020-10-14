@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>261</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>262</sup>
 ---
 
 ## 2020
+
+### Прошлое должно умереть (Герметикон)
+Панов, Вадим
+> [2020-09-29] Помпилио мстит Огнеделу
+
 
 ### Имя розы
 Умберто, Эко
