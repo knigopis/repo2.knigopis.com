@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Священная книга оборотня ~ [anvonamore](users/595/5957175-vkontakte)<sup>145</sup>
+    > 7/10
+
 * Скопление неприятностей (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>263</sup>
     > Кто-то научился работать с астрелием, тем самым нарушив монополия адигенов. Следы приводят Помпилио на Тердан, но след не верный. Появляется новый игрок ,некий Гроссмейстер
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Помпилио мстит Огнеделу
 
 * Нормальное аномальное 12. Дом безликих теней. ~ [Chiffi](users/105/105831994080785626680-google)<sup>219</sup>
-    > Одного не понимаю э. Пару книг назад(вроде бы в призраках белых ночей) в книге про встречу выпускников мед.института появлялась организатор мероприятий с которой Войтех даже на свидание ходил. Это было очень похоже на озеро Сашпо, но они друг друга не опознали. И в этой книге опять появилась организатор, которая помнит группу по озеру.
 
 * Самурай без меча ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
 
-* Трилогия «Первый Закон» ~ [Chandravadana](users/105/105866022348292919948-google)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>263</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>219</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>122</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
-[tonydanza](users/635/63596061-vkontakte)<sup>0</sup> 
 
 
-_14.10.2020 16:07:59_
+_14.10.2020 18:39:01_

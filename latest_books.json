@@ -1,4 +1,16 @@
 {
+    "9-02VGg86N": {
+        "id": "9-02VGg86N",
+        "title": "Священная книга оборотня",
+        "author": "Виктор Пелевин",
+        "notes": "7/10",
+        "createdAt": "2020-10-14 18:39:01",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 145
+        }
+    },
     "QmteuRKpte": {
         "id": "QmteuRKpte",
         "title": "Скопление неприятностей (Герметикон)",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 71
-        }
-    },
-    "LWuMR_oRwJ": {
-        "id": "LWuMR_oRwJ",
-        "title": "Горчаков",
-        "author": "Виктор Лопатников",
-        "notes": "",
-        "createdAt": "2020-10-08 12:04:54",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 70
         }
     }
 }
