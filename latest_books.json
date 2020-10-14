@@ -1,4 +1,16 @@
 {
+    "mHklCfLIjk": {
+        "id": "mHklCfLIjk",
+        "title": "Триумфальная арка",
+        "author": "Эрик Мария Ремарк",
+        "notes": "",
+        "createdAt": "2020-10-14 19:13:47",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 106
+        }
+    },
     "9-02VGg86N": {
         "id": "9-02VGg86N",
         "title": "Священная книга оборотня",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 177
-        }
-    },
-    "8C72ft1zsS": {
-        "id": "8C72ft1zsS",
-        "title": "Алхимик",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2020-10-08 12:05:34",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 71
         }
     }
 }
