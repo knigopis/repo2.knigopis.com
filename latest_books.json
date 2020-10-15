@@ -1,4 +1,16 @@
 {
+    "snfYnRhC0u": {
+        "id": "snfYnRhC0u",
+        "title": "Игра подсказчика",
+        "author": "Донато Карризи",
+        "notes": "",
+        "createdAt": "2020-10-15 18:25:44",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 110
+        }
+    },
     "qF9B-DgRTR": {
         "id": "qF9B-DgRTR",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 107
-        }
-    },
-    "mH6JTxCJbK": {
-        "id": "mH6JTxCJbK",
-        "title": "Трилогия «Первый Закон»",
-        "author": "Джо Аберкромби",
-        "notes": "Кровь и железо, Прежде чем их повесят, Последний довод королей",
-        "createdAt": "2020-10-08 19:03:01",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 106
         }
     }
 }

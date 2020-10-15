@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>110</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>220</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>122</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>63</sup> 
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>109</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
 
 
-_15.10.2020 17:49:38_
+_15.10.2020 18:25:44_
