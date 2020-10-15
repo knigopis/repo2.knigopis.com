@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нормальное аномальное 13. Дорогой несбывшихся снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>220</sup>
+    > Опять авторы забыли про встречу выпускников медиков. В этой книге говорят, что Саша пару лет не слышала и не интересовалась своим учителем гипноза. Но ведь они недавно встречались.. Короче, это параллельная реальность.
+
 * Священная книга оборотня ~ [anvonamore](users/595/5957175-vkontakte)<sup>145</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кто-то научился работать с астрелием, тем самым нарушив монополия адигенов. Следы приводят Помпилио на Тердан, но след не верный. Появляется новый игрок ,некий Гроссмейстер
 
 * Прошлое должно умереть (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>262</sup>
-    > Помпилио мстит Огнеделу
 
 * Нормальное аномальное 12. Дом безликих теней. ~ [Chiffi](users/105/105831994080785626680-google)<sup>219</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
 
-* Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>220</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>106</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>263</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>219</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>122</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>63</sup> 
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>391</sup> 
 
 
-_14.10.2020 19:13:47_
+_15.10.2020 16:18:32_
