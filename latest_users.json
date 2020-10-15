@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 107,
+        "updatedAt": "2020-10-15 17:49:38"
+    },
     "217125362-vkontakte": {
         "id": "217125362-vkontakte",
         "nickname": "ms.animary",
@@ -10,12 +16,6 @@
         "nickname": "Chiffi",
         "booksCount": 220,
         "updatedAt": "2020-10-15 16:18:32"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 106,
-        "updatedAt": "2020-10-14 19:13:47"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",

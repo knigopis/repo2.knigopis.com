@@ -1,4 +1,16 @@
 {
+    "qF9B-DgRTR": {
+        "id": "qF9B-DgRTR",
+        "title": "Собачье сердце",
+        "author": "Михаил Афанасьевич Булгаков",
+        "notes": "",
+        "createdAt": "2020-10-15 17:49:38",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 107
+        }
+    },
     "lfUCIRipHg": {
         "id": "lfUCIRipHg",
         "title": "Нормальное аномальное 13. Дорогой несбывшихся снов",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 106
-        }
-    },
-    "F_6qF7Z3HJ": {
-        "id": "F_6qF7Z3HJ",
-        "title": "Гении и аутсайдеры",
-        "author": "Малкольм Гладуелл",
-        "notes": "",
-        "createdAt": "2020-10-08 18:12:12",
-        "user": {
-            "id": "101246770249690626708-google",
-            "nickname": "bakhtiyor",
-            "booksCount": 1
         }
     }
 }
