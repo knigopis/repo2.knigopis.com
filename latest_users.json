@@ -1,4 +1,10 @@
 {
+    "217125362-vkontakte": {
+        "id": "217125362-vkontakte",
+        "nickname": "ms.animary",
+        "booksCount": 0,
+        "updatedAt": "2020-10-15 17:45:49"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 146,
         "updatedAt": "2020-10-03 15:44:24"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 391,
-        "updatedAt": "2020-10-02 07:53:59"
     }
 }
