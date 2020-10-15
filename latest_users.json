@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 41,
+        "updatedAt": "2020-10-15 22:30:25"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 80,
         "updatedAt": "2020-10-03 16:59:54"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 146,
-        "updatedAt": "2020-10-03 15:44:24"
     }
 }

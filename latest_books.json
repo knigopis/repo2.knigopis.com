@@ -1,4 +1,16 @@
 {
+    "4EnXOzRzzL": {
+        "id": "4EnXOzRzzL",
+        "title": "Понедельник начинается в субботу",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2020-10-15 22:30:25",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 41
+        }
+    },
     "snfYnRhC0u": {
         "id": "snfYnRhC0u",
         "title": "Игра подсказчика",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 108
-        }
-    },
-    "JDEYRQnE78": {
-        "id": "JDEYRQnE78",
-        "title": "Sapiens: Краткая история человечества",
-        "author": "Юваль Ной Харари",
-        "notes": "",
-        "createdAt": "2020-10-08 19:05:36",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 107
         }
     }
 }
