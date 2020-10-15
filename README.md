@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>220</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>106</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>820</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>391</sup> 
 
 
-_15.10.2020 16:18:32_
+_15.10.2020 17:45:50_
