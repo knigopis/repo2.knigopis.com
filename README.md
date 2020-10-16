@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нормальное аномальное 14. Иллюзии чистого холста. ~ [Chiffi](users/105/105831994080785626680-google)<sup>221</sup>
+    > Как обидно, что серия кончилась. Как хорошо, что серия хорошо кончилась. Буду ждать продолжение.
+
 * Нормальное аномальное 13. Дорогой несбывшихся снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>220</sup>
     > Опять авторы забыли про встречу выпускников медиков. В этой книге говорят, что Саша пару лет не слышала и не интересовалась своим учителем гипноза. Но ведь они недавно встречались.. Короче, это параллельная реальность.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Скопление неприятностей (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>263</sup>
-    > Кто-то научился работать с астрелием, тем самым нарушив монополия адигенов. Следы приводят Помпилио на Тердан, но след не верный. Появляется новый игрок ,некий Гроссмейстер
 
 * Прошлое должно умереть (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>262</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 *  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
 
-* Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>221</sup> 
 [](users/101/101012265752942145432-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>821</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>110</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>220</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>263</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>122</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>65</sup> 
 
 
-_16.10.2020 13:19:14_
+_16.10.2020 19:16:24_
