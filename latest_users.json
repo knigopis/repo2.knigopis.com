@@ -1,4 +1,10 @@
 {
+    "101012265752942145432-google": {
+        "id": "101012265752942145432-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-10-16 13:19:14"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 65,
         "updatedAt": "2020-10-05 14:34:25"
-    },
-    "219259003-vkontakte": {
-        "id": "219259003-vkontakte",
-        "nickname": "victoria_spilioti",
-        "booksCount": 80,
-        "updatedAt": "2020-10-03 16:59:54"
     }
 }
