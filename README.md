@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>821</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>110</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>91</sup> 
 [Fyriya](users/109/109038786800069495823-google)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>65</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>820</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup> 
 
 
-_15.10.2020 22:30:25_
+_16.10.2020 10:36:32_
