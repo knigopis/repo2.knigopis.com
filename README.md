@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>425</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>64</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>66</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>105</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 [](users/102/102518264971411177101-google)<sup>0</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>4</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>91</sup> 
 
 
-_17.10.2020 14:49:39_
+_17.10.2020 19:26:20_

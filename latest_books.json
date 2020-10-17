@@ -1,4 +1,16 @@
 {
+    "UIyCQ0W4s9": {
+        "id": "UIyCQ0W4s9",
+        "title": "Апельсинки",
+        "author": "Савельева, Ольга",
+        "notes": "",
+        "createdAt": "2020-10-17 19:26:19",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 425
+        }
+    },
     "666DMPHAIv": {
         "id": "666DMPHAIv",
         "title": "Последний трюк",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 61
-        }
-    },
-    "rVVVjiTf-X": {
-        "id": "rVVVjiTf-X",
-        "title": "",
-        "author": "Роберт Родригес",
-        "notes": "Вдохновляет",
-        "createdAt": "2020-10-09 16:15:05",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 50
         }
     }
 }

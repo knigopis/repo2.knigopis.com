@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": "Elixir",
+        "booksCount": 425,
+        "updatedAt": "2020-10-17 19:26:19"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Зелёный Ёж",
         "booksCount": 4,
         "updatedAt": "2020-10-07 01:43:36"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 91,
-        "updatedAt": "2020-10-06 20:24:21"
     }
 }
