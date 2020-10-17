@@ -1,4 +1,16 @@
 {
+    "vtqKluO407": {
+        "id": "vtqKluO407",
+        "title": "Пожирающая Серость",
+        "author": "Кристина Линн Эрман",
+        "notes": "",
+        "createdAt": "2020-10-17 09:24:05",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 105
+        }
+    },
     "Q2Z03haKRH": {
         "id": "Q2Z03haKRH",
         "title": "Притяжение сверхмарафона",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 139
-        }
-    },
-    "B1lI2V_ENQ": {
-        "id": "B1lI2V_ENQ",
-        "title": "23000",
-        "author": "Владимир Сорокин",
-        "notes": "",
-        "createdAt": "2020-10-09 04:17:14",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 225
         }
     }
 }

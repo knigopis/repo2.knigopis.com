@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>104</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>105</sup>
 ---
 
 ## 2020
+
+### Пожирающая Серость
+Кристина Линн Эрман
+> [2020-10-16] 
+
 
 ### Сказки о воображаемых чудесах
 Эллен Датлоу

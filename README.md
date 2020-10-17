@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>105</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>221</sup> 
 [](users/101/101012265752942145432-google)<sup>0</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 [](users/102/102518264971411177101-google)<sup>0</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>104</sup> 
 [Зелёный Ёж](users/114/114314396404197072995-google)<sup>4</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>91</sup> 
 [Fyriya](users/109/109038786800069495823-google)<sup>4</sup> 
 
 
-_17.10.2020 07:30:43_
+_17.10.2020 09:24:05_
