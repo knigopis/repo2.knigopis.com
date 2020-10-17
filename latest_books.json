@@ -1,4 +1,16 @@
 {
+    "lg6clorwAj": {
+        "id": "lg6clorwAj",
+        "title": "Тень горы",
+        "author": "Г. Робертс",
+        "notes": "",
+        "createdAt": "2020-10-17 14:48:50",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 66
+        }
+    },
     "vtqKluO407": {
         "id": "vtqKluO407",
         "title": "Пожирающая Серость",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 121
-        }
-    },
-    "wPq6RktBbW": {
-        "id": "wPq6RktBbW",
-        "title": "Счастливая Россия",
-        "author": "Акунин Борис",
-        "notes": "",
-        "createdAt": "2020-10-09 08:22:48",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 139
         }
     }
 }
