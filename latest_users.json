@@ -1,4 +1,10 @@
 {
+    "9478325038588396490-mailru": {
+        "id": "9478325038588396490-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-10-18 07:32:30"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-10-07 14:15:36"
-    },
-    "114314396404197072995-google": {
-        "id": "114314396404197072995-google",
-        "nickname": "Зелёный Ёж",
-        "booksCount": 4,
-        "updatedAt": "2020-10-07 01:43:36"
     }
 }
