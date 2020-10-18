@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отныне и вовек ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>52</sup>
+    > В книгу вошли повести "Где-то играет оркестр" и "Левиафан-99"
+    > 
+    > Бог тянется к звёздам. Вы - Его рука.
+    > 
+    > Беги, малыш, сказал бы я ему в том далёком мире. Взведи пружину дня, запусти радость на полную катушку. О, познай восторг. А на меня не оглядывайся. Мне жить в ночи.
+
 * Нормальное аномальное 14. Иллюзии чистого холста. ~ [Chiffi](users/105/105831994080785626680-google)<sup>221</sup>
     > Как обидно, что серия кончилась. Как хорошо, что серия хорошо кончилась. Буду ждать продолжение.
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Опять авторы забыли про встречу выпускников медиков. В этой книге говорят, что Саша пару лет не слышала и не интересовалась своим учителем гипноза. Но ведь они недавно встречались.. Короче, это параллельная реальность.
 
 * Священная книга оборотня ~ [anvonamore](users/595/5957175-vkontakte)<sup>145</sup>
-    > 7/10
 
 * Скопление неприятностей (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>263</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Код женщины ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 
-*  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>52</sup> 
 [](users/947/9478325038588396490-mailru)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>425</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>64</sup> 
@@ -62,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bakhtiyor](users/101/101246770249690626708-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
-[](users/102/102518264971411177101-google)<sup>0</sup> 
 
 
-_18.10.2020 07:32:31_
+_18.10.2020 11:54:38_
