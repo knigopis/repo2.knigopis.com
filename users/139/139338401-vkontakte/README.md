@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>91</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>92</sup>
 ---
 
 ## 2020
+
+### Изгои
+С.Э.Хинтон
+> [2020-10-18] 
+
 
 ### Маленькие женщины
 Луиза Мэй Олкотт

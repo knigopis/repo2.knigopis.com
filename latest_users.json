@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 92,
+        "updatedAt": "2020-10-18 16:12:49"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 177,
         "updatedAt": "2020-10-08 15:29:57"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 71,
-        "updatedAt": "2020-10-08 12:05:34"
     }
 }

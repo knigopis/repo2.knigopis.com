@@ -1,4 +1,16 @@
 {
+    "bnzNq89UD-": {
+        "id": "bnzNq89UD-",
+        "title": "Изгои",
+        "author": "С.Э.Хинтон",
+        "notes": "",
+        "createdAt": "2020-10-18 16:12:49",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 92
+        }
+    },
     "902_FYMvqQ": {
         "id": "902_FYMvqQ",
         "title": "Под знаком Близнецов",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 108
-        }
-    },
-    "jQ1aR8Ai3B": {
-        "id": "jQ1aR8Ai3B",
-        "title": "Нормальное аномальное 9. Город засыпает просыпается мафия.",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "",
-        "createdAt": "2020-10-09 19:59:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 216
         }
     }
 }

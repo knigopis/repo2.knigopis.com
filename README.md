@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup> 
 [](users/947/9478325038588396490-mailru)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>425</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
 [bakhtiyor](users/101/101246770249690626708-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>177</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 
 
-_18.10.2020 12:34:37_
+_18.10.2020 16:12:49_
