@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Отныне и вовек ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>52</sup>
+* Отныне и вовек ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
     > В книгу вошли повести "Где-то играет оркестр" и "Левиафан-99"
     > 
     > Бог тянется к звёздам. Вы - Его рука.
@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>52</sup> 
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup> 
 [](users/947/9478325038588396490-mailru)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>425</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>64</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 
 
-_18.10.2020 11:54:38_
+_18.10.2020 11:56:10_
