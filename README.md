@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>106</sup> 
 [Антое](users/577/57776720-vkontakte)<sup>2</sup> 
 [Татьяна Клевитова](users/103/103833277292487584186-googleplus)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>425</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>64</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>66</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>105</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>221</sup> 
 [](users/101/101012265752942145432-google)<sup>0</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
 
 
-_19.10.2020 17:13:18_
+_19.10.2020 19:41:16_

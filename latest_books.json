@@ -1,4 +1,16 @@
 {
+    "1d0AdV8ClR": {
+        "id": "1d0AdV8ClR",
+        "title": "Маленький принц",
+        "author": "Антуан Де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2020-10-19 19:41:16",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 106
+        }
+    },
     "DIfJraJDQi": {
         "id": "DIfJraJDQi",
         "title": "Герберт Уэлс",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 11
-        }
-    },
-    "zWX8TI5DOZ": {
-        "id": "zWX8TI5DOZ",
-        "title": "Нормальное аномальное 10. Призраки белых ночей",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "",
-        "createdAt": "2020-10-11 06:01:17",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 217
         }
     }
 }

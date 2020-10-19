@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>105</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>106</sup>
 ---
 
 ## 2020
+
+### Маленький принц
+Антуан Де Сент-Экзюпери
+> [2020-10-18] 
+
 
 ### Пожирающая Серость
 Кристина Линн Эрман
