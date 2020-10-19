@@ -1,4 +1,10 @@
 {
+    "103833277292487584186-googleplus": {
+        "id": "103833277292487584186-googleplus",
+        "nickname": "Татьяна Клевитова",
+        "booksCount": 0,
+        "updatedAt": "2020-10-19 10:59:47"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -172,11 +178,5 @@
         "nickname": "bakhtiyor",
         "booksCount": 1,
         "updatedAt": "2020-10-08 18:12:12"
-    },
-    "118049897850017649660-googleplus": {
-        "id": "118049897850017649660-googleplus",
-        "nickname": "Sky",
-        "booksCount": 177,
-        "updatedAt": "2020-10-08 15:29:57"
     }
 }
