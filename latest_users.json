@@ -1,4 +1,10 @@
 {
+    "57776720-vkontakte": {
+        "id": "57776720-vkontakte",
+        "nickname": "Антое",
+        "booksCount": 0,
+        "updatedAt": "2020-10-19 17:03:07"
+    },
     "103833277292487584186-googleplus": {
         "id": "103833277292487584186-googleplus",
         "nickname": "Татьяна Клевитова",
@@ -172,11 +178,5 @@
         "nickname": "Shinomori.Aoshi",
         "booksCount": 0,
         "updatedAt": "2020-10-08 18:39:06"
-    },
-    "101246770249690626708-google": {
-        "id": "101246770249690626708-google",
-        "nickname": "bakhtiyor",
-        "booksCount": 1,
-        "updatedAt": "2020-10-08 18:12:12"
     }
 }
