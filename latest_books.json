@@ -1,4 +1,16 @@
 {
+    "ia0CLtsFkG": {
+        "id": "ia0CLtsFkG",
+        "title": "Дерьмо",
+        "author": "Ирвин Уэлш",
+        "notes": "",
+        "createdAt": "2020-10-20 14:04:56",
+        "user": {
+            "id": "57776720-vkontakte",
+            "nickname": "Антое",
+            "booksCount": 5
+        }
+    },
     "zjG3cl7GuR": {
         "id": "zjG3cl7GuR",
         "title": "Шантарам",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 218
-        }
-    },
-    "_PSp0sCtIf": {
-        "id": "_PSp0sCtIf",
-        "title": "Самурай без меча",
-        "author": "Китами Масао",
-        "notes": "в процессе",
-        "createdAt": "2020-10-11 20:12:03",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 244
         }
     }
 }
