@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>321</sup> 
 [Антое](users/577/57776720-vkontakte)<sup>6</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>106</sup> 
 [Татьяна Клевитова](users/103/103833277292487584186-googleplus)<sup>0</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>225</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>65</sup> 
-[Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
 
 
-_20.10.2020 14:06:12_
+_20.10.2020 18:12:51_

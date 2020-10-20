@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 321,
+        "updatedAt": "2020-10-20 18:12:51"
+    },
     "57776720-vkontakte": {
         "id": "57776720-vkontakte",
         "nickname": "Антое",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 65,
         "updatedAt": "2020-10-08 20:18:50"
-    },
-    "94290939-yandex": {
-        "id": "94290939-yandex",
-        "nickname": "Shinomori.Aoshi",
-        "booksCount": 0,
-        "updatedAt": "2020-10-08 18:39:06"
     }
 }
