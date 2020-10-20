@@ -1,4 +1,16 @@
 {
+    "GVa3Kr1eDA": {
+        "id": "GVa3Kr1eDA",
+        "title": "Путешествие к центру земли",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2020-10-20 14:06:12",
+        "user": {
+            "id": "57776720-vkontakte",
+            "nickname": "Антое",
+            "booksCount": 6
+        }
+    },
     "ia0CLtsFkG": {
         "id": "ia0CLtsFkG",
         "title": "Дерьмо",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 109
-        }
-    },
-    "kKVV7IBAYk": {
-        "id": "kKVV7IBAYk",
-        "title": "Нормальное аномальное 11. Холод туманного замка.",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "",
-        "createdAt": "2020-10-12 18:18:43",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 218
         }
     }
 }

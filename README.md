@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Антое](users/577/57776720-vkontakte)<sup>5</sup> 
+[Антое](users/577/57776720-vkontakte)<sup>6</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>106</sup> 
 [Татьяна Клевитова](users/103/103833277292487584186-googleplus)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinomori.Aoshi](users/942/94290939-yandex)<sup>0</sup> 
 
 
-_20.10.2020 14:04:56_
+_20.10.2020 14:06:12_
