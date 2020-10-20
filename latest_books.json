@@ -1,4 +1,16 @@
 {
+    "wHSEmDRPgk": {
+        "id": "wHSEmDRPgk",
+        "title": "Тело дрянь. Донесения с фронта (и из тыла)",
+        "author": "Мара Олтман",
+        "notes": "",
+        "createdAt": "2020-10-20 20:27:29",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 111
+        }
+    },
     "Wl6xQh6P3U": {
         "id": "Wl6xQh6P3U",
         "title": "Жена в наследство",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 63
-        }
-    },
-    "ct41EDuEN1": {
-        "id": "ct41EDuEN1",
-        "title": "Жить",
-        "author": "Мария Метлицкая",
-        "notes": "",
-        "createdAt": "2020-10-12 19:23:07",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 109
         }
     }
 }

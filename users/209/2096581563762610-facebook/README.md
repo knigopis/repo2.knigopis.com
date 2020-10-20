@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>110</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>111</sup>
 ---
 
 ## 2020
+
+### Тело дрянь. Донесения с фронта (и из тыла)
+Мара Олтман
+> [2020-10-20] 
+
 
 ### Игра подсказчика
 Донато Карризи

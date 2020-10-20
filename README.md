@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>111</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>322</sup> 
 [Антое](users/577/57776720-vkontakte)<sup>6</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>106</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101012265752942145432-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>821</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>110</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>65</sup> 
 
 
-_20.10.2020 18:13:37_
+_20.10.2020 20:27:29_
