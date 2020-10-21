@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>226</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
 [](users/251/251583481-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>111</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 [](users/106/106383650641170242772-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>50</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>139</sup> 
 
 
-_21.10.2020 07:19:25_
+_21.10.2020 12:24:14_

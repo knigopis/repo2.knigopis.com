@@ -1,4 +1,16 @@
 {
+    "O3-VCNr64L": {
+        "id": "O3-VCNr64L",
+        "title": "Empire V",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2020-10-21 12:24:14",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 226
+        }
+    },
     "wHSEmDRPgk": {
         "id": "wHSEmDRPgk",
         "title": "Тело дрянь. Донесения с фронта (и из тыла)",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 122
-        }
-    },
-    "RgJ-C-iGLC": {
-        "id": "RgJ-C-iGLC",
-        "title": "Убийца королевы",
-        "author": "Себастьян де Кастелл",
-        "notes": "",
-        "createdAt": "2020-10-13 02:38:51",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 63
         }
     }
 }
