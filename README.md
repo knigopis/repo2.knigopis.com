@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/251/251583481-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>111</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>322</sup> 
 [Антое](users/577/57776720-vkontakte)<sup>6</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>50</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>225</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>65</sup> 
 
 
-_20.10.2020 20:27:29_
+_21.10.2020 05:35:50_
