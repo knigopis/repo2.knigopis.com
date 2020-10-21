@@ -1,4 +1,16 @@
 {
+    "QcEuf48vnh": {
+        "id": "QcEuf48vnh",
+        "title": "Над пропастью во ржи",
+        "author": "Сэллинджер",
+        "notes": "",
+        "createdAt": "2020-10-21 12:33:12",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 20
+        }
+    },
     "O3-VCNr64L": {
         "id": "O3-VCNr64L",
         "title": "Empire V",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 219
-        }
-    },
-    "ryxgZzCxy_": {
-        "id": "ryxgZzCxy_",
-        "title": "Куколки",
-        "author": "Джон Уиндем",
-        "notes": "",
-        "createdAt": "2020-10-13 13:23:53",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 122
         }
     }
 }

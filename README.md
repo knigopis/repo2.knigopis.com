@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>20</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>226</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
 [](users/251/251583481-vkontakte)<sup>0</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 [](users/106/106383650641170242772-google)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>50</sup> 
 
 
-_21.10.2020 12:24:14_
+_21.10.2020 12:33:12_
