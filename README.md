@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>822</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>226</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106383650641170242772-google)<sup>0</sup> 
 
 
-_21.10.2020 19:31:39_
+_21.10.2020 19:50:14_

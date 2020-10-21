@@ -1,4 +1,16 @@
 {
+    "A8DQ99dthY": {
+        "id": "A8DQ99dthY",
+        "title": "Письмо в бутылке",
+        "author": "Хулио Кортасар",
+        "notes": "",
+        "createdAt": "2020-10-21 19:50:14",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 823
+        }
+    },
     "03NeMEly4z": {
         "id": "03NeMEly4z",
         "title": "Как работать по четыре часа в неделю",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 106
-        }
-    },
-    "9-02VGg86N": {
-        "id": "9-02VGg86N",
-        "title": "Священная книга оборотня",
-        "author": "Виктор Пелевин",
-        "notes": "7/10",
-        "createdAt": "2020-10-14 18:39:01",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 145
         }
     }
 }
