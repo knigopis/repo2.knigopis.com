@@ -1,4 +1,10 @@
 {
+    "251583481-vkontakte": {
+        "id": "251583481-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-10-21 05:35:49"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 225,
         "updatedAt": "2020-10-09 04:17:14"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 65,
-        "updatedAt": "2020-10-08 20:18:50"
     }
 }
