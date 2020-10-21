@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 822,
+        "updatedAt": "2020-10-21 19:31:39"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -106,12 +112,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-10-16 13:19:14"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 821,
-        "updatedAt": "2020-10-16 10:36:32"
     },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",

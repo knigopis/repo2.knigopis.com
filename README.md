@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>822</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>226</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>221</sup> 
 [](users/101/101012265752942145432-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>821</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106383650641170242772-google)<sup>0</sup> 
 
 
-_21.10.2020 12:34:19_
+_21.10.2020 19:31:39_
