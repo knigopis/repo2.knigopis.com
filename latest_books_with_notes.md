@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пусть меня осудят ~ [Йолант](users/104/104690883692185089260-google)<sup>225</sup>
 * Греческий огонь ~ [Йолант](users/104/104690883692185089260-google)<sup>224</sup>
 * Кадеты Точка Ру ~ [Йолант](users/104/104690883692185089260-google)<sup>223</sup>
 * Под знаком Близнецов ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Кайдзен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>242</sup>
 * Лествица ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>241</sup>
 * Имя зверя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup>
-* 4 с половиной шага ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>144</sup>
 
 
-_22.10.2020 06:49:18_
+_22.10.2020 06:52:05_
