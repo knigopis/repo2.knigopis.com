@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>237</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>238</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>226</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 
 
-_22.10.2020 07:04:13_
+_22.10.2020 07:07:21_

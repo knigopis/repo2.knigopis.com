@@ -1,4 +1,16 @@
 {
+    "o3eU5QaYZz": {
+        "id": "o3eU5QaYZz",
+        "title": "Иллюстрированный ключ к таро",
+        "author": "Артур Уэйт",
+        "notes": "",
+        "createdAt": "2020-10-22 07:07:21",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 238
+        }
+    },
     "FhM4ORHdsr": {
         "id": "FhM4ORHdsr",
         "title": "Гарри Поттер и дары смерти",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 106
-        }
-    },
-    "DIfJraJDQi": {
-        "id": "DIfJraJDQi",
-        "title": "Герберт Уэлс",
-        "author": "Человек-невидимка",
-        "notes": "Фильм о страсти человека к признанию и власти и о том,как пагубно это может на него повлиять.",
-        "createdAt": "2020-10-19 17:13:18",
-        "user": {
-            "id": "57776720-vkontakte",
-            "nickname": "Антое",
-            "booksCount": 2
         }
     }
 }
