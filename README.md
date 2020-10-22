@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пусть любить тебя будет больно ~ [Йолант](users/104/104690883692185089260-google)<sup>226</sup>
+    > Продолжение эротического мусора. Читано из упряства
+
 * Пусть меня осудят ~ [Йолант](users/104/104690883692185089260-google)<sup>225</sup>
     > Эротический мусор с элементами триллера и детектива. Читано ради смеха
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Следовало бы слить с кадетами. Окончание театра абсурда
 
 * Кадеты Точка Ру ~ [Йолант](users/104/104690883692185089260-google)<sup>223</sup>
-    > Продолжалось чтение ради веселья
 
 * Под знаком Близнецов ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Скопление неприятностей (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>263</sup>
 
-* Прошлое должно умереть (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>262</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>225</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>226</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>226</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 
 
-_22.10.2020 06:52:05_
+_22.10.2020 06:52:54_
