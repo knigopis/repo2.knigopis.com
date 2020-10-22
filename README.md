@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кадеты Точка Ру ~ [Йолант](users/104/104690883692185089260-google)<sup>223</sup>
+    > Продолжалось чтение ради веселья
+
 * Под знаком Близнецов ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
     > ISBN 978-5-389-17898-4
     > "Я так ясно вижу, как ты, устав, ввечеру садишься один к огню..." (из песни Ольги Макеевой)
@@ -21,7 +24,6 @@ Do not use pull requests to make changes here.
     > Беги, малыш, сказал бы я ему в том далёком мире. Взведи пружину дня, запусти радость на полную катушку. О, познай восторг. А на меня не оглядывайся. Мне жить в ночи.
 
 * Нормальное аномальное 14. Иллюзии чистого холста. ~ [Chiffi](users/105/105831994080785626680-google)<sup>221</sup>
-    > Как обидно, что серия кончилась. Как хорошо, что серия хорошо кончилась. Буду ждать продолжение.
 
 * Нормальное аномальное 13. Дорогой несбывшихся снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>220</sup>
 
@@ -35,14 +37,12 @@ Do not use pull requests to make changes here.
 
 * Самурай без меча ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup>
 
-* Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>222</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>223</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>226</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 
 
-_22.10.2020 06:45:33_
+_22.10.2020 06:48:31_

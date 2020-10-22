@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кадеты Точка Ру ~ [Йолант](users/104/104690883692185089260-google)<sup>223</sup>
 * Под знаком Близнецов ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
 * Отныне и вовек ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
 * Нормальное аномальное 14. Иллюзии чистого холста. ~ [Chiffi](users/105/105831994080785626680-google)<sup>221</sup>
@@ -30,7 +31,6 @@
 * Имя зверя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>145</sup>
 * 4 с половиной шага ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>144</sup>
 * Нормальное аномальное 3. Тишина старого кладбища. ~ [Chiffi](users/105/105831994080785626680-google)<sup>210</sup>
-* Положение человека в Космосе ~ [Rainbow](users/109/109787328219839805802-google)<sup>62</sup>
 
 
-_18.10.2020 12:34:37_
+_22.10.2020 06:48:31_
