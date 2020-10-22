@@ -1,4 +1,16 @@
 {
+    "7v6j-8eOnr": {
+        "id": "7v6j-8eOnr",
+        "title": "Милкино счастье",
+        "author": "Лана Ланитова",
+        "notes": "Внезапно эротический роман, превосходящий Глашу по многим пунктам. Удивлён - не ожидал.",
+        "createdAt": "2020-10-22 06:56:30",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 229
+        }
+    },
     "-hSV89yBS3": {
         "id": "-hSV89yBS3",
         "title": "Глаша",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 105
-        }
-    },
-    "Q2Z03haKRH": {
-        "id": "Q2Z03haKRH",
-        "title": "Притяжение сверхмарафона",
-        "author": "Максим Воробьев",
-        "notes": "",
-        "createdAt": "2020-10-17 07:30:43",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 392
         }
     }
 }

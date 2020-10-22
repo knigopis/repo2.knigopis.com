@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Милкино счастье ~ [Йолант](users/104/104690883692185089260-google)<sup>229</sup>
+    > Внезапно эротический роман, превосходящий Глашу по многим пунктам. Удивлён - не ожидал.
+
 * Глаша ~ [Йолант](users/104/104690883692185089260-google)<sup>228</sup>
     > Эротический роман плохого качества
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Окончание эротического мусора. Прочитано не до конца - бред
 
 * Пусть любить тебя будет больно ~ [Йолант](users/104/104690883692185089260-google)<sup>226</sup>
-    > Продолжение эротического мусора. Читано из упряства
 
 * Пусть меня осудят ~ [Йолант](users/104/104690883692185089260-google)<sup>225</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Нормальное аномальное 14. Иллюзии чистого холста. ~ [Chiffi](users/105/105831994080785626680-google)<sup>221</sup>
 
-* Нормальное аномальное 13. Дорогой несбывшихся снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>220</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>228</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>229</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>226</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 
 
-_22.10.2020 06:54:45_
+_22.10.2020 06:56:30_
