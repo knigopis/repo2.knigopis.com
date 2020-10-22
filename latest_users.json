@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 227,
+        "updatedAt": "2020-10-22 10:20:37"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -16,12 +22,6 @@
         "nickname": "Артур Вольнов",
         "booksCount": 22,
         "updatedAt": "2020-10-21 12:34:19"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 226,
-        "updatedAt": "2020-10-21 12:24:14"
     },
     "231667059-vkontakte": {
         "id": "231667059-vkontakte",

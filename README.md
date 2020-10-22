@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>227</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>238</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>226</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
 [](users/251/251583481-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>111</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 
 
-_22.10.2020 07:07:21_
+_22.10.2020 10:20:37_
