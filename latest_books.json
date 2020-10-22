@@ -1,4 +1,16 @@
 {
+    "sxYBlXf7VC": {
+        "id": "sxYBlXf7VC",
+        "title": "Пусть простить меня невозможно",
+        "author": "Ульяна Соболева",
+        "notes": "Окончание эротического мусора. Прочитано не до конца - бред",
+        "createdAt": "2020-10-22 06:54:04",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 227
+        }
+    },
     "k4MCtIUK5P": {
         "id": "k4MCtIUK5P",
         "title": "Пусть любить тебя будет больно",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 221
-        }
-    },
-    "ESPAur89nO": {
-        "id": "ESPAur89nO",
-        "title": "Психологическое айкидо",
-        "author": "Михаил Литвак",
-        "notes": "",
-        "createdAt": "2020-10-16 10:36:32",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 821
         }
     }
 }
