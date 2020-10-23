@@ -1,4 +1,16 @@
 {
+    "gFNqdGK9js": {
+        "id": "gFNqdGK9js",
+        "title": "Этикет для юной леди",
+        "author": "Бриджес, Кертис",
+        "notes": "",
+        "createdAt": "2020-10-23 23:09:28",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 268
+        }
+    },
     "4EfuwLIkJ4": {
         "id": "4EfuwLIkJ4",
         "title": "Секреты моей мамы. Энциклопедия взрослых тайн для девочек",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 239
-        }
-    },
-    "A7ywnAtvSg": {
-        "id": "A7ywnAtvSg",
-        "title": "Три версии нас",
-        "author": "Лора Барнетт",
-        "notes": "",
-        "createdAt": "2020-10-23 21:29:09",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 112
         }
     }
 }
