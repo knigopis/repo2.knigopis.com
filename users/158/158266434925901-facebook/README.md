@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>122</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>123</sup>
 ---
 
 ## 2020
+
+### Синяя лилия, лилия Блу
+Мэгги Стивотер
+> [2020-10-23] 
+
 
 ### Куколки
 Джон Уиндем

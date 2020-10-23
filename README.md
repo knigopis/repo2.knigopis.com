@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>123</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>190</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>140</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>227</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>263</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>122</sup> 
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 
 
-_23.10.2020 08:09:46_
+_23.10.2020 13:41:53_

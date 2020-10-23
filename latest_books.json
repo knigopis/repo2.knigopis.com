@@ -1,4 +1,16 @@
 {
+    "bmM0XkTqnt": {
+        "id": "bmM0XkTqnt",
+        "title": "Синяя лилия, лилия Блу",
+        "author": "Мэгги Стивотер",
+        "notes": "",
+        "createdAt": "2020-10-23 13:41:53",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 123
+        }
+    },
     "F3kPpDXQc6": {
         "id": "F3kPpDXQc6",
         "title": "Восток",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 226
-        }
-    },
-    "wHSEmDRPgk": {
-        "id": "wHSEmDRPgk",
-        "title": "Тело дрянь. Донесения с фронта (и из тыла)",
-        "author": "Мара Олтман",
-        "notes": "",
-        "createdAt": "2020-10-20 20:27:29",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 111
         }
     }
 }
