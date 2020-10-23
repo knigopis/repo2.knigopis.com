@@ -1,4 +1,16 @@
 {
+    "sVWkpQBdLV": {
+        "id": "sVWkpQBdLV",
+        "title": "Смертельная белизна.",
+        "author": "Гэлбрейт Роберт",
+        "notes": "Хороший детектив, интересный сюжет, хороший язык",
+        "createdAt": "2020-10-23 17:57:07",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 222
+        }
+    },
     "EEdczqUuz2": {
         "id": "EEdczqUuz2",
         "title": "Disunited Nations: The Scramble for Power in an Ungoverned World",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 146
-        }
-    },
-    "anKBGXT1Tk": {
-        "id": "anKBGXT1Tk",
-        "title": "Нормальное аномальное 5. Проклятие пражской синагоги.",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "Чем дольше читаю, тем больше затягивает.",
-        "createdAt": "2020-10-01 17:45:29",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 212
         }
     }
 }

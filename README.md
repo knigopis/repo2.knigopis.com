@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
+    > Хороший детектив, интересный сюжет, хороший язык
+
 * Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
     > ASIN : B07RB1HMRM
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Удивительно интересная штука для тех, кто соприкасается с ролевой тусовкой хоть сколько-нибудь. Заставляет много думать
 
 * Милкино счастье ~ [Йолант](users/104/104690883692185089260-google)<sup>229</sup>
-    > Внезапно эротический роман, превосходящий Глашу по многим пунктам. Удивлён - не ожидал.
 
 * Глаша ~ [Йолант](users/104/104690883692185089260-google)<sup>228</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кадеты Точка Ру ~ [Йолант](users/104/104690883692185089260-google)<sup>223</sup>
 
-* Под знаком Близнецов ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>123</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>190</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>140</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>64</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>66</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>221</sup> 
 [](users/101/101012265752942145432-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 
 
-_23.10.2020 13:41:53_
+_23.10.2020 17:57:07_
