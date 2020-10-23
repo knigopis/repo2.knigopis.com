@@ -1,4 +1,16 @@
 {
+    "i0LvwG4pvB": {
+        "id": "i0LvwG4pvB",
+        "title": "Юный дрессировщик",
+        "author": "Лидия Острецова",
+        "notes": "",
+        "createdAt": "2020-10-23 23:05:55",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 265
+        }
+    },
     "vPyMsX7dqO": {
         "id": "vPyMsX7dqO",
         "title": "Чудеса в решете или Калинкина школа",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 222
-        }
-    },
-    "bmM0XkTqnt": {
-        "id": "bmM0XkTqnt",
-        "title": "Синяя лилия, лилия Блу",
-        "author": "Мэгги Стивотер",
-        "notes": "",
-        "createdAt": "2020-10-23 13:41:53",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 123
         }
     }
 }
