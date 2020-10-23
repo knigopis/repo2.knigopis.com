@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
+    > ASIN : B07RB1HMRM
+
 * Повесть о каменном хлебе ~ [Йолант](users/104/104690883692185089260-google)<sup>230</sup>
     > Удивительно интересная штука для тех, кто соприкасается с ролевой тусовкой хоть сколько-нибудь. Заставляет много думать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Внезапно эротический роман, превосходящий Глашу по многим пунктам. Удивлён - не ожидал.
 
 * Глаша ~ [Йолант](users/104/104690883692185089260-google)<sup>228</sup>
-    > Эротический роман плохого качества
 
 * Пусть простить меня невозможно ~ [Йолант](users/104/104690883692185089260-google)<sup>227</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Под знаком Близнецов ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
 
-* Отныне и вовек ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>140</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>227</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>238</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup> 
-[Len4e91](users/254/254448176-yandex)<sup>11</sup> 
 
 
-_22.10.2020 10:20:37_
+_23.10.2020 06:44:44_

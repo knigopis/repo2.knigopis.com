@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>139</sup>
+# Список прочитанных книг пользователя exulted<sup>140</sup>
 ---
 
 ## 2020
+
+### Disunited Nations: The Scramble for Power in an Ungoverned World
+Peter Zeihan
+> [2020-10-21] ASIN : B07RB1HMRM
+
 
 ### Счастливая Россия
 Акунин Борис

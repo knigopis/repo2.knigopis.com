@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
 * Повесть о каменном хлебе ~ [Йолант](users/104/104690883692185089260-google)<sup>230</sup>
 * Милкино счастье ~ [Йолант](users/104/104690883692185089260-google)<sup>229</sup>
 * Глаша ~ [Йолант](users/104/104690883692185089260-google)<sup>228</sup>
@@ -30,7 +31,6 @@
 * Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
 * Хроника одной голодовки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>146</sup>
 * Нормальное аномальное 5. Проклятие пражской синагоги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>212</sup>
-* Поступь хаоса ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>119</sup>
 
 
-_22.10.2020 06:58:37_
+_23.10.2020 06:44:44_
