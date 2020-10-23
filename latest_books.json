@@ -1,4 +1,16 @@
 {
+    "vD8Hpkj5TF": {
+        "id": "vD8Hpkj5TF",
+        "title": "Записки сексолога",
+        "author": "Лев Щеглов",
+        "notes": "",
+        "createdAt": "2020-10-23 23:03:04",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 262
+        }
+    },
     "SEqyB75SMn": {
         "id": "SEqyB75SMn",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 189
-        }
-    },
-    "HZWaxqfl9u": {
-        "id": "HZWaxqfl9u",
-        "title": "Ководство",
-        "author": "Артемий Лебедев",
-        "notes": "",
-        "createdAt": "2020-10-23 08:05:34",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 188
         }
     }
 }
