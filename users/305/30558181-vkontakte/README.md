@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>187</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>188</sup>
 ---
 
 ## 2020
+
+### Ководство
+Артемий Лебедев
+> [2020-06-20] 
+
 
 ### Джейн Эйр
 Шарлотта Бронте

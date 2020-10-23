@@ -1,4 +1,16 @@
 {
+    "HZWaxqfl9u": {
+        "id": "HZWaxqfl9u",
+        "title": "Ководство",
+        "author": "Артемий Лебедев",
+        "notes": "",
+        "createdAt": "2020-10-23 08:05:34",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 188
+        }
+    },
     "euIst3NKWW": {
         "id": "euIst3NKWW",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "57776720-vkontakte",
             "nickname": "Антое",
             "booksCount": 6
-        }
-    },
-    "ia0CLtsFkG": {
-        "id": "ia0CLtsFkG",
-        "title": "Дерьмо",
-        "author": "Ирвин Уэлш",
-        "notes": "",
-        "createdAt": "2020-10-20 14:04:56",
-        "user": {
-            "id": "57776720-vkontakte",
-            "nickname": "Антое",
-            "booksCount": 5
         }
     }
 }
