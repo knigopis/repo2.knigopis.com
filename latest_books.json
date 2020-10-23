@@ -1,4 +1,16 @@
 {
+    "HFOXfOyYJB": {
+        "id": "HFOXfOyYJB",
+        "title": "Третий способ",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2020-10-23 22:46:58",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 258
+        }
+    },
     "v8T9zH3wit": {
         "id": "v8T9zH3wit",
         "title": "Пасхальный парад",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 227
-        }
-    },
-    "o3eU5QaYZz": {
-        "id": "o3eU5QaYZz",
-        "title": "Иллюстрированный ключ к таро",
-        "author": "Артур Уэйт",
-        "notes": "",
-        "createdAt": "2020-10-22 07:07:21",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 238
         }
     }
 }
