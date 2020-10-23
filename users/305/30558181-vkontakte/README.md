@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>189</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>190</sup>
 ---
 
 ## 2020
+
+### Восток
+Эдит Патту
+> [2020-07-27] 
+
 
 ### Модульные сетки в графическом дизайне
 Йозеф Мюллер-Брокманн

@@ -1,4 +1,16 @@
 {
+    "F3kPpDXQc6": {
+        "id": "F3kPpDXQc6",
+        "title": "Восток",
+        "author": "Эдит Патту",
+        "notes": "",
+        "createdAt": "2020-10-23 08:09:46",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 190
+        }
+    },
     "lGwnBiyoQ9": {
         "id": "lGwnBiyoQ9",
         "title": "Модульные сетки в графическом дизайне",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 111
-        }
-    },
-    "Wl6xQh6P3U": {
-        "id": "Wl6xQh6P3U",
-        "title": "Жена в наследство",
-        "author": "Елена Счастная",
-        "notes": "",
-        "createdAt": "2020-10-20 18:13:37",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 322
         }
     }
 }
