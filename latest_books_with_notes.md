@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия домашних волшебников ~ [Йолант](users/104/104690883692185089260-google)<sup>263</sup>
 * Серафим Саровский. Духовные наставления и пророчества ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup>
 * Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
 * Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
@@ -30,7 +31,6 @@
 * Our Man in Havana ~ [exulted](users/100/100599204551896265722-google)<sup>138</sup>
 * Повелитель мух ~ [Rainbow](users/109/109787328219839805802-google)<sup>63</sup>
 * Нормальное аномальное 7. Город мертвый отражений ~ [Chiffi](users/105/105831994080785626680-google)<sup>214</sup>
-* Русские предприниматели. Двигатели прогресса ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>80</sup>
 
 
-_23.10.2020 19:09:09_
+_23.10.2020 23:04:19_

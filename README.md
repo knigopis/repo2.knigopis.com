@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия домашних волшебников ~ [Йолант](users/104/104690883692185089260-google)<sup>263</sup>
+    > Перечитана книга из детства
+
 * Серафим Саровский. Духовные наставления и пророчества ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хороший детектив, интересный сюжет, хороший язык
 
 * Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
-    > ASIN : B07RB1HMRM
 
 * Повесть о каменном хлебе ~ [Йолант](users/104/104690883692185089260-google)<sup>230</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пусть меня осудят ~ [Йолант](users/104/104690883692185089260-google)<sup>225</sup>
 
-* Греческий огонь ~ [Йолант](users/104/104690883692185089260-google)<sup>224</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>262</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>263</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>112</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 
 
-_23.10.2020 23:03:05_
+_23.10.2020 23:04:19_
