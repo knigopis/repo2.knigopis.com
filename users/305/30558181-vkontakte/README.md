@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>191</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>192</sup>
 ---
 
 ## 2020
+
+### О шрифте
+Эрик Шпикерманн
+> [2020-10-23] 
+
 
 ### Универсальные принципы дизайна
 Уильям Лидвелл
