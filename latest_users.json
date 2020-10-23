@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 191,
+        "updatedAt": "2020-10-23 23:17:05"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -28,12 +34,6 @@
         "nickname": "GvenVivar ..",
         "booksCount": 123,
         "updatedAt": "2020-10-23 13:41:53"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 190,
-        "updatedAt": "2020-10-23 08:09:46"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",

@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>190</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>191</sup>
 ---
 
 ## 2020
+
+### Универсальные принципы дизайна
+Уильям Лидвелл
+> [2020-08-12] 
+
 
 ### Восток
 Эдит Патту

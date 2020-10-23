@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>191</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>112</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>123</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>190</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>140</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>227</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 
 
-_23.10.2020 23:11:03_
+_23.10.2020 23:17:05_
