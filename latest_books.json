@@ -1,4 +1,16 @@
 {
+    "r2mYqWx-Nf": {
+        "id": "r2mYqWx-Nf",
+        "title": "Маскарад для убийцы",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2020-10-23 22:34:01",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 243
+        }
+    },
     "CrKh32Pd8R": {
         "id": "CrKh32Pd8R",
         "title": "Пистолет с крыльями",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 224
-        }
-    },
-    "4o8DEHQoiK": {
-        "id": "4o8DEHQoiK",
-        "title": "Кадеты Точка Ру",
-        "author": "Никос Зервас",
-        "notes": "Продолжалось чтение ради веселья",
-        "createdAt": "2020-10-22 06:48:31",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 223
         }
     }
 }
