@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Серафим Саровский. Духовные наставления и пророчества ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup>
+    > в процессе
+
 * Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
     > Хороший детектив, интересный сюжет, хороший язык
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN : B07RB1HMRM
 
 * Повесть о каменном хлебе ~ [Йолант](users/104/104690883692185089260-google)<sup>230</sup>
-    > Удивительно интересная штука для тех, кто соприкасается с ролевой тусовкой хоть сколько-нибудь. Заставляет много думать
 
 * Милкино счастье ~ [Йолант](users/104/104690883692185089260-google)<sup>229</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Греческий огонь ~ [Йолант](users/104/104690883692185089260-google)<sup>224</sup>
 
-* Кадеты Точка Ру ~ [Йолант](users/104/104690883692185089260-google)<sup>223</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>123</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>190</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>263</sup> 
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 
 
-_23.10.2020 17:57:07_
+_23.10.2020 19:09:09_

@@ -1,4 +1,16 @@
 {
+    "6InFTq-T6P": {
+        "id": "6InFTq-T6P",
+        "title": "Серафим Саровский. Духовные наставления и пророчества",
+        "author": "",
+        "notes": "в процессе",
+        "createdAt": "2020-10-23 19:09:09",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 245
+        }
+    },
     "sVWkpQBdLV": {
         "id": "sVWkpQBdLV",
         "title": "Смертельная белизна.",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 80
-        }
-    },
-    "SrVztjyNmh": {
-        "id": "SrVztjyNmh",
-        "title": "Хроника одной голодовки",
-        "author": "Олег Сенцов",
-        "notes": "10/10 Сильная и правдивая книга бывшего политзаключенного о заключении в колонии.",
-        "createdAt": "2020-10-03 15:44:24",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 146
         }
     }
 }
