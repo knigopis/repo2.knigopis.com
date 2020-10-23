@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>239</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>112</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>190</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>140</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>227</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>238</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 
 
-_23.10.2020 21:29:09_
+_23.10.2020 22:31:29_
