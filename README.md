@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>188</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>189</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>140</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>227</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>238</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>109</sup> 
 
 
-_23.10.2020 08:05:34_
+_23.10.2020 08:06:51_

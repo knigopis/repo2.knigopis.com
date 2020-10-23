@@ -1,4 +1,16 @@
 {
+    "lGwnBiyoQ9": {
+        "id": "lGwnBiyoQ9",
+        "title": "Модульные сетки в графическом дизайне",
+        "author": "Йозеф Мюллер-Брокманн",
+        "notes": "",
+        "createdAt": "2020-10-23 08:06:51",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 189
+        }
+    },
     "HZWaxqfl9u": {
         "id": "HZWaxqfl9u",
         "title": "Ководство",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 322
-        }
-    },
-    "GVa3Kr1eDA": {
-        "id": "GVa3Kr1eDA",
-        "title": "Путешествие к центру земли",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2020-10-20 14:06:12",
-        "user": {
-            "id": "57776720-vkontakte",
-            "nickname": "Антое",
-            "booksCount": 6
         }
     }
 }

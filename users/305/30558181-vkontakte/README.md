@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>188</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>189</sup>
 ---
 
 ## 2020
+
+### Модульные сетки в графическом дизайне
+Йозеф Мюллер-Брокманн
+> [2020-07-05] 
+
 
 ### Ководство
 Артемий Лебедев
