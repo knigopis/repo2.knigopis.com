@@ -1,4 +1,16 @@
 {
+    "yG1eP3petJ": {
+        "id": "yG1eP3petJ",
+        "title": "Что необходимо в дрессировке",
+        "author": "Лидия острецова",
+        "notes": "",
+        "createdAt": "2020-10-23 23:06:33",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 266
+        }
+    },
     "i0LvwG4pvB": {
         "id": "i0LvwG4pvB",
         "title": "Юный дрессировщик",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 245
-        }
-    },
-    "sVWkpQBdLV": {
-        "id": "sVWkpQBdLV",
-        "title": "Смертельная белизна.",
-        "author": "Гэлбрейт Роберт",
-        "notes": "Хороший детектив, интересный сюжет, хороший язык",
-        "createdAt": "2020-10-23 17:57:07",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 222
         }
     }
 }

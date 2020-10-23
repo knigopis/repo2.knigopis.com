@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>265</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>266</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>112</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 
 
-_23.10.2020 23:05:55_
+_23.10.2020 23:06:33_
