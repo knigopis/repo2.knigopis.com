@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>112</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>113</sup>
 ---
 
 ## 2020
+
+### Хочу и буду: Принять себя, полюбить жизнь и стать счастливым
+Михаил Лабковский
+> [2020-10-25] Сутки
+
 
 ### Три версии нас
 Лора Барнетт

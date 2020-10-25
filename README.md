@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хочу и буду: Принять себя, полюбить жизнь и стать счастливым ~ [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup>
+    > Сутки
+
 * Академия домашних волшебников ~ [Йолант](users/104/104690883692185089260-google)<sup>263</sup>
     > Перечитана книга из детства
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
-    > Хороший детектив, интересный сюжет, хороший язык
 
 * Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Пусть любить тебя будет больно ~ [Йолант](users/104/104690883692185089260-google)<sup>226</sup>
 
-* Пусть меня осудят ~ [Йолант](users/104/104690883692185089260-google)<sup>225</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>113</sup> 
 [timofeiilyushin](users/350/350168034-vkontakte)<sup>0</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>7</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>192</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>112</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>123</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 
 
-_25.10.2020 16:45:22_
+_25.10.2020 18:40:48_
