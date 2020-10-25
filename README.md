@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rodina](users/116/116257964632073652332-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup> 
 [timofeiilyushin](users/350/350168034-vkontakte)<sup>0</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 
 
-_25.10.2020 18:40:48_
+_25.10.2020 20:43:05_
