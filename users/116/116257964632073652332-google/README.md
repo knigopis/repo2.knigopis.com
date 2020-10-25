@@ -1,4 +1,4 @@
-# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>36</sup>
+# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>37</sup>
 ---
 
 ## 2020
@@ -107,6 +107,10 @@
 
 
 ## 2012
+
+### Ночевала тучка золотая
+Приставкин А.
+
 
 ### Два капитана
 В. Каверин
