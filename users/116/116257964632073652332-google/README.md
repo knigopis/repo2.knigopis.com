@@ -1,4 +1,4 @@
-# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>32</sup>
+# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>33</sup>
 ---
 
 ## 2020
@@ -129,6 +129,10 @@
 
 
 ## 2010
+
+### Повести Белкина
+А.С. Пушкин
+
 
 ### Капитанская дочка
 Пушкин А.С
