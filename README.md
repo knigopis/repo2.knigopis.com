@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Fenix](users/111/111367585493471720963-google)<sup>6</sup> 
+[Fenix](users/111/111367585493471720963-google)<sup>7</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>192</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>112</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>263</sup> 
 
 
-_25.10.2020 11:10:42_
+_25.10.2020 11:12:16_
