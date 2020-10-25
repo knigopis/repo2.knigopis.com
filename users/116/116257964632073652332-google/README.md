@@ -1,4 +1,4 @@
-# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>63</sup>
+# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>64</sup>
 ---
 
 ## 2020
@@ -195,6 +195,10 @@
 
 
 ## 2011
+
+### Василий Теркин
+Твардовский
+
 
 ### Тарас Бульба
 Гоголь Н.В
