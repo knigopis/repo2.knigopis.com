@@ -1,4 +1,4 @@
-# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>58</sup>
+# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>59</sup>
 ---
 
 ## 2020
@@ -36,6 +36,10 @@
 
 
 ## 2017
+
+### Казус Кукоцкого
+Улицкая Л.
+
 
 ### Вскрытие покажет
 Решетун А.
