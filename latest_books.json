@@ -1,4 +1,16 @@
 {
+    "oRxpNoNwiG": {
+        "id": "oRxpNoNwiG",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2020-10-25 20:56:13",
+        "user": {
+            "id": "116257964632073652332-google",
+            "nickname": "Rodina",
+            "booksCount": 16
+        }
+    },
     "ipptGJi1Wf": {
         "id": "ipptGJi1Wf",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 262
-        }
-    },
-    "SEqyB75SMn": {
-        "id": "SEqyB75SMn",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-10-23 23:01:08",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 261
         }
     }
 }
