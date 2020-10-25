@@ -1,4 +1,4 @@
-# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>45</sup>
+# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>46</sup>
 ---
 
 ## 2020
@@ -119,6 +119,10 @@
 
 
 ## 2012
+
+### Гранатовый браслет
+Куприн
+
 
 ### Кому на Руси жить хорошо
 Некрасов Н.
