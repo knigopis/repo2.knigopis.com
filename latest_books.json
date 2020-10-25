@@ -1,4 +1,16 @@
 {
+    "XWE0Vk8t28": {
+        "id": "XWE0Vk8t28",
+        "title": "Финансист",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2020-10-25 20:48:36",
+        "user": {
+            "id": "116257964632073652332-google",
+            "nickname": "Rodina",
+            "booksCount": 1
+        }
+    },
     "6__IHI_bk7": {
         "id": "6__IHI_bk7",
         "title": "Хочу и буду: Принять себя, полюбить жизнь и стать счастливым",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 247
-        }
-    },
-    "zKR4sg2doC": {
-        "id": "zKR4sg2doC",
-        "title": "Не рой другому яму",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2020-10-23 22:39:47",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 246
         }
     }
 }
