@@ -1,4 +1,10 @@
 {
+    "111367585493471720963-google": {
+        "id": "111367585493471720963-google",
+        "nickname": "Fenix",
+        "booksCount": 6,
+        "updatedAt": "2020-10-25 11:10:42"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 263,
         "updatedAt": "2020-10-14 16:07:59"
-    },
-    "76641149-vkontakte": {
-        "id": "76641149-vkontakte",
-        "nickname": "nikita_konyaev",
-        "booksCount": 0,
-        "updatedAt": "2020-10-12 21:40:15"
     }
 }

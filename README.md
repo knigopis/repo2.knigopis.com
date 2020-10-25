@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>6</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>192</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>112</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>145</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>263</sup> 
-[nikita_konyaev](users/766/76641149-vkontakte)<sup>0</sup> 
 
 
-_23.10.2020 23:18:17_
+_25.10.2020 11:10:42_

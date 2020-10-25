@@ -1,7 +1,12 @@
-# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>5</sup>
+# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>6</sup>
 ---
 
 ## 2020
+
+### Жить
+Ицхак Пинтосевич
+> [2020-09-01] 
+
 
 ### Омоложение
 Шемшук
