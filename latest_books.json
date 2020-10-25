@@ -1,4 +1,16 @@
 {
+    "weOH-3uLMJ": {
+        "id": "weOH-3uLMJ",
+        "title": "Два капитана",
+        "author": "В. Каверин",
+        "notes": "",
+        "createdAt": "2020-10-25 21:05:34",
+        "user": {
+            "id": "116257964632073652332-google",
+            "nickname": "Rodina",
+            "booksCount": 31
+        }
+    },
     "kwoR51O2pr": {
         "id": "kwoR51O2pr",
         "title": "Темные аллеи",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 2
-        }
-    },
-    "XWE0Vk8t28": {
-        "id": "XWE0Vk8t28",
-        "title": "Финансист",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2020-10-25 20:48:36",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 1
         }
     }
 }
