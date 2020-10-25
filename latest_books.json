@@ -1,4 +1,16 @@
 {
+    "kwoR51O2pr": {
+        "id": "kwoR51O2pr",
+        "title": "Темные аллеи",
+        "author": "Бунин И.",
+        "notes": "",
+        "createdAt": "2020-10-25 21:04:55",
+        "user": {
+            "id": "116257964632073652332-google",
+            "nickname": "Rodina",
+            "booksCount": 30
+        }
+    },
     "b05Fikvyvo": {
         "id": "b05Fikvyvo",
         "title": "Котлован",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 1
-        }
-    },
-    "6__IHI_bk7": {
-        "id": "6__IHI_bk7",
-        "title": "Хочу и буду: Принять себя, полюбить жизнь и стать счастливым",
-        "author": "Михаил Лабковский",
-        "notes": "Сутки",
-        "createdAt": "2020-10-25 18:40:48",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 113
         }
     }
 }
