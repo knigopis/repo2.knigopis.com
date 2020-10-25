@@ -1,4 +1,16 @@
 {
+    "y8PVzwoK6A": {
+        "id": "y8PVzwoK6A",
+        "title": "Братья карамазовы",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-10-25 20:49:07",
+        "user": {
+            "id": "116257964632073652332-google",
+            "nickname": "Rodina",
+            "booksCount": 2
+        }
+    },
     "XWE0Vk8t28": {
         "id": "XWE0Vk8t28",
         "title": "Финансист",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 248
-        }
-    },
-    "sEcbCrytla": {
-        "id": "sEcbCrytla",
-        "title": "Это вас не убьёт",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2020-10-23 22:40:13",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 247
         }
     }
 }
