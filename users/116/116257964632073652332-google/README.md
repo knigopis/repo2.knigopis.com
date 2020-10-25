@@ -1,4 +1,4 @@
-# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>41</sup>
+# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>42</sup>
 ---
 
 ## 2020
@@ -134,6 +134,10 @@
 
 
 ## 2011
+
+### Леди Макбет Мценского уезда
+Лесков Н.
+
 
 ### Гроза
 Островский А.
