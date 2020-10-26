@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 107,
+        "updatedAt": "2020-10-26 06:57:25"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -106,12 +112,6 @@
         "nickname": "Антое",
         "booksCount": 6,
         "updatedAt": "2020-10-20 14:06:12"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 106,
-        "updatedAt": "2020-10-19 19:41:16"
     },
     "103833277292487584186-googleplus": {
         "id": "103833277292487584186-googleplus",

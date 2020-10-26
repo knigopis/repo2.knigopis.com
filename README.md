@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>107</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>67</sup> 
 [Rodina](users/116/116257964632073652332-google)<sup>67</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/251/251583481-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>322</sup> 
 [Антое](users/577/57776720-vkontakte)<sup>6</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>106</sup> 
 [Татьяна Клевитова](users/103/103833277292487584186-googleplus)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 
 
-_26.10.2020 06:52:11_
+_26.10.2020 06:57:25_
