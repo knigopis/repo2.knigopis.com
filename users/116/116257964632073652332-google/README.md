@@ -1,4 +1,4 @@
-# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>69</sup>
+# List of books read by [Rodina](https://plus.google.com/u/0/116257964632073652332/)<sup>70</sup>
 ---
 
 ## 2020
@@ -246,6 +246,10 @@
 
 
 ## 2010
+
+### Палата номер 6
+Чехов А.П.
+
 
 ### Человек в футляре
 Чехов А.П
