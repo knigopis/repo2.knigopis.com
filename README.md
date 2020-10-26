@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>68</sup> 
 [Rodina](users/116/116257964632073652332-google)<sup>70</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>147</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>228</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 [](users/101/101012265752942145432-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
 
 
-_26.10.2020 19:35:33_
+_26.10.2020 21:30:12_

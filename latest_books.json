@@ -1,4 +1,16 @@
 {
+    "z2Yi0_BR1h": {
+        "id": "z2Yi0_BR1h",
+        "title": "Анатомия человеческой деструктивности",
+        "author": "Эрих Фромм",
+        "notes": "",
+        "createdAt": "2020-10-26 21:30:12",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 68
+        }
+    },
     "W1OrcXpVPi": {
         "id": "W1OrcXpVPi",
         "title": "Палата номер 6",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 47
-        }
-    },
-    "mE8_CLvWCj": {
-        "id": "mE8_CLvWCj",
-        "title": "Гранатовый браслет",
-        "author": "Куприн",
-        "notes": "",
-        "createdAt": "2020-10-25 21:18:04",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 46
         }
     }
 }
