@@ -1,4 +1,16 @@
 {
+    "X2uOyeMe6p": {
+        "id": "X2uOyeMe6p",
+        "title": "Белая гвардия",
+        "author": "Булгаков М.",
+        "notes": "",
+        "createdAt": "2020-10-26 15:17:29",
+        "user": {
+            "id": "116257964632073652332-google",
+            "nickname": "Rodina",
+            "booksCount": 68
+        }
+    },
     "YpCTmtYzcr": {
         "id": "YpCTmtYzcr",
         "title": "Американский боец",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 43
-        }
-    },
-    "KZefjUHH-b": {
-        "id": "KZefjUHH-b",
-        "title": "Леди Макбет Мценского уезда",
-        "author": "Лесков Н.",
-        "notes": "",
-        "createdAt": "2020-10-25 21:12:01",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 42
         }
     }
 }

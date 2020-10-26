@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rodina](users/116/116257964632073652332-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>228</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>108</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>67</sup> 
-[Rodina](users/116/116257964632073652332-google)<sup>67</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup> 
 [timofeiilyushin](users/350/350168034-vkontakte)<sup>0</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 
 
-_26.10.2020 09:36:58_
+_26.10.2020 15:17:29_
