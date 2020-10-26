@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>146</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>147</sup>
 ---
 
 ## 2020
+
+### Дюна
+Фрэнк Герберт
+> [2020-10-26] 7/10 Интриги, религия, пряность и борьба за Арракис и империю.
+
 
 ### Хроника одной голодовки
 Олег Сенцов

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дюна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>147</sup>
+    > 7/10 Интриги, религия, пряность и борьба за Арракис и империю.
+
 * Хочу и буду: Принять себя, полюбить жизнь и стать счастливым ~ [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup>
     > Сутки
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перечитана книга из детства
 
 * Серафим Саровский. Духовные наставления и пророчества ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup>
-    > в процессе
 
 * Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пусть простить меня невозможно ~ [Йолант](users/104/104690883692185089260-google)<sup>227</sup>
 
-* Пусть любить тебя будет больно ~ [Йолант](users/104/104690883692185089260-google)<sup>226</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>147</sup> 
 [Rodina](users/116/116257964632073652332-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>228</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>108</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101012265752942145432-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>41</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
-[ms.animary](users/217/217125362-vkontakte)<sup>0</sup> 
 
 
-_26.10.2020 15:17:29_
+_26.10.2020 17:29:27_

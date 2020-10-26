@@ -1,4 +1,16 @@
 {
+    "0Uzb__-vS-": {
+        "id": "0Uzb__-vS-",
+        "title": "Дюна",
+        "author": "Фрэнк Герберт",
+        "notes": "7/10 Интриги, религия, пряность и борьба за Арракис и империю.",
+        "createdAt": "2020-10-26 17:29:27",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 147
+        }
+    },
     "X2uOyeMe6p": {
         "id": "X2uOyeMe6p",
         "title": "Белая гвардия",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 44
-        }
-    },
-    "PKfS_X-rb5": {
-        "id": "PKfS_X-rb5",
-        "title": "Судьба человека",
-        "author": "Шолохов М.",
-        "notes": "",
-        "createdAt": "2020-10-25 21:16:28",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 43
         }
     }
 }
