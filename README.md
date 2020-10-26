@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rodina](users/116/116257964632073652332-google)<sup>69</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>147</sup> 
-[Rodina](users/116/116257964632073652332-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>228</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>108</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>67</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>107</sup> 
 
 
-_26.10.2020 17:29:27_
+_26.10.2020 19:30:43_
