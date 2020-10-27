@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Худеем вместе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup>
 * Tales and Fables ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup>
 * Путешествие к центру земли ~ [Victoria](users/113/113794223924688167852-google)<sup>49</sup>
 * Дюна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>147</sup>
@@ -30,7 +31,6 @@
 * Код женщины ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 *  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
 * Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
-* Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
 
 
-_27.10.2020 09:43:09_
+_27.10.2020 09:45:00_

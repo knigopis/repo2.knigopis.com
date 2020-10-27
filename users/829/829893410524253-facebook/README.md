@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>148</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>149</sup>
 ---
 
 ## 2020
+
+### Худеем вместе
+Наталья Могилевская
+> [2020-10-27] 3/10 Банальщина и заблуждения: детокс, монодиеты, мудроженственность и немного биографии.
+
 
 ### Tales and Fables
 Ambrose Bierce

@@ -1,4 +1,16 @@
 {
+    "YnbfMOcs9-": {
+        "id": "YnbfMOcs9-",
+        "title": "Худеем вместе",
+        "author": "Наталья Могилевская",
+        "notes": "3/10 Банальщина и заблуждения: детокс, монодиеты, мудроженственность и немного биографии.",
+        "createdAt": "2020-10-27 09:45:00",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 149
+        }
+    },
     "WMKt0I1ZMR": {
         "id": "WMKt0I1ZMR",
         "title": "Tales and Fables",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 51
-        }
-    },
-    "kUK5szsXpR": {
-        "id": "kUK5szsXpR",
-        "title": "Дубровский",
-        "author": "Пушкин А.С.",
-        "notes": "",
-        "createdAt": "2020-10-25 21:20:28",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 50
         }
     }
 }

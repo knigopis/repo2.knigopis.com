@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Худеем вместе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup>
+    > 3/10 Банальщина и заблуждения: детокс, монодиеты, мудроженственность и немного биографии.
+
 * Tales and Fables ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup>
     > 5/10 Hard-to-understand language. Novels about the Civil War in the USA.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Путешествие в Исландию. Ученый со своим племянником и порводником спускаются в подземный мир, путь долгий, в дороге испытвают трудности с водой, но пробивают скалу и находят источник, пускающий ручей по подземному миру. Племянник теряется и думает, что ему уже не удастся выбраться. Путешествие приводит героев в древний мир с грибными лесами и морскими динозаврами. Они отправляются в плавание через подземное море, но компас путает их и они думают, что приплыли обратно на свой берег. Встречают великана, пасущего мастодонтов. Выбираются на поверхность несколько дней через жерло вулкана на плоту, появляясь в Италии.
 
 * Дюна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>147</sup>
-    > 7/10 Интриги, религия, пряность и борьба за Арракис и империю.
 
 * Хочу и буду: Принять себя, полюбить жизнь и стать счастливым ~ [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Повесть о каменном хлебе ~ [Йолант](users/104/104690883692185089260-google)<sup>230</sup>
 
-* Милкино счастье ~ [Йолант](users/104/104690883692185089260-google)<sup>229</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>49</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 
 
-_27.10.2020 09:43:09_
+_27.10.2020 09:45:00_
