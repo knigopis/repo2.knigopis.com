@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>65</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>49</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup> 
 [](users/947/9478325038588396490-mailru)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>425</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>64</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 
 
-_27.10.2020 09:45:00_
+_27.10.2020 11:01:38_
