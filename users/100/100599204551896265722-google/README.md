@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>140</sup>
+# Список прочитанных книг пользователя exulted<sup>141</sup>
 ---
 
 ## 2020
+
+### The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe
+Jay W. Richards, William M. Briggs, Douglas Axe
+> [2020-10-25] ASIN : B087CLDWFB
+
 
 ### Disunited Nations: The Scramble for Power in an Ungoverned World
 Peter Zeihan

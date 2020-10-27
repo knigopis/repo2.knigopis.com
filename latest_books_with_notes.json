@@ -1,4 +1,16 @@
 {
+    "spNW7LpOwp": {
+        "id": "spNW7LpOwp",
+        "title": "The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe",
+        "author": "Jay W. Richards, William M. Briggs, Douglas Axe",
+        "notes": "ASIN : B087CLDWFB",
+        "createdAt": "2020-10-27 17:20:56",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 141
+        }
+    },
     "cCjwwBOsX9": {
         "id": "cCjwwBOsX9",
         "title": "Здесь была Бритт-Мари",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 11
-        }
-    },
-    "rVVVjiTf-X": {
-        "id": "rVVVjiTf-X",
-        "title": "",
-        "author": "Роберт Родригес",
-        "notes": "Вдохновляет",
-        "createdAt": "2020-10-09 16:15:05",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 50
         }
     }
 }

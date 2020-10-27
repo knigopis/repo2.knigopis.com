@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe ~ [exulted](users/100/100599204551896265722-google)<sup>141</sup>
+    > ASIN : B087CLDWFB
+
 * Здесь была Бритт-Мари ~ [dmiro](users/571/5714115-vkontakte)<sup>36</sup>
     > Несколько лет превратились в еще несколько лет, а еще несколько лет превратились в жизнь. И однажды утром обнаруживаешь, что позади осталось больше жизни, чем впереди, и не понимаешь, как так вышло.
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > 3/10 Банальщина и заблуждения: детокс, монодиеты, мудроженственность и немного биографии.
 
 * Tales and Fables ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup>
-    > 5/10 Hard-to-understand language. Novels about the Civil War in the USA.
 
 * Путешествие к центру земли ~ [Victoria](users/113/113794223924688167852-google)<sup>49</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
 
-* Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>141</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>36</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>65</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>123</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 
 
-_27.10.2020 14:20:28_
+_27.10.2020 17:20:56_
