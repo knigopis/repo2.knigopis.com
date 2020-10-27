@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>147</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>148</sup>
 ---
 
 ## 2020
+
+### Tales and Fables
+Ambrose Bierce
+> [2020-10-26] 5/10 Hard-to-understand language. Novels about the Civil War in the USA.
+
 
 ### Дюна
 Фрэнк Герберт

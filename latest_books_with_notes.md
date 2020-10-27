@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Tales and Fables ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup>
 * Путешествие к центру земли ~ [Victoria](users/113/113794223924688167852-google)<sup>49</sup>
 * Дюна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>147</sup>
 * Хочу и буду: Принять себя, полюбить жизнь и стать счастливым ~ [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup>
@@ -30,7 +31,6 @@
 *  ~ [youno](users/302/302928912-vkontakte)<sup>50</sup>
 * Искусство любить ~ [Rainbow](users/109/109787328219839805802-google)<sup>65</sup>
 * Муза по расписанию ~ [Rainbow](users/109/109787328219839805802-google)<sup>64</sup>
-* Трилогия «Первый Закон» ~ [Chandravadana](users/105/105866022348292919948-google)<sup>106</sup>
 
 
-_27.10.2020 07:24:50_
+_27.10.2020 09:43:09_
