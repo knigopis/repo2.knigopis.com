@@ -1,7 +1,12 @@
-# List of books read by [dmiro](http://vk.com/id5714115)<sup>34</sup>
+# List of books read by [dmiro](http://vk.com/id5714115)<sup>35</sup>
 ---
 
 ## 2020
+
+### 0,05. Доказательная медицина от магии до поисков бессмертия
+Петр Талантов
+> [2020-10] 
+
 
 ### Полиция
 Ю Несбё

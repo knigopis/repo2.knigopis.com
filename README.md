@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>49</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>68</sup> 
 [Rodina](users/116/116257964632073652332-google)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>425</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>64</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
-[](users/101/101012265752942145432-google)<sup>0</sup> 
 
 
-_27.10.2020 07:24:50_
+_27.10.2020 09:15:55_

@@ -1,4 +1,16 @@
 {
+    "gSuA2mh3RT": {
+        "id": "gSuA2mh3RT",
+        "title": "0,05. Доказательная медицина от магии до поисков бессмертия",
+        "author": "Петр Талантов",
+        "notes": "",
+        "createdAt": "2020-10-27 09:15:55",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 35
+        }
+    },
     "cmjDW0IXLK": {
         "id": "cmjDW0IXLK",
         "title": "Путешествие к центру земли",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 49
-        }
-    },
-    "9qHVrb5Ibz": {
-        "id": "9qHVrb5Ibz",
-        "title": "Шинель",
-        "author": "Гоголь Н.В",
-        "notes": "",
-        "createdAt": "2020-10-25 21:19:44",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 48
         }
     }
 }
