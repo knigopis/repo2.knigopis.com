@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 66,
+        "updatedAt": "2020-10-28 19:57:49"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "Elixir",
         "booksCount": 425,
         "updatedAt": "2020-10-17 19:26:19"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 392,
-        "updatedAt": "2020-10-17 07:30:43"
     }
 }
