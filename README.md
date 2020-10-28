@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>124</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>150</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>141</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>36</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>123</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 
 
-_28.10.2020 10:02:29_
+_28.10.2020 10:37:43_
