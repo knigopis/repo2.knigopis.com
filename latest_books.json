@@ -1,4 +1,16 @@
 {
+    "fwuGsA5jFk": {
+        "id": "fwuGsA5jFk",
+        "title": "Пояснюючи світ. Історія сучасної науки",
+        "author": "Стівен Вайнберг",
+        "notes": "5/10 Повстання грецької науки, римської та арабської аж до сучасності.",
+        "createdAt": "2020-10-28 10:02:29",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 150
+        }
+    },
     "spNW7LpOwp": {
         "id": "spNW7LpOwp",
         "title": "The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 55
-        }
-    },
-    "sIlJY9tKdN": {
-        "id": "sIlJY9tKdN",
-        "title": "Вий",
-        "author": "Гоголь Н.В",
-        "notes": "",
-        "createdAt": "2020-10-25 21:26:24",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 54
         }
     }
 }

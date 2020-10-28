@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пояснюючи світ. Історія сучасної науки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>150</sup>
+    > 5/10 Повстання грецької науки, римської та арабської аж до сучасності.
+
 * The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe ~ [exulted](users/100/100599204551896265722-google)<sup>141</sup>
     > ASIN : B087CLDWFB
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > В определенном возрасте почти все вопросы, которые человек ставит перед собой, сводятся к одному: как я живу эту жизнь?
 
 * Худеем вместе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup>
-    > 3/10 Банальщина и заблуждения: детокс, монодиеты, мудроженственность и немного биографии.
 
 * Tales and Fables ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup>
 
@@ -30,17 +32,15 @@ Do not use pull requests to make changes here.
 
 * Серафим Саровский. Духовные наставления и пророчества ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup>
 
-* Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>150</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>141</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>36</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>65</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>49</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>68</sup> 
 [Rodina](users/116/116257964632073652332-google)<sup>70</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>392</sup> 
 
 
-_27.10.2020 17:20:56_
+_28.10.2020 10:02:29_

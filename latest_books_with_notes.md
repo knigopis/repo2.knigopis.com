@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пояснюючи світ. Історія сучасної науки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>150</sup>
 * The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe ~ [exulted](users/100/100599204551896265722-google)<sup>141</sup>
 * Здесь была Бритт-Мари ~ [dmiro](users/571/5714115-vkontakte)<sup>36</sup>
 * Худеем вместе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup>
@@ -30,7 +31,6 @@
 * Нормальное аномальное 12. Дом безликих теней. ~ [Chiffi](users/105/105831994080785626680-google)<sup>219</sup>
 * Самурай без меча ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup>
 * Почему мужчины врут, а женщины ревут ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
-* Код женщины ~ [Len4e91](users/254/254448176-yandex)<sup>11</sup>
 
 
-_27.10.2020 17:20:56_
+_28.10.2020 10:02:29_

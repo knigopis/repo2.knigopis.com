@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>149</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>150</sup>
 ---
 
 ## 2020
+
+### Пояснюючи світ. Історія сучасної науки
+Стівен Вайнберг
+> [2020-10-27] 5/10 Повстання грецької науки, римської та арабської аж до сучасності.
+
 
 ### Худеем вместе
 Наталья Могилевская
