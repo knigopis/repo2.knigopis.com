@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Даша](users/334/334696193054530347-mailru)<sup>56</sup> 
 [](users/115/115761960622353006025-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>66</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>124</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Татьяна Клевитова](users/103/103833277292487584186-googleplus)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup> 
-[](users/947/9478325038588396490-mailru)<sup>0</sup> 
 
 
-_28.10.2020 22:08:57_
+_29.10.2020 06:19:46_
