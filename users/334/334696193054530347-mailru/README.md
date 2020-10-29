@@ -1,4 +1,4 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>56</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>57</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Чемодан
 Сергей Довлатов
 > [2020-10] 
+
+
+### Доктор Живаго
+Борис Пастернак
+> [2020-09] 
 
 
 ### Хочу и буду
