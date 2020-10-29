@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 824,
+        "updatedAt": "2020-10-29 20:43:51"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -130,12 +136,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 245,
         "updatedAt": "2020-10-23 19:09:09"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 823,
-        "updatedAt": "2020-10-21 19:50:14"
     },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
