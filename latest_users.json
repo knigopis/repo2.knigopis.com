@@ -1,4 +1,10 @@
 {
+    "4974864-yandex": {
+        "id": "4974864-yandex",
+        "nickname": "seanis",
+        "booksCount": 0,
+        "updatedAt": "2020-10-29 10:15:59"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 92,
         "updatedAt": "2020-10-18 16:12:49"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 53,
-        "updatedAt": "2020-10-18 12:34:37"
     }
 }
