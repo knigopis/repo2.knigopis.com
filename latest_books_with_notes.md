@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия домашних волшебников ~ [Chiffi](users/105/105831994080785626680-google)<sup>223</sup>
 * О чем я говорю, когда говорю о беге ~ [Rainbow](users/109/109787328219839805802-google)<sup>66</sup>
 * Пояснюючи світ. Історія сучасної науки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>150</sup>
 * The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe ~ [exulted](users/100/100599204551896265722-google)<sup>141</sup>
@@ -30,7 +31,6 @@
 * Скопление неприятностей (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>263</sup>
 * Прошлое должно умереть (Герметикон) ~ [Garka](users/115/115753719718250012620-google)<sup>262</sup>
 * Нормальное аномальное 12. Дом безликих теней. ~ [Chiffi](users/105/105831994080785626680-google)<sup>219</sup>
-* Самурай без меча ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>244</sup>
 
 
-_28.10.2020 19:57:49_
+_29.10.2020 19:37:30_

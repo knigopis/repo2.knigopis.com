@@ -1,4 +1,16 @@
 {
+    "lgkna3vPsz": {
+        "id": "lgkna3vPsz",
+        "title": "Академия домашних волшебников",
+        "author": "Сахарова Саида Юсуповна",
+        "notes": "Отличная книга для детей + много полезных оецептов",
+        "createdAt": "2020-10-29 19:37:30",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 223
+        }
+    },
     "kdvQUVdY12": {
         "id": "kdvQUVdY12",
         "title": "О чем я говорю, когда говорю о беге",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 219
-        }
-    },
-    "_PSp0sCtIf": {
-        "id": "_PSp0sCtIf",
-        "title": "Самурай без меча",
-        "author": "Китами Масао",
-        "notes": "в процессе",
-        "createdAt": "2020-10-11 20:12:03",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 244
         }
     }
 }

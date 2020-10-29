@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия домашних волшебников ~ [Chiffi](users/105/105831994080785626680-google)<sup>223</sup>
+    > Отличная книга для детей + много полезных оецептов
+
 * О чем я говорю, когда говорю о беге ~ [Rainbow](users/109/109787328219839805802-google)<sup>66</sup>
     > «Боль неизбежна. Страдание – личный выбор каждого»
     > «Хочешь продолжить начатое – не сбивайся с ритма»
@@ -22,7 +25,6 @@ Do not use pull requests to make changes here.
     > 5/10 Повстання грецької науки, римської та арабської аж до сучасності.
 
 * The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe ~ [exulted](users/100/100599204551896265722-google)<sup>141</sup>
-    > ASIN : B087CLDWFB
 
 * Здесь была Бритт-Мари ~ [dmiro](users/571/5714115-vkontakte)<sup>36</sup>
 
@@ -36,13 +38,12 @@ Do not use pull requests to make changes here.
 
 * Хочу и буду: Принять себя, полюбить жизнь и стать счастливым ~ [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup>
 
-* Академия домашних волшебников ~ [Йолант](users/104/104690883692185089260-google)<sup>263</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>223</sup> 
 [seanis](users/497/4974864-yandex)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 [](users/115/115761960622353006025-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>192</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>222</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>823</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
 
 
-_29.10.2020 10:15:59_
+_29.10.2020 19:37:30_
