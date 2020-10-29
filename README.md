@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[seanis](users/497/4974864-yandex)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 [](users/115/115761960622353006025-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>66</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антое](users/577/57776720-vkontakte)<sup>6</sup> 
 [Татьяна Клевитова](users/103/103833277292487584186-googleplus)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>53</sup> 
 
 
-_29.10.2020 06:20:19_
+_29.10.2020 10:15:59_
