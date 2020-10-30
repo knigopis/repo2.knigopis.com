@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 72,
+        "updatedAt": "2020-10-30 10:56:51"
+    },
     "5714115-vkontakte": {
         "id": "5714115-vkontakte",
         "nickname": "dmiro",
@@ -172,11 +178,5 @@
         "nickname": "Татьяна Клевитова",
         "booksCount": 0,
         "updatedAt": "2020-10-19 10:59:47"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 92,
-        "updatedAt": "2020-10-18 16:12:49"
     }
 }

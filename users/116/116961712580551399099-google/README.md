@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>71</sup>
+# List of books read by violet_velva<sup>72</sup>
 ---
 
 ## 2020
+
+### Жизнь взаймы
+Эрих Мария Ремарк
+> [2020-10-29] 
+
 
 ### Алхимик
 Пауло Коэльо

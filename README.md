@@ -55,6 +55,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>37</sup> 
 [seanis](users/497/4974864-yandex)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>824</sup> 
@@ -84,7 +85,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>322</sup> 
 [Антое](users/577/57776720-vkontakte)<sup>6</sup> 
 [Татьяна Клевитова](users/103/103833277292487584186-googleplus)<sup>0</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
 
 
-_30.10.2020 08:53:45_
+_30.10.2020 10:56:51_
