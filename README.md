@@ -43,9 +43,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[seanis](users/497/4974864-yandex)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>824</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>223</sup> 
-[seanis](users/497/4974864-yandex)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 [](users/115/115761960622353006025-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>66</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>92</sup> 
 
 
-_29.10.2020 20:43:51_
+_30.10.2020 05:58:44_

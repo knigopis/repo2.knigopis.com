@@ -1,4 +1,10 @@
 {
+    "4974864-yandex": {
+        "id": "4974864-yandex",
+        "nickname": "seanis",
+        "booksCount": 1,
+        "updatedAt": "2020-10-30 05:58:44"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -10,12 +16,6 @@
         "nickname": "Chiffi",
         "booksCount": 223,
         "updatedAt": "2020-10-29 19:37:30"
-    },
-    "4974864-yandex": {
-        "id": "4974864-yandex",
-        "nickname": "seanis",
-        "booksCount": 0,
-        "updatedAt": "2020-10-29 10:15:59"
     },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
