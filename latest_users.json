@@ -1,4 +1,10 @@
 {
+    "1241017526268068-facebook": {
+        "id": "1241017526268068-facebook",
+        "nickname": "говно",
+        "booksCount": 0,
+        "updatedAt": "2020-10-30 18:53:38"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Антое",
         "booksCount": 6,
         "updatedAt": "2020-10-20 14:06:12"
-    },
-    "103833277292487584186-googleplus": {
-        "id": "103833277292487584186-googleplus",
-        "nickname": "Татьяна Клевитова",
-        "booksCount": 0,
-        "updatedAt": "2020-10-19 10:59:47"
     }
 }
