@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 108,
+        "updatedAt": "2020-10-31 03:36:30"
+    },
     "1241017526268068-facebook": {
         "id": "1241017526268068-facebook",
         "nickname": "говно",
@@ -172,11 +178,5 @@
         "nickname": "Lala",
         "booksCount": 322,
         "updatedAt": "2020-10-20 18:13:37"
-    },
-    "57776720-vkontakte": {
-        "id": "57776720-vkontakte",
-        "nickname": "Антое",
-        "booksCount": 6,
-        "updatedAt": "2020-10-20 14:06:12"
     }
 }

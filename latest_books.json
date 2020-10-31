@@ -1,4 +1,16 @@
 {
+    "9lJtzhe-Rl": {
+        "id": "9lJtzhe-Rl",
+        "title": "Идиот",
+        "author": "Фёдор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2020-10-31 03:36:30",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 108
+        }
+    },
     "L2A8iOHGLT": {
         "id": "L2A8iOHGLT",
         "title": "Апельсинки",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 66
-        }
-    },
-    "S7foHlUG_d": {
-        "id": "S7foHlUG_d",
-        "title": "Сотников",
-        "author": "Быков В.",
-        "notes": "",
-        "createdAt": "2020-10-25 21:46:57",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 65
         }
     }
 }

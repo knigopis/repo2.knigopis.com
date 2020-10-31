@@ -45,6 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>108</sup> 
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>224</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
@@ -74,7 +75,6 @@ _More notes [here](latest_books_with_notes.md)._
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
 [](users/251/251583481-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>322</sup> 
-[Антое](users/577/57776720-vkontakte)<sup>6</sup> 
 
 
-_30.10.2020 18:53:38_
+_31.10.2020 03:36:30_
