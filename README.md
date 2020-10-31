@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Невероятный иммунитет ~ [Garka](users/115/115753719718250012620-google)<sup>264</sup>
+    > Книга скорее об истории открытий в иммунологии и об учёных, которые эти открытия сделали, но всё равно много интерфейсной информации
+
 * Апельсинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>224</sup>
     > До слез. Осень трогательно.
 
@@ -24,7 +27,6 @@ Do not use pull requests to make changes here.
     > Правило 7. Совершенствуйте навыки создания богатства. Никогда не останавливайтесь на достигнутом, развивайтесь.
 
 * Академия домашних волшебников ~ [Chiffi](users/105/105831994080785626680-google)<sup>223</sup>
-    > Отличная книга для детей + много полезных оецептов
 
 * О чем я говорю, когда говорю о беге ~ [Rainbow](users/109/109787328219839805802-google)<sup>66</sup>
 
@@ -38,13 +40,12 @@ Do not use pull requests to make changes here.
 
 * Tales and Fables ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup>
 
-* Путешествие к центру земли ~ [Victoria](users/113/113794223924688167852-google)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>264</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>108</sup> 
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>224</sup> 
@@ -74,7 +75,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
 [](users/251/251583481-vkontakte)<sup>0</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>322</sup> 
 
 
-_31.10.2020 03:36:30_
+_31.10.2020 15:49:42_
