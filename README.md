@@ -45,6 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>125</sup> 
 [design.azat](users/274/274622786-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>264</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>108</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 [](users/115/115761960622353006025-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>66</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>124</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>150</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>141</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>65</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
 
 
-_01.11.2020 07:05:34_
+_01.11.2020 14:17:23_

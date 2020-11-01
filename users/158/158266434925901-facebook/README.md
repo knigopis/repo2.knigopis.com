@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>124</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>125</sup>
 ---
 
 ## 2020
+
+### Город Сириус
+Георгий Смирнов
+> [2020-11-01] 
+
 
 ### Зелёная миля
 Стивен Кинг
