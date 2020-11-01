@@ -45,6 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[design.azat](users/274/274622786-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>264</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>108</sup> 
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
@@ -74,7 +75,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 [roomautist](users/231/231667059-vkontakte)<sup>0</sup> 
-[](users/251/251583481-vkontakte)<sup>0</sup> 
 
 
-_31.10.2020 15:49:42_
+_01.11.2020 07:05:34_
