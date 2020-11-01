@@ -1,4 +1,16 @@
 {
+    "LWrctUuBYe": {
+        "id": "LWrctUuBYe",
+        "title": "Магия прилагается или неприятности по договору",
+        "author": "Савенко Валентина",
+        "notes": "Сказка про волшебников. Миленько. Больше всех понравился крыс Гоша",
+        "createdAt": "2020-11-01 16:24:40",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 225
+        }
+    },
     "z4r-R1akPl": {
         "id": "z4r-R1akPl",
         "title": "Город Сириус",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 107
-        }
-    },
-    "ZQ_nWf6E-d": {
-        "id": "ZQ_nWf6E-d",
-        "title": "Достичь небес",
-        "author": "Р. Брэнсон",
-        "notes": "",
-        "createdAt": "2020-10-26 06:52:11",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 67
         }
     }
 }

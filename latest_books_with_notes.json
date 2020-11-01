@@ -1,4 +1,16 @@
 {
+    "LWrctUuBYe": {
+        "id": "LWrctUuBYe",
+        "title": "Магия прилагается или неприятности по договору",
+        "author": "Савенко Валентина",
+        "notes": "Сказка про волшебников. Миленько. Больше всех понравился крыс Гоша",
+        "createdAt": "2020-11-01 16:24:40",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 225
+        }
+    },
     "jJ6Rexy4C8": {
         "id": "jJ6Rexy4C8",
         "title": "Невероятный иммунитет",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 220
-        }
-    },
-    "9-02VGg86N": {
-        "id": "9-02VGg86N",
-        "title": "Священная книга оборотня",
-        "author": "Виктор Пелевин",
-        "notes": "7/10",
-        "createdAt": "2020-10-14 18:39:01",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 145
         }
     }
 }

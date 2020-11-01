@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 225,
+        "updatedAt": "2020-11-01 16:24:40"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -28,12 +34,6 @@
         "nickname": "говно",
         "booksCount": 0,
         "updatedAt": "2020-10-30 18:53:38"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 224,
-        "updatedAt": "2020-10-30 18:21:29"
     },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
