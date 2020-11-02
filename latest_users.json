@@ -1,4 +1,10 @@
 {
+    "836077803836456-facebook": {
+        "id": "836077803836456-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-11-02 16:37:38"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Артур Вольнов",
         "booksCount": 22,
         "updatedAt": "2020-10-21 12:34:19"
-    },
-    "231667059-vkontakte": {
-        "id": "231667059-vkontakte",
-        "nickname": "roomautist",
-        "booksCount": 0,
-        "updatedAt": "2020-10-21 07:19:24"
     }
 }
