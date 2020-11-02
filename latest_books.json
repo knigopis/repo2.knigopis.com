@@ -1,4 +1,16 @@
 {
+    "1C4cWcBYtX": {
+        "id": "1C4cWcBYtX",
+        "title": "Утопия правил",
+        "author": "Д. Гребер",
+        "notes": "",
+        "createdAt": "2020-11-02 15:45:24",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 68
+        }
+    },
     "h1-ZPpK0zW": {
         "id": "h1-ZPpK0zW",
         "title": "Тень на ярком солнце",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 68
-        }
-    },
-    "YpCTmtYzcr": {
-        "id": "YpCTmtYzcr",
-        "title": "Американский боец",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2020-10-26 09:36:58",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 228
         }
     }
 }

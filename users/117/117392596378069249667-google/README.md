@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>67</sup>
+# List of books read by 4apa<sup>68</sup>
 ---
 
 ## 2020
+
+### Утопия правил
+Д. Гребер
+> [2020-11-02] 
+
 
 ### Достичь небес
 Р. Брэнсон
