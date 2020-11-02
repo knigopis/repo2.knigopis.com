@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Приключения Тома Сойера ~ [kissamasya](users/684/68439978-vkontakte)<sup>98</sup>
+    > В книге о приключениях Тома Сойера писатель с большим мастерством нарисовал жизнь американского провинциального городка 40-х годов XIX века. Благодаря напряженному сюжету и блестящему юмору эта книга горячо любима читателями всего мира.
+
 * Магия прилагается или неприятности по договору ~ [Chiffi](users/105/105831994080785626680-google)<sup>225</sup>
     > Сказка про волшебников. Миленько. Больше всех понравился крыс Гоша
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга скорее об истории открытий в иммунологии и об учёных, которые эти открытия сделали, но всё равно много интерфейсной информации
 
 * Апельсинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>224</sup>
-    > До слез. Осень трогательно.
 
 * Самый богатый человек в Вавилоне ~ [dmiro](users/571/5714115-vkontakte)<sup>37</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Здесь была Бритт-Мари ~ [dmiro](users/571/5714115-vkontakte)<sup>36</sup>
 
-* Худеем вместе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>97</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>98</sup> 
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>142</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
 
 
-_02.11.2020 16:52:48_
+_02.11.2020 16:53:27_
