@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>141</sup>
+# Список прочитанных книг пользователя exulted<sup>142</sup>
 ---
 
 ## 2020
+
+### Тень на ярком солнце
+Конторович Александр, Норка Сергей
+> [2020-11-01] 
+
 
 ### The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe
 Jay W. Richards, William M. Briggs, Douglas Axe
