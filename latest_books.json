@@ -1,4 +1,16 @@
 {
+    "3naxJMpPSk": {
+        "id": "3naxJMpPSk",
+        "title": "Парадокс Страсти",
+        "author": "Дин Делис",
+        "notes": "",
+        "createdAt": "2020-11-02 16:43:31",
+        "user": {
+            "id": "836077803836456-facebook",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "1C4cWcBYtX": {
         "id": "1C4cWcBYtX",
         "title": "Утопия правил",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 147
-        }
-    },
-    "X2uOyeMe6p": {
-        "id": "X2uOyeMe6p",
-        "title": "Белая гвардия",
-        "author": "Булгаков М.",
-        "notes": "",
-        "createdAt": "2020-10-26 15:17:29",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 68
         }
     }
 }
