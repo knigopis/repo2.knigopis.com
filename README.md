@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>97</sup> 
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>142</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>192</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>22</sup> 
 
 
-_02.11.2020 16:43:31_
+_02.11.2020 16:52:48_

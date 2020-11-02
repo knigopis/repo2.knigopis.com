@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>96</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>97</sup>
 ---
 
 ## 2020
+
+### Рассказы
+О.Генри
+> [2020-11-02] 
+
 
 ### Унесенные ветром
 Маргарет Митчелл

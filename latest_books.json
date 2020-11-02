@@ -1,4 +1,16 @@
 {
+    "Ytof-Q3oTH": {
+        "id": "Ytof-Q3oTH",
+        "title": "Рассказы",
+        "author": "О.Генри",
+        "notes": "",
+        "createdAt": "2020-11-02 16:52:48",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 97
+        }
+    },
     "3naxJMpPSk": {
         "id": "3naxJMpPSk",
         "title": "Парадокс Страсти",
@@ -345,18 +357,6 @@
             "id": "116257964632073652332-google",
             "nickname": "Rodina",
             "booksCount": 69
-        }
-    },
-    "0Uzb__-vS-": {
-        "id": "0Uzb__-vS-",
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "notes": "7/10 Интриги, религия, пряность и борьба за Арракис и империю.",
-        "createdAt": "2020-10-26 17:29:27",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 147
         }
     }
 }
