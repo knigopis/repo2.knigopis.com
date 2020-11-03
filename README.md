@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>178</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>825</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>226</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [timofeiilyushin](users/350/350168034-vkontakte)<sup>0</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>7</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>192</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>270</sup> 
 
 
-_03.11.2020 18:24:07_
+_03.11.2020 19:03:48_

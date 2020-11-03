@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 178,
+        "updatedAt": "2020-11-03 19:03:48"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 192,
         "updatedAt": "2020-10-23 23:18:17"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 270,
-        "updatedAt": "2020-10-23 23:11:03"
     }
 }

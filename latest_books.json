@@ -1,4 +1,16 @@
 {
+    "VthUCEDFdj": {
+        "id": "VthUCEDFdj",
+        "title": "Обитатели холмов",
+        "author": "Ричард Адамс",
+        "notes": "",
+        "createdAt": "2020-11-03 19:03:48",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 178
+        }
+    },
     "Fojy7YfUVX": {
         "id": "Fojy7YfUVX",
         "title": "Старая столица",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 148
-        }
-    },
-    "gSuA2mh3RT": {
-        "id": "gSuA2mh3RT",
-        "title": "0,05. Доказательная медицина от магии до поисков бессмертия",
-        "author": "Петр Талантов",
-        "notes": "",
-        "createdAt": "2020-10-27 09:15:55",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 35
         }
     }
 }
