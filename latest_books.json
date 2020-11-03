@@ -1,4 +1,16 @@
 {
+    "fUlCL16rvF": {
+        "id": "fUlCL16rvF",
+        "title": "Лучшая ведьма",
+        "author": "Савенко Валентина",
+        "notes": "Ироническое женское фэнтези с элементами любовного романа. Оставляет приятное послевкусие. Читать для лечения осенней хандры",
+        "createdAt": "2020-11-03 06:14:50",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 226
+        }
+    },
     "pJGF8aDDvX": {
         "id": "pJGF8aDDvX",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 68
-        }
-    },
-    "W1OrcXpVPi": {
-        "id": "W1OrcXpVPi",
-        "title": "Палата номер 6",
-        "author": "Чехов А.П.",
-        "notes": "",
-        "createdAt": "2020-10-26 19:35:33",
-        "user": {
-            "id": "116257964632073652332-google",
-            "nickname": "Rodina",
-            "booksCount": 70
         }
     }
 }
