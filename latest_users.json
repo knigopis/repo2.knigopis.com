@@ -1,4 +1,10 @@
 {
+    "22742452-yandex": {
+        "id": "22742452-yandex",
+        "nickname": "rNix",
+        "booksCount": 69,
+        "updatedAt": "2020-11-03 16:52:54"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 270,
         "updatedAt": "2020-10-23 23:11:03"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 245,
-        "updatedAt": "2020-10-23 19:09:09"
     }
 }
