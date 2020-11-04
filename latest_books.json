@@ -1,4 +1,16 @@
 {
+    "IWIZ4Ui_zi": {
+        "id": "IWIZ4Ui_zi",
+        "title": "Капюшонщик",
+        "author": "Филип Дик",
+        "notes": "",
+        "createdAt": "2020-11-04 19:19:53",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 13
+        }
+    },
     "UMadGIHycS": {
         "id": "UMadGIHycS",
         "title": "Миля Чудес",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 125
-        }
-    },
-    "jJ6Rexy4C8": {
-        "id": "jJ6Rexy4C8",
-        "title": "Невероятный иммунитет",
-        "author": "Дэниэл М. Дэвис",
-        "notes": "Книга скорее об истории открытий в иммунологии и об учёных, которые эти открытия сделали, но всё равно много интерфейсной информации",
-        "createdAt": "2020-10-31 15:49:42",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 264
         }
     }
 }
