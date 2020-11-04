@@ -1,4 +1,16 @@
 {
+    "voBnef791z": {
+        "id": "voBnef791z",
+        "title": "Скелет",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-11-04 19:15:09",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 5
+        }
+    },
     "VDRC2GvZPH": {
         "id": "VDRC2GvZPH",
         "title": "Город",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 223
-        }
-    },
-    "JxTUjfIETn": {
-        "id": "JxTUjfIETn",
-        "title": "Доктор Живаго",
-        "author": "Борис Пастернак",
-        "notes": "",
-        "createdAt": "2020-10-29 06:20:19",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 57
         }
     }
 }
