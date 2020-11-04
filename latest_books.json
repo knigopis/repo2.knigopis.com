@@ -1,4 +1,16 @@
 {
+    "Udo72gDOnB": {
+        "id": "Udo72gDOnB",
+        "title": "Зимний рынок",
+        "author": "Уильям Гибсон",
+        "notes": "",
+        "createdAt": "2020-11-04 19:16:22",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 8
+        }
+    },
     "HfudsGH0E_": {
         "id": "HfudsGH0E_",
         "title": "Безумие Джона Джонса",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 37
-        }
-    },
-    "kwkzgopPiW": {
-        "id": "kwkzgopPiW",
-        "title": "Алекс и Алекс 2",
-        "author": "Афанасьев Семён",
-        "notes": "Как-то не очень. Вообще не понял смысл того чем  занимается ГГ. В смысле смысл заданий которые ему дают.",
-        "createdAt": "2020-10-30 05:58:44",
-        "user": {
-            "id": "4974864-yandex",
-            "nickname": "seanis",
-            "booksCount": 1
         }
     }
 }
