@@ -1,4 +1,16 @@
 {
+    "23HjHD8q-F": {
+        "id": "23HjHD8q-F",
+        "title": "Чужая сила",
+        "author": "Андрей Васильев",
+        "notes": "",
+        "createdAt": "2020-11-04 19:21:30",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 16
+        }
+    },
     "tttKBgLAIV": {
         "id": "tttKBgLAIV",
         "title": "Коллекционер",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 142
-        }
-    },
-    "gxym18MC5I": {
-        "id": "gxym18MC5I",
-        "title": "Законы мозга. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-11-02 08:34:45",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 69
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by [TeenWolf3301](t.me/TeenWolf3301)<sup>15</sup>
+# List of books read by [TeenWolf3301](t.me/TeenWolf3301)<sup>16</sup>
 ---
 
 ## 2020
+
+### Чужая сила
+Андрей Васильев
+
 
 ### Коллекционер
 Джон Фаулз
