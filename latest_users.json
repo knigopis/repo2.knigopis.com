@@ -1,4 +1,10 @@
 {
+    "100726438533263363348-google": {
+        "id": "100726438533263363348-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-11-04 19:07:20"
+    },
     "209288065-vkontakte": {
         "id": "209288065-vkontakte",
         "nickname": "teenwolf3301",
@@ -172,11 +178,5 @@
         "nickname": "timofeiilyushin",
         "booksCount": 0,
         "updatedAt": "2020-10-25 16:45:21"
-    },
-    "111367585493471720963-google": {
-        "id": "111367585493471720963-google",
-        "nickname": "Fenix",
-        "booksCount": 7,
-        "updatedAt": "2020-10-25 11:12:16"
     }
 }
