@@ -1,4 +1,16 @@
 {
+    "A8t2Pff5i3": {
+        "id": "A8t2Pff5i3",
+        "title": "Человек с мешком",
+        "author": "Гэри А. Бронбек",
+        "notes": "",
+        "createdAt": "2020-11-04 19:15:36",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 6
+        }
+    },
     "voBnef791z": {
         "id": "voBnef791z",
         "title": "Скелет",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 824
-        }
-    },
-    "lgkna3vPsz": {
-        "id": "lgkna3vPsz",
-        "title": "Академия домашних волшебников",
-        "author": "Сахарова Саида Юсуповна",
-        "notes": "Отличная книга для детей + много полезных оецептов",
-        "createdAt": "2020-10-29 19:37:30",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 223
         }
     }
 }
