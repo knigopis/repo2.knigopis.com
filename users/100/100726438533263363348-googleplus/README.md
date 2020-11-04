@@ -1,7 +1,11 @@
-# List of books read by [TeenWolf3301](t.me/TeenWolf3301)<sup>6</sup>
+# List of books read by [TeenWolf3301](t.me/TeenWolf3301)<sup>7</sup>
 ---
 
 ## 2020
+
+### Безумие Джона Джонса
+Элджернон Блэквуд
+
 
 ### Человек с мешком
 Гэри А. Бронбек
