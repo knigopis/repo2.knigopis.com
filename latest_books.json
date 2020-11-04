@@ -1,4 +1,16 @@
 {
+    "wzQ1_I9l8t": {
+        "id": "wzQ1_I9l8t",
+        "title": "451° по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-11-04 19:13:34",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 1
+        }
+    },
     "EpHuu6V-rL": {
         "id": "EpHuu6V-rL",
         "title": "Маятник",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 124
-        }
-    },
-    "fwuGsA5jFk": {
-        "id": "fwuGsA5jFk",
-        "title": "Пояснюючи світ. Історія сучасної науки",
-        "author": "Стівен Вайнберг",
-        "notes": "5/10 Повстання грецької науки, римської та арабської аж до сучасності.",
-        "createdAt": "2020-10-28 10:02:29",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 150
         }
     }
 }
