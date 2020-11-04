@@ -1,4 +1,16 @@
 {
+    "CEacbiEAQi": {
+        "id": "CEacbiEAQi",
+        "title": "Город, в котором никто не выходит",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-11-04 19:08:42",
+        "user": {
+            "id": "209288065-vkontakte",
+            "nickname": "teenwolf3301",
+            "booksCount": 1
+        }
+    },
     "AOr4svOmmA": {
         "id": "AOr4svOmmA",
         "title": "Ленинградский фронт",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 36
-        }
-    },
-    "IL77TFKTYb": {
-        "id": "IL77TFKTYb",
-        "title": "Сага о живых кораблях. Волшебный корабль",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2020-10-27 11:01:38",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 65
         }
     }
 }
