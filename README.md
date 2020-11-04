@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>11</sup> 
+[TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>12</sup> 
 [teenwolf3301](users/209/209288065-vkontakte)<sup>3</sup> 
 [](users/100/100726438533263363348-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>143</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>113</sup> 
 
 
-_04.11.2020 19:19:24_
+_04.11.2020 19:19:42_
