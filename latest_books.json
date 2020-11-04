@@ -1,4 +1,16 @@
 {
+    "EpHuu6V-rL": {
+        "id": "EpHuu6V-rL",
+        "title": "Маятник",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-11-04 19:09:33",
+        "user": {
+            "id": "209288065-vkontakte",
+            "nickname": "teenwolf3301",
+            "booksCount": 3
+        }
+    },
     "3DzPklITXp": {
         "id": "3DzPklITXp",
         "title": "451° по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 150
-        }
-    },
-    "spNW7LpOwp": {
-        "id": "spNW7LpOwp",
-        "title": "The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe",
-        "author": "Jay W. Richards, William M. Briggs, Douglas Axe",
-        "notes": "ASIN : B087CLDWFB",
-        "createdAt": "2020-10-27 17:20:56",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 141
         }
     }
 }
