@@ -1,4 +1,10 @@
 {
+    "100726438533263363348-googleplus": {
+        "id": "100726438533263363348-googleplus",
+        "nickname": "TeenWolf3301",
+        "booksCount": 0,
+        "updatedAt": "2020-11-04 19:12:25"
+    },
     "209288065-vkontakte": {
         "id": "209288065-vkontakte",
         "nickname": "teenwolf3301",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 113,
         "updatedAt": "2020-10-25 18:40:48"
-    },
-    "350168034-vkontakte": {
-        "id": "350168034-vkontakte",
-        "nickname": "timofeiilyushin",
-        "booksCount": 0,
-        "updatedAt": "2020-10-25 16:45:21"
     }
 }
