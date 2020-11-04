@@ -1,4 +1,16 @@
 {
+    "slbM_Vc1Z_": {
+        "id": "slbM_Vc1Z_",
+        "title": "Маятник",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-11-04 19:13:54",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 2
+        }
+    },
     "wzQ1_I9l8t": {
         "id": "wzQ1_I9l8t",
         "title": "451° по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 66
-        }
-    },
-    "Hn1PFQYL4b": {
-        "id": "Hn1PFQYL4b",
-        "title": "Зелёная миля",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-10-28 10:37:43",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 124
         }
     }
 }
