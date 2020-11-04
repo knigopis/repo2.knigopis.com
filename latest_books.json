@@ -1,4 +1,16 @@
 {
+    "VDRC2GvZPH": {
+        "id": "VDRC2GvZPH",
+        "title": "Город",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-11-04 19:15:00",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 4
+        }
+    },
     "x4Qlw-jdQ0": {
         "id": "x4Qlw-jdQ0",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 57
-        }
-    },
-    "cVTTRWi_Ht": {
-        "id": "cVTTRWi_Ht",
-        "title": "Чемодан",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2020-10-29 06:19:46",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 56
         }
     }
 }
