@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>143</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>126</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>178</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>825</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>98</sup> 
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>142</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>69</sup> 
 [design.azat](users/274/274622786-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>264</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>192</sup> 
 
 
-_04.11.2020 07:05:33_
+_04.11.2020 11:52:11_
