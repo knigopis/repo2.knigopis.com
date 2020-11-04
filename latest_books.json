@@ -1,4 +1,16 @@
 {
+    "tttKBgLAIV": {
+        "id": "tttKBgLAIV",
+        "title": "Коллекционер",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2020-11-04 19:21:05",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 15
+        }
+    },
     "GyEdX089bv": {
         "id": "GyEdX089bv",
         "title": "Сущность",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 69
-        }
-    },
-    "LWrctUuBYe": {
-        "id": "LWrctUuBYe",
-        "title": "Магия прилагается или неприятности по договору",
-        "author": "Савенко Валентина",
-        "notes": "Сказка про волшебников. Миленько. Больше всех понравился крыс Гоша",
-        "createdAt": "2020-11-01 16:24:40",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 225
         }
     }
 }
