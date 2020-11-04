@@ -1,4 +1,16 @@
 {
+    "Q2MFgphzSm": {
+        "id": "Q2MFgphzSm",
+        "title": "Анубис",
+        "author": "Хольбайн Вольфганг",
+        "notes": "",
+        "createdAt": "2020-11-04 19:22:15",
+        "user": {
+            "id": "100726438533263363348-googleplus",
+            "nickname": "TeenWolf3301",
+            "booksCount": 17
+        }
+    },
     "23HjHD8q-F": {
         "id": "23HjHD8q-F",
         "title": "Чужая сила",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 68
-        }
-    },
-    "h1-ZPpK0zW": {
-        "id": "h1-ZPpK0zW",
-        "title": "Тень на ярком солнце",
-        "author": "Конторович Александр, Норка Сергей",
-        "notes": "",
-        "createdAt": "2020-11-02 15:30:13",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 142
         }
     }
 }
