@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[teenwolf3301](users/209/209288065-vkontakte)<sup>1</sup> 
+[teenwolf3301](users/209/209288065-vkontakte)<sup>2</sup> 
 [](users/100/100726438533263363348-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>143</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>126</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [timofeiilyushin](users/350/350168034-vkontakte)<sup>0</sup> 
 
 
-_04.11.2020 19:08:42_
+_04.11.2020 19:09:10_
