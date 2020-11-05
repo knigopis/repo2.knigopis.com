@@ -1,4 +1,16 @@
 {
+    "9GBV1vY5cs": {
+        "id": "9GBV1vY5cs",
+        "title": "Легенды древнего озера",
+        "author": "Обухова Л., Тимошенко Н.",
+        "notes": "",
+        "createdAt": "2020-11-05 17:23:24",
+        "user": {
+            "id": "3448154788585127-facebook",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "UmN3C55ICf": {
         "id": "UmN3C55ICf",
         "title": "Тайна таежной деревни",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 98
-        }
-    },
-    "Ytof-Q3oTH": {
-        "id": "Ytof-Q3oTH",
-        "title": "Рассказы",
-        "author": "О.Генри",
-        "notes": "",
-        "createdAt": "2020-11-02 16:52:48",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 97
         }
     }
 }

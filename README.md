@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/344/3448154788585127-facebook)<sup>1</sup> 
+[](users/344/3448154788585127-facebook)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>826</sup> 
 [TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>17</sup> 
 [teenwolf3301](users/209/209288065-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>108</sup> 
 
 
-_05.11.2020 17:20:58_
+_05.11.2020 17:23:24_
