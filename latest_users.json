@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 826,
+        "updatedAt": "2020-11-05 15:24:55"
+    },
     "100726438533263363348-googleplus": {
         "id": "100726438533263363348-googleplus",
         "nickname": "TeenWolf3301",
@@ -34,12 +40,6 @@
         "nickname": "Sky",
         "booksCount": 178,
         "updatedAt": "2020-11-03 19:03:48"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 825,
-        "updatedAt": "2020-11-03 18:24:07"
     },
     "22742452-yandex": {
         "id": "22742452-yandex",

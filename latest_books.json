@@ -1,4 +1,16 @@
 {
+    "jF14jnTUr0": {
+        "id": "jF14jnTUr0",
+        "title": "Голубая точка. Космическое будущее человечества",
+        "author": "Карл Эдвард Саган",
+        "notes": "",
+        "createdAt": "2020-11-05 15:24:55",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 826
+        }
+    },
     "Q2MFgphzSm": {
         "id": "Q2MFgphzSm",
         "title": "Анубис",
@@ -345,18 +357,6 @@
             "id": "836077803836456-facebook",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "1C4cWcBYtX": {
-        "id": "1C4cWcBYtX",
-        "title": "Утопия правил",
-        "author": "Д. Гребер",
-        "notes": "",
-        "createdAt": "2020-11-02 15:45:24",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 68
         }
     }
 }
