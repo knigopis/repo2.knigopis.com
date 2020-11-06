@@ -1,4 +1,10 @@
 {
+    "32895952-yandex": {
+        "id": "32895952-yandex",
+        "nickname": "swarrog",
+        "booksCount": 0,
+        "updatedAt": "2020-11-06 04:31:15"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "Rodina",
         "booksCount": 70,
         "updatedAt": "2020-10-26 19:35:33"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 228,
-        "updatedAt": "2020-10-26 09:36:58"
     }
 }
