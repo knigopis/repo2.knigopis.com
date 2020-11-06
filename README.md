@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[swarrog](users/328/32895952-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>42</sup> 
 [](users/344/3448154788585127-facebook)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>826</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>65</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>49</sup> 
 [Rodina](users/116/116257964632073652332-google)<sup>70</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>228</sup> 
 
 
-_05.11.2020 21:07:29_
+_06.11.2020 04:31:16_
