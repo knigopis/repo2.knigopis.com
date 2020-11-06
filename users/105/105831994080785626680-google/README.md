@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>226</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>227</sup>
 ---
 
 ## 2020
+
+### Секретарь палача
+Савенко Валентина
+> [2020-11-06] Хорошее женское фентези.
+
 
 ### Лучшая ведьма
 Савенко Валентина
