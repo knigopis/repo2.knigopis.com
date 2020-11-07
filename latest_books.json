@@ -1,4 +1,16 @@
 {
+    "PlR_L_B8SL": {
+        "id": "PlR_L_B8SL",
+        "title": "Похититель теней",
+        "author": "Марк Леви",
+        "notes": "",
+        "createdAt": "2020-11-07 23:03:22",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 54
+        }
+    },
     "1zh6IV_J6F": {
         "id": "1zh6IV_J6F",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "209288065-vkontakte",
             "nickname": "teenwolf3301",
             "booksCount": 1
-        }
-    },
-    "AOr4svOmmA": {
-        "id": "AOr4svOmmA",
-        "title": "Ленинградский фронт",
-        "author": "Лурье Лев, Маляров Леонид",
-        "notes": "",
-        "createdAt": "2020-11-04 11:52:10",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 143
         }
     }
 }
