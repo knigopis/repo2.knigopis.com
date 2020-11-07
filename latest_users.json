@@ -1,4 +1,10 @@
 {
+    "3653380-vkontakte": {
+        "id": "3653380-vkontakte",
+        "nickname": "nabilkin42",
+        "booksCount": 0,
+        "updatedAt": "2020-11-07 13:20:58"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 49,
         "updatedAt": "2020-10-27 07:24:50"
-    },
-    "116257964632073652332-google": {
-        "id": "116257964632073652332-google",
-        "nickname": "Rodina",
-        "booksCount": 70,
-        "updatedAt": "2020-10-26 19:35:33"
     }
 }
