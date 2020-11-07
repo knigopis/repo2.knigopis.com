@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nabilkin42](users/365/3653380-vkontakte)<sup>0</sup> 
+[nabilkin42](users/365/3653380-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>827</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>228</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>109</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>49</sup> 
 
 
-_07.11.2020 13:20:59_
+_07.11.2020 13:21:22_
