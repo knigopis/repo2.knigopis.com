@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 393,
+        "updatedAt": "2020-11-08 16:09:24"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 150,
         "updatedAt": "2020-10-28 10:02:29"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 65,
-        "updatedAt": "2020-10-27 11:01:38"
     }
 }

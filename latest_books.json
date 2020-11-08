@@ -1,4 +1,16 @@
 {
+    "153lORyRxU": {
+        "id": "153lORyRxU",
+        "title": "Дюна",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2020-11-08 16:09:24",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 393
+        }
+    },
     "PlR_L_B8SL": {
         "id": "PlR_L_B8SL",
         "title": "Похититель теней",
@@ -345,18 +357,6 @@
             "id": "209288065-vkontakte",
             "nickname": "teenwolf3301",
             "booksCount": 2
-        }
-    },
-    "CEacbiEAQi": {
-        "id": "CEacbiEAQi",
-        "title": "Город, в котором никто не выходит",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2020-11-04 19:08:42",
-        "user": {
-            "id": "209288065-vkontakte",
-            "nickname": "teenwolf3301",
-            "booksCount": 1
         }
     }
 }
