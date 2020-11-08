@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 99,
+        "updatedAt": "2020-11-08 18:01:57"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -94,12 +100,6 @@
         "nickname": "rNix",
         "booksCount": 69,
         "updatedAt": "2020-11-03 16:52:54"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 98,
-        "updatedAt": "2020-11-02 16:53:27"
     },
     "836077803836456-facebook": {
         "id": "836077803836456-facebook",
