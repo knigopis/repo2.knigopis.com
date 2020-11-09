@@ -1,4 +1,10 @@
 {
+    "109565266968438976725-google": {
+        "id": "109565266968438976725-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-11-09 09:17:38"
+    },
     "106449150245422604892-google": {
         "id": "106449150245422604892-google",
         "nickname": "gg",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-10-28 22:08:56"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 66,
-        "updatedAt": "2020-10-28 19:57:49"
     }
 }
