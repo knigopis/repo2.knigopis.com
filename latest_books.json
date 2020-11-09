@@ -1,4 +1,16 @@
 {
+    "Hxzddxiw_m": {
+        "id": "Hxzddxiw_m",
+        "title": "Два в одном. Случайные враги.",
+        "author": "Савенко Валентина.",
+        "notes": "Про взаимопонимание, любовь и дружбу. Ещё и с чувством юмора. Читать было весело.",
+        "createdAt": "2020-11-09 19:37:13",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 229
+        }
+    },
     "Ljna4jO9sE": {
         "id": "Ljna4jO9sE",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "100726438533263363348-googleplus",
             "nickname": "TeenWolf3301",
             "booksCount": 4
-        }
-    },
-    "x4Qlw-jdQ0": {
-        "id": "x4Qlw-jdQ0",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-11-04 19:13:57",
-        "user": {
-            "id": "100726438533263363348-googleplus",
-            "nickname": "TeenWolf3301",
-            "booksCount": 3
         }
     }
 }

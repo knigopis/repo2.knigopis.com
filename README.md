@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Два в одном. Случайные враги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>229</sup>
+    > Про взаимопонимание, любовь и дружбу. Ещё и с чувством юмора. Читать было весело.
+
 * Radical Uncertainty: Decision-making for an unknowable future ~ [exulted](users/100/100599204551896265722-google)<sup>144</sup>
     > ASIN : B07SZLGZYH
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Женское фентези про попаданок. Гибрид Сумерек и непонятно чего. За три дня попасть, выучить язык, разобраться в устройстве мира, влюбиться в монстра... Неплохо, но даже для девчачьей книги перебор
 
 * Секретарь палача ~ [Chiffi](users/105/105831994080785626680-google)<sup>227</sup>
-    > Хорошее женское фентези.
 
 * Чистая архитектура. Искусство разработки программного обеспечения ~ [rNix](users/227/22742452-yandex)<sup>69</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Апельсинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>224</sup>
 
-* Самый богатый человек в Вавилоне ~ [dmiro](users/571/5714115-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>229</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>110</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>3</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>144</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>54</sup> 
 [nabilkin42](users/365/3653380-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>827</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>228</sup> 
 [swarrog](users/328/32895952-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>42</sup> 
 [TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115761960622353006025-google)<sup>0</sup> 
 
 
-_09.11.2020 19:28:24_
+_09.11.2020 19:37:13_

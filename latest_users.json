@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 229,
+        "updatedAt": "2020-11-09 19:37:13"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -58,12 +64,6 @@
         "nickname": "Janet",
         "booksCount": 827,
         "updatedAt": "2020-11-07 12:37:01"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 228,
-        "updatedAt": "2020-11-07 09:59:25"
     },
     "32895952-yandex": {
         "id": "32895952-yandex",
