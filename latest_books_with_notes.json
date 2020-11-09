@@ -1,4 +1,16 @@
 {
+    "ZBRGpv2c9o": {
+        "id": "ZBRGpv2c9o",
+        "title": "Radical Uncertainty: Decision-making for an unknowable future",
+        "author": "Mervyn King, John Kay",
+        "notes": "ASIN : B07SZLGZYH",
+        "createdAt": "2020-11-09 12:35:04",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 144
+        }
+    },
     "XT49CK-hc5": {
         "id": "XT49CK-hc5",
         "title": "Чужое счастье. Мой чужой монстр.",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 225
-        }
-    },
-    "iriq4o2s_8": {
-        "id": "iriq4o2s_8",
-        "title": "Греческий огонь",
-        "author": "Никос Зервас",
-        "notes": "Следовало бы слить с кадетами. Окончание театра абсурда",
-        "createdAt": "2020-10-22 06:49:18",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 224
         }
     }
 }

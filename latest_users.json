@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 144,
+        "updatedAt": "2020-11-09 12:35:04"
+    },
     "109565266968438976725-google": {
         "id": "109565266968438976725-google",
         "nickname": null,
@@ -88,12 +94,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-11-04 19:07:20"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 143,
-        "updatedAt": "2020-11-04 11:52:10"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",

@@ -1,4 +1,16 @@
 {
+    "ZBRGpv2c9o": {
+        "id": "ZBRGpv2c9o",
+        "title": "Radical Uncertainty: Decision-making for an unknowable future",
+        "author": "Mervyn King, John Kay",
+        "notes": "ASIN : B07SZLGZYH",
+        "createdAt": "2020-11-09 12:35:04",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 144
+        }
+    },
     "PRR-bGlmfZ": {
         "id": "PRR-bGlmfZ",
         "title": "Три мушкетёра",
@@ -345,18 +357,6 @@
             "id": "100726438533263363348-googleplus",
             "nickname": "TeenWolf3301",
             "booksCount": 1
-        }
-    },
-    "EpHuu6V-rL": {
-        "id": "EpHuu6V-rL",
-        "title": "Маятник",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2020-11-04 19:09:33",
-        "user": {
-            "id": "209288065-vkontakte",
-            "nickname": "teenwolf3301",
-            "booksCount": 3
         }
     }
 }

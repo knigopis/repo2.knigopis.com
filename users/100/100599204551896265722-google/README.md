@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>143</sup>
+# Список прочитанных книг пользователя exulted<sup>144</sup>
 ---
 
 ## 2020
+
+### Radical Uncertainty: Decision-making for an unknowable future
+Mervyn King, John Kay
+> [2020-11-08] ASIN : B07SZLGZYH
+
 
 ### Ленинградский фронт
 Лурье Лев, Маляров Леонид
