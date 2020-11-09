@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 3,
+        "updatedAt": "2020-11-09 18:30:47"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -70,12 +76,6 @@
         "nickname": "Beaviska",
         "booksCount": 42,
         "updatedAt": "2020-11-05 21:07:29"
-    },
-    "3448154788585127-facebook": {
-        "id": "3448154788585127-facebook",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2020-11-05 17:23:24"
     },
     "100726438533263363348-googleplus": {
         "id": "100726438533263363348-googleplus",

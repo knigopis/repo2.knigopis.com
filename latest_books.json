@@ -1,4 +1,16 @@
 {
+    "Yo38Z7xwev": {
+        "id": "Yo38Z7xwev",
+        "title": "Чудны дела твои господи",
+        "author": "Устинова Татьяна",
+        "notes": "",
+        "createdAt": "2020-11-09 18:30:47",
+        "user": {
+            "id": "3448154788585127-facebook",
+            "nickname": "Пу_тем",
+            "booksCount": 3
+        }
+    },
     "ZBRGpv2c9o": {
         "id": "ZBRGpv2c9o",
         "title": "Radical Uncertainty: Decision-making for an unknowable future",
@@ -345,18 +357,6 @@
             "id": "100726438533263363348-googleplus",
             "nickname": "TeenWolf3301",
             "booksCount": 2
-        }
-    },
-    "wzQ1_I9l8t": {
-        "id": "wzQ1_I9l8t",
-        "title": "451° по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2020-11-04 19:13:34",
-        "user": {
-            "id": "100726438533263363348-googleplus",
-            "nickname": "TeenWolf3301",
-            "booksCount": 1
         }
     }
 }
