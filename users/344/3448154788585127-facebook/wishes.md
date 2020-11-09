@@ -1,6 +1,6 @@
-# Wish list of books by [](https://www.facebook.com/profile.php?id=3448154788585127)
+# Wish list of books by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)
 ---
 
-### `41` Тишина старого кладбища
+### `67` Тишина старого кладбища
 Обухова Л., Тимошенко Н.
 
