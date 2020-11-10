@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
+    > Тема невероятно интересная, но как же скучно написано. Часть книги воспоминания автора о детстве и интимных моментах взрослой жизни (как пример для объяснения некоторых моментов да, но ни каждые же 10 страниц), часть книги сухие данные научных экспериментов. Но тем не менее полезную информацию для себя почерпнула.
+
 * Два в одном. Случайные враги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>229</sup>
     > Про взаимопонимание, любовь и дружбу. Ещё и с чувством юмора. Читать было весело.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN : B07SZLGZYH
 
 * Чужое счастье. Мой чужой монстр. ~ [Chiffi](users/105/105831994080785626680-google)<sup>228</sup>
-    > Женское фентези про попаданок. Гибрид Сумерек и непонятно чего. За три дня попасть, выучить язык, разобраться в устройстве мира, влюбиться в монстра... Неплохо, но даже для девчачьей книги перебор
 
 * Секретарь палача ~ [Chiffi](users/105/105831994080785626680-google)<sup>227</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Невероятный иммунитет ~ [Garka](users/115/115753719718250012620-google)<sup>264</sup>
 
-* Апельсинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>224</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>265</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>179</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>70</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>66</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
 [design.azat](users/274/274622786-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>264</sup> 
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 
 
-_10.11.2020 18:38:03_
+_10.11.2020 19:07:30_
