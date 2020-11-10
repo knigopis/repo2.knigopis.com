@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>127</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>265</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>179</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>70</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>17</sup> 
 [teenwolf3301](users/209/209288065-vkontakte)<sup>3</sup> 
 [](users/100/100726438533263363348-google)<sup>0</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>126</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 
 
-_10.11.2020 19:07:30_
+_10.11.2020 21:57:52_
