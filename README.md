@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>70</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>66</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>229</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>110</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>69</sup> 
 [design.azat](users/274/274622786-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>264</sup> 
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 
 
-_10.11.2020 12:01:21_
+_10.11.2020 12:09:15_
