@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>66</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>229</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>110</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>37</sup> 
 [seanis](users/497/4974864-yandex)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
-[](users/115/115761960622353006025-google)<sup>0</sup> 
 
 
-_09.11.2020 19:37:13_
+_10.11.2020 12:01:21_
