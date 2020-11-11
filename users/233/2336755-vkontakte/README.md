@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>108</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>109</sup>
 ---
 
 ## 2020
+
+### Лотерея
+Ширли Джексон
+> [2020-11-10] 
+
 
 ### Ночной полет
 Антуан де Сент-Экзюпери

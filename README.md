@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>109</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>828</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>127</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>265</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>37</sup> 
 [seanis](users/497/4974864-yandex)<sup>1</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>57</sup> 
 
 
-_11.11.2020 08:27:18_
+_11.11.2020 08:49:21_
