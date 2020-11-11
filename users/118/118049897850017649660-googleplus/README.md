@@ -1,7 +1,12 @@
-# List of books read by Sky<sup>179</sup>
+# List of books read by Sky<sup>180</sup>
 ---
 
 ## 2020
+
+### Дети из дома N300
+Синсукэ Тани
+> [2020-11-11] 
+
 
 ### Ход королевы
 Уолтер Тевис

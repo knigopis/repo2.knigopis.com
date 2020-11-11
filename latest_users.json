@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 180,
+        "updatedAt": "2020-11-11 19:39:27"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -40,12 +46,6 @@
         "nickname": "Garka",
         "booksCount": 265,
         "updatedAt": "2020-11-10 19:07:30"
-    },
-    "118049897850017649660-googleplus": {
-        "id": "118049897850017649660-googleplus",
-        "nickname": "Sky",
-        "booksCount": 179,
-        "updatedAt": "2020-11-10 18:38:03"
     },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
