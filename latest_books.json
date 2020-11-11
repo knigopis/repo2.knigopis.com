@@ -1,4 +1,16 @@
 {
+    "eR5JWF4JhB": {
+        "id": "eR5JWF4JhB",
+        "title": "Прощальная гастроль",
+        "author": "Мария Метлицкая",
+        "notes": "",
+        "createdAt": "2020-11-11 19:52:03",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 114
+        }
+    },
     "V_GhmdtlPx": {
         "id": "V_GhmdtlPx",
         "title": "Дети из дома N300",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "jF14jnTUr0": {
-        "id": "jF14jnTUr0",
-        "title": "Голубая точка. Космическое будущее человечества",
-        "author": "Карл Эдвард Саган",
-        "notes": "",
-        "createdAt": "2020-11-05 15:24:55",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 826
         }
     }
 }

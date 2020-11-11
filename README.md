@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>114</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>180</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>829</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [design.azat](users/274/274622786-vkontakte)<sup>0</sup> 
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>37</sup> 
 
 
-_11.11.2020 19:39:27_
+_11.11.2020 19:52:03_
