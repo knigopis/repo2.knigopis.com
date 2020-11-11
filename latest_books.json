@@ -1,4 +1,16 @@
 {
+    "Xf_AcuyUJ-": {
+        "id": "Xf_AcuyUJ-",
+        "title": "Зеркало для героя",
+        "author": "Владислав Рыбас",
+        "notes": "4/10 Попаданцы в послевоенном Донбассе.",
+        "createdAt": "2020-11-11 18:30:29",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 151
+        }
+    },
     "009_UFyItU": {
         "id": "009_UFyItU",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "100726438533263363348-googleplus",
             "nickname": "TeenWolf3301",
             "booksCount": 14
-        }
-    },
-    "IWIZ4Ui_zi": {
-        "id": "IWIZ4Ui_zi",
-        "title": "Капюшонщик",
-        "author": "Филип Дик",
-        "notes": "",
-        "createdAt": "2020-11-04 19:19:53",
-        "user": {
-            "id": "100726438533263363348-googleplus",
-            "nickname": "TeenWolf3301",
-            "booksCount": 13
         }
     }
 }

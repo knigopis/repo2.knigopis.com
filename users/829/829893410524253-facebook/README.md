@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>150</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>151</sup>
 ---
 
 ## 2020
+
+### Зеркало для героя
+Владислав Рыбас
+> [2020-11-05] 4/10 Попаданцы в послевоенном Донбассе.
+
 
 ### Пояснюючи світ. Історія сучасної науки
 Стівен Вайнберг

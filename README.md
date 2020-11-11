@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зеркало для героя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup>
+    > 4/10 Попаданцы в послевоенном Донбассе.
+
 * Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
     > Тема невероятно интересная, но как же скучно написано. Часть книги воспоминания автора о детстве и интимных моментах взрослой жизни (как пример для объяснения некоторых моментов да, но ни каждые же 10 страниц), часть книги сухие данные научных экспериментов. Но тем не менее полезную информацию для себя почерпнула.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Про взаимопонимание, любовь и дружбу. Ещё и с чувством юмора. Читать было весело.
 
 * Radical Uncertainty: Decision-making for an unknowable future ~ [exulted](users/100/100599204551896265722-google)<sup>144</sup>
-    > ASIN : B07SZLGZYH
 
 * Чужое счастье. Мой чужой монстр. ~ [Chiffi](users/105/105831994080785626680-google)<sup>228</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Магия прилагается или неприятности по договору ~ [Chiffi](users/105/105831994080785626680-google)<sup>225</sup>
 
-* Невероятный иммунитет ~ [Garka](users/115/115753719718250012620-google)<sup>264</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>111</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>4</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>109</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>37</sup> 
-[seanis](users/497/4974864-yandex)<sup>1</sup> 
 
 
-_11.11.2020 18:19:42_
+_11.11.2020 18:30:29_
