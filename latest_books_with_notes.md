@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
 * Конфлікти, що змінили світ ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>152</sup>
 * Зеркало для героя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup>
 * Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
@@ -30,7 +31,6 @@
 * Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
 * Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
 * Повесть о каменном хлебе ~ [Йолант](users/104/104690883692185089260-google)<sup>230</sup>
-* Милкино счастье ~ [Йолант](users/104/104690883692185089260-google)<sup>229</sup>
 
 
-_11.11.2020 18:35:52_
+_11.11.2020 18:38:00_
