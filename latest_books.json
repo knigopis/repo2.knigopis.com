@@ -1,4 +1,16 @@
 {
+    "qWT-2JxaUq": {
+        "id": "qWT-2JxaUq",
+        "title": "Вдова мастера теней",
+        "author": "Савенко Валентина",
+        "notes": "Очаровательное женское фэнтези. Правда автор слегка перемудрила с интригой и детективной составляющей",
+        "createdAt": "2020-11-12 16:56:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 230
+        }
+    },
     "DdLThA7Qap": {
         "id": "DdLThA7Qap",
         "title": "Русские народные сказки",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 227
-        }
-    },
-    "w4K6QTVMIb": {
-        "id": "w4K6QTVMIb",
-        "title": "Морской Волк",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2020-11-05 21:07:29",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 42
         }
     }
 }

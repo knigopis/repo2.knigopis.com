@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
+    > Очаровательное женское фэнтези. Правда автор слегка перемудрила с интригой и детективной составляющей
+
 * Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
     > 7/10 Розлучення американської єврейської родини на тлі загибелі держави Ізраель.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Ґрунтовний та зрозумілий аналіз кофліктів: Північна Ірландія, Кіпр, Балкани, Грузія, Придністров'я, Кашмір.
 
 * Зеркало для героя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup>
-    > 4/10 Попаданцы в послевоенном Донбассе.
 
 * Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чистая архитектура. Искусство разработки программного обеспечения ~ [rNix](users/227/22742452-yandex)<sup>69</sup>
 
-* Лучшая ведьма ~ [Chiffi](users/105/105831994080785626680-google)<sup>226</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>230</sup> 
 [redwhitetee](users/503/503385159-vkontakte)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>114</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>180</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>265</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>70</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>66</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>229</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>144</sup> 
 [](users/109/109565266968438976725-google)<sup>0</sup> 
 [gg](users/106/106449150245422604892-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 
 
-_12.11.2020 05:41:11_
+_12.11.2020 16:56:58_
