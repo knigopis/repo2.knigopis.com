@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[redwhitetee](users/503/503385159-vkontakte)<sup>1</sup> 
+[redwhitetee](users/503/503385159-vkontakte)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>114</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>180</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>829</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 
 
-_12.11.2020 04:48:55_
+_12.11.2020 05:41:11_
