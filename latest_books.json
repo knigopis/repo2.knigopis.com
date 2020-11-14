@@ -1,4 +1,16 @@
 {
+    "VTu_xSHVZe": {
+        "id": "VTu_xSHVZe",
+        "title": "Дипломированная нечисть",
+        "author": "Савенко Валентина",
+        "notes": "Доброе, позитивное чтение для поднятия настроения",
+        "createdAt": "2020-11-14 07:43:42",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 231
+        }
+    },
     "Mlhegh6f2O": {
         "id": "Mlhegh6f2O",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 228
-        }
-    },
-    "yGtgu6rgig": {
-        "id": "yGtgu6rgig",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2020-11-06 21:03:38",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 109
         }
     }
 }

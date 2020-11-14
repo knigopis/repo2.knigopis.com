@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дипломированная нечисть ~ [Chiffi](users/105/105831994080785626680-google)<sup>231</sup>
+    > Доброе, позитивное чтение для поднятия настроения
+
 * Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
     > Очаровательное женское фэнтези. Правда автор слегка перемудрила с интригой и детективной составляющей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Розлучення американської єврейської родини на тлі загибелі держави Ізраель.
 
 * Конфлікти, що змінили світ ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>152</sup>
-    > 9/10 Ґрунтовний та зрозумілий аналіз кофліктів: Північна Ірландія, Кіпр, Балкани, Грузія, Придністров'я, Кашмір.
 
 * Зеркало для героя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Секретарь палача ~ [Chiffi](users/105/105831994080785626680-google)<sup>227</sup>
 
-* Чистая архитектура. Искусство разработки программного обеспечения ~ [rNix](users/227/22742452-yandex)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>231</sup> 
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>230</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>114</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>180</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>829</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 
 
-_12.11.2020 20:52:08_
+_14.11.2020 07:43:42_

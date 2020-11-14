@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дипломированная нечисть ~ [Chiffi](users/105/105831994080785626680-google)<sup>231</sup>
 * Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
 * Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
 * Конфлікти, що змінили світ ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>152</sup>
@@ -30,7 +31,6 @@
 * Академия домашних волшебников ~ [Йолант](users/104/104690883692185089260-google)<sup>263</sup>
 * Серафим Саровский. Духовные наставления и пророчества ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>245</sup>
 * Смертельная белизна. ~ [Chiffi](users/105/105831994080785626680-google)<sup>222</sup>
-* Disunited Nations: The Scramble for Power in an Ungoverned World ~ [exulted](users/100/100599204551896265722-google)<sup>140</sup>
 
 
-_12.11.2020 16:56:58_
+_14.11.2020 07:43:42_
