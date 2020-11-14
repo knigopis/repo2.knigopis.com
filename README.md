@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>232</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>71</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>47</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>231</sup> 
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>114</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>180</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
 
 
-_14.11.2020 19:47:37_
+_14.11.2020 21:07:26_

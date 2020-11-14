@@ -1,4 +1,16 @@
 {
+    "M0v1YTbEuY": {
+        "id": "M0v1YTbEuY",
+        "title": "Места светлой тьмы",
+        "author": "Савенко Валентина",
+        "notes": "",
+        "createdAt": "2020-11-14 21:07:26",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 232
+        }
+    },
     "8SHB1oX5s6": {
         "id": "8SHB1oX5s6",
         "title": "Как избавиться от переутомления. Универсальные правила",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 54
-        }
-    },
-    "1zh6IV_J6F": {
-        "id": "1zh6IV_J6F",
-        "title": "",
-        "author": "Пушкин",
-        "notes": "",
-        "createdAt": "2020-11-07 13:21:22",
-        "user": {
-            "id": "3653380-vkontakte",
-            "nickname": "nabilkin42",
-            "booksCount": 1
         }
     }
 }

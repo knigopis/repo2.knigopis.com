@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>231</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>232</sup>
 ---
 
 ## 2020
+
+### Места светлой тьмы
+Савенко Валентина
+> [2020-11-14] 
+
 
 ### Дипломированная нечисть
 Савенко Валентина
