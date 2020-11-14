@@ -1,4 +1,16 @@
 {
+    "nl2rAQtagg": {
+        "id": "nl2rAQtagg",
+        "title": "Исторические повести",
+        "author": "Борис Изюмский",
+        "notes": "В рассказе Нина Грибоедова про погибший казачий конвой в Персии",
+        "createdAt": "2020-11-14 09:35:18",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 47
+        }
+    },
     "VTu_xSHVZe": {
         "id": "VTu_xSHVZe",
         "title": "Дипломированная нечисть",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 245
-        }
-    },
-    "sVWkpQBdLV": {
-        "id": "sVWkpQBdLV",
-        "title": "Смертельная белизна.",
-        "author": "Гэлбрейт Роберт",
-        "notes": "Хороший детектив, интересный сюжет, хороший язык",
-        "createdAt": "2020-10-23 17:57:07",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 222
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 47,
+        "updatedAt": "2020-11-14 09:35:18"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "design.azat",
         "booksCount": 0,
         "updatedAt": "2020-11-01 07:05:34"
-    },
-    "1241017526268068-facebook": {
-        "id": "1241017526268068-facebook",
-        "nickname": "говно",
-        "booksCount": 0,
-        "updatedAt": "2020-10-30 18:53:38"
     }
 }

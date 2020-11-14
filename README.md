@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Исторические повести ~ [mfevralev](users/140/140966150-vkontakte)<sup>47</sup>
+    > В рассказе Нина Грибоедова про погибший казачий конвой в Персии
+
 * Дипломированная нечисть ~ [Chiffi](users/105/105831994080785626680-google)<sup>231</sup>
     > Доброе, позитивное чтение для поднятия настроения
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очаровательное женское фэнтези. Правда автор слегка перемудрила с интригой и детективной составляющей
 
 * Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
-    > 7/10 Розлучення американської єврейської родини на тлі загибелі держави Ізраель.
 
 * Конфлікти, що змінили світ ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>152</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чужое счастье. Мой чужой монстр. ~ [Chiffi](users/105/105831994080785626680-google)<sup>228</sup>
 
-* Секретарь палача ~ [Chiffi](users/105/105831994080785626680-google)<sup>227</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>47</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>231</sup> 
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>114</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>68</sup> 
 [design.azat](users/274/274622786-vkontakte)<sup>0</sup> 
-[говно](users/124/1241017526268068-facebook)<sup>0</sup> 
 
 
-_14.11.2020 07:43:42_
+_14.11.2020 09:35:18_
