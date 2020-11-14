@@ -1,4 +1,16 @@
 {
+    "8SHB1oX5s6": {
+        "id": "8SHB1oX5s6",
+        "title": "Как избавиться от переутомления. Универсальные правила",
+        "author": "Андрей Курпатов",
+        "notes": "",
+        "createdAt": "2020-11-14 14:33:20",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 71
+        }
+    },
     "nl2rAQtagg": {
         "id": "nl2rAQtagg",
         "title": "Исторические повести",
@@ -345,18 +357,6 @@
             "id": "3653380-vkontakte",
             "nickname": "nabilkin42",
             "booksCount": 1
-        }
-    },
-    "-lT1UKQgr6": {
-        "id": "-lT1UKQgr6",
-        "title": "Тесные врата",
-        "author": "Андре Жид",
-        "notes": "",
-        "createdAt": "2020-11-07 12:37:01",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 827
         }
     }
 }
