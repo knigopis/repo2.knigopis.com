@@ -1,4 +1,4 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>81</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>82</sup>
 ---
 
 ## 2017
@@ -82,6 +82,10 @@ Rick Riordan
 ### До встречи с тобой
 Джоджо Мойес
 > [2016-01-10] 
+
+
+### Улыбка 45-го калибра
+Дарья Донцова
 
 
 
