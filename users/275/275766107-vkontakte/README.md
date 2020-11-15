@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>59</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>60</sup>
 ---
 
 ## 2015
+
+### Самый богатый человек в Вавилоне
+Клейсон Джорж Самюэль
+> [2015-06-14] 
+
 
 ### Мани, или Азбука денег
 Бодо Шефер
