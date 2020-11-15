@@ -1,4 +1,16 @@
 {
+    "fOz4NWE5wy": {
+        "id": "fOz4NWE5wy",
+        "title": "Делириум",
+        "author": "Лорен Оливер",
+        "notes": "",
+        "createdAt": "2020-11-15 14:32:55",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 25
+        }
+    },
     "7SiDo2Wwdn": {
         "id": "7SiDo2Wwdn",
         "title": "Операция «Транзит»",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 232
-        }
-    },
-    "8SHB1oX5s6": {
-        "id": "8SHB1oX5s6",
-        "title": "Как избавиться от переутомления. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-11-14 14:33:20",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 71
         }
     }
 }

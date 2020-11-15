@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>24</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>25</sup>
 ---
 
 ## 2013
+
+### Делириум
+Лорен Оливер
+
 
 ### P.S. Я тебя люблю
 Сесилия Ахерн
