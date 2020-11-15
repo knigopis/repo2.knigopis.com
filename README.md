@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия мёртвых. Основы погодной некромантии ~ [Chiffi](users/105/105831994080785626680-google)<sup>233</sup>
+    > Мило, трогательно и поднимает настроение. Добрая сказка с принцем и милыми пушистиками-нежитью.
+
 * Влияй ~ [Fenix](users/111/111367585493471720963-google)<sup>9</sup>
     > Огонь
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В рассказе Нина Грибоедова про погибший казачий конвой в Персии
 
 * Дипломированная нечисть ~ [Chiffi](users/105/105831994080785626680-google)<sup>231</sup>
-    > Доброе, позитивное чтение для поднятия настроения
 
 * Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Два в одном. Случайные враги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>229</sup>
 
-* Radical Uncertainty: Decision-making for an unknowable future ~ [exulted](users/100/100599204551896265722-google)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>233</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>85</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>146</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>232</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>71</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>47</sup> 
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 
 
-_15.11.2020 15:24:26_
+_15.11.2020 20:50:43_
