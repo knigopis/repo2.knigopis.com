@@ -1,4 +1,16 @@
 {
+    "l1sANg9qEc": {
+        "id": "l1sANg9qEc",
+        "title": "Девушка с татуировкой дракона",
+        "author": "Стиг Ларссон",
+        "notes": "",
+        "createdAt": "2020-11-15 15:14:13",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 75
+        }
+    },
     "0IzZff0F32": {
         "id": "0IzZff0F32",
         "title": "Психоз",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 46
-        }
-    },
-    "nm_uocJfDP": {
-        "id": "nm_uocJfDP",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2020-11-15 14:51:43",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 45
         }
     }
 }
