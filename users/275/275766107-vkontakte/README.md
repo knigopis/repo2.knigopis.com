@@ -1,5 +1,13 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>72</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>73</sup>
 ---
+
+## 2017
+
+### Percy Jackson. The Lightning Thief.
+Rick Riordan
+> [2017-01-03] 
+
+
 
 ## 2016
 
