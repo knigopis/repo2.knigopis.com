@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>75</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>76</sup>
 ---
 
 ## 2017
+
+### Девушка, которая играла с огнём
+Стиг Ларссон
+> [2017-08] 
+
 
 ### Девушка с татуировкой дракона
 Стиг Ларссон
