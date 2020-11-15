@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[aktoty](users/275/275766107-vkontakte)<sup>19</sup> 
+[aktoty](users/275/275766107-vkontakte)<sup>20</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>232</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 
 
-_15.11.2020 14:17:10_
+_15.11.2020 14:17:23_
