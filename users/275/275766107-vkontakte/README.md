@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>50</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>51</sup>
 ---
 
 ## 2015
+
+### Гордость и предубеждение
+Джейн Остен
+> [2015-02-29] 
+
 
 ### Пятьдесят оттенков свободы
 Э. Л. Джеймс
