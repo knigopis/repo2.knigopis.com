@@ -1,4 +1,16 @@
 {
+    "GtiepoEPPx": {
+        "id": "GtiepoEPPx",
+        "title": "Голод",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2020-11-15 14:05:10",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 2
+        }
+    },
     "0yysqWgnuf": {
         "id": "0yysqWgnuf",
         "title": "Дневники вампира",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 3
-        }
-    },
-    "ZBRGpv2c9o": {
-        "id": "ZBRGpv2c9o",
-        "title": "Radical Uncertainty: Decision-making for an unknowable future",
-        "author": "Mervyn King, John Kay",
-        "notes": "ASIN : B07SZLGZYH",
-        "createdAt": "2020-11-09 12:35:04",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 144
         }
     }
 }
