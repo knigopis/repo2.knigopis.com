@@ -1,4 +1,16 @@
 {
+    "yaL-42HMJD": {
+        "id": "yaL-42HMJD",
+        "title": "Голодные игры",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2020-11-15 14:06:54",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 7
+        }
+    },
     "9sZ5cTmzZc": {
         "id": "9sZ5cTmzZc",
         "title": "Души теней",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 179
-        }
-    },
-    "tDhrHtGWJb": {
-        "id": "tDhrHtGWJb",
-        "title": "Убить иллюзии. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-11-10 12:09:15",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 70
         }
     }
 }
