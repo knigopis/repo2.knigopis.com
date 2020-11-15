@@ -1,4 +1,16 @@
 {
+    "Jv-NOiJenB": {
+        "id": "Jv-NOiJenB",
+        "title": "Дневник Анны Франк",
+        "author": "Анна Франк",
+        "notes": "",
+        "createdAt": "2020-11-15 14:44:30",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 39
+        }
+    },
     "JokjdZI8jW": {
         "id": "JokjdZI8jW",
         "title": "Между небом и землей",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 12
-        }
-    },
-    "x82j0EMzFj": {
-        "id": "x82j0EMzFj",
-        "title": "Секреты",
-        "author": "Фрэнсин Паскаль",
-        "notes": "",
-        "createdAt": "2020-11-15 14:14:33",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 11
         }
     }
 }

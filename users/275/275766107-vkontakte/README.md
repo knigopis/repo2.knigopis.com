@@ -1,5 +1,13 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>38</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>39</sup>
 ---
+
+## 2014
+
+### Дневник Анны Франк
+Анна Франк
+> [2014-01-31] 
+
+
 
 ## 2013
 
