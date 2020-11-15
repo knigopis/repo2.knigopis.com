@@ -1,4 +1,16 @@
 {
+    "pUfaPKUgo3": {
+        "id": "pUfaPKUgo3",
+        "title": "Интервью с вампиром",
+        "author": "Энн Райс",
+        "notes": "Не очень интересная книга",
+        "createdAt": "2020-11-15 14:35:50",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 29
+        }
+    },
     "V3rHlglPb7": {
         "id": "V3rHlglPb7",
         "title": "Эллигент",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 2
-        }
-    },
-    "0yysqWgnuf": {
-        "id": "0yysqWgnuf",
-        "title": "Дневники вампира",
-        "author": "Лиза Джейн Смит",
-        "notes": "",
-        "createdAt": "2020-11-15 14:04:30",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 1
         }
     }
 }
