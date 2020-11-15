@@ -1,4 +1,16 @@
 {
+    "N9oQudHqTX": {
+        "id": "N9oQudHqTX",
+        "title": "Действуй",
+        "author": "Ицхак Пинтосевич",
+        "notes": "",
+        "createdAt": "2020-11-15 07:08:53",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 8
+        }
+    },
     "M0v1YTbEuY": {
         "id": "M0v1YTbEuY",
         "title": "Места светлой тьмы",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 393
-        }
-    },
-    "PlR_L_B8SL": {
-        "id": "PlR_L_B8SL",
-        "title": "Похититель теней",
-        "author": "Марк Леви",
-        "notes": "",
-        "createdAt": "2020-11-07 23:03:22",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 54
         }
     }
 }
