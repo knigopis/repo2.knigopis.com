@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>47</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>48</sup>
 ---
 
 ## 2015
+
+### Пятьдесят оттенков серого
+Э. Л. Джеймс
+> [2015-02-20] 
+
 
 ### Ромео и Джульетта
 Уильям Шекспир
