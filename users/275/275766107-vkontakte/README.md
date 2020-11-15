@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>3</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>4</sup>
 ---
 
 ## 2011
+
+### Тёмный альянс
+Лиза Джейн Смит
+
 
 ### Ярость
 Лиза Джейн Смит
