@@ -1,4 +1,16 @@
 {
+    "xQFxafZ7f3": {
+        "id": "xQFxafZ7f3",
+        "title": "Богатый папа, бедный папа",
+        "author": "Кийосаки Роберт",
+        "notes": "",
+        "createdAt": "2020-11-15 14:46:45",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 42
+        }
+    },
     "oLqg2LC7dg": {
         "id": "oLqg2LC7dg",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 15
-        }
-    },
-    "D9PvMhAbgJ": {
-        "id": "D9PvMhAbgJ",
-        "title": "Дорогая сестра",
-        "author": "Фрэнсин Паскаль",
-        "notes": "",
-        "createdAt": "2020-11-15 14:15:10",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 14
         }
     }
 }

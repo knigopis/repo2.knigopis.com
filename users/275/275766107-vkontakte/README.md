@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>41</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>42</sup>
 ---
 
 ## 2014
+
+### Богатый папа, бедный папа
+Кийосаки Роберт
+> [2014-11-30] 
+
 
 ### Портрет Дориана Грея
 Оскард Уайлд
