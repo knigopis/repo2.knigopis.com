@@ -1,4 +1,16 @@
 {
+    "u7m8iTcSax": {
+        "id": "u7m8iTcSax",
+        "title": "Тьма наступает",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2020-11-15 14:05:38",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 5
+        }
+    },
     "wtkI_XrEwS": {
         "id": "wtkI_XrEwS",
         "title": "Тёмный альянс",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 66
-        }
-    },
-    "Hxzddxiw_m": {
-        "id": "Hxzddxiw_m",
-        "title": "Два в одном. Случайные враги.",
-        "author": "Савенко Валентина.",
-        "notes": "Про взаимопонимание, любовь и дружбу. Ещё и с чувством юмора. Читать было весело.",
-        "createdAt": "2020-11-09 19:37:13",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 229
         }
     }
 }

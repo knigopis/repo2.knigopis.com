@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>4</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>5</sup>
 ---
 
 ## 2011
+
+### Тьма наступает
+Лиза Джейн Смит
+
 
 ### Тёмный альянс
 Лиза Джейн Смит
