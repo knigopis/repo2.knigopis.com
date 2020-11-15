@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>17</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>18</sup>
 ---
 
 ## 2012
+
+### Кровавые обещания
+Стефани Майер
+
 
 ### Поцелуй тьмы
 Стефани Майер
