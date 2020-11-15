@@ -1,4 +1,16 @@
 {
+    "vpvrmJCUhx": {
+        "id": "vpvrmJCUhx",
+        "title": "Сумерки",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2020-11-15 14:27:40",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 23
+        }
+    },
     "5D42HYIRoD": {
         "id": "5D42HYIRoD",
         "title": "Декларация смерти",
@@ -345,18 +357,6 @@
             "id": "503385159-vkontakte",
             "nickname": "redwhitetee",
             "booksCount": 3
-        }
-    },
-    "qWT-2JxaUq": {
-        "id": "qWT-2JxaUq",
-        "title": "Вдова мастера теней",
-        "author": "Савенко Валентина",
-        "notes": "Очаровательное женское фэнтези. Правда автор слегка перемудрила с интригой и детективной составляющей",
-        "createdAt": "2020-11-12 16:56:58",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 230
         }
     }
 }
