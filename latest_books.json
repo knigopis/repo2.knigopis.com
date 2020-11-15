@@ -1,4 +1,16 @@
 {
+    "oLqg2LC7dg": {
+        "id": "oLqg2LC7dg",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскард Уайлд",
+        "notes": "",
+        "createdAt": "2020-11-15 14:46:08",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 41
+        }
+    },
     "2v_GOwG-Pe": {
         "id": "2v_GOwG-Pe",
         "title": "Гроздья гнева",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 14
-        }
-    },
-    "GASuLvnfeN": {
-        "id": "GASuLvnfeN",
-        "title": "Большая игра",
-        "author": "Фрэнсин Паскаль",
-        "notes": "",
-        "createdAt": "2020-11-15 14:14:54",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 13
         }
     }
 }

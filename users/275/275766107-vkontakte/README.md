@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>40</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>41</sup>
 ---
 
 ## 2014
+
+### Портрет Дориана Грея
+Оскард Уайлд
+> [2014-07-28] 
+
 
 ### Гроздья гнева
 Джон Стейнбек
