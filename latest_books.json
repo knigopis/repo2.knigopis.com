@@ -1,4 +1,16 @@
 {
+    "dSaVqU863v": {
+        "id": "dSaVqU863v",
+        "title": "Дивергент",
+        "author": "Вероники Рот",
+        "notes": "",
+        "createdAt": "2020-11-15 14:33:53",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 26
+        }
+    },
     "fOz4NWE5wy": {
         "id": "fOz4NWE5wy",
         "title": "Делириум",
@@ -345,18 +357,6 @@
             "id": "111367585493471720963-google",
             "nickname": "Fenix",
             "booksCount": 8
-        }
-    },
-    "M0v1YTbEuY": {
-        "id": "M0v1YTbEuY",
-        "title": "Места светлой тьмы",
-        "author": "Савенко Валентина",
-        "notes": "",
-        "createdAt": "2020-11-14 21:07:26",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 232
         }
     }
 }
