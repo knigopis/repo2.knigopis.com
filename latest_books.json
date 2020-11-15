@@ -1,4 +1,16 @@
 {
+    "CG_pRm7rTn": {
+        "id": "CG_pRm7rTn",
+        "title": "Законы Грэйс",
+        "author": "Наталья Грэйс",
+        "notes": "",
+        "createdAt": "2020-11-15 15:05:07",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 65
+        }
+    },
     "mH4Hse8RBW": {
         "id": "mH4Hse8RBW",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 36
-        }
-    },
-    "cRu-P3Lrfh": {
-        "id": "cRu-P3Lrfh",
-        "title": "Бегущий в Лабиринте",
-        "author": "Джеймс Дэшнер",
-        "notes": "",
-        "createdAt": "2020-11-15 14:42:32",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 35
         }
     }
 }
