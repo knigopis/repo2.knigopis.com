@@ -1,4 +1,4 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>60</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>61</sup>
 ---
 
 ## 2015
@@ -81,6 +81,9 @@
 ### О дивный новый мир
 Олдос Хаксли
 > [2015-02-12] 
+
+
+### Про мир про войну разоружение разрядка
 
 
 
