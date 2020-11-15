@@ -1,4 +1,16 @@
 {
+    "S5JMEKCJV8": {
+        "id": "S5JMEKCJV8",
+        "title": "И вспыхнет пламя",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2020-11-15 14:07:21",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 8
+        }
+    },
     "yaL-42HMJD": {
         "id": "yaL-42HMJD",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 265
-        }
-    },
-    "_QWrfh3rQt": {
-        "id": "_QWrfh3rQt",
-        "title": "Ход королевы",
-        "author": "Уолтер Тевис",
-        "notes": "",
-        "createdAt": "2020-11-10 18:38:03",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 179
         }
     }
 }
