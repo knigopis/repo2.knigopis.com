@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>61</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>62</sup>
 ---
 
 ## 2015
+
+### Одиночество в Сети
+Януш Леон Вишневский
+> [2015-10-01] 
+
 
 ### Самый богатый человек в Вавилоне
 Клейсон Джорж Самюэль
