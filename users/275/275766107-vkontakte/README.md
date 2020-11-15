@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>70</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>71</sup>
 ---
 
 ## 2016
+
+### Жизнь взаймы
+Эрих Мария Ремарк
+> [2016-07] 
+
 
 ### Встретиться вновь
 Марк Леви

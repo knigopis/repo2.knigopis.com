@@ -1,4 +1,16 @@
 {
+    "wVJDkN1ymk": {
+        "id": "wVJDkN1ymk",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2020-11-15 15:09:52",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 71
+        }
+    },
     "0LOAi_IAVL": {
         "id": "0LOAi_IAVL",
         "title": "За руку с ветром",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 42
-        }
-    },
-    "oLqg2LC7dg": {
-        "id": "oLqg2LC7dg",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскард Уайлд",
-        "notes": "",
-        "createdAt": "2020-11-15 14:46:08",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 41
         }
     }
 }
