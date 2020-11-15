@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>18</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>19</sup>
 ---
 
 ## 2012
+
+### Оковы для призрака
+Стефани Майер
+
 
 ### Кровавые обещания
 Стефани Майер

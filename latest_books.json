@@ -1,4 +1,16 @@
 {
+    "e3Oxf2ciG4": {
+        "id": "e3Oxf2ciG4",
+        "title": "Оковы для призрака",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2020-11-15 14:17:10",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 19
+        }
+    },
     "pJfEhr4Y-x": {
         "id": "pJfEhr4Y-x",
         "title": "Кровавые обещания",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 114
-        }
-    },
-    "V_GhmdtlPx": {
-        "id": "V_GhmdtlPx",
-        "title": "Дети из дома N300",
-        "author": "Синсукэ Тани",
-        "notes": "",
-        "createdAt": "2020-11-11 19:39:27",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 180
         }
     }
 }
