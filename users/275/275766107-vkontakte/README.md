@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>49</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>50</sup>
 ---
 
 ## 2015
+
+### Пятьдесят оттенков свободы
+Э. Л. Джеймс
+> [2015-02-28] 
+
 
 ### На пятьдесят оттенков темнее
 Э. Л. Джеймс
