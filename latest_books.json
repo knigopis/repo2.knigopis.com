@@ -1,4 +1,16 @@
 {
+    "2v_GOwG-Pe": {
+        "id": "2v_GOwG-Pe",
+        "title": "Гроздья гнева",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2020-11-15 14:45:21",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 40
+        }
+    },
     "Jv-NOiJenB": {
         "id": "Jv-NOiJenB",
         "title": "Дневник Анны Франк",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 13
-        }
-    },
-    "k_TnDcdUtW": {
-        "id": "k_TnDcdUtW",
-        "title": "Игра с огнем",
-        "author": "Фрэнсин Паскаль",
-        "notes": "",
-        "createdAt": "2020-11-15 14:14:46",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 12
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>39</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>40</sup>
 ---
 
 ## 2014
+
+### Гроздья гнева
+Джон Стейнбек
+> [2014-02-02] 
+
 
 ### Дневник Анны Франк
 Анна Франк
