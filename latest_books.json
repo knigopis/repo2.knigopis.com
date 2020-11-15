@@ -1,4 +1,16 @@
 {
+    "0hwJtYrjKl": {
+        "id": "0hwJtYrjKl",
+        "title": "Три мешка хитростей",
+        "author": "Дарья Донцова",
+        "notes": "",
+        "createdAt": "2020-11-15 15:19:39",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 79
+        }
+    },
     "-sc69XcSEP": {
         "id": "-sc69XcSEP",
         "title": "Черт из табакерки",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 50
-        }
-    },
-    "U_WTOHiRg8": {
-        "id": "U_WTOHiRg8",
-        "title": "На пятьдесят оттенков темнее",
-        "author": "Э. Л. Джеймс",
-        "notes": "",
-        "createdAt": "2020-11-15 14:54:57",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 49
         }
     }
 }
