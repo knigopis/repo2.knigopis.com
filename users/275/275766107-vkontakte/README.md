@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>83</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>84</sup>
 ---
 
 ## 2018
+
+### Странное путешествия мистера Долдри
+Марк Леви
+> [2018-04] 
+
 
 ### Она и он
 Марк Леви
