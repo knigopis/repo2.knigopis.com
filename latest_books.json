@@ -1,4 +1,16 @@
 {
+    "gD-unC8b5o": {
+        "id": "gD-unC8b5o",
+        "title": "Ее зовут Тьма",
+        "author": "Келли Китон",
+        "notes": "",
+        "createdAt": "2020-11-15 15:11:37",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 72
+        }
+    },
     "wVJDkN1ymk": {
         "id": "wVJDkN1ymk",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 43
-        }
-    },
-    "xQFxafZ7f3": {
-        "id": "xQFxafZ7f3",
-        "title": "Богатый папа, бедный папа",
-        "author": "Кийосаки Роберт",
-        "notes": "",
-        "createdAt": "2020-11-15 14:46:45",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 42
         }
     }
 }
