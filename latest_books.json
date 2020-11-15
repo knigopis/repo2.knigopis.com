@@ -1,4 +1,16 @@
 {
+    "7SiDo2Wwdn": {
+        "id": "7SiDo2Wwdn",
+        "title": "Операция «Транзит»",
+        "author": "Ак",
+        "notes": "",
+        "createdAt": "2020-11-15 14:31:21",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 146
+        }
+    },
     "2qBAWrdaVp": {
         "id": "2qBAWrdaVp",
         "title": "Они защищали Отечество. Морские пехотинцы в Чечне",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 71
-        }
-    },
-    "nl2rAQtagg": {
-        "id": "nl2rAQtagg",
-        "title": "Исторические повести",
-        "author": "Борис Изюмский",
-        "notes": "В рассказе Нина Грибоедова про погибший казачий конвой в Персии",
-        "createdAt": "2020-11-14 09:35:18",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 47
         }
     }
 }
