@@ -1,4 +1,16 @@
 {
+    "xWzpdgk21r": {
+        "id": "xWzpdgk21r",
+        "title": "Поцелуй тьмы",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2020-11-15 14:16:51",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 17
+        }
+    },
     "M5LHAhTEqr": {
         "id": "M5LHAhTEqr",
         "title": "Ледяной укус",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 829
-        }
-    },
-    "6xHGpLtp4A": {
-        "id": "6xHGpLtp4A",
-        "title": "Ось я",
-        "author": "Джонатан Сафран Фоєр",
-        "notes": "7/10 Розлучення американської єврейської родини на тлі загибелі держави Ізраель.",
-        "createdAt": "2020-11-11 18:38:00",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 153
         }
     }
 }

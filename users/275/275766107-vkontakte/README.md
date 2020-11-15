@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>16</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>17</sup>
 ---
 
 ## 2012
+
+### Поцелуй тьмы
+Стефани Майер
+
 
 ### Ледяной укус
 Стефани Майер
