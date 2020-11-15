@@ -1,4 +1,4 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>79</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>80</sup>
 ---
 
 ## 2017
@@ -357,6 +357,10 @@ Rick Riordan
 
 
 ## 2011
+
+### Фанатка голого короля
+Дарья Донцова
+
 
 ### Души теней
 Лиза Джейн Смит

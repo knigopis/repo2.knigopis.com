@@ -1,4 +1,16 @@
 {
+    "AEQzZ2NgYR": {
+        "id": "AEQzZ2NgYR",
+        "title": "Фанатка голого короля",
+        "author": "Дарья Донцова",
+        "notes": "",
+        "createdAt": "2020-11-15 15:20:50",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 80
+        }
+    },
     "0hwJtYrjKl": {
         "id": "0hwJtYrjKl",
         "title": "Три мешка хитростей",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 51
-        }
-    },
-    "l-i8r7YaSZ": {
-        "id": "l-i8r7YaSZ",
-        "title": "Пятьдесят оттенков свободы",
-        "author": "Э. Л. Джеймс",
-        "notes": "",
-        "createdAt": "2020-11-15 14:55:27",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 50
         }
     }
 }
