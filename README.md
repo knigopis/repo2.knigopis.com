@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Влияй ~ [Fenix](users/111/111367585493471720963-google)<sup>9</sup>
+    > Огонь
+
 * Исторические повести ~ [mfevralev](users/140/140966150-vkontakte)<sup>47</sup>
     > В рассказе Нина Грибоедова про погибший казачий конвой в Персии
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Доброе, позитивное чтение для поднятия настроения
 
 * Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
-    > Очаровательное женское фэнтези. Правда автор слегка перемудрила с интригой и детективной составляющей
 
 * Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Radical Uncertainty: Decision-making for an unknowable future ~ [exulted](users/100/100599204551896265722-google)<sup>144</sup>
 
-* Чужое счастье. Мой чужой монстр. ~ [Chiffi](users/105/105831994080785626680-google)<sup>228</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Fenix](users/111/111367585493471720963-google)<sup>8</sup> 
+[Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>232</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 
 
-_15.11.2020 07:08:53_
+_15.11.2020 07:09:47_

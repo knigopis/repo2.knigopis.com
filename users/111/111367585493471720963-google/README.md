@@ -1,7 +1,12 @@
-# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>8</sup>
+# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>9</sup>
 ---
 
 ## 2020
+
+### Влияй
+Ицхак Пинтосевич
+> [2020-11-15] Огонь
+
 
 ### Действуй
 Ицхак Пинтосевич

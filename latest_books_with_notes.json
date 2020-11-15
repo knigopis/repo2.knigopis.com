@@ -1,4 +1,16 @@
 {
+    "0wwz47x8G9": {
+        "id": "0wwz47x8G9",
+        "title": "Влияй",
+        "author": "Ицхак Пинтосевич",
+        "notes": "Огонь",
+        "createdAt": "2020-11-15 07:09:47",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 9
+        }
+    },
     "nl2rAQtagg": {
         "id": "nl2rAQtagg",
         "title": "Исторические повести",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 263
-        }
-    },
-    "6InFTq-T6P": {
-        "id": "6InFTq-T6P",
-        "title": "Серафим Саровский. Духовные наставления и пророчества",
-        "author": "",
-        "notes": "в процессе",
-        "createdAt": "2020-10-23 19:09:09",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 245
         }
     }
 }
