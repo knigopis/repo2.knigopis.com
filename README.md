@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Странствие трех царей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup>
+    > 8/10 Сборник фантастических рассказов от разных авторов.
+
 * Академия мёртвых. Основы погодной некромантии ~ [Chiffi](users/105/105831994080785626680-google)<sup>233</sup>
     > Мило, трогательно и поднимает настроение. Добрая сказка с принцем и милыми пушистиками-нежитью.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Огонь
 
 * Исторические повести ~ [mfevralev](users/140/140966150-vkontakte)<sup>47</sup>
-    > В рассказе Нина Грибоедова про погибший казачий конвой в Персии
 
 * Дипломированная нечисть ~ [Chiffi](users/105/105831994080785626680-google)<sup>231</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
 
-* Два в одном. Случайные враги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>229</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>233</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>85</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>146</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>114</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>180</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>829</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>111</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>4</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>109</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/836/836077803836456-facebook)<sup>1</sup> 
 
 
-_15.11.2020 20:50:43_
+_15.11.2020 21:14:43_

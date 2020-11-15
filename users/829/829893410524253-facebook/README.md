@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>153</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>154</sup>
 ---
 
 ## 2020
+
+### Странствие трех царей
+Сборник
+> [2020-11-15] 8/10 Сборник фантастических рассказов от разных авторов.
+
 
 ### Ось я
 Джонатан Сафран Фоєр

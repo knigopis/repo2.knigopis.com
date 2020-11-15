@@ -1,4 +1,16 @@
 {
+    "w4bs777_Fo": {
+        "id": "w4bs777_Fo",
+        "title": "Странствие трех царей",
+        "author": "Сборник",
+        "notes": "8/10 Сборник фантастических рассказов от разных авторов.",
+        "createdAt": "2020-11-15 21:14:43",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 154
+        }
+    },
     "ES24ZWbSjs": {
         "id": "ES24ZWbSjs",
         "title": "Академия мёртвых. Основы погодной некромантии",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 58
-        }
-    },
-    "1cTo9qjmki": {
-        "id": "1cTo9qjmki",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Дж. К. Роулинг",
-        "notes": "",
-        "createdAt": "2020-11-15 14:58:45",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 57
         }
     }
 }
