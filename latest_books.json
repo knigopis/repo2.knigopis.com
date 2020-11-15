@@ -1,4 +1,16 @@
 {
+    "V3rHlglPb7": {
+        "id": "V3rHlglPb7",
+        "title": "Эллигент",
+        "author": "Вероники Рот",
+        "notes": "",
+        "createdAt": "2020-11-15 14:34:32",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 28
+        }
+    },
     "2Yn8w2M1e6": {
         "id": "2Yn8w2M1e6",
         "title": "Инсургент",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 1
-        }
-    },
-    "0wwz47x8G9": {
-        "id": "0wwz47x8G9",
-        "title": "Влияй",
-        "author": "Ицхак Пинтосевич",
-        "notes": "Огонь",
-        "createdAt": "2020-11-15 07:09:47",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 9
         }
     }
 }
