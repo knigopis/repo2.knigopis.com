@@ -1,4 +1,4 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>36</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>37</sup>
 ---
 
 ## 2013
@@ -42,6 +42,10 @@
 ### Дивергент
 Вероники Рот
 > [2013-07] 
+
+
+### Лекарство от смерти
+Джеймс Дэшнер
 
 
 ### Испытание огнем
