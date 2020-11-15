@@ -1,4 +1,16 @@
 {
+    "2qBAWrdaVp": {
+        "id": "2qBAWrdaVp",
+        "title": "Они защищали Отечество. Морские пехотинцы в Чечне",
+        "author": "Галицкий Сергей Геннадьевич",
+        "notes": "",
+        "createdAt": "2020-11-15 14:30:55",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 145
+        }
+    },
     "jmOx1y8wKr": {
         "id": "jmOx1y8wKr",
         "title": "P.S. Я тебя люблю",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 47
-        }
-    },
-    "VTu_xSHVZe": {
-        "id": "VTu_xSHVZe",
-        "title": "Дипломированная нечисть",
-        "author": "Савенко Валентина",
-        "notes": "Доброе, позитивное чтение для поднятия настроения",
-        "createdAt": "2020-11-14 07:43:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 231
         }
     }
 }

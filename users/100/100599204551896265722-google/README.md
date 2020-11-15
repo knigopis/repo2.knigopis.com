@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>144</sup>
+# Список прочитанных книг пользователя exulted<sup>145</sup>
 ---
 
 ## 2020
+
+### Они защищали Отечество. Морские пехотинцы в Чечне
+Галицкий Сергей Геннадьевич
+> [2020-11-10] 
+
 
 ### Radical Uncertainty: Decision-making for an unknowable future
 Mervyn King, John Kay
