@@ -1,4 +1,16 @@
 {
+    "0yysqWgnuf": {
+        "id": "0yysqWgnuf",
+        "title": "Дневники вампира",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2020-11-15 14:04:30",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 1
+        }
+    },
     "0wwz47x8G9": {
         "id": "0wwz47x8G9",
         "title": "Влияй",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 144
-        }
-    },
-    "PRR-bGlmfZ": {
-        "id": "PRR-bGlmfZ",
-        "title": "Три мушкетёра",
-        "author": "А.Дюма",
-        "notes": "",
-        "createdAt": "2020-11-08 18:01:57",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 99
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "275766107-vkontakte": {
+        "id": "275766107-vkontakte",
+        "nickname": "aktoty",
+        "booksCount": 1,
+        "updatedAt": "2020-11-15 14:04:30"
+    },
     "111367585493471720963-google": {
         "id": "111367585493471720963-google",
         "nickname": "Fenix",
@@ -10,12 +16,6 @@
         "nickname": "Chiffi",
         "booksCount": 232,
         "updatedAt": "2020-11-14 21:07:26"
-    },
-    "275766107-vkontakte": {
-        "id": "275766107-vkontakte",
-        "nickname": "aktoty",
-        "booksCount": 0,
-        "updatedAt": "2020-11-14 19:47:36"
     },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
