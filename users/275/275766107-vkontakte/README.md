@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>48</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>49</sup>
 ---
 
 ## 2015
+
+### На пятьдесят оттенков темнее
+Э. Л. Джеймс
+> [2015-02-21] 
+
 
 ### Пятьдесят оттенков серого
 Э. Л. Джеймс
