@@ -1,4 +1,16 @@
 {
+    "3J8B1hPHFd": {
+        "id": "3J8B1hPHFd",
+        "title": "Моё прекрасное несчастье",
+        "author": "Джейми Макгвайр",
+        "notes": "",
+        "createdAt": "2020-11-15 14:49:30",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 43
+        }
+    },
     "xQFxafZ7f3": {
         "id": "xQFxafZ7f3",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 16
-        }
-    },
-    "vXveKp5xc6": {
-        "id": "vXveKp5xc6",
-        "title": "Академия вампиров. Охотники и жертвы",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2020-11-15 14:16:24",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 15
         }
     }
 }

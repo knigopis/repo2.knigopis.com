@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>42</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>43</sup>
 ---
 
 ## 2014
+
+### Моё прекрасное несчастье
+Джейми Макгвайр
+> [2014-12-11] 
+
 
 ### Богатый папа, бедный папа
 Кийосаки Роберт
