@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>62</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>63</sup>
 ---
 
 ## 2015
+
+### 50 дней после моего самоубийства
+Саманта Коллинз
+> [2015-10-04] 
+
 
 ### Одиночество в Сети
 Януш Леон Вишневский
