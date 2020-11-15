@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>2</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>3</sup>
 ---
 
 ## 2011
+
+### Ярость
+Лиза Джейн Смит
+
 
 ### Голод
 Лиза Джейн Смит
