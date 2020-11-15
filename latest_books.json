@@ -1,4 +1,16 @@
 {
+    "9sZ5cTmzZc": {
+        "id": "9sZ5cTmzZc",
+        "title": "Души теней",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2020-11-15 14:05:51",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 6
+        }
+    },
     "u7m8iTcSax": {
         "id": "u7m8iTcSax",
         "title": "Тьма наступает",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 70
-        }
-    },
-    "DfRC_b2vDG": {
-        "id": "DfRC_b2vDG",
-        "title": "Сага о живых кораблях. Безумный корабль",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2020-11-10 12:01:21",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 66
         }
     }
 }

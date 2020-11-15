@@ -1,7 +1,11 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>5</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>6</sup>
 ---
 
 ## 2011
+
+### Души теней
+Лиза Джейн Смит
+
 
 ### Тьма наступает
 Лиза Джейн Смит
