@@ -1,7 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>73</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>74</sup>
 ---
 
 ## 2017
+
+### Психоз
+Роберт Блох
+> [2017-01-04] 
+
 
 ### Percy Jackson. The Lightning Thief.
 Rick Riordan
