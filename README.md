@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>93</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>103</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>17</sup> 
 [teenwolf3301](users/209/209288065-vkontakte)<sup>3</sup> 
 [](users/100/100726438533263363348-google)<sup>0</sup> 
-[rNix](users/227/22742452-yandex)<sup>69</sup> 
 
 
-_16.11.2020 14:09:45_
+_16.11.2020 20:57:03_

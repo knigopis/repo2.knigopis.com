@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>92</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>93</sup>
 ---
 
 ## 2020
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+> [2020-11-16] 
+
 
 ### Изгои
 С.Э.Хинтон
