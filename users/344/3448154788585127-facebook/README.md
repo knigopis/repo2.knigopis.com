@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>4</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>5</sup>
 ---
 
 ## 2020
+
+### Хозяин гиблого места
+Обухова Л., Тимошенко Н.
+> [2020-11-16] 
+
 
 ### Тишина старого кладбища
 Обухова Л., Тимошенко Н.
