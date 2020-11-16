@@ -1,4 +1,16 @@
 {
+    "dqsJharBOb": {
+        "id": "dqsJharBOb",
+        "title": "«Битва королей», вторая книга из серии «Песнь льда и огня»",
+        "author": "Джордж Р. Р. Мартин",
+        "notes": "",
+        "createdAt": "2020-11-16 14:09:45",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 103
+        }
+    },
     "Gw63MRCBRl": {
         "id": "Gw63MRCBRl",
         "title": "Хозяин гиблого места",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 60
-        }
-    },
-    "OLf645zGHp": {
-        "id": "OLf645zGHp",
-        "title": "Мани, или Азбука денег",
-        "author": "Бодо Шефер",
-        "notes": "(Книга после которой я начала заниматься онлайн магазином)",
-        "createdAt": "2020-11-15 15:00:20",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 59
         }
     }
 }

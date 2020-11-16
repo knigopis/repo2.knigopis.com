@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>103</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>233</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [teenwolf3301](users/209/209288065-vkontakte)<sup>3</sup> 
 [](users/100/100726438533263363348-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
-[](users/836/836077803836456-facebook)<sup>1</sup> 
 
 
-_16.11.2020 03:25:59_
+_16.11.2020 14:09:45_
