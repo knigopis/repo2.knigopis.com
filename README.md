@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>221</sup> 
 [](users/104/104268716766206287952-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>51</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>93</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nabilkin42](users/365/3653380-vkontakte)<sup>1</sup> 
 [swarrog](users/328/32895952-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>42</sup> 
-[TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>17</sup> 
 
 
-_17.11.2020 08:45:52_
+_17.11.2020 11:46:51_

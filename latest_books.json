@@ -1,4 +1,16 @@
 {
+    "Xa37xfiUG9": {
+        "id": "Xa37xfiUG9",
+        "title": "Дитя слова",
+        "author": "Айрис Мердок",
+        "notes": "",
+        "createdAt": "2020-11-17 11:46:51",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 221
+        }
+    },
     "ABRTAEXeyJ": {
         "id": "ABRTAEXeyJ",
         "title": "Бизнес маленькими шагами",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 63
-        }
-    },
-    "ObKseTUDaY": {
-        "id": "ObKseTUDaY",
-        "title": "Одиночество в Сети",
-        "author": "Януш Леон Вишневский",
-        "notes": "",
-        "createdAt": "2020-11-15 15:03:04",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 62
         }
     }
 }

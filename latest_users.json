@@ -1,4 +1,10 @@
 {
+    "158304782-vkontakte": {
+        "id": "158304782-vkontakte",
+        "nickname": "Madlax",
+        "booksCount": 221,
+        "updatedAt": "2020-11-17 11:46:51"
+    },
     "104268716766206287952-google": {
         "id": "104268716766206287952-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 42,
         "updatedAt": "2020-11-05 21:07:29"
-    },
-    "100726438533263363348-googleplus": {
-        "id": "100726438533263363348-googleplus",
-        "nickname": "TeenWolf3301",
-        "booksCount": 17,
-        "updatedAt": "2020-11-04 19:22:15"
     }
 }
