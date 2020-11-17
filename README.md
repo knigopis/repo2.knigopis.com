@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Университет магии и обмана. Иллюзия правды. ~ [Chiffi](users/105/105831994080785626680-google)<sup>234</sup>
+    > Книги однотипны, но приятны. Хочется читать неотрывно. И обязательно должна быть зверушка))
+
 * Бизнес маленькими шагами ~ [youno](users/302/302928912-vkontakte)<sup>51</sup>
     > Короткая и полезная книга. Без воды.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Сборник фантастических рассказов от разных авторов.
 
 * Академия мёртвых. Основы погодной некромантии ~ [Chiffi](users/105/105831994080785626680-google)<sup>233</sup>
-    > Мило, трогательно и поднимает настроение. Добрая сказка с принцем и милыми пушистиками-нежитью.
 
 * Влияй ~ [Fenix](users/111/111367585493471720963-google)<sup>9</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Конфлікти, що змінили світ ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>152</sup>
 
-* Зеркало для героя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>234</sup> 
 [](users/153/1537586159620888-facebook)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>271</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>222</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>103</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>233</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>85</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>146</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nabilkin42](users/365/3653380-vkontakte)<sup>1</sup> 
 
 
-_17.11.2020 18:54:37_
+_17.11.2020 20:58:30_
