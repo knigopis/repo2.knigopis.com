@@ -1,4 +1,10 @@
 {
+    "104268716766206287952-google": {
+        "id": "104268716766206287952-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-11-17 08:45:52"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": "TeenWolf3301",
         "booksCount": 17,
         "updatedAt": "2020-11-04 19:22:15"
-    },
-    "209288065-vkontakte": {
-        "id": "209288065-vkontakte",
-        "nickname": "teenwolf3301",
-        "booksCount": 3,
-        "updatedAt": "2020-11-04 19:09:33"
     }
 }
