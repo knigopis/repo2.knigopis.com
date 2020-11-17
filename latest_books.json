@@ -1,4 +1,16 @@
 {
+    "ABRTAEXeyJ": {
+        "id": "ABRTAEXeyJ",
+        "title": "Бизнес маленькими шагами",
+        "author": "Владимир Маринович",
+        "notes": "Короткая и полезная книга. Без воды.",
+        "createdAt": "2020-11-17 03:48:36",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 51
+        }
+    },
     "zFiHf_zL-V": {
         "id": "zFiHf_zL-V",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 62
-        }
-    },
-    "cZeEp7cb7U": {
-        "id": "cZeEp7cb7U",
-        "title": "Про мир про войну разоружение разрядка",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-11-15 15:01:50",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 61
         }
     }
 }

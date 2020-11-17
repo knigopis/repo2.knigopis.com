@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бизнес маленькими шагами ~ [youno](users/302/302928912-vkontakte)<sup>51</sup>
+    > Короткая и полезная книга. Без воды.
+
 * Странствие трех царей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup>
     > 8/10 Сборник фантастических рассказов от разных авторов.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мило, трогательно и поднимает настроение. Добрая сказка с принцем и милыми пушистиками-нежитью.
 
 * Влияй ~ [Fenix](users/111/111367585493471720963-google)<sup>9</sup>
-    > Огонь
 
 * Исторические повести ~ [mfevralev](users/140/140966150-vkontakte)<sup>47</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зеркало для героя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup>
 
-* Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>51</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>93</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>103</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>42</sup> 
 [TeenWolf3301](users/100/100726438533263363348-googleplus)<sup>17</sup> 
 [teenwolf3301](users/209/209288065-vkontakte)<sup>3</sup> 
-[](users/100/100726438533263363348-google)<sup>0</sup> 
 
 
-_16.11.2020 20:57:03_
+_17.11.2020 03:48:36_

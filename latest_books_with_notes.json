@@ -1,4 +1,16 @@
 {
+    "ABRTAEXeyJ": {
+        "id": "ABRTAEXeyJ",
+        "title": "Бизнес маленькими шагами",
+        "author": "Владимир Маринович",
+        "notes": "Короткая и полезная книга. Без воды.",
+        "createdAt": "2020-11-17 03:48:36",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 51
+        }
+    },
     "w4bs777_Fo": {
         "id": "w4bs777_Fo",
         "title": "Странствие трех царей",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 49
-        }
-    },
-    "0Uzb__-vS-": {
-        "id": "0Uzb__-vS-",
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "notes": "7/10 Интриги, религия, пряность и борьба за Арракис и империю.",
-        "createdAt": "2020-10-26 17:29:27",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 147
         }
     }
 }
