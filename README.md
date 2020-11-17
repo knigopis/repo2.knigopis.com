@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>271</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>222</sup> 
 [](users/104/104268716766206287952-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>51</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>54</sup> 
 [nabilkin42](users/365/3653380-vkontakte)<sup>1</sup> 
 [swarrog](users/328/32895952-yandex)<sup>0</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>42</sup> 
 
 
-_17.11.2020 11:48:20_
+_17.11.2020 17:59:11_
