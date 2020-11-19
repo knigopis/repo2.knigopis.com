@@ -1,4 +1,16 @@
 {
+    "xG2V_z9Hli": {
+        "id": "xG2V_z9Hli",
+        "title": "Бунт удобной жены",
+        "author": "Натрисия Эванс",
+        "notes": "",
+        "createdAt": "2020-11-19 16:13:26",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 27
+        }
+    },
     "jD5NzR6lJC": {
         "id": "jD5NzR6lJC",
         "title": "Рецепты хорошего сна. Универсальные правила",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 72
-        }
-    },
-    "wVJDkN1ymk": {
-        "id": "wVJDkN1ymk",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2020-11-15 15:09:52",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 71
         }
     }
 }
