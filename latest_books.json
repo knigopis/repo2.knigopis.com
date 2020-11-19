@@ -1,4 +1,16 @@
 {
+    "4uD5Sqq-UD": {
+        "id": "4uD5Sqq-UD",
+        "title": "Любовь во время чумы",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2020-11-19 11:04:10",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 86
+        }
+    },
     "CSD9RNcjXN": {
         "id": "CSD9RNcjXN",
         "title": "Темная башня 7. Темная башня",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 70
-        }
-    },
-    "8wRritokHY": {
-        "id": "8wRritokHY",
-        "title": "Игра с огнём",
-        "author": "Анна Джейн",
-        "notes": "",
-        "createdAt": "2020-11-15 15:08:53",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 69
         }
     }
 }
