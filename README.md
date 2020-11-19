@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>394</sup> 
 [](users/300/300123225-vkontakte)<sup>86</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>234</sup> 
 [](users/153/1537586159620888-facebook)<sup>26</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109565266968438976725-google)<sup>0</sup> 
 [gg](users/106/106449150245422604892-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>99</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>393</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>54</sup> 
 
 
-_18.11.2020 06:24:45_
+_19.11.2020 06:26:48_

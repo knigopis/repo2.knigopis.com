@@ -1,4 +1,16 @@
 {
+    "CSD9RNcjXN": {
+        "id": "CSD9RNcjXN",
+        "title": "Темная башня 7. Темная башня",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-11-19 06:26:48",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 394
+        }
+    },
     "KuoA8HtAyQ": {
         "id": "KuoA8HtAyQ",
         "title": "Виноваты звезды",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 69
-        }
-    },
-    "ZsjPG2rTHv": {
-        "id": "ZsjPG2rTHv",
-        "title": "Мой идеальный смерч",
-        "author": "Анна Джейн",
-        "notes": "",
-        "createdAt": "2020-11-15 15:08:42",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 68
         }
     }
 }
