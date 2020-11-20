@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>67</sup> 
 [vadd1979](users/308/308698812-yandex)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>181</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>147</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>109</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>127</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>265</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>66</sup> 
 [](users/109/109565266968438976725-google)<sup>0</sup> 
 [gg](users/106/106449150245422604892-google)<sup>0</sup> 
 
 
-_20.11.2020 18:16:19_
+_20.11.2020 20:48:41_
