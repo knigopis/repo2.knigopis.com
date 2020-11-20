@@ -1,4 +1,10 @@
 {
+    "308698812-yandex": {
+        "id": "308698812-yandex",
+        "nickname": "vadd1979",
+        "booksCount": 0,
+        "updatedAt": "2020-11-20 18:16:19"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "gg",
         "booksCount": 0,
         "updatedAt": "2020-11-09 03:18:03"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 99,
-        "updatedAt": "2020-11-08 18:01:57"
     }
 }
