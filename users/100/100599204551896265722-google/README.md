@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>146</sup>
+# Список прочитанных книг пользователя exulted<sup>147</sup>
 ---
 
 ## 2020
+
+### 19 Minutes to Live - Helicopter Combat in Vietnam
+Lew Jennings
+> [2020-11-18] 
+
 
 ### Операция «Транзит»
 Акунин Борис

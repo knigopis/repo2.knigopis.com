@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>147</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>830</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>235</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>103</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>146</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>47</sup> 
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>99</sup> 
 
 
-_20.11.2020 09:16:24_
+_20.11.2020 10:15:33_

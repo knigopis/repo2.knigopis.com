@@ -1,4 +1,16 @@
 {
+    "vjy1LfXLFj": {
+        "id": "vjy1LfXLFj",
+        "title": "19 Minutes to Live - Helicopter Combat in Vietnam",
+        "author": "Lew Jennings",
+        "notes": "",
+        "createdAt": "2020-11-20 10:15:33",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 147
+        }
+    },
     "96ishrjIMl": {
         "id": "96ishrjIMl",
         "title": "Цифровое золото: невероятная история Биткойна",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 76
-        }
-    },
-    "l1sANg9qEc": {
-        "id": "l1sANg9qEc",
-        "title": "Девушка с татуировкой дракона",
-        "author": "Стиг Ларссон",
-        "notes": "",
-        "createdAt": "2020-11-15 15:14:13",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 75
         }
     }
 }
