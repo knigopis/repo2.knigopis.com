@@ -1,4 +1,16 @@
 {
+    "RUYnxjkCEG": {
+        "id": "RUYnxjkCEG",
+        "title": "Историк",
+        "author": "Элизабет Костова",
+        "notes": "",
+        "createdAt": "2020-11-20 16:14:36",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 181
+        }
+    },
     "vjy1LfXLFj": {
         "id": "vjy1LfXLFj",
         "title": "19 Minutes to Live - Helicopter Combat in Vietnam",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 77
-        }
-    },
-    "QHR_TrEPXu": {
-        "id": "QHR_TrEPXu",
-        "title": "Девушка, которая играла с огнём",
-        "author": "Стиг Ларссон",
-        "notes": "",
-        "createdAt": "2020-11-15 15:14:30",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 76
         }
     }
 }
