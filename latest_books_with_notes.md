@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Проклятие на удачу ~ [Chiffi](users/105/105831994080785626680-google)<sup>235</sup>
 * Университет магии и обмана. Иллюзия правды. ~ [Chiffi](users/105/105831994080785626680-google)<sup>234</sup>
 * Бизнес маленькими шагами ~ [youno](users/302/302928912-vkontakte)<sup>51</sup>
 * Странствие трех царей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup>
@@ -30,7 +31,6 @@
 * The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe ~ [exulted](users/100/100599204551896265722-google)<sup>141</sup>
 * Здесь была Бритт-Мари ~ [dmiro](users/571/5714115-vkontakte)<sup>36</sup>
 * Худеем вместе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>149</sup>
-* Tales and Fables ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>148</sup>
 
 
-_17.11.2020 20:58:30_
+_20.11.2020 05:54:26_

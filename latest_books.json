@@ -1,4 +1,16 @@
 {
+    "pAcEJT4BD_": {
+        "id": "pAcEJT4BD_",
+        "title": "Проклятие на удачу",
+        "author": "Савенко Валентина",
+        "notes": "Женское детективное фентези. Чем больше читаю автора, тем больше нравится. Если хотите отдохнуть или снять стресс-самое оно)",
+        "createdAt": "2020-11-20 05:54:26",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 235
+        }
+    },
     "xG2V_z9Hli": {
         "id": "xG2V_z9Hli",
         "title": "Бунт удобной жены",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 73
-        }
-    },
-    "gD-unC8b5o": {
-        "id": "gD-unC8b5o",
-        "title": "Ее зовут Тьма",
-        "author": "Келли Китон",
-        "notes": "",
-        "createdAt": "2020-11-15 15:11:37",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 72
         }
     }
 }
