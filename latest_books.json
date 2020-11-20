@@ -1,4 +1,16 @@
 {
+    "96ishrjIMl": {
+        "id": "96ishrjIMl",
+        "title": "Цифровое золото: невероятная история Биткойна",
+        "author": "Натаниел Поппер",
+        "notes": "Для тезиса читала",
+        "createdAt": "2020-11-20 09:16:23",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 87
+        }
+    },
     "jsp92H3ckW": {
         "id": "jsp92H3ckW",
         "title": "На расстоянии Dash & Lily",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 75
-        }
-    },
-    "0IzZff0F32": {
-        "id": "0IzZff0F32",
-        "title": "Психоз",
-        "author": "Роберт Блох",
-        "notes": "",
-        "createdAt": "2020-11-15 15:13:06",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 74
         }
     }
 }
