@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>68</sup>
+# List of books read by 4apa<sup>69</sup>
 ---
 
 ## 2020
+
+### Тобол. Мало избранных
+А. Иванов
+> [2020-11-21] 
+
 
 ### Утопия правил
 Д. Гребер
