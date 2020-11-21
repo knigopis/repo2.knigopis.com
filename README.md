@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чародейка по ошибке ~ [Chiffi](users/105/105831994080785626680-google)<sup>236</sup>
+    > Одна из самых позитивных книг автора. В детективы лучше не лезть, но мило без приторности. Юмор забавный, про любовь -красиво и не пошло. Вместо зверушек-скелетики.
+
 * Проклятие на удачу ~ [Chiffi](users/105/105831994080785626680-google)<sup>235</sup>
     > Женское детективное фентези. Чем больше читаю автора, тем больше нравится. Если хотите отдохнуть или снять стресс-самое оно)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книги однотипны, но приятны. Хочется читать неотрывно. И обязательно должна быть зверушка))
 
 * Бизнес маленькими шагами ~ [youno](users/302/302928912-vkontakte)<sup>51</sup>
-    > Короткая и полезная книга. Без воды.
 
 * Странствие трех царей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
 
-* Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>236</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>831</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>69</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>67</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>181</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>147</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>235</sup> 
 [](users/153/1537586159620888-facebook)<sup>27</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>72</sup> 
 [](users/102/102572067671855394345-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109565266968438976725-google)<sup>0</sup> 
 
 
-_21.11.2020 13:04:31_
+_21.11.2020 13:31:16_
