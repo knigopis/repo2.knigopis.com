@@ -1,4 +1,16 @@
 {
+    "S_M6dK6C0c": {
+        "id": "S_M6dK6C0c",
+        "title": "Жертвенная звезда",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2020-11-23 08:39:47",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 395
+        }
+    },
     "h2EYhYlBP2": {
         "id": "h2EYhYlBP2",
         "title": "Программист-прагматик. Путь от подмастерья к мастеру",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 233
-        }
-    },
-    "Z67-Fwm9Z-": {
-        "id": "Z67-Fwm9Z-",
-        "title": "Ночь в Лиссабоне",
-        "author": "Марк Леви",
-        "notes": "",
-        "createdAt": "2020-11-15 15:24:26",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 85
         }
     }
 }

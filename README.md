@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>395</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>128</sup> 
 [](users/153/1537586159620888-facebook)<sup>28</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>72</sup> 
 [](users/102/102572067671855394345-google)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>394</sup> 
 [](users/300/300123225-vkontakte)<sup>86</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>271</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>222</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>265</sup> 
 
 
-_23.11.2020 06:59:28_
+_23.11.2020 08:39:47_

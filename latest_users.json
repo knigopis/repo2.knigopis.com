@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 395,
+        "updatedAt": "2020-11-23 08:39:47"
+    },
     "22742452-yandex": {
         "id": "22742452-yandex",
         "nickname": "rNix",
@@ -82,12 +88,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-11-19 12:03:38"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 394,
-        "updatedAt": "2020-11-19 06:26:48"
     },
     "300123225-vkontakte": {
         "id": "300123225-vkontakte",
