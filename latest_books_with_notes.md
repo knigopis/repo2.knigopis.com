@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Армада3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>237</sup>
 * Программист-прагматик. Путь от подмастерья к мастеру ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
 * Чародейка по ошибке ~ [Chiffi](users/105/105831994080785626680-google)<sup>236</sup>
 * Проклятие на удачу ~ [Chiffi](users/105/105831994080785626680-google)<sup>235</sup>
@@ -30,7 +31,6 @@
 * Академия домашних волшебников ~ [Chiffi](users/105/105831994080785626680-google)<sup>223</sup>
 * О чем я говорю, когда говорю о беге ~ [Rainbow](users/109/109787328219839805802-google)<sup>66</sup>
 * Пояснюючи світ. Історія сучасної науки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>150</sup>
-* The Price of Panic: How the Tyranny of Experts Turned a Pandemic into a Catastrophe ~ [exulted](users/100/100599204551896265722-google)<sup>141</sup>
 
 
-_23.11.2020 06:59:28_
+_23.11.2020 20:50:39_
