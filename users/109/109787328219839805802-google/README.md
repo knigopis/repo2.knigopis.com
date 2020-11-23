@@ -1,12 +1,7 @@
-# List of books read by Rainbow<sup>67</sup>
+# List of books read by Rainbow<sup>66</sup>
 ---
 
 ## 2020
-
-### Мартин Иден
-Джек Лондон
-> [2020-11-23] 
-
 
 ### О чем я говорю, когда говорю о беге
 Харуки Мураками
