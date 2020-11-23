@@ -1,4 +1,16 @@
 {
+    "9enqRkE-Oo": {
+        "id": "9enqRkE-Oo",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2020-11-23 13:20:27",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 67
+        }
+    },
     "S_M6dK6C0c": {
         "id": "S_M6dK6C0c",
         "title": "Жертвенная звезда",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 154
-        }
-    },
-    "ES24ZWbSjs": {
-        "id": "ES24ZWbSjs",
-        "title": "Академия мёртвых. Основы погодной некромантии",
-        "author": "Савенко Валентина",
-        "notes": "Мило, трогательно и поднимает настроение. Добрая сказка с принцем и милыми пушистиками-нежитью.",
-        "createdAt": "2020-11-15 20:50:43",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 233
         }
     }
 }

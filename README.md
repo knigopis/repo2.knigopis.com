@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>67</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>395</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>128</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>111</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>109</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>265</sup> 
 
 
-_23.11.2020 08:39:47_
+_23.11.2020 13:20:27_
