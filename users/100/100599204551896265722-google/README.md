@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>148</sup>
+# Список прочитанных книг пользователя exulted<sup>149</sup>
 ---
 
 ## 2020
+
+### Password authentication for web and mobile apps
+Dmitry Chestnykh
+> [2020-11-24] 
+
 
 ### Батальон Ангелов
 Акунин Борис

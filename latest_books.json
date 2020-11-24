@@ -1,4 +1,16 @@
 {
+    "Z5poeo4X1S": {
+        "id": "Z5poeo4X1S",
+        "title": "Password authentication for web and mobile apps",
+        "author": "Dmitry Chestnykh",
+        "notes": "",
+        "createdAt": "2020-11-24 07:34:50",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 149
+        }
+    },
     "3m6yfBTyDi": {
         "id": "3m6yfBTyDi",
         "title": "Батальон Ангелов",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 221
-        }
-    },
-    "ABRTAEXeyJ": {
-        "id": "ABRTAEXeyJ",
-        "title": "Бизнес маленькими шагами",
-        "author": "Владимир Маринович",
-        "notes": "Короткая и полезная книга. Без воды.",
-        "createdAt": "2020-11-17 03:48:36",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 51
         }
     }
 }
