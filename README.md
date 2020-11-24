@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>241</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>240</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>66</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>395</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>109</sup> 
 
 
-_24.11.2020 19:19:06_
+_24.11.2020 19:20:24_
