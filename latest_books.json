@@ -1,4 +1,16 @@
 {
+    "3m6yfBTyDi": {
+        "id": "3m6yfBTyDi",
+        "title": "Батальон Ангелов",
+        "author": "Акунин Борис",
+        "notes": "",
+        "createdAt": "2020-11-24 07:33:39",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 148
+        }
+    },
     "tMez9-pmnI": {
         "id": "tMez9-pmnI",
         "title": "Manika Аркада3 Маника",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 51
-        }
-    },
-    "zFiHf_zL-V": {
-        "id": "zFiHf_zL-V",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2020-11-16 20:57:02",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 93
         }
     }
 }

@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>147</sup>
+# Список прочитанных книг пользователя exulted<sup>148</sup>
 ---
 
 ## 2020
+
+### Батальон Ангелов
+Акунин Борис
+> [2020-11-21] 
+
 
 ### 19 Minutes to Live - Helicopter Combat in Vietnam
 Lew Jennings

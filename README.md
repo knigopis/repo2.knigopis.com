@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>148</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>241</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>66</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>395</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>67</sup> 
 [vadd1979](users/308/308698812-yandex)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>181</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>147</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>72</sup> 
 [](users/102/102572067671855394345-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>109</sup> 
 
 
-_23.11.2020 20:51:32_
+_24.11.2020 07:33:39_
