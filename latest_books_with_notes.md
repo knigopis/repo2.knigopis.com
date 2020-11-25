@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* MaNika Аркада3 Маника ~ [Chiffi](users/105/105831994080785626680-google)<sup>241</sup>
+* MaNika Аркада3 Маника ~ [Chiffi](users/105/105831994080785626680-google)<sup>242</sup>
 * Мозговой штурм. Детективные истории из мира неврологии ~ [Garka](users/115/115753719718250012620-google)<sup>266</sup>
 * Аркада3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>242</sup>
 * Manika Аркада3 Маника ~ [Chiffi](users/105/105831994080785626680-google)<sup>241</sup>
@@ -33,4 +33,4 @@
 * Апельсинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>224</sup>
 
 
-_25.11.2020 21:11:10_
+_25.11.2020 21:11:37_
