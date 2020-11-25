@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 266,
+        "updatedAt": "2020-11-25 14:40:33"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 111,
         "updatedAt": "2020-11-11 18:19:42"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 109,
-        "updatedAt": "2020-11-11 08:49:21"
     }
 }

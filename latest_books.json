@@ -1,4 +1,16 @@
 {
+    "Vy2DwwZwTn": {
+        "id": "Vy2DwwZwTn",
+        "title": "Мозговой штурм. Детективные истории из мира неврологии",
+        "author": "Сюзанна О'Салливан",
+        "notes": "Об эпилепсии. Очень интересно, легко и познавательно",
+        "createdAt": "2020-11-25 14:40:33",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 266
+        }
+    },
     "xTb_UON1vF": {
         "id": "xTb_UON1vF",
         "title": "Аркада3",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 222
-        }
-    },
-    "Xa37xfiUG9": {
-        "id": "Xa37xfiUG9",
-        "title": "Дитя слова",
-        "author": "Айрис Мердок",
-        "notes": "",
-        "createdAt": "2020-11-17 11:46:51",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 221
         }
     }
 }
