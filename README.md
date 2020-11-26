@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>243</sup>
+    > недоумевал. Ему и раньше встречались мужчины, обвивавшиеся, подобно плющу, вокруг женщины, назначенной ими в дубы, – иногда матери, чаще – жены, – но он еще ни разу не видел, чтобы плющ с такой скоростью перекидывался на первое попавшееся дерево.
+
 * Удивительный Морис и его ученые грызуны ~ [Garka](users/115/115753719718250012620-google)<sup>267</sup>
     > Говорящие крысы под предводительством говорящего кота, крысолов с флейтой (на вид глупый мальчик)
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Ведь вы должны платить, орки, вы всегда должны платить…
 
 * Мозговой штурм. Детективные истории из мира неврологии ~ [Garka](users/115/115753719718250012620-google)<sup>266</sup>
-    > Об эпилепсии. Очень интересно, легко и познавательно
 
 * Аркада3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>242</sup>
 
@@ -29,16 +31,14 @@ Do not use pull requests to make changes here.
 
 * Проклятие на удачу ~ [Chiffi](users/105/105831994080785626680-google)<sup>235</sup>
 
-* Университет магии и обмана. Иллюзия правды. ~ [Chiffi](users/105/105831994080785626680-google)<sup>234</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>243</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>267</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>43</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>242</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>66</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>395</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
 
 
-_26.11.2020 17:50:27_
+_26.11.2020 19:42:21_
