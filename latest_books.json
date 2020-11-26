@@ -1,4 +1,16 @@
 {
+    "Oaj57vNnd2": {
+        "id": "Oaj57vNnd2",
+        "title": "Удивительный Морис и его ученые грызуны",
+        "author": "Пратчетт, Терри",
+        "notes": "Говорящие крысы под предводительством говорящего кота, крысолов с флейтой (на вид глупый мальчик)",
+        "createdAt": "2020-11-26 17:50:27",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 267
+        }
+    },
     "x2LMXIZcfx": {
         "id": "x2LMXIZcfx",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 234
-        }
-    },
-    "4puEWVIaPL": {
-        "id": "4puEWVIaPL",
-        "title": "Фигня про расчлененку",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-11-17 18:54:37",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 26
         }
     }
 }
