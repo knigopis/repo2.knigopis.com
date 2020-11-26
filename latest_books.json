@@ -1,4 +1,16 @@
 {
+    "x2LMXIZcfx": {
+        "id": "x2LMXIZcfx",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2020-11-26 01:58:16",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 43
+        }
+    },
     "ZXQs6zY53i": {
         "id": "ZXQs6zY53i",
         "title": "MaNika Аркада3 Маника",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 26
-        }
-    },
-    "ZnmESBTezw": {
-        "id": "ZnmESBTezw",
-        "title": "Чёрная гора",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2020-11-17 17:59:11",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 271
         }
     }
 }

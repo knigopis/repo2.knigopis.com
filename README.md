@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>43</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>242</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>266</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>47</sup> 
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>111</sup> 
 
 
-_25.11.2020 21:11:37_
+_26.11.2020 01:58:16_

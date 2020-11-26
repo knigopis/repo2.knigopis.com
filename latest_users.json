@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 43,
+        "updatedAt": "2020-11-26 01:58:16"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "redwhitetee",
         "booksCount": 3,
         "updatedAt": "2020-11-12 20:52:08"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 111,
-        "updatedAt": "2020-11-11 18:19:42"
     }
 }
