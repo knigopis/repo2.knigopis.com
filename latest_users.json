@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": "Elixir",
+        "booksCount": 426,
+        "updatedAt": "2020-11-27 19:23:58"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 47,
         "updatedAt": "2020-11-14 09:35:18"
-    },
-    "503385159-vkontakte": {
-        "id": "503385159-vkontakte",
-        "nickname": "redwhitetee",
-        "booksCount": 3,
-        "updatedAt": "2020-11-12 20:52:08"
     }
 }

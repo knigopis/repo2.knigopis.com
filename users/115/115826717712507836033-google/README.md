@@ -1,7 +1,12 @@
-# List of books read by Elixir<sup>425</sup>
+# List of books read by Elixir<sup>426</sup>
 ---
 
 ## 2020
+
+### Медитация и осознанность
+Паддикомб, Энди
+> [2020-11-28] 
+
 
 ### Апельсинки
 Савельева, Ольга

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>426</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>116</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>47</sup> 
-[redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
 
 
-_27.11.2020 12:45:19_
+_27.11.2020 19:23:58_

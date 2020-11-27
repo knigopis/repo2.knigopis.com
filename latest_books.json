@@ -1,4 +1,16 @@
 {
+    "ugkL4RFWcG": {
+        "id": "ugkL4RFWcG",
+        "title": "Медитация и осознанность",
+        "author": "Паддикомб, Энди",
+        "notes": "",
+        "createdAt": "2020-11-27 19:23:58",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 426
+        }
+    },
     "yo_YshkxB0": {
         "id": "yo_YshkxB0",
         "title": "Просто космос",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 27
-        }
-    },
-    "jD5NzR6lJC": {
-        "id": "jD5NzR6lJC",
-        "title": "Рецепты хорошего сна. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-11-19 14:44:31",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 72
         }
     }
 }
