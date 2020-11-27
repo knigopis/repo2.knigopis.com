@@ -1,4 +1,4 @@
-# List of books read by rNix<sup>71</sup>
+# List of books read by rNix<sup>70</sup>
 ---
 
 ## 2020
@@ -326,14 +326,14 @@ Andy Weir
 > [2014-10-08] 
 
 
-### Gerald's Game
-Stephen King
-> [2014-10] Не осилил. 40% прочитал и начал пролистывать дальше.
-
-
 ### 1984
 Джордж Оруэлл
 > [2014-10] 
+
+
+### Gerald's Game
+Stephen King
+> [2014-10] Не осилил. 40% прочитал и начал пролистывать дальше.
 
 
 ### The Catcher in the Rye
@@ -409,9 +409,6 @@ Ernest Hemingway
 ## Other years
 
 ### жжж
-
-
-### Демо1
 
 
 
