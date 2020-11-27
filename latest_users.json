@@ -1,4 +1,10 @@
 {
+    "22742452-yandex": {
+        "id": "22742452-yandex",
+        "nickname": "rNix",
+        "booksCount": 71,
+        "updatedAt": "2020-11-27 09:20:32"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -40,12 +46,6 @@
         "nickname": "HXT",
         "booksCount": 395,
         "updatedAt": "2020-11-23 08:39:47"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 70,
-        "updatedAt": "2020-11-23 06:59:28"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
