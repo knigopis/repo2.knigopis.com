@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rNix](users/227/22742452-yandex)<sup>71</sup> 
+[rNix](users/227/22742452-yandex)<sup>70</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>73</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>244</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>267</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [redwhitetee](users/503/503385159-vkontakte)<sup>3</sup> 
 
 
-_27.11.2020 09:20:32_
+_27.11.2020 09:24:44_
