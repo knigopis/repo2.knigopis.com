@@ -1,4 +1,16 @@
 {
+    "9HKliZfSCE": {
+        "id": "9HKliZfSCE",
+        "title": "Исправь своё детство. Универсальные правила",
+        "author": "Андрей Курпатов",
+        "notes": "",
+        "createdAt": "2020-11-27 06:01:28",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 73
+        }
+    },
     "i6dEaPIp2u": {
         "id": "i6dEaPIp2u",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 394
-        }
-    },
-    "KuoA8HtAyQ": {
-        "id": "KuoA8HtAyQ",
-        "title": "Виноваты звезды",
-        "author": "Джон Грин",
-        "notes": "",
-        "createdAt": "2020-11-18 06:24:45",
-        "user": {
-            "id": "300123225-vkontakte",
-            "nickname": null,
-            "booksCount": 86
         }
     }
 }
