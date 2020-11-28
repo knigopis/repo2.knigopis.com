@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>243</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>426</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>116</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>73</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>244</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>267</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>47</sup> 
 
 
-_27.11.2020 19:23:58_
+_28.11.2020 08:48:07_
