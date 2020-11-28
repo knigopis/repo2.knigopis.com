@@ -1,4 +1,10 @@
 {
+    "120234653-vkontakte": {
+        "id": "120234653-vkontakte",
+        "nickname": "reinnis",
+        "booksCount": 0,
+        "updatedAt": "2020-11-28 15:12:19"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "Fenix",
         "booksCount": 9,
         "updatedAt": "2020-11-15 07:09:47"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 47,
-        "updatedAt": "2020-11-14 09:35:18"
     }
 }
