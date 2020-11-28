@@ -1,4 +1,16 @@
 {
+    "FvCOie7iRX": {
+        "id": "FvCOie7iRX",
+        "title": "Чёрный отряд",
+        "author": "Глен Кук",
+        "notes": "",
+        "createdAt": "2020-11-28 17:43:22",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 182
+        }
+    },
     "EERu0gEsmB": {
         "id": "EERu0gEsmB",
         "title": "Благие знамения",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 830
-        }
-    },
-    "pAcEJT4BD_": {
-        "id": "pAcEJT4BD_",
-        "title": "Проклятие на удачу",
-        "author": "Савенко Валентина",
-        "notes": "Женское детективное фентези. Чем больше читаю автора, тем больше нравится. Если хотите отдохнуть или снять стресс-самое оно)",
-        "createdAt": "2020-11-20 05:54:26",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 235
         }
     }
 }
