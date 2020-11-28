@@ -1,4 +1,16 @@
 {
+    "EERu0gEsmB": {
+        "id": "EERu0gEsmB",
+        "title": "Благие знамения",
+        "author": "Терри Пратчетт, Нил Гейман",
+        "notes": "",
+        "createdAt": "2020-11-28 14:58:28",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 129
+        }
+    },
     "ugkL4RFWcG": {
         "id": "ugkL4RFWcG",
         "title": "Медитация и осознанность",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 235
-        }
-    },
-    "xG2V_z9Hli": {
-        "id": "xG2V_z9Hli",
-        "title": "Бунт удобной жены",
-        "author": "Натрисия Эванс",
-        "notes": "",
-        "createdAt": "2020-11-19 16:13:26",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 27
         }
     }
 }
