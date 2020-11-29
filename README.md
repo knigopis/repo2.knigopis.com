@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116241708328757011005-google)<sup>0</sup> 
 [](users/118/1182782188437558-facebook)<sup>0</sup> 
 [745788545](users/117/117649461523645551087-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>67</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104268716766206287952-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>51</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>93</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>103</sup> 
 
 
-_29.11.2020 11:41:12_
+_29.11.2020 14:47:48_
