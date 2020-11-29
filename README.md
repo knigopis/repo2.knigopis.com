@@ -53,7 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Joan8ied](users/240/2401650-vkontakte)<sup>104</sup> 
+[Joan8ied](users/240/2401650-vkontakte)<sup>103</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>832</sup> 
 [](users/116/116241708328757011005-google)<sup>0</sup> 
 [](users/118/1182782188437558-facebook)<sup>0</sup> 
@@ -85,4 +85,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>51</sup> 
 
 
-_29.11.2020 19:44:38_
+_29.11.2020 20:20:40_
