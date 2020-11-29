@@ -1,4 +1,10 @@
 {
+    "1182782188437558-facebook": {
+        "id": "1182782188437558-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-11-29 11:41:12"
+    },
     "117649461523645551087-google": {
         "id": "117649461523645551087-google",
         "nickname": "745788545",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 103,
         "updatedAt": "2020-11-16 14:09:45"
-    },
-    "3448154788585127-facebook": {
-        "id": "3448154788585127-facebook",
-        "nickname": "Пу_тем",
-        "booksCount": 5,
-        "updatedAt": "2020-11-16 03:25:59"
     }
 }
