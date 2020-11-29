@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>832</sup> 
 [](users/116/116241708328757011005-google)<sup>0</sup> 
 [](users/118/1182782188437558-facebook)<sup>0</sup> 
 [745788545](users/117/117649461523645551087-google)<sup>0</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>395</sup> 
 [](users/153/1537586159620888-facebook)<sup>28</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>831</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>69</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>67</sup> 
 [vadd1979](users/308/308698812-yandex)<sup>0</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>93</sup> 
 
 
-_29.11.2020 14:47:48_
+_29.11.2020 15:01:04_

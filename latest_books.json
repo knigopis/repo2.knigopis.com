@@ -1,4 +1,16 @@
 {
+    "yeAzEz5s0o": {
+        "id": "yeAzEz5s0o",
+        "title": "11/22/63",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-11-29 15:01:04",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 832
+        }
+    },
     "SVVbFKGRH1": {
         "id": "SVVbFKGRH1",
         "title": "Я не умею спать",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 147
-        }
-    },
-    "96ishrjIMl": {
-        "id": "96ishrjIMl",
-        "title": "Цифровое золото: невероятная история Биткойна",
-        "author": "Натаниел Поппер",
-        "notes": "Для тезиса читала",
-        "createdAt": "2020-11-20 09:16:23",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 87
         }
     }
 }
