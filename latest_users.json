@@ -1,4 +1,10 @@
 {
+    "233773389-vkontakte": {
+        "id": "233773389-vkontakte",
+        "nickname": "kissinthewind",
+        "booksCount": 0,
+        "updatedAt": "2020-11-29 01:34:46"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 154,
         "updatedAt": "2020-11-15 21:14:43"
-    },
-    "111367585493471720963-google": {
-        "id": "111367585493471720963-google",
-        "nickname": "Fenix",
-        "booksCount": 9,
-        "updatedAt": "2020-11-15 07:09:47"
     }
 }
