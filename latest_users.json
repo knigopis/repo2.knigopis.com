@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "Joan8ied",
+        "booksCount": 104,
+        "updatedAt": "2020-11-29 19:44:38"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 51,
         "updatedAt": "2020-11-17 03:48:36"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 93,
-        "updatedAt": "2020-11-16 20:57:02"
     }
 }
