@@ -1,4 +1,10 @@
 {
+    "116241708328757011005-google": {
+        "id": "116241708328757011005-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-11-29 14:47:48"
+    },
     "1182782188437558-facebook": {
         "id": "1182782188437558-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 93,
         "updatedAt": "2020-11-16 20:57:02"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 103,
-        "updatedAt": "2020-11-16 14:09:45"
     }
 }
