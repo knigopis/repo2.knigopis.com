@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissinthewind](users/233/233773389-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>182</sup> 
 [reinnis](users/120/120234653-vkontakte)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>129</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>103</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup> 
-[Fenix](users/111/111367585493471720963-google)<sup>9</sup> 
 
 
-_28.11.2020 17:43:22_
+_29.11.2020 01:34:46_
