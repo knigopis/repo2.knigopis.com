@@ -1,7 +1,19 @@
-# Список прочитанных книг пользователя Joan8ied<sup>103</sup>
+# Список прочитанных книг пользователя Joan8ied<sup>104</sup>
 ---
 
 ## 2020
+
+### Dodger (Финт)
+Terry Pratchett (Терри Пратчетт)
+> [2020-11-29] Первый внушительный (хотя и подростковый) роман, прочитанный мною на английском языке. Оговорюсь: первый в бумажном варианте. Несколько аудиокниг до того я лишь слушала. Слушать приятно и удобно, но переводить самостоятельно написанный текст — полезнее, считаю.  
+> 
+> В целом, он мне запомнился, полюбился, как и все персонажи оттуда. Хотя и не считаю его каким-то особо выдающимся, с необычным сюжетом... Отнюдь. Это такая история о парне-"Золушке", хотя и вполне заслужившем всего почёта и справедливости своими ловкостью, острым умом, смелостью. По-джентльменски полный достоинства и остроумия Пратчетт, как всегда. 
+> Было сложно читать, не буду хитрить. Но, в основном, так было из-за богатого неиспользуемыми ныне словами сленга викторианской эпохи, криминального жаргона. Все языковые тонкости Пратчетт тщательно, явно смакуя, воссоздавал. Хотя я испытывала трудности и надолго даже забросила книгу, я воспринимала её как дружелюбного компаньона, помогающего мне подтягивать английский.
+> 
+> “Dodger wasn’t a thief; not at all. He was . . . well, he was good at finding things. After all, sometimes things fell off carts and carriages, didn’t they? He had never stuck his hand into somebody else’s pocket. Well, apart from one or two occasions when it was so blatantly open that something was bound to fall out, in which case Dodger would nimbly grab it before it hit the ground. That wasn’t stealing: that was keeping the place tidy.”
+> 
+> “A geezer, now, well, a geezer is somebody that everybody knows, and he knows everybody, and maybe he knows something about everyone he knows that maybe you wished he didn’t know. Um, and well, he’s sharp, crafty, um, not exactly a thief but somehow things find their way into their hands. Doesn’t mind a bit of mischief, and wears the street like an overcoat.”
+
 
 ### «Битва королей», вторая книга из серии «Песнь льда и огня»
 Джордж Р. Р. Мартин

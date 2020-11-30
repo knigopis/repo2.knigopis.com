@@ -1,8 +1,8 @@
 # List of the latest books with notes
 ---
 
-* Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 * Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
+* Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 * Я не умею спать ~ [Rainbow](users/109/109787328219839805802-google)<sup>67</sup>
 * Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
@@ -33,4 +33,4 @@
 * Секретарь палача ~ [Chiffi](users/105/105831994080785626680-google)<sup>227</sup>
 
 
-_30.11.2020 09:06:50_
+_30.11.2020 18:14:04_

@@ -5,6 +5,16 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
+    > Первый внушительный (хотя и подростковый) роман, прочитанный мною на английском языке. Оговорюсь: первый в бумажном варианте. Несколько аудиокниг до того я лишь слушала. Слушать приятно и удобно, но переводить самостоятельно написанный текст — полезнее, считаю.  
+    > 
+    > В целом, он мне запомнился, полюбился, как и все персонажи оттуда. Хотя и не считаю его каким-то особо выдающимся, с необычным сюжетом... Отнюдь. Это такая история о парне-"Золушке", хотя и вполне заслужившем всего почёта и справедливости своими ловкостью, острым умом, смелостью. По-джентльменски полный достоинства и остроумия Пратчетт, как всегда. 
+    > Было сложно читать, не буду хитрить. Но, в основном, так было из-за богатого неиспользуемыми ныне словами сленга викторианской эпохи, криминального жаргона. Все языковые тонкости Пратчетт тщательно, явно смакуя, воссоздавал. Хотя я испытывала трудности и надолго даже забросила книгу, я воспринимала её как дружелюбного компаньона, помогающего мне подтягивать английский.
+    > 
+    > “Dodger wasn’t a thief; not at all. He was . . . well, he was good at finding things. After all, sometimes things fell off carts and carriages, didn’t they? He had never stuck his hand into somebody else’s pocket. Well, apart from one or two occasions when it was so blatantly open that something was bound to fall out, in which case Dodger would nimbly grab it before it hit the ground. That wasn’t stealing: that was keeping the place tidy.”
+    > 
+    > “A geezer, now, well, a geezer is somebody that everybody knows, and he knows everybody, and maybe he knows something about everyone he knows that maybe you wished he didn’t know. Um, and well, he’s sharp, crafty, um, not exactly a thief but somehow things find their way into their hands. Doesn’t mind a bit of mischief, and wears the street like an overcoat.”
+
 * Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
     > Прочла все книги из этого цикла: 
     > 1. Автостопом по Галактике
@@ -15,20 +25,6 @@ Do not use pull requests to make changes here.
     > 
     > В общем весь цикл понравился. К отдельным его частям есть вопросы, некоторые блоки понравились меньше других, но в целом вся созданная автором вселенная и история мне понравились. 
     > И потом, юмор, ирония, сарказм хорошие у автора, там что однозначно цикл стоит потраченного на него времени.
-
-* Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
-    > Первый внушительный (хотя и подростковый) роман, прочитанный мною на английском языке. В целом, он мне запомнился, полюбился, как и все персонажи оттуда. Хотя и не считаю его каким-то особо выдающимся, с необычным сюжетом... Отнюдь. Это такая история о парне-"Золушке", хотя и вполне заслужившем всего почёта и справедливости своими ловкостью, острым умом, смелостью. По-джентльменски полный достоинства и остроумия Пратчетт, как всегда. 
-    > Было сложно читать, не буду хитрить. Но, в основном, так было из-за богатого неиспользуемыми ныне словами сленга викторианской эпохи, криминального жаргона. Все языковые тонкости Пратчетт тщательно, явно смакуя, воссоздавал. Хотя я испытывала трудности и надолго даже забросила книгу, я воспринимала её как дружелюбного компаньона, помогающего мне подтягивать английский.
-    > 
-    > “Dodger wasn’t a thief; not at all. He was . . . well, he was good at finding things. After all, sometimes things fell off carts and carriages, didn’t they? He had never stuck his hand into somebody else’s pocket. Well, apart from one or two occasions when it was so blatantly open that something was bound to fall out, in which case Dodger would nimbly grab it before it hit the ground. That wasn’t stealing: that was keeping the place tidy.”
-    > 
-    > “A geezer, now, well, a geezer is somebody that everybody knows, and he knows everybody, and maybe he knows something about everyone he knows that maybe you wished he didn’t know. Um, and well, he’s sharp, crafty, um, not exactly a thief but somehow things find their way into their hands. Doesn’t mind a bit of mischief, and wears the street like an overcoat.”
-    > 
-    > “The games we play are lessons we learn. The assumptions we make, things we ignore, and things we change make us what we become.”
-    > 
-    > “Money makes people rich; it is a fallacy to think it makes them better, or even that it makes them worse. People are what they do, and what they leave behind.”
-    > 
-    > “... responsibilities are the anvil on which a man is forged.”
 
 * Я не умею спать ~ [Rainbow](users/109/109787328219839805802-google)<sup>67</sup>
     > Лёгкая сонливость днём, промежуточный хронотип, ближе к сове. Йога, метод Фельденкрайза, ки гонг, зверобой, валерьяна.
@@ -61,8 +57,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Joan8ied](users/240/2401650-vkontakte)<sup>104</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>73</sup> 
-[Joan8ied](users/240/2401650-vkontakte)<sup>103</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>832</sup> 
 [](users/116/116241708328757011005-google)<sup>0</sup> 
 [](users/118/1182782188437558-facebook)<sup>0</sup> 
@@ -93,4 +89,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104268716766206287952-google)<sup>0</sup> 
 
 
-_30.11.2020 09:06:50_
+_30.11.2020 18:14:04_
