@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>116</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>117</sup>
 ---
 
 ## 2020
+
+### Магическая уборка
+Мари Кондо
+> [2020-11-30] 
+
 
 ### Просто космос
 Катерина Ленгольд

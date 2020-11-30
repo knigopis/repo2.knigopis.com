@@ -1,4 +1,16 @@
 {
+    "TmAtPpWBc1": {
+        "id": "TmAtPpWBc1",
+        "title": "Магическая уборка",
+        "author": "Мари Кондо",
+        "notes": "",
+        "createdAt": "2020-11-30 21:28:04",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 117
+        }
+    },
     "bc7-yGjYT_": {
         "id": "bc7-yGjYT_",
         "title": "Dodger (Финт)",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 69
-        }
-    },
-    "rH_IwiV2S8": {
-        "id": "rH_IwiV2S8",
-        "title": "Лунные хроники. Золушка",
-        "author": "Марисса Майер",
-        "notes": "",
-        "createdAt": "2020-11-20 20:48:41",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 67
         }
     }
 }
