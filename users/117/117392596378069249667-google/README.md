@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>69</sup>
+# List of books read by 4apa<sup>70</sup>
 ---
 
 ## 2020
+
+### Тобол. Много званых
+А. Иванов
+> [2020-12-01] 
+
 
 ### Тобол. Мало избранных
 А. Иванов
