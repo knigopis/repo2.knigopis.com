@@ -1,4 +1,16 @@
 {
+    "K1wgybi_Jb": {
+        "id": "K1wgybi_Jb",
+        "title": "Ведьмак: меч предназначения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2020-12-01 04:10:08",
+        "user": {
+            "id": "183883842-vkontakte",
+            "nickname": "chaffeepwnz",
+            "booksCount": 2
+        }
+    },
     "xh3Fj1Jood": {
         "id": "xh3Fj1Jood",
         "title": "Ведьмак: последнее желание",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 128
-        }
-    },
-    "ybmo9eNK9L": {
-        "id": "ybmo9eNK9L",
-        "title": "Пять минут жизни",
-        "author": "Эмма Скотт",
-        "notes": "",
-        "createdAt": "2020-11-22 21:42:19",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 28
         }
     }
 }

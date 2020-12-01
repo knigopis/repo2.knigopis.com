@@ -1,7 +1,11 @@
-# List of books read by [chaffeepwnz](http://vk.com/id183883842)<sup>1</sup>
+# List of books read by [chaffeepwnz](http://vk.com/id183883842)<sup>2</sup>
 ---
 
 ## 2020
+
+### Ведьмак: меч предназначения
+Анджей Сапковский
+
 
 ### Ведьмак: последнее желание
 Анджей Сапковский
