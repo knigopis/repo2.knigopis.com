@@ -1,7 +1,11 @@
-# List of books read by [chaffeepwnz](http://vk.com/id183883842)<sup>2</sup>
+# List of books read by [chaffeepwnz](http://vk.com/id183883842)<sup>3</sup>
 ---
 
 ## 2020
+
+### Ведьмак: кровь эльфов
+Анджей Сапковский
+
 
 ### Ведьмак: меч предназначения
 Анджей Сапковский
