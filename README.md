@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[chaffeepwnz](users/183/183883842-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>273</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>70</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>117</sup> 
@@ -86,7 +87,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102572067671855394345-google)<sup>0</sup> 
 [](users/300/300123225-vkontakte)<sup>86</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>222</sup> 
-[](users/104/104268716766206287952-google)<sup>0</sup> 
 
 
-_01.12.2020 02:57:37_
+_01.12.2020 04:04:55_
