@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>272</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>70</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>117</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup> 
@@ -84,9 +85,8 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
 [](users/102/102572067671855394345-google)<sup>0</sup> 
 [](users/300/300123225-vkontakte)<sup>86</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>271</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>222</sup> 
 [](users/104/104268716766206287952-google)<sup>0</sup> 
 
 
-_30.11.2020 21:45:50_
+_01.12.2020 02:57:01_
