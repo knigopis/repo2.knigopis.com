@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>112</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>74</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>229</sup> 
 [chaffeepwnz](users/183/183883842-vkontakte)<sup>5</sup> 
@@ -86,7 +87,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vadd1979](users/308/308698812-yandex)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
 [](users/102/102572067671855394345-google)<sup>0</sup> 
-[](users/300/300123225-vkontakte)<sup>86</sup> 
 
 
-_02.12.2020 13:19:40_
+_02.12.2020 20:42:54_

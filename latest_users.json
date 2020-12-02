@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 112,
+        "updatedAt": "2020-12-02 20:42:54"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-11-19 12:03:38"
-    },
-    "300123225-vkontakte": {
-        "id": "300123225-vkontakte",
-        "nickname": null,
-        "booksCount": 86,
-        "updatedAt": "2020-11-18 06:24:45"
     }
 }
