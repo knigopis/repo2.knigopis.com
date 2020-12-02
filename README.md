@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>229</sup> 
 [chaffeepwnz](users/183/183883842-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>273</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>70</sup> 
@@ -86,7 +87,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
 [](users/102/102572067671855394345-google)<sup>0</sup> 
 [](users/300/300123225-vkontakte)<sup>86</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>222</sup> 
 
 
-_01.12.2020 04:11:35_
+_02.12.2020 11:32:15_
