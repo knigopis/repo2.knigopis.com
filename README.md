@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>74</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>229</sup> 
 [chaffeepwnz](users/183/183883842-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>273</sup> 
@@ -76,7 +77,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>243</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>426</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>73</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>267</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
@@ -89,4 +89,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/300/300123225-vkontakte)<sup>86</sup> 
 
 
-_02.12.2020 11:32:15_
+_02.12.2020 13:19:40_

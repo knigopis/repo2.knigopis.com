@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 74,
+        "updatedAt": "2020-12-02 13:19:40"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -112,12 +118,6 @@
         "nickname": "rNix",
         "booksCount": 69,
         "updatedAt": "2020-11-27 09:24:59"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 73,
-        "updatedAt": "2020-11-27 06:01:28"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
