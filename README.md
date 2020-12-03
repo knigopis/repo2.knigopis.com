@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>55</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>230</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>396</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>112</sup> 
@@ -86,7 +87,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>67</sup> 
 [vadd1979](users/308/308698812-yandex)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>87</sup> 
-[](users/102/102572067671855394345-google)<sup>0</sup> 
 
 
-_03.12.2020 10:34:05_
+_03.12.2020 16:19:45_

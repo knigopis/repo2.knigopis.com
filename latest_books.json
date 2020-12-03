@@ -1,4 +1,16 @@
 {
+    "OXefQuMVe6": {
+        "id": "OXefQuMVe6",
+        "title": "Тёмная сторона",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-12-03 16:19:45",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 55
+        }
+    },
     "ssDDE1Wq00": {
         "id": "ssDDE1Wq00",
         "title": "Астролог",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 266
-        }
-    },
-    "xTb_UON1vF": {
-        "id": "xTb_UON1vF",
-        "title": "Аркада3",
-        "author": "Панов Вадим",
-        "notes": "— Образование специально делают дорогим, потому что неграмотные люди безопасны, ",
-        "createdAt": "2020-11-24 17:57:57",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 242
         }
     }
 }

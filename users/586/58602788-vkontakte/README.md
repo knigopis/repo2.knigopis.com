@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>54</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>55</sup>
 ---
 
 ## 2020
+
+### Тёмная сторона
+Макс Фрай
+> [2020-12] 
+
 
 ### Похититель теней
 Марк Леви
