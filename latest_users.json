@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 155,
+        "updatedAt": "2020-12-03 18:38:01"
+    },
     "112926981382172649791-google": {
         "id": "112926981382172649791-google",
         "nickname": "Nadbadyan",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 67,
         "updatedAt": "2020-11-20 20:48:41"
-    },
-    "308698812-yandex": {
-        "id": "308698812-yandex",
-        "nickname": "vadd1979",
-        "booksCount": 0,
-        "updatedAt": "2020-11-20 18:16:19"
     }
 }

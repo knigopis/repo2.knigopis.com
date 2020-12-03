@@ -1,4 +1,16 @@
 {
+    "o4-ivxIYVz": {
+        "id": "o4-ivxIYVz",
+        "title": "Меч, дорога и удача",
+        "author": "Алекс Орлов",
+        "notes": "4/10 Боевое фєтези с єлементами дороги. Ничего цепляющего.",
+        "createdAt": "2020-12-03 18:38:01",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 155
+        }
+    },
     "OXefQuMVe6": {
         "id": "OXefQuMVe6",
         "title": "Тёмная сторона",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 242
-        }
-    },
-    "Vy2DwwZwTn": {
-        "id": "Vy2DwwZwTn",
-        "title": "Мозговой штурм. Детективные истории из мира неврологии",
-        "author": "Сюзанна О'Салливан",
-        "notes": "Об эпилепсии. Очень интересно, легко и познавательно",
-        "createdAt": "2020-11-25 14:40:33",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 266
         }
     }
 }

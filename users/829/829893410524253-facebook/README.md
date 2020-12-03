@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>154</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>155</sup>
 ---
 
 ## 2020
+
+### Меч, дорога и удача
+Алекс Орлов
+> [2020-12-02] 4/10 Боевое фєтези с єлементами дороги. Ничего цепляющего.
+
 
 ### Странствие трех царей
 Сборник

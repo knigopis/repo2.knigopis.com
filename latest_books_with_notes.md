@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
 * Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
 * Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 * Я не умею спать ~ [Rainbow](users/109/109787328219839805802-google)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Два в одном. Случайные враги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>229</sup>
 * Radical Uncertainty: Decision-making for an unknowable future ~ [exulted](users/100/100599204551896265722-google)<sup>144</sup>
 * Чужое счастье. Мой чужой монстр. ~ [Chiffi](users/105/105831994080785626680-google)<sup>228</sup>
-* Секретарь палача ~ [Chiffi](users/105/105831994080785626680-google)<sup>227</sup>
 
 
-_30.11.2020 18:14:04_
+_03.12.2020 18:38:01_

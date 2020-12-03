@@ -1,4 +1,16 @@
 {
+    "o4-ivxIYVz": {
+        "id": "o4-ivxIYVz",
+        "title": "Меч, дорога и удача",
+        "author": "Алекс Орлов",
+        "notes": "4/10 Боевое фєтези с єлементами дороги. Ничего цепляющего.",
+        "createdAt": "2020-12-03 18:38:01",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 155
+        }
+    },
     "bc7-yGjYT_": {
         "id": "bc7-yGjYT_",
         "title": "Dodger (Финт)",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 228
-        }
-    },
-    "WHoyCyMU_k": {
-        "id": "WHoyCyMU_k",
-        "title": "Секретарь палача",
-        "author": "Савенко Валентина",
-        "notes": "Хорошее женское фентези.",
-        "createdAt": "2020-11-06 17:13:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 227
         }
     }
 }
