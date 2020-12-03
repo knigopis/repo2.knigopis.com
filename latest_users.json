@@ -1,4 +1,10 @@
 {
+    "112926981382172649791-google": {
+        "id": "112926981382172649791-google",
+        "nickname": "Nadbadyan",
+        "booksCount": 0,
+        "updatedAt": "2020-12-03 16:38:52"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "vadd1979",
         "booksCount": 0,
         "updatedAt": "2020-11-20 18:16:19"
-    },
-    "275766107-vkontakte": {
-        "id": "275766107-vkontakte",
-        "nickname": "aktoty",
-        "booksCount": 87,
-        "updatedAt": "2020-11-20 09:16:23"
     }
 }
