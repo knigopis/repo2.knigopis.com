@@ -1,4 +1,16 @@
 {
+    "ssDDE1Wq00": {
+        "id": "ssDDE1Wq00",
+        "title": "Астролог",
+        "author": "Марк Алданов",
+        "notes": "",
+        "createdAt": "2020-12-03 10:34:04",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 230
+        }
+    },
     "YDw7UmFWs3": {
         "id": "YDw7UmFWs3",
         "title": "Доссадийский эксперимент",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 242
-        }
-    },
-    "Z5poeo4X1S": {
-        "id": "Z5poeo4X1S",
-        "title": "Password authentication for web and mobile apps",
-        "author": "Dmitry Chestnykh",
-        "notes": "",
-        "createdAt": "2020-11-24 07:34:50",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 149
         }
     }
 }
