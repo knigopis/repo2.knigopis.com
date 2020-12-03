@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>396</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>112</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>74</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>229</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>267</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>395</sup> 
 [](users/153/1537586159620888-facebook)<sup>28</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>67</sup> 
 [vadd1979](users/308/308698812-yandex)<sup>0</sup> 
@@ -89,4 +89,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102572067671855394345-google)<sup>0</sup> 
 
 
-_02.12.2020 20:42:54_
+_03.12.2020 08:01:00_

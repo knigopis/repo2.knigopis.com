@@ -1,4 +1,16 @@
 {
+    "YDw7UmFWs3": {
+        "id": "YDw7UmFWs3",
+        "title": "Доссадийский эксперимент",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2020-12-03 08:01:00",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 396
+        }
+    },
     "-gJEGACA5R": {
         "id": "-gJEGACA5R",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 149
-        }
-    },
-    "3m6yfBTyDi": {
-        "id": "3m6yfBTyDi",
-        "title": "Батальон Ангелов",
-        "author": "Акунин Борис",
-        "notes": "",
-        "createdAt": "2020-11-24 07:33:39",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 148
         }
     }
 }
