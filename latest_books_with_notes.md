@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
 * Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
 * Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
 * Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
@@ -30,7 +31,6 @@
 * Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
 * Два в одном. Случайные враги. ~ [Chiffi](users/105/105831994080785626680-google)<sup>229</sup>
 * Radical Uncertainty: Decision-making for an unknowable future ~ [exulted](users/100/100599204551896265722-google)<sup>144</sup>
-* Чужое счастье. Мой чужой монстр. ~ [Chiffi](users/105/105831994080785626680-google)<sup>228</sup>
 
 
-_03.12.2020 18:38:01_
+_04.12.2020 09:16:38_

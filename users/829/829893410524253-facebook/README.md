@@ -1,7 +1,11 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>155</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>156</sup>
 ---
 
 ## 2020
+
+### Список Шиндлера
+> [2020-12-04] 8/10 Опис Голокосту у Польщі та роль Праведників світу.
+
 
 ### Меч, дорога и удача
 Алекс Орлов

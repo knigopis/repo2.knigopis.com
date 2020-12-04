@@ -1,4 +1,16 @@
 {
+    "MPWIMZgvSI": {
+        "id": "MPWIMZgvSI",
+        "title": "Список Шиндлера",
+        "author": "",
+        "notes": "8/10 Опис Голокосту у Польщі та роль Праведників світу.",
+        "createdAt": "2020-12-04 09:16:38",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 156
+        }
+    },
     "dweaz2rSed": {
         "id": "dweaz2rSed",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 267
-        }
-    },
-    "x2LMXIZcfx": {
-        "id": "x2LMXIZcfx",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2020-11-26 01:58:16",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 43
         }
     }
 }

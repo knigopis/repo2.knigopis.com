@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
+    > 8/10 Опис Голокосту у Польщі та роль Праведників світу.
+
 * Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
     > 4/10 Боевое фєтези с єлементами дороги. Ничего цепляющего.
 
@@ -19,15 +22,6 @@ Do not use pull requests to make changes here.
     > “A geezer, now, well, a geezer is somebody that everybody knows, and he knows everybody, and maybe he knows something about everyone he knows that maybe you wished he didn’t know. Um, and well, he’s sharp, crafty, um, not exactly a thief but somehow things find their way into their hands. Doesn’t mind a bit of mischief, and wears the street like an overcoat.”
 
 * Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
-    > Прочла все книги из этого цикла: 
-    > 1. Автостопом по Галактике
-    > 2. Ресторан у конца Вселенной
-    > 3. Жизнь, Вселенная и все остальное
-    > 4. Всего хорошего, и спасибо за рыбу!
-    > 5. В основном безвредна
-    > 
-    > В общем весь цикл понравился. К отдельным его частям есть вопросы, некоторые блоки понравились меньше других, но в целом вся созданная автором вселенная и история мне понравились. 
-    > И потом, юмор, ирония, сарказм хорошие у автора, там что однозначно цикл стоит потраченного на него времени.
 
 * Я не умею спать ~ [Rainbow](users/109/109787328219839805802-google)<sup>67</sup>
 
@@ -41,15 +35,13 @@ Do not use pull requests to make changes here.
 
 * Мозговой штурм. Детективные истории из мира неврологии ~ [Garka](users/115/115753719718250012620-google)<sup>266</sup>
 
-* Аркада3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>242</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>94</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup> 
 [Nadbadyan](users/112/112926981382172649791-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>55</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>230</sup> 
@@ -80,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>28</sup> 
 
 
-_03.12.2020 20:57:32_
+_04.12.2020 09:16:38_
