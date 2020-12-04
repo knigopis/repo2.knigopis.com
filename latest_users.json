@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 44,
+        "updatedAt": "2020-12-04 20:41:19"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -160,12 +166,6 @@
         "nickname": "Garka",
         "booksCount": 267,
         "updatedAt": "2020-11-26 17:50:27"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 43,
-        "updatedAt": "2020-11-26 01:58:16"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",

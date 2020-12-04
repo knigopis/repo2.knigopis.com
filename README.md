@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы для Элджернона ~ [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup>
+    > Книга эмоционально поразила меня
+
 * Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
     > 8/10 Опис Голокосту у Польщі та роль Праведників світу.
 
@@ -12,14 +15,6 @@ Do not use pull requests to make changes here.
     > 4/10 Боевое фєтези с єлементами дороги. Ничего цепляющего.
 
 * Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
-    > Первый внушительный (хотя и подростковый) роман, прочитанный мною на английском языке. Оговорюсь: первый в бумажном варианте. Несколько аудиокниг до того я лишь слушала. Слушать приятно и удобно, но переводить самостоятельно написанный текст — полезнее, считаю.  
-    > 
-    > В целом, он мне запомнился, полюбился, как и все персонажи оттуда. Хотя и не считаю его каким-то особо выдающимся, с необычным сюжетом... Отнюдь. Это такая история о парне-"Золушке", хотя и вполне заслужившем всего почёта и справедливости своими ловкостью, острым умом, смелостью. По-джентльменски полный достоинства и остроумия Пратчетт, как всегда. 
-    > Было сложно читать, не буду хитрить. Но, в основном, так было из-за богатого неиспользуемыми ныне словами сленга викторианской эпохи, криминального жаргона. Все языковые тонкости Пратчетт тщательно, явно смакуя, воссоздавал. Хотя я испытывала трудности и надолго даже забросила книгу, я воспринимала её как дружелюбного компаньона, помогающего мне подтягивать английский.
-    > 
-    > “Dodger wasn’t a thief; not at all. He was . . . well, he was good at finding things. After all, sometimes things fell off carts and carriages, didn’t they? He had never stuck his hand into somebody else’s pocket. Well, apart from one or two occasions when it was so blatantly open that something was bound to fall out, in which case Dodger would nimbly grab it before it hit the ground. That wasn’t stealing: that was keeping the place tidy.”
-    > 
-    > “A geezer, now, well, a geezer is somebody that everybody knows, and he knows everybody, and maybe he knows something about everyone he knows that maybe you wished he didn’t know. Um, and well, he’s sharp, crafty, um, not exactly a thief but somehow things find their way into their hands. Doesn’t mind a bit of mischief, and wears the street like an overcoat.”
 
 * Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 
@@ -33,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * MaNika Аркада3 Маника ~ [Chiffi](users/105/105831994080785626680-google)<sup>242</sup>
 
-* Мозговой штурм. Детективные истории из мира неврологии ~ [Garka](users/115/115753719718250012620-google)<sup>266</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>94</sup> 
 [Nadbadyan](users/112/112926981382172649791-google)<sup>0</sup> 
@@ -67,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>426</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>267</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
 [](users/153/1537586159620888-facebook)<sup>28</sup> 
 
 
-_04.12.2020 09:16:38_
+_04.12.2020 20:41:19_
