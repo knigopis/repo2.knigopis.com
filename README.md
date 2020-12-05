@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ellikiper72](users/462/46242783-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>113</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>267</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>149</sup> 
-[](users/153/1537586159620888-facebook)<sup>28</sup> 
 
 
-_05.12.2020 12:17:43_
+_05.12.2020 12:41:05_
