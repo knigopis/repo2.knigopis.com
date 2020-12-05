@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>156</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>157</sup>
 ---
 
 ## 2020
+
+### Вопрос о виновности. О политической ответственности Германии
+Карл Ясперс
+> [2020-12-04] 6/10 Виновность каждого гражданина моральная, метафизическая, политическая и уголовная.
+
 
 ### Список Шиндлера
 Томас Кініллі

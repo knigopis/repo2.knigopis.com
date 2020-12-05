@@ -1,4 +1,16 @@
 {
+    "3NAJGBGus-": {
+        "id": "3NAJGBGus-",
+        "title": "Вопрос о виновности. О политической ответственности Германии",
+        "author": "Карл Ясперс",
+        "notes": "6/10 Виновность каждого гражданина моральная, метафизическая, политическая и уголовная.",
+        "createdAt": "2020-12-05 12:17:43",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 157
+        }
+    },
     "vl8UVQ1EX_": {
         "id": "vl8UVQ1EX_",
         "title": "Записки сумасшедшего",
@@ -345,18 +357,6 @@
             "id": "22742452-yandex",
             "nickname": "rNix",
             "booksCount": 71
-        }
-    },
-    "9HKliZfSCE": {
-        "id": "9HKliZfSCE",
-        "title": "Исправь своё детство. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-11-27 06:01:28",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 73
         }
     }
 }

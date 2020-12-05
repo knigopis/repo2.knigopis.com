@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вопрос о виновности. О политической ответственности Германии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
+    > 6/10 Виновность каждого гражданина моральная, метафизическая, политическая и уголовная.
+
 * Цветы для Элджернона ~ [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup>
     > Книга эмоционально поразила меня
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Опис Голокосту у Польщі та роль Праведників світу.
 
 * Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
-    > 4/10 Боевое фєтези с єлементами дороги. Ничего цепляющего.
 
 * Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Удивительный Морис и его ученые грызуны ~ [Garka](users/115/115753719718250012620-google)<sup>267</sup>
 
-* MaNika Аркада3 Маника ~ [Chiffi](users/105/105831994080785626680-google)<sup>242</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>113</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>94</sup> 
 [Nadbadyan](users/112/112926981382172649791-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>55</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>28</sup> 
 
 
-_05.12.2020 06:20:46_
+_05.12.2020 12:17:43_
