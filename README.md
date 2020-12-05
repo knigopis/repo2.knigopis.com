@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>113</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>94</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>55</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>230</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>396</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>112</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>74</sup> 
 [chaffeepwnz](users/183/183883842-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>273</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>28</sup> 
 
 
-_04.12.2020 20:41:19_
+_05.12.2020 06:20:46_
