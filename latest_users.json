@@ -1,4 +1,10 @@
 {
+    "46242783-vkontakte": {
+        "id": "46242783-vkontakte",
+        "nickname": "ellikiper72",
+        "booksCount": 0,
+        "updatedAt": "2020-12-05 12:41:04"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 149,
         "updatedAt": "2020-11-24 07:34:50"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 28,
-        "updatedAt": "2020-11-22 21:42:19"
     }
 }
