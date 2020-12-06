@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 75,
+        "updatedAt": "2020-12-06 12:57:13"
+    },
     "111367585493471720963-google": {
         "id": "111367585493471720963-google",
         "nickname": "Fenix",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 243,
         "updatedAt": "2020-11-28 08:48:07"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": "Elixir",
-        "booksCount": 426,
-        "updatedAt": "2020-11-27 19:23:58"
     }
 }

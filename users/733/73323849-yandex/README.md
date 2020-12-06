@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>74</sup>
+# List of books read by inna.besprozvannykh<sup>75</sup>
 ---
 
 ## 2020
+
+### Дальняя дорога
+Николас Спракс
+> [2020-10] 8
+
 
 ### Не навреди
 Генри Марш

@@ -1,4 +1,16 @@
 {
+    "5O6A1g7aui": {
+        "id": "5O6A1g7aui",
+        "title": "Дальняя дорога",
+        "author": "Николас Спракс",
+        "notes": "8",
+        "createdAt": "2020-12-06 12:57:13",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 75
+        }
+    },
     "kXdT0N4lbN": {
         "id": "kXdT0N4lbN",
         "title": "Богатей",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 67
-        }
-    },
-    "FvCOie7iRX": {
-        "id": "FvCOie7iRX",
-        "title": "Чёрный отряд",
-        "author": "Глен Кук",
-        "notes": "",
-        "createdAt": "2020-11-28 17:43:22",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 182
         }
     }
 }
