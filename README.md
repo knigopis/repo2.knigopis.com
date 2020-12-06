@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>183</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>75</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>10</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>58</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [745788545](users/117/117649461523645551087-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>67</sup> 
 [kissinthewind](users/233/233773389-vkontakte)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>182</sup> 
 [reinnis](users/120/120234653-vkontakte)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>129</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>243</sup> 
 
 
-_06.12.2020 12:57:13_
+_06.12.2020 15:51:00_
