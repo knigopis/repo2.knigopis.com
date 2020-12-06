@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>5</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>6</sup>
 ---
 
 ## 2020
+
+### Кладбище домашних животных
+Кинг Стивен
+> [2020-12-06] 
+
 
 ### Хозяин гиблого места
 Обухова Л., Тимошенко Н.
