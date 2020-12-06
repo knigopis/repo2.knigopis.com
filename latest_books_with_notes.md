@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Богатей ~ [Fenix](users/111/111367585493471720963-google)<sup>10</sup>
 * Вопрос о виновности. О политической ответственности Германии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
 * Цветы для Элджернона ~ [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup>
 * Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
@@ -30,7 +31,6 @@
 * Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
 * Конфлікти, що змінили світ ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>152</sup>
 * Зеркало для героя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>151</sup>
-* Осязание. Чувство, которое делает нас людьми ~ [Garka](users/115/115753719718250012620-google)<sup>265</sup>
 
 
-_05.12.2020 12:17:43_
+_06.12.2020 05:30:35_

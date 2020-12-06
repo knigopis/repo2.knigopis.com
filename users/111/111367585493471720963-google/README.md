@@ -1,7 +1,12 @@
-# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>9</sup>
+# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>10</sup>
 ---
 
 ## 2020
+
+### Богатей
+Ицхак Пинтосевмч
+> [2020-12-01] Книга о секретах богатства. Перечитаю ещё раз
+
 
 ### Влияй
 Ицхак Пинтосевич

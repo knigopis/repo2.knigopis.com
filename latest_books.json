@@ -1,4 +1,16 @@
 {
+    "kXdT0N4lbN": {
+        "id": "kXdT0N4lbN",
+        "title": "Богатей",
+        "author": "Ицхак Пинтосевмч",
+        "notes": "Книга о секретах богатства. Перечитаю ещё раз",
+        "createdAt": "2020-12-06 05:30:35",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 10
+        }
+    },
     "THeCkzgAvx": {
         "id": "THeCkzgAvx",
         "title": "Интроверты",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 182
-        }
-    },
-    "EERu0gEsmB": {
-        "id": "EERu0gEsmB",
-        "title": "Благие знамения",
-        "author": "Терри Пратчетт, Нил Гейман",
-        "notes": "",
-        "createdAt": "2020-11-28 14:58:28",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 129
         }
     }
 }

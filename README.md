@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Богатей ~ [Fenix](users/111/111367585493471720963-google)<sup>10</sup>
+    > Книга о секретах богатства. Перечитаю ещё раз
+
 * Вопрос о виновности. О политической ответственности Германии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
     > 6/10 Виновность каждого гражданина моральная, метафизическая, политическая и уголовная.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга эмоционально поразила меня
 
 * Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
-    > 8/10 Опис Голокосту у Польщі та роль Праведників світу.
 
 * Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
 
-* Удивительный Морис и его ученые грызуны ~ [Garka](users/115/115753719718250012620-google)<sup>267</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>10</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>58</sup> 
 [александр](users/391/3917161908295210-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>833</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>129</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>243</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>426</sup> 
-[rNix](users/227/22742452-yandex)<sup>69</sup> 
 
 
-_06.12.2020 01:07:39_
+_06.12.2020 05:30:35_

@@ -1,4 +1,10 @@
 {
+    "111367585493471720963-google": {
+        "id": "111367585493471720963-google",
+        "nickname": "Fenix",
+        "booksCount": 10,
+        "updatedAt": "2020-12-06 05:30:35"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -172,11 +178,5 @@
         "nickname": "Elixir",
         "booksCount": 426,
         "updatedAt": "2020-11-27 19:23:58"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 69,
-        "updatedAt": "2020-11-27 09:24:59"
     }
 }
