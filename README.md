@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Даша](users/334/334696193054530347-mailru)<sup>58</sup> 
 [александр](users/391/3917161908295210-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>833</sup> 
 [ellikiper72](users/462/46242783-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>243</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>426</sup> 
 [rNix](users/227/22742452-yandex)<sup>69</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>267</sup> 
 
 
-_05.12.2020 14:58:10_
+_06.12.2020 01:07:39_
