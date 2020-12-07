@@ -1,4 +1,16 @@
 {
+    "J4fZeVPjwC": {
+        "id": "J4fZeVPjwC",
+        "title": "Орга. Магический спецкурс",
+        "author": "Обухова Лена",
+        "notes": "фентези детектив про обучение в школе магии.",
+        "createdAt": "2020-12-07 18:52:24",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 244
+        }
+    },
     "H5uRMKYT8l": {
         "id": "H5uRMKYT8l",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 152
-        }
-    },
-    "Xf_AcuyUJ-": {
-        "id": "Xf_AcuyUJ-",
-        "title": "Зеркало для героя",
-        "author": "Владислав Рыбас",
-        "notes": "4/10 Попаданцы в послевоенном Донбассе.",
-        "createdAt": "2020-11-11 18:30:29",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 151
         }
     }
 }
