@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>244</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>243</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>231</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>7</sup> 
 [lancelotdulake](users/115/115520023053972753965-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [745788545](users/117/117649461523645551087-google)<sup>0</sup> 
 
 
-_07.12.2020 18:50:36_
+_07.12.2020 18:51:14_
