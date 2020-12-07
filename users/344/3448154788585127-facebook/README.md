@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>6</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>7</sup>
 ---
 
 ## 2020
+
+### Убить пересмешника
+Ли Харпер
+> [2020-12-07] 
+
 
 ### Кладбище домашних животных
 Кинг Стивен

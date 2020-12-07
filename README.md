@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>7</sup> 
 [lancelotdulake](users/115/115520023053972753965-google)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>75</sup> 
 [Алина Лазорчик](users/124/12437524678876070918-mailru)<sup>0</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>6</sup> 
 [](users/115/115033405180639508628-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>183</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>67</sup> 
 
 
-_07.12.2020 05:30:05_
+_07.12.2020 12:41:15_
