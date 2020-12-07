@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
+    > где-то попадалось описание принципиальной разницы в выносливости между верблюдом и лошадью. Лошадь, устав, начинает это показывать заранее: запинается, сбивается с шага, или как там это называется у лошадей. Но в этом состоянии она способна бежать еще довольно долго. А верблюд бежит, бежит, бежит, не спотыкаясь, ничем не выдавая, что он на последнем издыхании, а потом ложится и помирает.
+
 * Богатей ~ [Fenix](users/111/111367585493471720963-google)<sup>10</sup>
     > Книга о секретах богатства. Перечитаю ещё раз
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Виновность каждого гражданина моральная, метафизическая, политическая и уголовная.
 
 * Цветы для Элджернона ~ [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup>
-    > Книга эмоционально поразила меня
 
 * Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>244</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>231</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>7</sup> 
 [lancelotdulake](users/115/115520023053972753965-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116241708328757011005-google)<sup>0</sup> 
 [](users/118/1182782188437558-facebook)<sup>0</sup> 
 [745788545](users/117/117649461523645551087-google)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>67</sup> 
 
 
-_07.12.2020 13:26:51_
+_07.12.2020 18:49:18_

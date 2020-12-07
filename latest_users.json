@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 244,
+        "updatedAt": "2020-12-07 18:49:18"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "745788545",
         "booksCount": 0,
         "updatedAt": "2020-11-29 08:41:22"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 67,
-        "updatedAt": "2020-11-29 08:05:56"
     }
 }
