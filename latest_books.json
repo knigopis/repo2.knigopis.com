@@ -1,4 +1,16 @@
 {
+    "0Of7JeRo-n": {
+        "id": "0Of7JeRo-n",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2020-12-08 18:10:00",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 74
+        }
+    },
     "J4fZeVPjwC": {
         "id": "J4fZeVPjwC",
         "title": "Орга. Магический спецкурс",
@@ -345,18 +357,6 @@
             "id": "183883842-vkontakte",
             "nickname": "chaffeepwnz",
             "booksCount": 1
-        }
-    },
-    "YQUi46W3qM": {
-        "id": "YQUi46W3qM",
-        "title": "Уролога.нет",
-        "author": "Оганес Диланян",
-        "notes": "",
-        "createdAt": "2020-12-01 02:57:37",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 273
         }
     }
 }

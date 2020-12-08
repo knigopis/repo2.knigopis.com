@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>73</sup>
+# List of books read by violet_velva<sup>74</sup>
 ---
 
 ## 2020
+
+### Тонкое искусство пофигизма
+Марк Мэнсон
+> [2020-12-05] 
+
 
 ### Автостопом по Галактике
 Дуглас Адамс

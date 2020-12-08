@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [awesome.kugappi](users/124/1247244686-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>244</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>231</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>70</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>117</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>73</sup> 
 [](users/116/116241708328757011005-google)<sup>0</sup> 
 [](users/118/1182782188437558-facebook)<sup>0</sup> 
 
 
-_08.12.2020 11:46:08_
+_08.12.2020 18:10:00_
