@@ -1,4 +1,16 @@
 {
+    "2RJm3ZdPwP": {
+        "id": "2RJm3ZdPwP",
+        "title": "Орта. Магический спецкурс. Второй семестр",
+        "author": "Обухова Лена",
+        "notes": "хорошее любовное фентези. Поменьше драк бы и было бы отлично)",
+        "createdAt": "2020-12-08 20:47:34",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 245
+        }
+    },
     "0Of7JeRo-n": {
         "id": "0Of7JeRo-n",
         "title": "Тонкое искусство пофигизма",
@@ -345,18 +357,6 @@
             "id": "183883842-vkontakte",
             "nickname": "chaffeepwnz",
             "booksCount": 2
-        }
-    },
-    "xh3Fj1Jood": {
-        "id": "xh3Fj1Jood",
-        "title": "Ведьмак: последнее желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-12-01 04:09:44",
-        "user": {
-            "id": "183883842-vkontakte",
-            "nickname": "chaffeepwnz",
-            "booksCount": 1
         }
     }
 }

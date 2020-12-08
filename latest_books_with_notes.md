@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Орта. Магический спецкурс. Второй семестр ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
 * Орга. Магический спецкурс ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
 * Богатей ~ [Fenix](users/111/111367585493471720963-google)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Дипломированная нечисть ~ [Chiffi](users/105/105831994080785626680-google)<sup>231</sup>
 * Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
 * Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
-* Конфлікти, що змінили світ ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>152</sup>
 
 
-_07.12.2020 18:52:24_
+_08.12.2020 20:47:34_
