@@ -1,4 +1,16 @@
 {
+    "cr3LdwoPu-": {
+        "id": "cr3LdwoPu-",
+        "title": "На игле",
+        "author": "Уэлш, Ирвин",
+        "notes": "Как-то совсем плохо",
+        "createdAt": "2020-12-09 17:03:42",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 268
+        }
+    },
     "8_Mi5_kysH": {
         "id": "8_Mi5_kysH",
         "title": "Самая страшная книга 2015",
@@ -345,18 +357,6 @@
             "id": "183883842-vkontakte",
             "nickname": "chaffeepwnz",
             "booksCount": 4
-        }
-    },
-    "Z6S_txHDxc": {
-        "id": "Z6S_txHDxc",
-        "title": "Ведьмак: кровь эльфов",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-12-01 04:10:36",
-        "user": {
-            "id": "183883842-vkontakte",
-            "nickname": "chaffeepwnz",
-            "booksCount": 3
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На игле ~ [Garka](users/115/115753719718250012620-google)<sup>268</sup>
 * Орта. Магический спецкурс. Второй семестр ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
 * Орга. Магический спецкурс ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
@@ -30,7 +31,6 @@
 * Исторические повести ~ [mfevralev](users/140/140966150-vkontakte)<sup>47</sup>
 * Дипломированная нечисть ~ [Chiffi](users/105/105831994080785626680-google)<sup>231</sup>
 * Вдова мастера теней ~ [Chiffi](users/105/105831994080785626680-google)<sup>230</sup>
-* Ось я ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>153</sup>
 
 
-_08.12.2020 20:47:34_
+_09.12.2020 17:03:42_

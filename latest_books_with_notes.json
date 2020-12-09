@@ -1,4 +1,16 @@
 {
+    "cr3LdwoPu-": {
+        "id": "cr3LdwoPu-",
+        "title": "На игле",
+        "author": "Уэлш, Ирвин",
+        "notes": "Как-то совсем плохо",
+        "createdAt": "2020-12-09 17:03:42",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 268
+        }
+    },
     "2RJm3ZdPwP": {
         "id": "2RJm3ZdPwP",
         "title": "Орта. Магический спецкурс. Второй семестр",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 230
-        }
-    },
-    "6xHGpLtp4A": {
-        "id": "6xHGpLtp4A",
-        "title": "Ось я",
-        "author": "Джонатан Сафран Фоєр",
-        "notes": "7/10 Розлучення американської єврейської родини на тлі загибелі держави Ізраель.",
-        "createdAt": "2020-11-11 18:38:00",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 153
         }
     }
 }
