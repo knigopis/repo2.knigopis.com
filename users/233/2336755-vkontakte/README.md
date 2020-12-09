@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>109</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>110</sup>
 ---
 
 ## 2020
+
+### Самая страшная книга 2015
+Сборник
+> [2020-12-08] 
+
 
 ### Лотерея
 Ширли Джексон
