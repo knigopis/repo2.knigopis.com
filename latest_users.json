@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 68,
+        "updatedAt": "2020-12-10 20:19:01"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 273,
         "updatedAt": "2020-12-01 02:57:37"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 117,
-        "updatedAt": "2020-11-30 21:28:04"
     }
 }
