@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>193</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>194</sup>
 ---
 
 ## 2020
@@ -36,6 +36,11 @@
 ### Джейн Эйр
 Шарлотта Бронте
 > [2020-06-04] 
+
+
+### Путь на Амальтею
+Аркадий и Борис Стругацкие
+> [2020-03-10] 
 
 
 ### Стон горы

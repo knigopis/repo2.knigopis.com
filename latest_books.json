@@ -1,4 +1,16 @@
 {
+    "OuD4DeuT_D": {
+        "id": "OuD4DeuT_D",
+        "title": "Путь на Амальтею",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-12-10 16:10:02",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 194
+        }
+    },
     "mZtJZzSTvx": {
         "id": "mZtJZzSTvx",
         "title": "Выбор",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 229
-        }
-    },
-    "KHwwzmo-Cp": {
-        "id": "KHwwzmo-Cp",
-        "title": "Мечтают ли андроиды об электроовцах?",
-        "author": "Филип Киндред Дик",
-        "notes": "",
-        "createdAt": "2020-12-01 04:11:35",
-        "user": {
-            "id": "183883842-vkontakte",
-            "nickname": "chaffeepwnz",
-            "booksCount": 5
         }
     }
 }
