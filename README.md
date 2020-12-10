@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>193</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>268</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>110</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>245</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>273</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>70</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>117</sup> 
-[Joan8ied](users/240/2401650-vkontakte)<sup>104</sup> 
 
 
-_09.12.2020 17:03:42_
+_10.12.2020 16:07:37_

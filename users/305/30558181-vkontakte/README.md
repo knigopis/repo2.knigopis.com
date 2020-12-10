@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>192</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>193</sup>
 ---
 
 ## 2020
+
+### Выбор
+Эдит Ева Эгер
+> [2020-12-09] 
+
 
 ### О шрифте
 Эрик Шпикерманн

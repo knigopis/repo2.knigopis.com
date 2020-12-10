@@ -1,4 +1,16 @@
 {
+    "mZtJZzSTvx": {
+        "id": "mZtJZzSTvx",
+        "title": "Выбор",
+        "author": "Эдит Ева Эгер",
+        "notes": "",
+        "createdAt": "2020-12-10 16:07:37",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 193
+        }
+    },
     "cr3LdwoPu-": {
         "id": "cr3LdwoPu-",
         "title": "На игле",
@@ -345,18 +357,6 @@
             "id": "183883842-vkontakte",
             "nickname": "chaffeepwnz",
             "booksCount": 5
-        }
-    },
-    "ZaA2jozz7h": {
-        "id": "ZaA2jozz7h",
-        "title": "Ведьмак: час призрения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-12-01 04:10:54",
-        "user": {
-            "id": "183883842-vkontakte",
-            "nickname": "chaffeepwnz",
-            "booksCount": 4
         }
     }
 }
