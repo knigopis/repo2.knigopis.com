@@ -1,4 +1,16 @@
 {
+    "d3jFRC5nAs": {
+        "id": "d3jFRC5nAs",
+        "title": "Несовременная страна. Россия в мире XXI века",
+        "author": "В. Иноземцев",
+        "notes": "",
+        "createdAt": "2020-12-10 18:57:02",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 71
+        }
+    },
     "U6UGDAY40o": {
         "id": "U6UGDAY40o",
         "title": "Стажёры",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 112
-        }
-    },
-    "r4qyUYpdCE": {
-        "id": "r4qyUYpdCE",
-        "title": "Три инстинкта: жизнь, власть, секс. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-12-02 13:19:40",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 74
         }
     }
 }

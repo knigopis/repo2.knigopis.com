@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>71</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>195</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>268</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>110</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>396</sup> 
 [chaffeepwnz](users/183/183883842-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>273</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>70</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>117</sup> 
 
 
-_10.12.2020 16:10:14_
+_10.12.2020 18:57:02_
