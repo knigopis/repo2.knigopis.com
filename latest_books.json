@@ -1,4 +1,16 @@
 {
+    "U6UGDAY40o": {
+        "id": "U6UGDAY40o",
+        "title": "Стажёры",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-12-10 16:10:14",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 195
+        }
+    },
     "OuD4DeuT_D": {
         "id": "OuD4DeuT_D",
         "title": "Путь на Амальтею",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 74
-        }
-    },
-    "Ii-g0oSpAo": {
-        "id": "Ii-g0oSpAo",
-        "title": "Братья Карамазовы",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2020-12-02 11:32:15",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 229
         }
     }
 }
