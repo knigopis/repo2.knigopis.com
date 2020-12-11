@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
+    > Очень милое фентези. Продолжение Орги
+
 * Демиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>68</sup>
     > «Судьба и нрав суть имена одного понятия»
     > "«Птица выбирается из яйца. Яйцо – это мир. Кто хочет родиться, должен разрушить мир. Птица летит к Богу. Бога зовут Абраксас»"
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Как-то совсем плохо
 
 * Орта. Магический спецкурс. Второй семестр ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
-    > хорошее любовное фентези. Поменьше драк бы и было бы отлично)
 
 * Орга. Магический спецкурс ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
 
-* Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>246</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
 [](users/111/111044554398983792388-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>834</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>195</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>268</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>110</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>245</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [awesome.kugappi](users/124/1247244686-yandex)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>231</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>396</sup> 
 
 
-_11.12.2020 17:05:56_
+_11.12.2020 19:25:11_

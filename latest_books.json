@@ -1,4 +1,16 @@
 {
+    "keNCy8t-nz": {
+        "id": "keNCy8t-nz",
+        "title": "Проклятый ректор",
+        "author": "Обухова Лена",
+        "notes": "Очень милое фентези. Продолжение Орги",
+        "createdAt": "2020-12-11 19:25:11",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 246
+        }
+    },
     "b88_PloWo-": {
         "id": "b88_PloWo-",
         "title": "Сломанные вещи",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 155
-        }
-    },
-    "OXefQuMVe6": {
-        "id": "OXefQuMVe6",
-        "title": "Тёмная сторона",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2020-12-03 16:19:45",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 55
         }
     }
 }

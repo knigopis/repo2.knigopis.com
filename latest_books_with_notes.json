@@ -1,4 +1,16 @@
 {
+    "keNCy8t-nz": {
+        "id": "keNCy8t-nz",
+        "title": "Проклятый ректор",
+        "author": "Обухова Лена",
+        "notes": "Очень милое фентези. Продолжение Орги",
+        "createdAt": "2020-12-11 19:25:11",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 246
+        }
+    },
     "HM5YT9UWML": {
         "id": "HM5YT9UWML",
         "title": "Демиан",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 47
-        }
-    },
-    "VTu_xSHVZe": {
-        "id": "VTu_xSHVZe",
-        "title": "Дипломированная нечисть",
-        "author": "Савенко Валентина",
-        "notes": "Доброе, позитивное чтение для поднятия настроения",
-        "createdAt": "2020-11-14 07:43:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 231
         }
     }
 }
