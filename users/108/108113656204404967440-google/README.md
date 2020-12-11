@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>833</sup>
+# List of books read by Janet<sup>834</sup>
 ---
 
 ## 2020
+
+### Человек в поисках смысла
+Виктор Франкл
+> [2020-12] 
+
 
 ### Мистерии
 Гамсун Кнут

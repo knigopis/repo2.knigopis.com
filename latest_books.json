@@ -1,4 +1,16 @@
 {
+    "KRnq6eWE0P": {
+        "id": "KRnq6eWE0P",
+        "title": "Человек в поисках смысла",
+        "author": "Виктор Франкл",
+        "notes": "",
+        "createdAt": "2020-12-11 10:16:43",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 834
+        }
+    },
     "HM5YT9UWML": {
         "id": "HM5YT9UWML",
         "title": "Демиан",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 230
-        }
-    },
-    "YDw7UmFWs3": {
-        "id": "YDw7UmFWs3",
-        "title": "Доссадийский эксперимент",
-        "author": "Фрэнк Герберт",
-        "notes": "",
-        "createdAt": "2020-12-03 08:01:00",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 396
         }
     }
 }
