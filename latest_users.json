@@ -1,4 +1,10 @@
 {
+    "111044554398983792388-google": {
+        "id": "111044554398983792388-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-12-11 13:59:56"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "chaffeepwnz",
         "booksCount": 5,
         "updatedAt": "2020-12-01 04:11:35"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 273,
-        "updatedAt": "2020-12-01 02:57:37"
     }
 }
