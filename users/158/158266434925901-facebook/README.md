@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>129</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>130</sup>
 ---
 
 ## 2020
+
+### Сломанные вещи
+Лорен Оливер
+> [2020-12-12] 
+
 
 ### Благие знамения
 Терри Пратчетт, Нил Гейман

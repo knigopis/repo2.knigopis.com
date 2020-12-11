@@ -1,4 +1,16 @@
 {
+    "b88_PloWo-": {
+        "id": "b88_PloWo-",
+        "title": "Сломанные вещи",
+        "author": "Лорен Оливер",
+        "notes": "",
+        "createdAt": "2020-12-11 17:05:56",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 130
+        }
+    },
     "KRnq6eWE0P": {
         "id": "KRnq6eWE0P",
         "title": "Человек в поисках смысла",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 55
-        }
-    },
-    "ssDDE1Wq00": {
-        "id": "ssDDE1Wq00",
-        "title": "Астролог",
-        "author": "Марк Алданов",
-        "notes": "",
-        "createdAt": "2020-12-03 10:34:04",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 230
         }
     }
 }

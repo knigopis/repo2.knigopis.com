@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ..",
+        "booksCount": 130,
+        "updatedAt": "2020-12-11 17:05:56"
+    },
     "111044554398983792388-google": {
         "id": "111044554398983792388-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 396,
         "updatedAt": "2020-12-03 08:01:00"
-    },
-    "183883842-vkontakte": {
-        "id": "183883842-vkontakte",
-        "nickname": "chaffeepwnz",
-        "booksCount": 5,
-        "updatedAt": "2020-12-01 04:11:35"
     }
 }
