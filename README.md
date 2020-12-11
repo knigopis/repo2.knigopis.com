@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111044554398983792388-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>834</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>68</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>71</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>55</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>396</sup> 
 [chaffeepwnz](users/183/183883842-vkontakte)<sup>5</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>273</sup> 
 
 
-_11.12.2020 10:16:43_
+_11.12.2020 13:59:56_
