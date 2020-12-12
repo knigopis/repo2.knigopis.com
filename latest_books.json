@@ -1,4 +1,16 @@
 {
+    "hU_TGzMzCd": {
+        "id": "hU_TGzMzCd",
+        "title": "Академия легиона",
+        "author": "Обухова Лена",
+        "notes": "Отра 4. Мне нравятся книги этого автора. Сочетание детектива, магии и любовного романа про дружбу. Хорошие победили, все поженились или подружились.",
+        "createdAt": "2020-12-12 21:45:28",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 247
+        }
+    },
     "NCktVYhKs6": {
         "id": "NCktVYhKs6",
         "title": "Город Т. История и современность",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 156
-        }
-    },
-    "dweaz2rSed": {
-        "id": "dweaz2rSed",
-        "title": "Гарри Поттер и философский камень",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-12-03 20:57:32",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 94
         }
     }
 }

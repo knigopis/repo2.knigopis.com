@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
+    > Отра 4. Мне нравятся книги этого автора. Сочетание детектива, магии и любовного романа про дружбу. Хорошие победили, все поженились или подружились.
+
 * Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
     > Очень милое фентези. Продолжение Орги
 
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > " Не надо держаться за желания, в которые вы не верите. Я знаю, чего вы желаете. Вы должны научиться отказываться от этих желаний или желать вполне и по-настоящему. Если вы сумеете попросить так, что в душе будете вполне уверены в исполнении своего желания, то оно и исполнится. А вы желаете и тут же в этом раскаиваетесь, и потому боитесь. Все это надо преодолевать. "
 
 * На игле ~ [Garka](users/115/115753719718250012620-google)<sup>268</sup>
-    > Как-то совсем плохо
 
 * Орта. Магический спецкурс. Второй семестр ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
 
@@ -31,16 +33,14 @@ Do not use pull requests to make changes here.
 
 * Цветы для Элджернона ~ [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup>
 
-* Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>247</sup> 
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>246</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
 [](users/111/111044554398983792388-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>834</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>55</sup> 
 
 
-_12.12.2020 13:54:38_
+_12.12.2020 21:45:28_

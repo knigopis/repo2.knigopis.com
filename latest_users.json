@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 247,
+        "updatedAt": "2020-12-12 21:45:28"
+    },
     "8950836871407012829-mailru": {
         "id": "8950836871407012829-mailru",
         "nickname": "Алена Мордвинова",
@@ -10,12 +16,6 @@
         "nickname": "Rainbow",
         "booksCount": 69,
         "updatedAt": "2020-12-12 13:22:43"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 246,
-        "updatedAt": "2020-12-11 19:25:11"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
