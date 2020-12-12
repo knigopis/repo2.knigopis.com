@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>246</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>94</sup> 
 [Nadbadyan](users/112/112926981382172649791-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>55</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>396</sup> 
 
 
-_12.12.2020 13:22:43_
+_12.12.2020 13:54:38_
