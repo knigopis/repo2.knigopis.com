@@ -1,4 +1,16 @@
 {
+    "NCktVYhKs6": {
+        "id": "NCktVYhKs6",
+        "title": "Город Т. История и современность",
+        "author": "Владимир Бесланеев",
+        "notes": "",
+        "createdAt": "2020-12-12 13:22:43",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 69
+        }
+    },
     "keNCy8t-nz": {
         "id": "keNCy8t-nz",
         "title": "Проклятый ректор",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 94
-        }
-    },
-    "o4-ivxIYVz": {
-        "id": "o4-ivxIYVz",
-        "title": "Меч, дорога и удача",
-        "author": "Алекс Орлов",
-        "notes": "4/10 Боевое фєтези с єлементами дороги. Ничего цепляющего.",
-        "createdAt": "2020-12-03 18:38:01",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 155
         }
     }
 }

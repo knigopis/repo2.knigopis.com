@@ -38,11 +38,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>246</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
 [](users/111/111044554398983792388-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>834</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>68</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>71</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>195</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>268</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>396</sup> 
 
 
-_11.12.2020 19:25:11_
+_12.12.2020 13:22:43_

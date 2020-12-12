@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 69,
+        "updatedAt": "2020-12-12 13:22:43"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -22,12 +28,6 @@
         "nickname": "Janet",
         "booksCount": 834,
         "updatedAt": "2020-12-11 10:16:43"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 68,
-        "updatedAt": "2020-12-10 20:19:01"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
