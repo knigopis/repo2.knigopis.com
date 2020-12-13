@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Juziz](users/396/396008489-vkontakte)<sup>6</sup> 
+[Juziz](users/396/396008489-vkontakte)<sup>7</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>247</sup> 
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nadbadyan](users/112/112926981382172649791-google)<sup>0</sup> 
 
 
-_13.12.2020 09:12:57_
+_13.12.2020 09:13:48_
