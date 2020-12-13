@@ -1,4 +1,16 @@
 {
+    "YOLuZkEDoC": {
+        "id": "YOLuZkEDoC",
+        "title": "50 оттенков свободы",
+        "author": "Э.Л. Джеймс",
+        "notes": "",
+        "createdAt": "2020-12-13 09:10:52",
+        "user": {
+            "id": "396008489-vkontakte",
+            "nickname": "Juziz",
+            "booksCount": 4
+        }
+    },
     "HnlQhd1Lak": {
         "id": "HnlQhd1Lak",
         "title": "На 50 оттенков темнее",
@@ -345,18 +357,6 @@
             "id": "46242783-vkontakte",
             "nickname": "ellikiper72",
             "booksCount": 2
-        }
-    },
-    "3NAJGBGus-": {
-        "id": "3NAJGBGus-",
-        "title": "Вопрос о виновности. О политической ответственности Германии",
-        "author": "Карл Ясперс",
-        "notes": "6/10 Виновность каждого гражданина моральная, метафизическая, политическая и уголовная.",
-        "createdAt": "2020-12-05 12:17:43",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 157
         }
     }
 }
