@@ -1,4 +1,16 @@
 {
+    "vwAq9nontA": {
+        "id": "vwAq9nontA",
+        "title": "Евгений Онегин",
+        "author": "Александр Сергеевич Пушкин",
+        "notes": "",
+        "createdAt": "2020-12-13 09:18:30",
+        "user": {
+            "id": "396008489-vkontakte",
+            "nickname": "Juziz",
+            "booksCount": 12
+        }
+    },
     "OKiOpyalAG": {
         "id": "OKiOpyalAG",
         "title": "Благие знамения",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 7
-        }
-    },
-    "_u6DwMGMwj": {
-        "id": "_u6DwMGMwj",
-        "title": "Таблетка от страха. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-12-06 21:45:56",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 75
         }
     }
 }

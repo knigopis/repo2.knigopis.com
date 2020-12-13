@@ -1,7 +1,12 @@
-# List of books read by [Juziz](http://vk.com/id396008489)<sup>11</sup>
+# List of books read by [Juziz](http://vk.com/id396008489)<sup>12</sup>
 ---
 
 ## 2020
+
+### Евгений Онегин
+Александр Сергеевич Пушкин
+> [2020-12-06] 
+
 
 ### Горе от ума
 Александр Сергеевич Грибоедов
