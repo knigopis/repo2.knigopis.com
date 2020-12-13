@@ -1,4 +1,16 @@
 {
+    "1oapBpZqdK": {
+        "id": "1oapBpZqdK",
+        "title": "В метре друг от друга",
+        "author": "Рейчел Лииппинкотт",
+        "notes": "",
+        "createdAt": "2020-12-13 09:20:07",
+        "user": {
+            "id": "396008489-vkontakte",
+            "nickname": "Juziz",
+            "booksCount": 13
+        }
+    },
     "vwAq9nontA": {
         "id": "vwAq9nontA",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 231
-        }
-    },
-    "pZ2ElPhkBV": {
-        "id": "pZ2ElPhkBV",
-        "title": "Убить пересмешника",
-        "author": "Ли Харпер",
-        "notes": "",
-        "createdAt": "2020-12-07 12:41:14",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 7
         }
     }
 }
