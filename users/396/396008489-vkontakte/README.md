@@ -1,4 +1,4 @@
-# List of books read by [Juziz](http://vk.com/id396008489)<sup>5</sup>
+# List of books read by [Juziz](http://vk.com/id396008489)<sup>6</sup>
 ---
 
 ## 2020
@@ -22,6 +22,13 @@
 
 ### 50 оттенков серого
 Э.Л. Джеймс
+
+
+
+## 2018
+
+### Бегущий в лабиринте
+Джеймс Дешнер
 
 
 
