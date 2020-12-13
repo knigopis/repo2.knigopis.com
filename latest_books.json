@@ -1,4 +1,16 @@
 {
+    "BKUKqpbQKO": {
+        "id": "BKUKqpbQKO",
+        "title": "Алихимия советской индустриализации. Время Торгсина",
+        "author": "Осокина Елена",
+        "notes": "",
+        "createdAt": "2020-12-13 16:56:26",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 151
+        }
+    },
     "gEZWDKZSTf": {
         "id": "gEZWDKZSTf",
         "title": "В тупике. Сестры",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 245
-        }
-    },
-    "0Of7JeRo-n": {
-        "id": "0Of7JeRo-n",
-        "title": "Тонкое искусство пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2020-12-08 18:10:00",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 74
         }
     }
 }
