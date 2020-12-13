@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жажда ~ [dmiro](users/571/5714115-vkontakte)<sup>38</sup>
 * Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
 * Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
 * Демиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>68</sup>
@@ -30,7 +31,6 @@
 * Бизнес маленькими шагами ~ [youno](users/302/302928912-vkontakte)<sup>51</sup>
 * Странствие трех царей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup>
 * Академия мёртвых. Основы погодной некромантии ~ [Chiffi](users/105/105831994080785626680-google)<sup>233</sup>
-* Влияй ~ [Fenix](users/111/111367585493471720963-google)<sup>9</sup>
 
 
-_12.12.2020 21:45:28_
+_13.12.2020 14:42:50_

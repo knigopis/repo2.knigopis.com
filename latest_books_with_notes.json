@@ -1,4 +1,16 @@
 {
+    "kNyezi_r8E": {
+        "id": "kNyezi_r8E",
+        "title": "Жажда",
+        "author": "Ю Несбё",
+        "notes": "Хари Холе опять нашел убийцу. Впереди последняя книга. Аж не верится",
+        "createdAt": "2020-12-13 14:42:50",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 38
+        }
+    },
     "hU_TGzMzCd": {
         "id": "hU_TGzMzCd",
         "title": "Академия легиона",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 233
-        }
-    },
-    "0wwz47x8G9": {
-        "id": "0wwz47x8G9",
-        "title": "Влияй",
-        "author": "Ицхак Пинтосевич",
-        "notes": "Огонь",
-        "createdAt": "2020-11-15 07:09:47",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 9
         }
     }
 }
