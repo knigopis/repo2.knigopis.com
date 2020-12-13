@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>150</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>38</sup> 
 [Juziz](users/396/396008489-vkontakte)<sup>14</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>247</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>113</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>94</sup> 
 
 
-_13.12.2020 14:42:50_
+_13.12.2020 16:55:34_

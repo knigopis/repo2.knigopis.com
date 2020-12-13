@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 150,
+        "updatedAt": "2020-12-13 16:55:34"
+    },
     "5714115-vkontakte": {
         "id": "5714115-vkontakte",
         "nickname": "dmiro",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 44,
         "updatedAt": "2020-12-04 20:41:19"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 94,
-        "updatedAt": "2020-12-03 20:57:32"
     }
 }

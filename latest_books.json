@@ -1,4 +1,16 @@
 {
+    "gEZWDKZSTf": {
+        "id": "gEZWDKZSTf",
+        "title": "В тупике. Сестры",
+        "author": "Вересаев Викентий",
+        "notes": "",
+        "createdAt": "2020-12-13 16:55:34",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 150
+        }
+    },
     "kNyezi_r8E": {
         "id": "kNyezi_r8E",
         "title": "Жажда",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 74
-        }
-    },
-    "J4fZeVPjwC": {
-        "id": "J4fZeVPjwC",
-        "title": "Орга. Магический спецкурс",
-        "author": "Обухова Лена",
-        "notes": "фентези детектив про обучение в школе магии.",
-        "createdAt": "2020-12-07 18:52:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 244
         }
     }
 }

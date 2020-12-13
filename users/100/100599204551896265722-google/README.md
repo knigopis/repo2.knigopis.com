@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>149</sup>
+# Список прочитанных книг пользователя exulted<sup>150</sup>
 ---
 
 ## 2020
+
+### В тупике. Сестры
+Вересаев Викентий
+> [2020-12-07] 
+
 
 ### Password authentication for web and mobile apps
 Dmitry Chestnykh
