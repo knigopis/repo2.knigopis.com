@@ -1,4 +1,4 @@
-# List of books read by [Juziz](http://vk.com/id396008489)<sup>7</sup>
+# List of books read by [Juziz](http://vk.com/id396008489)<sup>8</sup>
 ---
 
 ## 2020
@@ -26,6 +26,10 @@
 
 
 ## 2018
+
+### Бегущий в лабиринте: Код лихорадки
+Джеймс Дэшнер
+
 
 ### Тотальная угроза
 Джеймс Дэшнер
