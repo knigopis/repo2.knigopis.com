@@ -1,4 +1,4 @@
-# List of books read by [Juziz](http://vk.com/id396008489)<sup>1</sup>
+# List of books read by [Juziz](http://vk.com/id396008489)<sup>2</sup>
 ---
 
 ## 2020
@@ -6,6 +6,10 @@
 ### Горе от ума
 Александр Сергеевич Грибоедов
 > [2020-12-02] 
+
+
+### 50 оттенков серого
+Э.Л. Джеймс
 
 
 
