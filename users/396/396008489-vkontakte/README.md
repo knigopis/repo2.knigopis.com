@@ -1,4 +1,4 @@
-# List of books read by [Juziz](http://vk.com/id396008489)<sup>13</sup>
+# List of books read by [Juziz](http://vk.com/id396008489)<sup>14</sup>
 ---
 
 ## 2020
@@ -43,6 +43,10 @@
 
 
 ## 2018
+
+### Лекарство от смерти
+Джеймс Дэшнер
+
 
 ### Бегущий в лабиринте: Испытание огнём
 Джеймс Дэшнер
