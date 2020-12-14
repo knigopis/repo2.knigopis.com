@@ -1,4 +1,16 @@
 {
+    "P2C5V5V8_F": {
+        "id": "P2C5V5V8_F",
+        "title": "Тонкон искусства пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2020-12-14 21:17:20",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 95
+        }
+    },
     "Ldx0EY85jq": {
         "id": "Ldx0EY85jq",
         "title": "Ментальный факультатив",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 193
-        }
-    },
-    "cr3LdwoPu-": {
-        "id": "cr3LdwoPu-",
-        "title": "На игле",
-        "author": "Уэлш, Ирвин",
-        "notes": "Как-то совсем плохо",
-        "createdAt": "2020-12-09 17:03:42",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 268
         }
     }
 }

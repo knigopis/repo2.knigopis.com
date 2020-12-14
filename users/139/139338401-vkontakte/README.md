@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>94</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>95</sup>
 ---
 
 ## 2020
+
+### Тонкон искусства пофигизма
+Марк Мэнсон
+> [2020-12-15] 
+
 
 ### Гарри Поттер и философский камень
 Джулия

@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 95,
+        "updatedAt": "2020-12-14 21:17:20"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 113,
         "updatedAt": "2020-12-05 06:20:46"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 44,
-        "updatedAt": "2020-12-04 20:41:19"
     }
 }
