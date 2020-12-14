@@ -1,4 +1,16 @@
 {
+    "TbVTemQsPS": {
+        "id": "TbVTemQsPS",
+        "title": "Создавай",
+        "author": "Ицхак Пинтосевич",
+        "notes": "",
+        "createdAt": "2020-12-14 12:06:21",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 11
+        }
+    },
     "BKUKqpbQKO": {
         "id": "BKUKqpbQKO",
         "title": "Алихимия советской индустриализации. Время Торгсина",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 110
-        }
-    },
-    "2RJm3ZdPwP": {
-        "id": "2RJm3ZdPwP",
-        "title": "Орта. Магический спецкурс. Второй семестр",
-        "author": "Обухова Лена",
-        "notes": "хорошее любовное фентези. Поменьше драк бы и было бы отлично)",
-        "createdAt": "2020-12-08 20:47:34",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 245
         }
     }
 }
