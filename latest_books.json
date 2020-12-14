@@ -1,4 +1,16 @@
 {
+    "Ldx0EY85jq": {
+        "id": "Ldx0EY85jq",
+        "title": "Ментальный факультатив",
+        "author": "Обухова Лена",
+        "notes": "5 . Надеюсь, что в след,части все будет хорошо.",
+        "createdAt": "2020-12-14 17:54:17",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 248
+        }
+    },
     "TbVTemQsPS": {
         "id": "TbVTemQsPS",
         "title": "Создавай",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 268
-        }
-    },
-    "8_Mi5_kysH": {
-        "id": "8_Mi5_kysH",
-        "title": "Самая страшная книга 2015",
-        "author": "Сборник",
-        "notes": "",
-        "createdAt": "2020-12-09 07:29:34",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 110
         }
     }
 }

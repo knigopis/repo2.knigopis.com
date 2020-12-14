@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ментальный факультатив ~ [Chiffi](users/105/105831994080785626680-google)<sup>248</sup>
+    > 5 . Надеюсь, что в след,части все будет хорошо.
+
 * Жажда ~ [dmiro](users/571/5714115-vkontakte)<sup>38</sup>
     > Хари Холе опять нашел убийцу. Впереди последняя книга. Аж не верится
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отра 4. Мне нравятся книги этого автора. Сочетание детектива, магии и любовного романа про дружбу. Хорошие победили, все поженились или подружились.
 
 * Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
-    > Очень милое фентези. Продолжение Орги
 
 * Демиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>68</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Богатей ~ [Fenix](users/111/111367585493471720963-google)<sup>10</sup>
 
-* Вопрос о виновности. О политической ответственности Германии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>248</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>11</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>151</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>38</sup> 
 [Juziz](users/396/396008489-vkontakte)<sup>14</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>247</sup> 
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup> 
 
 
-_14.12.2020 12:06:21_
+_14.12.2020 17:54:17_
