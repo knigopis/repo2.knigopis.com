@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Уровень темных ~ [Chiffi](users/105/105831994080785626680-google)<sup>249</sup>
+    > 6 окончание серии. Хэппи енд. Приятные впечатления от всей серии.
+
 * Ментальный факультатив ~ [Chiffi](users/105/105831994080785626680-google)<sup>248</sup>
     > 5 . Надеюсь, что в след,части все будет хорошо.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хари Холе опять нашел убийцу. Впереди последняя книга. Аж не верится
 
 * Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
-    > Отра 4. Мне нравятся книги этого автора. Сочетание детектива, магии и любовного романа про дружбу. Хорошие победили, все поженились или подружились.
 
 * Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
 
-* Богатей ~ [Fenix](users/111/111367585493471720963-google)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>249</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>95</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>248</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>11</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>151</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>113</sup> 
 
 
-_14.12.2020 21:17:20_
+_15.12.2020 18:07:07_

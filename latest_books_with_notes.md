@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Уровень темных ~ [Chiffi](users/105/105831994080785626680-google)<sup>249</sup>
 * Ментальный факультатив ~ [Chiffi](users/105/105831994080785626680-google)<sup>248</sup>
 * Жажда ~ [dmiro](users/571/5714115-vkontakte)<sup>38</sup>
 * Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
@@ -30,7 +31,6 @@
 * Проклятие на удачу ~ [Chiffi](users/105/105831994080785626680-google)<sup>235</sup>
 * Университет магии и обмана. Иллюзия правды. ~ [Chiffi](users/105/105831994080785626680-google)<sup>234</sup>
 * Бизнес маленькими шагами ~ [youno](users/302/302928912-vkontakte)<sup>51</sup>
-* Странствие трех царей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>154</sup>
 
 
-_14.12.2020 17:54:17_
+_15.12.2020 18:07:07_

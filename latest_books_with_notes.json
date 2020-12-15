@@ -1,4 +1,16 @@
 {
+    "U3JtMCmlzC": {
+        "id": "U3JtMCmlzC",
+        "title": "Уровень темных",
+        "author": "Обухова Лена",
+        "notes": "6 окончание серии. Хэппи енд. Приятные впечатления от всей серии.",
+        "createdAt": "2020-12-15 18:07:07",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 249
+        }
+    },
     "Ldx0EY85jq": {
         "id": "Ldx0EY85jq",
         "title": "Ментальный факультатив",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 51
-        }
-    },
-    "w4bs777_Fo": {
-        "id": "w4bs777_Fo",
-        "title": "Странствие трех царей",
-        "author": "Сборник",
-        "notes": "8/10 Сборник фантастических рассказов от разных авторов.",
-        "createdAt": "2020-11-15 21:14:43",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 154
         }
     }
 }
