@@ -1,4 +1,16 @@
 {
+    "dlVl0IuR_O": {
+        "id": "dlVl0IuR_O",
+        "title": "Пиши и сокращай",
+        "author": "Максим Ильяхов",
+        "notes": "",
+        "createdAt": "2020-12-16 20:14:24",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 118
+        }
+    },
     "29YhNUK3HG": {
         "id": "29YhNUK3HG",
         "title": "Запах чужих домов",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 246
-        }
-    },
-    "b88_PloWo-": {
-        "id": "b88_PloWo-",
-        "title": "Сломанные вещи",
-        "author": "Лорен Оливер",
-        "notes": "",
-        "createdAt": "2020-12-11 17:05:56",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 130
         }
     }
 }
