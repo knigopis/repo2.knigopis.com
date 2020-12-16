@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[casio384](users/184/184420962-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>249</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>95</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>11</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [александр](users/391/3917161908295210-facebook)<sup>0</sup> 
 [ellikiper72](users/462/46242783-vkontakte)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>113</sup> 
 
 
-_15.12.2020 18:07:07_
+_16.12.2020 07:10:08_
