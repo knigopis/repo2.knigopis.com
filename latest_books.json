@@ -1,4 +1,16 @@
 {
+    "29nzdv_qlZ": {
+        "id": "29nzdv_qlZ",
+        "title": "Газпром. Новое русское оружие",
+        "author": "М. Зыгарь",
+        "notes": "",
+        "createdAt": "2020-12-16 15:05:14",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 72
+        }
+    },
     "Yl0e7WmLdG": {
         "id": "Yl0e7WmLdG",
         "title": "Жизнь и время Михаэла К.",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 71
-        }
-    },
-    "U6UGDAY40o": {
-        "id": "U6UGDAY40o",
-        "title": "Стажёры",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2020-12-10 16:10:14",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 195
         }
     }
 }
