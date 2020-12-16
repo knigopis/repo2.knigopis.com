@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>185</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>835</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>58</sup> 
 [александр](users/391/3917161908295210-facebook)<sup>0</sup> 
 [ellikiper72](users/462/46242783-vkontakte)<sup>2</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 
 
-_16.12.2020 18:42:27_
+_16.12.2020 19:33:45_

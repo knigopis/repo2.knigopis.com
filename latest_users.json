@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 56,
+        "updatedAt": "2020-12-16 19:33:45"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "ellikiper72",
         "booksCount": 2,
         "updatedAt": "2020-12-05 12:41:53"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 157,
-        "updatedAt": "2020-12-05 12:17:43"
     }
 }
