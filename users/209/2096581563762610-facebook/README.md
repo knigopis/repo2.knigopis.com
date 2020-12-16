@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>118</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>119</sup>
 ---
 
 ## 2020
+
+### Солёная тропа
+Рэйнор Винн
+> [2020-12-16] 
+
 
 ### Пиши и сокращай
 Максим Ильяхов
