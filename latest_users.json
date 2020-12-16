@@ -1,4 +1,10 @@
 {
+    "184420962-yandex": {
+        "id": "184420962-yandex",
+        "nickname": "casio384",
+        "booksCount": 0,
+        "updatedAt": "2020-12-16 07:10:07"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 157,
         "updatedAt": "2020-12-05 12:17:43"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 113,
-        "updatedAt": "2020-12-05 06:20:46"
     }
 }
