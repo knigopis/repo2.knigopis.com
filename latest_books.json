@@ -1,4 +1,16 @@
 {
+    "Yl0e7WmLdG": {
+        "id": "Yl0e7WmLdG",
+        "title": "Жизнь и время Михаэла К.",
+        "author": "Джон Максвелл Кутзее",
+        "notes": "",
+        "createdAt": "2020-12-16 14:47:00",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 835
+        }
+    },
     "U3JtMCmlzC": {
         "id": "U3JtMCmlzC",
         "title": "Уровень темных",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 195
-        }
-    },
-    "OuD4DeuT_D": {
-        "id": "OuD4DeuT_D",
-        "title": "Путь на Амальтею",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2020-12-10 16:10:02",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 194
         }
     }
 }
