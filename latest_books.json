@@ -1,4 +1,16 @@
 {
+    "FAU_FyWlsT": {
+        "id": "FAU_FyWlsT",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2020-12-17 06:40:02",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 10
+        }
+    },
     "VhFoyZ1TLi": {
         "id": "VhFoyZ1TLi",
         "title": "Автостопом по галактике",
@@ -345,18 +357,6 @@
             "id": "396008489-vkontakte",
             "nickname": "Juziz",
             "booksCount": 10
-        }
-    },
-    "xhBbra6smI": {
-        "id": "xhBbra6smI",
-        "title": "13 причин почему",
-        "author": "Джеймс Эшер",
-        "notes": "",
-        "createdAt": "2020-12-13 09:15:57",
-        "user": {
-            "id": "396008489-vkontakte",
-            "nickname": "Juziz",
-            "booksCount": 9
         }
     }
 }
