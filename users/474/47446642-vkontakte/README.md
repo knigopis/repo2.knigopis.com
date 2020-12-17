@@ -1,13 +1,7 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>11</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>10</sup>
 ---
 
 ## 2020
-
-### Оно
-Стивен Кинг
-> [2020-12] audio
-> очень слабо
-
 
 ### Унесенные ветром
 Маргарет Митчелл
