@@ -1,4 +1,16 @@
 {
+    "X0GTAskPNg": {
+        "id": "X0GTAskPNg",
+        "title": "Война и Мир",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2020-12-17 05:41:22",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 1
+        }
+    },
     "U3h868d_o9": {
         "id": "U3h868d_o9",
         "title": "Перерождение",
@@ -345,18 +357,6 @@
             "id": "396008489-vkontakte",
             "nickname": "Juziz",
             "booksCount": 1
-        }
-    },
-    "hU_TGzMzCd": {
-        "id": "hU_TGzMzCd",
-        "title": "Академия легиона",
-        "author": "Обухова Лена",
-        "notes": "Отра 4. Мне нравятся книги этого автора. Сочетание детектива, магии и любовного романа про дружбу. Хорошие победили, все поженились или подружились.",
-        "createdAt": "2020-12-12 21:45:28",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 247
         }
     }
 }

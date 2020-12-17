@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft77](users/474/47446642-vkontakte)<sup>0</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>397</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>75</sup> 
 
 
-_17.12.2020 05:40:13_
+_17.12.2020 05:41:22_
