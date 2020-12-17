@@ -1,4 +1,16 @@
 {
+    "sJGtAMWJFx": {
+        "id": "sJGtAMWJFx",
+        "title": "Возмездие обречённых",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2020-12-17 12:19:49",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 232
+        }
+    },
     "81uYy8IN6D": {
         "id": "81uYy8IN6D",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "396008489-vkontakte",
             "nickname": "Juziz",
             "booksCount": 12
-        }
-    },
-    "OKiOpyalAG": {
-        "id": "OKiOpyalAG",
-        "title": "Благие знамения",
-        "author": "Нил Гейман, Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2020-12-13 09:17:45",
-        "user": {
-            "id": "396008489-vkontakte",
-            "nickname": "Juziz",
-            "booksCount": 11
         }
     }
 }

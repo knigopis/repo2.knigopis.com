@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>232</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>9</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>397</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>110</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [awesome.kugappi](users/124/1247244686-yandex)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>231</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>7</sup> 
 [lancelotdulake](users/115/115520023053972753965-google)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>75</sup> 
 
 
-_17.12.2020 06:45:10_
+_17.12.2020 12:19:49_

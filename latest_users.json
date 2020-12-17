@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 232,
+        "updatedAt": "2020-12-17 12:19:49"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -136,12 +142,6 @@
         "nickname": "awesome.kugappi",
         "booksCount": 0,
         "updatedAt": "2020-12-08 11:46:07"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 231,
-        "updatedAt": "2020-12-07 13:26:51"
     },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
