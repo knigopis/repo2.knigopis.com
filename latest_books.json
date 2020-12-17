@@ -1,4 +1,16 @@
 {
+    "0_OsYD3I3Z": {
+        "id": "0_OsYD3I3Z",
+        "title": "Идиот",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2020-12-17 06:31:16",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 7
+        }
+    },
     "E_P2lTD7z9": {
         "id": "E_P2lTD7z9",
         "title": "В круге первом",
@@ -345,18 +357,6 @@
             "id": "396008489-vkontakte",
             "nickname": "Juziz",
             "booksCount": 7
-        }
-    },
-    "OGWAcJKv8e": {
-        "id": "OGWAcJKv8e",
-        "title": "Бегущий в лабиринте",
-        "author": "Джеймс Дешнер",
-        "notes": "",
-        "createdAt": "2020-12-13 09:12:57",
-        "user": {
-            "id": "396008489-vkontakte",
-            "nickname": "Juziz",
-            "booksCount": 6
         }
     }
 }

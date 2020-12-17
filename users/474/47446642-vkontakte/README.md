@@ -1,4 +1,4 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>6</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>7</sup>
 ---
 
 ## 2020
@@ -16,6 +16,11 @@
 ### Анна Каренина
 Лев Толстой
 > [2020-08] audio
+
+
+### Идиот
+Федор Достоевский
+> [2020-07] 
 
 
 ### Обитатели холмов
