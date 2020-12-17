@@ -1,4 +1,16 @@
 {
+    "ERNfAAQjhO": {
+        "id": "ERNfAAQjhO",
+        "title": "1984",
+        "author": "Джорж Оруэлл",
+        "notes": "",
+        "createdAt": "2020-12-17 06:28:23",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 5
+        }
+    },
     "P1UxPP2XQi": {
         "id": "P1UxPP2XQi",
         "title": "Обитатели холмов",
@@ -345,18 +357,6 @@
             "id": "396008489-vkontakte",
             "nickname": "Juziz",
             "booksCount": 5
-        }
-    },
-    "YOLuZkEDoC": {
-        "id": "YOLuZkEDoC",
-        "title": "50 оттенков свободы",
-        "author": "Э.Л. Джеймс",
-        "notes": "",
-        "createdAt": "2020-12-13 09:10:52",
-        "user": {
-            "id": "396008489-vkontakte",
-            "nickname": "Juziz",
-            "booksCount": 4
         }
     }
 }
