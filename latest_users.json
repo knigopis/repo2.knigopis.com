@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 397,
+        "updatedAt": "2020-12-17 04:24:34"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 58,
         "updatedAt": "2020-12-06 01:07:39"
-    },
-    "3917161908295210-facebook": {
-        "id": "3917161908295210-facebook",
-        "nickname": "александр",
-        "booksCount": 0,
-        "updatedAt": "2020-12-05 14:58:10"
     }
 }
