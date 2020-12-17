@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft77",
+        "booksCount": 0,
+        "updatedAt": "2020-12-17 05:40:13"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 75,
         "updatedAt": "2020-12-06 12:57:13"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 58,
-        "updatedAt": "2020-12-06 01:07:39"
     }
 }
