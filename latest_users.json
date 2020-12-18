@@ -1,4 +1,10 @@
 {
+    "177642807-vkontakte": {
+        "id": "177642807-vkontakte",
+        "nickname": "valhaha",
+        "booksCount": 0,
+        "updatedAt": "2020-12-18 13:47:39"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-12-06 17:12:49"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 75,
-        "updatedAt": "2020-12-06 12:57:13"
     }
 }
