@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[borodach](users/157/15706320-vkontakte)<sup>232</sup> 
+[borodach](users/157/15706320-vkontakte)<sup>233</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>9</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>397</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>75</sup> 
 
 
-_17.12.2020 12:19:49_
+_18.12.2020 06:28:02_
