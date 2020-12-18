@@ -1,4 +1,16 @@
 {
+    "et3rJ2X_ZP": {
+        "id": "et3rJ2X_ZP",
+        "title": "Моя рыба будет жить",
+        "author": "Рут Озеки",
+        "notes": "",
+        "createdAt": "2020-12-18 13:48:18",
+        "user": {
+            "id": "177642807-vkontakte",
+            "nickname": "valhaha",
+            "booksCount": 1
+        }
+    },
     "t_8OkYKgiM": {
         "id": "t_8OkYKgiM",
         "title": "Конкретные",
@@ -345,18 +357,6 @@
             "id": "396008489-vkontakte",
             "nickname": "Juziz",
             "booksCount": 14
-        }
-    },
-    "1oapBpZqdK": {
-        "id": "1oapBpZqdK",
-        "title": "В метре друг от друга",
-        "author": "Рейчел Лииппинкотт",
-        "notes": "",
-        "createdAt": "2020-12-13 09:20:07",
-        "user": {
-            "id": "396008489-vkontakte",
-            "nickname": "Juziz",
-            "booksCount": 13
         }
     }
 }
