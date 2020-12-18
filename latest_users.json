@@ -1,4 +1,10 @@
 {
+    "424652224-vkontakte": {
+        "id": "424652224-vkontakte",
+        "nickname": "kimensop",
+        "booksCount": 0,
+        "updatedAt": "2020-12-18 19:59:56"
+    },
     "177642807-vkontakte": {
         "id": "177642807-vkontakte",
         "nickname": "valhaha",
@@ -172,11 +178,5 @@
         "nickname": "Алина Лазорчик",
         "booksCount": 0,
         "updatedAt": "2020-12-06 21:20:13"
-    },
-    "115033405180639508628-google": {
-        "id": "115033405180639508628-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-12-06 17:12:49"
     }
 }
