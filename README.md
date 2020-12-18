@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[valhaha](users/177/177642807-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>233</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>9</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>397</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>75</sup> 
 [Алина Лазорчик](users/124/12437524678876070918-mailru)<sup>0</sup> 
 [](users/115/115033405180639508628-google)<sup>0</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>75</sup> 
 
 
-_18.12.2020 06:28:02_
+_18.12.2020 13:47:39_
