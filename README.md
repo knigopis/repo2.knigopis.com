@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>187</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>8</sup> 
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111044554398983792388-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>195</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>268</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>110</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [awesome.kugappi](users/124/1247244686-yandex)<sup>0</sup> 
 [lancelotdulake](users/115/115520023053972753965-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алина Лазорчик](users/124/12437524678876070918-mailru)<sup>0</sup> 
 
 
-_19.12.2020 18:08:19_
+_19.12.2020 20:20:13_

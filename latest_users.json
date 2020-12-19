@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 111,
+        "updatedAt": "2020-12-19 20:20:13"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -142,12 +148,6 @@
         "nickname": "Garka",
         "booksCount": 268,
         "updatedAt": "2020-12-09 17:03:42"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 110,
-        "updatedAt": "2020-12-09 07:29:34"
     },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",

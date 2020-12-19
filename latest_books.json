@@ -1,4 +1,16 @@
 {
+    "rV14JTCYYg": {
+        "id": "rV14JTCYYg",
+        "title": "Мой лучший враг",
+        "author": "Эли Фрей",
+        "notes": "",
+        "createdAt": "2020-12-19 20:20:13",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 111
+        }
+    },
     "hJ08PSC0uB": {
         "id": "hJ08PSC0uB",
         "title": "Таинственный сад",
@@ -345,18 +357,6 @@
             "id": "111367585493471720963-google",
             "nickname": "Fenix",
             "booksCount": 11
-        }
-    },
-    "BKUKqpbQKO": {
-        "id": "BKUKqpbQKO",
-        "title": "Алихимия советской индустриализации. Время Торгсина",
-        "author": "Осокина Елена",
-        "notes": "",
-        "createdAt": "2020-12-13 16:56:26",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 151
         }
     }
 }
