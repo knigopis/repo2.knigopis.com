@@ -1,4 +1,16 @@
 {
+    "hJ08PSC0uB": {
+        "id": "hJ08PSC0uB",
+        "title": "Таинственный сад",
+        "author": "Фрэнсис Бернетт",
+        "notes": "",
+        "createdAt": "2020-12-19 18:08:19",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 187
+        }
+    },
     "gMOqma7Yxf": {
         "id": "gMOqma7Yxf",
         "title": "Чёрный отряд 3. Белая Роза",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 151
-        }
-    },
-    "gEZWDKZSTf": {
-        "id": "gEZWDKZSTf",
-        "title": "В тупике. Сестры",
-        "author": "Вересаев Викентий",
-        "notes": "",
-        "createdAt": "2020-12-13 16:55:34",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 150
         }
     }
 }
