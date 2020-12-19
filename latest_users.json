@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 8,
+        "updatedAt": "2020-12-19 13:09:17"
+    },
     "424652224-vkontakte": {
         "id": "424652224-vkontakte",
         "nickname": "kimensop",
@@ -154,12 +160,6 @@
         "nickname": "awesome.kugappi",
         "booksCount": 0,
         "updatedAt": "2020-12-08 11:46:07"
-    },
-    "3448154788585127-facebook": {
-        "id": "3448154788585127-facebook",
-        "nickname": "Пу_тем",
-        "booksCount": 7,
-        "updatedAt": "2020-12-07 12:41:14"
     },
     "115520023053972753965-google": {
         "id": "115520023053972753965-google",
