@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 10,
+        "updatedAt": "2020-12-19 20:47:31"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -34,12 +40,6 @@
         "nickname": "borodach",
         "booksCount": 233,
         "updatedAt": "2020-12-18 06:28:02"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 9,
-        "updatedAt": "2020-12-17 06:45:10"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

@@ -1,4 +1,16 @@
 {
+    "wDXqva86za": {
+        "id": "wDXqva86za",
+        "title": "Ласточки и амазонки",
+        "author": "Артур Рэнсом",
+        "notes": "paper",
+        "createdAt": "2020-12-19 20:47:31",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 10
+        }
+    },
     "rV14JTCYYg": {
         "id": "rV14JTCYYg",
         "title": "Мой лучший враг",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 248
-        }
-    },
-    "TbVTemQsPS": {
-        "id": "TbVTemQsPS",
-        "title": "Создавай",
-        "author": "Ицхак Пинтосевич",
-        "notes": "",
-        "createdAt": "2020-12-14 12:06:21",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 11
         }
     }
 }

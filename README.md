@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>10</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>187</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>8</sup> 
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
 [valhaha](users/177/177642807-vkontakte)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>233</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>9</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>397</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алина Лазорчик](users/124/12437524678876070918-mailru)<sup>0</sup> 
 
 
-_19.12.2020 20:20:13_
+_19.12.2020 20:47:31_

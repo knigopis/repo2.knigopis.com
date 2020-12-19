@@ -1,4 +1,4 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>9</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>10</sup>
 ---
 
 ## 2020
@@ -21,6 +21,11 @@
 ### Идиот
 Федор Достоевский
 > [2020-07] audio
+
+
+### Ласточки и амазонки
+Артур Рэнсом
+> [2020-06] paper
 
 
 ### Обитатели холмов
