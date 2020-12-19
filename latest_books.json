@@ -1,4 +1,16 @@
 {
+    "gMOqma7Yxf": {
+        "id": "gMOqma7Yxf",
+        "title": "Чёрный отряд 3. Белая Роза",
+        "author": "Глен Кук",
+        "notes": "",
+        "createdAt": "2020-12-19 18:06:46",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 186
+        }
+    },
     "WsI1xjaNG9": {
         "id": "WsI1xjaNG9",
         "title": "Призрак небесного иерусалима",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 150
-        }
-    },
-    "kNyezi_r8E": {
-        "id": "kNyezi_r8E",
-        "title": "Жажда",
-        "author": "Ю Несбё",
-        "notes": "Хари Холе опять нашел убийцу. Впереди последняя книга. Аж не верится",
-        "createdAt": "2020-12-13 14:42:50",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 38
         }
     }
 }
