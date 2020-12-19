@@ -1,4 +1,16 @@
 {
+    "IvCP24Knuy": {
+        "id": "IvCP24Knuy",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "paper",
+        "createdAt": "2020-12-19 20:50:57",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 11
+        }
+    },
     "wDXqva86za": {
         "id": "wDXqva86za",
         "title": "Ласточки и амазонки",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 95
-        }
-    },
-    "Ldx0EY85jq": {
-        "id": "Ldx0EY85jq",
-        "title": "Ментальный факультатив",
-        "author": "Обухова Лена",
-        "notes": "5 . Надеюсь, что в след,части все будет хорошо.",
-        "createdAt": "2020-12-14 17:54:17",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 248
         }
     }
 }

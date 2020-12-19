@@ -1,4 +1,4 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>10</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>11</sup>
 ---
 
 ## 2020
@@ -57,6 +57,14 @@
 
 ### В круге первом
 Александр Солженицын
+
+
+
+## 2000
+
+### Мастер и Маргарита
+Михаил Булгаков
+> [2000-07] paper
 
 
 

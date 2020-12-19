@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft](users/474/47446642-vkontakte)<sup>10</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>11</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>187</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алина Лазорчик](users/124/12437524678876070918-mailru)<sup>0</sup> 
 
 
-_19.12.2020 20:47:31_
+_19.12.2020 20:50:57_
