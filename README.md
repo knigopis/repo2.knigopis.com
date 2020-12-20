@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>836</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>250</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>96</sup> 
 [Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>72</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>835</sup> 
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>11</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>75</sup> 
 
 
-_20.12.2020 17:00:28_
+_20.12.2020 18:48:20_
