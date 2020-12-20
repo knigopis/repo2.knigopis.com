@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 96,
+        "updatedAt": "2020-12-20 14:18:06"
+    },
     "8787394068538140681-mailru": {
         "id": "8787394068538140681-mailru",
         "nickname": "Ильнур",
@@ -88,12 +94,6 @@
         "nickname": "Chiffi",
         "booksCount": 249,
         "updatedAt": "2020-12-15 18:07:07"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 95,
-        "updatedAt": "2020-12-14 21:17:20"
     },
     "111367585493471720963-google": {
         "id": "111367585493471720963-google",

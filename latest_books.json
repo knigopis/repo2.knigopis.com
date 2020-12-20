@@ -1,4 +1,16 @@
 {
+    "93Ahz6uGcc": {
+        "id": "93Ahz6uGcc",
+        "title": "Коралина",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2020-12-20 14:18:06",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 96
+        }
+    },
     "IvCP24Knuy": {
         "id": "IvCP24Knuy",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 249
-        }
-    },
-    "P2C5V5V8_F": {
-        "id": "P2C5V5V8_F",
-        "title": "Тонкон искусства пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2020-12-14 21:17:20",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 95
         }
     }
 }
