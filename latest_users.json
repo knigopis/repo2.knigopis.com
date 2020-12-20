@@ -1,4 +1,10 @@
 {
+    "8787394068538140681-mailru": {
+        "id": "8787394068538140681-mailru",
+        "nickname": "Ильнур",
+        "booksCount": 0,
+        "updatedAt": "2020-12-20 02:03:28"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 75,
         "updatedAt": "2020-12-06 21:45:56"
-    },
-    "12437524678876070918-mailru": {
-        "id": "12437524678876070918-mailru",
-        "nickname": "Алина Лазорчик",
-        "booksCount": 0,
-        "updatedAt": "2020-12-06 21:20:13"
     }
 }
