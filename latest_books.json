@@ -1,4 +1,16 @@
 {
+    "_p5sM0yjc_": {
+        "id": "_p5sM0yjc_",
+        "title": "Хип-хоп маленьких лебедей",
+        "author": "Д. Донцова",
+        "notes": "",
+        "createdAt": "2020-12-21 13:01:20",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 29
+        }
+    },
     "MC_JhiZmdq": {
         "id": "MC_JhiZmdq",
         "title": "Бегущий за ветром",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 184
-        }
-    },
-    "29nzdv_qlZ": {
-        "id": "29nzdv_qlZ",
-        "title": "Газпром. Новое русское оружие",
-        "author": "М. Зыгарь",
-        "notes": "",
-        "createdAt": "2020-12-16 15:05:14",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 72
         }
     }
 }

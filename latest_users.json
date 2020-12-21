@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 29,
+        "updatedAt": "2020-12-21 13:01:20"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "lancelotdulake",
         "booksCount": 0,
         "updatedAt": "2020-12-07 05:30:05"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 75,
-        "updatedAt": "2020-12-06 21:45:56"
     }
 }
