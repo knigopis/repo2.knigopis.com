@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>22</sup> 
 [](users/153/1537586159620888-facebook)<sup>29</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>836</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>250</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>268</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [awesome.kugappi](users/124/1247244686-yandex)<sup>0</sup> 
-[lancelotdulake](users/115/115520023053972753965-google)<sup>0</sup> 
 
 
-_21.12.2020 13:01:20_
+_21.12.2020 13:07:50_

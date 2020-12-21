@@ -1,4 +1,16 @@
 {
+    "S6yID3EEvs": {
+        "id": "S6yID3EEvs",
+        "title": "Ваш покорный слуга кот",
+        "author": "Нацумэ Сосэки",
+        "notes": "",
+        "createdAt": "2020-12-21 13:07:50",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 22
+        }
+    },
     "_p5sM0yjc_": {
         "id": "_p5sM0yjc_",
         "title": "Хип-хоп маленьких лебедей",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 185
-        }
-    },
-    "RehQ3VKgKW": {
-        "id": "RehQ3VKgKW",
-        "title": "Приключения Гарретта 2. Золотые сердца с червоточинкой",
-        "author": "Глен Кук",
-        "notes": "",
-        "createdAt": "2020-12-16 18:41:37",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 184
         }
     }
 }
