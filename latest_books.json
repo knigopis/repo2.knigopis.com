@@ -1,4 +1,16 @@
 {
+    "6BC6zfyQ77": {
+        "id": "6BC6zfyQ77",
+        "title": "Ставь цели",
+        "author": "Ицхак Пинтосевич",
+        "notes": "",
+        "createdAt": "2020-12-21 15:56:18",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 13
+        }
+    },
     "dMRmQjLVMw": {
         "id": "dMRmQjLVMw",
         "title": "Откровенные беседы",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 118
-        }
-    },
-    "29YhNUK3HG": {
-        "id": "29YhNUK3HG",
-        "title": "Запах чужих домов",
-        "author": "Бонни Сью-Хичкок",
-        "notes": "",
-        "createdAt": "2020-12-16 19:33:45",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 56
         }
     }
 }
