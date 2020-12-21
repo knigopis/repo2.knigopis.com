@@ -1,4 +1,4 @@
-# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>11</sup>
+# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>12</sup>
 ---
 
 ## 2020
@@ -31,6 +31,11 @@
 ### Живи
 Ицхак Пинтосевич
 > [2020-09-01] 
+
+
+### Откровенные беседы
+Садхгуру
+> [2020-06-01] 
 
 
 ### Омоложение

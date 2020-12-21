@@ -1,4 +1,16 @@
 {
+    "dMRmQjLVMw": {
+        "id": "dMRmQjLVMw",
+        "title": "Откровенные беседы",
+        "author": "Садхгуру",
+        "notes": "",
+        "createdAt": "2020-12-21 15:55:40",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 12
+        }
+    },
     "S6yID3EEvs": {
         "id": "S6yID3EEvs",
         "title": "Ваш покорный слуга кот",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 56
-        }
-    },
-    "NU40yg7sLw": {
-        "id": "NU40yg7sLw",
-        "title": "Чёрный отряд 2. Тени сгущаются",
-        "author": "Глен Кук",
-        "notes": "",
-        "createdAt": "2020-12-16 18:42:27",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 185
         }
     }
 }
