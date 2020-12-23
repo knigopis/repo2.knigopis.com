@@ -1,4 +1,16 @@
 {
+    "XCz8aBY4SR": {
+        "id": "XCz8aBY4SR",
+        "title": "Последний шанс",
+        "author": "Laim",
+        "notes": "фантастическое произведение с щепоткой хоророра",
+        "createdAt": "2020-12-23 16:10:42",
+        "user": {
+            "id": "112927328138261243447-google",
+            "nickname": " laim",
+            "booksCount": 1
+        }
+    },
     "Q71idDxm5r": {
         "id": "Q71idDxm5r",
         "title": "60-е. Мир советского человека",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 1
-        }
-    },
-    "U3h868d_o9": {
-        "id": "U3h868d_o9",
-        "title": "Перерождение",
-        "author": "Джастин Кронин",
-        "notes": "",
-        "createdAt": "2020-12-17 04:24:34",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 397
         }
     }
 }
