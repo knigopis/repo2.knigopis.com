@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112927328138261243447-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>73</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>195</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>268</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
-[awesome.kugappi](users/124/1247244686-yandex)<sup>0</sup> 
 
 
-_23.12.2020 06:26:20_
+_23.12.2020 15:59:13_
