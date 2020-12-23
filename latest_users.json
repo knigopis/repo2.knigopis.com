@@ -1,4 +1,10 @@
 {
+    "112927328138261243447-google": {
+        "id": "112927328138261243447-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-12-23 15:59:12"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 74,
         "updatedAt": "2020-12-08 18:10:00"
-    },
-    "1247244686-yandex": {
-        "id": "1247244686-yandex",
-        "nickname": "awesome.kugappi",
-        "booksCount": 0,
-        "updatedAt": "2020-12-08 11:46:07"
     }
 }
