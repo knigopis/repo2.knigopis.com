@@ -1,4 +1,16 @@
 {
+    "Q71idDxm5r": {
+        "id": "Q71idDxm5r",
+        "title": "60-е. Мир советского человека",
+        "author": "П. Вайль",
+        "notes": "",
+        "createdAt": "2020-12-23 06:26:20",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 73
+        }
+    },
     "EA1yb2RgDy": {
         "id": "EA1yb2RgDy",
         "title": "Биофакер",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 397
-        }
-    },
-    "NFF-jhA4cJ": {
-        "id": "NFF-jhA4cJ",
-        "title": "Солёная тропа",
-        "author": "Рэйнор Винн",
-        "notes": "",
-        "createdAt": "2020-12-16 20:14:53",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 119
         }
     }
 }
