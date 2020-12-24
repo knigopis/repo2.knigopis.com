@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>159</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>160</sup>
 ---
 
 ## 2020
+
+### Смертельная белизна
+Роберт Гэлбрейт
+> [2020-12-21] 8/10 Детективное агенство распутывает дело о шантаже политика.
+
 
 ### На службе зла
 Роберт Гэлбрейт
