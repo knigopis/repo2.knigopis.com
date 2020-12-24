@@ -1,4 +1,16 @@
 {
+    "gO3kr93czs": {
+        "id": "gO3kr93czs",
+        "title": "Сага о живых кораблях. Корабль судьбы",
+        "author": "Робин Хобб",
+        "notes": "",
+        "createdAt": "2020-12-24 17:50:32",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 68
+        }
+    },
     "a9RXjZCqei": {
         "id": "a9RXjZCqei",
         "title": "Бабушка велела кланяться и передать, что просит прощения",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 3
-        }
-    },
-    "QoVMpYuXB3": {
-        "id": "QoVMpYuXB3",
-        "title": "Анна Каренина",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2020-12-17 05:41:52",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 2
         }
     }
 }

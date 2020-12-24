@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>68</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>59</sup> 
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
 [](users/111/111044554398983792388-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>195</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>268</sup> 
 
 
-_24.12.2020 14:03:28_
+_24.12.2020 17:50:32_

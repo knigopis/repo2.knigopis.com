@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 68,
+        "updatedAt": "2020-12-24 17:50:32"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 195,
         "updatedAt": "2020-12-10 16:10:14"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 268,
-        "updatedAt": "2020-12-09 17:03:42"
     }
 }
