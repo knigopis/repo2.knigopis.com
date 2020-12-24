@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На службе зла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
 * Зов кукушки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>250</sup>
 * Уровень темных ~ [Chiffi](users/105/105831994080785626680-google)<sup>249</sup>
@@ -30,7 +31,6 @@
 * Программист-прагматик. Путь от подмастерья к мастеру ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
 * Чародейка по ошибке ~ [Chiffi](users/105/105831994080785626680-google)<sup>236</sup>
 * Проклятие на удачу ~ [Chiffi](users/105/105831994080785626680-google)<sup>235</sup>
-* Университет магии и обмана. Иллюзия правды. ~ [Chiffi](users/105/105831994080785626680-google)<sup>234</sup>
 
 
-_24.12.2020 18:56:53_
+_24.12.2020 18:57:51_

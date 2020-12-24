@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>158</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>159</sup>
 ---
 
 ## 2020
+
+### На службе зла
+Роберт Гэлбрейт
+> [2020-12-15] 8/10 Робин и Корморан ловят серийного убийцу.
+
 
 ### Зов кукушки
 Роберт Гэлбрейт
