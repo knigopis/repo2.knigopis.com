@@ -1,4 +1,16 @@
 {
+    "I0BOyAryIM": {
+        "id": "I0BOyAryIM",
+        "title": "Зов кукушки",
+        "author": "Роберт Гэлбрейт",
+        "notes": "8/10 Кормаоран Страйк и его помощница распутывают дело об убийстве модели.",
+        "createdAt": "2020-12-24 18:56:53",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 158
+        }
+    },
     "gO3kr93czs": {
         "id": "gO3kr93czs",
         "title": "Сага о живых кораблях. Корабль судьбы",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 4
-        }
-    },
-    "HRkpUd_Oek": {
-        "id": "HRkpUd_Oek",
-        "title": "Каин и Авель",
-        "author": "Джеффри Арчер",
-        "notes": "",
-        "createdAt": "2020-12-17 06:25:28",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 3
         }
     }
 }

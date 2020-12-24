@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>157</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>158</sup>
 ---
 
 ## 2020
+
+### Зов кукушки
+Роберт Гэлбрейт
+> [2020-12-13] 8/10 Кормаоран Страйк и его помощница распутывают дело об убийстве модели.
+
 
 ### Вопрос о виновности. О политической ответственности Германии
 Карл Ясперс
