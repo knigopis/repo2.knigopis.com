@@ -1,4 +1,16 @@
 {
+    "bqBzKegB1Y": {
+        "id": "bqBzKegB1Y",
+        "title": "Заколдованный замок",
+        "author": "Вера Ивановна Крыжановская",
+        "notes": "",
+        "createdAt": "2020-12-25 18:04:30",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 188
+        }
+    },
     "oz4v4UcYK9": {
         "id": "oz4v4UcYK9",
         "title": "Смертельная белизна",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 7
-        }
-    },
-    "E_P2lTD7z9": {
-        "id": "E_P2lTD7z9",
-        "title": "В круге первом",
-        "author": "Александр Солженицын",
-        "notes": "",
-        "createdAt": "2020-12-17 06:29:07",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 6
         }
     }
 }
