@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
+    > audio
+
 * Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
     > 8/10 Детективное агенство распутывает дело о шантаже политика.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Робин и Корморан ловят серийного убийцу.
 
 * Зов кукушки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
-    > 8/10 Кормаоран Страйк и его помощница распутывают дело об убийстве модели.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>250</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
 
-* Демиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>68</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>68</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>250</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>96</sup> 
 [Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>11</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>8</sup> 
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111044554398983792388-google)<sup>0</sup> 
 
 
-_25.12.2020 18:04:30_
+_25.12.2020 19:02:21_

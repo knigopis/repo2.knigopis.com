@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>11</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>12</sup>
 ---
 
 ## 2020
+
+### Оно
+Стивен Кинг
+> [2020-12-25] audio
+
 
 ### Война и Мир
 Лев Толстой

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
 * Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 * На службе зла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
 * Зов кукушки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
@@ -30,7 +31,6 @@
 * Manika Аркада3 Маника ~ [Chiffi](users/105/105831994080785626680-google)<sup>241</sup>
 * Армада3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>238</sup>
 * Программист-прагматик. Путь от подмастерья к мастеру ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
-* Чародейка по ошибке ~ [Chiffi](users/105/105831994080785626680-google)<sup>236</sup>
 
 
-_24.12.2020 18:58:55_
+_25.12.2020 19:02:21_
