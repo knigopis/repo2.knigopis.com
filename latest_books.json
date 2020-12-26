@@ -1,4 +1,16 @@
 {
+    "WItvrutyWB": {
+        "id": "WItvrutyWB",
+        "title": "Двенадцать",
+        "author": "Джастин Кронин",
+        "notes": "",
+        "createdAt": "2020-12-26 16:55:28",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 398
+        }
+    },
     "-RZhb4StzA": {
         "id": "-RZhb4StzA",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 8
-        }
-    },
-    "0_OsYD3I3Z": {
-        "id": "0_OsYD3I3Z",
-        "title": "Идиот",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2020-12-17 06:31:16",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 7
         }
     }
 }
