@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Всё хреново. Книга о надежде ~ [violet_velva](users/116/116961712580551399099-google)<sup>75</sup>
+    > Примерно 2/3 книги у меня вообще никакого отклика не вызвали. И только последняя часть показалась мне более-менее ценной.
+    > Я остановилась на мнении, что российский менталитет и общий уровень жизни к такому подходу не готов. Книгу пишет человек, явно не знакомый с понятием "туалет на улицу" для людей также не знакомых с этим понятием. Глобализация явно не везде проникла еще, для России нужна своя психология.
+
 * Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
     > audio
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 8/10 Детективное агенство распутывает дело о шантаже политика.
 
 * На службе зла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
-    > 8/10 Робин и Корморан ловят серийного убийцу.
 
 * Зов кукушки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
 
-* Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>398</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
-[](users/111/111044554398983792388-google)<sup>0</sup> 
 
 
-_26.12.2020 16:55:28_
+_27.12.2020 20:28:29_
