@@ -1,4 +1,4 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>131</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>132</sup>
 ---
 
 ## 2020
@@ -271,6 +271,10 @@
 ### Ведьмак. Последнее желание
 Анджей Сапковский
 > [2020-01-05] 
+
+
+### Паравозик Чарли Чух-чух
+Стивен Кинг
 
 
 

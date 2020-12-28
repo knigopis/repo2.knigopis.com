@@ -1,4 +1,16 @@
 {
+    "wVj8Cl_gAe": {
+        "id": "wVj8Cl_gAe",
+        "title": "Паравозик Чарли Чух-чух",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-12-28 07:44:34",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 132
+        }
+    },
     "xnSr8apo_7": {
         "id": "xnSr8apo_7",
         "title": "Король воронов",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 232
-        }
-    },
-    "FAU_FyWlsT": {
-        "id": "FAU_FyWlsT",
-        "title": "Унесенные ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2020-12-17 06:40:02",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 10
         }
     }
 }

@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>131</sup> 
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>132</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>398</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
 
 
-_28.12.2020 07:44:04_
+_28.12.2020 07:44:34_
