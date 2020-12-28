@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>131</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>398</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Juziz](users/396/396008489-vkontakte)<sup>14</sup> 
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>69</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>130</sup> 
 
 
-_27.12.2020 20:28:29_
+_28.12.2020 07:44:04_
