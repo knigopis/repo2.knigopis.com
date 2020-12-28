@@ -1,4 +1,16 @@
 {
+    "TX6bt-PTOB": {
+        "id": "TX6bt-PTOB",
+        "title": "Правдалогия. Стиль осознанного эгоиста.",
+        "author": "Илья Овчаренко",
+        "notes": "",
+        "createdAt": "2020-12-28 20:33:20",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 52
+        }
+    },
     "wVj8Cl_gAe": {
         "id": "wVj8Cl_gAe",
         "title": "Паравозик Чарли Чух-чух",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 233
-        }
-    },
-    "sJGtAMWJFx": {
-        "id": "sJGtAMWJFx",
-        "title": "Возмездие обречённых",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2020-12-17 12:19:49",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 232
         }
     }
 }

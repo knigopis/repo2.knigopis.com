@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 52,
+        "updatedAt": "2020-12-28 20:33:20"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "Алена Мордвинова",
         "booksCount": 0,
         "updatedAt": "2020-12-12 13:54:38"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 69,
-        "updatedAt": "2020-12-12 13:22:43"
     }
 }
