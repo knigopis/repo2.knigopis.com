@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>234</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>151</sup> 
 [Juziz](users/396/396008489-vkontakte)<sup>14</sup> 
-[Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 
 
-_30.12.2020 15:56:42_
+_30.12.2020 22:27:27_

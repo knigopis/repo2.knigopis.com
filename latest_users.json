@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 4,
+        "updatedAt": "2020-12-30 22:27:27"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Juziz",
         "booksCount": 14,
         "updatedAt": "2020-12-13 09:36:45"
-    },
-    "8950836871407012829-mailru": {
-        "id": "8950836871407012829-mailru",
-        "nickname": "Алена Мордвинова",
-        "booksCount": 0,
-        "updatedAt": "2020-12-12 13:54:38"
     }
 }
