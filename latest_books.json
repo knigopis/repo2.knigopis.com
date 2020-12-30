@@ -1,4 +1,16 @@
 {
+    "0oLwcoRj4V": {
+        "id": "0oLwcoRj4V",
+        "title": "Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется",
+        "author": "Ханс Рослинг",
+        "notes": "Однозначно стоит прочесть, чтобы узнать много нового об этом мире!",
+        "createdAt": "2020-12-30 09:52:29",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 39
+        }
+    },
     "WffMSsakwX": {
         "id": "WffMSsakwX",
         "title": "iPhuck",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 186
-        }
-    },
-    "WsI1xjaNG9": {
-        "id": "WsI1xjaNG9",
-        "title": "Призрак небесного иерусалима",
-        "author": "Дезомбре Дарья",
-        "notes": "",
-        "createdAt": "2020-12-19 13:09:17",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 8
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется ~ [dmiro](users/571/5714115-vkontakte)<sup>39</sup>
+    > Однозначно стоит прочесть, чтобы узнать много нового об этом мире!
+
 * Полный контроль ~ [Fenix](users/111/111367585493471720963-google)<sup>15</sup>
     > Повышение КПД
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Я остановилась на мнении, что российский менталитет и общий уровень жизни к такому подходу не готов. Книгу пишет человек, явно не знакомый с понятием "туалет на улицу" для людей также не знакомых с этим понятием. Глобализация явно не везде проникла еще, для России нужна своя психология.
 
 * Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
-    > audio
 
 * Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Ментальный факультатив ~ [Chiffi](users/105/105831994080785626680-google)<sup>248</sup>
 
-* Жажда ~ [dmiro](users/571/5714115-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>234</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
 [youno](users/302/302928912-vkontakte)<sup>52</sup> 
@@ -61,9 +62,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>151</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>38</sup> 
 [Juziz](users/396/396008489-vkontakte)<sup>14</sup> 
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 
 
-_30.12.2020 09:19:35_
+_30.12.2020 09:52:29_
