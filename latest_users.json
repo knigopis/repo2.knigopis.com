@@ -1,4 +1,10 @@
 {
+    "111367585493471720963-google": {
+        "id": "111367585493471720963-google",
+        "nickname": "Fenix",
+        "booksCount": 15,
+        "updatedAt": "2020-12-30 06:17:37"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -64,12 +70,6 @@
         "nickname": "4apa",
         "booksCount": 73,
         "updatedAt": "2020-12-23 06:26:20"
-    },
-    "111367585493471720963-google": {
-        "id": "111367585493471720963-google",
-        "nickname": "Fenix",
-        "booksCount": 14,
-        "updatedAt": "2020-12-21 15:56:47"
     },
     "471364154-yandex": {
         "id": "471364154-yandex",

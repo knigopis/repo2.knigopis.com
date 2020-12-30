@@ -1,7 +1,12 @@
-# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>14</sup>
+# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>15</sup>
 ---
 
 ## 2020
+
+### Полный контроль
+Ицхак Пинтосевич
+> [2020-12-30] Повышение КПД
+
 
 ### Богатей
 Ицхак Пинтосевмч

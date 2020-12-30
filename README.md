@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Полный контроль ~ [Fenix](users/111/111367585493471720963-google)<sup>15</sup>
+    > Повышение КПД
+
 * Всё хреново. Книга о надежде ~ [violet_velva](users/116/116961712580551399099-google)<sup>75</sup>
     > Примерно 2/3 книги у меня вообще никакого отклика не вызвали. И только последняя часть показалась мне более-менее ценной.
     > Я остановилась на мнении, что российский менталитет и общий уровень жизни к такому подходу не готов. Книгу пишет человек, явно не знакомый с понятием "туалет на улицу" для людей также не знакомых с этим понятием. Глобализация явно не везде проникла еще, для России нужна своя психология.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
-    > 8/10 Детективное агенство распутывает дело о шантаже политика.
 
 * На службе зла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Жажда ~ [dmiro](users/571/5714115-vkontakte)<sup>38</sup>
 
-* Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
 [youno](users/302/302928912-vkontakte)<sup>52</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>132</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>59</sup> 
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>73</sup> 
-[Fenix](users/111/111367585493471720963-google)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>22</sup> 
 [](users/153/1537586159620888-facebook)<sup>29</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>836</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 
 
-_28.12.2020 20:33:20_
+_30.12.2020 06:17:37_

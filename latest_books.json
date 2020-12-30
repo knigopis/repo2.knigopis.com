@@ -1,4 +1,16 @@
 {
+    "p_ceSOhe9C": {
+        "id": "p_ceSOhe9C",
+        "title": "Полный контроль",
+        "author": "Ицхак Пинтосевич",
+        "notes": "Повышение КПД",
+        "createdAt": "2020-12-30 06:17:37",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 15
+        }
+    },
     "TX6bt-PTOB": {
         "id": "TX6bt-PTOB",
         "title": "Правдалогия. Стиль осознанного эгоиста.",
@@ -345,18 +357,6 @@
             "id": "177642807-vkontakte",
             "nickname": "valhaha",
             "booksCount": 1
-        }
-    },
-    "t_8OkYKgiM": {
-        "id": "t_8OkYKgiM",
-        "title": "Конкретные",
-        "author": "Владимир Сорокин",
-        "notes": "",
-        "createdAt": "2020-12-18 06:28:02",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 233
         }
     }
 }
