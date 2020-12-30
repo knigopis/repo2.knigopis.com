@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>837</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>234</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>73</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>22</sup> 
 [](users/153/1537586159620888-facebook)<sup>29</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>836</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>250</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>96</sup> 
 [Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 
 
-_30.12.2020 09:52:29_
+_30.12.2020 15:56:42_

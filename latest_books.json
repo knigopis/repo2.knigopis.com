@@ -1,4 +1,16 @@
 {
+    "4lJ6CO4rT2": {
+        "id": "4lJ6CO4rT2",
+        "title": "Голем",
+        "author": "Густав Майринк",
+        "notes": "",
+        "createdAt": "2020-12-30 15:56:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 837
+        }
+    },
     "0oLwcoRj4V": {
         "id": "0oLwcoRj4V",
         "title": "Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 187
-        }
-    },
-    "gMOqma7Yxf": {
-        "id": "gMOqma7Yxf",
-        "title": "Чёрный отряд 3. Белая Роза",
-        "author": "Глен Кук",
-        "notes": "",
-        "createdAt": "2020-12-19 18:06:46",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 186
         }
     }
 }
