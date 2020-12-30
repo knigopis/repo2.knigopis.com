@@ -1,4 +1,16 @@
 {
+    "WffMSsakwX": {
+        "id": "WffMSsakwX",
+        "title": "iPhuck",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2020-12-30 09:19:35",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 234
+        }
+    },
     "p_ceSOhe9C": {
         "id": "p_ceSOhe9C",
         "title": "Полный контроль",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 8
-        }
-    },
-    "et3rJ2X_ZP": {
-        "id": "et3rJ2X_ZP",
-        "title": "Моя рыба будет жить",
-        "author": "Рут Озеки",
-        "notes": "",
-        "createdAt": "2020-12-18 13:48:18",
-        "user": {
-            "id": "177642807-vkontakte",
-            "nickname": "valhaha",
-            "booksCount": 1
         }
     }
 }

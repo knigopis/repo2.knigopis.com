@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>234</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
 [youno](users/302/302928912-vkontakte)<sup>52</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>132</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>8</sup> 
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
 [valhaha](users/177/177642807-vkontakte)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>233</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алена Мордвинова](users/895/8950836871407012829-mailru)<sup>0</sup> 
 
 
-_30.12.2020 06:17:37_
+_30.12.2020 09:19:35_
