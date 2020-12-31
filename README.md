@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>96</sup> 
 [Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>8</sup> 
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
 [valhaha](users/177/177642807-vkontakte)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Juziz](users/396/396008489-vkontakte)<sup>14</sup> 
 
 
-_30.12.2020 22:27:27_
+_31.12.2020 03:04:13_
