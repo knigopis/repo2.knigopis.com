@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>151</sup> 
-[Juziz](users/396/396008489-vkontakte)<sup>14</sup> 
 
 
-_31.12.2020 03:04:13_
+_31.12.2020 12:47:57_
