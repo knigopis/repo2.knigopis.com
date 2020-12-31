@@ -1,4 +1,16 @@
 {
+    "jfOA0Fs7Yj": {
+        "id": "jfOA0Fs7Yj",
+        "title": "Лось",
+        "author": "Алексей Анатольевич Федорочев",
+        "notes": "",
+        "createdAt": "2020-12-31 12:52:47",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 1
+        }
+    },
     "hBA0G_IzqC": {
         "id": "hBA0G_IzqC",
         "title": "Портрет мертвой натурщицы",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 11
-        }
-    },
-    "wDXqva86za": {
-        "id": "wDXqva86za",
-        "title": "Ласточки и амазонки",
-        "author": "Артур Рэнсом",
-        "notes": "paper",
-        "createdAt": "2020-12-19 20:47:31",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 10
         }
     }
 }
