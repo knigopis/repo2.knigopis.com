@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 0,
+        "updatedAt": "2020-12-31 12:47:56"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 151,
         "updatedAt": "2020-12-13 16:56:26"
-    },
-    "396008489-vkontakte": {
-        "id": "396008489-vkontakte",
-        "nickname": "Juziz",
-        "booksCount": 14,
-        "updatedAt": "2020-12-13 09:36:45"
     }
 }
