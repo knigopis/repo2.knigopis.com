@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>69</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>68</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>59</sup> 
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>73</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>151</sup> 
 
 
-_31.12.2020 12:52:47_
+_01.01.2021 12:57:14_

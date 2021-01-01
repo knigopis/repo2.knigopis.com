@@ -1,4 +1,16 @@
 {
+    "hNO_YDI4-a": {
+        "id": "hNO_YDI4-a",
+        "title": "Над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2021-01-01 12:57:14",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 69
+        }
+    },
     "jfOA0Fs7Yj": {
         "id": "jfOA0Fs7Yj",
         "title": "Лось",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 96
-        }
-    },
-    "IvCP24Knuy": {
-        "id": "IvCP24Knuy",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "paper",
-        "createdAt": "2020-12-19 20:50:57",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 11
         }
     }
 }
