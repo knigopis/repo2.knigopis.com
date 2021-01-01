@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>268</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>269</sup>
 ---
 
 ## 2020
+
+### Ночная стража
+Пратчетт, Терри
+> [2020-12-23] Супер. Ваймс в прошлом
+
 
 ### На игле
 Уэлш, Ирвин

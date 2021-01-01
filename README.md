@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ночная стража ~ [Garka](users/115/115753719718250012620-google)<sup>269</sup>
+    > Супер. Ваймс в прошлом
+
 * Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется ~ [dmiro](users/571/5714115-vkontakte)<sup>39</sup>
     > Однозначно стоит прочесть, чтобы узнать много нового об этом мире!
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Повышение КПД
 
 * Всё хреново. Книга о надежде ~ [violet_velva](users/116/116961712580551399099-google)<sup>75</sup>
-    > Примерно 2/3 книги у меня вообще никакого отклика не вызвали. И только последняя часть показалась мне более-менее ценной.
-    > Я остановилась на мнении, что российский менталитет и общий уровень жизни к такому подходу не готов. Книгу пишет человек, явно не знакомый с понятием "туалет на улицу" для людей также не знакомых с этим понятием. Глобализация явно не везде проникла еще, для России нужна своя психология.
 
 * Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Уровень темных ~ [Chiffi](users/105/105831994080785626680-google)<sup>249</sup>
 
-* Ментальный факультатив ~ [Chiffi](users/105/105831994080785626680-google)<sup>248</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>269</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>69</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>151</sup> 
 
 
-_01.01.2021 12:57:14_
+_01.01.2021 18:54:06_

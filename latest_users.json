@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 269,
+        "updatedAt": "2021-01-01 18:54:05"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "casio384",
         "booksCount": 0,
         "updatedAt": "2020-12-16 07:10:07"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 151,
-        "updatedAt": "2020-12-13 16:56:26"
     }
 }
