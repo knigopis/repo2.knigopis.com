@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
+    > Очень тяжелая книга. Первая мировая, потерянное поколение.
+
 * Ночная стража ~ [Garka](users/115/115753719718250012620-google)<sup>269</sup>
     > Супер. Ваймс в прошлом
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Однозначно стоит прочесть, чтобы узнать много нового об этом мире!
 
 * Полный контроль ~ [Fenix](users/111/111367585493471720963-google)<sup>15</sup>
-    > Повышение КПД
 
 * Всё хреново. Книга о надежде ~ [violet_velva](users/116/116961712580551399099-google)<sup>75</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>250</sup>
 
-* Уровень темных ~ [Chiffi](users/105/105831994080785626680-google)<sup>249</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>269</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>270</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>69</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
 
 
-_01.01.2021 18:54:06_
+_01.01.2021 18:55:41_
