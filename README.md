@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[книголав](users/981/981907258513659-facebook)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>270</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [valhaha](users/177/177642807-vkontakte)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
-[casio384](users/184/184420962-yandex)<sup>0</sup> 
 
 
-_02.01.2021 16:00:59_
+_02.01.2021 20:32:24_
