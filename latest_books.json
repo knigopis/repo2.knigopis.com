@@ -1,4 +1,16 @@
 {
+    "bQTAgHoCtz": {
+        "id": "bQTAgHoCtz",
+        "title": "Стратегия отхода",
+        "author": "Марта Уэллс",
+        "notes": "",
+        "createdAt": "2021-01-02 13:18:43",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 71
+        }
+    },
     "b_DIokROyk": {
         "id": "b_DIokROyk",
         "title": "Отказ всех систем",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 22
-        }
-    },
-    "_p5sM0yjc_": {
-        "id": "_p5sM0yjc_",
-        "title": "Хип-хоп маленьких лебедей",
-        "author": "Д. Донцова",
-        "notes": "",
-        "createdAt": "2020-12-21 13:01:20",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 29
         }
     }
 }
