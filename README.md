@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>270</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [casio384](users/184/184420962-yandex)<sup>0</sup> 
 
 
-_02.01.2021 13:18:43_
+_02.01.2021 16:00:59_

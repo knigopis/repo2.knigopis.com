@@ -1,4 +1,16 @@
 {
+    "XEeGe92g-L": {
+        "id": "XEeGe92g-L",
+        "title": "В тени отца",
+        "author": "Федорочев Алексей Анатольевич",
+        "notes": "",
+        "createdAt": "2021-01-02 16:00:59",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 2
+        }
+    },
     "bQTAgHoCtz": {
         "id": "bQTAgHoCtz",
         "title": "Стратегия отхода",
@@ -345,18 +357,6 @@
             "id": "111367585493471720963-google",
             "nickname": "Fenix",
             "booksCount": 12
-        }
-    },
-    "S6yID3EEvs": {
-        "id": "S6yID3EEvs",
-        "title": "Ваш покорный слуга кот",
-        "author": "Нацумэ Сосэки",
-        "notes": "",
-        "createdAt": "2020-12-21 13:07:50",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 22
         }
     }
 }
