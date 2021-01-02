@@ -1,4 +1,10 @@
 {
+    "981907258513659-facebook": {
+        "id": "981907258513659-facebook",
+        "nickname": "книголав",
+        "booksCount": 0,
+        "updatedAt": "2021-01-02 20:32:23"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 56,
         "updatedAt": "2020-12-16 19:33:45"
-    },
-    "184420962-yandex": {
-        "id": "184420962-yandex",
-        "nickname": "casio384",
-        "booksCount": 0,
-        "updatedAt": "2020-12-16 07:10:07"
     }
 }
