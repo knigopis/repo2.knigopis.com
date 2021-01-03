@@ -1,4 +1,10 @@
 {
+    "100006761945842-facebook": {
+        "id": "100006761945842-facebook",
+        "nickname": "Somik",
+        "booksCount": 0,
+        "updatedAt": "2021-01-03 12:48:54"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 119,
         "updatedAt": "2020-12-16 20:14:53"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 56,
-        "updatedAt": "2020-12-16 19:33:45"
     }
 }
