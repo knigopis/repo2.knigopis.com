@@ -1,4 +1,16 @@
 {
+    "JrUTBFjkf-": {
+        "id": "JrUTBFjkf-",
+        "title": "Сдвиг",
+        "author": "Джой Ито, Джеффри Хоуи",
+        "notes": "Не надо читать! Пустая книга",
+        "createdAt": "2021-01-03 11:46:02",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 399
+        }
+    },
     "XEeGe92g-L": {
         "id": "XEeGe92g-L",
         "title": "В тени отца",
@@ -345,18 +357,6 @@
             "id": "111367585493471720963-google",
             "nickname": "Fenix",
             "booksCount": 13
-        }
-    },
-    "dMRmQjLVMw": {
-        "id": "dMRmQjLVMw",
-        "title": "Откровенные беседы",
-        "author": "Садхгуру",
-        "notes": "",
-        "createdAt": "2020-12-21 15:55:40",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 12
         }
     }
 }

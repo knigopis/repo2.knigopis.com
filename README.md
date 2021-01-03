@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
+    > Не надо читать! Пустая книга
+
 * На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
     > Очень тяжелая книга. Первая мировая, потерянное поколение.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Супер. Ваймс в прошлом
 
 * Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется ~ [dmiro](users/571/5714115-vkontakte)<sup>39</sup>
-    > Однозначно стоит прочесть, чтобы узнать много нового об этом мире!
 
 * Полный контроль ~ [Fenix](users/111/111367585493471720963-google)<sup>15</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зов кукушки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>250</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>399</sup> 
 [книголав](users/981/981907258513659-facebook)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>52</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>132</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>398</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>56</sup> 
 
 
-_02.01.2021 20:32:24_
+_03.01.2021 11:46:02_
