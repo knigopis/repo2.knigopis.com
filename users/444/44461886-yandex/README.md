@@ -1,7 +1,12 @@
-# List of books read by dromoman2008<sup>2</sup>
+# List of books read by dromoman2008<sup>3</sup>
 ---
 
 ## 2021
+
+### Компенсация
+Шалдин Валерий
+> [2021-01] 
+
 
 ### В тени отца
 Федорочев Алексей Анатольевич
