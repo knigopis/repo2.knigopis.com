@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>3</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>59</sup> 
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>73</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
 
 
-_04.01.2021 11:08:28_
+_04.01.2021 13:01:49_
