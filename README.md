@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>196</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>3</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>0</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
-[valhaha](users/177/177642807-vkontakte)<sup>1</sup> 
 
 
-_04.01.2021 09:27:20_
+_04.01.2021 10:56:12_

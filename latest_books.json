@@ -1,4 +1,16 @@
 {
+    "MBxOXQ_91t": {
+        "id": "MBxOXQ_91t",
+        "title": "Я забыла всё на свете",
+        "author": "Маэль Ферпье",
+        "notes": "",
+        "createdAt": "2021-01-04 10:56:12",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 196
+        }
+    },
     "8Gks-d0JoM": {
         "id": "8Gks-d0JoM",
         "title": "Компенсация",
@@ -345,18 +357,6 @@
             "id": "112927328138261243447-google",
             "nickname": " laim",
             "booksCount": 1
-        }
-    },
-    "Q71idDxm5r": {
-        "id": "Q71idDxm5r",
-        "title": "60-е. Мир советского человека",
-        "author": "П. Вайль",
-        "notes": "",
-        "createdAt": "2020-12-23 06:26:20",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 73
         }
     }
 }

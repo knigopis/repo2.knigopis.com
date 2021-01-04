@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>195</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>196</sup>
 ---
 
 ## 2020
+
+### Я забыла всё на свете
+Маэль Ферпье
+> [2020-12-27] 
+
 
 ### Выбор
 Эдит Ева Эгер
