@@ -1,4 +1,4 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>160</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>159</sup>
 ---
 
 ## 2020
@@ -391,10 +391,6 @@ Lukasz Saturczak, Les Belej
 ### Ведьмак. Кровь эльфов
 Анджей Сапковский
 > [2020-01-03] 8/10
-
-
-### Стивен Кинг
-Жребий Салема.
 
 
 ### Стивен Кинг
