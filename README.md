@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>3</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
 
 
-_04.01.2021 13:01:49_
+_04.01.2021 13:02:03_
