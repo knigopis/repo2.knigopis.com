@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>198</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>199</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>3</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kimensop](users/424/424652224-vkontakte)<sup>0</sup> 
 
 
-_04.01.2021 11:01:31_
+_04.01.2021 11:02:34_
