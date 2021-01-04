@@ -1,4 +1,10 @@
 {
+    "22742452-yandex": {
+        "id": "22742452-yandex",
+        "nickname": "rNix",
+        "booksCount": 70,
+        "updatedAt": "2021-01-04 06:00:10"
+    },
     "100006761945842-facebook": {
         "id": "100006761945842-facebook",
         "nickname": "Somik",
@@ -172,11 +178,5 @@
         "nickname": "valhaha",
         "booksCount": 1,
         "updatedAt": "2020-12-18 13:48:18"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 119,
-        "updatedAt": "2020-12-16 20:14:53"
     }
 }
