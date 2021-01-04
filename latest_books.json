@@ -1,4 +1,16 @@
 {
+    "7riiXk1UWa": {
+        "id": "7riiXk1UWa",
+        "title": "Дизайн: форма и хаос",
+        "author": "Пол Рэнд",
+        "notes": "",
+        "createdAt": "2021-01-04 10:57:39",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 197
+        }
+    },
     "MBxOXQ_91t": {
         "id": "MBxOXQ_91t",
         "title": "Я забыла всё на свете",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 59
-        }
-    },
-    "XCz8aBY4SR": {
-        "id": "XCz8aBY4SR",
-        "title": "Последний шанс",
-        "author": "Laim",
-        "notes": "фантастическое произведение с щепоткой хоророра",
-        "createdAt": "2020-12-23 16:10:42",
-        "user": {
-            "id": "112927328138261243447-google",
-            "nickname": " laim",
-            "booksCount": 1
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>196</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>197</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Я забыла всё на свете
 Маэль Ферпье
 > [2020-12-27] 
+
+
+### Дизайн: форма и хаос
+Пол Рэнд
+> [2020-12-19] 
 
 
 ### Выбор
