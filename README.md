@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
+[Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>4</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
 
 
-_05.01.2021 22:31:11_
+_05.01.2021 22:31:51_
