@@ -1,4 +1,10 @@
 {
+    "108324375224819470216-google": {
+        "id": "108324375224819470216-google",
+        "nickname": "Shimpanze",
+        "booksCount": 0,
+        "updatedAt": "2021-01-05 10:12:32"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 111,
         "updatedAt": "2020-12-19 20:20:13"
-    },
-    "424652224-vkontakte": {
-        "id": "424652224-vkontakte",
-        "nickname": "kimensop",
-        "booksCount": 0,
-        "updatedAt": "2020-12-18 19:59:56"
     }
 }
