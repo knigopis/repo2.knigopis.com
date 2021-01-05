@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shimpanze](users/108/108324375224819470216-google)<sup>0</sup> 
+[Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
 
 
-_05.01.2021 10:12:33_
+_05.01.2021 10:15:08_
