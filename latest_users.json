@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 120,
+        "updatedAt": "2021-01-05 22:31:11"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "Ильнур",
         "booksCount": 0,
         "updatedAt": "2020-12-20 02:03:28"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 111,
-        "updatedAt": "2020-12-19 20:20:13"
     }
 }
