@@ -41,11 +41,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>4</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>3</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>399</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>111</sup> 
 
 
-_05.01.2021 10:15:08_
+_05.01.2021 13:12:59_
