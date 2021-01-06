@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115606166526017510013-google)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>5</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>29</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>250</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>96</sup> 
-[Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
 
 
-_06.01.2021 08:36:39_
+_06.01.2021 09:38:03_
