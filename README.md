@@ -41,8 +41,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>5</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>4</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ильнур](users/878/8787394068538140681-mailru)<sup>0</sup> 
 
 
-_05.01.2021 22:31:51_
+_06.01.2021 08:36:39_

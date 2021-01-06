@@ -1,4 +1,16 @@
 {
+    "KIY1yQyFfm": {
+        "id": "KIY1yQyFfm",
+        "title": "Магу (из 7 книг)",
+        "author": "Полищук Вадим Васильевич",
+        "notes": "Мажор на Кавказе (война с горцами при царе по крайне мере в первой книге)",
+        "createdAt": "2021-01-06 08:36:39",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 5
+        }
+    },
     "JIymJt7cnV": {
         "id": "JIymJt7cnV",
         "title": "Абрамова",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 75
-        }
-    },
-    "WItvrutyWB": {
-        "id": "WItvrutyWB",
-        "title": "Двенадцать",
-        "author": "Джастин Кронин",
-        "notes": "",
-        "createdAt": "2020-12-26 16:55:28",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 398
         }
     }
 }
