@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 157,
+        "updatedAt": "2021-01-07 10:31:45"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 250,
         "updatedAt": "2020-12-20 17:00:28"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 96,
-        "updatedAt": "2020-12-20 14:18:06"
     }
 }

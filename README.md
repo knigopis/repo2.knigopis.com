@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
+    > Повесть про путешествующий по времени библиобус.
+
 * Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
     > Статья
 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Всё же книга для меня показалась скучной, а многие выводы слабоподкреплёнными.
 
 * Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
-    > Не надо читать! Пустая книга
 
 * На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
 
-* Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup> 
 [youno](users/302/302928912-vkontakte)<sup>53</sup> 
 [](users/115/115606166526017510013-google)<sup>1</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>5</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>22</sup> 
 [](users/153/1537586159620888-facebook)<sup>29</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>250</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>96</sup> 
 
 
-_07.01.2021 10:29:42_
+_07.01.2021 10:31:45_
