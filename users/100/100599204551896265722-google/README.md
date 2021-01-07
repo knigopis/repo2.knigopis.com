@@ -1,5 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>151</sup>
+# Список прочитанных книг пользователя exulted<sup>152</sup>
 ---
+
+## 2021
+
+### Vietnam: An Epic Tragedy, 1945-1975
+Sir Max Hastings
+> [2021-01-06] ASIN : B071VJBRB6
+
+
 
 ## 2020
 

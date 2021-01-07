@@ -1,4 +1,16 @@
 {
+    "YZuDzRTQr3": {
+        "id": "YZuDzRTQr3",
+        "title": "Vietnam: An Epic Tragedy, 1945-1975",
+        "author": "Sir Max Hastings",
+        "notes": "ASIN : B071VJBRB6",
+        "createdAt": "2021-01-07 17:03:23",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 152
+        }
+    },
     "1DfnV6_Ppa": {
         "id": "1DfnV6_Ppa",
         "title": "Мой любимый sputnik",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 39
-        }
-    },
-    "WffMSsakwX": {
-        "id": "WffMSsakwX",
-        "title": "iPhuck",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2020-12-30 09:19:35",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 234
         }
     }
 }

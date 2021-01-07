@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
+    > ASIN : B071VJBRB6
+
 * Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
     > Я, Сумирэ, Мюу
     > Человек так устроен: если в него выстрелить, польется кровь.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Повесть про путешествующий по времени библиобус.
 
 * Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
-    > Статья
 
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Полный контроль ~ [Fenix](users/111/111367585493471720963-google)<sup>15</sup>
 
-* Всё хреново. Книга о надежде ~ [violet_velva](users/116/116961712580551399099-google)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>152</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>400</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>73</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>22</sup> 
-[](users/153/1537586159620888-facebook)<sup>29</sup> 
 
 
-_07.01.2021 16:03:45_
+_07.01.2021 17:03:23_

@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 152,
+        "updatedAt": "2021-01-07 17:03:23"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 22,
         "updatedAt": "2020-12-21 13:07:50"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 29,
-        "updatedAt": "2020-12-21 13:01:20"
     }
 }
