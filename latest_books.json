@@ -1,4 +1,16 @@
 {
+    "1DfnV6_Ppa": {
+        "id": "1DfnV6_Ppa",
+        "title": "Мой любимый sputnik",
+        "author": "Харуки Мураками",
+        "notes": "Я, Сумирэ, Мюу\nЧеловек так устроен: если в него выстрелить, польется кровь.",
+        "createdAt": "2021-01-07 16:03:45",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 62
+        }
+    },
     "Li5VadSegn": {
         "id": "Li5VadSegn",
         "title": "Город Зеркал",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 234
-        }
-    },
-    "p_ceSOhe9C": {
-        "id": "p_ceSOhe9C",
-        "title": "Полный контроль",
-        "author": "Ицхак Пинтосевич",
-        "notes": "Повышение КПД",
-        "createdAt": "2020-12-30 06:17:37",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 15
         }
     }
 }

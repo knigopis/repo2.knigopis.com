@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
 * Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
 * Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
@@ -30,7 +31,6 @@
 * Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
 * Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
 * Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
-* Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 
 
-_07.01.2021 10:31:45_
+_07.01.2021 16:03:45_
