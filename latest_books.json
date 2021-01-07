@@ -1,4 +1,16 @@
 {
+    "Li5VadSegn": {
+        "id": "Li5VadSegn",
+        "title": "Город Зеркал",
+        "author": "Джастин Кронин",
+        "notes": "",
+        "createdAt": "2021-01-07 14:17:00",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 400
+        }
+    },
     "WCP8I385SZ": {
         "id": "WCP8I385SZ",
         "title": "Запоздалые",
@@ -345,18 +357,6 @@
             "id": "111367585493471720963-google",
             "nickname": "Fenix",
             "booksCount": 15
-        }
-    },
-    "TX6bt-PTOB": {
-        "id": "TX6bt-PTOB",
-        "title": "Правдалогия. Стиль осознанного эгоиста.",
-        "author": "Илья Овчаренко",
-        "notes": "",
-        "createdAt": "2020-12-28 20:33:20",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 52
         }
     }
 }

@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>400</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup> 
 [youno](users/302/302928912-vkontakte)<sup>53</sup> 
 [](users/115/115606166526017510013-google)<sup>1</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>399</sup> 
 [книголав](users/981/981907258513659-facebook)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>270</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>250</sup> 
 
 
-_07.01.2021 10:31:45_
+_07.01.2021 14:17:00_
