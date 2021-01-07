@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
 * Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
 * На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
@@ -30,7 +31,6 @@
 * Dodger (Финт) ~ [Joan8ied](users/240/2401650-vkontakte)<sup>104</sup>
 * Автостопом по Галактике ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 * Я не умею спать ~ [Rainbow](users/109/109787328219839805802-google)<sup>67</sup>
-* Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
 
 
-_04.01.2021 06:00:10_
+_07.01.2021 10:29:42_

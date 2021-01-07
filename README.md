@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
+    > Статья
+
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
     > Книга об управлении разработкой очень крупных программных проектов. В ней описываются организационные сложности, пути их решения. Много уделяется внимания срокам разработки. А именно, из чего они формируются, как их контролировать, из-за чего срываются. Также описаны рекомендации по иерархии ролей в команде, организация обмена информацией внутри проекта и многое другое. Опыт автора получен в разработке проекта на 1000+ человек.
     > 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Не надо читать! Пустая книга
 
 * На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
-    > Очень тяжелая книга. Первая мировая, потерянное поколение.
 
 * Ночная стража ~ [Garka](users/115/115753719718250012620-google)<sup>269</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 
-* На службе зла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>53</sup> 
 [](users/115/115606166526017510013-google)<sup>1</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>5</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>234</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
-[youno](users/302/302928912-vkontakte)<sup>52</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>96</sup> 
 
 
-_06.01.2021 09:38:21_
+_07.01.2021 10:29:42_
