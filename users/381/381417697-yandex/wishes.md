@@ -31,43 +31,43 @@ Linus Torvalds, David Diamond
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
 
-### `4` Атлант расправил плечи
-Айн Рэнд
-
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
+### `4` Атлант расправил плечи
+Айн Рэнд
 
-### `1` Портной из Панамы
-Джон Ле Карре
+### `1` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Три товарища
-Эрих Мария Ремарк
+### `1` Портной из Панамы
+Джон Ле Карре
 
-### `` Permanent Record
-Edward Snowden
-
-### `` Qe
-
-### `` Герой нашего времени
-Михаил Лермонтов
-
-### `` Искусство программирования
-Дональд Кнут
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
 
 ### `` Agile Estimating and Planning
 Mike Cohn
 
+### `` Искусство программирования
+Дональд Кнут
+
 ### `` Грокаем алгоритмы
+
+### `` Qe
+
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
+
+### `` Permanent Record
+Edward Snowden
 
 ### `` Hdhd
 
@@ -76,7 +76,8 @@ Dafydd Stuttard, Marcus Pinto
 
 ### `` Effective Kotlin
 
-### `` Не рычите на собаку
+### `` Герой нашего времени
+Михаил Лермонтов
 
 ### `` Set Theory
 Мильтон Бэббит
@@ -134,6 +135,5 @@ Daniel Kahneman
 
 ### `` asdf
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
+### `` Не рычите на собаку
 
