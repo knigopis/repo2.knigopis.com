@@ -1,4 +1,16 @@
 {
+    "sZEkyPzBBN": {
+        "id": "sZEkyPzBBN",
+        "title": "Кошка среди голубей",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2021-01-08 13:28:09",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 51
+        }
+    },
     "SVtZ_grp0b": {
         "id": "SVtZ_grp0b",
         "title": "Исчезнувшая",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 4
-        }
-    },
-    "4lJ6CO4rT2": {
-        "id": "4lJ6CO4rT2",
-        "title": "Голем",
-        "author": "Густав Майринк",
-        "notes": "",
-        "createdAt": "2020-12-30 15:56:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 837
         }
     }
 }
