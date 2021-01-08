@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Булгаков, М.А. ~ [Garka](users/115/115753719718250012620-google)<sup>271</sup>
+    > Аудиокнига
+
 * Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
     > ASIN : B071VJBRB6
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Человек так устроен: если в него выстрелить, польется кровь.
 
 * Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
-    > Повесть про путешествующий по времени библиобус.
 
 * Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется ~ [dmiro](users/571/5714115-vkontakte)<sup>39</sup>
 
-* Полный контроль ~ [Fenix](users/111/111367585493471720963-google)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>271</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>54</sup> 
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>152</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Somik](users/100/100006761945842-facebook)<sup>0</sup> 
 [книголав](users/981/981907258513659-facebook)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>270</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 
 
-_08.01.2021 13:29:28_
+_08.01.2021 18:13:21_

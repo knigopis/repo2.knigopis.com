@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Булгаков, М.А. ~ [Garka](users/115/115753719718250012620-google)<sup>271</sup>
 * Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
 * Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
 * Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
@@ -30,7 +31,6 @@
 * Вопрос о виновности. О политической ответственности Германии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
 * Цветы для Элджернона ~ [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup>
 * Список Шиндлера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup>
-* Меч, дорога и удача ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>155</sup>
 
 
-_07.01.2021 17:03:23_
+_08.01.2021 18:13:21_
