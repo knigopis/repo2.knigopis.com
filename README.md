@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>76</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>272</sup> 
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>59</sup> 
-[ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 
 
-_08.01.2021 20:55:30_
+_08.01.2021 21:16:12_

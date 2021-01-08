@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 76,
+        "updatedAt": "2021-01-08 21:16:11"
+    },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 59,
         "updatedAt": "2020-12-24 14:03:28"
-    },
-    "112927328138261243447-google": {
-        "id": "112927328138261243447-google",
-        "nickname": " laim",
-        "booksCount": 0,
-        "updatedAt": "2020-12-23 16:11:14"
     }
 }
