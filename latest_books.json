@@ -1,4 +1,16 @@
 {
+    "SVtZ_grp0b": {
+        "id": "SVtZ_grp0b",
+        "title": "Исчезнувшая",
+        "author": "Гиллиан Флинн",
+        "notes": "",
+        "createdAt": "2021-01-08 13:27:41",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 50
+        }
+    },
     "YZuDzRTQr3": {
         "id": "YZuDzRTQr3",
         "title": "Vietnam: An Epic Tragedy, 1945-1975",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 837
-        }
-    },
-    "0oLwcoRj4V": {
-        "id": "0oLwcoRj4V",
-        "title": "Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется",
-        "author": "Ханс Рослинг",
-        "notes": "Однозначно стоит прочесть, чтобы узнать много нового об этом мире!",
-        "createdAt": "2020-12-30 09:52:29",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 39
         }
     }
 }

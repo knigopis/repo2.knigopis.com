@@ -1,4 +1,10 @@
 {
+    "113794223924688167852-google": {
+        "id": "113794223924688167852-google",
+        "nickname": "Victoria",
+        "booksCount": 50,
+        "updatedAt": "2021-01-08 13:27:41"
+    },
     "328412972-yandex": {
         "id": "328412972-yandex",
         "nickname": "Evgeneva-VM",
@@ -172,11 +178,5 @@
         "nickname": " laim",
         "booksCount": 0,
         "updatedAt": "2020-12-23 16:11:14"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 73,
-        "updatedAt": "2020-12-23 06:26:20"
     }
 }
