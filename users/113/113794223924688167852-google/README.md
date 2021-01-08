@@ -1,7 +1,12 @@
-# List of books read by Victoria<sup>53</sup>
+# List of books read by Victoria<sup>54</sup>
 ---
 
 ## 2021
+
+### Плохие вести куклы
+Джеймс Хэдли Чейз
+> [2021-01] 
+
 
 ### Коварный удар
 Джеймс Хэдли Чейз
