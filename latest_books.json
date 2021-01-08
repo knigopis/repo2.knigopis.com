@@ -1,4 +1,16 @@
 {
+    "FYKURpfSH1": {
+        "id": "FYKURpfSH1",
+        "title": "Коварный удар",
+        "author": "Джеймс Хэдли Чейз",
+        "notes": "",
+        "createdAt": "2021-01-08 13:29:09",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 53
+        }
+    },
     "znNUInEQ-p": {
         "id": "znNUInEQ-p",
         "title": "Это грязное дело шантаж",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 1
-        }
-    },
-    "hBA0G_IzqC": {
-        "id": "hBA0G_IzqC",
-        "title": "Портрет мертвой натурщицы",
-        "author": "Дезомбре Дарья",
-        "notes": "",
-        "createdAt": "2020-12-31 03:04:13",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 9
         }
     }
 }

@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoria](users/113/113794223924688167852-google)<sup>52</sup> 
+[Victoria](users/113/113794223924688167852-google)<sup>53</sup> 
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>152</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 
 
-_08.01.2021 13:28:54_
+_08.01.2021 13:29:09_

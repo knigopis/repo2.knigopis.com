@@ -1,7 +1,12 @@
-# List of books read by Victoria<sup>52</sup>
+# List of books read by Victoria<sup>53</sup>
 ---
 
 ## 2021
+
+### Коварный удар
+Джеймс Хэдли Чейз
+> [2021-01] 
+
 
 ### Это грязное дело шантаж
 Джеймс Хэдли Чейз
