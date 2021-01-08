@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленький свободный народец ~ [Garka](users/115/115753719718250012620-google)<sup>272</sup>
+    > Нак-мак-Фигли, Тиффани (ведьма девяти лет), Снежная Королева
+
 * Булгаков, М.А. ~ [Garka](users/115/115753719718250012620-google)<sup>271</sup>
     > Аудиокнига
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN : B071VJBRB6
 
 * Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
-    > Я, Сумирэ, Мюу
-    > Человек так устроен: если в него выстрелить, польется кровь.
 
 * Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ночная стража ~ [Garka](users/115/115753719718250012620-google)<sup>269</sup>
 
-* Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется ~ [dmiro](users/571/5714115-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>271</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>272</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>54</sup> 
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>152</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ laim](users/112/112927328138261243447-google)<sup>0</sup> 
 
 
-_08.01.2021 18:13:21_
+_08.01.2021 18:15:41_
