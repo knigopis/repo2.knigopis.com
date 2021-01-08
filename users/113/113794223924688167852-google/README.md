@@ -1,7 +1,12 @@
-# List of books read by Victoria<sup>51</sup>
+# List of books read by Victoria<sup>52</sup>
 ---
 
 ## 2021
+
+### Это грязное дело шантаж
+Джеймс Хэдли Чейз
+> [2021-01] 
+
 
 ### Исчезнувшая
 Гиллиан Флинн
