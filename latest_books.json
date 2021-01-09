@@ -1,4 +1,16 @@
 {
+    "WLL85kl_pf": {
+        "id": "WLL85kl_pf",
+        "title": "Огненный Факультет",
+        "author": "Алекс Кош",
+        "notes": "",
+        "createdAt": "2021-01-09 15:49:19",
+        "user": {
+            "id": "111527709134336877181-googleplus",
+            "nickname": "kosipel",
+            "booksCount": 2
+        }
+    },
     "KNrt5CKi9B": {
         "id": "KNrt5CKi9B",
         "title": "Если бы я был вампиром",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 399
-        }
-    },
-    "XEeGe92g-L": {
-        "id": "XEeGe92g-L",
-        "title": "В тени отца",
-        "author": "Федорочев Алексей Анатольевич",
-        "notes": "",
-        "createdAt": "2021-01-02 16:00:59",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 2
         }
     }
 }
