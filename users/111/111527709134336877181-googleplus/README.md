@@ -1,7 +1,11 @@
-# List of books read by [kosipel](https://plus.google.com/u/0/111527709134336877181/)<sup>3</sup>
+# List of books read by [kosipel](https://plus.google.com/u/0/111527709134336877181/)<sup>4</sup>
 ---
 
 ## 2000
+
+### Вечеринка в стиле «ВАМП»
+Алекс Кош
+
 
 ### Огненный Патруль
 Алекс Кош
