@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>76</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>12</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>188</sup> 
 
 
-_09.01.2021 15:49:52_
+_09.01.2021 23:16:55_
