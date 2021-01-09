@@ -1,4 +1,10 @@
 {
+    "111527709134336877181-googleplus": {
+        "id": "111527709134336877181-googleplus",
+        "nickname": "kosipel",
+        "booksCount": 0,
+        "updatedAt": "2021-01-09 15:47:59"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 188,
         "updatedAt": "2020-12-25 18:04:30"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 59,
-        "updatedAt": "2020-12-24 14:03:28"
     }
 }
