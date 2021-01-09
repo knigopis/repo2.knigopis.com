@@ -1,4 +1,16 @@
 {
+    "HIUdbNcD_t": {
+        "id": "HIUdbNcD_t",
+        "title": "Огненный Патруль",
+        "author": "Алекс Кош",
+        "notes": "",
+        "createdAt": "2021-01-09 15:49:37",
+        "user": {
+            "id": "111527709134336877181-googleplus",
+            "nickname": "kosipel",
+            "booksCount": 3
+        }
+    },
     "WLL85kl_pf": {
         "id": "WLL85kl_pf",
         "title": "Огненный Факультет",
@@ -345,18 +357,6 @@
             "id": "22742452-yandex",
             "nickname": "rNix",
             "booksCount": 70
-        }
-    },
-    "JrUTBFjkf-": {
-        "id": "JrUTBFjkf-",
-        "title": "Сдвиг",
-        "author": "Джой Ито, Джеффри Хоуи",
-        "notes": "Не надо читать! Пустая книга",
-        "createdAt": "2021-01-03 11:46:02",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 399
         }
     }
 }
