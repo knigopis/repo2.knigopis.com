@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>100</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>6</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
 
 
-_10.01.2021 10:34:48_
+_10.01.2021 11:17:03_
