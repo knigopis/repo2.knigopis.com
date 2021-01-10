@@ -1,4 +1,4 @@
-# List of books read by [ksercs](https://plus.google.com/u/0/113010305809091482859/)<sup>11</sup>
+# List of books read by [ksercs](https://plus.google.com/u/0/113010305809091482859/)<sup>12</sup>
 ---
 
 ## 2020
@@ -80,6 +80,11 @@
 
 
 ## Other years
+
+### Как наказывать подчиненных
+Александр Фридман
+> Подарок с намеком как председателю студсовета
+
 
 ### Чистый код
 Роберт Мартин

@@ -1,4 +1,16 @@
 {
+    "hcl2kN2QBy": {
+        "id": "hcl2kN2QBy",
+        "title": "Как наказывать подчиненных",
+        "author": "Александр Фридман",
+        "notes": "Подарок с намеком как председателю студсовета",
+        "createdAt": "2021-01-10 17:07:55",
+        "user": {
+            "id": "113010305809091482859-google",
+            "nickname": "ksercs",
+            "booksCount": 12
+        }
+    },
     "-xMP6L6d_I": {
         "id": "-xMP6L6d_I",
         "title": "Чистый код",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 271
-        }
-    },
-    "n4CuPhRIPP": {
-        "id": "n4CuPhRIPP",
-        "title": "Плохие вести куклы",
-        "author": "Джеймс Хэдли Чейз",
-        "notes": "",
-        "createdAt": "2021-01-08 13:29:28",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 54
         }
     }
 }
