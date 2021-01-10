@@ -1,4 +1,4 @@
-# List of books read by [ksercs](https://plus.google.com/u/0/113010305809091482859/)<sup>12</sup>
+# List of books read by [ksercs](https://plus.google.com/u/0/113010305809091482859/)<sup>13</sup>
 ---
 
 ## 2020
@@ -80,6 +80,10 @@
 
 
 ## Other years
+
+### Все хреново
+Марк Мэнсон
+
 
 ### Как наказывать подчиненных
 Александр Фридман
