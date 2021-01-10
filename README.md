@@ -57,7 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ksercs](users/113/113010305809091482859-google)<sup>13</sup> 
+[ksercs](users/113/113010305809091482859-google)<sup>14</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>2</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>77</sup> 
@@ -89,4 +89,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 
 
-_10.01.2021 17:08:15_
+_10.01.2021 17:09:04_
