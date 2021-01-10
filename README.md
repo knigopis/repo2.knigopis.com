@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Император Африки  (4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>6</sup>
+    > Начал  читать  - примитивная сказка - автор в теме не разбирается. Попаданец в тело негра - "путь к славе" - "великий нагибатор" и т.д.
+
 * Маленький свободный народец ~ [Garka](users/115/115753719718250012620-google)<sup>272</sup>
     > Нак-мак-Фигли, Тиффани (ведьма девяти лет), Снежная Королева
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аудиокнига
 
 * Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
-    > ASIN : B071VJBRB6
 
 * Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
 
-* Ночная стража ~ [Garka](users/115/115753719718250012620-google)<sup>269</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>6</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>114</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup> 
 [youno](users/302/302928912-vkontakte)<sup>53</sup> 
 [](users/115/115606166526017510013-google)<sup>1</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>5</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
 
 
-_10.01.2021 06:00:42_
+_10.01.2021 06:41:05_

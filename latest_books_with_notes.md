@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Император Африки  (4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>6</sup>
 * Маленький свободный народец ~ [Garka](users/115/115753719718250012620-google)<sup>272</sup>
 * Булгаков, М.А. ~ [Garka](users/115/115753719718250012620-google)<sup>271</sup>
 * Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
@@ -30,7 +31,6 @@
 * Орга. Магический спецкурс ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
 * Богатей ~ [Fenix](users/111/111367585493471720963-google)<sup>10</sup>
 * Вопрос о виновности. О политической ответственности Германии ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
-* Цветы для Элджернона ~ [Beaviska](users/102/10202544960024508-facebook)<sup>44</sup>
 
 
-_08.01.2021 18:15:41_
+_10.01.2021 06:41:05_

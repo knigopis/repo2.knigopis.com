@@ -1,4 +1,16 @@
 {
+    "AKnwCdO1Rp": {
+        "id": "AKnwCdO1Rp",
+        "title": "Император Африки  (4 книги)",
+        "author": "Птица Алексей",
+        "notes": "Начал  читать  - примитивная сказка - автор в теме не разбирается. Попаданец в тело негра - \"путь к славе\" - \"великий нагибатор\" и т.д.",
+        "createdAt": "2021-01-10 06:41:04",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 6
+        }
+    },
     "voIGtzlwFA": {
         "id": "voIGtzlwFA",
         "title": "Девяносто третий год",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 53
-        }
-    },
-    "7-5-9Rx6YV": {
-        "id": "7-5-9Rx6YV",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-01-06 09:38:21",
-        "user": {
-            "id": "115606166526017510013-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
