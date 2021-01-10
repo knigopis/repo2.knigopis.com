@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 77,
+        "updatedAt": "2021-01-10 13:03:10"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -52,12 +58,6 @@
         "nickname": "kosipel",
         "booksCount": 4,
         "updatedAt": "2021-01-09 15:49:52"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 76,
-        "updatedAt": "2021-01-08 21:16:11"
     },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
