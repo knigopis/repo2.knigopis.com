@@ -1,4 +1,16 @@
 {
+    "BbwhmnCfKB": {
+        "id": "BbwhmnCfKB",
+        "title": "Ракеты и люди. От самолётов до ракет",
+        "author": "Б. Е. Черток",
+        "notes": "",
+        "createdAt": "2021-01-10 09:08:17",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 74
+        }
+    },
     "AKnwCdO1Rp": {
         "id": "AKnwCdO1Rp",
         "title": "Император Африки  (4 книги)",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 157
-        }
-    },
-    "QmHIwicFwt": {
-        "id": "QmHIwicFwt",
-        "title": "Миф ли Евангелие",
-        "author": "Рене Жирап",
-        "notes": "Статья",
-        "createdAt": "2021-01-07 10:29:42",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 53
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>74</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>6</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>114</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>234</sup> 
-[Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
 
 
-_10.01.2021 06:41:05_
+_10.01.2021 09:08:17_
