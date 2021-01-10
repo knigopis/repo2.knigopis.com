@@ -1,4 +1,16 @@
 {
+    "voIGtzlwFA": {
+        "id": "voIGtzlwFA",
+        "title": "Девяносто третий год",
+        "author": "Виктор Мари Гюго",
+        "notes": "",
+        "createdAt": "2021-01-10 06:00:42",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 114
+        }
+    },
     "8XLZg1O3d2": {
         "id": "8XLZg1O3d2",
         "title": "Легкий способ бросить курить",
@@ -345,18 +357,6 @@
             "id": "115606166526017510013-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "KIY1yQyFfm": {
-        "id": "KIY1yQyFfm",
-        "title": "Магу (из 7 книг)",
-        "author": "Полищук Вадим Васильевич",
-        "notes": "Мажор на Кавказе (война с горцами при царе по крайне мере в первой книге)",
-        "createdAt": "2021-01-06 08:36:39",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 5
         }
     }
 }

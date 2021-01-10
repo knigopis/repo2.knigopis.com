@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>114</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>234</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>15</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 
 
-_10.01.2021 04:37:30_
+_10.01.2021 06:00:42_
