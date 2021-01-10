@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ksercs](users/113/113010305809091482859-google)<sup>8</sup> 
+[ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>76</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 
 
-_10.01.2021 04:28:49_
+_10.01.2021 04:37:30_
