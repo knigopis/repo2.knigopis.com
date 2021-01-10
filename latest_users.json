@@ -1,4 +1,10 @@
 {
+    "108324375224819470216-google": {
+        "id": "108324375224819470216-google",
+        "nickname": "Shimpanze",
+        "booksCount": 2,
+        "updatedAt": "2021-01-10 13:51:45"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -118,12 +124,6 @@
         "nickname": "Таньчик",
         "booksCount": 119,
         "updatedAt": "2021-01-05 22:31:50"
-    },
-    "108324375224819470216-google": {
-        "id": "108324375224819470216-google",
-        "nickname": "Shimpanze",
-        "booksCount": 1,
-        "updatedAt": "2021-01-05 10:15:08"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",

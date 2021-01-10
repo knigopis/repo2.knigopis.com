@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shimpanze](users/108/108324375224819470216-google)<sup>2</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>77</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [](users/153/1537586159620888-facebook)<sup>30</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>53</sup> 
 [](users/115/115606166526017510013-google)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
-[Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
 
 
-_10.01.2021 13:03:10_
+_10.01.2021 13:51:45_

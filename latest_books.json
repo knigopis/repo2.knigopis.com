@@ -1,4 +1,16 @@
 {
+    "1OHDXZM7MK": {
+        "id": "1OHDXZM7MK",
+        "title": "",
+        "author": "Марсель Жуандо “Размышления о старости и смерти”",
+        "notes": "",
+        "createdAt": "2021-01-10 13:51:45",
+        "user": {
+            "id": "108324375224819470216-google",
+            "nickname": "Shimpanze",
+            "booksCount": 2
+        }
+    },
     "4Tdl4oRtqG": {
         "id": "4Tdl4oRtqG",
         "title": "Мужчина и женщина. Универсальные правила",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 51
-        }
-    },
-    "SVtZ_grp0b": {
-        "id": "SVtZ_grp0b",
-        "title": "Исчезнувшая",
-        "author": "Гиллиан Флинн",
-        "notes": "",
-        "createdAt": "2021-01-08 13:27:41",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 50
         }
     }
 }
