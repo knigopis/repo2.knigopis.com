@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Родимый край 1970-1972 ~ [mfevralev](users/140/140966150-vkontakte)<sup>48</sup>
 * Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
 * Портрет Дориана Грея ~ [kissamasya](users/684/68439978-vkontakte)<sup>100</sup>
 * Император Африки  (4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Демиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>68</sup>
 * На игле ~ [Garka](users/115/115753719718250012620-google)<sup>268</sup>
 * Орта. Магический спецкурс. Второй семестр ~ [Chiffi](users/105/105831994080785626680-google)<sup>245</sup>
-* Орга. Магический спецкурс ~ [Chiffi](users/105/105831994080785626680-google)<sup>244</sup>
 
 
-_10.01.2021 11:39:40_
+_10.01.2021 15:18:29_
