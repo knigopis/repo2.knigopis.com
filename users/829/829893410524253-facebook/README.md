@@ -1,5 +1,13 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>156</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>157</sup>
 ---
+
+## 2021
+
+### Дурная кровь
+Роберт Гэлбрейт
+> [2021-01-10] 9/10 Робин и Страйк расследуют события 40-ти летней давности.
+
+
 
 ## 2020
 

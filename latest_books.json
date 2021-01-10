@@ -1,4 +1,16 @@
 {
+    "4_8JEhvC-T": {
+        "id": "4_8JEhvC-T",
+        "title": "Дурная кровь",
+        "author": "Роберт Гэлбрейт",
+        "notes": "9/10 Робин и Страйк расследуют события 40-ти летней давности.",
+        "createdAt": "2021-01-10 11:39:39",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 157
+        }
+    },
     "f5dyPiucfZ": {
         "id": "f5dyPiucfZ",
         "title": "Темные предки светлой детки",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 152
-        }
-    },
-    "1DfnV6_Ppa": {
-        "id": "1DfnV6_Ppa",
-        "title": "Мой любимый sputnik",
-        "author": "Харуки Мураками",
-        "notes": "Я, Сумирэ, Мюу\nЧеловек так устроен: если в него выстрелить, польется кровь.",
-        "createdAt": "2021-01-07 16:03:45",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 62
         }
     }
 }

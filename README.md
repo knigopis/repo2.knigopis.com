@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
+    > 9/10 Робин и Страйк расследуют события 40-ти летней давности.
+
 * Портрет Дориана Грея ~ [kissamasya](users/684/68439978-vkontakte)<sup>100</sup>
     > Главный герой Дориан Грей – невероятно красивый молодой человек, любящий себя и восхищающийся своей внешностью. Его красоту замечает художник, который считает его облик идеальным, и рисует его портрет. Дориан Грей любуется получившимся великолепием и говорит, что было бы хорошо, если бы он всегда сохранял свою молодость, а старость отражалась лишь на портрете.
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Начал  читать  - примитивная сказка - автор в теме не разбирается. Попаданец в тело негра - "путь к славе" - "великий нагибатор" и т.д.
 
 * Маленький свободный народец ~ [Garka](users/115/115753719718250012620-google)<sup>272</sup>
-    > Нак-мак-Фигли, Тиффани (ведьма девяти лет), Снежная Королева
 
 * Булгаков, М.А. ~ [Garka](users/115/115753719718250012620-google)<sup>271</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
 
-* Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [](users/153/1537586159620888-facebook)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>100</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>156</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>837</sup> 
 
 
-_10.01.2021 11:17:03_
+_10.01.2021 11:39:40_
