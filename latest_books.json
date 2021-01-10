@@ -1,4 +1,16 @@
 {
+    "-xMP6L6d_I": {
+        "id": "-xMP6L6d_I",
+        "title": "Чистый код",
+        "author": "Роберт Мартин",
+        "notes": "Классика литературы по программированию - musthave",
+        "createdAt": "2021-01-10 17:07:18",
+        "user": {
+            "id": "113010305809091482859-google",
+            "nickname": "ksercs",
+            "booksCount": 11
+        }
+    },
     "CCc17CHeTb": {
         "id": "CCc17CHeTb",
         "title": "Гормоны счастья. Как приучить мозг вырабатывать серотонин, дофамин, эндорфин и окситоцин",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 54
-        }
-    },
-    "FYKURpfSH1": {
-        "id": "FYKURpfSH1",
-        "title": "Коварный удар",
-        "author": "Джеймс Хэдли Чейз",
-        "notes": "",
-        "createdAt": "2021-01-08 13:29:09",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 53
         }
     }
 }
