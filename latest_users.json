@@ -1,4 +1,10 @@
 {
+    "113479058458145129271-google": {
+        "id": "113479058458145129271-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-01-11 06:21:20"
+    },
     "113010305809091482859-google": {
         "id": "113010305809091482859-google",
         "nickname": "ksercs",
@@ -172,11 +178,5 @@
         "nickname": "Пу_тем",
         "booksCount": 9,
         "updatedAt": "2020-12-31 03:04:13"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 4,
-        "updatedAt": "2020-12-30 22:27:27"
     }
 }
