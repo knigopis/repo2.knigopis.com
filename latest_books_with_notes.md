@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
 * Почему я отвлекаюсь. Как распознать синдром дефецита внимания у взрослых и детей (Аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>3</sup>
 * Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
 * Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Зов кукушки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>250</sup>
 * Уровень темных ~ [Chiffi](users/105/105831994080785626680-google)<sup>249</sup>
-* Ментальный факультатив ~ [Chiffi](users/105/105831994080785626680-google)<sup>248</sup>
 
 
-_11.01.2021 11:30:49_
+_11.01.2021 11:36:17_
