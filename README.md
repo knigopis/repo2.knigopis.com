@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Надежда](users/459/45982434-vkontakte)<sup>0</sup> 
 [](users/387/387727576-vkontakte)<sup>0</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>4</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
-[книголав](users/981/981907258513659-facebook)<sup>0</sup> 
 
 
-_11.01.2021 12:08:06_
+_11.01.2021 16:30:34_
