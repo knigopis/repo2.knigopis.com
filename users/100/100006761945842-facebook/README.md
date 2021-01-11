@@ -1,7 +1,12 @@
-# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>1</sup>
+# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>2</sup>
 ---
 
 ## 2021
+
+### Сила интровертов, как использовать свои странности на пользу делу (Аудио)
+Лёкен Сильвия
+> [2021-01-10] 
+
 
 ### Как стать бизнесменом (Аудио)
 Тиньков Олег
