@@ -1,4 +1,16 @@
 {
+    "v__qba331R": {
+        "id": "v__qba331R",
+        "title": "Божественная комедия (дочитать)",
+        "author": "Данте Алигьери",
+        "notes": "",
+        "createdAt": "2021-01-11 23:45:54",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 34
+        }
+    },
     "hiWiCfWvSj": {
         "id": "hiWiCfWvSj",
         "title": "Владычица озера (дочитать)",
@@ -345,18 +357,6 @@
             "id": "113010305809091482859-google",
             "nickname": "ksercs",
             "booksCount": 12
-        }
-    },
-    "-xMP6L6d_I": {
-        "id": "-xMP6L6d_I",
-        "title": "Чистый код",
-        "author": "Роберт Мартин",
-        "notes": "Классика литературы по программированию - musthave",
-        "createdAt": "2021-01-10 17:07:18",
-        "user": {
-            "id": "113010305809091482859-google",
-            "nickname": "ksercs",
-            "booksCount": 11
         }
     }
 }
