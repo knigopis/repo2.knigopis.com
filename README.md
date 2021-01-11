@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Somik](users/100/100006761945842-facebook)<sup>1</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
 [](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>200</sup> 
 [rNix](users/227/22742452-yandex)<sup>70</sup> 
-[Somik](users/100/100006761945842-facebook)<sup>0</sup> 
 [книголав](users/981/981907258513659-facebook)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 
 
-_11.01.2021 06:59:54_
+_11.01.2021 11:25:39_
