@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Почему я отвлекаюсь. Как распознать синдром дефецита внимания у взрослых и детей (Аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>3</sup>
+    > 15 глава - можна кучу для школи взяти. Потрібно знайти текстовий варіант.
+
 * Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
     > Очень простое, нежное бытовое описание жизни мелкой аристократии в России.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Трагическая история про обращение с сумашедшими в царской России в глубинке.
 
 * Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
-    > Трагично, но, как будто, справедливость возобладала.
 
 * Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Император Африки  (4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>6</sup>
 
-* Маленький свободный народец ~ [Garka](users/115/115753719718250012620-google)<sup>272</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Somik](users/100/100006761945842-facebook)<sup>2</sup> 
+[Somik](users/100/100006761945842-facebook)<sup>3</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
 [](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 
 
-_11.01.2021 11:27:49_
+_11.01.2021 11:30:49_
