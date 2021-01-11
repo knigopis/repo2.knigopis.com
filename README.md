@@ -57,6 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/113/113479058458145129271-google)<sup>0</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>2</sup> 
@@ -86,7 +87,6 @@ _More notes [here](latest_books_with_notes.md)._
 [книголав](users/981/981907258513659-facebook)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>4</sup> 
 
 
-_10.01.2021 17:13:16_
+_11.01.2021 06:21:20_
