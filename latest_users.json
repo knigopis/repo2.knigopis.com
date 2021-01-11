@@ -1,4 +1,10 @@
 {
+    "387727576-vkontakte": {
+        "id": "387727576-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-01-11 12:08:05"
+    },
     "100006761945842-facebook": {
         "id": "100006761945842-facebook",
         "nickname": "Somik",
@@ -172,11 +178,5 @@
         "nickname": "книголав",
         "booksCount": 0,
         "updatedAt": "2021-01-02 20:32:23"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 71,
-        "updatedAt": "2021-01-02 13:18:43"
     }
 }
