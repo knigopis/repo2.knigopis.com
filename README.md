@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>31</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>32</sup> 
 [](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 
 
-_11.01.2021 06:55:34_
+_11.01.2021 06:55:47_
