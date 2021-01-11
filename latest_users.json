@@ -1,4 +1,10 @@
 {
+    "139267376-vkontakte": {
+        "id": "139267376-vkontakte",
+        "nickname": "alastar13",
+        "booksCount": 0,
+        "updatedAt": "2021-01-11 17:00:36"
+    },
     "45982434-vkontakte": {
         "id": "45982434-vkontakte",
         "nickname": "Надежда",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 200,
         "updatedAt": "2021-01-04 11:08:28"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 70,
-        "updatedAt": "2021-01-04 06:00:10"
     }
 }
