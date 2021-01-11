@@ -1,4 +1,16 @@
 {
+    "jYU2KE2lnD": {
+        "id": "jYU2KE2lnD",
+        "title": "Палата №6",
+        "author": "Антон Чехов",
+        "notes": "Трагическая история про обращение с сумашедшими в царской России в глубинке.",
+        "createdAt": "2021-01-11 06:53:49",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 29
+        }
+    },
     "xypTZU2LI1": {
         "id": "xypTZU2LI1",
         "title": "Дуэль",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 247
-        }
-    },
-    "keNCy8t-nz": {
-        "id": "keNCy8t-nz",
-        "title": "Проклятый ректор",
-        "author": "Обухова Лена",
-        "notes": "Очень милое фентези. Продолжение Орги",
-        "createdAt": "2020-12-11 19:25:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 246
         }
     }
 }
