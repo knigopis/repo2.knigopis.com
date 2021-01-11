@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
+    > Очень простое, нежное бытовое описание жизни мелкой аристократии в России.
+
 * Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
     > Трагическая история про обращение с сумашедшими в царской России в глубинке.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Трагично, но, как будто, справедливость возобладала.
 
 * Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
-    > Психологически правдивое изложение будней стареющего профессора.
 
 * Степь ~ [darb_el](users/184/184135339-vkontakte)<sup>26</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маленький свободный народец ~ [Garka](users/115/115753719718250012620-google)<sup>272</sup>
 
-* Булгаков, М.А. ~ [Garka](users/115/115753719718250012620-google)<sup>271</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>29</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>30</sup> 
 [](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 
 
-_11.01.2021 06:53:49_
+_11.01.2021 06:55:05_

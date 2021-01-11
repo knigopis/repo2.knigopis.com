@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
 * Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
 * Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
 * Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Уровень темных ~ [Chiffi](users/105/105831994080785626680-google)<sup>249</sup>
 * Ментальный факультатив ~ [Chiffi](users/105/105831994080785626680-google)<sup>248</sup>
 * Жажда ~ [dmiro](users/571/5714115-vkontakte)<sup>38</sup>
-* Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
 
 
-_11.01.2021 06:53:49_
+_11.01.2021 06:55:05_
