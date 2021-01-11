@@ -1,4 +1,16 @@
 {
+    "dxMuwzVnHQ": {
+        "id": "dxMuwzVnHQ",
+        "title": "Макулатура (дочитать)",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2021-01-11 23:36:58",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 31
+        }
+    },
     "UDo4hFZ3Ql": {
         "id": "UDo4hFZ3Ql",
         "title": "Стиль",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 48
-        }
-    },
-    "1OHDXZM7MK": {
-        "id": "1OHDXZM7MK",
-        "title": "",
-        "author": "Марсель Жуандо “Размышления о старости и смерти”",
-        "notes": "",
-        "createdAt": "2021-01-10 13:51:45",
-        "user": {
-            "id": "108324375224819470216-google",
-            "nickname": "Shimpanze",
-            "booksCount": 2
         }
     }
 }
