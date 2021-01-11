@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
+    > Психологически правдивое изложение будней стареющего профессора.
+
 * Степь ~ [darb_el](users/184/184135339-vkontakte)<sup>26</sup>
     > Очаровательное описание природы и простого быта.
 
@@ -34,7 +37,6 @@ Do not use pull requests to make changes here.
     > 931 розыск с Великок
 
 * Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
-    > 9/10 Робин и Страйк расследуют события 40-ти летней давности.
 
 * Портрет Дориана Грея ~ [kissamasya](users/684/68439978-vkontakte)<sup>100</sup>
 
@@ -48,14 +50,12 @@ Do not use pull requests to make changes here.
 
 * Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
 
-* Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>26</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>27</sup> 
 [](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
@@ -87,4 +87,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 
 
-_11.01.2021 06:50:18_
+_11.01.2021 06:51:13_

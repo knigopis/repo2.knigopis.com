@@ -1,4 +1,16 @@
 {
+    "apn6IvwjGC": {
+        "id": "apn6IvwjGC",
+        "title": "Скучная история",
+        "author": "Антон Чехов",
+        "notes": "Психологически правдивое изложение будней стареющего профессора.",
+        "createdAt": "2021-01-11 06:51:13",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 27
+        }
+    },
     "hC4-NsOX4v": {
         "id": "hC4-NsOX4v",
         "title": "Степь",
@@ -345,18 +357,6 @@
             "id": "111527709134336877181-googleplus",
             "nickname": "kosipel",
             "booksCount": 3
-        }
-    },
-    "WLL85kl_pf": {
-        "id": "WLL85kl_pf",
-        "title": "Огненный Факультет",
-        "author": "Алекс Кош",
-        "notes": "",
-        "createdAt": "2021-01-09 15:49:19",
-        "user": {
-            "id": "111527709134336877181-googleplus",
-            "nickname": "kosipel",
-            "booksCount": 2
         }
     }
 }
