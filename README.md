@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
+    > Трагично, но, как будто, справедливость возобладала.
+
 * Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
     > Психологически правдивое изложение будней стареющего профессора.
 
@@ -12,29 +15,6 @@ Do not use pull requests to make changes here.
     > Очаровательное описание природы и простого быта.
 
 * Родимый край 1970-1972 ~ [mfevralev](users/140/140966150-vkontakte)<sup>48</sup>
-    > 16 Разин
-    > 35 Репин
-    > 70 Разин
-    > 121 красный командующий Губарев
-    > 201 Михайликов Великокняжеская
-    > 270 Великокняжеская
-    > 276 казачья литра
-    > 329 Лемнос
-    > 334 крохи казачьей истории
-    > 345 востание в СКО
-    > 369 ранен на каменом мосту
-    > 389 гибель Чернецова
-    > 396 востание в СКО
-    > 400 смерь Маркова под Шаблиевкой
-    > 445 бои у Платовской и про Буденного
-    > 499 гибиль коницы Павлова
-    > 533 Булаткин и Попов родня
-    > 537 казенный мост
-    > 558 гибель коницы Павлова
-    > 613 поход на Торговую
-    > 735 в Сальских степях
-    > 908 надпись на памятнике
-    > 931 розыск с Великок
 
 * Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
 
@@ -48,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
 
-* Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>27</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>28</sup> 
 [](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
@@ -87,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>71</sup> 
 
 
-_11.01.2021 06:51:13_
+_11.01.2021 06:52:40_

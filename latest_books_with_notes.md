@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
 * Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
 * Степь ~ [darb_el](users/184/184135339-vkontakte)<sup>26</sup>
 * Родимый край 1970-1972 ~ [mfevralev](users/140/140966150-vkontakte)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Жажда ~ [dmiro](users/571/5714115-vkontakte)<sup>38</sup>
 * Академия легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>247</sup>
 * Проклятый ректор ~ [Chiffi](users/105/105831994080785626680-google)<sup>246</sup>
-* Демиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>68</sup>
 
 
-_11.01.2021 06:51:13_
+_11.01.2021 06:52:40_

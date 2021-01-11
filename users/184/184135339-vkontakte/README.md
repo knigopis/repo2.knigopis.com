@@ -1,7 +1,12 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>27</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>28</sup>
 ---
 
 ## 2020
+
+### Дуэль
+Антон Чехов
+> [2020-10] Трагично, но, как будто, справедливость возобладала.
+
 
 ### Скучная история
 Антон Чехов
