@@ -1,4 +1,16 @@
 {
+    "pCResdQz_F": {
+        "id": "pCResdQz_F",
+        "title": "Шелкопряд",
+        "author": "Роберт Гэлбрейт",
+        "notes": "",
+        "createdAt": "2021-01-11 06:42:14",
+        "user": {
+            "id": "113479058458145129271-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "PwcvfuBG4F": {
         "id": "PwcvfuBG4F",
         "title": "Зов кукушки",
@@ -345,18 +357,6 @@
             "id": "111527709134336877181-googleplus",
             "nickname": "kosipel",
             "booksCount": 1
-        }
-    },
-    "mW4RtIiOBp": {
-        "id": "mW4RtIiOBp",
-        "title": "Быть эгоистом. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2021-01-08 21:16:11",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 76
         }
     }
 }

@@ -57,7 +57,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/113/113479058458145129271-google)<sup>1</sup> 
+[](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>2</sup> 
@@ -89,4 +89,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>9</sup> 
 
 
-_11.01.2021 06:23:44_
+_11.01.2021 06:42:14_
