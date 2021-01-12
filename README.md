@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/747/7476864-vkontakte)<sup>0</sup> 
 [jane](users/113/113479058458145129271-google)<sup>3</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 [alastar13](users/139/139267376-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>53</sup> 
 [](users/115/115606166526017510013-google)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 
 
-_12.01.2021 18:56:06_
+_12.01.2021 20:19:30_
