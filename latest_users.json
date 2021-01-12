@@ -1,4 +1,10 @@
 {
+    "113479058458145129271-google": {
+        "id": "113479058458145129271-google",
+        "nickname": "jane",
+        "booksCount": 3,
+        "updatedAt": "2021-01-12 18:56:06"
+    },
     "233860015-vkontakte": {
         "id": "233860015-vkontakte",
         "nickname": "dghtt",
@@ -34,12 +40,6 @@
         "nickname": "darb_el",
         "booksCount": 41,
         "updatedAt": "2021-01-11 06:59:54"
-    },
-    "113479058458145129271-google": {
-        "id": "113479058458145129271-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2021-01-11 06:42:14"
     },
     "113010305809091482859-google": {
         "id": "113010305809091482859-google",

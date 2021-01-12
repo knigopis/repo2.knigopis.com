@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jane](users/113/113479058458145129271-google)<sup>3</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 [alastar13](users/139/139267376-vkontakte)<sup>0</sup> 
 [Надежда](users/459/45982434-vkontakte)<sup>0</sup> 
 [](users/387/387727576-vkontakte)<sup>0</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>4</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
-[](users/113/113479058458145129271-google)<sup>2</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>9</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>133</sup> 
 
 
-_11.01.2021 23:45:54_
+_12.01.2021 18:56:06_
