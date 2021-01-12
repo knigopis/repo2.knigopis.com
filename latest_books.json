@@ -1,4 +1,16 @@
 {
+    "aEhKuJoEkQ": {
+        "id": "aEhKuJoEkQ",
+        "title": "Летос",
+        "author": "Пехов",
+        "notes": "",
+        "createdAt": "2021-01-12 20:22:30",
+        "user": {
+            "id": "7476864-vkontakte",
+            "nickname": "Александр Протасов",
+            "booksCount": 1
+        }
+    },
     "woFIq9X4rK": {
         "id": "woFIq9X4rK",
         "title": "На службе зла",
@@ -345,18 +357,6 @@
             "id": "113010305809091482859-google",
             "nickname": "ksercs",
             "booksCount": 14
-        }
-    },
-    "y02YrHWPYz": {
-        "id": "y02YrHWPYz",
-        "title": "Все хреново",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2021-01-10 17:08:15",
-        "user": {
-            "id": "113010305809091482859-google",
-            "nickname": "ksercs",
-            "booksCount": 13
         }
     }
 }

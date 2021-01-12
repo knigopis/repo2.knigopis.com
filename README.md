@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/747/7476864-vkontakte)<sup>0</sup> 
+[Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
 [jane](users/113/113479058458145129271-google)<sup>3</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 [alastar13](users/139/139267376-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 
 
-_12.01.2021 20:19:30_
+_12.01.2021 20:22:30_
