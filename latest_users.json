@@ -1,4 +1,10 @@
 {
+    "7476864-vkontakte": {
+        "id": "7476864-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-01-12 20:19:30"
+    },
     "113479058458145129271-google": {
         "id": "113479058458145129271-google",
         "nickname": "jane",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 119,
         "updatedAt": "2021-01-05 22:31:50"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ..",
-        "booksCount": 133,
-        "updatedAt": "2021-01-04 15:09:21"
     }
 }
