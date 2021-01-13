@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
+    > Цикл из 2? книг
+    > Альтернативка. Вместо Николая II  оказался Сталин
+
 * Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
     > Цикл из 4 книг
     > Пападанство
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > My first English book
 
 * Почему я отвлекаюсь. Как распознать синдром дефецита внимания у взрослых и детей (Аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>3</sup>
-    > 15 глава - можна кучу для школи взяти. Потрібно знайти текстовий варіант.
 
 * Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
 
@@ -29,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Родимый край 1970-1972 ~ [mfevralev](users/140/140966150-vkontakte)<sup>48</sup>
 
-* Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>7</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>8</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
 [jane](users/113/113479058458145129271-google)<sup>3</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
@@ -68,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 
 
-_13.01.2021 03:55:10_
+_13.01.2021 03:58:21_
