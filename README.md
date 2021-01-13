@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>8</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
 [jane](users/113/113479058458145129271-google)<sup>3</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup> 
 [youno](users/302/302928912-vkontakte)<sup>53</sup> 
 [](users/115/115606166526017510013-google)<sup>1</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 
 
-_13.01.2021 03:58:21_
+_13.01.2021 06:21:23_
