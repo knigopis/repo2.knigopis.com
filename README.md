@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>8</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>100</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>114</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115606166526017510013-google)<sup>1</sup> 
 
 
-_13.01.2021 06:21:23_
+_13.01.2021 07:00:34_
