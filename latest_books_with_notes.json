@@ -1,4 +1,16 @@
 {
+    "ltlYWX1kKx": {
+        "id": "ltlYWX1kKx",
+        "title": "Регрессор в СССР",
+        "author": "Арх Максим",
+        "notes": "Цикл из 4 книг\nПападанство\nАвтор - \"сделал\" из главного героя \"придурка малолетнего\" Музыка, ВИА, Шолохов (МВД) - (слава, деньги) сломался на 2 книге\nОценка 3-",
+        "createdAt": "2021-01-13 03:55:10",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 7
+        }
+    },
     "s1axAKV_DE": {
         "id": "s1axAKV_DE",
         "title": "Hungry games (English)",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 250
-        }
-    },
-    "U3JtMCmlzC": {
-        "id": "U3JtMCmlzC",
-        "title": "Уровень темных",
-        "author": "Обухова Лена",
-        "notes": "6 окончание серии. Хэппи енд. Приятные впечатления от всей серии.",
-        "createdAt": "2020-12-15 18:07:07",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 249
         }
     }
 }

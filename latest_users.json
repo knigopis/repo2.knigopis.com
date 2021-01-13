@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 7,
+        "updatedAt": "2021-01-13 03:55:10"
+    },
     "7476864-vkontakte": {
         "id": "7476864-vkontakte",
         "nickname": "Александр Протасов",
@@ -94,12 +100,6 @@
         "nickname": "4apa",
         "booksCount": 74,
         "updatedAt": "2021-01-10 09:08:17"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 6,
-        "updatedAt": "2021-01-10 06:41:04"
     },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",

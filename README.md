@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
+    > Цикл из 4 книг
+    > Пападанство
+    > Автор - "сделал" из главного героя "придурка малолетнего" Музыка, ВИА, Шолохов (МВД) - (слава, деньги) сломался на 2 книге
+    > Оценка 3-
+
 * Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
     > My first English book
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > 15 глава - можна кучу для школи взяти. Потрібно знайти текстовий варіант.
 
 * Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
-    > Очень простое, нежное бытовое описание жизни мелкой аристократии в России.
 
 * Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
 
@@ -26,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
 
-* Портрет Дориана Грея ~ [kissamasya](users/684/68439978-vkontakte)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>7</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
 [jane](users/113/113479058458145129271-google)<sup>3</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
@@ -49,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>100</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>6</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>114</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>119</sup> 
 
 
-_12.01.2021 20:22:30_
+_13.01.2021 03:55:10_
