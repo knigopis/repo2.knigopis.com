@@ -1,4 +1,10 @@
 {
+    "113479058458145129271-google": {
+        "id": "113479058458145129271-google",
+        "nickname": "jane",
+        "booksCount": 4,
+        "updatedAt": "2021-01-14 11:37:04"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -34,12 +40,6 @@
         "nickname": "Александр Протасов",
         "booksCount": 1,
         "updatedAt": "2021-01-12 20:22:30"
-    },
-    "113479058458145129271-google": {
-        "id": "113479058458145129271-google",
-        "nickname": "jane",
-        "booksCount": 3,
-        "updatedAt": "2021-01-12 18:56:06"
     },
     "233860015-vkontakte": {
         "id": "233860015-vkontakte",

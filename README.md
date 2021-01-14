@@ -37,13 +37,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jane](users/113/113479058458145129271-google)<sup>4</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>235</sup> 
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>8</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
-[jane](users/113/113479058458145129271-google)<sup>3</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 [alastar13](users/139/139267376-vkontakte)<sup>0</sup> 
 [Надежда](users/459/45982434-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup> 
 
 
-_14.01.2021 09:04:31_
+_14.01.2021 11:37:04_
