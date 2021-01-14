@@ -1,7 +1,11 @@
-# List of books read by andrey.semyonkin<sup>1</sup>
+# List of books read by andrey.semyonkin<sup>2</sup>
 ---
 
 ## 2021
+
+### Бульдог: Экзамен на зрелость
+Калбазов Константин
+
 
 ### Бульдог: В начале пути
 Калбазов Константин
