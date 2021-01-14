@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
+    > Аудиокнига
+
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
     > Цикл из 2? книг
     > Альтернативка. Вместо Николая II  оказался Сталин
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 3-
 
 * Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
-    > My first English book
 
 * Почему я отвлекаюсь. Как распознать синдром дефецита внимания у взрослых и детей (Аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>3</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Степь ~ [darb_el](users/184/184135339-vkontakte)<sup>26</sup>
 
-* Родимый край 1970-1972 ~ [mfevralev](users/140/140966150-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>273</sup> 
 [](users/105/105111610427730505830-google)<sup>3</sup> 
 [jane](users/113/113479058458145129271-google)<sup>4</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>235</sup> 
@@ -62,11 +63,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>272</sup> 
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>152</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>400</sup> 
 
 
-_14.01.2021 15:39:17_
+_14.01.2021 17:18:37_

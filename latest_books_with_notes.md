@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
 * Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
 * Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
@@ -30,7 +31,6 @@
 * Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
 * Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 * На службе зла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
-* Зов кукушки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 
 
-_13.01.2021 03:58:21_
+_14.01.2021 17:18:37_
