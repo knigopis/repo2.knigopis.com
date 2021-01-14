@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 235,
+        "updatedAt": "2021-01-14 09:04:31"
+    },
     "1317010534-yandex": {
         "id": "1317010534-yandex",
         "nickname": "andrey.semyonkin",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 157,
         "updatedAt": "2021-01-07 10:31:45"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 53,
-        "updatedAt": "2021-01-07 10:29:42"
     }
 }
