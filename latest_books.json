@@ -1,4 +1,16 @@
 {
+    "nvoZ1xHaKw": {
+        "id": "nvoZ1xHaKw",
+        "title": "Бульдог: Хватка",
+        "author": "Калбазов Константин",
+        "notes": "",
+        "createdAt": "2021-01-14 05:13:10",
+        "user": {
+            "id": "1317010534-yandex",
+            "nickname": "andrey.semyonkin",
+            "booksCount": 3
+        }
+    },
     "ACvpVQaX_c": {
         "id": "ACvpVQaX_c",
         "title": "Бульдог: Экзамен на зрелость",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 30
-        }
-    },
-    "jYU2KE2lnD": {
-        "id": "jYU2KE2lnD",
-        "title": "Палата №6",
-        "author": "Антон Чехов",
-        "notes": "Трагическая история про обращение с сумашедшими в царской России в глубинке.",
-        "createdAt": "2021-01-11 06:53:49",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 29
         }
     }
 }

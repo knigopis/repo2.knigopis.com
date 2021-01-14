@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[andrey.semyonkin](users/131/1317010534-yandex)<sup>2</sup> 
+[andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>8</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>53</sup> 
 
 
-_14.01.2021 05:12:46_
+_14.01.2021 05:13:10_
