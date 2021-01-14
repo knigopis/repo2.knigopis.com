@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/105/105111610427730505830-google)<sup>0</sup> 
+[](users/105/105111610427730505830-google)<sup>1</sup> 
 [jane](users/113/113479058458145129271-google)<sup>4</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>235</sup> 
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>400</sup> 
 
 
-_14.01.2021 15:35:35_
+_14.01.2021 15:37:11_
