@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
+    > Альтернативка
+
 * Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
     > Аудиокнига
 
@@ -13,10 +16,6 @@ Do not use pull requests to make changes here.
     > Альтернативка. Вместо Николая II  оказался Сталин
 
 * Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
-    > Цикл из 4 книг
-    > Пападанство
-    > Автор - "сделал" из главного героя "придурка малолетнего" Музыка, ВИА, Шолохов (МВД) - (слава, деньги) сломался на 2 книге
-    > Оценка 3-
 
 * Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
 
@@ -30,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
 
-* Степь ~ [darb_el](users/184/184135339-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>9</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>236</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>273</sup> 
 [](users/105/105111610427730505830-google)<sup>3</sup> 
@@ -44,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>8</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 [alastar13](users/139/139267376-vkontakte)<sup>0</sup> 
@@ -69,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>400</sup> 
 
 
-_15.01.2021 04:08:31_
+_15.01.2021 12:31:09_
