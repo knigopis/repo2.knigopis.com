@@ -1,4 +1,16 @@
 {
+    "wBMsVB3oZV": {
+        "id": "wBMsVB3oZV",
+        "title": "Антология смеха",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2021-01-15 04:08:30",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 236
+        }
+    },
     "7g8FqrS0r9": {
         "id": "7g8FqrS0r9",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 37
-        }
-    },
-    "nVKxRULiV-": {
-        "id": "nVKxRULiV-",
-        "title": "В овраге",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2021-01-11 06:56:52",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 36
         }
     }
 }

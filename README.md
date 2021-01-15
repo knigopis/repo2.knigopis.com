@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>236</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>273</sup> 
 [](users/105/105111610427730505830-google)<sup>3</sup> 
 [jane](users/113/113479058458145129271-google)<sup>4</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>235</sup> 
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>400</sup> 
 
 
-_14.01.2021 17:18:37_
+_15.01.2021 04:08:31_
