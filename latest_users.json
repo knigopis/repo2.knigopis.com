@@ -1,4 +1,10 @@
 {
+    "186717452-vkontakte": {
+        "id": "186717452-vkontakte",
+        "nickname": "alisher138",
+        "booksCount": 0,
+        "updatedAt": "2021-01-15 21:32:38"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 62,
         "updatedAt": "2021-01-07 16:03:45"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 400,
-        "updatedAt": "2021-01-07 14:17:00"
     }
 }
