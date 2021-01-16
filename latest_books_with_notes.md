@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
 * Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
 * На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
 * Ночная стража ~ [Garka](users/115/115753719718250012620-google)<sup>269</sup>
-* Фактологичность. Десять причин наших заблуждений о мире – и почему все не так плохо, как кажется ~ [dmiro](users/571/5714115-vkontakte)<sup>39</sup>
 
 
-_16.01.2021 20:21:29_
+_16.01.2021 21:51:37_

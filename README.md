@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
+    > Про почтальёна и исполнившееся желание.
+
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
     > Четыре рассказа.
     > 1) Мобильник в могиле.
@@ -16,8 +19,6 @@ Do not use pull requests to make changes here.
     > Повесть американского писателя Эрнеста Хемингуэя, написанная в Бимини и вышедшая в 1952 году. Последнее известное художественное произведение Хемингуэя, опубликованное при его жизни. Рассказывает историю старика Сантьяго, кубинского рыбака о его борьбе в открытом море с гигантским марлином, который стал самой большой добычей в его жизни
 
 * Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
-    > Серия из 3 книг
-    > Боевая фантастика. Про девушку борющуюся с монстрами в каньоне который разделяет страну на 2 части и про любовь к  "другу"  с которым жила с детства.
 
 * Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
 
@@ -31,15 +32,13 @@ Do not use pull requests to make changes here.
 
 * Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
 
-* Почему я отвлекаюсь. Как распознать синдром дефецита внимания у взрослых и детей (Аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>10</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
@@ -70,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
 
 
-_16.01.2021 21:25:19_
+_16.01.2021 21:51:37_
