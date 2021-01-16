@@ -1,12 +1,9 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>55</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>54</sup>
 ---
 
 ## 2020
 
 ### фыва
-
-
-### asdf
 
 
 ### asdf
