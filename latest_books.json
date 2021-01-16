@@ -1,4 +1,16 @@
 {
+    "5BbZXcU15P": {
+        "id": "5BbZXcU15P",
+        "title": "Будет кровь",
+        "author": "Стивен Кинг",
+        "notes": "Четыре рассказа.\n1) Мобильник в могиле.\n2) Чак и его мир\n3) История про Холли Гибни.\n4) Крыса.",
+        "createdAt": "2021-01-16 20:21:29",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 158
+        }
+    },
     "Y7r-A11Wjv": {
         "id": "Y7r-A11Wjv",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "100006761945842-facebook",
             "nickname": "Somik",
             "booksCount": 2
-        }
-    },
-    "3M5AWif5t8": {
-        "id": "3M5AWif5t8",
-        "title": "Как стать бизнесменом (Аудио)",
-        "author": "Тиньков Олег",
-        "notes": "",
-        "createdAt": "2021-01-11 11:25:39",
-        "user": {
-            "id": "100006761945842-facebook",
-            "nickname": "Somik",
-            "booksCount": 1
         }
     }
 }

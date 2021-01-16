@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 158,
+        "updatedAt": "2021-01-16 20:21:29"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 55,
         "updatedAt": "2021-01-08 20:55:30"
-    },
-    "328412972-yandex": {
-        "id": "328412972-yandex",
-        "nickname": "Evgeneva-VM",
-        "booksCount": 0,
-        "updatedAt": "2021-01-07 20:03:46"
     }
 }

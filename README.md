@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
+    > Четыре рассказа.
+    > 1) Мобильник в могиле.
+    > 2) Чак и его мир
+    > 3) История про Холли Гибни.
+    > 4) Крыса.
+
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
     > Повесть американского писателя Эрнеста Хемингуэя, написанная в Бимини и вышедшая в 1952 году. Последнее известное художественное произведение Хемингуэя, опубликованное при его жизни. Рассказывает историю старика Сантьяго, кубинского рыбака о его борьбе в открытом море с гигантским марлином, который стал самой большой добычей в его жизни
 
@@ -13,7 +20,6 @@ Do not use pull requests to make changes here.
     > Боевая фантастика. Про девушку борющуюся с монстрами в каньоне который разделяет страну на 2 части и про любовь к  "другу"  с которым жила с детства.
 
 * Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
-    > Скучно, сумбурно, половина книги нытьё и жалобы на тяжёлую судьбу хирурга
 
 * Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
 
@@ -27,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Почему я отвлекаюсь. Как распознать синдром дефецита внимания у взрослых и детей (Аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>3</sup>
 
-* Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>10</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
@@ -63,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
-[Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 
 
-_16.01.2021 17:27:14_
+_16.01.2021 20:21:29_
