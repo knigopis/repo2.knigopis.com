@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>54</sup> 
+[me](users/381/381417697-yandex)<sup>53</sup> 
 [](users/111/111684698299760577816-google)<sup>0</sup> 
 [alisher138](users/186/186717452-vkontakte)<sup>1</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>9</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 
 
-_16.01.2021 14:43:26_
+_16.01.2021 14:43:36_
