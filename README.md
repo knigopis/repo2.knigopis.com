@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
+    > Скучно, сумбурно, половина книги нытьё и жалобы на тяжёлую судьбу хирурга
+
 * Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
     > Альтернативка
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Аудиокнига
 
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
-    > Цикл из 2? книг
-    > Альтернативка. Вместо Николая II  оказался Сталин
 
 * Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
 
@@ -27,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
 
-* Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
 [](users/111/111684698299760577816-google)<sup>0</sup> 
 [alisher138](users/186/186717452-vkontakte)<sup>1</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>9</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>236</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>273</sup> 
 [](users/105/105111610427730505830-google)<sup>3</sup> 
 [jane](users/113/113479058458145129271-google)<sup>4</sup> 
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 
 
-_16.01.2021 14:43:42_
+_16.01.2021 16:15:46_

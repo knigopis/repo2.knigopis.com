@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
 * Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
 * Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Полный контроль ~ [Fenix](users/111/111367585493471720963-google)<sup>15</sup>
 * Всё хреново. Книга о надежде ~ [violet_velva](users/116/116961712580551399099-google)<sup>75</sup>
 * Оно ~ [vitasoft](users/474/47446642-vkontakte)<sup>12</sup>
-* Смертельная белизна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 
 
-_15.01.2021 12:31:09_
+_16.01.2021 16:15:46_
