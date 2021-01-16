@@ -1,4 +1,16 @@
 {
+    "6txDVKTvQ-": {
+        "id": "6txDVKTvQ-",
+        "title": "Гриши",
+        "author": "Бардуго Ли",
+        "notes": "Серия из 3 книг\nБоевая фантастика. Про девушку борющуюся с монстрами в каньоне который разделяет страну на 2 части и про любовь к  \"другу\"  с которым жила с детства.",
+        "createdAt": "2021-01-16 16:46:50",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 10
+        }
+    },
     "USApxX0vgq": {
         "id": "USApxX0vgq",
         "title": "Тяжелый случай",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 41
-        }
-    },
-    "NtJNH_cMS0": {
-        "id": "NtJNH_cMS0",
-        "title": "Пиковая дама",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-01-11 06:59:43",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 40
         }
     }
 }

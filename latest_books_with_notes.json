@@ -1,4 +1,16 @@
 {
+    "6txDVKTvQ-": {
+        "id": "6txDVKTvQ-",
+        "title": "Гриши",
+        "author": "Бардуго Ли",
+        "notes": "Серия из 3 книг\nБоевая фантастика. Про девушку борющуюся с монстрами в каньоне который разделяет страну на 2 части и про любовь к  \"другу\"  с которым жила с детства.",
+        "createdAt": "2021-01-16 16:46:50",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 10
+        }
+    },
     "USApxX0vgq": {
         "id": "USApxX0vgq",
         "title": "Тяжелый случай",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 75
-        }
-    },
-    "-RZhb4StzA": {
-        "id": "-RZhb4StzA",
-        "title": "Оно",
-        "author": "Стивен Кинг",
-        "notes": "audio",
-        "createdAt": "2020-12-25 19:02:21",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 12
         }
     }
 }

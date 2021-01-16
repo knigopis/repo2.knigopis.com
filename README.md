@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
+    > Серия из 3 книг
+    > Боевая фантастика. Про девушку борющуюся с монстрами в каньоне который разделяет страну на 2 части и про любовь к  "другу"  с которым жила с детства.
+
 * Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
     > Скучно, сумбурно, половина книги нытьё и жалобы на тяжёлую судьбу хирурга
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Альтернативка
 
 * Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
-    > Аудиокнига
 
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
 
@@ -26,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
 
-* Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>10</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
 [](users/111/111684698299760577816-google)<sup>0</sup> 
 [alisher138](users/186/186717452-vkontakte)<sup>1</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>9</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>236</sup> 
 [](users/105/105111610427730505830-google)<sup>3</sup> 
 [jane](users/113/113479058458145129271-google)<sup>4</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 
 
-_16.01.2021 16:15:46_
+_16.01.2021 16:46:50_
