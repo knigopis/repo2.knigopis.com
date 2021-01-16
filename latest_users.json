@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 101,
+        "updatedAt": "2021-01-16 17:27:14"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -142,12 +148,6 @@
         "nickname": null,
         "booksCount": 30,
         "updatedAt": "2021-01-10 11:17:03"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 100,
-        "updatedAt": "2021-01-10 10:34:48"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",

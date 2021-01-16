@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
+    > Повесть американского писателя Эрнеста Хемингуэя, написанная в Бимини и вышедшая в 1952 году. Последнее известное художественное произведение Хемингуэя, опубликованное при его жизни. Рассказывает историю старика Сантьяго, кубинского рыбака о его борьбе в открытом море с гигантским марлином, который стал самой большой добычей в его жизни
+
 * Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
     > Серия из 3 книг
     > Боевая фантастика. Про девушку борющуюся с монстрами в каньоне который разделяет страну на 2 части и про любовь к  "другу"  с которым жила с детства.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Скучно, сумбурно, половина книги нытьё и жалобы на тяжёлую судьбу хирурга
 
 * Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
-    > Альтернативка
 
 * Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
 
-* Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>10</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>77</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [](users/153/1537586159620888-facebook)<sup>30</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>100</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 
 
-_16.01.2021 16:46:50_
+_16.01.2021 17:27:14_
