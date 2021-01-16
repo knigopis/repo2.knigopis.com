@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111684698299760577816-google)<sup>0</sup> 
 [alisher138](users/186/186717452-vkontakte)<sup>1</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>9</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>236</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
 [Evgeneva-VM](users/328/328412972-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>152</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup> 
 
 
-_15.01.2021 21:33:12_
+_16.01.2021 11:52:15_
