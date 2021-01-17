@@ -1,5 +1,9 @@
-# Wish list of books by [](https://plus.google.com/u/0/102857111133378678801/)
+# Wish list of books by [Rina](https://plus.google.com/u/0/102857111133378678801/)
 ---
+
+### `50` Ледяная царевна с Андреевского
+мадам Лузина
+> 315с.
 
 ### `` Дівчина та ніч
 Гійом Мюссо
