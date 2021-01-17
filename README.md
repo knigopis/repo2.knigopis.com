@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/271/2710776892572610-facebook)<sup>0</sup> 
 [](users/204/204820758928251021-mailru)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/387/387727576-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
-[Shimpanze](users/108/108324375224819470216-google)<sup>2</sup> 
 
 
-_17.01.2021 21:56:43_
+_17.01.2021 22:12:29_
