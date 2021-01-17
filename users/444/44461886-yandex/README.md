@@ -1,7 +1,13 @@
-# List of books read by dromoman2008<sup>10</sup>
+# List of books read by dromoman2008<sup>11</sup>
 ---
 
 ## 2021
+
+### Глэд
+Борисов Олег Николаевич
+> [2021-01-17] Серия из 3 книг
+> Фэнтези попаданство
+
 
 ### Гриши
 Бардуго Ли

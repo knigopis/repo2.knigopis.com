@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
 * Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
@@ -30,7 +31,6 @@
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
 * Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
 * На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
-* Ночная стража ~ [Garka](users/115/115753719718250012620-google)<sup>269</sup>
 
 
-_16.01.2021 21:51:37_
+_17.01.2021 06:12:20_

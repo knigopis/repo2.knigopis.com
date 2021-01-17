@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
+    > Серия из 3 книг
+    > Фэнтези попаданство
+
 * Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
     > Про почтальёна и исполнившееся желание.
 
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > 4) Крыса.
 
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
-    > Повесть американского писателя Эрнеста Хемингуэя, написанная в Бимини и вышедшая в 1952 году. Последнее известное художественное произведение Хемингуэя, опубликованное при его жизни. Рассказывает историю старика Сантьяго, кубинского рыбака о его борьбе в открытом море с гигантским марлином, который стал самой большой добычей в его жизни
 
 * Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
 
@@ -30,17 +33,15 @@ Do not use pull requests to make changes here.
 
 * Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
 
-* Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>10</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
 [](users/111/111684698299760577816-google)<sup>0</sup> 
@@ -69,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
 
 
-_16.01.2021 21:51:37_
+_17.01.2021 06:12:20_
