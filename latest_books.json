@@ -1,4 +1,16 @@
 {
+    "BgXHBrwIwH": {
+        "id": "BgXHBrwIwH",
+        "title": "Язык шипов",
+        "author": "Ли Бардуго",
+        "notes": "",
+        "createdAt": "2021-01-17 22:18:42",
+        "user": {
+            "id": "2710776892572610-facebook",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "gTLgixcW2F": {
         "id": "gTLgixcW2F",
         "title": "Продажное королевство",
@@ -345,18 +357,6 @@
             "id": "105111610427730505830-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "Ddo6xwwfNU": {
-        "id": "Ddo6xwwfNU",
-        "title": "А зори здесь тихие..",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2021-01-14 15:37:11",
-        "user": {
-            "id": "105111610427730505830-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
