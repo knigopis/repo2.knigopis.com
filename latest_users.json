@@ -1,4 +1,10 @@
 {
+    "100006761945842-facebook": {
+        "id": "100006761945842-facebook",
+        "nickname": "Somik",
+        "booksCount": 5,
+        "updatedAt": "2021-01-17 10:54:23"
+    },
     "102857111133378678801-google": {
         "id": "102857111133378678801-google",
         "nickname": "Rina",
@@ -124,12 +130,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-01-11 12:08:05"
-    },
-    "100006761945842-facebook": {
-        "id": "100006761945842-facebook",
-        "nickname": "Somik",
-        "booksCount": 4,
-        "updatedAt": "2021-01-11 11:36:17"
     },
     "184135339-vkontakte": {
         "id": "184135339-vkontakte",
