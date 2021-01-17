@@ -1,4 +1,16 @@
 {
+    "gTLgixcW2F": {
+        "id": "gTLgixcW2F",
+        "title": "Продажное королевство",
+        "author": "Ли Бардуго",
+        "notes": "",
+        "createdAt": "2021-01-17 22:18:16",
+        "user": {
+            "id": "2710776892572610-facebook",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "B1ZteiNh1b": {
         "id": "B1ZteiNh1b",
         "title": "Шестёрка воронов",
@@ -345,18 +357,6 @@
             "id": "105111610427730505830-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "ERVuxJqtY8": {
-        "id": "ERVuxJqtY8",
-        "title": "Смертельная белизна",
-        "author": "Роберт Гэлбрейт",
-        "notes": "Лучше чем третья, гораздо динамичнее,  и нет попытки шокировать неожиданным поворотом, как это любят все детективы.\n8/10",
-        "createdAt": "2021-01-14 11:37:04",
-        "user": {
-            "id": "113479058458145129271-google",
-            "nickname": "jane",
-            "booksCount": 4
         }
     }
 }
