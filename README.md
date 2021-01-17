@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[danyluk62](users/374/374149854-vkontakte)<sup>0</sup> 
+[danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup> 
 [jane](users/113/113479058458145129271-google)<sup>5</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>135</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 
 
-_17.01.2021 21:07:43_
+_17.01.2021 21:09:47_
