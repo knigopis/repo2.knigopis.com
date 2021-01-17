@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>78</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>6</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>153</sup> 
@@ -63,11 +64,10 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>2</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>77</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [](users/153/1537586159620888-facebook)<sup>30</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 
 
-_17.01.2021 10:57:05_
+_17.01.2021 15:45:37_

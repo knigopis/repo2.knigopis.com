@@ -1,4 +1,16 @@
 {
+    "jV08qOBQAL": {
+        "id": "jV08qOBQAL",
+        "title": "Психоаналитическая диагностика",
+        "author": "Нэнси Мак-Вильямс",
+        "notes": "",
+        "createdAt": "2021-01-17 15:45:37",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 78
+        }
+    },
     "k4biSPuJWL": {
         "id": "k4biSPuJWL",
         "title": "Я в порядке! Самопомощь при неврозах ВСД, панические аттаки, тревоги и страхи (Аудио)",
@@ -345,18 +357,6 @@
             "id": "113479058458145129271-google",
             "nickname": "jane",
             "booksCount": 3
-        }
-    },
-    "v__qba331R": {
-        "id": "v__qba331R",
-        "title": "Божественная комедия (дочитать)",
-        "author": "Данте Алигьери",
-        "notes": "",
-        "createdAt": "2021-01-11 23:45:54",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 34
         }
     }
 }
