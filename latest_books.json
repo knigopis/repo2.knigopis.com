@@ -1,4 +1,16 @@
 {
+    "df-VdaKYZk": {
+        "id": "df-VdaKYZk",
+        "title": "Дівчина та ніч",
+        "author": "Гійом Мюссо",
+        "notes": "288с.",
+        "createdAt": "2021-01-17 09:38:05",
+        "user": {
+            "id": "102857111133378678801-google",
+            "nickname": "Rina",
+            "booksCount": 1
+        }
+    },
     "ZRuMO3Dg_M": {
         "id": "ZRuMO3Dg_M",
         "title": "Записки о Гражданской войне 1917-1918 Книга первая",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 32
-        }
-    },
-    "dxMuwzVnHQ": {
-        "id": "dxMuwzVnHQ",
-        "title": "Макулатура (дочитать)",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2021-01-11 23:36:58",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 31
         }
     }
 }

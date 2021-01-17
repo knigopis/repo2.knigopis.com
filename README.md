@@ -38,8 +38,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>153</sup> 
-[](users/102/102857111133378678801-google)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 
 
-_17.01.2021 09:36:25_
+_17.01.2021 09:38:05_
