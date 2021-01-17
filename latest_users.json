@@ -1,4 +1,10 @@
 {
+    "113479058458145129271-google": {
+        "id": "113479058458145129271-google",
+        "nickname": "jane",
+        "booksCount": 5,
+        "updatedAt": "2021-01-17 18:32:50"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -88,12 +94,6 @@
         "nickname": null,
         "booksCount": 3,
         "updatedAt": "2021-01-14 15:39:17"
-    },
-    "113479058458145129271-google": {
-        "id": "113479058458145129271-google",
-        "nickname": "jane",
-        "booksCount": 4,
-        "updatedAt": "2021-01-14 11:37:04"
     },
     "1317010534-yandex": {
         "id": "1317010534-yandex",

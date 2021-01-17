@@ -1,4 +1,16 @@
 {
+    "RNtQv4td8h": {
+        "id": "RNtQv4td8h",
+        "title": "Дурная кровь",
+        "author": "Роберт Гэлбрейт",
+        "notes": "",
+        "createdAt": "2021-01-17 18:32:50",
+        "user": {
+            "id": "113479058458145129271-google",
+            "nickname": "jane",
+            "booksCount": 5
+        }
+    },
     "W-lnRSl2PC": {
         "id": "W-lnRSl2PC",
         "title": "Дама номер 13",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 8
-        }
-    },
-    "ltlYWX1kKx": {
-        "id": "ltlYWX1kKx",
-        "title": "Регрессор в СССР",
-        "author": "Арх Максим",
-        "notes": "Цикл из 4 книг\nПападанство\nАвтор - \"сделал\" из главного героя \"придурка малолетнего\" Музыка, ВИА, Шолохов (МВД) - (слава, деньги) сломался на 2 книге\nОценка 3-",
-        "createdAt": "2021-01-13 03:55:10",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 7
         }
     }
 }
