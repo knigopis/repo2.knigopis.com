@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/102/102857111133378678801-google)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 [kosipel](users/111/111527709134336877181-googleplus)<sup>4</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>55</sup> 
 
 
-_17.01.2021 06:12:20_
+_17.01.2021 09:32:12_
