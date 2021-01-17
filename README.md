@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
+    > Перечитываю
+
 * Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
     > Серия из 3 книг
     > Фэнтези попаданство
@@ -13,11 +16,6 @@ Do not use pull requests to make changes here.
     > Про почтальёна и исполнившееся желание.
 
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
-    > Четыре рассказа.
-    > 1) Мобильник в могиле.
-    > 2) Чак и его мир
-    > 3) История про Холли Гибни.
-    > 4) Крыса.
 
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
 
@@ -31,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
 
-* Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>78</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>6</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
@@ -67,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup> 
 [](users/153/1537586159620888-facebook)<sup>30</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>74</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 
 
-_17.01.2021 15:45:37_
+_17.01.2021 16:55:39_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
 * Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
 * Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
@@ -30,7 +31,6 @@
 * Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
 * Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
-* На Западном фронте без перемен ~ [Garka](users/115/115753719718250012620-google)<sup>270</sup>
 
 
-_17.01.2021 06:12:20_
+_17.01.2021 16:55:39_
