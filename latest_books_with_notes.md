@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1 ~ [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup>
 * Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
 * Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
 * Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
@@ -30,7 +31,6 @@
 * Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
 * Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
 * Мифический человеко-месяц ~ [rNix](users/227/22742452-yandex)<sup>70</sup>
-* Сдвиг ~ [HXT](users/100/100002563462782-facebook)<sup>399</sup>
 
 
-_17.01.2021 16:55:39_
+_17.01.2021 19:43:27_
