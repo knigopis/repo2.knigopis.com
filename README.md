@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Somik](users/100/100006761945842-facebook)<sup>5</sup> 
+[Somik](users/100/100006761945842-facebook)<sup>6</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>153</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>11</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>427</sup> 
 
 
-_17.01.2021 10:54:23_
+_17.01.2021 10:57:05_
