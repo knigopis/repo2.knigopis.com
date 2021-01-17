@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Marcus](users/271/2710776892572610-facebook)<sup>7</sup> 
+[Marcus](users/271/2710776892572610-facebook)<sup>8</sup> 
 [](users/204/204820758928251021-mailru)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
 
 
-_17.01.2021 22:20:56_
+_17.01.2021 22:21:45_
