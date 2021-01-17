@@ -1,0 +1,6 @@
+# Wish list of books by [danyluk62](http://vk.com/id374149854)
+---
+
+### `10` Игра в бисер
+Герман Гессе
+
