@@ -1,4 +1,16 @@
 {
+    "ZRuMO3Dg_M": {
+        "id": "ZRuMO3Dg_M",
+        "title": "Записки о Гражданской войне 1917-1918 Книга первая",
+        "author": "Овсеенко В.А.",
+        "notes": "",
+        "createdAt": "2021-01-17 09:36:25",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 153
+        }
+    },
     "NfMr2mR8Fz": {
         "id": "NfMr2mR8Fz",
         "title": "Глэд",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 31
-        }
-    },
-    "UDo4hFZ3Ql": {
-        "id": "UDo4hFZ3Ql",
-        "title": "Стиль",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2021-01-11 23:35:49",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 30
         }
     }
 }
