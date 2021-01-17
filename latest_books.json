@@ -1,4 +1,16 @@
 {
+    "6hIkfwCmn8": {
+        "id": "6hIkfwCmn8",
+        "title": "Злой Король",
+        "author": "Холли Блэк",
+        "notes": "",
+        "createdAt": "2021-01-17 22:22:06",
+        "user": {
+            "id": "2710776892572610-facebook",
+            "nickname": "Marcus",
+            "booksCount": 9
+        }
+    },
     "yTt3-nLTZH": {
         "id": "yTt3-nLTZH",
         "title": "Жестокий Принц",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 236
-        }
-    },
-    "7g8FqrS0r9": {
-        "id": "7g8FqrS0r9",
-        "title": "Фауст",
-        "author": "Гёте, Иоганн Вольфганг",
-        "notes": "Аудиокнига",
-        "createdAt": "2021-01-14 17:18:37",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 273
         }
     }
 }
