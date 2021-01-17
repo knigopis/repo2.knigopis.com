@@ -1,4 +1,10 @@
 {
+    "102857111133378678801-google": {
+        "id": "102857111133378678801-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-01-17 09:32:12"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "kosipel",
         "booksCount": 4,
         "updatedAt": "2021-01-09 15:49:52"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 55,
-        "updatedAt": "2021-01-08 20:55:30"
     }
 }
