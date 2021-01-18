@@ -1,4 +1,16 @@
 {
+    "d3vGr3rhH5": {
+        "id": "d3vGr3rhH5",
+        "title": "Ветер",
+        "author": "Рэй Брэдбери",
+        "notes": "Второе прочтение, ветер ворующий голоса и телефонный разговор.",
+        "createdAt": "2021-01-18 15:45:49",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 162
+        }
+    },
     "oVZOhcDuWd": {
         "id": "oVZOhcDuWd",
         "title": "Банка",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 101
-        }
-    },
-    "6txDVKTvQ-": {
-        "id": "6txDVKTvQ-",
-        "title": "Гриши",
-        "author": "Бардуго Ли",
-        "notes": "Серия из 3 книг\nБоевая фантастика. Про девушку борющуюся с монстрами в каньоне который разделяет страну на 2 части и про любовь к  \"другу\"  с которым жила с детства.",
-        "createdAt": "2021-01-16 16:46:50",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 10
         }
     }
 }

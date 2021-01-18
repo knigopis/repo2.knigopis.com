@@ -1,4 +1,16 @@
 {
+    "d3vGr3rhH5": {
+        "id": "d3vGr3rhH5",
+        "title": "Ветер",
+        "author": "Рэй Брэдбери",
+        "notes": "Второе прочтение, ветер ворующий голоса и телефонный разговор.",
+        "createdAt": "2021-01-18 15:45:49",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 162
+        }
+    },
     "oVZOhcDuWd": {
         "id": "oVZOhcDuWd",
         "title": "Банка",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 62
-        }
-    },
-    "WCP8I385SZ": {
-        "id": "WCP8I385SZ",
-        "title": "Запоздалые",
-        "author": "Джо Хилл",
-        "notes": "Повесть про путешествующий по времени библиобус.",
-        "createdAt": "2021-01-07 10:31:45",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 157
         }
     }
 }
