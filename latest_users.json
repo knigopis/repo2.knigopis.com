@@ -1,4 +1,10 @@
 {
+    "259899785-vkontakte": {
+        "id": "259899785-vkontakte",
+        "nickname": "bannickovairina",
+        "booksCount": 0,
+        "updatedAt": "2021-01-18 09:03:55"
+    },
     "2710776892572610-facebook": {
         "id": "2710776892572610-facebook",
         "nickname": "Marcus",
@@ -172,11 +178,5 @@
         "nickname": "darb_el",
         "booksCount": 41,
         "updatedAt": "2021-01-11 06:59:54"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 48,
-        "updatedAt": "2021-01-10 15:18:29"
     }
 }
