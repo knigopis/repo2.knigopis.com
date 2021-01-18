@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bannickovairina](users/259/259899785-vkontakte)<sup>0</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>9</sup> 
 [](users/204/204820758928251021-mailru)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Надежда](users/459/45982434-vkontakte)<sup>0</sup> 
 [](users/387/387727576-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>48</sup> 
 
 
-_17.01.2021 22:22:06_
+_18.01.2021 09:03:55_
