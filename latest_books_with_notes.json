@@ -1,4 +1,16 @@
 {
+    "JIyCLgcGpr": {
+        "id": "JIyCLgcGpr",
+        "title": "Крошка-убийца",
+        "author": "Рэй Брэдбери",
+        "notes": "Младенец с сознанием и ненавистью к родителям. Читала много раз.",
+        "createdAt": "2021-01-18 17:15:18",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 163
+        }
+    },
     "d3vGr3rhH5": {
         "id": "d3vGr3rhH5",
         "title": "Ветер",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 152
-        }
-    },
-    "1DfnV6_Ppa": {
-        "id": "1DfnV6_Ppa",
-        "title": "Мой любимый sputnik",
-        "author": "Харуки Мураками",
-        "notes": "Я, Сумирэ, Мюу\nЧеловек так устроен: если в него выстрелить, польется кровь.",
-        "createdAt": "2021-01-07 16:03:45",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 62
         }
     }
 }

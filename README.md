@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
+    > Младенец с сознанием и ненавистью к родителям. Читала много раз.
+
 * Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
     > Второе прочтение, ветер ворующий голоса и телефонный разговор.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Банка, загадка для всей деревни.
 
 * Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
-    > Допельгангер в окнах
 
 * «Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1 ~ [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
 
-* Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/387/387727576-vkontakte)<sup>0</sup> 
 
 
-_18.01.2021 15:45:49_
+_18.01.2021 17:15:18_
