@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
+    > Допельгангер в окнах
+
 * «Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1 ~ [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup>
     > Сэм пятился, дрожа, как лист на ветру, — и от холода, и от страха. Той ночью было очень холодно — еще холоднее, чем теперь. В снегу почти тепло, и ему стало легче. Немножко отдохнуть — вот все, что ему нужно. Он полежит еще чуть-чуть и пойдет дальше. Совсем чуть-чуть.
     > 
@@ -16,8 +19,6 @@ Do not use pull requests to make changes here.
     > Перечитываю
 
 * Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
-    > Серия из 3 книг
-    > Фэнтези попаданство
 
 * Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
 
@@ -31,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
 
-* Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup> 
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>9</sup> 
 [](users/204/204820758928251021-mailru)<sup>0</sup> 
@@ -50,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>153</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>11</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
@@ -70,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>41</sup> 
 
 
-_18.01.2021 09:04:49_
+_18.01.2021 11:58:38_

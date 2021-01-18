@@ -1,4 +1,16 @@
 {
+    "bDElEEJPqv": {
+        "id": "bDElEEJPqv",
+        "title": "Чёрное зеркало",
+        "author": "Моран Джурич",
+        "notes": "Допельгангер в окнах",
+        "createdAt": "2021-01-18 11:58:38",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 160
+        }
+    },
     "H9JSsrFBnc": {
         "id": "H9JSsrFBnc",
         "title": "Жутко громко и запредельно близко",
@@ -345,18 +357,6 @@
             "id": "186717452-vkontakte",
             "nickname": "alisher138",
             "booksCount": 1
-        }
-    },
-    "G-q4IHp1dC": {
-        "id": "G-q4IHp1dC",
-        "title": "Увечный поручик или приключение советского сержанта в 19 веке",
-        "author": "Алексеев Дмитрий",
-        "notes": "Альтернативка",
-        "createdAt": "2021-01-15 12:31:09",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 9
         }
     }
 }
