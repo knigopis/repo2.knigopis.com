@@ -1,4 +1,16 @@
 {
+    "UaHN3vQMtb": {
+        "id": "UaHN3vQMtb",
+        "title": "Bitterschokolade",
+        "author": "Mirjam Pressler",
+        "notes": "",
+        "createdAt": "2021-01-18 13:37:30",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 57
+        }
+    },
     "bDElEEJPqv": {
         "id": "bDElEEJPqv",
         "title": "Чёрное зеркало",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 274
-        }
-    },
-    "lFxmkUQ5xp": {
-        "id": "lFxmkUQ5xp",
-        "title": "Темный Лес",
-        "author": "Лю Цысинь",
-        "notes": "",
-        "createdAt": "2021-01-15 21:33:12",
-        "user": {
-            "id": "186717452-vkontakte",
-            "nickname": "alisher138",
-            "booksCount": 1
         }
     }
 }

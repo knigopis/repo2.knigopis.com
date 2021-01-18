@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 57,
+        "updatedAt": "2021-01-18 13:37:30"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-01-11 12:08:05"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 41,
-        "updatedAt": "2021-01-11 06:59:54"
     }
 }
