@@ -1,4 +1,16 @@
 {
+    "H9JSsrFBnc": {
+        "id": "H9JSsrFBnc",
+        "title": "Жутко громко и запредельно близко",
+        "author": "Джонатан Фоер",
+        "notes": "",
+        "createdAt": "2021-01-18 09:04:49",
+        "user": {
+            "id": "259899785-vkontakte",
+            "nickname": "bannickovairina",
+            "booksCount": 1
+        }
+    },
     "6hIkfwCmn8": {
         "id": "6hIkfwCmn8",
         "title": "Злой Король",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 9
-        }
-    },
-    "wBMsVB3oZV": {
-        "id": "wBMsVB3oZV",
-        "title": "Антология смеха",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2021-01-15 04:08:30",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 236
         }
     }
 }
