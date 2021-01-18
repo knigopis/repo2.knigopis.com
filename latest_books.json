@@ -1,4 +1,16 @@
 {
+    "wQvBYDvmL7": {
+        "id": "wQvBYDvmL7",
+        "title": "Дюна",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2021-01-18 19:54:35",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 72
+        }
+    },
     "JIyCLgcGpr": {
         "id": "JIyCLgcGpr",
         "title": "Крошка-убийца",
@@ -345,18 +357,6 @@
             "id": "113010305809091482859-google",
             "nickname": "ksercs",
             "booksCount": 10
-        }
-    },
-    "5BbZXcU15P": {
-        "id": "5BbZXcU15P",
-        "title": "Будет кровь",
-        "author": "Стивен Кинг",
-        "notes": "Четыре рассказа.\n1) Мобильник в могиле.\n2) Чак и его мир\n3) История про Холли Гибни.\n4) Крыса.",
-        "createdAt": "2021-01-16 20:21:29",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 158
         }
     }
 }

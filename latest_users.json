@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 72,
+        "updatedAt": "2021-01-18 19:54:35"
+    },
     "107403710743397785066-google": {
         "id": "107403710743397785066-google",
         "nickname": "Афет",
@@ -172,11 +178,5 @@
         "nickname": "alastar13",
         "booksCount": 0,
         "updatedAt": "2021-01-11 17:00:36"
-    },
-    "45982434-vkontakte": {
-        "id": "45982434-vkontakte",
-        "nickname": "Надежда",
-        "booksCount": 0,
-        "updatedAt": "2021-01-11 16:30:34"
     }
 }
