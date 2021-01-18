@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
+    > Банка, загадка для всей деревни.
+
 * Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
     > Допельгангер в окнах
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Ох, какой же он трус. Лорд Рендилл, его отец, всегда говорил так и был прав. Сэм не оправдал себя как его наследник, вот отец и отправил его на Стену. Дикон, младший брат, унаследует теперь земли и замок Тарли, и великий меч Губитель Сердец, которым их род гордился много веков. Уронит ли Дикон слезу над своим братом, умершим в снегу, на краю света? Да с какой стати. Трус не стоит ничьих слез. Отец повторял это матери раз сто, и Старый Медведь того же мнения.
 
 * Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
-    > Перечитываю
 
 * Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
 
@@ -30,15 +32,13 @@ Do not use pull requests to make changes here.
 
 * Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
 
-* Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup> 
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>9</sup> 
 [](users/204/204820758928251021-mailru)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/387/387727576-vkontakte)<sup>0</sup> 
 
 
-_18.01.2021 13:37:30_
+_18.01.2021 15:45:14_

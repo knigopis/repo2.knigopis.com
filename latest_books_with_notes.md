@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
 * Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
 * «Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1 ~ [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup>
 * Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
@@ -30,7 +31,6 @@
 * Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
 * Мой любимый sputnik ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>62</sup>
 * Запоздалые ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>157</sup>
-* Миф ли Евангелие ~ [youno](users/302/302928912-vkontakte)<sup>53</sup>
 
 
-_18.01.2021 11:58:38_
+_18.01.2021 15:45:14_
