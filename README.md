@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Афет](users/107/107403710743397785066-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 [alastar13](users/139/139267376-vkontakte)<sup>0</sup> 
 [Надежда](users/459/45982434-vkontakte)<sup>0</sup> 
-[](users/387/387727576-vkontakte)<sup>0</sup> 
 
 
-_18.01.2021 17:15:18_
+_18.01.2021 19:39:03_
