@@ -1,4 +1,16 @@
 {
+    "KqgUwl6W4E": {
+        "id": "KqgUwl6W4E",
+        "title": "Всего лишь лихорадочный бред",
+        "author": "Рэй Брэдбери",
+        "notes": "Захват организма через больного мальчика.",
+        "createdAt": "2021-01-19 09:04:44",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 165
+        }
+    },
     "JIyCLgcGpr": {
         "id": "JIyCLgcGpr",
         "title": "Крошка-убийца",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 271
-        }
-    },
-    "YZuDzRTQr3": {
-        "id": "YZuDzRTQr3",
-        "title": "Vietnam: An Epic Tragedy, 1945-1975",
-        "author": "Sir Max Hastings",
-        "notes": "ASIN : B071VJBRB6",
-        "createdAt": "2021-01-07 17:03:23",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 152
         }
     }
 }

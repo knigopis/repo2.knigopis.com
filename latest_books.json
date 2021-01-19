@@ -1,4 +1,16 @@
 {
+    "KqgUwl6W4E": {
+        "id": "KqgUwl6W4E",
+        "title": "Всего лишь лихорадочный бред",
+        "author": "Рэй Брэдбери",
+        "notes": "Захват организма через больного мальчика.",
+        "createdAt": "2021-01-19 09:04:44",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 165
+        }
+    },
     "E5HTkkoiH9": {
         "id": "E5HTkkoiH9",
         "title": "Жилец из верхней комнаты",
@@ -345,18 +357,6 @@
             "id": "102857111133378678801-google",
             "nickname": "Rina",
             "booksCount": 1
-        }
-    },
-    "ZRuMO3Dg_M": {
-        "id": "ZRuMO3Dg_M",
-        "title": "Записки о Гражданской войне 1917-1918 Книга первая",
-        "author": "Овсеенко В.А.",
-        "notes": "",
-        "createdAt": "2021-01-17 09:36:25",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 153
         }
     }
 }

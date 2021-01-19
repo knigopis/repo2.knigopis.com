@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
 * Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
 * Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
@@ -30,7 +31,6 @@
 * Император Африки  (4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>6</sup>
 * Маленький свободный народец ~ [Garka](users/115/115753719718250012620-google)<sup>272</sup>
 * Булгаков, М.А. ~ [Garka](users/115/115753719718250012620-google)<sup>271</sup>
-* Vietnam: An Epic Tragedy, 1945-1975 ~ [exulted](users/100/100599204551896265722-google)<sup>152</sup>
 
 
-_18.01.2021 17:15:18_
+_19.01.2021 09:04:44_

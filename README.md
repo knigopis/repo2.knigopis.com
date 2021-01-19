@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
+    > Захват организма через больного мальчика.
+
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
     > Младенец с сознанием и ненавистью к родителям. Читала много раз.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Второе прочтение, ветер ворующий голоса и телефонный разговор.
 
 * Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
-    > Банка, загадка для всей деревни.
 
 * Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
 
-* Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>164</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>237</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 
 
-_19.01.2021 09:04:26_
+_19.01.2021 09:04:44_
