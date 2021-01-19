@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>75</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>237</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
-[dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 
 
-_19.01.2021 09:45:49_
+_19.01.2021 17:14:07_

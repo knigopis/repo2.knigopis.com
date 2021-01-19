@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 75,
+        "updatedAt": "2021-01-19 17:14:07"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Александр Протасов",
         "booksCount": 1,
         "updatedAt": "2021-01-12 20:22:30"
-    },
-    "233860015-vkontakte": {
-        "id": "233860015-vkontakte",
-        "nickname": "dghtt",
-        "booksCount": 34,
-        "updatedAt": "2021-01-11 23:45:54"
     }
 }
