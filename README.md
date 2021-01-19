@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>838</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>251</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>75</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105111610427730505830-google)<sup>3</sup> 
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
-[Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
 
 
-_19.01.2021 18:31:21_
+_19.01.2021 21:26:14_
