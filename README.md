@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
+    > Про вампира и мальчика, который любит разделывать.
+
 * Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
     > Захват организма через больного мальчика.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Младенец с сознанием и ненавистью к родителям. Читала много раз.
 
 * Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
-    > Второе прочтение, ветер ворующий голоса и телефонный разговор.
 
 * Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
 
-* Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>164</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>237</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 
 
-_19.01.2021 09:04:52_
+_19.01.2021 09:45:49_

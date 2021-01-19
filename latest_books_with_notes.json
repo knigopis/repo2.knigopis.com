@@ -1,4 +1,16 @@
 {
+    "5vD-wGiWym": {
+        "id": "5vD-wGiWym",
+        "title": "Жилец из верхней комнаты",
+        "author": "Рэй Брэдбери",
+        "notes": "Про вампира и мальчика, который любит разделывать.",
+        "createdAt": "2021-01-19 09:45:49",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 165
+        }
+    },
     "KqgUwl6W4E": {
         "id": "KqgUwl6W4E",
         "title": "Всего лишь лихорадочный бред",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 272
-        }
-    },
-    "jXaLKUjiSy": {
-        "id": "jXaLKUjiSy",
-        "title": "Булгаков, М.А.",
-        "author": "Мастер и Маргарита",
-        "notes": "Аудиокнига",
-        "createdAt": "2021-01-08 18:13:20",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 271
         }
     }
 }
