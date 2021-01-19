@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 10,
+        "updatedAt": "2021-01-19 03:17:54"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "dghtt",
         "booksCount": 34,
         "updatedAt": "2021-01-11 23:45:54"
-    },
-    "139267376-vkontakte": {
-        "id": "139267376-vkontakte",
-        "nickname": "alastar13",
-        "booksCount": 0,
-        "updatedAt": "2021-01-11 17:00:36"
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>72</sup> 
 [Афет](users/107/107403710743397785066-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
 [Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
-[alastar13](users/139/139267376-vkontakte)<sup>0</sup> 
 
 
-_18.01.2021 19:54:35_
+_19.01.2021 03:17:54_
