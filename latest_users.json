@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 251,
+        "updatedAt": "2021-01-19 18:31:21"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Fenix",
         "booksCount": 16,
         "updatedAt": "2021-01-13 06:21:23"
-    },
-    "7476864-vkontakte": {
-        "id": "7476864-vkontakte",
-        "nickname": "Александр Протасов",
-        "booksCount": 1,
-        "updatedAt": "2021-01-12 20:22:30"
     }
 }

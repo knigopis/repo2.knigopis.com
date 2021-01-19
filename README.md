@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>251</sup>
+    > Участь родителей – быть слишком маленьким одеялом: как ни пытаешься всех укрыть, все равно кто-то мерзнет.
+
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
     > Про вампира и мальчика, который любит разделывать.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Захват организма через больного мальчика.
 
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
-    > Младенец с сознанием и ненавистью к родителям. Читала много раз.
 
 * Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
 
-* Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>251</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>75</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>237</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>16</sup> 
-[Александр Протасов](users/747/7476864-vkontakte)<sup>1</sup> 
 
 
-_19.01.2021 17:14:07_
+_19.01.2021 18:31:21_
