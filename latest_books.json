@@ -1,4 +1,16 @@
 {
+    "E5HTkkoiH9": {
+        "id": "E5HTkkoiH9",
+        "title": "Жилец из верхней комнаты",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2021-01-19 09:04:26",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 164
+        }
+    },
     "kpehNRxUnd": {
         "id": "kpehNRxUnd",
         "title": "Бурмистр",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 153
-        }
-    },
-    "NfMr2mR8Fz": {
-        "id": "NfMr2mR8Fz",
-        "title": "Глэд",
-        "author": "Борисов Олег Николаевич",
-        "notes": "Серия из 3 книг\nФэнтези попаданство",
-        "createdAt": "2021-01-17 06:12:20",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 11
         }
     }
 }

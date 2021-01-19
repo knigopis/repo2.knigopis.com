@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>164</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>237</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>72</sup> 
 [Афет](users/107/107403710743397785066-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>34</sup> 
 
 
-_19.01.2021 07:06:34_
+_19.01.2021 09:04:26_
