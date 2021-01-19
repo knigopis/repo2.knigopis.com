@@ -1,4 +1,16 @@
 {
+    "C2qOVrotOl": {
+        "id": "C2qOVrotOl",
+        "title": "Мастер и Маргарита",
+        "author": "М. А. Булгаков",
+        "notes": "",
+        "createdAt": "2021-01-19 22:53:58",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 146
+        }
+    },
     "oi19PT30Q3": {
         "id": "oi19PT30Q3",
         "title": "Террор",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 134
-        }
-    },
-    "jV08qOBQAL": {
-        "id": "jV08qOBQAL",
-        "title": "Психоаналитическая диагностика",
-        "author": "Нэнси Мак-Вильямс",
-        "notes": "",
-        "createdAt": "2021-01-17 15:45:37",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 78
         }
     }
 }

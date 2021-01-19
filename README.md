@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>251</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>75</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alisher138](users/186/186717452-vkontakte)<sup>1</sup> 
 [](users/105/105111610427730505830-google)<sup>3</sup> 
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>115</sup> 
 
 
-_19.01.2021 21:26:14_
+_19.01.2021 22:53:58_
