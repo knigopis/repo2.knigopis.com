@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>251</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>75</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>237</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>72</sup> 
 [Афет](users/107/107403710743397785066-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 
 
-_20.01.2021 08:08:24_
+_20.01.2021 11:51:54_
