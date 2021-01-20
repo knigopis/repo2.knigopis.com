@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
+    > 10/10 Неординарные рассказы о ближайшем будущем и странном настоящем. Андроиды, клонирование, фольклор.
+
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
     > Мужчина не готов отдать сына на детскую площадку и повзрослел вместо него.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Участь родителей – быть слишком маленьким одеялом: как ни пытаешься всех укрыть, все равно кто-то мерзнет.
 
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
-    > Про вампира и мальчика, который любит разделывать.
 
 * Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1 ~ [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup>
 
-* Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111684698299760577816-google)<sup>0</sup> 
 [alisher138](users/186/186717452-vkontakte)<sup>1</sup> 
 [](users/105/105111610427730505830-google)<sup>3</sup> 
-[andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 
 
-_20.01.2021 11:51:54_
+_20.01.2021 11:54:25_

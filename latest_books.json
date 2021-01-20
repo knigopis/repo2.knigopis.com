@@ -1,4 +1,16 @@
 {
+    "wZqR7nlpsp": {
+        "id": "wZqR7nlpsp",
+        "title": "Диковинные истории",
+        "author": "Ольга Токарчук",
+        "notes": "10/10 Неординарные рассказы о ближайшем будущем и странном настоящем. Андроиды, клонирование, фольклор.",
+        "createdAt": "2021-01-20 11:54:25",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 158
+        }
+    },
     "XS2Q1MsHld": {
         "id": "XS2Q1MsHld",
         "title": "Вешние воды",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "Joan8ied",
             "booksCount": 105
-        }
-    },
-    "RNtQv4td8h": {
-        "id": "RNtQv4td8h",
-        "title": "Дурная кровь",
-        "author": "Роберт Гэлбрейт",
-        "notes": "",
-        "createdAt": "2021-01-17 18:32:50",
-        "user": {
-            "id": "113479058458145129271-google",
-            "nickname": "jane",
-            "booksCount": 5
         }
     }
 }

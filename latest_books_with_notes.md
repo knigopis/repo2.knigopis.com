@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>251</sup>
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
@@ -30,7 +31,6 @@
 * Степь ~ [darb_el](users/184/184135339-vkontakte)<sup>26</sup>
 * Родимый край 1970-1972 ~ [mfevralev](users/140/140966150-vkontakte)<sup>48</sup>
 * Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
-* Портрет Дориана Грея ~ [kissamasya](users/684/68439978-vkontakte)<sup>100</sup>
 
 
-_20.01.2021 08:08:24_
+_20.01.2021 11:54:25_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>157</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>158</sup>
 ---
 
 ## 2021
+
+### Диковинные истории
+Ольга Токарчук
+> [2021-01-19] 10/10 Неординарные рассказы о ближайшем будущем и странном настоящем. Андроиды, клонирование, фольклор.
+
 
 ### Дурная кровь
 Роберт Гэлбрейт
