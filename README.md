@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
+    > Мужчина не готов отдать сына на детскую площадку и повзрослел вместо него.
+
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>251</sup>
     > Участь родителей – быть слишком маленьким одеялом: как ни пытаешься всех укрыть, все равно кто-то мерзнет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Про вампира и мальчика, который любит разделывать.
 
 * Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
-    > Захват организма через больного мальчика.
 
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
 
-* Глэд ~ [dromoman2008](users/444/44461886-yandex)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>251</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>75</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>237</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [andrey.semyonkin](users/131/1317010534-yandex)<sup>3</sup> 
 
 
-_19.01.2021 22:53:58_
+_20.01.2021 08:08:24_
