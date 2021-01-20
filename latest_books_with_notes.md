@@ -1,9 +1,9 @@
 # List of the latest books with notes
 ---
 
+* Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
-* Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>251</sup>
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 * Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
@@ -33,4 +33,4 @@
 * Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
 
 
-_20.01.2021 11:54:25_
+_20.01.2021 19:34:13_

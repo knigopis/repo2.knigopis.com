@@ -5,14 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
+    > в конце концов все сводится к спору о границах: до каких пределов допустим эгоизм и в какой мере мы обязаны заботиться друг о друге.
+
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
     > 10/10 Неординарные рассказы о ближайшем будущем и странном настоящем. Андроиды, клонирование, фольклор.
 
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
     > Мужчина не готов отдать сына на детскую площадку и повзрослел вместо него.
-
-* Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>251</sup>
-    > Участь родителей – быть слишком маленьким одеялом: как ни пытаешься всех укрыть, все равно кто-то мерзнет.
 
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 
@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>251</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>75</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105111610427730505830-google)<sup>3</sup> 
 
 
-_20.01.2021 11:54:25_
+_20.01.2021 19:34:13_
