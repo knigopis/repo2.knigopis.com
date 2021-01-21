@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 251,
+        "updatedAt": "2021-01-21 18:22:15"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -40,12 +46,6 @@
         "nickname": "partyZZZanka",
         "booksCount": 2,
         "updatedAt": "2021-01-21 07:57:58"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 252,
-        "updatedAt": "2021-01-20 19:34:13"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
