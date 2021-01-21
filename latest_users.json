@@ -1,4 +1,10 @@
 {
+    "16750341-vkontakte": {
+        "id": "16750341-vkontakte",
+        "nickname": "toly.panin",
+        "booksCount": 0,
+        "updatedAt": "2021-01-21 08:43:51"
+    },
     "9315852-vkontakte": {
         "id": "9315852-vkontakte",
         "nickname": "partyZZZanka",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-01-16 11:52:15"
-    },
-    "186717452-vkontakte": {
-        "id": "186717452-vkontakte",
-        "nickname": "alisher138",
-        "booksCount": 1,
-        "updatedAt": "2021-01-15 21:33:12"
     }
 }
