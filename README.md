@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>251</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>12</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>2</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 
 
-_21.01.2021 17:45:13_
+_21.01.2021 18:22:15_
