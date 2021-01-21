@@ -1,4 +1,16 @@
 {
+    "XxHGZT4kH1": {
+        "id": "XxHGZT4kH1",
+        "title": "Последний вздох",
+        "author": "Джо Хилл",
+        "notes": "Записанные вздохи людей перед смертью.",
+        "createdAt": "2021-01-21 09:35:04",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 167
+        }
+    },
     "pr9Z4mxx87": {
         "id": "pr9Z4mxx87",
         "title": "Исчезновение",
@@ -345,18 +357,6 @@
             "id": "2710776892572610-facebook",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "9ECxboW0ib": {
-        "id": "9ECxboW0ib",
-        "title": "Тень и кость",
-        "author": "Ли Бардуго",
-        "notes": "",
-        "createdAt": "2021-01-17 22:14:35",
-        "user": {
-            "id": "2710776892572610-facebook",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

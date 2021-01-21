@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
@@ -30,7 +31,6 @@
 * Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
 * Степь ~ [darb_el](users/184/184135339-vkontakte)<sup>26</sup>
 * Родимый край 1970-1972 ~ [mfevralev](users/140/140966150-vkontakte)<sup>48</sup>
-* Дурная кровь ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>157</sup>
 
 
-_20.01.2021 19:34:13_
+_21.01.2021 09:35:04_

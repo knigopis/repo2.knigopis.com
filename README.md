@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
+    > Записанные вздохи людей перед смертью.
+
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
     > в конце концов все сводится к спору о границах: до каких пределов допустим эгоизм и в какой мере мы обязаны заботиться друг о друге.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Неординарные рассказы о ближайшем будущем и странном настоящем. Андроиды, клонирование, фольклор.
 
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
-    > Мужчина не готов отдать сына на детскую площадку и повзрослел вместо него.
 
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
 
-* «Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1 ~ [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111684698299760577816-google)<sup>0</sup> 
 
 
-_21.01.2021 08:43:52_
+_21.01.2021 09:35:04_
