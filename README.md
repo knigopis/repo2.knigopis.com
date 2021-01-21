@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>54</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
-[](users/111/111684698299760577816-google)<sup>0</sup> 
 
 
-_21.01.2021 09:35:04_
+_21.01.2021 11:43:32_

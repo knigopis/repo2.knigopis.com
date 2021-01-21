@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 54,
+        "updatedAt": "2021-01-21 11:43:32"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 52,
         "updatedAt": "2021-01-16 14:43:42"
-    },
-    "111684698299760577816-google": {
-        "id": "111684698299760577816-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-01-16 11:52:15"
     }
 }

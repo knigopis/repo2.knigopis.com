@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>53</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>54</sup>
 ---
 
 ## 2021
+
+### Спокойствие. Стоицизм – путь мудреца.
+Мэттью Дж. Ван Натта
+> [2021-01-21] 
+
 
 ### Миф ли Евангелие
 Рене Жирар
