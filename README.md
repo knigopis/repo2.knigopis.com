@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
-[me](users/381/381417697-yandex)<sup>52</sup> 
 
 
-_21.01.2021 12:34:11_
+_21.01.2021 13:27:59_

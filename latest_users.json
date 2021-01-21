@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 97,
+        "updatedAt": "2021-01-21 13:27:59"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 274,
         "updatedAt": "2021-01-16 16:15:46"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 52,
-        "updatedAt": "2021-01-16 14:43:42"
     }
 }
