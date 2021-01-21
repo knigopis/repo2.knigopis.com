@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Marcus](users/271/2710776892572610-facebook)<sup>10</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>12</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Афет](users/107/107403710743397785066-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
-[Marcus](users/271/2710776892572610-facebook)<sup>9</sup> 
 [](users/204/204820758928251021-mailru)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 
 
-_21.01.2021 19:34:42_
+_21.01.2021 22:22:10_
