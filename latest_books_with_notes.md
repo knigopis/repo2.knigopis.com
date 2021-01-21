@@ -1,11 +1,11 @@
 # List of the latest books with notes
 ---
 
+* Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 * Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
 * Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 * Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
 * Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
-* Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
@@ -33,4 +33,4 @@
 * Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
 
 
-_21.01.2021 17:45:13_
+_21.01.2021 18:34:22_
