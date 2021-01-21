@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
+    > 10/10 Історія перепоховання тіла василя Стуса у 1989 році.
+
 * Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
     > Записанные вздохи людей перед смертью.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в конце концов все сводится к спору о границах: до каких пределов допустим эгоизм и в какой мере мы обязаны заботиться друг о друге.
 
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
-    > 10/10 Неординарные рассказы о ближайшем будущем и странном настоящем. Андроиды, клонирование, фольклор.
 
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
 
-* Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>52</sup> 
 
 
-_21.01.2021 11:43:32_
+_21.01.2021 12:33:01_

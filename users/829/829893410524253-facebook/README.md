@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>158</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>159</sup>
 ---
 
 ## 2021
+
+### Герої народжуються на могилах героїв
+Володимир Шовкошитний
+> [2021-01-20] 10/10 Історія перепоховання тіла василя Стуса у 1989 році.
+
 
 ### Диковинные истории
 Ольга Токарчук
