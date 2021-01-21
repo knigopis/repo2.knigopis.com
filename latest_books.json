@@ -1,4 +1,16 @@
 {
+    "PV9CwklauD": {
+        "id": "PV9CwklauD",
+        "title": "Лучшая в мире игра",
+        "author": "Варп",
+        "notes": "Серия из 2 книг\nЛитРПГ",
+        "createdAt": "2021-01-21 17:45:13",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 12
+        }
+    },
     "ZZN4lFcRwS": {
         "id": "ZZN4lFcRwS",
         "title": "Горлов тупик",
@@ -345,18 +357,6 @@
             "id": "2710776892572610-facebook",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "gTLgixcW2F": {
-        "id": "gTLgixcW2F",
-        "title": "Продажное королевство",
-        "author": "Ли Бардуго",
-        "notes": "",
-        "createdAt": "2021-01-17 22:18:16",
-        "user": {
-            "id": "2710776892572610-facebook",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }

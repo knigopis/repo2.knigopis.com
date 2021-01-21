@@ -1,7 +1,13 @@
-# List of books read by dromoman2008<sup>11</sup>
+# List of books read by dromoman2008<sup>12</sup>
 ---
 
 ## 2021
+
+### Лучшая в мире игра
+Варп
+> [2021-01-21] Серия из 2 книг
+> ЛитРПГ
+
 
 ### Глэд
 Борисов Олег Николаевич

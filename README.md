@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
+    > Серия из 2 книг
+    > ЛитРПГ
+
 * Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
     > 9/10 Порадник зі здорового глузду.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 10/10 Історія перепоховання тіла василя Стуса у 1989 році.
 
 * Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
-    > Записанные вздохи людей перед смертью.
 
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
 
-* Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>12</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
@@ -59,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Somik](users/100/100006761945842-facebook)<sup>6</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>153</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>11</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 
 
-_21.01.2021 13:27:59_
+_21.01.2021 17:45:13_

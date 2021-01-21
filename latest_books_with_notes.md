@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
 * Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 * Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
 * Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
@@ -30,7 +31,6 @@
 * Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
 * Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
 * Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
-* Скучная история ~ [darb_el](users/184/184135339-vkontakte)<sup>27</sup>
 
 
-_21.01.2021 12:34:11_
+_21.01.2021 17:45:13_

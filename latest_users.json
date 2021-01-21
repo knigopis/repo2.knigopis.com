@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 12,
+        "updatedAt": "2021-01-21 17:45:13"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -154,12 +160,6 @@
         "nickname": "exulted",
         "booksCount": 153,
         "updatedAt": "2021-01-17 09:36:25"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 11,
-        "updatedAt": "2021-01-17 06:12:20"
     },
     "113010305809091482859-google": {
         "id": "113010305809091482859-google",
