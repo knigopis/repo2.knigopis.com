@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>12</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>153</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>274</sup> 
 
 
-_21.01.2021 18:34:22_
+_21.01.2021 19:34:42_

@@ -1,4 +1,16 @@
 {
+    "dKJrQyjbJR": {
+        "id": "dKJrQyjbJR",
+        "title": "Если наступить завтра",
+        "author": "Сидни Шелдон",
+        "notes": "",
+        "createdAt": "2021-01-21 19:34:42",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 323
+        }
+    },
     "Z9JNgjh1Ct": {
         "id": "Z9JNgjh1Ct",
         "title": "Медвежий угол",
@@ -345,18 +357,6 @@
             "id": "2710776892572610-facebook",
             "nickname": "Marcus",
             "booksCount": 7
-        }
-    },
-    "BgXHBrwIwH": {
-        "id": "BgXHBrwIwH",
-        "title": "Язык шипов",
-        "author": "Ли Бардуго",
-        "notes": "",
-        "createdAt": "2021-01-17 22:18:42",
-        "user": {
-            "id": "2710776892572610-facebook",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }

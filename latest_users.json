@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 323,
+        "updatedAt": "2021-01-21 19:34:42"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 101,
         "updatedAt": "2021-01-16 17:27:14"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 274,
-        "updatedAt": "2021-01-16 16:15:46"
     }
 }
