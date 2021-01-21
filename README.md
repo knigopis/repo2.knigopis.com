@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
+    > 9/10 Порадник зі здорового глузду.
+
 * Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
     > 10/10 Історія перепоховання тіла василя Стуса у 1989 році.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Записанные вздохи людей перед смертью.
 
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
-    > в конце концов все сводится к спору о границах: до каких пределов допустим эгоизм и в какой мере мы обязаны заботиться друг о друге.
 
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
 
-* Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>52</sup> 
 
 
-_21.01.2021 12:33:01_
+_21.01.2021 12:34:11_

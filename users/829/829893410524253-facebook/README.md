@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>159</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>160</sup>
 ---
 
 ## 2021
+
+### Мочи манту
+Уляна Супрун
+> [2021-01-21] 9/10 Порадник зі здорового глузду.
+
 
 ### Герої народжуються на могилах героїв
 Володимир Шовкошитний
