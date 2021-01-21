@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/931/9315852-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>52</sup> 
 [](users/111/111684698299760577816-google)<sup>0</sup> 
 [alisher138](users/186/186717452-vkontakte)<sup>1</sup> 
-[](users/105/105111610427730505830-google)<sup>3</sup> 
 
 
-_20.01.2021 19:34:13_
+_21.01.2021 07:55:33_
