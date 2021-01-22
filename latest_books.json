@@ -1,4 +1,16 @@
 {
+    "1XhR1d1Z_Y": {
+        "id": "1XhR1d1Z_Y",
+        "title": "Лева рука тьмы",
+        "author": "Урсула Ле ГУИН",
+        "notes": "",
+        "createdAt": "2021-01-22 14:11:08",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 401
+        }
+    },
     "csIbT48vq4": {
         "id": "csIbT48vq4",
         "title": "Водораздел. Будущее, которое уже которое наступило",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 160
-        }
-    },
-    "H9JSsrFBnc": {
-        "id": "H9JSsrFBnc",
-        "title": "Жутко громко и запредельно близко",
-        "author": "Джонатан Фоер",
-        "notes": "",
-        "createdAt": "2021-01-18 09:04:49",
-        "user": {
-            "id": "259899785-vkontakte",
-            "nickname": "bannickovairina",
-            "booksCount": 1
         }
     }
 }

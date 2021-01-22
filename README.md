@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>401</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>253</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>10</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Somik](users/100/100006761945842-facebook)<sup>6</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 [ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 
 
-_22.01.2021 06:14:46_
+_22.01.2021 14:11:08_
