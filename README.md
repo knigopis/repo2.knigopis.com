@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>253</sup>
+    > Ничего ведет в никуда,
+
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
     > Ненависть бывает весьма вдохновляющим чувством. Мир перестает быть непонятным и пугающим, если разделить всех на друзей и врагов, на своих и чужих, хороших и плохих. Самый простой способ объединить группу – вовсе не любовь, потому что любовь – это трудно, любовь требовательна. А ненависть – это просто. Поэтому в случае конфликта мы первым делом выбираем сторону, ведь это проще, чем держать в голове два мнения одновременно. Во-вторых, мы ищем факты, подтверждающие то, во что нам хочется верить, это самое приятное, оно позволяет нам жить дальше как ни в чем не бывало. В-третьих, мы перестаем считать своего врага человеком. Для этого есть много способов, но самый простой – лишить его имени.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ЛитРПГ
 
 * Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
-    > 9/10 Порадник зі здорового глузду.
 
 * Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
 
@@ -27,16 +29,14 @@ Do not use pull requests to make changes here.
 
 * Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 
-* Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>253</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>10</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>252</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>12</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>101</sup> 
 
 
-_21.01.2021 22:22:10_
+_22.01.2021 06:05:01_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>253</sup>
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 * Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
 * Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
@@ -30,7 +31,6 @@
 * Почему я отвлекаюсь. Как распознать синдром дефецита внимания у взрослых и детей (Аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>3</sup>
 * Дом с мезонином ~ [darb_el](users/184/184135339-vkontakte)<sup>30</sup>
 * Палата №6 ~ [darb_el](users/184/184135339-vkontakte)<sup>29</sup>
-* Дуэль ~ [darb_el](users/184/184135339-vkontakte)<sup>28</sup>
 
 
-_21.01.2021 18:34:22_
+_22.01.2021 06:05:01_
