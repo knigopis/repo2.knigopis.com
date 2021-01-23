@@ -1,4 +1,16 @@
 {
+    "MqnpFclOmb": {
+        "id": "MqnpFclOmb",
+        "title": "Мы против вас",
+        "author": "",
+        "notes": "проблема с хорошими и плохими людьми в том, что большинство из нас бывает и тем и другим одновременно.",
+        "createdAt": "2021-01-23 07:21:48",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 254
+        }
+    },
     "zgMv1bHfjm": {
         "id": "zgMv1bHfjm",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 30
-        }
-    },
-    "jYU2KE2lnD": {
-        "id": "jYU2KE2lnD",
-        "title": "Палата №6",
-        "author": "Антон Чехов",
-        "notes": "Трагическая история про обращение с сумашедшими в царской России в глубинке.",
-        "createdAt": "2021-01-11 06:53:49",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 29
         }
     }
 }
