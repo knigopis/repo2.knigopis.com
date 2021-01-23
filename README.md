@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/604/6040318868800313324-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>76</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>401</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>78</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>6</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
-[ksercs](users/113/113010305809091482859-google)<sup>10</sup> 
 
 
-_23.01.2021 07:21:48_
+_23.01.2021 16:19:28_
