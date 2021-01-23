@@ -1,4 +1,16 @@
 {
+    "6FuHu3NniT": {
+        "id": "6FuHu3NniT",
+        "title": "Американская трагедия",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2021-01-23 16:21:43",
+        "user": {
+            "id": "6040318868800313324-mailru",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "MqnpFclOmb": {
         "id": "MqnpFclOmb",
         "title": "Мы против вас",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 162
-        }
-    },
-    "oVZOhcDuWd": {
-        "id": "oVZOhcDuWd",
-        "title": "Банка",
-        "author": "Рэй Брэдбери",
-        "notes": "Банка, загадка для всей деревни.",
-        "createdAt": "2021-01-18 15:45:14",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 161
         }
     }
 }
