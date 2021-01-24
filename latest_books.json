@@ -1,4 +1,16 @@
 {
+    "K4QzKPU6hT": {
+        "id": "K4QzKPU6hT",
+        "title": "Золотые пауки",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-24 12:47:30",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 275
+        }
+    },
     "6KqXx2zMrc": {
         "id": "6KqXx2zMrc",
         "title": "И быть подлецом",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 237
-        }
-    },
-    "VLsZ0C38lt": {
-        "id": "VLsZ0C38lt",
-        "title": "Тайна голландских изразцов",
-        "author": "Дезомбре Дарья",
-        "notes": "",
-        "createdAt": "2021-01-19 03:17:54",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 10
         }
     }
 }
