@@ -1,4 +1,16 @@
 {
+    "6KqXx2zMrc": {
+        "id": "6KqXx2zMrc",
+        "title": "И быть подлецом",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-24 08:54:37",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 274
+        }
+    },
     "5iKxplvnEA": {
         "id": "5iKxplvnEA",
         "title": "FERA. Апокалипсис",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 10
-        }
-    },
-    "wQvBYDvmL7": {
-        "id": "wQvBYDvmL7",
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "notes": "",
-        "createdAt": "2021-01-18 19:54:35",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 72
         }
     }
 }

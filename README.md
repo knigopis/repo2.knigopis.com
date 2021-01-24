@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>274</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>135</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>78</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>6</sup> 
-[Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 
 
-_24.01.2021 07:28:47_
+_24.01.2021 08:54:38_
