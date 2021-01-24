@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
 * FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
 * Мы против вас ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
@@ -30,7 +31,6 @@
 * Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
 * Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
-* Hungry games (English) ~ [Somik](users/100/100006761945842-facebook)<sup>4</sup>
 
 
-_24.01.2021 07:28:47_
+_24.01.2021 22:13:45_

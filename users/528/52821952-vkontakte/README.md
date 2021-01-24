@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>117</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>118</sup>
 ---
 
 ## 2020
+
+### Becoming
+Мишель Обама
+> [2020-11-01] 10/10 Лучшая из прочитанных биографий на данный момент
+
 
 ### Норвежский лес
 Харуки Мураками

@@ -1,4 +1,16 @@
 {
+    "zP7iYwBKRK": {
+        "id": "zP7iYwBKRK",
+        "title": "Becoming",
+        "author": "Мишель Обама",
+        "notes": "10/10 Лучшая из прочитанных биографий на данный момент",
+        "createdAt": "2021-01-24 22:13:45",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 118
+        }
+    },
     "gteVE41t5R": {
         "id": "gteVE41t5R",
         "title": "Если бы смерть спала",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 838
-        }
-    },
-    "A1UkdDfM5u": {
-        "id": "A1UkdDfM5u",
-        "title": "Империя должна умереть",
-        "author": "М. Зыгарь",
-        "notes": "",
-        "createdAt": "2021-01-19 17:14:07",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 75
         }
     }
 }

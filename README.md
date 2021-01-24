@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
+    > 10/10 Лучшая из прочитанных биографий на данный момент
+
 * FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
     > Боевая фантастика - Постапокалипсис
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 3
 
 * Мы против вас ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
-    > проблема с хорошими и плохими людьми в том, что большинство из нас бывает и тем и другим одновременно.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>253</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
 
-* Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>118</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>277</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>73</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jane](users/113/113479058458145129271-google)<sup>5</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>135</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>78</sup> 
-[Somik](users/100/100006761945842-facebook)<sup>6</sup> 
 
 
-_24.01.2021 21:49:45_
+_24.01.2021 22:13:45_
