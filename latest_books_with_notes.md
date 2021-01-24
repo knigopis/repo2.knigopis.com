@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Райский сад ~ [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup>
 * Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
 * FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
 * Фауст ~ [Garka](users/115/115753719718250012620-google)<sup>273</sup>
 * Император из стали ~ [dromoman2008](users/444/44461886-yandex)<sup>8</sup>
-* Регрессор в СССР ~ [dromoman2008](users/444/44461886-yandex)<sup>7</sup>
 
 
-_24.01.2021 22:13:45_
+_24.01.2021 22:14:38_

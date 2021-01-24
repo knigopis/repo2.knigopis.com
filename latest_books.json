@@ -1,4 +1,16 @@
 {
+    "Je7y7-45Pa": {
+        "id": "Je7y7-45Pa",
+        "title": "Райский сад",
+        "author": "Эрнест Хемингуэй",
+        "notes": "9/10",
+        "createdAt": "2021-01-24 22:14:38",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 119
+        }
+    },
     "zP7iYwBKRK": {
         "id": "zP7iYwBKRK",
         "title": "Becoming",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 146
-        }
-    },
-    "oi19PT30Q3": {
-        "id": "oi19PT30Q3",
-        "title": "Террор",
-        "author": "Дэн Симмонс",
-        "notes": "",
-        "createdAt": "2021-01-19 21:26:14",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 838
         }
     }
 }

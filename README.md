@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Райский сад ~ [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup>
+    > 9/10
+
 * Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
     > 10/10 Лучшая из прочитанных биографий на данный момент
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Боевая фантастика - Постапокалипсис
 
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
-    > Фентези
-    > Уже читал раньше и не больно понравилось слишком затянуто про Ведьм, Мавок и детектив.... Писала женщина слишком много чувств - не интересно
-    > Оценка 3
 
 * Мы против вас ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
 
-* Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>118</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>119</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>277</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>73</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>78</sup> 
 
 
-_24.01.2021 22:13:45_
+_24.01.2021 22:14:38_

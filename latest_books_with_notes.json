@@ -1,4 +1,16 @@
 {
+    "Je7y7-45Pa": {
+        "id": "Je7y7-45Pa",
+        "title": "Райский сад",
+        "author": "Эрнест Хемингуэй",
+        "notes": "9/10",
+        "createdAt": "2021-01-24 22:14:38",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 119
+        }
+    },
     "zP7iYwBKRK": {
         "id": "zP7iYwBKRK",
         "title": "Becoming",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 8
-        }
-    },
-    "ltlYWX1kKx": {
-        "id": "ltlYWX1kKx",
-        "title": "Регрессор в СССР",
-        "author": "Арх Максим",
-        "notes": "Цикл из 4 книг\nПападанство\nАвтор - \"сделал\" из главного героя \"придурка малолетнего\" Музыка, ВИА, Шолохов (МВД) - (слава, деньги) сломался на 2 книге\nОценка 3-",
-        "createdAt": "2021-01-13 03:55:10",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 7
         }
     }
 }
