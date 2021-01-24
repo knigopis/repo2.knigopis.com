@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
+    > Боевая фантастика - Постапокалипсис
+
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
     > Фентези
     > Уже читал раньше и не больно понравилось слишком затянуто про Ведьм, Мавок и детектив.... Писала женщина слишком много чувств - не интересно
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > проблема с хорошими и плохими людьми в том, что большинство из нас бывает и тем и другим одновременно.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>253</sup>
-    > Ничего ведет в никуда,
 
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 
-* Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>13</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>76</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>1</sup> 
 
 
-_24.01.2021 07:26:34_
+_24.01.2021 07:28:47_
