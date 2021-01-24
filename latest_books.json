@@ -1,4 +1,16 @@
 {
+    "6oifRyOwwD": {
+        "id": "6oifRyOwwD",
+        "title": "Праздничный пикник",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-24 18:04:19",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 276
+        }
+    },
     "v1qjEpRibU": {
         "id": "v1qjEpRibU",
         "title": "Нетопырь",
@@ -341,18 +353,6 @@
         "author": "Рэй Брэдбери",
         "notes": "Про вампира и мальчика, который любит разделывать.",
         "createdAt": "2021-01-19 09:45:49",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 165
-        }
-    },
-    "KqgUwl6W4E": {
-        "id": "KqgUwl6W4E",
-        "title": "Всего лишь лихорадочный бред",
-        "author": "Рэй Брэдбери",
-        "notes": "Захват организма через больного мальчика.",
-        "createdAt": "2021-01-19 09:04:44",
         "user": {
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
