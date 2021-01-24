@@ -1,4 +1,10 @@
 {
+    "116018672874380289920-google": {
+        "id": "116018672874380289920-google",
+        "nickname": "ftplz",
+        "booksCount": 0,
+        "updatedAt": "2021-01-24 23:16:38"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ..",
         "booksCount": 135,
         "updatedAt": "2021-01-17 16:55:49"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 78,
-        "updatedAt": "2021-01-17 15:45:37"
     }
 }
