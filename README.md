@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ftplz](users/116/116018672874380289920-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>277</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup> 
 [jane](users/113/113479058458145129271-google)<sup>5</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>135</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>78</sup> 
 
 
-_24.01.2021 22:14:38_
+_24.01.2021 23:16:39_
