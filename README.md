@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sakaevaralina](users/315/315647032-yandex)<sup>0</sup> 
+[твой маленький гений](users/315/315647032-yandex)<sup>1</sup> 
 [dark death](users/517/5175580462988229760-mailru)<sup>0</sup> 
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>278</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
 
 
-_25.01.2021 09:53:03_
+_25.01.2021 09:54:32_
