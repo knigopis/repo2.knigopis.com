@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бремя страстей человеческих ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup>
+    > Прочитала 26%. Тоже самое, что и «Над пропастью во ржи».
+
 * Эрик Берн ~ [danyluk62](users/374/374149854-vkontakte)<sup>2</sup>
     > Короткая статья-введение знакомит читателя с основными понятиями и взглядом транзакционного анализа на общение.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Райский сад ~ [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup>
-    > 9/10
 
 * Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 
-* Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>280</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>13</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 
 
-_25.01.2021 17:20:39_
+_25.01.2021 18:47:18_

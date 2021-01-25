@@ -1,4 +1,16 @@
 {
+    "EiBQZ5C29X": {
+        "id": "EiBQZ5C29X",
+        "title": "Бремя страстей человеческих",
+        "author": "Уильям Сомерсет Моэм",
+        "notes": "Прочитала 26%. Тоже самое, что и «Над пропастью во ржи».",
+        "createdAt": "2021-01-25 18:47:18",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 168
+        }
+    },
     "NFgb1rJcVv": {
         "id": "NFgb1rJcVv",
         "title": "Эрик Берн",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 274
-        }
-    },
-    "G-q4IHp1dC": {
-        "id": "G-q4IHp1dC",
-        "title": "Увечный поручик или приключение советского сержанта в 19 веке",
-        "author": "Алексеев Дмитрий",
-        "notes": "Альтернативка",
-        "createdAt": "2021-01-15 12:31:09",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 9
         }
     }
 }

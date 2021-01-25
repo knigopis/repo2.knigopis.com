@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бремя страстей человеческих ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup>
 * Эрик Берн ~ [danyluk62](users/374/374149854-vkontakte)<sup>2</sup>
 * ИЗВНЕ.01 «Человек в Сетчатой майке» ~ [vitasoft](users/474/47446642-vkontakte)<sup>13</sup>
 * Райский сад ~ [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup>
@@ -30,7 +31,6 @@
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
 * Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
 * Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
-* Увечный поручик или приключение советского сержанта в 19 веке ~ [dromoman2008](users/444/44461886-yandex)<sup>9</sup>
 
 
-_25.01.2021 12:48:26_
+_25.01.2021 18:47:18_
