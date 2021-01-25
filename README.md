@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эрик Берн ~ [danyluk62](users/374/374149854-vkontakte)<sup>2</sup>
+    > Короткая статья-введение знакомит читателя с основными понятиями и взглядом транзакционного анализа на общение.
+
 * ИЗВНЕ.01 «Человек в Сетчатой майке» ~ [vitasoft](users/474/47446642-vkontakte)<sup>13</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
-    > 10/10 Лучшая из прочитанных биографий на данный момент
 
 * FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
 
-* Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>13</sup> 
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>402</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 [Афет](users/107/107403710743397785066-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
-[bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
 
 
-_25.01.2021 12:30:21_
+_25.01.2021 12:48:26_

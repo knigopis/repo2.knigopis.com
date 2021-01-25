@@ -1,4 +1,16 @@
 {
+    "NFgb1rJcVv": {
+        "id": "NFgb1rJcVv",
+        "title": "Эрик Берн",
+        "author": "Процесс общения",
+        "notes": "Короткая статья-введение знакомит читателя с основными понятиями и взглядом транзакционного анализа на общение.",
+        "createdAt": "2021-01-25 12:48:26",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 2
+        }
+    },
     "4DcpM_4oJA": {
         "id": "4DcpM_4oJA",
         "title": "ИЗВНЕ.01 «Человек в Сетчатой майке»",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 9
-        }
-    },
-    "7g8FqrS0r9": {
-        "id": "7g8FqrS0r9",
-        "title": "Фауст",
-        "author": "Гёте, Иоганн Вольфганг",
-        "notes": "Аудиокнига",
-        "createdAt": "2021-01-14 17:18:37",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 273
         }
     }
 }

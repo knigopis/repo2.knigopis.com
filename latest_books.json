@@ -1,4 +1,16 @@
 {
+    "NFgb1rJcVv": {
+        "id": "NFgb1rJcVv",
+        "title": "Эрик Берн",
+        "author": "Процесс общения",
+        "notes": "Короткая статья-введение знакомит читателя с основными понятиями и взглядом транзакционного анализа на общение.",
+        "createdAt": "2021-01-25 12:48:26",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 2
+        }
+    },
     "4DcpM_4oJA": {
         "id": "4DcpM_4oJA",
         "title": "ИЗВНЕ.01 «Человек в Сетчатой майке»",
@@ -345,18 +357,6 @@
             "id": "9315852-vkontakte",
             "nickname": "partyZZZanka",
             "booksCount": 2
-        }
-    },
-    "hVJ8nxr0AE": {
-        "id": "hVJ8nxr0AE",
-        "title": "Анюта, улыбайся!",
-        "author": "Анна Летняя",
-        "notes": "",
-        "createdAt": "2021-01-21 07:57:28",
-        "user": {
-            "id": "9315852-vkontakte",
-            "nickname": "partyZZZanka",
-            "booksCount": 1
         }
     }
 }

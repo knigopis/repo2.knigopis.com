@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 2,
+        "updatedAt": "2021-01-25 12:48:26"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 57,
         "updatedAt": "2021-01-18 13:37:30"
-    },
-    "259899785-vkontakte": {
-        "id": "259899785-vkontakte",
-        "nickname": "bannickovairina",
-        "booksCount": 1,
-        "updatedAt": "2021-01-18 09:04:49"
     }
 }
