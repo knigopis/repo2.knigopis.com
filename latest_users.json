@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "dark death",
+        "booksCount": 0,
+        "updatedAt": "2021-01-25 08:20:25"
+    },
     "537324487-yandex": {
         "id": "537324487-yandex",
         "nickname": "k0pati4-Wow",
@@ -172,11 +178,5 @@
         "nickname": "Joan8ied",
         "booksCount": 105,
         "updatedAt": "2021-01-17 19:43:27"
-    },
-    "113479058458145129271-google": {
-        "id": "113479058458145129271-google",
-        "nickname": "jane",
-        "booksCount": 5,
-        "updatedAt": "2021-01-17 18:32:50"
     }
 }
