@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sakaevaralina](users/315/315647032-yandex)<sup>0</sup> 
 [dark death](users/517/5175580462988229760-mailru)<sup>0</sup> 
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>278</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
 [](users/204/204820758928251021-mailru)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
-[Joan8ied](users/240/2401650-vkontakte)<sup>105</sup> 
 
 
-_25.01.2021 08:20:26_
+_25.01.2021 09:53:03_
