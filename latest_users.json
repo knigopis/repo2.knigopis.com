@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 13,
+        "updatedAt": "2021-01-25 12:30:21"
+    },
     "100319841-vkontakte": {
         "id": "100319841-vkontakte",
         "nickname": "arctic_foxie",
@@ -172,11 +178,5 @@
         "nickname": "bannickovairina",
         "booksCount": 1,
         "updatedAt": "2021-01-18 09:04:49"
-    },
-    "204820758928251021-mailru": {
-        "id": "204820758928251021-mailru",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-01-17 21:56:42"
     }
 }

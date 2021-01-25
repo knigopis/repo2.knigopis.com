@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ИЗВНЕ.01 «Человек в Сетчатой майке» ~ [vitasoft](users/474/47446642-vkontakte)<sup>13</sup>
+    > audio
+
 * Райский сад ~ [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup>
     > 9/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Лучшая из прочитанных биографий на данный момент
 
 * FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
-    > Боевая фантастика - Постапокалипсис
 
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 
-* Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>13</sup> 
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>402</sup> 
 [твой маленький гений](users/315/315647032-yandex)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Афет](users/107/107403710743397785066-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 [bannickovairina](users/259/259899785-vkontakte)<sup>1</sup> 
-[](users/204/204820758928251021-mailru)<sup>0</sup> 
 
 
-_25.01.2021 11:27:38_
+_25.01.2021 12:30:21_

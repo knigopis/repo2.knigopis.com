@@ -1,5 +1,13 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>12</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>13</sup>
 ---
+
+## 2021
+
+### ИЗВНЕ.01 «Человек в Сетчатой майке»
+Аркадий и Борис Стругацкие
+> [2021-01-25] audio
+
+
 
 ## 2020
 
