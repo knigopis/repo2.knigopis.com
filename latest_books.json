@@ -1,4 +1,16 @@
 {
+    "p3gFLbzYHe": {
+        "id": "p3gFLbzYHe",
+        "title": "Убей сейчас — заплатишь потом",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-25 17:20:39",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 280
+        }
+    },
     "3DNzIETrj_": {
         "id": "3DNzIETrj_",
         "title": "Отрава входит в меню",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 54
-        }
-    },
-    "XxHGZT4kH1": {
-        "id": "XxHGZT4kH1",
-        "title": "Последний вздох",
-        "author": "Джо Хилл",
-        "notes": "Записанные вздохи людей перед смертью.",
-        "createdAt": "2021-01-21 09:35:04",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 167
         }
     }
 }
