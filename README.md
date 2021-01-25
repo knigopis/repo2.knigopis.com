@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>402</sup> 
 [твой маленький гений](users/315/315647032-yandex)<sup>1</sup> 
 [dark death](users/517/5175580462988229760-mailru)<sup>0</sup> 
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>76</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>401</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>154</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>10</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>1</sup> 
 
 
-_25.01.2021 09:54:32_
+_25.01.2021 11:22:41_
