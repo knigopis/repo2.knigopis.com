@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>279</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>13</sup> 
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [твой маленький гений](users/315/315647032-yandex)<sup>1</sup> 
 [dark death](users/517/5175580462988229760-mailru)<sup>0</sup> 
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>278</sup> 
 [ftplz](users/116/116018672874380289920-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>73</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 
 
-_25.01.2021 12:48:26_
+_25.01.2021 14:23:33_
