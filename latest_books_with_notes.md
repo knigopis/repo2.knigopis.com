@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Подсознание может всё! ~ [vitasoft](users/474/47446642-vkontakte)<sup>17</sup>
 * Бремя страстей человеческих ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup>
 * Эрик Берн ~ [danyluk62](users/374/374149854-vkontakte)<sup>2</sup>
 * ИЗВНЕ.01 «Человек в Сетчатой майке» ~ [vitasoft](users/474/47446642-vkontakte)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
 * Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
-* Тяжелый случай ~ [Garka](users/115/115753719718250012620-google)<sup>274</sup>
 
 
-_25.01.2021 18:47:18_
+_26.01.2021 11:35:14_
