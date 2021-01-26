@@ -1,4 +1,16 @@
 {
+    "a7yOZOBf-f": {
+        "id": "a7yOZOBf-f",
+        "title": "Богатый папа бедный папа",
+        "author": "Роберт Кийосаки",
+        "notes": "",
+        "createdAt": "2021-01-26 13:25:27",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 17
+        }
+    },
     "RffiUEreJk": {
         "id": "RffiUEreJk",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 279
-        }
-    },
-    "NFgb1rJcVv": {
-        "id": "NFgb1rJcVv",
-        "title": "Эрик Берн",
-        "author": "Процесс общения",
-        "notes": "Короткая статья-введение знакомит читателя с основными понятиями и взглядом транзакционного анализа на общение.",
-        "createdAt": "2021-01-25 12:48:26",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 2
         }
     }
 }

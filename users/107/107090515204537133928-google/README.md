@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>16</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>17</sup>
 ---
 
 ## 2018
+
+### Богатый папа бедный папа
+Роберт Кийосаки
+> [2018-05-03] 
+
 
 ### Собачье сердце
 Михаил Булгаков
