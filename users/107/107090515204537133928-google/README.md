@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>88</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>89</sup>
 ---
 
 ## 2021
+
+### Холод
+Говард Лавкрафт
+> [2021-01-07] 
+
 
 ### Грузовики
 Стивен Кинг
