@@ -1,12 +1,7 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>17</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>16</sup>
 ---
 
 ## 2021
-
-### ИЗВНЕ.02 «Пришельцы»
-Аркадий и Борис Стругацкие
-> [2021-01-26] 
-
 
 ### ИЗВНЕ.02 «Пришельцы»
 Аркадий и Борис Стругацкие
