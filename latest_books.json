@@ -1,4 +1,16 @@
 {
+    "lpqS6zgsig": {
+        "id": "lpqS6zgsig",
+        "title": "Крестный отец",
+        "author": "Марио Пьюзо",
+        "notes": "",
+        "createdAt": "2021-01-26 13:34:31",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 27
+        }
+    },
     "te2vtMHCWq": {
         "id": "te2vtMHCWq",
         "title": "Падение дома ашеров",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 283
-        }
-    },
-    "OCwH8B02A1": {
-        "id": "OCwH8B02A1",
-        "title": "Подделка для убийства",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-01-26 13:06:38",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 282
         }
     }
 }
