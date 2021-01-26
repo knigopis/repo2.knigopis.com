@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>62</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>63</sup>
 ---
 
 ## 2020
+
+### Что увидишь то и получишь
+Роберт Блох
+> [2020-07-01] 
+
 
 ### Возвращение в ад штат Техас
 Тим Миллер
