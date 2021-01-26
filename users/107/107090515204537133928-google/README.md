@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>61</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>62</sup>
 ---
 
 ## 2020
+
+### Возвращение в ад штат Техас
+Тим Миллер
+> [2020-06-04] 
+
 
 ### Летающий в ночи
 Стивен Кинг
