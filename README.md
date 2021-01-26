@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft](users/474/47446642-vkontakte)<sup>14</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>15</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>280</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>57</sup> 
 
 
-_26.01.2021 06:17:01_
+_26.01.2021 06:17:47_
