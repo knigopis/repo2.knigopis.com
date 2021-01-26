@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>89</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>90</sup>
 ---
 
 ## 2021
+
+### Джонни мнемоник
+Уильям Гибсон
+> [2021-01-09] 
+
 
 ### Холод
 Говард Лавкрафт
