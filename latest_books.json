@@ -1,4 +1,16 @@
 {
+    "k5hyZbk_jz": {
+        "id": "k5hyZbk_jz",
+        "title": "Посторонний",
+        "author": "Альберт Камю",
+        "notes": "",
+        "createdAt": "2021-01-26 14:09:16",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 66
+        }
+    },
     "sLacuGVc_S": {
         "id": "sLacuGVc_S",
         "title": "Дневник Киллера",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 37
-        }
-    },
-    "-x8SPeMJDx": {
-        "id": "-x8SPeMJDx",
-        "title": "Великая шахматная доска",
-        "author": "Збигнев Бжезинский",
-        "notes": "",
-        "createdAt": "2021-01-26 13:42:12",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 36
         }
     }
 }

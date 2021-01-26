@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>65</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>66</sup>
 ---
 
 ## 2020
+
+### Посторонний
+Альберт Камю
+> [2020-07-05] 
+
 
 ### Дневник Киллера
 Дэнни Книг
