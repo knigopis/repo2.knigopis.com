@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>95</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>18</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 
 
-_26.01.2021 21:49:42_
+_26.01.2021 21:49:53_
