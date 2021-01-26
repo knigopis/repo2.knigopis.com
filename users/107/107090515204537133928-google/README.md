@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>49</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>50</sup>
 ---
 
 ## 2020
+
+### Год мудака
+Юрий Бубнов
+> [2020-03-02] 
+
 
 ### Атлант расправил плечи
 Айн Рэнд
