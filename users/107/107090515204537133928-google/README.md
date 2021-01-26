@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>47</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>48</sup>
 ---
 
 ## 2020
+
+### Слуга божий
+Яцек Пекара
+> [2020-02-07] 
+
 
 ### Американский снайпер
 Крис Кайл

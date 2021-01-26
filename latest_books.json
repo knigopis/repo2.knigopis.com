@@ -1,4 +1,16 @@
 {
+    "fuvw7qhmXu": {
+        "id": "fuvw7qhmXu",
+        "title": "Слуга божий",
+        "author": "Яцек Пекара",
+        "notes": "",
+        "createdAt": "2021-01-26 13:49:50",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 48
+        }
+    },
     "IEZWKzXMRb": {
         "id": "IEZWKzXMRb",
         "title": "Американский снайпер",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 19
-        }
-    },
-    "kyUIYgMdoc": {
-        "id": "kyUIYgMdoc",
-        "title": "Как говорить с кем угодно когда угодно",
-        "author": "Дейл Карнеги",
-        "notes": "",
-        "createdAt": "2021-01-26 13:26:37",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 18
         }
     }
 }
