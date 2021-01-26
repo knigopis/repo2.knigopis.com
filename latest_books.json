@@ -1,4 +1,16 @@
 {
+    "y0XP6GleDC": {
+        "id": "y0XP6GleDC",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2021-01-26 13:23:14",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 14
+        }
+    },
     "qNHbInecJ0": {
         "id": "qNHbInecJ0",
         "title": "Буря столетия",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 402
-        }
-    },
-    "i6wOxVieF6": {
-        "id": "i6wOxVieF6",
-        "title": "Дотянуться до звезд",
-        "author": "Эмма Скотт",
-        "notes": "",
-        "createdAt": "2021-01-25 09:54:32",
-        "user": {
-            "id": "315647032-yandex",
-            "nickname": "твой маленький гений",
-            "booksCount": 1
         }
     }
 }

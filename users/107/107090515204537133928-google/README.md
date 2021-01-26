@@ -1,4 +1,4 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>13</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>14</sup>
 ---
 
 ## 2018
@@ -16,6 +16,11 @@
 ### Зов Ктулху
 Говард Лавкрафт
 > [2018-03-06] 
+
+
+### О дивный новый мир
+Олдос Хаксли
+> [2018-03-05] 
 
 
 ### Отцы и дети
