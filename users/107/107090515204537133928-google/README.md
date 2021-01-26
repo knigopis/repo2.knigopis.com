@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>40</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>41</sup>
 ---
 
 ## 2020
+
+### Красная капелла
+Жиль Перро
+> [2020-01-09] 
+
 
 ### На западном фронте без перемен
 Эрих Мария Ремарк
