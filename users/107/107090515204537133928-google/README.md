@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>6</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>7</sup>
 ---
 
 ## 2018
+
+### Пролетая над гнездом кукушки
+Кен Кизи
+> [2018-02-03] 
+
 
 ### Смиренные сёстры Элурии
 Стивен Кинг

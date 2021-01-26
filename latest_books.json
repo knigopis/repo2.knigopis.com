@@ -1,4 +1,16 @@
 {
+    "2Bd2mu46OE": {
+        "id": "2Bd2mu46OE",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2021-01-26 13:17:03",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 7
+        }
+    },
     "3hTSSfye2h": {
         "id": "3hTSSfye2h",
         "title": "Смиренные сёстры Элурии",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 73
-        }
-    },
-    "K4QzKPU6hT": {
-        "id": "K4QzKPU6hT",
-        "title": "Золотые пауки",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-01-24 12:47:30",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 275
         }
     }
 }
