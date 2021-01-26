@@ -1,4 +1,16 @@
 {
+    "_52baO1tzG": {
+        "id": "_52baO1tzG",
+        "title": "Биография",
+        "author": "Джакомо Казанова",
+        "notes": "",
+        "createdAt": "2021-01-26 13:56:50",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 55
+        }
+    },
     "SDTpPEdXUu": {
         "id": "SDTpPEdXUu",
         "title": "Жребий салема",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 26
-        }
-    },
-    "PhW6ks8VLS": {
-        "id": "PhW6ks8VLS",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2021-01-26 13:33:07",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 25
         }
     }
 }
