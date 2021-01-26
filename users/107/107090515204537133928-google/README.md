@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>53</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>54</sup>
 ---
 
 ## 2020
+
+### Жребий салема
+Стивен Кинг
+> [2020-03-09] 
+
 
 ### Искусство войны
 Сунь Цзы
