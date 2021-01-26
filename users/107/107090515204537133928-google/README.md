@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>10</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>11</sup>
 ---
 
 ## 2018
+
+### Цветы для Элджернона
+Дэниэл Киз
+> [2018-03-08] 
+
 
 ### Зов Ктулху
 Говард Лавкрафт

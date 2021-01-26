@@ -1,4 +1,16 @@
 {
+    "JTGPCpOwXx": {
+        "id": "JTGPCpOwXx",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниэл Киз",
+        "notes": "",
+        "createdAt": "2021-01-26 13:21:04",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 11
+        }
+    },
     "l-xz2541i3": {
         "id": "l-xz2541i3",
         "title": "Зов Ктулху",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 119
-        }
-    },
-    "zP7iYwBKRK": {
-        "id": "zP7iYwBKRK",
-        "title": "Becoming",
-        "author": "Мишель Обама",
-        "notes": "10/10 Лучшая из прочитанных биографий на данный момент",
-        "createdAt": "2021-01-24 22:13:45",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 118
         }
     }
 }
