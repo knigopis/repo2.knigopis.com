@@ -1,4 +1,16 @@
 {
+    "JERHmeLxyy": {
+        "id": "JERHmeLxyy",
+        "title": "Судьба человека",
+        "author": "Михаил Шолохов",
+        "notes": "",
+        "createdAt": "2021-01-26 13:27:04",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 19
+        }
+    },
     "kyUIYgMdoc": {
         "id": "kyUIYgMdoc",
         "title": "Как говорить с кем угодно когда угодно",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 168
-        }
-    },
-    "p3gFLbzYHe": {
-        "id": "p3gFLbzYHe",
-        "title": "Убей сейчас — заплатишь потом",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-01-25 17:20:39",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 280
         }
     }
 }

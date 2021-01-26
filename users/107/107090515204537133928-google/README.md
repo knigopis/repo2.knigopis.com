@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>18</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>19</sup>
 ---
 
 ## 2018
+
+### Судьба человека
+Михаил Шолохов
+> [2018-05-05] 
+
 
 ### Как говорить с кем угодно когда угодно
 Дейл Карнеги
