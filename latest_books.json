@@ -1,4 +1,16 @@
 {
+    "RffiUEreJk": {
+        "id": "RffiUEreJk",
+        "title": "Собачье сердце",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2021-01-26 13:24:43",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 16
+        }
+    },
     "1UGWvMkglL": {
         "id": "1UGWvMkglL",
         "title": "Роковые яйца",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 2
-        }
-    },
-    "4DcpM_4oJA": {
-        "id": "4DcpM_4oJA",
-        "title": "ИЗВНЕ.01 «Человек в Сетчатой майке»",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "audio",
-        "createdAt": "2021-01-25 12:30:21",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 13
         }
     }
 }

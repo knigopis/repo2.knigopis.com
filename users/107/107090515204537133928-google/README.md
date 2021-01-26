@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>15</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>16</sup>
 ---
 
 ## 2018
+
+### Собачье сердце
+Михаил Булгаков
+> [2018-05-02] 
+
 
 ### Роковые яйца
 Михаил Булгаков
