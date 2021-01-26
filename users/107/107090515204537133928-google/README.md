@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>2</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>3</sup>
 ---
 
 ## 2018
+
+### Извлечение троих
+Стивен Кинг
+> [2018-01-26] 
+
 
 ### Скотный двор
 Джордж Оруэлл
