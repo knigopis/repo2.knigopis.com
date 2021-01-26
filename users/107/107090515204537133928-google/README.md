@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>68</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>69</sup>
 ---
 
 ## 2020
+
+### Пикник на обочине
+Аркадий И Борис Стругацкие
+> [2020-08-01] 
+
 
 ### Как закалялась сталь
 Николай Островский
