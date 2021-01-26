@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>44</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>45</sup>
 ---
 
 ## 2020
+
+### Путь срвершенства
+Брюс Ли
+> [2020-02-04] 
+
 
 ### Красная таблетка
 Андрей Курпатов
