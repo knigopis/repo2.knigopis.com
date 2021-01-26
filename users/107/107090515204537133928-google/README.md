@@ -1,5 +1,13 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>34</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>35</sup>
 ---
+
+## 2020
+
+### Москва Петушки
+Венедикт Ерофеев
+> [2020-01-01] 
+
+
 
 ## 2019
 
