@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>286</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>95</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>136</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>285</sup> 
 [Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 
 
-_26.01.2021 21:50:47_
+_26.01.2021 22:51:08_
