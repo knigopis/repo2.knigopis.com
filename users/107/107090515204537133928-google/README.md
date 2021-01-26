@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>28</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>29</sup>
 ---
 
 ## 2019
+
+### Тропический ужас
+Уильям Хоуп Ходжсон
+> [2019-03-05] 
+
 
 ### Дракула
 Брэм Стокер
