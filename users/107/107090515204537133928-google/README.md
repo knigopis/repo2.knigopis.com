@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>84</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>85</sup>
 ---
 
 ## 2021
+
+### И грянул гром
+Рэй Брэдбери
+> [2021-01-04] 
+
 
 ### Посылка
 Ричард Мэтисон
