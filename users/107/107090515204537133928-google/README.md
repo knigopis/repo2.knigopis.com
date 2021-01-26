@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>73</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>74</sup>
 ---
 
 ## 2020
+
+### Форест Гамп
+Уинстон Грум
+> [2020-08-05] 
+
 
 ### Мы
 Евгений Замятин
