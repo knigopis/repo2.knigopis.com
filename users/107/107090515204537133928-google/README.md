@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>77</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>78</sup>
 ---
 
 ## 2020
+
+### Кожа отцов
+Клайв Баркер
+> [2020-09-01] 
+
 
 ### Герой нашего времени
 Михаил Лермонтов
