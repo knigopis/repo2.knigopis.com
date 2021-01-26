@@ -1,4 +1,16 @@
 {
+    "IEZWKzXMRb": {
+        "id": "IEZWKzXMRb",
+        "title": "Американский снайпер",
+        "author": "Крис Кайл",
+        "notes": "",
+        "createdAt": "2021-01-26 13:49:12",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 47
+        }
+    },
     "XA1ph9jztK": {
         "id": "XA1ph9jztK",
         "title": "Алый",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 18
-        }
-    },
-    "a7yOZOBf-f": {
-        "id": "a7yOZOBf-f",
-        "title": "Богатый папа бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "",
-        "createdAt": "2021-01-26 13:25:27",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 17
         }
     }
 }
