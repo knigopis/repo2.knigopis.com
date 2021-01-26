@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>37</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>38</sup>
 ---
 
 ## 2020
+
+### Архоны мировое правительство
+Анастасия Новых
+> [2020-01-06] 
+
 
 ### Имя мне Легион
 Роджер Желязны
