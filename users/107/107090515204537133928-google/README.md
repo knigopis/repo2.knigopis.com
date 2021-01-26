@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>87</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>88</sup>
 ---
 
 ## 2021
+
+### Грузовики
+Стивен Кинг
+> [2021-01-07] 
+
 
 ### Вторая модель
 Филип Дик
