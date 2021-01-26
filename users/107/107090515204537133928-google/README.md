@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>71</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>72</sup>
 ---
 
 ## 2020
+
+### Кто финансирует развал России
+Николай Стариков
+> [2020-08-03] 
+
 
 ### Не стреляйте белых лебедей
 Борис Васильев
