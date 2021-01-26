@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>5</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>6</sup>
 ---
 
 ## 2018
+
+### Смиренные сёстры Элурии
+Стивен Кинг
+> [2018-02] 
+
 
 ### Колдун и камень
 Стивен Кинг
