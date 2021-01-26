@@ -1,4 +1,16 @@
 {
+    "_kJh5QJmPe": {
+        "id": "_kJh5QJmPe",
+        "title": "Эффект бабочки",
+        "author": "Джеймс Сваллоу",
+        "notes": "",
+        "createdAt": "2021-01-26 14:12:19",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 70
+        }
+    },
     "rr7n6Nan97": {
         "id": "rr7n6Nan97",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 41
-        }
-    },
-    "7qWrgoF_H0": {
-        "id": "7qWrgoF_H0",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2021-01-26 13:44:49",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 40
         }
     }
 }
