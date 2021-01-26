@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>33</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>34</sup>
 ---
 
 ## 2019
+
+### Повелитель мух
+Уильям Голдинг
+> [2019-08-08] 
+
 
 ### Хребты безумия
 Говард Лавкрафт
