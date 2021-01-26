@@ -1,4 +1,16 @@
 {
+    "72edfTKdKA": {
+        "id": "72edfTKdKA",
+        "title": "Атлант расправил плечи",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2021-01-26 13:50:29",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 49
+        }
+    },
     "fuvw7qhmXu": {
         "id": "fuvw7qhmXu",
         "title": "Слуга божий",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 20
-        }
-    },
-    "JERHmeLxyy": {
-        "id": "JERHmeLxyy",
-        "title": "Судьба человека",
-        "author": "Михаил Шолохов",
-        "notes": "",
-        "createdAt": "2021-01-26 13:27:04",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 19
         }
     }
 }
