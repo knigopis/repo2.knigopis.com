@@ -1,4 +1,16 @@
 {
+    "OCwH8B02A1": {
+        "id": "OCwH8B02A1",
+        "title": "Подделка для убийства",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-26 13:06:38",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 282
+        }
+    },
     "mxdr2jCWtU": {
         "id": "mxdr2jCWtU",
         "title": "Убийство на родео",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 253
-        }
-    },
-    "W2v41hjX9j": {
-        "id": "W2v41hjX9j",
-        "title": "Королева Ничего",
-        "author": "Холли Блэк",
-        "notes": "",
-        "createdAt": "2021-01-21 22:22:10",
-        "user": {
-            "id": "2710776892572610-facebook",
-            "nickname": "Marcus",
-            "booksCount": 10
         }
     }
 }
