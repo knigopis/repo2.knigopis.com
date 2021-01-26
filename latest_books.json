@@ -1,4 +1,16 @@
 {
+    "7qWrgoF_H0": {
+        "id": "7qWrgoF_H0",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2021-01-26 13:44:49",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 40
+        }
+    },
     "NEq92RtMJJ": {
         "id": "NEq92RtMJJ",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 11
-        }
-    },
-    "l-xz2541i3": {
-        "id": "l-xz2541i3",
-        "title": "Зов Ктулху",
-        "author": "Говард Лавкрафт",
-        "notes": "",
-        "createdAt": "2021-01-26 13:20:08",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 10
         }
     }
 }

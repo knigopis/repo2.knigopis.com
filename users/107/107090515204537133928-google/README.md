@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>39</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>40</sup>
 ---
 
 ## 2020
+
+### На западном фронте без перемен
+Эрих Мария Ремарк
+> [2020-01-08] 
+
 
 ### Чайка по имени Джонатан Ливингстон
 Ричард Бах
