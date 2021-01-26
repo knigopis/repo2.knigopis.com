@@ -1,4 +1,16 @@
 {
+    "Eb2eaXDRIb": {
+        "id": "Eb2eaXDRIb",
+        "title": "Смерть демона",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-26 13:07:19",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 283
+        }
+    },
     "OCwH8B02A1": {
         "id": "OCwH8B02A1",
         "title": "Подделка для убийства",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 154
-        }
-    },
-    "zgMv1bHfjm": {
-        "id": "zgMv1bHfjm",
-        "title": "",
-        "author": "",
-        "notes": "Ничего ведет в никуда,",
-        "createdAt": "2021-01-22 06:05:00",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 253
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>282</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>283</sup>
 ---
 
 ## 2021
+
+### Смерть демона
+Рекс Стаут
+> [2021-01-26] 
+
 
 ### Подделка для убийства
 Рекс Стаут
