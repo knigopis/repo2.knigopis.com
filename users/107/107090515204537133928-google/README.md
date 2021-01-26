@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>24</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>25</sup>
 ---
 
 ## 2019
+
+### Бойцовский клуб
+Чак Паланик
+> [2019-02-03] 
+
 
 ### Калина красная
 Василий Шукшин
