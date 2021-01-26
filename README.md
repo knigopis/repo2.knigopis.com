@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Историческое описание земли войска донского ~ [mfevralev](users/140/140966150-vkontakte)<sup>49</sup>
+    > Отличная книга
+
 * Подсознание может всё! ~ [vitasoft](users/474/47446642-vkontakte)<sup>17</sup>
     > audio
     > la secret
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Прочитала 26%. Тоже самое, что и «Над пропастью во ржи».
 
 * Эрик Берн ~ [danyluk62](users/374/374149854-vkontakte)<sup>2</sup>
-    > Короткая статья-введение знакомит читателя с основными понятиями и взглядом транзакционного анализа на общение.
 
 * ИЗВНЕ.01 «Человек в Сетчатой майке» ~ [vitasoft](users/474/47446642-vkontakte)<sup>13</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Мы против вас ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>253</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>136</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>94</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>838</sup> 
 
 
-_26.01.2021 15:25:41_
+_26.01.2021 15:26:25_

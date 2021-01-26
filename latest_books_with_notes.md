@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Историческое описание земли войска донского ~ [mfevralev](users/140/140966150-vkontakte)<sup>49</sup>
 * Подсознание может всё! ~ [vitasoft](users/474/47446642-vkontakte)<sup>17</sup>
 * Бремя страстей человеческих ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup>
 * Эрик Берн ~ [danyluk62](users/374/374149854-vkontakte)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Конверт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>159</sup>
 * Будет кровь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>158</sup>
 * Старик и море ~ [kissamasya](users/684/68439978-vkontakte)<sup>101</sup>
-* Гриши ~ [dromoman2008](users/444/44461886-yandex)<sup>10</sup>
 
 
-_26.01.2021 11:35:14_
+_26.01.2021 15:26:25_
