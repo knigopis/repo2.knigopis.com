@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>17</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>18</sup>
 ---
 
 ## 2018
+
+### Как говорить с кем угодно когда угодно
+Дейл Карнеги
+> [2018-05-04] 
+
 
 ### Богатый папа бедный папа
 Роберт Кийосаки
