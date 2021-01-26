@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>86</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>87</sup>
 ---
 
 ## 2021
+
+### Вторая модель
+Филип Дик
+> [2021-01-06] 
+
 
 ### Полуночный экспресс с мясом
 Клайв Баркер
