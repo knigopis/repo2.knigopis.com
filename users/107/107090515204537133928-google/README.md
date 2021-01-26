@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>66</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>67</sup>
 ---
 
 ## 2020
+
+### День шакала
+Фредерик Форсайт
+> [2020-07-07] 
+
 
 ### Посторонний
 Альберт Камю
