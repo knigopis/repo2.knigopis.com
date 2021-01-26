@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>79</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>80</sup>
 ---
 
 ## 2020
+
+### Джаг хищник
+Зеб Шилликот
+> [2020-09-09] 
+
 
 ### Дарт Бэйн путь разрушения
 Дрю Карпишин
