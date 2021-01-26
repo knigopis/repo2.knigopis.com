@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>30</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>31</sup>
 ---
 
 ## 2019
+
+### Автостопом по галактике
+Дуглас Адамс
+> [2019-06-06] 
+
 
 ### Зверобой
 Джеймс Фенимор Купер
