@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>75</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>76</sup>
 ---
 
 ## 2020
+
+### Философия мировой политики
+Борис Кригер
+> [2020-08-07] 
+
 
 ### Хаос и революция оружие доллара
 Николай Стариков
