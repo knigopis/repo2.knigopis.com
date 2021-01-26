@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>91</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>92</sup>
 ---
 
 ## 2021
+
+### Я легенда
+Ричард Мэтисон
+> [2021-01-10] 
+
 
 ### Муха
 Джордж Лангелан
