@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>42</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>43</sup>
 ---
 
 ## 2020
+
+### Дом смеющихся лиц
+Евгений Долматович
+> [2020-02-02] 
+
 
 ### Дорога
 Кормак Маккарти
