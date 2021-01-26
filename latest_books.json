@@ -1,4 +1,16 @@
 {
+    "U0DsLpWFnB": {
+        "id": "U0DsLpWFnB",
+        "title": "Хребты безумия",
+        "author": "Говард Лавкрафт",
+        "notes": "",
+        "createdAt": "2021-01-26 13:38:25",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 33
+        }
+    },
     "w0BAmZWUsn": {
         "id": "w0BAmZWUsn",
         "title": "Подземелье",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 4
-        }
-    },
-    "0HGNEXKEsS": {
-        "id": "0HGNEXKEsS",
-        "title": "Извлечение троих",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-01-26 13:13:59",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 3
         }
     }
 }
