@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>50</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>51</sup>
 ---
 
 ## 2020
+
+### 12 правил жизни
+Джордан Питерсон
+> [2020-03-03] 
+
 
 ### Год мудака
 Юрий Бурносов
