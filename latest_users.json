@@ -1,4 +1,10 @@
 {
+    "9315852-vkontakte": {
+        "id": "9315852-vkontakte",
+        "nickname": "partyZZZanka",
+        "booksCount": 3,
+        "updatedAt": "2021-01-26 15:25:41"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -154,12 +160,6 @@
         "nickname": "toly.panin",
         "booksCount": 0,
         "updatedAt": "2021-01-21 08:43:51"
-    },
-    "9315852-vkontakte": {
-        "id": "9315852-vkontakte",
-        "nickname": "partyZZZanka",
-        "booksCount": 2,
-        "updatedAt": "2021-01-21 07:57:58"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",

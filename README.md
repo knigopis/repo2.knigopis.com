@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[partyZZZanka](users/931/9315852-vkontakte)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>136</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>94</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>285</sup> 
@@ -60,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
-[partyZZZanka](users/931/9315852-vkontakte)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
 
 
-_26.01.2021 15:02:00_
+_26.01.2021 15:25:41_
