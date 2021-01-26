@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>74</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>75</sup>
 ---
 
 ## 2020
+
+### Хаос и революция оружие доллара
+Николай Стариков
+> [2020-08-06] 
+
 
 ### Форест Гамп
 Уинстон Грум
