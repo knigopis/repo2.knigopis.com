@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>92</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>93</sup>
 ---
 
 ## 2021
+
+### Сон манекена
+Томас Лиготти
+> [2021-01-12] 
+
 
 ### Я легенда
 Ричард Мэтисон
