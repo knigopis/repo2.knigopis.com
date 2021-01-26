@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>136</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>94</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>285</sup> 
 [Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>838</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>10</sup> 
 
 
-_26.01.2021 14:33:01_
+_26.01.2021 15:02:00_

@@ -1,4 +1,16 @@
 {
+    "jjTEgPDJTv": {
+        "id": "jjTEgPDJTv",
+        "title": "Десять тысяч дверей",
+        "author": "Аликс Э. Харроу",
+        "notes": "",
+        "createdAt": "2021-01-26 15:02:00",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 136
+        }
+    },
     "VtjBa_UjDQ": {
         "id": "VtjBa_UjDQ",
         "title": "Ученик монстролога",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 66
-        }
-    },
-    "sLacuGVc_S": {
-        "id": "sLacuGVc_S",
-        "title": "Дневник Киллера",
-        "author": "Дэнни Книг",
-        "notes": "",
-        "createdAt": "2021-01-26 14:08:11",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 65
         }
     }
 }
