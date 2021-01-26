@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>17</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>18</sup>
 ---
 
 ## 2021
+
+### Светопреставление
+Александр Беляев
+> [2021-01-26] paper
+
 
 ### Подсознание может всё!
 Джон Кехо

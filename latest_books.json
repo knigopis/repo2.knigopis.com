@@ -1,4 +1,16 @@
 {
+    "LvjmRZLG25": {
+        "id": "LvjmRZLG25",
+        "title": "Светопреставление",
+        "author": "Александр Беляев",
+        "notes": "paper",
+        "createdAt": "2021-01-26 18:03:06",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 18
+        }
+    },
     "S4nWKJKHWA": {
         "id": "S4nWKJKHWA",
         "title": "Историческое описание земли войска донского",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 69
-        }
-    },
-    "RkzJkmIMHv": {
-        "id": "RkzJkmIMHv",
-        "title": "Как закалялась сталь",
-        "author": "Николай Островский",
-        "notes": "",
-        "createdAt": "2021-01-26 14:10:32",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 68
         }
     }
 }
