@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>9</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>10</sup>
 ---
 
 ## 2018
+
+### Зов Ктулху
+Говард Лавкрафт
+> [2018-03-06] 
+
 
 ### Отцы и дети
 Иван Тургенев

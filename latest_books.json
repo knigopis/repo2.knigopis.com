@@ -1,4 +1,16 @@
 {
+    "l-xz2541i3": {
+        "id": "l-xz2541i3",
+        "title": "Зов Ктулху",
+        "author": "Говард Лавкрафт",
+        "notes": "",
+        "createdAt": "2021-01-26 13:20:08",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 10
+        }
+    },
     "bp3pL7drMX": {
         "id": "bp3pL7drMX",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 118
-        }
-    },
-    "gteVE41t5R": {
-        "id": "gteVE41t5R",
-        "title": "Если бы смерть спала",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-01-24 21:49:45",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 277
         }
     }
 }
