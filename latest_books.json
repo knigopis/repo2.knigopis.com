@@ -1,4 +1,16 @@
 {
+    "sMpufSGE1z": {
+        "id": "sMpufSGE1z",
+        "title": "Затерянный мир",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2021-01-26 06:17:01",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 14
+        }
+    },
     "EiBQZ5C29X": {
         "id": "EiBQZ5C29X",
         "title": "Бремя страстей человеческих",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 160
-        }
-    },
-    "FAlftXbTQo": {
-        "id": "FAlftXbTQo",
-        "title": "Герої народжуються на могилах героїв",
-        "author": "Володимир Шовкошитний",
-        "notes": "10/10 Історія перепоховання тіла василя Стуса у 1989 році.",
-        "createdAt": "2021-01-21 12:33:01",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 159
         }
     }
 }
