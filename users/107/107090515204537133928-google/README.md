@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>80</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>81</sup>
 ---
 
 ## 2020
+
+### 451 градус по Фаренгейту
+Рэй Бредбери
+> [2020-09-09] Прочитал
+
 
 ### Джаг хищник
 Зеб Шилликот
