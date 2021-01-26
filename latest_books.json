@@ -1,4 +1,16 @@
 {
+    "S2ipvnnljD": {
+        "id": "S2ipvnnljD",
+        "title": "Колдун и камень",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-01-26 13:14:36",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 5
+        }
+    },
     "r-HKvqUqsb": {
         "id": "r-HKvqUqsb",
         "title": "Бесплодные земли",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 274
-        }
-    },
-    "5iKxplvnEA": {
-        "id": "5iKxplvnEA",
-        "title": "FERA. Апокалипсис",
-        "author": "Зайцев Константин Александрович",
-        "notes": "Боевая фантастика - Постапокалипсис",
-        "createdAt": "2021-01-24 07:28:47",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 14
         }
     }
 }
