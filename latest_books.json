@@ -1,4 +1,16 @@
 {
+    "iil5cLO0gw": {
+        "id": "iil5cLO0gw",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2021-01-26 18:27:00",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 95
+        }
+    },
     "LvjmRZLG25": {
         "id": "LvjmRZLG25",
         "title": "Светопреставление",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 70
-        }
-    },
-    "rr7n6Nan97": {
-        "id": "rr7n6Nan97",
-        "title": "Пикник на обочине",
-        "author": "Аркадий И Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2021-01-26 14:11:23",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 69
         }
     }
 }
