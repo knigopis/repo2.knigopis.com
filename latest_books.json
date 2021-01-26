@@ -1,4 +1,16 @@
 {
+    "bp3pL7drMX": {
+        "id": "bp3pL7drMX",
+        "title": "Отцы и дети",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2021-01-26 13:19:37",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 9
+        }
+    },
     "P1zn7z0CYi": {
         "id": "P1zn7z0CYi",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 277
-        }
-    },
-    "6oifRyOwwD": {
-        "id": "6oifRyOwwD",
-        "title": "Праздничный пикник",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-01-24 18:04:19",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 276
         }
     }
 }
