@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>58</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>59</sup>
 ---
 
 ## 2020
+
+### Ад штат Техас
+Тим Миллер
+> [2020-06-01] 
+
 
 ### Иван Васильевич
 Михаил Булгаков
