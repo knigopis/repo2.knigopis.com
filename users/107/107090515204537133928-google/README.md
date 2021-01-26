@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>35</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>36</sup>
 ---
 
 ## 2020
+
+### Великая шахматная доска
+Збигнев Бжезинский
+> [2020-01-03] 
+
 
 ### Москва Петушки
 Венедикт Ерофеев
