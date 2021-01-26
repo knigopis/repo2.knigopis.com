@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>59</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>60</sup>
 ---
 
 ## 2020
+
+### Испанская тетрадь
+Владимир Познер
+> [2020-06-02] 
+
 
 ### Ад штат Техас
 Тим Миллер
