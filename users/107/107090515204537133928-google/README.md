@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>67</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>68</sup>
 ---
 
 ## 2020
+
+### Как закалялась сталь
+Николай Островский
+> [2020-07-08] 
+
 
 ### День шакала
 Фредерик Форсайт
