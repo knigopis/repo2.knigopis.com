@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>14</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>15</sup>
 ---
 
 ## 2018
+
+### Роковые яйца
+Михаил Булгаков
+> [2018-05-01] 
+
 
 ### Заводной апельсин
 Энтони Берджесс
