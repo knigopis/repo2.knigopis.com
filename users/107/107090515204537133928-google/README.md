@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>60</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>61</sup>
 ---
 
 ## 2020
+
+### Летающий в ночи
+Стивен Кинг
+> [2020-06-03] 
+
 
 ### Испанская тетрадь
 Владимир Познер
