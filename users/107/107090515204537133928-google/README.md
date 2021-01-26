@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>41</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>42</sup>
 ---
 
 ## 2020
+
+### Дорога
+Кормак Маккарти
+> [2020-02-01] 
+
 
 ### Красная капелла
 Жиль Перро
