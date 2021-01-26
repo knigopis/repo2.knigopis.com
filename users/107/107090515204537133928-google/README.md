@@ -1,11 +1,7 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>96</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>95</sup>
 ---
 
 ## 2021
-
-### И грянул гром
-Рей Бредбери
-
 
 ### Ученик монстролога
 Рик Янси
