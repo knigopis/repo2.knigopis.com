@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>56</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>57</sup>
 ---
 
 ## 2020
+
+### Морфий
+Михаил Булгаков
+> [2020-05-07] 
+
 
 ### Кому на Руси жить хорошо
 Николай Некрасов
