@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 281,
+        "updatedAt": "2021-01-26 13:05:55"
+    },
     "396008489-vkontakte": {
         "id": "396008489-vkontakte",
         "nickname": "Juziz",
@@ -16,12 +22,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 168,
         "updatedAt": "2021-01-25 18:47:18"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 280,
-        "updatedAt": "2021-01-25 17:20:39"
     },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",

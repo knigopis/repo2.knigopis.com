@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>281</sup> 
 [Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>17</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>280</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>402</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Афет](users/107/107403710743397785066-google)<sup>0</sup> 
 
 
-_26.01.2021 12:41:01_
+_26.01.2021 13:05:55_

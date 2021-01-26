@@ -1,4 +1,16 @@
 {
+    "mxdr2jCWtU": {
+        "id": "mxdr2jCWtU",
+        "title": "Убийство на родео",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-26 13:05:55",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 281
+        }
+    },
     "WT1phFBmOU": {
         "id": "WT1phFBmOU",
         "title": "Убийство в Восточном экспрессе",
@@ -345,18 +357,6 @@
             "id": "2710776892572610-facebook",
             "nickname": "Marcus",
             "booksCount": 10
-        }
-    },
-    "dKJrQyjbJR": {
-        "id": "dKJrQyjbJR",
-        "title": "Если наступить завтра",
-        "author": "Сидни Шелдон",
-        "notes": "",
-        "createdAt": "2021-01-21 19:34:42",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 323
         }
     }
 }
