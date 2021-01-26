@@ -1,4 +1,16 @@
 {
+    "866Q7uD7WS": {
+        "id": "866Q7uD7WS",
+        "title": "Франкенштейн",
+        "author": "Мери Шелли",
+        "notes": "",
+        "createdAt": "2021-01-26 13:13:33",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 1
+        }
+    },
     "dRShz8_C3Q": {
         "id": "dRShz8_C3Q",
         "title": "Право умереть",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 254
-        }
-    },
-    "eVIe45VT7l": {
-        "id": "eVIe45VT7l",
-        "title": "Карта Вселенной",
-        "author": "Н. Приямвада",
-        "notes": "",
-        "createdAt": "2021-01-22 14:33:26",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 76
         }
     }
 }
