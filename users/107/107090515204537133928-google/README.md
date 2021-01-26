@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>93</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>94</sup>
 ---
 
 ## 2021
+
+### Ученик монстролога
+Рик Янси
+> [2021-01-13] 
+
 
 ### Сон манекена
 Томас Лиготти
