@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>64</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>65</sup>
 ---
 
 ## 2020
+
+### Дневник Киллера
+Дэнни Книг
+> [2020-07-04] 
+
 
 ### Месть мертво бигфута
 Роман Незнаю

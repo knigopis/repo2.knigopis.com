@@ -1,4 +1,16 @@
 {
+    "sLacuGVc_S": {
+        "id": "sLacuGVc_S",
+        "title": "Дневник Киллера",
+        "author": "Дэнни Книг",
+        "notes": "",
+        "createdAt": "2021-01-26 14:08:11",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 65
+        }
+    },
     "0doSMlMsK5": {
         "id": "0doSMlMsK5",
         "title": "Месть мертво бигфута",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 36
-        }
-    },
-    "EDuTHqszYN": {
-        "id": "EDuTHqszYN",
-        "title": "Москва Петушки",
-        "author": "Венедикт Ерофеев",
-        "notes": "",
-        "createdAt": "2021-01-26 13:40:24",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 35
         }
     }
 }
