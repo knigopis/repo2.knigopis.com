@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>283</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>284</sup>
 ---
 
 ## 2021
+
+### Вышел месяц из тумана
+Рекс Стаут
+> [2021-01-26] 
+
 
 ### Смерть демона
 Рекс Стаут

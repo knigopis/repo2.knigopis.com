@@ -1,4 +1,16 @@
 {
+    "9wGvbVQKgi": {
+        "id": "9wGvbVQKgi",
+        "title": "Вышел месяц из тумана",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-01-26 13:07:57",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 284
+        }
+    },
     "Eb2eaXDRIb": {
         "id": "Eb2eaXDRIb",
         "title": "Смерть демона",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 401
-        }
-    },
-    "csIbT48vq4": {
-        "id": "csIbT48vq4",
-        "title": "Водораздел. Будущее, которое уже которое наступило",
-        "author": "Фурсов Андрей",
-        "notes": "",
-        "createdAt": "2021-01-22 06:14:46",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 154
         }
     }
 }
