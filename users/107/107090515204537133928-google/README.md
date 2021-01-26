@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>23</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>24</sup>
 ---
 
 ## 2019
+
+### Калина красная
+Василий Шукшин
+> [2019-02-02] 
+
 
 ### Над пропастью во ржи
 Джером  Сэлинджер
