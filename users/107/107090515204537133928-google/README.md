@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>76</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>77</sup>
 ---
 
 ## 2020
+
+### Герой нашего времени
+Михаил Лермонтов
+> [2020-09-01] 
+
 
 ### Философия мировой политики
 Борис Кригер

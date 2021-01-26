@@ -1,4 +1,16 @@
 {
+    "1BU80-81RV": {
+        "id": "1BU80-81RV",
+        "title": "Герой нашего времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2021-01-26 14:18:04",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 77
+        }
+    },
     "7zCHwUv1jN": {
         "id": "7zCHwUv1jN",
         "title": "Философия мировой политики",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 48
-        }
-    },
-    "IEZWKzXMRb": {
-        "id": "IEZWKzXMRb",
-        "title": "Американский снайпер",
-        "author": "Крис Кайл",
-        "notes": "",
-        "createdAt": "2021-01-26 13:49:12",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 47
         }
     }
 }
