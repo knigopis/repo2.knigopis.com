@@ -1,4 +1,16 @@
 {
+    "w1Wf30qhsK": {
+        "id": "w1Wf30qhsK",
+        "title": "Заводной апельсин",
+        "author": "Энтони Берджесс",
+        "notes": "",
+        "createdAt": "2021-01-26 13:21:41",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 12
+        }
+    },
     "JTGPCpOwXx": {
         "id": "JTGPCpOwXx",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 278
-        }
-    },
-    "Je7y7-45Pa": {
-        "id": "Je7y7-45Pa",
-        "title": "Райский сад",
-        "author": "Эрнест Хемингуэй",
-        "notes": "9/10",
-        "createdAt": "2021-01-24 22:14:38",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 119
         }
     }
 }
