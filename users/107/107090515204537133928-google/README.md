@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>55</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>56</sup>
 ---
 
 ## 2020
+
+### Кому на Руси жить хорошо
+Николай Некрасов
+> [2020-05-06] 
+
 
 ### Биография
 Джакомо Казанова
