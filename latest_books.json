@@ -1,4 +1,16 @@
 {
+    "QmDbXYnrBU": {
+        "id": "QmDbXYnrBU",
+        "title": "Скотный двор",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2021-01-26 13:13:48",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 2
+        }
+    },
     "866Q7uD7WS": {
         "id": "866Q7uD7WS",
         "title": "Франкенштейн",
@@ -345,18 +357,6 @@
             "id": "6040318868800313324-mailru",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "MqnpFclOmb": {
-        "id": "MqnpFclOmb",
-        "title": "Мы против вас",
-        "author": "",
-        "notes": "проблема с хорошими и плохими людьми в том, что большинство из нас бывает и тем и другим одновременно.",
-        "createdAt": "2021-01-23 07:21:48",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 254
         }
     }
 }
