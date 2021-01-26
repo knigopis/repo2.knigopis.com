@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>29</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>30</sup>
 ---
 
 ## 2019
+
+### Зверобой
+Джеймс Фенимор Купер
+> [2019-03-06] 
+
 
 ### Тропический ужас
 Уильям Хоуп Ходжсон
