@@ -1,4 +1,16 @@
 {
+    "nK7yo3dscG": {
+        "id": "nK7yo3dscG",
+        "title": "Межзвёздный скиталец",
+        "author": "Лондон Джек",
+        "notes": "audio",
+        "createdAt": "2021-01-27 11:51:55",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 22
+        }
+    },
     "DdjD4cXA2i": {
         "id": "DdjD4cXA2i",
         "title": "Дюна",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 80
-        }
-    },
-    "T0TIlb2LaS": {
-        "id": "T0TIlb2LaS",
-        "title": "Дарт Бэйн путь разрушения",
-        "author": "Дрю Карпишин",
-        "notes": "",
-        "createdAt": "2021-01-26 14:20:14",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 79
         }
     }
 }

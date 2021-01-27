@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
+    > audio
+
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
-    > Пришлось читать в нескольких разных версиях перевода, потому что из-за разности восприятия переводчиков иногда менялся смысл происходящего. Сам Джордж считал, что это эссе.
 
 * Футурологический конгресс ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Подсознание может всё! ~ [vitasoft](users/474/47446642-vkontakte)<sup>17</sup>
 
-* Бремя страстей человеческих ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>168</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft](users/474/47446642-vkontakte)<sup>21</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>22</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>287</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 
 
-_27.01.2021 11:40:17_
+_27.01.2021 11:51:55_

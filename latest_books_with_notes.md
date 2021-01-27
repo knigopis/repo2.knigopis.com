@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
 * «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
@@ -30,7 +31,6 @@
 * Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
 * Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
-* Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
 
 
-_27.01.2021 11:40:17_
+_27.01.2021 11:51:55_

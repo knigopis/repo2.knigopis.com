@@ -1,4 +1,4 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>21</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>22</sup>
 ---
 
 ## 2021
@@ -96,6 +96,11 @@
 
 
 ## 2016
+
+### Межзвёздный скиталец
+Лондон Джек
+> [2016-08-01] audio
+
 
 ### 1984
 Джорж Оруэлл
