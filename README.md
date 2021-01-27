@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>22</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>287</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>95</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 
 
-_27.01.2021 11:51:55_
+_27.01.2021 13:46:08_

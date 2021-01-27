@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 96,
+        "updatedAt": "2021-01-27 13:46:08"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -22,12 +28,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 169,
         "updatedAt": "2021-01-26 21:50:47"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 95,
-        "updatedAt": "2021-01-26 21:49:53"
     },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",

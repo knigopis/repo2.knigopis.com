@@ -1,7 +1,11 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>95</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>96</sup>
 ---
 
 ## 2021
+
+### Убийца
+Стивен Кинг
+
 
 ### Ученик монстролога
 Рик Янси
