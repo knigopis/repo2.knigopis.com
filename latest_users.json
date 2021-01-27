@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-01-27 06:00:56"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 238,
         "updatedAt": "2021-01-20 11:51:53"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 146,
-        "updatedAt": "2021-01-19 22:53:58"
     }
 }
