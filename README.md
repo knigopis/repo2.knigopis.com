@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/193/193697993-vkontakte)<sup>0</sup> 
+[butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>19</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>286</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 
 
-_27.01.2021 06:00:56_
+_27.01.2021 06:05:10_
