@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/193/193697993-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>19</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>286</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>238</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 
 
-_27.01.2021 05:40:22_
+_27.01.2021 06:00:56_
