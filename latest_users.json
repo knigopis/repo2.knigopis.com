@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 275,
+        "updatedAt": "2021-01-27 16:22:49"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "toly.panin",
         "booksCount": 0,
         "updatedAt": "2021-01-21 08:43:51"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 238,
-        "updatedAt": "2021-01-20 11:51:53"
     }
 }

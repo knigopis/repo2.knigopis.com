@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
 * Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
@@ -30,7 +31,6 @@
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 * Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
-* Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
 
 
-_27.01.2021 11:51:55_
+_27.01.2021 16:22:49_

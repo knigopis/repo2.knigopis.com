@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
+    > Как правильно спать и избавиться от расстройств со сном. Интересно будет не только тем,  у кого проблемы со сном, но и для общего развития и профилактики "правильного спанья"
+
 * Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
-    > audio
 
 * «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Историческое описание земли войска донского ~ [mfevralev](users/140/140966150-vkontakte)<sup>49</sup>
 
-* Подсознание может всё! ~ [vitasoft](users/474/47446642-vkontakte)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>22</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>287</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 [toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>238</sup> 
 
 
-_27.01.2021 13:46:08_
+_27.01.2021 16:22:49_
