@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
 * «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
 * Футурологический конгресс ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup>
@@ -30,7 +31,6 @@
 * Крошка-убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>163</sup>
 * Ветер ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>162</sup>
 * Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
-* Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
 
 
-_27.01.2021 10:40:18_
+_27.01.2021 11:40:17_

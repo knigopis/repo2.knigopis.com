@@ -1,4 +1,16 @@
 {
+    "DdjD4cXA2i": {
+        "id": "DdjD4cXA2i",
+        "title": "Дюна",
+        "author": "Герберт Фрэнк",
+        "notes": "audio",
+        "createdAt": "2021-01-27 11:40:17",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 21
+        }
+    },
     "Clnw3WYE7-": {
         "id": "Clnw3WYE7-",
         "title": "Как стать самим собой",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 161
-        }
-    },
-    "bDElEEJPqv": {
-        "id": "bDElEEJPqv",
-        "title": "Чёрное зеркало",
-        "author": "Моран Джурич",
-        "notes": "Допельгангер в окнах",
-        "createdAt": "2021-01-18 11:58:38",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 160
         }
     }
 }

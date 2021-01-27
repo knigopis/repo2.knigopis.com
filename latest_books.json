@@ -1,4 +1,16 @@
 {
+    "DdjD4cXA2i": {
+        "id": "DdjD4cXA2i",
+        "title": "Дюна",
+        "author": "Герберт Фрэнк",
+        "notes": "audio",
+        "createdAt": "2021-01-27 11:40:17",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 21
+        }
+    },
     "Clnw3WYE7-": {
         "id": "Clnw3WYE7-",
         "title": "Как стать самим собой",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 79
-        }
-    },
-    "HwDO_pwT-q": {
-        "id": "HwDO_pwT-q",
-        "title": "Кожа отцов",
-        "author": "Клайв Баркер",
-        "notes": "",
-        "createdAt": "2021-01-26 14:18:31",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 78
         }
     }
 }
