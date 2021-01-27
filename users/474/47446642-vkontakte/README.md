@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>19</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>20</sup>
 ---
 
 ## 2021
+
+### Как стать самим собой
+Фридрих Ницше
+> [2021-01-27] audio
+
 
 ### Светопреставление
 Александр Беляев

@@ -1,4 +1,16 @@
 {
+    "Clnw3WYE7-": {
+        "id": "Clnw3WYE7-",
+        "title": "Как стать самим собой",
+        "author": "Фридрих Ницше",
+        "notes": "audio",
+        "createdAt": "2021-01-27 10:40:18",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 20
+        }
+    },
     "Uwrm9MtmQC": {
         "id": "Uwrm9MtmQC",
         "title": "Смерть хлыща",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 78
-        }
-    },
-    "1BU80-81RV": {
-        "id": "1BU80-81RV",
-        "title": "Герой нашего времени",
-        "author": "Михаил Лермонтов",
-        "notes": "",
-        "createdAt": "2021-01-26 14:18:04",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 77
         }
     }
 }
