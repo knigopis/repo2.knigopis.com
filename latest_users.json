@@ -1,4 +1,10 @@
 {
+    "381860300-vkontakte": {
+        "id": "381860300-vkontakte",
+        "nickname": "serdjiio",
+        "booksCount": 0,
+        "updatedAt": "2021-01-27 20:55:47"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 54,
         "updatedAt": "2021-01-21 11:43:32"
-    },
-    "16750341-vkontakte": {
-        "id": "16750341-vkontakte",
-        "nickname": "toly.panin",
-        "booksCount": 0,
-        "updatedAt": "2021-01-21 08:43:51"
     }
 }
