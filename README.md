@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
-[toly.panin](users/167/16750341-vkontakte)<sup>0</sup> 
 
 
-_27.01.2021 16:22:49_
+_27.01.2021 20:55:48_
