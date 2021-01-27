@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 19,
+        "updatedAt": "2021-01-27 05:40:22"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -28,12 +34,6 @@
         "nickname": "Chiffi",
         "booksCount": 254,
         "updatedAt": "2021-01-26 20:23:37"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 18,
-        "updatedAt": "2021-01-26 18:03:06"
     },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",

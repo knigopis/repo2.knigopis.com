@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
 * Футурологический конгресс ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup>
 * Вторая жизнь Уве ~ [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup>
 * Астронавт Джонс. Время звезд. ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
@@ -30,7 +31,6 @@
 * Банка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>161</sup>
 * Чёрное зеркало ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>160</sup>
 * «Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1 ~ [Joan8ied](users/240/2401650-vkontakte)<sup>105</sup>
-* Последнее желание ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>134</sup>
 
 
-_26.01.2021 21:50:47_
+_27.01.2021 05:40:22_

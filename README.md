@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
+    > Пришлось читать в нескольких разных версиях перевода, потому что из-за разности восприятия переводчиков иногда менялся смысл происходящего. Сам Джордж считал, что это эссе.
+
 * Футурологический конгресс ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup>
     > Бросила читать на 37%, лёгкое чтиво в стиле Стругацких.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Скорбь- штука опасная, в том смысле, что, если люди не разделяют её, она сама разделяет людей.
 
 * Астронавт Джонс. Время звезд. ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
-    > Не помню читала ли эти повести раньше. Классика фантастики.
 
 * Светопреставление ~ [vitasoft](users/474/47446642-vkontakte)<sup>18</sup>
 
@@ -27,19 +29,17 @@ Do not use pull requests to make changes here.
 
 * ИЗВНЕ.01 «Человек в Сетчатой майке» ~ [vitasoft](users/474/47446642-vkontakte)<sup>13</sup>
 
-* Райский сад ~ [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>19</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>286</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>95</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>18</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>3</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>136</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>146</sup> 
 
 
-_26.01.2021 22:51:08_
+_27.01.2021 05:40:22_
