@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>161</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>162</sup>
 ---
 
 ## 2021
+
+### #галябезголови
+Люко Дашвар
+> [2021-01-23] 6/10 Галя чорнобай намагється всім допомогти, але стає все гірше.
+
 
 ### Кристина
 Стиве Кинг
