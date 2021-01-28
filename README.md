@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
+    > Пространный рассказ о жизни семьи. Просто, не интересно. Бросила на 28%.
+
 * Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
     > 7/10 За допомогою місцевих політиків російські окупаційні війська розпочали війну на Сході. Детально описані усі події та персоналії.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Жители последнего города на земле борятся за выживание.
 
 * Сосны. Заплутавшие ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>163</sup>
-    > 10/10 Шериф Бёрк обживается в последним городе на земле.
 
 * #галябезголови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>162</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
 
-* Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>24</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>289</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>254</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_28.01.2021 11:09:35_
+_28.01.2021 12:34:43_
