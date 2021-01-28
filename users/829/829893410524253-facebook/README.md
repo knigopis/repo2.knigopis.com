@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>163</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>164</sup>
 ---
 
 ## 2021
+
+### Сосны. Последняя надежда
+Блейк Крауч
+> [2021-01-26] 10/10 Жители последнего города на земле борятся за выживание.
+
 
 ### Сосны. Заплутавшие
 Блейк Крауч
