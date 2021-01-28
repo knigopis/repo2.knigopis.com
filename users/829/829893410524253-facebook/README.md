@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>162</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>163</sup>
 ---
 
 ## 2021
+
+### Сосны. Заплутавшие
+Блейк Крауч
+> [2021-01-25] 10/10 Шериф Бёрк обживается в последним городе на земле.
+
 
 ### #галябезголови
 Люко Дашвар
