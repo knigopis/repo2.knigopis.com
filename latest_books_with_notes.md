@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
 * ИЗВНЕ.03 «На борту «Летучего Голландца» ~ [vitasoft](users/474/47446642-vkontakte)<sup>23</sup>
 * Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
 * Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
@@ -30,7 +31,6 @@
 * Диковинные истории ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>158</sup>
 * Детская площадка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>166</sup>
 * Жилец из верхней комнаты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
-* Всего лишь лихорадочный бред ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>165</sup>
 
 
-_28.01.2021 04:00:21_
+_28.01.2021 10:58:17_

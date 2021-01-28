@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
+    > 8/10 Машина-убийца сводит счеты со своими врагами.
+
 * ИЗВНЕ.03 «На борту «Летучего Голландца» ~ [vitasoft](users/474/47446642-vkontakte)<sup>23</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Как правильно спать и избавиться от расстройств со сном. Интересно будет не только тем,  у кого проблемы со сном, но и для общего развития и профилактики "правильного спанья"
 
 * Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
-    > audio
 
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Астронавт Джонс. Время звезд. ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
 
-* Светопреставление ~ [vitasoft](users/474/47446642-vkontakte)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>24</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>289</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Marcus](users/271/2710776892572610-facebook)<sup>10</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup> 
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_28.01.2021 09:46:11_
+_28.01.2021 10:58:17_

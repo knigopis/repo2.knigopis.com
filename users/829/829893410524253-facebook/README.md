@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>160</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>161</sup>
 ---
 
 ## 2021
+
+### Кристина
+Стиве Кинг
+> [2021-01-22] 8/10 Машина-убийца сводит счеты со своими врагами.
+
 
 ### Мочи манту
 Уляна Супрун
