@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>23</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>24</sup>
 ---
 
 ## 2021
+
+### Так говорил Заратустра
+Фридрих Ницше
+> [2021-01-28] 
+
 
 ### ИЗВНЕ.03 «На борту «Летучего Голландца»
 Аркадий и Борис Стругацкие

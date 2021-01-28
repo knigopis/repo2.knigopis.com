@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft](users/474/47446642-vkontakte)<sup>23</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>24</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>289</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>275</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_28.01.2021 04:00:21_
+_28.01.2021 09:46:11_

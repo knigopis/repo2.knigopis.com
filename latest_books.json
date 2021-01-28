@@ -1,4 +1,16 @@
 {
+    "3QYWSMOHc5": {
+        "id": "3QYWSMOHc5",
+        "title": "Так говорил Заратустра",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2021-01-28 09:46:11",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 24
+        }
+    },
     "CMasGm1LQ7": {
         "id": "CMasGm1LQ7",
         "title": "ИЗВНЕ.03 «На борту «Летучего Голландца»",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 87
-        }
-    },
-    "S-tR_yBuyD": {
-        "id": "S-tR_yBuyD",
-        "title": "Полуночный экспресс с мясом",
-        "author": "Клайв Баркер",
-        "notes": "",
-        "createdAt": "2021-01-26 14:28:57",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 86
         }
     }
 }
