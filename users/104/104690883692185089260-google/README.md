@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>287</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>288</sup>
 ---
 
 ## 2021
+
+### Кровь скажет
+Рекс Стаут
+> [2021-01-28] 
+
 
 ### Смерть хлыща
 Рекс Стаут

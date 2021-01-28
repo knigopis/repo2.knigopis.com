@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>288</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>22</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>287</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_27.01.2021 20:55:48_
+_28.01.2021 01:12:02_
