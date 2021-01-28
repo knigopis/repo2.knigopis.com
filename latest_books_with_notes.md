@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
 * Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
 * Сосны. Заплутавшие ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>163</sup>
 * #галябезголови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>162</sup>
@@ -30,7 +31,6 @@
 * Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
 * Мочи манту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>160</sup>
 * Герої народжуються на могилах героїв ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>159</sup>
-* Последний вздох ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>167</sup>
 
 
-_28.01.2021 11:05:01_
+_28.01.2021 11:09:35_

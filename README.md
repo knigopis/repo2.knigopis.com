@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
+    > 7/10 За допомогою місцевих політиків російські окупаційні війська розпочали війну на Сході. Детально описані усі події та персоналії.
+
 * Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
     > 10/10 Жители последнего города на земле борятся за выживание.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Шериф Бёрк обживается в последним городе на земле.
 
 * #галябезголови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>162</sup>
-    > 6/10 Галя чорнобай намагється всім допомогти, але стає все гірше.
 
 * Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
 
-* «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>24</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>289</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_28.01.2021 11:05:01_
+_28.01.2021 11:09:35_
