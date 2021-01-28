@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ИЗВНЕ.03 «На борту «Летучего Голландца» ~ [vitasoft](users/474/47446642-vkontakte)<sup>23</sup>
+    > audio
+
 * Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
     > Как правильно спать и избавиться от расстройств со сном. Интересно будет не только тем,  у кого проблемы со сном, но и для общего развития и профилактики "правильного спанья"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
-    > audio
 
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Светопреставление ~ [vitasoft](users/474/47446642-vkontakte)<sup>18</sup>
 
-* Историческое описание земли войска донского ~ [mfevralev](users/140/140966150-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>23</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>289</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>22</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_28.01.2021 01:12:39_
+_28.01.2021 04:00:21_

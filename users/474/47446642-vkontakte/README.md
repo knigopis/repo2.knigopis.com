@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>22</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>23</sup>
 ---
 
 ## 2021
+
+### ИЗВНЕ.03 «На борту «Летучего Голландца»
+Аркадий и Борис Стругацкие
+> [2021-01-28] audio
+
 
 ### Как стать самим собой
 Фридрих Ницше
