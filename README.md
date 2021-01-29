@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>74</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>255</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>292</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>77</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dark death](users/517/5175580462988229760-mailru)<sup>0</sup> 
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
 [ftplz](users/116/116018672874380289920-google)<sup>0</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>73</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_29.01.2021 06:08:45_
+_29.01.2021 08:21:07_

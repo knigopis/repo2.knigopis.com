@@ -1,4 +1,16 @@
 {
+    "ThVpb0Zps6": {
+        "id": "ThVpb0Zps6",
+        "title": "Тревожные люди",
+        "author": "Фредрик Бакман",
+        "notes": "",
+        "createdAt": "2021-01-29 08:21:07",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 74
+        }
+    },
     "FMZYvbMdOT": {
         "id": "FMZYvbMdOT",
         "title": "Кот, проходящий сквозь стены",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 95
-        }
-    },
-    "LvjmRZLG25": {
-        "id": "LvjmRZLG25",
-        "title": "Светопреставление",
-        "author": "Александр Беляев",
-        "notes": "paper",
-        "createdAt": "2021-01-26 18:03:06",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 18
         }
     }
 }

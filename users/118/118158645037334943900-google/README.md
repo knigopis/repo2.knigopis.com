@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>73</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>74</sup>
 ---
 
 ## 2021
+
+### Тревожные люди
+Фредрик Бакман
+> [2021-01-29] 
+
 
 ### Нетопырь
 Ю Нёсбе
