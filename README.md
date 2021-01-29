@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>291</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>77</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>290</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_28.01.2021 16:49:03_
+_29.01.2021 01:54:08_
