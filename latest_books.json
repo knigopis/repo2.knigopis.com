@@ -1,4 +1,16 @@
 {
+    "-y8mw2klyz": {
+        "id": "-y8mw2klyz",
+        "title": "Семь этюдов по физике",
+        "author": "К. Ровелли",
+        "notes": "",
+        "createdAt": "2021-01-29 16:05:57",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 78
+        }
+    },
     "cnfOIKXw9A": {
         "id": "cnfOIKXw9A",
         "title": "Гриши 2. Штурм и Буря",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 120
-        }
-    },
-    "lZa3KoJr_g": {
-        "id": "lZa3KoJr_g",
-        "title": "Астронавт Джонс. Время звезд.",
-        "author": "Хайлайн Роберт",
-        "notes": "Не помню читала ли эти повести раньше. Классика фантастики.",
-        "createdAt": "2021-01-26 20:23:37",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 254
         }
     }
 }

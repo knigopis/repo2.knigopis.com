@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>77</sup>
+# List of books read by 4apa<sup>78</sup>
 ---
 
 ## 2021
+
+### Семь этюдов по физике
+К. Ровелли
+> [2021-01-29] 
+
 
 ### Шум и ярость
 У. Фолкнер
