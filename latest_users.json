@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 403,
+        "updatedAt": "2021-01-29 14:15:10"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -106,12 +112,6 @@
         "nickname": "arctic_foxie",
         "booksCount": 0,
         "updatedAt": "2021-01-25 11:27:38"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 402,
-        "updatedAt": "2021-01-25 11:22:41"
     },
     "315647032-yandex": {
         "id": "315647032-yandex",

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>403</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>74</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>255</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>292</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>402</sup> 
 [твой маленький гений](users/315/315647032-yandex)<sup>1</sup> 
 [dark death](users/517/5175580462988229760-mailru)<sup>0</sup> 
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_29.01.2021 08:21:07_
+_29.01.2021 14:15:10_
