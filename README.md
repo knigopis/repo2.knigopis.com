@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lyrebird](users/104/104693265648747604929-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>256</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>75</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>78</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Marcus](users/271/2710776892572610-facebook)<sup>10</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>97</sup> 
-[youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_30.01.2021 18:34:57_
+_30.01.2021 20:34:29_
