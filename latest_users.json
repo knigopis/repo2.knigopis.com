@@ -1,4 +1,10 @@
 {
+    "205788234-yandex": {
+        "id": "205788234-yandex",
+        "nickname": "m.shabasheva",
+        "booksCount": 0,
+        "updatedAt": "2021-01-30 22:32:31"
+    },
     "104693265648747604929-google": {
         "id": "104693265648747604929-google",
         "nickname": "Lyrebird",
@@ -172,11 +178,5 @@
         "nickname": "Lala",
         "booksCount": 323,
         "updatedAt": "2021-01-21 19:34:42"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 97,
-        "updatedAt": "2021-01-21 13:27:59"
     }
 }
