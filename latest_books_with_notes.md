@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
 * Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
@@ -28,9 +29,8 @@
 * FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
 * Мы против вас ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>253</sup>
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
 * Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
 
 
-_29.01.2021 06:08:45_
+_30.01.2021 18:34:57_

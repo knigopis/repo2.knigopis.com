@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
+    > нет лучшего способа прогнать испуг, чем поручить человеку делать то, что он хорошо умеет.
+
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
     > Интересно, но слишком наворочено+ зачем так много всех со всеми?  Ещё и инцест((
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Пространный рассказ о жизни семьи. Просто, не интересно. Бросила на 28%.
 
 * Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
-    > 7/10 За допомогою місцевих політиків російські окупаційні війська розпочали війну на Сході. Детально описані усі події та персоналії.
 
 * Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
 
-* Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>256</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>75</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>255</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>292</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>54</sup> 
 
 
-_30.01.2021 17:28:48_
+_30.01.2021 18:34:57_
