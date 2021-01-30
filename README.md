@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[m.shabasheva](users/205/205788234-yandex)<sup>0</sup> 
+[m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>256</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 
 
-_30.01.2021 22:32:32_
+_30.01.2021 22:35:23_
