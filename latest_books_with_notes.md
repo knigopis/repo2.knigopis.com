@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
@@ -30,7 +31,6 @@
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
 * Мы против вас ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
 * Медвежий угол ~ [Chiffi](users/105/105831994080785626680-google)<sup>252</sup>
-* Лучшая в мире игра ~ [dromoman2008](users/444/44461886-yandex)<sup>12</sup>
 
 
-_30.01.2021 18:34:57_
+_31.01.2021 13:26:19_

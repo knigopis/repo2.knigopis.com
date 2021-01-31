@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
+    > audio
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
     > нет лучшего способа прогнать испуг, чем поручить человеку делать то, что он хорошо умеет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересно, но слишком наворочено+ зачем так много всех со всеми?  Ещё и инцест((
 
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
-    > Пространный рассказ о жизни семьи. Просто, не интересно. Бросила на 28%.
 
 * Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ИЗВНЕ.03 «На борту «Летучего Голландца» ~ [vitasoft](users/474/47446642-vkontakte)<sup>23</sup>
 
-* Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>25</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>294</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>171</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>24</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 
 
-_31.01.2021 11:41:29_
+_31.01.2021 13:26:19_
