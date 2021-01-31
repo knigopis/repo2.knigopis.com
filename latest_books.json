@@ -1,4 +1,16 @@
 {
+    "PGfxI4lbRn": {
+        "id": "PGfxI4lbRn",
+        "title": "Тёмная башня. Стрелок",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-01-31 18:05:21",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 76
+        }
+    },
     "bsWGuPEBws": {
         "id": "bsWGuPEBws",
         "title": "Маленькая книга хорошего сна",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 288
-        }
-    },
-    "2n8zdiC2Wi": {
-        "id": "2n8zdiC2Wi",
-        "title": "Убийца",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-01-27 13:46:08",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 96
         }
     }
 }
