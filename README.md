@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
+    > Ни о чём
+
 * Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > нет лучшего способа прогнать испуг, чем поручить человеку делать то, что он хорошо умеет.
 
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
-    > Интересно, но слишком наворочено+ зачем так много всех со всеми?  Ещё и инцест((
 
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
 
-* ИЗВНЕ.03 «На борту «Летучего Голландца» ~ [vitasoft](users/474/47446642-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>275</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>276</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>25</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>294</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 
 
-_31.01.2021 14:45:00_
+_31.01.2021 14:49:55_
