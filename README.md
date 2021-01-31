@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>276</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>25</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>294</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 
 
-_31.01.2021 14:33:19_
+_31.01.2021 14:44:40_
