@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>276</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>275</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>25</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>294</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 
 
-_31.01.2021 14:44:40_
+_31.01.2021 14:45:00_
