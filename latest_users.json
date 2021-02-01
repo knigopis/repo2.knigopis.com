@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 11,
+        "updatedAt": "2021-02-01 13:44:29"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 154,
         "updatedAt": "2021-01-22 06:14:46"
-    },
-    "2710776892572610-facebook": {
-        "id": "2710776892572610-facebook",
-        "nickname": "Marcus",
-        "booksCount": 10,
-        "updatedAt": "2021-01-21 22:22:10"
     }
 }
