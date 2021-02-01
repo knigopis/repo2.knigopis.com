@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fool1991](users/178/178903487-vkontakte)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>239</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ftplz](users/116/116018672874380289920-google)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>154</sup> 
 
 
-_01.02.2021 13:44:29_
+_01.02.2021 18:26:31_
