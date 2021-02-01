@@ -1,4 +1,10 @@
 {
+    "178903487-vkontakte": {
+        "id": "178903487-vkontakte",
+        "nickname": "Fool1991",
+        "booksCount": 0,
+        "updatedAt": "2021-02-01 18:26:31"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2021-01-23 16:21:43"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 154,
-        "updatedAt": "2021-01-22 06:14:46"
     }
 }
