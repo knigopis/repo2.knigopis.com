@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>239</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>76</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>276</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>154</sup> 
 [Marcus](users/271/2710776892572610-facebook)<sup>10</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>323</sup> 
 
 
-_31.01.2021 22:47:34_
+_01.02.2021 10:39:50_
