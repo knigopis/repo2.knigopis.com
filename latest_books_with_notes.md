@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
 * Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
 * Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
@@ -30,7 +31,6 @@
 * Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
 * FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
 * Ведьмин век ~ [dromoman2008](users/444/44461886-yandex)<sup>13</sup>
-* Мы против вас ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
 
 
-_31.01.2021 14:49:55_
+_02.02.2021 05:11:09_

@@ -1,4 +1,16 @@
 {
+    "o_a8loohFi": {
+        "id": "o_a8loohFi",
+        "title": "Лжец",
+        "author": "Айзек Азимов",
+        "notes": "audio",
+        "createdAt": "2021-02-02 05:11:09",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 26
+        }
+    },
     "bsWGuPEBws": {
         "id": "bsWGuPEBws",
         "title": "Маленькая книга хорошего сна",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 13
-        }
-    },
-    "MqnpFclOmb": {
-        "id": "MqnpFclOmb",
-        "title": "Мы против вас",
-        "author": "",
-        "notes": "проблема с хорошими и плохими людьми в том, что большинство из нас бывает и тем и другим одновременно.",
-        "createdAt": "2021-01-23 07:21:48",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 254
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>25</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>26</sup>
 ---
 
 ## 2021
+
+### Лжец
+Айзек Азимов
+> [2021-02-02] audio
+
 
 ### Мир, которого не может быть
 Клиффорд Саймак

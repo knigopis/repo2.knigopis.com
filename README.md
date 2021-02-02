@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
+    > audio
+
 * Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
     > Ни о чём
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
-    > нет лучшего способа прогнать испуг, чем поручить человеку делать то, что он хорошо умеет.
 
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * #галябезголови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>162</sup>
 
-* Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>26</sup> 
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>239</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>76</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>276</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>25</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>294</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>171</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 
 
-_01.02.2021 18:27:19_
+_02.02.2021 05:11:09_
