@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>26</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>27</sup>
 ---
 
 ## 2021
+
+### Государь
+Никколо Макиавелли
+> [2021-02-02] audio
+
 
 ### Лжец
 Айзек Азимов

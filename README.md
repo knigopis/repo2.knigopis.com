@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
+    > audio
+
 * Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ни о чём
 
 * Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
-    > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сосны. Заплутавшие ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>163</sup>
 
-* #галябезголови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft](users/474/47446642-vkontakte)<sup>26</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>27</sup> 
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>239</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 
 
-_02.02.2021 05:11:09_
+_02.02.2021 08:18:06_
