@@ -1,4 +1,16 @@
 {
+    "h8YWHfl5Vs": {
+        "id": "h8YWHfl5Vs",
+        "title": "Убийство - не шутка",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2021-02-03 20:45:27",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 297
+        }
+    },
     "MbTZpYxGsj": {
         "id": "MbTZpYxGsj",
         "title": "Окончательное решение",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 255
-        }
-    },
-    "GqcpjllcZY": {
-        "id": "GqcpjllcZY",
-        "title": "В лучших семействах",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-01-29 01:54:38",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 292
         }
     }
 }
