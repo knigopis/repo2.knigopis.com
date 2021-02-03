@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
 * Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
 * Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
 * Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
@@ -30,7 +31,6 @@
 * ИЗВНЕ.01 «Человек в Сетчатой майке» ~ [vitasoft](users/474/47446642-vkontakte)<sup>13</sup>
 * Райский сад ~ [Apprentice ](users/528/52821952-vkontakte)<sup>119</sup>
 * Becoming ~ [Apprentice ](users/528/52821952-vkontakte)<sup>118</sup>
-* FERA. Апокалипсис ~ [dromoman2008](users/444/44461886-yandex)<sup>14</sup>
 
 
-_02.02.2021 08:18:06_
+_03.02.2021 15:58:53_

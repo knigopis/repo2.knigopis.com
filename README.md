@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
+    > 6/10 История создания фильмов.
+
 * Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
-    > Ни о чём
 
 * Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
 
-* Сосны. Заплутавшие ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>163</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>79</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>27</sup> 
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>256</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/604/6040318868800313324-mailru)<sup>1</sup> 
 
 
-_03.02.2021 06:43:08_
+_03.02.2021 15:58:53_
