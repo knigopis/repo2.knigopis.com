@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>295</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>296</sup>
 ---
 
 ## 2021
+
+### Окончательное решение
+Рекс Стаут
+> [2021-02] 
+
 
 ### Гамбит
 Рекс Стаут
