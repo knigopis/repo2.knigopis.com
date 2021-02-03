@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 79,
+        "updatedAt": "2021-02-03 06:43:08"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -76,12 +82,6 @@
         "nickname": "Chiffi",
         "booksCount": 256,
         "updatedAt": "2021-01-30 18:34:57"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 78,
-        "updatedAt": "2021-01-29 16:05:57"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

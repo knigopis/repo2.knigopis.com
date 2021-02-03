@@ -1,4 +1,16 @@
 {
+    "_uf0YV0b5y": {
+        "id": "_uf0YV0b5y",
+        "title": "Характер физических законов",
+        "author": "Р. Фейнман",
+        "notes": "",
+        "createdAt": "2021-02-03 06:43:08",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 79
+        }
+    },
     "duFw1Qc_II": {
         "id": "duFw1Qc_II",
         "title": "Государь",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 165
-        }
-    },
-    "2j18wWlajs": {
-        "id": "2j18wWlajs",
-        "title": "Сосны. Последняя надежда",
-        "author": "Блейк Крауч",
-        "notes": "10/10 Жители последнего города на земле борятся за выживание.",
-        "createdAt": "2021-01-28 11:05:01",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 164
         }
     }
 }
