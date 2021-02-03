@@ -1,5 +1,13 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>1</sup>
+# List of books read by [tumturumk](http://vk.com/id135685382)<sup>2</sup>
 ---
+
+## 2021
+
+### Эмоциональный интелект
+Дэниел Гоулман
+> [2021-02-22] 
+
+
 
 ## 2017
 

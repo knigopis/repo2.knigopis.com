@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>79</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
 [ftplz](users/116/116018672874380289920-google)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
-[](users/604/6040318868800313324-mailru)<sup>1</sup> 
 
 
-_03.02.2021 15:58:53_
+_03.02.2021 16:33:16_

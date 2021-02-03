@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tumturumk",
+        "booksCount": 2,
+        "updatedAt": "2021-02-03 16:33:16"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "dromoman2008",
         "booksCount": 14,
         "updatedAt": "2021-01-24 07:28:47"
-    },
-    "6040318868800313324-mailru": {
-        "id": "6040318868800313324-mailru",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2021-01-23 16:21:43"
     }
 }
