@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>295</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>79</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>76</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>276</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>294</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>171</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>14</sup> 
 
 
-_03.02.2021 16:36:09_
+_03.02.2021 20:44:11_
