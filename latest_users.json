@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 299,
+        "updatedAt": "2021-02-04 23:18:50"
+    },
     "100877468102766148730-googleplus": {
         "id": "100877468102766148730-googleplus",
         "nickname": "iztuesz",
@@ -52,12 +58,6 @@
         "nickname": "dmiro",
         "booksCount": 41,
         "updatedAt": "2021-02-04 11:40:07"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 298,
-        "updatedAt": "2021-02-03 20:47:06"
     },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
