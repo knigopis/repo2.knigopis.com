@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>28</sup> 
 [seaman_cn](users/999/9991c551628d9e48f51d07b4f9266d2f-livejournal)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>41</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
 [твой маленький гений](users/315/315647032-yandex)<sup>1</sup> 
 [dark death](users/517/5175580462988229760-mailru)<sup>0</sup> 
-[k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
 
 
-_04.02.2021 13:00:22_
+_04.02.2021 13:46:22_
