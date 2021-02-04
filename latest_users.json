@@ -1,4 +1,10 @@
 {
+    "100877468102766148730-googleplus": {
+        "id": "100877468102766148730-googleplus",
+        "nickname": "iztuesz",
+        "booksCount": 1,
+        "updatedAt": "2021-02-04 19:14:35"
+    },
     "100877468102766148730-google": {
         "id": "100877468102766148730-google",
         "nickname": null,
@@ -10,12 +16,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 172,
         "updatedAt": "2021-02-04 18:29:46"
-    },
-    "100877468102766148730-googleplus": {
-        "id": "100877468102766148730-googleplus",
-        "nickname": "iztuesz",
-        "booksCount": 0,
-        "updatedAt": "2021-02-04 18:13:24"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",

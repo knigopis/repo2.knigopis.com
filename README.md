@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[iztuesz](users/100/100877468102766148730-googleplus)<sup>1</sup> 
 [](users/100/100877468102766148730-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup> 
-[iztuesz](users/100/100877468102766148730-googleplus)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>257</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 
 
-_04.02.2021 19:12:37_
+_04.02.2021 19:14:35_

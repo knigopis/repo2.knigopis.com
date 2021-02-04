@@ -1,4 +1,16 @@
 {
+    "gzO93JdICM": {
+        "id": "gzO93JdICM",
+        "title": "Посторонний",
+        "author": "Альбер Камю",
+        "notes": "",
+        "createdAt": "2021-02-04 19:14:35",
+        "user": {
+            "id": "100877468102766148730-googleplus",
+            "nickname": "iztuesz",
+            "booksCount": 1
+        }
+    },
     "Qpt5-vWgzq": {
         "id": "Qpt5-vWgzq",
         "title": "Ребёнок Розмари",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 293
-        }
-    },
-    "ji-0BPFUPb": {
-        "id": "ji-0BPFUPb",
-        "title": "Парадокс Перфекциониста",
-        "author": "Тал Бен-Шахар",
-        "notes": "",
-        "createdAt": "2021-01-30 22:35:23",
-        "user": {
-            "id": "205788234-yandex",
-            "nickname": "m.shabasheva",
-            "booksCount": 1
         }
     }
 }
