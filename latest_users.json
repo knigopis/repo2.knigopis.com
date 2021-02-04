@@ -1,4 +1,10 @@
 {
+    "100877468102766148730-google": {
+        "id": "100877468102766148730-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-02-04 19:12:37"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "danyluk62",
         "booksCount": 2,
         "updatedAt": "2021-01-25 12:48:26"
-    },
-    "100319841-vkontakte": {
-        "id": "100319841-vkontakte",
-        "nickname": "arctic_foxie",
-        "booksCount": 0,
-        "updatedAt": "2021-01-25 11:27:38"
     }
 }
