@@ -1,4 +1,10 @@
 {
+    "468008034-vkontakte": {
+        "id": "468008034-vkontakte",
+        "nickname": "misterbadtrip",
+        "booksCount": 0,
+        "updatedAt": "2021-02-04 13:46:21"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -172,11 +178,5 @@
         "nickname": "dark death",
         "booksCount": 0,
         "updatedAt": "2021-01-25 08:20:25"
-    },
-    "537324487-yandex": {
-        "id": "537324487-yandex",
-        "nickname": "k0pati4-Wow",
-        "booksCount": 0,
-        "updatedAt": "2021-01-25 08:10:42"
     }
 }
