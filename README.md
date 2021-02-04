@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
+    > audio
+
 * 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
     > 6/10 История создания фильмов.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
-    > audio
 
 * Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
 
-* Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>28</sup> 
 [seaman_cn](users/999/9991c551628d9e48f51d07b4f9266d2f-livejournal)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>41</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>298</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>79</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>27</sup> 
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>239</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [k0pati4-Wow](users/537/537324487-yandex)<sup>0</sup> 
 
 
-_04.02.2021 12:10:15_
+_04.02.2021 13:00:22_

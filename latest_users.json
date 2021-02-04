@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 28,
+        "updatedAt": "2021-02-04 13:00:22"
+    },
     "9991c551628d9e48f51d07b4f9266d2f-livejournal": {
         "id": "9991c551628d9e48f51d07b4f9266d2f-livejournal",
         "nickname": "seaman_cn",
@@ -34,12 +40,6 @@
         "nickname": "4apa",
         "booksCount": 79,
         "updatedAt": "2021-02-03 06:43:08"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 27,
-        "updatedAt": "2021-02-02 08:18:06"
     },
     "178903487-vkontakte": {
         "id": "178903487-vkontakte",

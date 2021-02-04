@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>27</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>28</sup>
 ---
 
 ## 2021
+
+### Как поймать кролика
+Айзек Азимов
+> [2021-02-04] audio
+
 
 ### Государь
 Никколо Макиавелли
