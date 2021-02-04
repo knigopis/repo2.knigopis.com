@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>6</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>7</sup>
 ---
 
 ## 2020
@@ -31,6 +31,11 @@ Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 ### Ваш покорный слуга кот
 Нацумэ Сосэки
 > [2020-06-20] 
+
+
+### Исповедь «неполноценного» человека
+Осаму Дадзай
+> [2020-02-29] 
 
 
 
