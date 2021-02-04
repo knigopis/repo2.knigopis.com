@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[iztuesz](users/100/100877468102766148730-googleplus)<sup>1</sup> 
+[iztuesz](users/100/100877468102766148730-googleplus)<sup>2</sup> 
 [](users/100/100877468102766148730-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>257</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>2</sup> 
 
 
-_04.02.2021 19:14:35_
+_04.02.2021 19:16:45_
