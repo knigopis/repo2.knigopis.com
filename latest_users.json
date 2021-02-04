@@ -1,4 +1,10 @@
 {
+    "100877468102766148730-googleplus": {
+        "id": "100877468102766148730-googleplus",
+        "nickname": "iztuesz",
+        "booksCount": 0,
+        "updatedAt": "2021-02-04 18:13:24"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "arctic_foxie",
         "booksCount": 0,
         "updatedAt": "2021-01-25 11:27:38"
-    },
-    "315647032-yandex": {
-        "id": "315647032-yandex",
-        "nickname": "твой маленький гений",
-        "booksCount": 1,
-        "updatedAt": "2021-01-25 09:54:32"
     }
 }
