@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 172,
+        "updatedAt": "2021-02-04 18:29:46"
+    },
     "100877468102766148730-googleplus": {
         "id": "100877468102766148730-googleplus",
         "nickname": "iztuesz",
@@ -106,12 +112,6 @@
         "nickname": "partyZZZanka",
         "booksCount": 4,
         "updatedAt": "2021-01-31 14:33:19"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 171,
-        "updatedAt": "2021-01-31 09:12:43"
     },
     "205788234-yandex": {
         "id": "205788234-yandex",

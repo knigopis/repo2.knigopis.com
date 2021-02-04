@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ребёнок Розмари ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup>
+    > Читала много раз. Она решила растить сама ребёнка, что бы он боролся с сатанинской частью.
+
 * Фрайди ~ [Chiffi](users/105/105831994080785626680-google)<sup>257</sup>
     > Процессы самоочистки перенаселенных городов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
-    > 6/10 История создания фильмов.
 
 * Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
 
-* Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>257</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>76</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>276</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>171</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [arctic_foxie](users/100/100319841-vkontakte)<sup>0</sup> 
 
 
-_04.02.2021 18:13:24_
+_04.02.2021 18:29:46_

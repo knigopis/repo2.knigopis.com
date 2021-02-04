@@ -1,4 +1,16 @@
 {
+    "Qpt5-vWgzq": {
+        "id": "Qpt5-vWgzq",
+        "title": "Ребёнок Розмари",
+        "author": "Айра Левин",
+        "notes": "Читала много раз. Она решила растить сама ребёнка, что бы он боролся с сатанинской частью.",
+        "createdAt": "2021-02-04 18:29:46",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 172
+        }
+    },
     "O4Ulutt8zu": {
         "id": "O4Ulutt8zu",
         "title": "Фрайди",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 2
-        }
-    },
-    "4DcpM_4oJA": {
-        "id": "4DcpM_4oJA",
-        "title": "ИЗВНЕ.01 «Человек в Сетчатой майке»",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "audio",
-        "createdAt": "2021-01-25 12:30:21",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 13
         }
     }
 }
