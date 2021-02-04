@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фрайди ~ [Chiffi](users/105/105831994080785626680-google)<sup>257</sup>
+    > Процессы самоочистки перенаселенных городов
+
 * Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 История создания фильмов.
 
 * Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
-    > audio
 
 * Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
 
-* Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>257</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>28</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>171</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>256</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [твой маленький гений](users/315/315647032-yandex)<sup>1</sup> 
 
 
-_04.02.2021 17:00:06_
+_04.02.2021 17:07:51_
