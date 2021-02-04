@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>5</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>6</sup>
 ---
 
 ## 2020
@@ -26,6 +26,11 @@
 ### The Moon Over the Mountain: Stories
 Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 > [2020-07-12] 
+
+
+### Ваш покорный слуга кот
+Нацумэ Сосэки
+> [2020-06-20] 
 
 
 
