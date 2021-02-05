@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>13</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>14</sup>
 ---
 
 ## 2020
@@ -63,6 +63,11 @@ Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 
 ### Япония. Как ее понять. Очерки современной японской культуры
 > [2019-06-20] 
+
+
+### Мы
+Евгений Замятин
+> [2019-06-19] 
 
 
 ### 1984. Скотный двор (сборник)
