@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>9</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>10</sup>
 ---
 
 ## 2020
@@ -26,6 +26,11 @@
 ### The Moon Over the Mountain: Stories
 Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 > [2020-07-12] 
+
+
+### Хагакурэ. Сокрытое в листве. Кодекс чести Самурая
+Ямамото Цунэтомо
+> [2020-06-26] 
 
 
 ### Ваш покорный слуга кот

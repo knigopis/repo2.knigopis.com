@@ -1,4 +1,16 @@
 {
+    "1NZPSLlrCV": {
+        "id": "1NZPSLlrCV",
+        "title": "Хагакурэ. Сокрытое в листве. Кодекс чести Самурая",
+        "author": "Ямамото Цунэтомо",
+        "notes": "",
+        "createdAt": "2021-02-05 09:32:19",
+        "user": {
+            "id": "100877468102766148730-googleplus",
+            "nickname": "iztuesz",
+            "booksCount": 10
+        }
+    },
     "DQh12WIicy": {
         "id": "DQh12WIicy",
         "title": "Год жжизни",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 26
-        }
-    },
-    "qhdr1hlX3K": {
-        "id": "qhdr1hlX3K",
-        "title": "",
-        "author": "Оруэлл - 1984",
-        "notes": "",
-        "createdAt": "2021-02-01 18:27:19",
-        "user": {
-            "id": "178903487-vkontakte",
-            "nickname": "Fool1991",
-            "booksCount": 1
         }
     }
 }
