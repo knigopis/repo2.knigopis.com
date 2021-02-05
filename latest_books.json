@@ -1,4 +1,16 @@
 {
+    "nMl03r8_6C": {
+        "id": "nMl03r8_6C",
+        "title": "Вы, конечно, шутите, мистер Фейнман!",
+        "author": "Ричард Фейнман",
+        "notes": "",
+        "createdAt": "2021-02-05 09:35:40",
+        "user": {
+            "id": "100877468102766148730-googleplus",
+            "nickname": "iztuesz",
+            "booksCount": 12
+        }
+    },
     "qx4eTzsKyq": {
         "id": "qx4eTzsKyq",
         "title": "Япония. Как ее понять. Очерки современной японской культуры",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 79
-        }
-    },
-    "duFw1Qc_II": {
-        "id": "duFw1Qc_II",
-        "title": "Государь",
-        "author": "Никколо Макиавелли",
-        "notes": "audio",
-        "createdAt": "2021-02-02 08:18:06",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 27
         }
     }
 }

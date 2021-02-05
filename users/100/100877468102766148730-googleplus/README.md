@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>11</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>12</sup>
 ---
 
 ## 2020
@@ -55,6 +55,11 @@ Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 
 
 ## 2019
+
+### Вы, конечно, шутите, мистер Фейнман!
+Ричард Фейнман
+> [2019-06-20] 
+
 
 ### Япония. Как ее понять. Очерки современной японской культуры
 > [2019-06-20] 
