@@ -1,4 +1,16 @@
 {
+    "xKOSa2LvFP": {
+        "id": "xKOSa2LvFP",
+        "title": "1984. Скотный двор (сборник)",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2021-02-05 09:36:43",
+        "user": {
+            "id": "100877468102766148730-googleplus",
+            "nickname": "iztuesz",
+            "booksCount": 13
+        }
+    },
     "nMl03r8_6C": {
         "id": "nMl03r8_6C",
         "title": "Вы, конечно, шутите, мистер Фейнман!",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 166
-        }
-    },
-    "_uf0YV0b5y": {
-        "id": "_uf0YV0b5y",
-        "title": "Характер физических законов",
-        "author": "Р. Фейнман",
-        "notes": "",
-        "createdAt": "2021-02-03 06:43:08",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 79
         }
     }
 }
