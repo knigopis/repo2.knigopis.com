@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[iztuesz](users/100/100877468102766148730-googleplus)<sup>14</sup> 
+[iztuesz](users/100/100877468102766148730-googleplus)<sup>15</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>301</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 [](users/100/100877468102766148730-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
 
 
-_05.02.2021 09:39:04_
+_05.02.2021 09:41:51_

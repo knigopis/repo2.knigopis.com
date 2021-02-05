@@ -1,4 +1,16 @@
 {
+    "i8iNnS_dY9": {
+        "id": "i8iNnS_dY9",
+        "title": "Легкий способ бросить курить",
+        "author": "Аллен Карр",
+        "notes": "",
+        "createdAt": "2021-02-05 09:41:51",
+        "user": {
+            "id": "100877468102766148730-googleplus",
+            "nickname": "iztuesz",
+            "booksCount": 15
+        }
+    },
     "w9JpECfVMn": {
         "id": "w9JpECfVMn",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 3
-        }
-    },
-    "i93sXdUSkI": {
-        "id": "i93sXdUSkI",
-        "title": "Эмоциональный интелект",
-        "author": "Дэниел Гоулман",
-        "notes": "",
-        "createdAt": "2021-02-03 16:33:16",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tumturumk",
-            "booksCount": 2
         }
     }
 }
