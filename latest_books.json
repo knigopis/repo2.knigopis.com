@@ -1,4 +1,16 @@
 {
+    "I1WY4YHUUD": {
+        "id": "I1WY4YHUUD",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2021-02-05 10:04:27",
+        "user": {
+            "id": "100877468102766148730-googleplus",
+            "nickname": "iztuesz",
+            "booksCount": 16
+        }
+    },
     "i8iNnS_dY9": {
         "id": "i8iNnS_dY9",
         "title": "Легкий способ бросить курить",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 295
-        }
-    },
-    "NgithPf5cw": {
-        "id": "NgithPf5cw",
-        "title": "Пробег из лагеря смерти",
-        "author": "Блейн Харден",
-        "notes": "",
-        "createdAt": "2021-02-03 16:36:09",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tumturumk",
-            "booksCount": 3
         }
     }
 }
