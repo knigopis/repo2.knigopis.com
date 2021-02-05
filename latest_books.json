@@ -1,4 +1,16 @@
 {
+    "_IvyBG_l6C": {
+        "id": "_IvyBG_l6C",
+        "title": "Маленькая книга о черных дырах",
+        "author": "С. Габсер, Ф. Преториус",
+        "notes": "",
+        "createdAt": "2021-02-05 12:14:17",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 80
+        }
+    },
     "FWDCBGW9tf": {
         "id": "FWDCBGW9tf",
         "title": "16 стадий осознанности на пути к освобождению",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 298
-        }
-    },
-    "h8YWHfl5Vs": {
-        "id": "h8YWHfl5Vs",
-        "title": "Убийство - не шутка",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-02-03 20:45:27",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 297
         }
     }
 }
