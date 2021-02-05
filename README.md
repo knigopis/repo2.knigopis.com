@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[iztuesz](users/100/100877468102766148730-googleplus)<sup>9</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>301</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
-[iztuesz](users/100/100877468102766148730-googleplus)<sup>8</sup> 
 [](users/100/100877468102766148730-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>257</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
 
 
-_05.02.2021 06:54:08_
+_05.02.2021 09:31:27_

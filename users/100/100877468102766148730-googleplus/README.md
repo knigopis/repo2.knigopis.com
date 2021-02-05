@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>8</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>9</sup>
 ---
 
 ## 2020
@@ -36,6 +36,11 @@ Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 ### Исповедь «неполноценного» человека
 Осаму Дадзай
 > [2020-02-29] 
+
+
+### Год жжизни
+Евгений Гришковец
+> [2020-01-01] 
 
 
 ### Мудрость Дзен. Сто Историй Пробуждения
