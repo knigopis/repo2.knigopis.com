@@ -1,4 +1,16 @@
 {
+    "qx4eTzsKyq": {
+        "id": "qx4eTzsKyq",
+        "title": "Япония. Как ее понять. Очерки современной японской культуры",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-02-05 09:34:08",
+        "user": {
+            "id": "100877468102766148730-googleplus",
+            "nickname": "iztuesz",
+            "booksCount": 11
+        }
+    },
     "1NZPSLlrCV": {
         "id": "1NZPSLlrCV",
         "title": "Хагакурэ. Сокрытое в листве. Кодекс чести Самурая",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 27
-        }
-    },
-    "o_a8loohFi": {
-        "id": "o_a8loohFi",
-        "title": "Лжец",
-        "author": "Айзек Азимов",
-        "notes": "audio",
-        "createdAt": "2021-02-02 05:11:09",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 26
         }
     }
 }

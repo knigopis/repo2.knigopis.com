@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>10</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>11</sup>
 ---
 
 ## 2020
@@ -51,6 +51,13 @@ Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 ### Мудрость Дзен. Сто Историй Пробуждения
 Томас Клири
 > [2020-01-01] 
+
+
+
+## 2019
+
+### Япония. Как ее понять. Очерки современной японской культуры
+> [2019-06-20] 
 
 
 
