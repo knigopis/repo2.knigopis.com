@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/124/1242356572481047-facebook)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>2</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>16</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
 
 
-_06.02.2021 08:17:07_
+_06.02.2021 14:10:04_
