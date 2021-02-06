@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Каменное эхо ~ [dromoman2008](users/444/44461886-yandex)<sup>16</sup>
+    > Фэнтези
+    > Магия - "битва" света с тьмой
+    > Начал читать - автор скачет от одного героя к другому (не люблю такие книги) - посмотрим что дальше будет
+
 * Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
     > Серия пока из 5 книг
     > Фэнтези
@@ -15,7 +20,6 @@ Do not use pull requests to make changes here.
     > Записи доктора Полякова болеющим морфенизмом.
 
 * Ребёнок Розмари ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup>
-    > Читала много раз. Она решила растить сама ребёнка, что бы он боролся с сатанинской частью.
 
 * Фрайди ~ [Chiffi](users/105/105831994080785626680-google)<sup>257</sup>
 
@@ -29,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
 
-* Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>15</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>16</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>80</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
@@ -68,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
 
 
-_06.02.2021 07:37:13_
+_06.02.2021 07:40:39_
