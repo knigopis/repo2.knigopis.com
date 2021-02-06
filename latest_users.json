@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 155,
+        "updatedAt": "2021-02-06 16:12:38"
+    },
     "1242356572481047-facebook": {
         "id": "1242356572481047-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Naricev",
         "booksCount": 96,
         "updatedAt": "2021-01-27 13:46:08"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 120,
-        "updatedAt": "2021-01-26 21:19:51"
     }
 }
