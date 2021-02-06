@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 2,
+        "updatedAt": "2021-02-06 08:17:07"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -160,12 +166,6 @@
         "nickname": "Naricev",
         "booksCount": 96,
         "updatedAt": "2021-01-27 13:46:08"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 1,
-        "updatedAt": "2021-01-27 06:05:10"
     },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
