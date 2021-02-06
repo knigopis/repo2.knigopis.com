@@ -1,4 +1,10 @@
 {
+    "1242356572481047-facebook": {
+        "id": "1242356572481047-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-02-06 14:10:03"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 120,
         "updatedAt": "2021-01-26 21:19:51"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 49,
-        "updatedAt": "2021-01-26 15:26:25"
     }
 }
