@@ -1,4 +1,16 @@
 {
+    "xsg4mjUoS7": {
+        "id": "xsg4mjUoS7",
+        "title": "ds",
+        "author": "fd",
+        "notes": "",
+        "createdAt": "2021-02-06 14:10:53",
+        "user": {
+            "id": "1242356572481047-facebook",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "lUsICo4NRn": {
         "id": "lUsICo4NRn",
         "title": "Ошибка богов. Обмен телами",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 257
-        }
-    },
-    "qzVSCG440B": {
-        "id": "qzVSCG440B",
-        "title": "Письма Незнакомке",
-        "author": "Андре Моруа",
-        "notes": "",
-        "createdAt": "2021-02-04 17:00:06",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 76
         }
     }
 }
