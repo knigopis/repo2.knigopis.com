@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
+    > Серия пока из 5 книг
+    > Фэнтези
+    > Попаданец в тело.... Если первая книга на 5, то чем дальше тем хуже, автор балаболка, после каждого действия разглагольствования на 5 - 6 страниц , и + видимо дизайнер одежды - описания кто во что одет -  достают Дочитывать серию не буду
+    > Оценка общая 3
+
 * Морфий ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup>
     > Записи доктора Полякова болеющим морфенизмом.
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > Читала много раз. Она решила растить сама ребёнка, что бы он боролся с сатанинской частью.
 
 * Фрайди ~ [Chiffi](users/105/105831994080785626680-google)<sup>257</sup>
-    > Процессы самоочистки перенаселенных городов
 
 * Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
 
@@ -26,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>15</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>80</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
@@ -62,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>49</sup> 
-[Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
 
 
-_06.02.2021 06:42:35_
+_06.02.2021 07:37:13_

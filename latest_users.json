@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 15,
+        "updatedAt": "2021-02-06 07:37:13"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 49,
         "updatedAt": "2021-01-26 15:26:25"
-    },
-    "396008489-vkontakte": {
-        "id": "396008489-vkontakte",
-        "nickname": "Juziz",
-        "booksCount": 15,
-        "updatedAt": "2021-01-26 12:41:01"
     }
 }
