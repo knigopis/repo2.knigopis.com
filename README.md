@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Морфий ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup>
+    > Записи доктора Полякова болеющим морфенизмом.
+
 * Ребёнок Розмари ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup>
     > Читала много раз. Она решила растить сама ребёнка, что бы он боролся с сатанинской частью.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Процессы самоочистки перенаселенных городов
 
 * Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
-    > audio
 
 * 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>256</sup>
 
-* Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>80</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>173</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>301</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 [](users/100/100877468102766148730-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Juziz](users/396/396008489-vkontakte)<sup>15</sup> 
 
 
-_05.02.2021 12:14:17_
+_06.02.2021 06:42:35_
