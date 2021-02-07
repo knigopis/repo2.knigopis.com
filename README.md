@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>839</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>29</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
-[serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 
 
-_07.02.2021 15:30:15_
+_07.02.2021 16:19:13_
