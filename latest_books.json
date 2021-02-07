@@ -1,4 +1,16 @@
 {
+    "i4GTJYNyVo": {
+        "id": "i4GTJYNyVo",
+        "title": "Жизнь после жизни",
+        "author": "Моуди, Раймонд",
+        "notes": "",
+        "createdAt": "2021-02-07 09:12:23",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 428
+        }
+    },
     "hRko7aOzTW": {
         "id": "hRko7aOzTW",
         "title": "Lenin on the Train",
@@ -345,18 +357,6 @@
             "id": "100877468102766148730-googleplus",
             "nickname": "iztuesz",
             "booksCount": 1
-        }
-    },
-    "Qpt5-vWgzq": {
-        "id": "Qpt5-vWgzq",
-        "title": "Ребёнок Розмари",
-        "author": "Айра Левин",
-        "notes": "Читала много раз. Она решила растить сама ребёнка, что бы он боролся с сатанинской частью.",
-        "createdAt": "2021-02-04 18:29:46",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 172
         }
     }
 }

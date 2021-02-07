@@ -1,7 +1,12 @@
-# List of books read by Elixir<sup>427</sup>
+# List of books read by Elixir<sup>428</sup>
 ---
 
 ## 2021
+
+### Жизнь после жизни
+Моуди, Раймонд
+> [2021-02-07] 
+
 
 ### Перекресток
 Чеповой, Владимир

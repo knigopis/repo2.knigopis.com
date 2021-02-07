@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>155</sup> 
 [](users/124/1242356572481047-facebook)<sup>1</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>2</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>96</sup> 
 
 
-_06.02.2021 16:12:38_
+_07.02.2021 09:12:23_
