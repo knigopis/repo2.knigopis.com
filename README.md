@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
+    > Рассуждение о жизни, женщинах и музыки. Много музыки, слишком много. Главный герой судит о людях исходя из их коллекции дисков и винила. в целом не то чтобы плохо, но скучно
+
 * Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
     > День сурка девушки подростка.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Каменное эхо ~ [dromoman2008](users/444/44461886-yandex)<sup>16</sup>
-    > Фэнтези
-    > Магия - "битва" света с тьмой
-    > Начал читать - автор скачет от одного героя к другому (не люблю такие книги) - посмотрим что дальше будет
 
 * Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
 
-* Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>277</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>839</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>29</sup> 
@@ -60,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>239</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>76</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>276</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>403</sup> 
 
 
-_07.02.2021 16:19:13_
+_07.02.2021 17:20:14_
