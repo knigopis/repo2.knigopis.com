@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
 * Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
 * Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
 * Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
 * «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
 * Футурологический конгресс ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup>
-* Вторая жизнь Уве ~ [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup>
 
 
-_07.02.2021 17:20:14_
+_07.02.2021 21:11:46_

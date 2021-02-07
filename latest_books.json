@@ -1,4 +1,16 @@
 {
+    "rh2yEQsNa2": {
+        "id": "rh2yEQsNa2",
+        "title": "Пять языков любви",
+        "author": "Гэри Чепмен",
+        "notes": "1. Слова поощрения\n2. Время\n3. Подарки\n4. Помощь\n5. Прикосновения",
+        "createdAt": "2021-02-07 21:11:46",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 63
+        }
+    },
     "1sUc_TCBlZ": {
         "id": "1sUc_TCBlZ",
         "title": "Рождённый туманом. Источник вознесения",
@@ -345,18 +357,6 @@
             "id": "100877468102766148730-googleplus",
             "nickname": "iztuesz",
             "booksCount": 8
-        }
-    },
-    "0Jyo7V3P-b": {
-        "id": "0Jyo7V3P-b",
-        "title": "Исповедь «неполноценного» человека",
-        "author": "Осаму Дадзай",
-        "notes": "",
-        "createdAt": "2021-02-04 20:01:30",
-        "user": {
-            "id": "100877468102766148730-googleplus",
-            "nickname": "iztuesz",
-            "booksCount": 7
         }
     }
 }

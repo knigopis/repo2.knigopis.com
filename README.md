@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
+    > 1. Слова поощрения
+    > 2. Время
+    > 3. Подарки
+    > 4. Помощь
+    > 5. Прикосновения
+
 * Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
     > Рассуждение о жизни, женщинах и музыки. Много музыки, слишком много. Главный герой судит о людях исходя из их коллекции дисков и винила. в целом не то чтобы плохо, но скучно
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > День сурка девушки подростка.
 
 * Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
-    > audio
 
 * Каменное эхо ~ [dromoman2008](users/444/44461886-yandex)<sup>16</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
 
-* 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>77</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>277</sup> 
@@ -62,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
-[Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
 
 
-_07.02.2021 19:07:16_
+_07.02.2021 21:11:46_
