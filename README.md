@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
+    > День сурка девушки подростка.
+
 * Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
     > audio
 
@@ -14,10 +17,6 @@ Do not use pull requests to make changes here.
     > Начал читать - автор скачет от одного героя к другому (не люблю такие книги) - посмотрим что дальше будет
 
 * Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
-    > Серия пока из 5 книг
-    > Фэнтези
-    > Попаданец в тело.... Если первая книга на 5, то чем дальше тем хуже, автор балаболка, после каждого действия разглагольствования на 5 - 6 страниц , и + видимо дизайнер одежды - описания кто во что одет -  достают Дочитывать серию не буду
-    > Оценка общая 3
 
 * Морфий ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup>
 
@@ -31,20 +30,18 @@ Do not use pull requests to make changes here.
 
 * Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
 
-* Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>29</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>155</sup> 
 [](users/124/1242356572481047-facebook)<sup>1</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>2</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>16</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>80</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>301</sup> 
@@ -70,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 
 
-_07.02.2021 13:58:51_
+_07.02.2021 15:30:15_

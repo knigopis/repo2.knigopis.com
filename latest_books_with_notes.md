@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
 * Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
 * Каменное эхо ~ [dromoman2008](users/444/44461886-yandex)<sup>16</sup>
 * Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
@@ -30,7 +31,6 @@
 * Футурологический конгресс ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>169</sup>
 * Вторая жизнь Уве ~ [Apprentice ](users/528/52821952-vkontakte)<sup>120</sup>
 * Астронавт Джонс. Время звезд. ~ [Chiffi](users/105/105831994080785626680-google)<sup>254</sup>
-* Светопреставление ~ [vitasoft](users/474/47446642-vkontakte)<sup>18</sup>
 
 
-_07.02.2021 13:58:51_
+_07.02.2021 15:30:15_
