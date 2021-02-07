@@ -1,4 +1,16 @@
 {
+    "6lp8N2PbS-": {
+        "id": "6lp8N2PbS-",
+        "title": "Поединок разумов",
+        "author": "Роберт Шекли",
+        "notes": "audio",
+        "createdAt": "2021-02-07 13:58:51",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 29
+        }
+    },
     "EPhGnrPOKi": {
         "id": "EPhGnrPOKi",
         "title": "Каменное эхо",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 18
-        }
-    },
-    "S4nWKJKHWA": {
-        "id": "S4nWKJKHWA",
-        "title": "Историческое описание земли войска донского",
-        "author": "В.Д.Сухоруков",
-        "notes": "Отличная книга",
-        "createdAt": "2021-01-26 15:26:25",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 49
         }
     }
 }

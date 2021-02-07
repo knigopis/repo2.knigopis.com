@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 29,
+        "updatedAt": "2021-02-07 13:58:51"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -82,12 +88,6 @@
         "nickname": "misterbadtrip",
         "booksCount": 0,
         "updatedAt": "2021-02-04 13:46:21"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 28,
-        "updatedAt": "2021-02-04 13:00:22"
     },
     "9991c551628d9e48f51d07b4f9266d2f-livejournal": {
         "id": "9991c551628d9e48f51d07b4f9266d2f-livejournal",

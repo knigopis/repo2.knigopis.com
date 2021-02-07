@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
+    > audio
+
 * Каменное эхо ~ [dromoman2008](users/444/44461886-yandex)<sup>16</sup>
     > Фэнтези
     > Магия - "битва" света с тьмой
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Оценка общая 3
 
 * Морфий ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup>
-    > Записи доктора Полякова болеющим морфенизмом.
 
 * Ребёнок Розмари ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
 
-* Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>29</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>155</sup> 
 [](users/124/1242356572481047-facebook)<sup>1</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>257</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>28</sup> 
 [seaman_cn](users/999/9991c551628d9e48f51d07b4f9266d2f-livejournal)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>41</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>3</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [serdjiio](users/381/381860300-vkontakte)<sup>0</sup> 
 
 
-_07.02.2021 09:12:23_
+_07.02.2021 13:58:51_

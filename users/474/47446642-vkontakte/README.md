@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>28</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>29</sup>
 ---
 
 ## 2021
+
+### Поединок разумов
+Роберт Шекли
+> [2021-02-06] audio
+
 
 ### Как поймать кролика
 Айзек Азимов
