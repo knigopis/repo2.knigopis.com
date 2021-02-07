@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>277</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>839</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 [m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 [Lyrebird](users/104/104693265648747604929-google)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>403</sup> 
 
 
-_07.02.2021 17:20:14_
+_07.02.2021 17:42:28_
