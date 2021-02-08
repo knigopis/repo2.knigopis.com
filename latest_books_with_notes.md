@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пролетая над гнездом кукушки ~ [kissamasya](users/684/68439978-vkontakte)<sup>104</sup>
 * Над пропастью во ржи ~ [kissamasya](users/684/68439978-vkontakte)<sup>102</sup>
 * Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
 * Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
@@ -30,7 +31,6 @@
 * Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
 * Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
-* «Скотный Двор» ~ [vitasoft](users/474/47446642-vkontakte)<sup>19</sup>
 
 
-_08.02.2021 15:58:37_
+_08.02.2021 16:00:22_
