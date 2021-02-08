@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>240</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>2</sup> 
 [](users/111/111824448764476964677-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
@@ -64,9 +65,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>239</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 
 
-_08.02.2021 09:57:09_
+_08.02.2021 09:57:18_
