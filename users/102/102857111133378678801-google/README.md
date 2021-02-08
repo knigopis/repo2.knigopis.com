@@ -1,7 +1,12 @@
-# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>1</sup>
+# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>2</sup>
 ---
 
 ## 2021
+
+### Ледяная царевна с Андреевского
+мадам Лузина
+> [2021-02-07] 
+
 
 ### Дівчина та ніч
 Гійом Мюссо

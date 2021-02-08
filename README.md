@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rina](users/102/102857111133378678801-google)<sup>2</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>104</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>78</sup> 
 [](users/105/105446248129851948313-google)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
 
 
-_08.02.2021 16:00:22_
+_08.02.2021 18:02:51_
