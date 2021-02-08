@@ -1,4 +1,16 @@
 {
+    "OAwZh1LRJa": {
+        "id": "OAwZh1LRJa",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-02-08 09:56:08",
+        "user": {
+            "id": "100877468102766148730-google",
+            "nickname": "iztuesz",
+            "booksCount": 1
+        }
+    },
     "rh2yEQsNa2": {
         "id": "rh2yEQsNa2",
         "title": "Пять языков любви",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 299
-        }
-    },
-    "et4LE3TIf1": {
-        "id": "et4LE3TIf1",
-        "title": "Мудрость Дзен. Сто Историй Пробуждения",
-        "author": "Томас Клири",
-        "notes": "",
-        "createdAt": "2021-02-04 20:06:02",
-        "user": {
-            "id": "100877468102766148730-googleplus",
-            "nickname": "iztuesz",
-            "booksCount": 8
         }
     }
 }
