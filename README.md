@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/105/105446248129851948313-google)<sup>0</sup> 
+[](users/105/105446248129851948313-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 
 
-_08.02.2021 13:38:56_
+_08.02.2021 13:39:09_
