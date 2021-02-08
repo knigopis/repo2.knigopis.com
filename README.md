@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111824448764476964677-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>77</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>239</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
-[m.shabasheva](users/205/205788234-yandex)<sup>1</sup> 
 
 
-_07.02.2021 21:11:46_
+_08.02.2021 09:48:53_
