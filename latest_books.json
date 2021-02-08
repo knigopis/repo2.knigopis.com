@@ -1,4 +1,16 @@
 {
+    "vn50LKBDAj": {
+        "id": "vn50LKBDAj",
+        "title": "1232",
+        "author": "123",
+        "notes": "",
+        "createdAt": "2021-02-08 09:57:09",
+        "user": {
+            "id": "100877468102766148730-google",
+            "nickname": "iztuesz",
+            "booksCount": 2
+        }
+    },
     "OAwZh1LRJa": {
         "id": "OAwZh1LRJa",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 58
-        }
-    },
-    "7HpWp0gvj3": {
-        "id": "7HpWp0gvj3",
-        "title": "Звонок в дверь",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-02-04 23:18:50",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 299
         }
     }
 }
