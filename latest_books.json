@@ -1,4 +1,16 @@
 {
+    "6kNqKcljRN": {
+        "id": "6kNqKcljRN",
+        "title": "Отцы и дети",
+        "author": "И.С.Тургенев",
+        "notes": "Школьная литература.\nКонфликт поколений.",
+        "createdAt": "2021-02-08 19:13:44",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 2
+        }
+    },
     "_bli3uudpY": {
         "id": "_bli3uudpY",
         "title": "Скупой рыцарь",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 173
-        }
-    },
-    "I1WY4YHUUD": {
-        "id": "I1WY4YHUUD",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2021-02-05 10:04:27",
-        "user": {
-            "id": "100877468102766148730-googleplus",
-            "nickname": "iztuesz",
-            "booksCount": 16
         }
     }
 }
