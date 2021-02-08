@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105446248129851948313-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
-[partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 
 
-_08.02.2021 13:32:54_
+_08.02.2021 13:38:56_
