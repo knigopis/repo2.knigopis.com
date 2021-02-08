@@ -1,4 +1,16 @@
 {
+    "tpiABRfU4t": {
+        "id": "tpiABRfU4t",
+        "title": "Записки юного врача",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2021-02-08 13:32:54",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 176
+        }
+    },
     "YxJA51T2ak": {
         "id": "YxJA51T2ak",
         "title": "3213213",
@@ -345,18 +357,6 @@
             "id": "100877468102766148730-googleplus",
             "nickname": "iztuesz",
             "booksCount": 9
-        }
-    },
-    "S3qfi3IKaJ": {
-        "id": "S3qfi3IKaJ",
-        "title": "Погоня за отцом",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2021-02-05 06:54:08",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 301
         }
     }
 }

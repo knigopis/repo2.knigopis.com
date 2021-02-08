@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
 [](users/111/111824448764476964677-google)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>277</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>839</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>29</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>155</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [partyZZZanka](users/931/9315852-vkontakte)<sup>4</sup> 
 
 
-_08.02.2021 09:59:06_
+_08.02.2021 13:32:54_
