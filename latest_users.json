@@ -1,4 +1,10 @@
 {
+    "105446248129851948313-google": {
+        "id": "105446248129851948313-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-02-08 13:38:56"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ..",
         "booksCount": 138,
         "updatedAt": "2021-01-31 22:47:34"
-    },
-    "9315852-vkontakte": {
-        "id": "9315852-vkontakte",
-        "nickname": "partyZZZanka",
-        "booksCount": 4,
-        "updatedAt": "2021-01-31 14:33:19"
     }
 }
