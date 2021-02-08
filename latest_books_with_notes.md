@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Скупой рыцарь ~ [Triste](users/517/5175580462988229760-mailru)<sup>1</sup>
 * Пролетая над гнездом кукушки ~ [kissamasya](users/684/68439978-vkontakte)<sup>104</sup>
 * Над пропастью во ржи ~ [kissamasya](users/684/68439978-vkontakte)<sup>102</sup>
 * Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
 * Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
 * Дюна ~ [vitasoft](users/474/47446642-vkontakte)<sup>21</sup>
-* Как стать самим собой ~ [vitasoft](users/474/47446642-vkontakte)<sup>20</sup>
 
 
-_08.02.2021 16:00:22_
+_08.02.2021 19:03:33_
