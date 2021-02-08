@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 102,
+        "updatedAt": "2021-02-08 15:58:37"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Пу_тем",
         "booksCount": 11,
         "updatedAt": "2021-02-01 13:44:29"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ..",
-        "booksCount": 138,
-        "updatedAt": "2021-01-31 22:47:34"
     }
 }

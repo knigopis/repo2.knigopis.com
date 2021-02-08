@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Над пропастью во ржи ~ [kissamasya](users/684/68439978-vkontakte)<sup>102</sup>
+    > Роман американского писателя Джерома Сэлинджера, входит в 100 мировых книг. В ней от лица 16-летнего юноши, по имени Холден откровенно рассказывается о его обострённом восприятии американской действительности и неприятии общих канонов и морали современного общества.
+
 * Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
     > 1. Слова поощрения
     > 2. Время
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Рассуждение о жизни, женщинах и музыки. Много музыки, слишком много. Главный герой судит о людях исходя из их коллекции дисков и винила. в целом не то чтобы плохо, но скучно
 
 * Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
-    > День сурка девушки подростка.
 
 * Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Фрайди ~ [Chiffi](users/105/105831994080785626680-google)<sup>257</sup>
 
-* Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>102</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>78</sup> 
 [](users/105/105446248129851948313-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 [Fool1991](users/178/178903487-vkontakte)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>11</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 
 
-_08.02.2021 14:20:42_
+_08.02.2021 15:58:37_
