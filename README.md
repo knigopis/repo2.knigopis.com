@@ -37,13 +37,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>78</sup> 
 [](users/105/105446248129851948313-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
 [](users/111/111824448764476964677-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>77</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>277</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>839</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>138</sup> 
 
 
-_08.02.2021 13:39:09_
+_08.02.2021 14:20:42_
