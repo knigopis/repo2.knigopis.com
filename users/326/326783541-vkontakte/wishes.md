@@ -1,8 +1,7 @@
 # Wish list of books by [Askaliya](http://vk.com/id326783541)
 ---
 
-### `29` Над пропастью во ржи
-Селинджер
+### `66` Crier's war
 
 ### `16` Эдем
 Лем
