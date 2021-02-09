@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[iztuesz](users/100/100877468102766148730-google)<sup>18</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>258</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>30</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>78</sup> 
 [](users/105/105446248129851948313-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
-[iztuesz](users/100/100877468102766148730-google)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
 [](users/111/111824448764476964677-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 
 
-_09.02.2021 11:20:09_
+_09.02.2021 14:41:54_
