@@ -1,4 +1,16 @@
 {
+    "naiMHSoZ8t": {
+        "id": "naiMHSoZ8t",
+        "title": "Как потерялся робот",
+        "author": "Айзек Азимов",
+        "notes": "audio",
+        "createdAt": "2021-02-09 02:53:52",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 30
+        }
+    },
     "Fe03T4ilwo": {
         "id": "Fe03T4ilwo",
         "title": "Завет",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 80
-        }
-    },
-    "FWDCBGW9tf": {
-        "id": "FWDCBGW9tf",
-        "title": "16 стадий осознанности на пути к освобождению",
-        "author": "Свами Вишнудевананда Гири",
-        "notes": "",
-        "createdAt": "2021-02-05 11:03:48",
-        "user": {
-            "id": "100877468102766148730-googleplus",
-            "nickname": "iztuesz",
-            "booksCount": 17
         }
     }
 }

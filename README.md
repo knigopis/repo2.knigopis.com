@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
+    > audio
+
 * Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
     > Школьная литература.
     > Конфликт поколений.
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Сразу после этого, Барон умирает от старости, даже у порога смерти живя грёзами о власти.
 
 * Пролетая над гнездом кукушки ~ [kissamasya](users/684/68439978-vkontakte)<sup>104</sup>
-    > Сымитировав помешательство в надежде избежать тюремного заключения, Рэндл Патрик МакМерфи попадает в психиатрическую клинику, где почти безраздельным хозяином является жестокосердная сестра Милдред Рэтчед. МакМерфи поражается тому, что прочие пациенты смирились с существующим положением вещей, а некоторые – даже сознательно пришли в лечебницу, прячась от пугающего внешнего мира. И решается на бунт. В одиночку.
 
 * Над пропастью во ржи ~ [kissamasya](users/684/68439978-vkontakte)<sup>102</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Каменное эхо ~ [dromoman2008](users/444/44461886-yandex)<sup>16</sup>
 
-* Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>30</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>840</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>2</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>2</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>277</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>29</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>155</sup> 
 [](users/124/1242356572481047-facebook)<sup>1</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 
 
-_08.02.2021 19:25:08_
+_09.02.2021 02:53:52_

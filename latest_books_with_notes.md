@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
 * Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
 * Скупой рыцарь ~ [Triste](users/517/5175580462988229760-mailru)<sup>1</sup>
 * Пролетая над гнездом кукушки ~ [kissamasya](users/684/68439978-vkontakte)<sup>104</sup>
@@ -30,7 +31,6 @@
 * Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
 * ИЗВНЕ.03 «На борту «Летучего Голландца» ~ [vitasoft](users/474/47446642-vkontakte)<sup>23</sup>
 * Я не умею спать ~ [Garka](users/115/115753719718250012620-google)<sup>275</sup>
-* Межзвёздный скиталец ~ [vitasoft](users/474/47446642-vkontakte)<sup>22</sup>
 
 
-_08.02.2021 19:13:44_
+_09.02.2021 02:53:52_

@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>29</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>30</sup>
 ---
 
 ## 2021
+
+### Как потерялся робот
+Айзек Азимов
+> [2021-02-09] audio
+
 
 ### Поединок разумов
 Роберт Шекли
