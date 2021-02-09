@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>116</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>18</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>258</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [seaman_cn](users/999/9991c551628d9e48f51d07b4f9266d2f-livejournal)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>41</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>3</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup> 
 
 
-_09.02.2021 14:41:54_
+_09.02.2021 21:42:30_
