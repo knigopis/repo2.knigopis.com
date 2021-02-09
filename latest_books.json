@@ -1,4 +1,16 @@
 {
+    "hgpwpKK4R7": {
+        "id": "hgpwpKK4R7",
+        "title": "Я – твоя королева!",
+        "author": "Настя Любимка",
+        "notes": "",
+        "createdAt": "2021-02-09 11:20:09",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 3
+        }
+    },
     "32VJtqL-vE": {
         "id": "32VJtqL-vE",
         "title": "Чёрное белое",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 15
-        }
-    },
-    "2eZva_s024": {
-        "id": "2eZva_s024",
-        "title": "Морфий",
-        "author": "Михаил Булгаков",
-        "notes": "Записи доктора Полякова болеющим морфенизмом.",
-        "createdAt": "2021-02-06 06:42:35",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 174
         }
     }
 }
