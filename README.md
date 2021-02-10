@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[korskiy556](users/500/500590279-yandex)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>303</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>16</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 
 
-_10.02.2021 20:19:01_
+_10.02.2021 20:37:44_
