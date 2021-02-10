@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>302</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>116</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>18</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>3</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>16</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>80</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>301</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>3</sup> 
 
 
-_09.02.2021 21:42:30_
+_10.02.2021 00:08:14_
