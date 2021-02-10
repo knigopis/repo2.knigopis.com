@@ -1,4 +1,16 @@
 {
+    "e3fL90rIp9": {
+        "id": "e3fL90rIp9",
+        "title": "Под знаменами демократии. Войны и конфликты на развалинах СССР",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-02-10 06:57:36",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 4
+        }
+    },
     "RPw3j_F0kr": {
         "id": "RPw3j_F0kr",
         "title": "Нереальная реальность",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 29
-        }
-    },
-    "i4GTJYNyVo": {
-        "id": "i4GTJYNyVo",
-        "title": "Жизнь после жизни",
-        "author": "Моуди, Раймонд",
-        "notes": "",
-        "createdAt": "2021-02-07 09:12:23",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 428
         }
     }
 }
