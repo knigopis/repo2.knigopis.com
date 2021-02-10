@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>3</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>302</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>116</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>18</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
 [seaman_cn](users/999/9991c551628d9e48f51d07b4f9266d2f-livejournal)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>41</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>3</sup> 
 
 
-_10.02.2021 00:08:14_
+_10.02.2021 00:43:30_
