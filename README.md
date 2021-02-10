@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
+    > Книга про то, как не утратить свои когнитивные функции. Чтобы это не допустить, нужно поддерживать в стабильном состоянии организм, следить за питанием, давать телу физическую нагрузку, тренировать мозг. Есть 36 уязвимых мест, дыр, за которыми стоит пристально следить. Не допускать токсических факторов, воспаления и хронических инфекций.
+
 * Колесо страха ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup>
     > 7/10 Возрождение старых культов, живые куклы-убийцы и корабль Иштар.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Главный герой, Жюльен Сорель, амбициозный и честолюбивый юноша незавидного происхождения, решает изучать богословие, потому что считает, что так он в кратчайшие сроки сделает карьеру. И не останавливается ни перед чем ради осуществления своих планов.
 
 * Чёрное белое ~ [Chiffi](users/105/105831994080785626680-google)<sup>258</sup>
-    > Вы одинаковые. Только один вечером будут рюмку закусывать селёдкой, а второй икрой. И вас спор- это оправдание своей закуски.
 
 * Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
 
-* Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
-[misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
 
 
-_10.02.2021 15:11:49_
+_10.02.2021 17:18:16_

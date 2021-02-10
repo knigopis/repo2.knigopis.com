@@ -1,4 +1,10 @@
 {
+    "254448176-yandex": {
+        "id": "254448176-yandex",
+        "nickname": "Len4e91",
+        "booksCount": 12,
+        "updatedAt": "2021-02-10 17:18:16"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 76,
         "updatedAt": "2021-02-04 17:00:06"
-    },
-    "468008034-vkontakte": {
-        "id": "468008034-vkontakte",
-        "nickname": "misterbadtrip",
-        "booksCount": 0,
-        "updatedAt": "2021-02-04 13:46:21"
     }
 }
