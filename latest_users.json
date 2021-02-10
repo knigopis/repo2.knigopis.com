@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 5,
+        "updatedAt": "2021-02-10 15:11:30"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "misterbadtrip",
         "booksCount": 0,
         "updatedAt": "2021-02-04 13:46:21"
-    },
-    "9991c551628d9e48f51d07b4f9266d2f-livejournal": {
-        "id": "9991c551628d9e48f51d07b4f9266d2f-livejournal",
-        "nickname": "seaman_cn",
-        "booksCount": 0,
-        "updatedAt": "2021-02-04 12:10:15"
     }
 }

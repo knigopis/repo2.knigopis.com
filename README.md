@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
-[seaman_cn](users/999/9991c551628d9e48f51d07b4f9266d2f-livejournal)<sup>0</sup> 
 
 
-_10.02.2021 12:09:11_
+_10.02.2021 15:11:30_
