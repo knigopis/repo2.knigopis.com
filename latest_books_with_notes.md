@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
 * Чёрное белое ~ [Chiffi](users/105/105831994080785626680-google)<sup>258</sup>
 * Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
 * Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Сосны. Заплутавшие ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>163</sup>
 * #галябезголови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>162</sup>
 * Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
-* ИЗВНЕ.03 «На борту «Летучего Голландца» ~ [vitasoft](users/474/47446642-vkontakte)<sup>23</sup>
 
 
-_09.02.2021 07:33:14_
+_10.02.2021 09:20:35_

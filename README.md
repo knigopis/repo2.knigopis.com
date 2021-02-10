@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
+    > Главный герой, Жюльен Сорель, амбициозный и честолюбивый юноша незавидного происхождения, решает изучать богословие, потому что считает, что так он в кратчайшие сроки сделает карьеру. И не останавливается ни перед чем ради осуществления своих планов.
+
 * Чёрное белое ~ [Chiffi](users/105/105831994080785626680-google)<sup>258</sup>
     > Вы одинаковые. Только один вечером будут рюмку закусывать селёдкой, а второй икрой. И вас спор- это оправдание своей закуски.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
-    > Школьная литература.
-    > Конфликт поколений.
 
 * Скупой рыцарь ~ [Triste](users/517/5175580462988229760-mailru)<sup>1</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
 
-* Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>81</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>302</sup> 
@@ -45,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>840</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>2</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>2</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>104</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>78</sup> 
 [](users/105/105446248129851948313-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>41</sup> 
 
 
-_10.02.2021 06:57:36_
+_10.02.2021 09:20:35_
