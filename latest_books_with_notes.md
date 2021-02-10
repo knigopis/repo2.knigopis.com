@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Колесо страха ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup>
 * Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
 * Чёрное белое ~ [Chiffi](users/105/105831994080785626680-google)<sup>258</sup>
 * Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
@@ -30,7 +31,6 @@
 * Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
 * Сосны. Заплутавшие ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>163</sup>
 * #галябезголови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>162</sup>
-* Кристина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>161</sup>
 
 
-_10.02.2021 09:20:35_
+_10.02.2021 12:09:11_

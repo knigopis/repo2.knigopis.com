@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Колесо страха ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup>
+    > 7/10 Возрождение старых культов, живые куклы-убийцы и корабль Иштар.
+
 * Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
     > Главный герой, Жюльен Сорель, амбициозный и честолюбивый юноша незавидного происхождения, решает изучать богословие, потому что считает, что так он в кратчайшие сроки сделает карьеру. И не останавливается ни перед чем ради осуществления своих планов.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вы одинаковые. Только один вечером будут рюмку закусывать селёдкой, а второй икрой. И вас спор- это оправдание своей закуски.
 
 * Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
-    > audio
 
 * Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
 
-* Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>81</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
 [seaman_cn](users/999/9991c551628d9e48f51d07b4f9266d2f-livejournal)<sup>0</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>41</sup> 
 
 
-_10.02.2021 09:20:35_
+_10.02.2021 12:09:11_

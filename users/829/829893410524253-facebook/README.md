@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>166</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>167</sup>
 ---
 
 ## 2021
+
+### Колесо страха
+Абрахам Меррит
+> [2021-02-09] 7/10 Возрождение старых культов, живые куклы-убийцы и корабль Иштар.
+
 
 ### 100 великих зарубежный фильмов
 энциклопедия
