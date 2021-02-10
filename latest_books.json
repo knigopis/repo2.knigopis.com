@@ -1,4 +1,16 @@
 {
+    "oyk483RtL3": {
+        "id": "oyk483RtL3",
+        "title": "Iron heart",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-02-10 15:11:49",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 6
+        }
+    },
     "k_lApkhGSw": {
         "id": "k_lApkhGSw",
         "title": "Crier's war",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 120
-        }
-    },
-    "CfW4JXNMmi": {
-        "id": "CfW4JXNMmi",
-        "title": "Hi-Fi",
-        "author": "Хорнби, Ник",
-        "notes": "Рассуждение о жизни, женщинах и музыки. Много музыки, слишком много. Главный герой судит о людях исходя из их коллекции дисков и винила. в целом не то чтобы плохо, но скучно",
-        "createdAt": "2021-02-07 17:20:14",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 277
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>5</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [misterbadtrip](users/468/468008034-vkontakte)<sup>0</sup> 
 
 
-_10.02.2021 15:11:30_
+_10.02.2021 15:11:49_
