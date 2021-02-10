@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>303</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>81</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>302</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>116</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>18</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 
 
-_10.02.2021 17:18:16_
+_10.02.2021 20:19:01_
