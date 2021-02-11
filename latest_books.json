@@ -1,4 +1,16 @@
 {
+    "JTDVhIT7RH": {
+        "id": "JTDVhIT7RH",
+        "title": "Факультет судебной некромантии. Практика",
+        "author": "Наталья Самсонова",
+        "notes": "",
+        "createdAt": "2021-02-11 05:37:22",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 5
+        }
+    },
     "U9AHS0PVBB": {
         "id": "U9AHS0PVBB",
         "title": "Факультет судебной некромантии, или Поводок для Рыси",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 176
-        }
-    },
-    "YxJA51T2ak": {
-        "id": "YxJA51T2ak",
-        "title": "3213213",
-        "author": "213213213",
-        "notes": "",
-        "createdAt": "2021-02-08 09:57:44",
-        "user": {
-            "id": "100877468102766148730-google",
-            "nickname": "iztuesz",
-            "booksCount": 3
         }
     }
 }
