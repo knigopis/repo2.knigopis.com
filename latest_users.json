@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 4,
+        "updatedAt": "2021-02-11 05:35:20"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -64,12 +70,6 @@
         "nickname": "iztuesz",
         "booksCount": 18,
         "updatedAt": "2021-02-09 14:41:54"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 3,
-        "updatedAt": "2021-02-09 11:20:09"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",

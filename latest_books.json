@@ -1,4 +1,16 @@
 {
+    "U9AHS0PVBB": {
+        "id": "U9AHS0PVBB",
+        "title": "Факультет судебной некромантии, или Поводок для Рыси",
+        "author": "Наталья Самсонова",
+        "notes": "",
+        "createdAt": "2021-02-11 05:35:20",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 4
+        }
+    },
     "ke6OBvVaAk": {
         "id": "ke6OBvVaAk",
         "title": "Танцующая в аушвице",
@@ -345,18 +357,6 @@
             "id": "100877468102766148730-google",
             "nickname": "iztuesz",
             "booksCount": 3
-        }
-    },
-    "arGnldTsUg": {
-        "id": "arGnldTsUg",
-        "title": "Гэм",
-        "author": "Эрик Мария Ремарк",
-        "notes": "",
-        "createdAt": "2021-02-08 09:57:18",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 240
         }
     }
 }
