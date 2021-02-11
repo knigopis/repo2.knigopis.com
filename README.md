@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>31</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>81</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>116</sup> 
-[iztuesz](users/100/100877468102766148730-google)<sup>18</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>258</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>840</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 
 
-_11.02.2021 05:37:22_
+_11.02.2021 12:47:20_

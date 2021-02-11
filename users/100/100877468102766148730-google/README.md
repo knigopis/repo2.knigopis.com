@@ -1,4 +1,4 @@
-# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>18</sup>
+# List of books read by [iztuesz](https://plus.google.com/u/0/100877468102766148730/)<sup>19</sup>
 ---
 
 ## 2021
@@ -91,6 +91,11 @@ Atsushi Nakajima, Paul McCarthy, Nobuko Ochner
 ### 1984. Скотный двор (сборник)
 Джордж Оруэлл
 > [2019-06-19] 
+
+
+### Сиддхартха
+Герман Гессе
+> [2019-06-10] 
 
 
 
