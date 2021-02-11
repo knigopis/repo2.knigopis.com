@@ -1,4 +1,16 @@
 {
+    "ke6OBvVaAk": {
+        "id": "ke6OBvVaAk",
+        "title": "Танцующая в аушвице",
+        "author": "Паул Гласер",
+        "notes": "",
+        "createdAt": "2021-02-11 05:14:43",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 305
+        }
+    },
     "7L1OBX0NxC": {
         "id": "7L1OBX0NxC",
         "title": "Улики",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 240
-        }
-    },
-    "vn50LKBDAj": {
-        "id": "vn50LKBDAj",
-        "title": "1232",
-        "author": "123",
-        "notes": "",
-        "createdAt": "2021-02-08 09:57:09",
-        "user": {
-            "id": "100877468102766148730-google",
-            "nickname": "iztuesz",
-            "booksCount": 2
         }
     }
 }
