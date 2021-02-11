@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/124/1242356572481047-facebook)<sup>1</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>16</sup> 
 [iztuesz](users/100/100877468102766148730-googleplus)<sup>17</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 
 
-_11.02.2021 12:47:20_
+_11.02.2021 16:09:01_
