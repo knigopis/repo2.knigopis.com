@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
+    > audio
+
 * Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
     > Книга про то, как не утратить свои когнитивные функции. Чтобы это не допустить, нужно поддерживать в стабильном состоянии организм, следить за питанием, давать телу физическую нагрузку, тренировать мозг. Есть 36 уязвимых мест, дыр, за которыми стоит пристально следить. Не допускать токсических факторов, воспаления и хронических инфекций.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Возрождение старых культов, живые куклы-убийцы и корабль Иштар.
 
 * Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
-    > Главный герой, Жюльен Сорель, амбициозный и честолюбивый юноша незавидного происхождения, решает изучать богословие, потому что считает, что так он в кратчайшие сроки сделает карьеру. И не останавливается ни перед чем ради осуществления своих планов.
 
 * Чёрное белое ~ [Chiffi](users/105/105831994080785626680-google)<sup>258</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Над пропастью во ржи ~ [kissamasya](users/684/68439978-vkontakte)<sup>102</sup>
 
-* Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>31</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>304</sup> 
 [korskiy556](users/500/500590279-yandex)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-google)<sup>18</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>258</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>30</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>840</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>2</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>58</sup> 
 
 
-_10.02.2021 23:32:37_
+_11.02.2021 02:37:53_

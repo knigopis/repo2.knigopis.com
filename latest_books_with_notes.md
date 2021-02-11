@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
 * Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
 * Колесо страха ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup>
 * Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
@@ -30,7 +31,6 @@
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
 * Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
 * Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
-* Сосны. Заплутавшие ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>163</sup>
 
 
-_10.02.2021 17:18:16_
+_11.02.2021 02:37:53_
