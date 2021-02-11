@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
 * Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
 * Колесо страха ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup>
@@ -30,7 +31,6 @@
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
 * Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
-* Сосны. Последняя надежда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>164</sup>
 
 
-_11.02.2021 02:37:53_
+_11.02.2021 19:48:47_

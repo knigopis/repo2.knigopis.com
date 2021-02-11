@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 45,
+        "updatedAt": "2021-02-11 19:48:47"
+    },
     "104889302-vkontakte": {
         "id": "104889302-vkontakte",
         "nickname": "ruslanqoon",
@@ -172,11 +178,5 @@
         "nickname": "dromoman2008",
         "booksCount": 16,
         "updatedAt": "2021-02-06 07:40:39"
-    },
-    "100877468102766148730-googleplus": {
-        "id": "100877468102766148730-googleplus",
-        "nickname": "iztuesz",
-        "booksCount": 17,
-        "updatedAt": "2021-02-05 11:03:48"
     }
 }
