@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>155</sup>
+# Список прочитанных книг пользователя exulted<sup>156</sup>
 ---
 
 ## 2021
+
+### Making Sense of Race
+Edward Dutton
+> [2021-02-09] 
+
 
 ### Lenin on the Train
 Catherine Merridale
