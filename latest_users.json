@@ -1,4 +1,10 @@
 {
+    "113800812165461458876-google": {
+        "id": "113800812165461458876-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-02-12 05:37:19"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 155,
         "updatedAt": "2021-02-06 16:12:38"
-    },
-    "1242356572481047-facebook": {
-        "id": "1242356572481047-facebook",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2021-02-06 14:10:53"
     }
 }
