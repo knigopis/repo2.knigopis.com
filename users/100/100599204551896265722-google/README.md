@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>156</sup>
+# Список прочитанных книг пользователя exulted<sup>157</sup>
 ---
 
 ## 2021
+
+### The Art of Impossible: A Peak Performance Primer
+Steven Kotler
+> [2021-02-12] 
+
 
 ### Making Sense of Race
 Edward Dutton
