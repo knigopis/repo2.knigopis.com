@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [](users/114/114865563932927404098-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>168</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
-[](users/113/113800812165461458876-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>259</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 
 
-_12.02.2021 15:53:55_
+_12.02.2021 16:27:21_
