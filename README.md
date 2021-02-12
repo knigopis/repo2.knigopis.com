@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/114/114865563932927404098-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>168</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
 [](users/113/113800812165461458876-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>277</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 
 
-_12.02.2021 10:13:46_
+_12.02.2021 13:40:35_
