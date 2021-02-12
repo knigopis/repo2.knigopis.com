@@ -1,12 +1,7 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>171</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>170</sup>
 ---
 
 ## 2021
-
-### Небезпека "Дому на околиці"
-Аґата Крісті
-> [2021-02-11] 9/10 Убивство молодої жінки підчас вечірки.
-
 
 ### Небезпека "Дому на околиці"
 Аґата Крісті
