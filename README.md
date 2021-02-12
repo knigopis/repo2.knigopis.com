@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>259</sup>
+    > Жизнь на мечте не поженишь
+
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
     > Тяжело читается
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
-    > Книга про то, как не утратить свои когнитивные функции. Чтобы это не допустить, нужно поддерживать в стабильном состоянии организм, следить за питанием, давать телу физическую нагрузку, тренировать мозг. Есть 36 уязвимых мест, дыр, за которыми стоит пристально следить. Не допускать токсических факторов, воспаления и хронических инфекций.
 
 * Колесо страха ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Скупой рыцарь ~ [Triste](users/517/5175580462988229760-mailru)<sup>1</sup>
 
-* Пролетая над гнездом кукушки ~ [kissamasya](users/684/68439978-vkontakte)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>259</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
 [ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>81</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>116</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>258</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>840</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>2</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/124/1242356572481047-facebook)<sup>1</sup> 
 
 
-_12.02.2021 01:06:01_
+_12.02.2021 05:19:47_
