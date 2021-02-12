@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
+    > Как обычно, пока не дочитала, нормально спать не смогла)
+
 * Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
     > 9/10 Убивство молодої жінки підчас вечірки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Жизнь на мечте не поженишь
 
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
-    > Тяжело читается
 
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
 
-* Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [](users/114/114865563932927404098-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>168</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111824448764476964677-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>277</sup> 
 
 
-_12.02.2021 13:40:35_
+_12.02.2021 15:53:55_

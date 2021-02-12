@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>76</sup>
+# List of books read by violet_velva<sup>77</sup>
 ---
 
 ## 2021
+
+### Career of Evil
+Robert Galbraith
+> [2021-02-05] Как обычно, пока не дочитала, нормально спать не смогла)
+
 
 ### Письма Незнакомке
 Андре Моруа

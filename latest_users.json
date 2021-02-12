@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 77,
+        "updatedAt": "2021-02-12 15:53:55"
+    },
     "114865563932927404098-google": {
         "id": "114865563932927404098-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 120,
         "updatedAt": "2021-02-07 17:42:28"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 277,
-        "updatedAt": "2021-02-07 17:20:14"
     }
 }
