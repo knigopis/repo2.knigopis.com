@@ -1,4 +1,16 @@
 {
+    "Zu-_ZamPS1": {
+        "id": "Zu-_ZamPS1",
+        "title": "Wabi Sabi. Японские секреты истинного счастья в неидеальном мире",
+        "author": "Бет Кемптон",
+        "notes": "",
+        "createdAt": "2021-02-12 21:16:39",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 201
+        }
+    },
     "rf38Wfgpnx": {
         "id": "rf38Wfgpnx",
         "title": "Последний поклон",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 30
-        }
-    },
-    "Fe03T4ilwo": {
-        "id": "Fe03T4ilwo",
-        "title": "Завет",
-        "author": "Генрих Бёлль",
-        "notes": "",
-        "createdAt": "2021-02-08 19:25:08",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 840
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>201</sup> 
 [Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [](users/114/114865563932927404098-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
 [](users/111/111824448764476964677-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>120</sup> 
 
 
-_12.02.2021 16:27:21_
+_12.02.2021 21:16:39_
