@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/113/113800812165461458876-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>259</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>277</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>155</sup> 
-[](users/124/1242356572481047-facebook)<sup>1</sup> 
 
 
-_12.02.2021 05:19:47_
+_12.02.2021 05:37:19_
