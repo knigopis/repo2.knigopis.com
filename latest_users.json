@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 12,
+        "updatedAt": "2021-02-12 01:06:01"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2021-02-06 14:10:53"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 16,
-        "updatedAt": "2021-02-06 07:40:39"
     }
 }

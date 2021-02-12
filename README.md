@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
 [ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>155</sup> 
 [](users/124/1242356572481047-facebook)<sup>1</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>16</sup> 
 
 
-_11.02.2021 19:48:47_
+_12.02.2021 01:06:01_
