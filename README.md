@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
+    > 9/10 Убивство молодої жінки підчас вечірки.
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>259</sup>
     > Жизнь на мечте не поженишь
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Тяжело читается
 
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
-    > audio
 
 * Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
 
-* Скупой рыцарь ~ [Triste](users/517/5175580462988229760-mailru)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
 [](users/113/113800812165461458876-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>259</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [korskiy556](users/500/500590279-yandex)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>81</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>428</sup> 
 
 
-_12.02.2021 08:08:36_
+_12.02.2021 10:13:06_

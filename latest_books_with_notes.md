@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>259</sup>
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
@@ -30,7 +31,6 @@
 * Мир, которого не может быть ~ [vitasoft](users/474/47446642-vkontakte)<sup>25</sup>
 * Кот, проходящий сквозь стены ~ [Chiffi](users/105/105831994080785626680-google)<sup>255</sup>
 * Жареные зелёные помидоры в кафе «Полустанок» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>170</sup>
-* Як Україна втрачала Донбас ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>165</sup>
 
 
-_12.02.2021 05:19:47_
+_12.02.2021 10:13:06_
