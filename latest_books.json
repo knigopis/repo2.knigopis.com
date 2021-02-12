@@ -1,4 +1,16 @@
 {
+    "_2LaMe5HNY": {
+        "id": "_2LaMe5HNY",
+        "title": "Алиса в Стране чудес",
+        "author": "Льюис Кэрролл",
+        "notes": "",
+        "createdAt": "2021-02-12 23:48:13",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 70
+        }
+    },
     "Y-oNprtCYN": {
         "id": "Y-oNprtCYN",
         "title": "НИ СЫ",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 3
-        }
-    },
-    "32VJtqL-vE": {
-        "id": "32VJtqL-vE",
-        "title": "Чёрное белое",
-        "author": "Андреева Наталья",
-        "notes": "Вы одинаковые. Только один вечером будут рюмку закусывать селёдкой, а второй икрой. И вас спор- это оправдание своей закуски.",
-        "createdAt": "2021-02-09 07:33:14",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 258
         }
     }
 }
