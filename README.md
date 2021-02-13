@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>841</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>842</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>79</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>404</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
 
 
-_13.02.2021 16:32:19_
+_13.02.2021 16:32:34_
