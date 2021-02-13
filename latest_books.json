@@ -1,4 +1,16 @@
 {
+    "xhg_38iwJE": {
+        "id": "xhg_38iwJE",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "Стоит перечитать в более позднем возрасте, чтобы осмыслить все, что пытается сказать автор.",
+        "createdAt": "2021-02-13 21:38:19",
+        "user": {
+            "id": "186567618-vkontakte",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "MOMbFtHkXa": {
         "id": "MOMbFtHkXa",
         "title": "Не стреляйте белых лебедей",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 105
-        }
-    },
-    "e3fL90rIp9": {
-        "id": "e3fL90rIp9",
-        "title": "Под знаменами демократии. Войны и конфликты на развалинах СССР",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-02-10 06:57:36",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 4
         }
     }
 }
