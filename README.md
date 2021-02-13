@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>404</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>70</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>202</sup> 
 [Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105446248129851948313-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>240</sup> 
-[](users/111/111824448764476964677-google)<sup>0</sup> 
 
 
-_13.02.2021 00:07:54_
+_13.02.2021 07:00:34_

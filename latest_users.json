@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 404,
+        "updatedAt": "2021-02-13 07:00:34"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 240,
         "updatedAt": "2021-02-08 09:57:18"
-    },
-    "111824448764476964677-google": {
-        "id": "111824448764476964677-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-02-08 09:48:52"
     }
 }
