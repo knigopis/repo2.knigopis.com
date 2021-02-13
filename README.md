@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
+    > Кажется эту "сказку" нельзя читать детям. В лучшем случае она говорит, что мир полон хаоса и абсурда, в худшем – является описанием трипа. В любом случае, для понимания детей она слишком сложна, а для понимания взрослых имеет слишком много возможных интерпретаций. Возможно в последнем и есть изюминка книги, по которой она до сих пор актуальна – каждый может найти в ней свой смысл
+
 * Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
     > Как обычно, пока не дочитала, нормально спать не смогла)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Убивство молодої жінки підчас вечірки.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>259</sup>
-    > Жизнь на мечте не поженишь
 
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чёрное белое ~ [Chiffi](users/105/105831994080785626680-google)<sup>258</sup>
 
-* Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rainbow](users/109/109787328219839805802-google)<sup>70</sup> 
+[Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>202</sup> 
 [Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111824448764476964677-google)<sup>0</sup> 
 
 
-_12.02.2021 23:48:13_
+_13.02.2021 00:07:37_
