@@ -1,5 +1,13 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>111</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>112</sup>
 ---
+
+## 2021
+
+### Вкус ужаса. Коллекция страха
+Дэл Ховисон, Джефф Гелб
+> [2021-02-11] 
+
+
 
 ## 2020
 

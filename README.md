@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>260</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>841</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>79</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>2</sup> 
 [](users/105/105446248129851948313-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>176</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>240</sup> 
 
 
-_13.02.2021 16:59:16_
+_13.02.2021 20:02:15_
