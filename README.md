@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
+[Rainbow](users/109/109787328219839805802-google)<sup>70</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>202</sup> 
 [Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111824448764476964677-google)<sup>0</sup> 
 
 
-_13.02.2021 00:07:37_
+_13.02.2021 00:07:54_
