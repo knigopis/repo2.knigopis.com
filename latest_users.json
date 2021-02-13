@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 117,
+        "updatedAt": "2021-02-13 21:28:12"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -148,12 +154,6 @@
         "nickname": "4apa",
         "booksCount": 81,
         "updatedAt": "2021-02-10 06:07:17"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 116,
-        "updatedAt": "2021-02-09 21:42:30"
     },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
