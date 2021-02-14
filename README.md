@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Федор Фокин](users/156/156773887861822636-mailru)<sup>0</sup> 
 [](users/186/186567618-vkontakte)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>117</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>81</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>2</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>2</sup> 
-[](users/105/105446248129851948313-google)<sup>1</sup> 
 
 
-_13.02.2021 21:38:19_
+_14.02.2021 10:19:41_
