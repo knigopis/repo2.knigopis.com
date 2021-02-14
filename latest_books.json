@@ -1,4 +1,16 @@
 {
+    "60K0MLdA2v": {
+        "id": "60K0MLdA2v",
+        "title": "Сто лет одиночества",
+        "author": "Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2021-02-14 10:21:23",
+        "user": {
+            "id": "156773887861822636-mailru",
+            "nickname": "Федор Фокин",
+            "booksCount": 2
+        }
+    },
     "V8tMhPEzz0": {
         "id": "V8tMhPEzz0",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 5
-        }
-    },
-    "15W_WEpe3_": {
-        "id": "15W_WEpe3_",
-        "title": "Колесо страха",
-        "author": "Абрахам Меррит",
-        "notes": "7/10 Возрождение старых культов, живые куклы-убийцы и корабль Иштар.",
-        "createdAt": "2021-02-10 12:09:11",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 167
         }
     }
 }
