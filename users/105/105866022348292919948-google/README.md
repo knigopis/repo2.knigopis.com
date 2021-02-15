@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>110</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>111</sup>
 ---
 
 ## 2021
@@ -14,6 +14,11 @@
 ### Туарег
 Альберто Васкес-Фигероа
 > [2020-10-12] 
+
+
+### Конец вечности
+Айзек Азимов
+> [2020-10] 
 
 
 ### Homo Deus: Краткая история завтрашнего дня
