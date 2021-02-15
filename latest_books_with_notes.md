@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
 * Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
 * Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 * Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
@@ -30,7 +31,6 @@
 * 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
 * Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
 * Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
-* Маленькая книга хорошего сна ~ [Garka](users/115/115753719718250012620-google)<sup>276</sup>
 
 
-_13.02.2021 16:59:16_
+_15.02.2021 07:23:37_
