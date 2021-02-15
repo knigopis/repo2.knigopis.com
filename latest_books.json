@@ -1,4 +1,16 @@
 {
+    "-tDzsNDtzK": {
+        "id": "-tDzsNDtzK",
+        "title": "Для всех",
+        "author": "Олег Кожин",
+        "notes": "Первая часть",
+        "createdAt": "2021-02-15 15:40:27",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 178
+        }
+    },
     "Q3pUY6kX0q": {
         "id": "Q3pUY6kX0q",
         "title": "Бабука",
@@ -345,18 +357,6 @@
             "id": "100877468102766148730-google",
             "nickname": "iztuesz",
             "booksCount": 19
-        }
-    },
-    "JTDVhIT7RH": {
-        "id": "JTDVhIT7RH",
-        "title": "Факультет судебной некромантии. Практика",
-        "author": "Наталья Самсонова",
-        "notes": "",
-        "createdAt": "2021-02-11 05:37:22",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 5
         }
     }
 }
