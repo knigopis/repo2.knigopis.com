@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Joan8ied](users/240/2401650-vkontakte)<sup>106</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 
 
-_15.02.2021 11:47:49_
+_15.02.2021 12:34:08_

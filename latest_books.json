@@ -1,4 +1,16 @@
 {
+    "DZYISV60FU": {
+        "id": "DZYISV60FU",
+        "title": "«Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1",
+        "author": "Джордж Р. Р. Мартин",
+        "notes": "",
+        "createdAt": "2021-02-15 12:34:08",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "Joan8ied",
+            "booksCount": 106
+        }
+    },
     "6FOH7L7xfl": {
         "id": "6FOH7L7xfl",
         "title": "Остальные роботы",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 4
-        }
-    },
-    "ke6OBvVaAk": {
-        "id": "ke6OBvVaAk",
-        "title": "Танцующая в аушвице",
-        "author": "Паул Гласер",
-        "notes": "",
-        "createdAt": "2021-02-11 05:14:43",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 305
         }
     }
 }
