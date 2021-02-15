@@ -1,5 +1,13 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>109</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>110</sup>
 ---
+
+## 2021
+
+### За стеной фильтров. Что Интернет скрывает от вас?
+Эли Паризер
+> [2021-02] 
+
+
 
 ## 2020
 
