@@ -1,4 +1,16 @@
 {
+    "EfTZaGaCgm": {
+        "id": "EfTZaGaCgm",
+        "title": "Я, Робот",
+        "author": "Айзек Азимов",
+        "notes": "Сборник рассказов",
+        "createdAt": "2021-02-15 11:47:01",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 112
+        }
+    },
     "dQe2KxR6oD": {
         "id": "dQe2KxR6oD",
         "title": "Конец вечности",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 31
-        }
-    },
-    "uWb7eKXScb": {
-        "id": "uWb7eKXScb",
-        "title": "Цветы тьмы",
-        "author": "Аарон Аппельфельд",
-        "notes": "",
-        "createdAt": "2021-02-10 23:32:37",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 304
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я, Робот ~ [Chandravadana](users/105/105866022348292919948-google)<sup>112</sup>
 * Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
 * Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
 * Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
 * 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
 * Государь ~ [vitasoft](users/474/47446642-vkontakte)<sup>27</sup>
-* Лжец ~ [vitasoft](users/474/47446642-vkontakte)<sup>26</sup>
 
 
-_15.02.2021 07:23:37_
+_15.02.2021 11:47:01_

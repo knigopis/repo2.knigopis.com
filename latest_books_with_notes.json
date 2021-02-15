@@ -1,4 +1,16 @@
 {
+    "EfTZaGaCgm": {
+        "id": "EfTZaGaCgm",
+        "title": "Я, Робот",
+        "author": "Айзек Азимов",
+        "notes": "Сборник рассказов",
+        "createdAt": "2021-02-15 11:47:01",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 112
+        }
+    },
     "Pb2d0e9OPH": {
         "id": "Pb2d0e9OPH",
         "title": "Темная башня",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 27
-        }
-    },
-    "o_a8loohFi": {
-        "id": "o_a8loohFi",
-        "title": "Лжец",
-        "author": "Айзек Азимов",
-        "notes": "audio",
-        "createdAt": "2021-02-02 05:11:09",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 26
         }
     }
 }
