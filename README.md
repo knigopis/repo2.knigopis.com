@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
+    > Халява есть халява, и ей присуще одно странное свойство: когда она срывается, возникает чувство утраты, как будто это была и не халява вовсе, а свое, заслуженное. Жаль.
+
 * Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
     > Женщина, которая в детстве должна была быть принесена в жертву беременеет ребёнком хаоса, мужчина вынужден искать выход.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10
 
 * Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>262</sup>
-    > Чем меньше надо человеку от окружающих, тем он проще. Если у него самого все в порядке, то он со всеми мил и любезен.
 
 * Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
 
-* Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>263</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>262</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>83</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>106</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 
 
-_15.02.2021 18:40:10_
+_15.02.2021 19:44:44_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
 * Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
 * Большие надежды ~ [anvonamore](users/595/5957175-vkontakte)<sup>147</sup>
 * Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>262</sup>
@@ -30,7 +31,6 @@
 * Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
 * Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
 * Каменное эхо ~ [dromoman2008](users/444/44461886-yandex)<sup>16</sup>
-* Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
 
 
-_15.02.2021 18:40:10_
+_15.02.2021 19:44:44_

@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 263,
+        "updatedAt": "2021-02-15 19:44:44"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -10,12 +16,6 @@
         "nickname": "anvonamore",
         "booksCount": 147,
         "updatedAt": "2021-02-15 18:35:28"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 262,
-        "updatedAt": "2021-02-15 18:27:05"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
