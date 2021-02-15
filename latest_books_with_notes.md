@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>261</sup>
 * Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
 * Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
 * Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
@@ -30,7 +31,6 @@
 * Варлорд ~ [dromoman2008](users/444/44461886-yandex)<sup>15</sup>
 * Морфий ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>174</sup>
 * Ребёнок Розмари ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup>
-* Фрайди ~ [Chiffi](users/105/105831994080785626680-google)<sup>257</sup>
 
 
-_15.02.2021 15:40:27_
+_15.02.2021 18:00:44_
