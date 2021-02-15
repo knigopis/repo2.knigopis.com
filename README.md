@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Большие надежды ~ [anvonamore](users/595/5957175-vkontakte)<sup>147</sup>
+    > 6/10
+
 * Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>262</sup>
     > Чем меньше надо человеку от окружающих, тем он проще. Если у него самого все в порядке, то он со всеми мил и любезен.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая часть
 
 * Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
-    > Внук с недостатком развития вскрыл бабушку ради подставы матери.
 
 * Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
 
-* Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>262</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>83</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>31</sup> 
 [korskiy556](users/500/500590279-yandex)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
 
 
-_15.02.2021 18:27:06_
+_15.02.2021 18:35:28_

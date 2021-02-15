@@ -1,4 +1,16 @@
 {
+    "lWRmBlcktI": {
+        "id": "lWRmBlcktI",
+        "title": "Большие надежды",
+        "author": "Чарльз Диккенс",
+        "notes": "6/10",
+        "createdAt": "2021-02-15 18:35:28",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 147
+        }
+    },
     "v03BIOkq-_": {
         "id": "v03BIOkq-_",
         "title": "Выдержка",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 174
-        }
-    },
-    "Qpt5-vWgzq": {
-        "id": "Qpt5-vWgzq",
-        "title": "Ребёнок Розмари",
-        "author": "Айра Левин",
-        "notes": "Читала много раз. Она решила растить сама ребёнка, что бы он боролся с сатанинской частью.",
-        "createdAt": "2021-02-04 18:29:46",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 172
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "lWRmBlcktI": {
+        "id": "lWRmBlcktI",
+        "title": "Большие надежды",
+        "author": "Чарльз Диккенс",
+        "notes": "6/10",
+        "createdAt": "2021-02-15 18:35:28",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 147
+        }
+    },
     "v03BIOkq-_": {
         "id": "v03BIOkq-_",
         "title": "Выдержка",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 259
-        }
-    },
-    "7enuE80EY2": {
-        "id": "7enuE80EY2",
-        "title": "Тени старой квартиры",
-        "author": "Дезомбре Дарья",
-        "notes": "",
-        "createdAt": "2021-02-12 01:06:01",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 12
         }
     }
 }
