@@ -1,4 +1,16 @@
 {
+    "68IYFgVbKJ": {
+        "id": "68IYFgVbKJ",
+        "title": "Маленькая книга о большой теории струн",
+        "author": "С. Габсер",
+        "notes": "",
+        "createdAt": "2021-02-15 16:24:38",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 83
+        }
+    },
     "-tDzsNDtzK": {
         "id": "-tDzsNDtzK",
         "title": "Для всех",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 45
-        }
-    },
-    "FiZkSzbK1K": {
-        "id": "FiZkSzbK1K",
-        "title": "Сиддхартха",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2021-02-11 12:47:20",
-        "user": {
-            "id": "100877468102766148730-google",
-            "nickname": "iztuesz",
-            "booksCount": 19
         }
     }
 }
