@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 179,
+        "updatedAt": "2021-02-15 18:40:10"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -16,12 +22,6 @@
         "nickname": "4apa",
         "booksCount": 83,
         "updatedAt": "2021-02-15 16:24:38"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 178,
-        "updatedAt": "2021-02-15 15:40:27"
     },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",

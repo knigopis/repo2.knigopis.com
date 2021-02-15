@@ -1,4 +1,16 @@
 {
+    "C7hHC-l1h3": {
+        "id": "C7hHC-l1h3",
+        "title": "Чрево",
+        "author": "Шанин Игорь",
+        "notes": "Женщина, которая в детстве должна была быть принесена в жертву беременеет ребёнком хаоса, мужчина вынужден искать выход.",
+        "createdAt": "2021-02-15 18:40:10",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 179
+        }
+    },
     "lWRmBlcktI": {
         "id": "lWRmBlcktI",
         "title": "Большие надежды",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 156
-        }
-    },
-    "gQbL9snWpS": {
-        "id": "gQbL9snWpS",
-        "title": "",
-        "author": "Акунин Борис",
-        "notes": "Жизнь на мечте не поженишь",
-        "createdAt": "2021-02-12 05:19:47",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 259
         }
     }
 }

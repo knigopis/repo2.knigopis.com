@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
+    > Женщина, которая в детстве должна была быть принесена в жертву беременеет ребёнком хаоса, мужчина вынужден искать выход.
+
 * Большие надежды ~ [anvonamore](users/595/5957175-vkontakte)<sup>147</sup>
     > 6/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чем меньше надо человеку от окружающих, тем он проще. Если у него самого все в порядке, то он со всеми мил и любезен.
 
 * Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
-    > Первая часть
 
 * Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 
-* Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>262</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>83</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>106</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 
 
-_15.02.2021 18:35:28_
+_15.02.2021 18:40:10_
