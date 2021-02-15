@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>112</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>113</sup>
 ---
 
 ## 2021
@@ -10,6 +10,11 @@
 
 
 ## 2020
+
+### Остальные роботы
+Айзек Азимов
+> [2020-12] Сборник рассказов
+
 
 ### Я, Робот
 Айзек Азимов

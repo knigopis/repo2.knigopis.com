@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
+    > Сборник рассказов
+
 * Я, Робот ~ [Chandravadana](users/105/105866022348292919948-google)<sup>112</sup>
     > Сборник рассказов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 27.01.2021-15.02.2021г
 
 * Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
-    > Я человек сам по себе, наособицу. Живу, как вода. А вода всего сильней. Ее ничто победить-погубить не может. Есть куда течь – течет. Преграды огибает. Грянет мороз – застывает. Разожгут огонь – паром в небо уходит. Найдет хорошее место – прольется дождем.   Бить бей, но убивать то зачем? Всех дураков убить - без народа останешься.
 
 * Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
 
-* Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>112</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>82</sup> 
 [Федор Фокин](users/156/156773887861822636-mailru)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>4</sup> 
 
 
-_15.02.2021 11:47:01_
+_15.02.2021 11:47:49_

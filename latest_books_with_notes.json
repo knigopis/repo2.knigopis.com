@@ -1,4 +1,16 @@
 {
+    "6FOH7L7xfl": {
+        "id": "6FOH7L7xfl",
+        "title": "Остальные роботы",
+        "author": "Айзек Азимов",
+        "notes": "Сборник рассказов",
+        "createdAt": "2021-02-15 11:47:49",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 113
+        }
+    },
     "EfTZaGaCgm": {
         "id": "EfTZaGaCgm",
         "title": "Я, Робот",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 166
-        }
-    },
-    "duFw1Qc_II": {
-        "id": "duFw1Qc_II",
-        "title": "Государь",
-        "author": "Никколо Макиавелли",
-        "notes": "audio",
-        "createdAt": "2021-02-02 08:18:06",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 27
         }
     }
 }
