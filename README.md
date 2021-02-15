@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
+    > Внук с недостатком развития вскрыл бабушку ради подставы матери.
+
 * Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
     > Сборник рассказов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сборник рассказов
 
 * Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
-    > 27.01.2021-15.02.2021г
 
 * Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
 
-* Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>106</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [korskiy556](users/500/500590279-yandex)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>6</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>105</sup> 
 
 
-_15.02.2021 12:34:08_
+_15.02.2021 14:54:43_

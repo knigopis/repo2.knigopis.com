@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
 * Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
 * Я, Робот ~ [Chandravadana](users/105/105866022348292919948-google)<sup>112</sup>
 * Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
@@ -30,7 +31,6 @@
 * Ребёнок Розмари ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>172</sup>
 * Фрайди ~ [Chiffi](users/105/105831994080785626680-google)<sup>257</sup>
 * Как поймать кролика ~ [vitasoft](users/474/47446642-vkontakte)<sup>28</sup>
-* 100 великих зарубежный фильмов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>166</sup>
 
 
-_15.02.2021 11:47:49_
+_15.02.2021 14:54:43_
