@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[JanTrix](users/104/104939911619996338742-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [](users/153/1537586159620888-facebook)<sup>33</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>263</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>31</sup> 
 
 
-_16.02.2021 14:09:47_
+_16.02.2021 20:55:40_
