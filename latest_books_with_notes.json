@@ -1,4 +1,16 @@
 {
+    "D6LMR-ggmy": {
+        "id": "D6LMR-ggmy",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "аудиокнига",
+        "createdAt": "2021-02-16 14:09:47",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tumturumk",
+            "booksCount": 4
+        }
+    },
     "wbCSPGfbrn": {
         "id": "wbCSPGfbrn",
         "title": "Грозы медового отпуска",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 29
-        }
-    },
-    "EPhGnrPOKi": {
-        "id": "EPhGnrPOKi",
-        "title": "Каменное эхо",
-        "author": "Имранов Андей Вадимович",
-        "notes": "Фэнтези\nМагия - \"битва\" света с тьмой\nНачал читать - автор скачет от одного героя к другому (не люблю такие книги) - посмотрим что дальше будет",
-        "createdAt": "2021-02-06 07:40:39",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 16
         }
     }
 }

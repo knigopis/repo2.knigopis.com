@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tumturumk",
+        "booksCount": 4,
+        "updatedAt": "2021-02-16 14:09:47"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "vitasoft",
         "booksCount": 31,
         "updatedAt": "2021-02-11 02:37:53"
-    },
-    "500590279-yandex": {
-        "id": "500590279-yandex",
-        "nickname": "korskiy556",
-        "booksCount": 0,
-        "updatedAt": "2021-02-10 20:37:44"
     }
 }

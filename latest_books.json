@@ -1,4 +1,16 @@
 {
+    "D6LMR-ggmy": {
+        "id": "D6LMR-ggmy",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "аудиокнига",
+        "createdAt": "2021-02-16 14:09:47",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tumturumk",
+            "booksCount": 4
+        }
+    },
     "u4IlbGYfMS": {
         "id": "u4IlbGYfMS",
         "title": "Безупречная репутация, том 2",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 201
-        }
-    },
-    "rf38Wfgpnx": {
-        "id": "rf38Wfgpnx",
-        "title": "Последний поклон",
-        "author": "Виктор Петрович Астафьев",
-        "notes": "Очень пронзительная книга о детстве в деревне, которая находит в моей душе и в моей судьбе отклик.",
-        "createdAt": "2021-02-12 16:27:21",
-        "user": {
-            "id": "113800812165461458876-google",
-            "nickname": "Analitik",
-            "booksCount": 1
         }
     }
 }

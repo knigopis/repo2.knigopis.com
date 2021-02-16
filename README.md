@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
+    > аудиокнига
+
 * Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
     > Халява есть халява, и ей присуще одно странное свойство: когда она срывается, возникает чувство утраты, как будто это была и не халява вовсе, а свое, заслуженное. Жаль.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Женщина, которая в детстве должна была быть принесена в жертву беременеет ребёнком хаоса, мужчина вынужден искать выход.
 
 * Большие надежды ~ [anvonamore](users/595/5957175-vkontakte)<sup>147</sup>
-    > 6/10
 
 * Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>262</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
 
-* Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [](users/153/1537586159620888-facebook)<sup>33</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>263</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>5</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>31</sup> 
-[korskiy556](users/500/500590279-yandex)<sup>0</sup> 
 
 
-_16.02.2021 11:51:55_
+_16.02.2021 14:09:47_
