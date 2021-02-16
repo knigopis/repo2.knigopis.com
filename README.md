@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>31</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>263</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>31</sup> 
 [korskiy556](users/500/500590279-yandex)<sup>0</sup> 
-[Len4e91](users/254/254448176-yandex)<sup>12</sup> 
 
 
-_15.02.2021 19:44:44_
+_16.02.2021 11:51:08_
