@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[JanTrix](users/104/104939911619996338742-google)<sup>0</sup> 
+[JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [](users/153/1537586159620888-facebook)<sup>33</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>263</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
 
 
-_16.02.2021 20:55:40_
+_16.02.2021 20:56:59_
