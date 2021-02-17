@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
+    > — Оправдываться — значит признать себя виноватой.
+
 * 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
     > аудиокнига
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Халява есть халява, и ей присуще одно странное свойство: когда она срывается, возникает чувство утраты, как будто это была и не халява вовсе, а свое, заслуженное. Жаль.
 
 * Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
-    > Женщина, которая в детстве должна была быть принесена в жертву беременеет ребёнком хаоса, мужчина вынужден искать выход.
 
 * Большие надежды ~ [anvonamore](users/595/5957175-vkontakte)<sup>147</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Я, Робот ~ [Chandravadana](users/105/105866022348292919948-google)<sup>112</sup>
 
-* Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>264</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [](users/153/1537586159620888-facebook)<sup>33</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>263</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>83</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
 
 
-_16.02.2021 20:56:59_
+_17.02.2021 06:04:32_

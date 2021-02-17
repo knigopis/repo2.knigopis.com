@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
 * 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
 * Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
 * Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
@@ -30,7 +31,6 @@
 * Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
 * Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
 * Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
-* Поединок разумов ~ [vitasoft](users/474/47446642-vkontakte)<sup>29</sup>
 
 
-_16.02.2021 14:09:47_
+_17.02.2021 06:04:32_
