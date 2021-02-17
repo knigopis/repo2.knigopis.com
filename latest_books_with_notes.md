@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
 * 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
 * Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
@@ -30,7 +31,6 @@
 * Над пропастью во ржи ~ [kissamasya](users/684/68439978-vkontakte)<sup>102</sup>
 * Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
 * Hi-Fi ~ [Garka](users/115/115753719718250012620-google)<sup>277</sup>
-* Прежде, чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>175</sup>
 
 
-_17.02.2021 06:04:32_
+_17.02.2021 06:25:25_

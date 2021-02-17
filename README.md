@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
+    > Продолжение
+    > Цикл пока из 5 книг. Довольно интересно автор пишет
+    > Оценка 4
+
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
     > — Оправдываться — значит признать себя виноватой.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > аудиокнига
 
 * Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
-    > Халява есть халява, и ей присуще одно странное свойство: когда она срывается, возникает чувство утраты, как будто это была и не халява вовсе, а свое, заслуженное. Жаль.
 
 * Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
 
-* Я, Робот ~ [Chandravadana](users/105/105866022348292919948-google)<sup>112</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>17</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>264</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>5</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>305</sup> 
 
 
-_17.02.2021 06:04:32_
+_17.02.2021 06:25:25_
