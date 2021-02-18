@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
+    > 10/10 Загадкова Рейчел приїздить з Італії до Аглії до свого єдиного родича.
+
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
     > Продолжение
     > Цикл пока из 5 книг. Довольно интересно автор пишет
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > — Оправдываться — значит признать себя виноватой.
 
 * 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
-    > аудиокнига
 
 * Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
 
-* Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>241</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>118</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>17</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [](users/114/114865563932927404098-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>168</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 
 
-_18.02.2021 08:41:19_
+_18.02.2021 15:30:55_

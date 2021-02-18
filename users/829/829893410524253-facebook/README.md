@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>168</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>169</sup>
 ---
 
 ## 2021
+
+### Моя кузина Рейчел
+Дафна дю Мор'є
+> [2021-02-17] 10/10 Загадкова Рейчел приїздить з Італії до Аглії до свого єдиного родича.
+
 
 ### Небезпека "Дому на околиці"
 Аґата Крісті
