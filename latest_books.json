@@ -1,4 +1,16 @@
 {
+    "mWhe9qC_GS": {
+        "id": "mWhe9qC_GS",
+        "title": "Интервью: солнце, вот он я",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2021-02-18 08:41:19",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 241
+        }
+    },
     "7T4VE46C9L": {
         "id": "7T4VE46C9L",
         "title": "Франкенштейн, или современный Прометей",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 842
-        }
-    },
-    "95wdOM2NJ3": {
-        "id": "95wdOM2NJ3",
-        "title": "Тараканы",
-        "author": "Ю Нёсбе",
-        "notes": "",
-        "createdAt": "2021-02-13 16:32:19",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 79
         }
     }
 }

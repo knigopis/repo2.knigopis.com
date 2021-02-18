@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>241</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>118</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>17</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>264</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
 [ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>5</sup> 
 
 
-_17.02.2021 20:10:34_
+_18.02.2021 08:41:19_
