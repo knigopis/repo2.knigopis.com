@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
@@ -18,7 +19,6 @@
 * Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 * Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
 * Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>259</sup>
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
 * Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
@@ -33,4 +33,4 @@
 * Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
 
 
-_18.02.2021 15:30:55_
+_18.02.2021 18:19:11_

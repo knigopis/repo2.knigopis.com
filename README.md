@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
+    > Жизнь, она, как черствый пряник, — пока не размочишь, не поймешь, что сладкий, и ни за что не разжуешь. Это у кого зубы хорошие, так те кусают, не боясь ни боли, ни крови из десен. А кто свои уже сточил, да кого по этим зубам били не раз, тот к прянику подойдет с осторожностью да с опаской. Каждому свое, как говорится, да не всем поровну.
+
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
     > 10/10 Загадкова Рейчел приїздить з Італії до Аглії до свого єдиного родича.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
-    > — Оправдываться — значит признать себя виноватой.
 
 * 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
 
@@ -28,18 +30,16 @@ Do not use pull requests to make changes here.
 
 * Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
 
-* Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>265</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>241</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>118</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>17</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>264</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [](users/153/1537586159620888-facebook)<sup>33</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 
 
-_18.02.2021 15:30:55_
+_18.02.2021 18:19:11_
