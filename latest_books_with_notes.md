@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Скупой рыцарь ~ [Triste](users/517/5175580462988229760-mailru)<sup>1</sup>
 * Пролетая над гнездом кукушки ~ [kissamasya](users/684/68439978-vkontakte)<sup>104</sup>
 * Над пропастью во ржи ~ [kissamasya](users/684/68439978-vkontakte)<sup>102</sup>
-* Пять языков любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>63</sup>
 
 
-_18.02.2021 18:19:11_
+_19.02.2021 14:35:49_

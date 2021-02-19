@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
+    > Возможно будет серия
+    > Пока одна книга "Путь Кейна" - Фантези Боевая фантастика - довольно интересно,. но 2 раз не стал бы читать
+    > Оценка 4
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
     > Жизнь, она, как черствый пряник, — пока не размочишь, не поймешь, что сладкий, и ни за что не разжуешь. Это у кого зубы хорошие, так те кусают, не боясь ни боли, ни крови из десен. А кто свои уже сточил, да кого по этим зубам били не раз, тот к прянику подойдет с осторожностью да с опаской. Каждому свое, как говорится, да не всем поровну.
 
@@ -12,9 +17,6 @@ Do not use pull requests to make changes here.
     > 10/10 Загадкова Рейчел приїздить з Італії до Аглії до свого єдиного родича.
 
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
-    > Продолжение
-    > Цикл пока из 5 книг. Довольно интересно автор пишет
-    > Оценка 4
 
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
 
@@ -28,20 +30,18 @@ Do not use pull requests to make changes here.
 
 * Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>262</sup>
 
-* Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>18</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>124</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>80</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>265</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>17</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [](users/153/1537586159620888-facebook)<sup>33</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
 
 
-_19.02.2021 12:46:28_
+_19.02.2021 14:35:49_
