@@ -1,4 +1,16 @@
 {
+    "rK1VV8cblh": {
+        "id": "rK1VV8cblh",
+        "title": "Всё хреново. Книга о надежде",
+        "author": "Мэнсон Марк",
+        "notes": "Быстро забывается прочитанное. Надеюсь, что оно откладывается в при этом в подсознании и скрыто используется.",
+        "createdAt": "2021-02-19 12:25:52",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 4
+        }
+    },
     "ppIFBzlP0K": {
         "id": "ppIFBzlP0K",
         "title": "Я манипулирую тобой. Методы противодействия скрытому влиянию",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 177
-        }
-    },
-    "DZYISV60FU": {
-        "id": "DZYISV60FU",
-        "title": "«Буря мечей», третья книга из серии «Песнь льда и огня», ч. 1",
-        "author": "Джордж Р. Р. Мартин",
-        "notes": "",
-        "createdAt": "2021-02-15 12:34:08",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "Joan8ied",
-            "booksCount": 106
         }
     }
 }
