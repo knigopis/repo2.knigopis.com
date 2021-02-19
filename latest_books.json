@@ -1,4 +1,16 @@
 {
+    "dJYZt6LAGX": {
+        "id": "dJYZt6LAGX",
+        "title": "Дисгардиум. Угроза А-класса",
+        "author": "Данияр Сугралинов",
+        "notes": "",
+        "createdAt": "2021-02-19 20:56:27",
+        "user": {
+            "id": "107066996909968062694-googleplus",
+            "nickname": "CorLeonis",
+            "booksCount": 1
+        }
+    },
     "PyOABv3_3q": {
         "id": "PyOABv3_3q",
         "title": "Искусство быть неподвластным.",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 32
-        }
-    },
-    "-NPN1Tm3wU": {
-        "id": "-NPN1Tm3wU",
-        "title": "Змеиный гаджет",
-        "author": "Дарья Донцова",
-        "notes": "",
-        "createdAt": "2021-02-16 11:51:08",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 31
         }
     }
 }
