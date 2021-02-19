@@ -1,4 +1,16 @@
 {
+    "XhaUehWYrs": {
+        "id": "XhaUehWYrs",
+        "title": "Сказать жизни \"Да!\". Психолог в концлагере",
+        "author": "Виктор Франкл",
+        "notes": "В общем-то, ничего нового узнать не удалось.",
+        "createdAt": "2021-02-19 12:16:47",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 2
+        }
+    },
     "grcmd1dV5b": {
         "id": "grcmd1dV5b",
         "title": "Шенна",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 113
-        }
-    },
-    "EfTZaGaCgm": {
-        "id": "EfTZaGaCgm",
-        "title": "Я, Робот",
-        "author": "Айзек Азимов",
-        "notes": "Сборник рассказов",
-        "createdAt": "2021-02-15 11:47:01",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 112
         }
     }
 }
