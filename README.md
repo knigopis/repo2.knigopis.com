@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>119</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>265</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>241</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>118</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>17</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 
 
-_18.02.2021 18:19:11_
+_19.02.2021 08:48:41_
