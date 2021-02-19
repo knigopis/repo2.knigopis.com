@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[CorLeonis](users/107/107066996909968062694-googleplus)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>405</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>126</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>18</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
-[ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
 
 
-_19.02.2021 16:57:04_
+_19.02.2021 20:55:44_
