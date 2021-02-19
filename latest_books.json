@@ -1,4 +1,16 @@
 {
+    "ppIFBzlP0K": {
+        "id": "ppIFBzlP0K",
+        "title": "Я манипулирую тобой. Методы противодействия скрытому влиянию",
+        "author": "Непряхин Никита Юрьевич",
+        "notes": "Действительно лучшая книга по манипуляциям. Должна быть в библиотеке у каждого.",
+        "createdAt": "2021-02-19 12:17:41",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 3
+        }
+    },
     "XhaUehWYrs": {
         "id": "XhaUehWYrs",
         "title": "Сказать жизни \"Да!\". Психолог в концлагере",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "Joan8ied",
             "booksCount": 106
-        }
-    },
-    "6FOH7L7xfl": {
-        "id": "6FOH7L7xfl",
-        "title": "Остальные роботы",
-        "author": "Айзек Азимов",
-        "notes": "Сборник рассказов",
-        "createdAt": "2021-02-15 11:47:49",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 113
         }
     }
 }
