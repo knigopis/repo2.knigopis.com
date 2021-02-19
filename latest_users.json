@@ -1,4 +1,10 @@
 {
+    "107066996909968062694-googleplus": {
+        "id": "107066996909968062694-googleplus",
+        "nickname": "CorLeonis",
+        "booksCount": 0,
+        "updatedAt": "2021-02-19 20:55:43"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 45,
         "updatedAt": "2021-02-11 19:48:47"
-    },
-    "104889302-vkontakte": {
-        "id": "104889302-vkontakte",
-        "nickname": "ruslanqoon",
-        "booksCount": 0,
-        "updatedAt": "2021-02-11 16:09:01"
     }
 }
