@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 405,
+        "updatedAt": "2021-02-19 16:57:04"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -118,12 +124,6 @@
         "nickname": "Janet",
         "booksCount": 841,
         "updatedAt": "2021-02-13 16:33:03"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 404,
-        "updatedAt": "2021-02-13 07:00:34"
     },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
