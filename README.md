@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>124</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>80</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
 [ruslanqoon](users/104/104889302-vkontakte)<sup>0</sup> 
-[iztuesz](users/100/100877468102766148730-google)<sup>19</sup> 
 
 
-_19.02.2021 11:54:26_
+_19.02.2021 12:09:46_
