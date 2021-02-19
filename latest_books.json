@@ -1,4 +1,16 @@
 {
+    "meHXTr2f9t": {
+        "id": "meHXTr2f9t",
+        "title": "Достоевский трип",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2021-02-19 09:30:59",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 242
+        }
+    },
     "wgaTHtL0kn": {
         "id": "wgaTHtL0kn",
         "title": "Роковая ошибка церковных музыкантов",
@@ -344,18 +356,6 @@
         "user": {
             "id": "156773887861822636-mailru",
             "nickname": "Федор Фокин",
-            "booksCount": 1
-        }
-    },
-    "xhg_38iwJE": {
-        "id": "xhg_38iwJE",
-        "title": "Грозовой перевал",
-        "author": "Эмили Бронте",
-        "notes": "Стоит перечитать в более позднем возрасте, чтобы осмыслить все, что пытается сказать автор.",
-        "createdAt": "2021-02-13 21:38:19",
-        "user": {
-            "id": "186567618-vkontakte",
-            "nickname": null,
             "booksCount": 1
         }
     }
