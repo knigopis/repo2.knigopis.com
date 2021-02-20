@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
+    > пойдет
+
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
     > Продолжение
     > Альтернативка Попаданец в футболиста Валенсия Испания - Так средненькое чтиво на один раз, но продолжение читать буду
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
-    > Жизнь, она, как черствый пряник, — пока не размочишь, не поймешь, что сладкий, и ни за что не разжуешь. Это у кого зубы хорошие, так те кусают, не боясь ни боли, ни крови из десен. А кто свои уже сточил, да кого по этим зубам били не раз, тот к прянику подойдет с осторожностью да с опаской. Каждому свое, как говорится, да не всем поровну.
 
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
 
-* Большие надежды ~ [anvonamore](users/595/5957175-vkontakte)<sup>147</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>19</sup> 
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>405</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114865563932927404098-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>12</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>45</sup> 
 
 
-_20.02.2021 05:11:24_
+_20.02.2021 10:26:18_

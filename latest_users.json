@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 50,
+        "updatedAt": "2021-02-20 10:26:18"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "Пу_тем",
         "booksCount": 12,
         "updatedAt": "2021-02-12 01:06:01"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 45,
-        "updatedAt": "2021-02-11 19:48:47"
     }
 }

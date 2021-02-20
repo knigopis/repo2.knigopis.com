@@ -1,4 +1,16 @@
 {
+    "ENI1ZDW22q": {
+        "id": "ENI1ZDW22q",
+        "title": "Кафка на пляже",
+        "author": "Харуки Мураками",
+        "notes": "пойдет",
+        "createdAt": "2021-02-20 10:26:18",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 50
+        }
+    },
     "AjKYmRMM1q": {
         "id": "AjKYmRMM1q",
         "title": "Вингер. Начало",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 4
-        }
-    },
-    "u4IlbGYfMS": {
-        "id": "u4IlbGYfMS",
-        "title": "Безупречная репутация, том 2",
-        "author": "А.Маринина",
-        "notes": "",
-        "createdAt": "2021-02-16 11:51:55",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 33
         }
     }
 }
