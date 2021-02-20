@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/178/178095973-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>19</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [](users/114/114865563932927404098-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>157</sup> 
 
 
-_20.02.2021 13:22:22_
+_20.02.2021 15:52:16_
