@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
+    > Серия в 2 книгах
+    > Альтернативка. Первая "Елабуга" - переплетается со спасением Цветаевой, вторая - любовь и бегство в Канаду. Так себе на один раз прочитать
+    > Оценка 4-
+
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
     > пойдет
 
@@ -14,9 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 4-
 
 * История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
-    > Возможно будет серия
-    > Пока одна книга "Путь Кейна" - Фантези Боевая фантастика - довольно интересно,. но 2 раз не стал бы читать
-    > Оценка 4
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
 
@@ -30,17 +32,15 @@ Do not use pull requests to make changes here.
 
 * Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
 
-* Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>20</sup> 
 [](users/178/178095973-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>19</sup> 
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>405</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>126</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114865563932927404098-google)<sup>0</sup> 
 
 
-_20.02.2021 15:52:16_
+_20.02.2021 18:30:57_
