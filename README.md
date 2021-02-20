@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>306</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>19</sup> 
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>157</sup> 
 
 
-_20.02.2021 13:21:24_
+_20.02.2021 13:22:22_
