@@ -1,4 +1,16 @@
 {
+    "K-dTOkRm_W": {
+        "id": "K-dTOkRm_W",
+        "title": "Книги крови",
+        "author": "Клайв Баркер",
+        "notes": "",
+        "createdAt": "2021-02-21 05:38:12",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 81
+        }
+    },
     "5Y8PnLTJeu": {
         "id": "5Y8PnLTJeu",
         "title": "Андрей Волошин",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 118
-        }
-    },
-    "8rlFMPbtgR": {
-        "id": "8rlFMPbtgR",
-        "title": "Дорогой мертвеца",
-        "author": "Корнев Павел Николаевич",
-        "notes": "Продолжение\nЦикл пока из 5 книг. Довольно интересно автор пишет\nОценка 4",
-        "createdAt": "2021-02-17 06:25:25",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 17
         }
     }
 }
