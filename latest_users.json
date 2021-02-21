@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 158,
+        "updatedAt": "2021-02-21 18:56:55"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Analitik",
         "booksCount": 1,
         "updatedAt": "2021-02-12 16:27:21"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 77,
-        "updatedAt": "2021-02-12 15:53:55"
     }
 }
