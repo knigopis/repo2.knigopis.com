@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>6</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>7</sup>
 ---
 
 ## 2021
+
+### Of Fare and Stars
+Audrey Coulthurst
+> [2021-02-21] 
+
 
 ### Iron heart
 Nina Varela
