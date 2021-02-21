@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 6,
+        "updatedAt": "2021-02-21 06:47:46"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 77,
         "updatedAt": "2021-02-12 15:53:55"
-    },
-    "114865563932927404098-google": {
-        "id": "114865563932927404098-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-02-12 13:40:35"
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>5</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>6</sup>
 ---
 
 ## 2021
+
+### Кукла его высочества
+Эвелина Тень
+> [2021-02-21] 
+
 
 ### Я – твоя королева!
 Настя Любимка

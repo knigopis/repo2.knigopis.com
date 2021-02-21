@@ -1,4 +1,16 @@
 {
+    "ctZBppZJMZ": {
+        "id": "ctZBppZJMZ",
+        "title": "Кукла его высочества",
+        "author": "Эвелина Тень",
+        "notes": "",
+        "createdAt": "2021-02-21 06:47:46",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 6
+        }
+    },
     "K-dTOkRm_W": {
         "id": "K-dTOkRm_W",
         "title": "Книги крови",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 241
-        }
-    },
-    "7T4VE46C9L": {
-        "id": "7T4VE46C9L",
-        "title": "Франкенштейн, или современный Прометей",
-        "author": "Мэри Уолстонкрафт Шелли",
-        "notes": "",
-        "createdAt": "2021-02-17 20:10:34",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 118
         }
     }
 }

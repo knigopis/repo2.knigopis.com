@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>6</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>81</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>20</sup> 
 [](users/178/178095973-vkontakte)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>202</sup> 
 [Analitik](users/113/113800812165461458876-google)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
-[](users/114/114865563932927404098-google)<sup>0</sup> 
 
 
-_21.02.2021 05:38:12_
+_21.02.2021 06:47:46_
