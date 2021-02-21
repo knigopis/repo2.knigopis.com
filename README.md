@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>34</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>6</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>81</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>20</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
-[](users/153/1537586159620888-facebook)<sup>33</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>83</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 
 
-_21.02.2021 06:47:46_
+_21.02.2021 10:06:04_
