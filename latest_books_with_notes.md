@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
@@ -30,7 +31,6 @@
 * Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
 * Чёрное белое ~ [Chiffi](users/105/105831994080785626680-google)<sup>258</sup>
 * Как потерялся робот ~ [vitasoft](users/474/47446642-vkontakte)<sup>30</sup>
-* Отцы и дети ~ [Triste](users/517/5175580462988229760-mailru)<sup>2</sup>
 
 
-_20.02.2021 18:30:57_
+_22.02.2021 13:52:20_

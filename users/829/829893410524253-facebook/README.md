@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>169</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>170</sup>
 ---
 
 ## 2021
+
+### Опасные советские вещи
+Архипова Александра, Кирзюк Анна
+> [2021-02-22] 10/10 Анализ городских легенд и страхов.
+
 
 ### Моя кузина Рейчел
 Дафна дю Мор'є

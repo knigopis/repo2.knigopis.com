@@ -1,4 +1,16 @@
 {
+    "B3Llftfdtu": {
+        "id": "B3Llftfdtu",
+        "title": "Опасные советские вещи",
+        "author": "Архипова Александра, Кирзюк Анна",
+        "notes": "10/10 Анализ городских легенд и страхов.",
+        "createdAt": "2021-02-22 13:52:20",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 170
+        }
+    },
     "_BRdFhL-E_": {
         "id": "_BRdFhL-E_",
         "title": "Искусство любить",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 121
-        }
-    },
-    "qVQ9c-vpbH": {
-        "id": "qVQ9c-vpbH",
-        "title": "Тёмная башня. Извлечение троих",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-02-19 09:58:13",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 80
         }
     }
 }

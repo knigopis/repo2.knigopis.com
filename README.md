@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
+    > 10/10 Анализ городских легенд и страхов.
+
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
     > Серия в 2 книгах
     > Альтернативка. Первая "Елабуга" - переплетается со спасением Цветаевой, вторая - любовь и бегство в Канаду. Так себе на один раз прочитать
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > пойдет
 
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
-    > Продолжение
-    > Альтернативка Попаданец в футболиста Валенсия Испания - Так средненькое чтиво на один раз, но продолжение читать буду
-    > Оценка 4-
 
 * История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
 
-* Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup> 
 [](users/107/107186214049884880219-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
@@ -55,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>265</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>841</sup> 
 
 
-_22.02.2021 12:14:24_
+_22.02.2021 13:52:20_

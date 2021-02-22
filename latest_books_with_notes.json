@@ -1,4 +1,16 @@
 {
+    "B3Llftfdtu": {
+        "id": "B3Llftfdtu",
+        "title": "Опасные советские вещи",
+        "author": "Архипова Александра, Кирзюк Анна",
+        "notes": "10/10 Анализ городских легенд и страхов.",
+        "createdAt": "2021-02-22 13:52:20",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 170
+        }
+    },
     "5Y8PnLTJeu": {
         "id": "5Y8PnLTJeu",
         "title": "Андрей Волошин",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 30
-        }
-    },
-    "6kNqKcljRN": {
-        "id": "6kNqKcljRN",
-        "title": "Отцы и дети",
-        "author": "И.С.Тургенев",
-        "notes": "Школьная литература.\nКонфликт поколений.",
-        "createdAt": "2021-02-08 19:13:44",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 2
         }
     }
 }
