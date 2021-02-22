@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
+    > Только первые 2 книги
+
 * Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
     > 10/10 Анализ городских легенд и страхов.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 4-
 
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
-    > пойдет
 
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
 
-* 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup> 
 [](users/107/107186214049884880219-google)<sup>1</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>405</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>126</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
 
 
-_22.02.2021 18:15:06_
+_22.02.2021 18:27:39_

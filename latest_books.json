@@ -1,4 +1,16 @@
 {
+    "9DUtP-Dc3X": {
+        "id": "9DUtP-Dc3X",
+        "title": "Исследование о природе и причинах богатства народов.",
+        "author": "Адам Смит",
+        "notes": "Только первые 2 книги",
+        "createdAt": "2021-02-22 18:27:39",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 406
+        }
+    },
     "a6s0hBUiCC": {
         "id": "a6s0hBUiCC",
         "title": "Старая столица",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 123
-        }
-    },
-    "G3_EOTrmwC": {
-        "id": "G3_EOTrmwC",
-        "title": "Жених-призрак",
-        "author": "Вашингтон Ирвинг",
-        "notes": "",
-        "createdAt": "2021-02-19 11:29:53",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 122
         }
     }
 }

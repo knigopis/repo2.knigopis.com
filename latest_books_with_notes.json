@@ -1,4 +1,16 @@
 {
+    "9DUtP-Dc3X": {
+        "id": "9DUtP-Dc3X",
+        "title": "Исследование о природе и причинах богатства народов.",
+        "author": "Адам Смит",
+        "notes": "Только первые 2 книги",
+        "createdAt": "2021-02-22 18:27:39",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 406
+        }
+    },
     "B3Llftfdtu": {
         "id": "B3Llftfdtu",
         "title": "Опасные советские вещи",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 258
-        }
-    },
-    "naiMHSoZ8t": {
-        "id": "naiMHSoZ8t",
-        "title": "Как потерялся робот",
-        "author": "Айзек Азимов",
-        "notes": "audio",
-        "createdAt": "2021-02-09 02:53:52",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 30
         }
     }
 }
