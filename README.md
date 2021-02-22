@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>158</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>841</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>70</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>202</sup> 
 
 
-_22.02.2021 09:39:39_
+_22.02.2021 11:44:50_
