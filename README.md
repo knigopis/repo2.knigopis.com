@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
+    > Сюжет интересный, но чувствуется, что написано без соавтора.  Дергано и схематично. Хорошо, что серию не забросили.
+
 * Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
     > Только первые 2 книги
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Анализ городских легенд и страхов.
 
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
-    > Серия в 2 книгах
-    > Альтернативка. Первая "Елабуга" - переплетается со спасением Цветаевой, вторая - любовь и бегство в Канаду. Так себе на один раз прочитать
-    > Оценка 4-
 
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
 
-* Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>266</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup> 
@@ -54,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>126</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>265</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
 
 
-_22.02.2021 18:27:39_
+_22.02.2021 18:59:52_
