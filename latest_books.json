@@ -1,4 +1,16 @@
 {
+    "_BRdFhL-E_": {
+        "id": "_BRdFhL-E_",
+        "title": "Искусство любить",
+        "author": "Эрих ФРОММ",
+        "notes": "",
+        "createdAt": "2021-02-22 12:14:24",
+        "user": {
+            "id": "107186214049884880219-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "JvI83JCw1G": {
         "id": "JvI83JCw1G",
         "title": "Счастливый ребенок. Универсальные правила",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 80
-        }
-    },
-    "meHXTr2f9t": {
-        "id": "meHXTr2f9t",
-        "title": "Достоевский трип",
-        "author": "Владимир Сорокин",
-        "notes": "",
-        "createdAt": "2021-02-19 09:30:59",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 242
         }
     }
 }
