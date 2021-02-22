@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 203,
+        "updatedAt": "2021-02-22 18:15:06"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 112,
         "updatedAt": "2021-02-13 20:02:15"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 841,
-        "updatedAt": "2021-02-13 16:33:03"
     }
 }

@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup> 
 [](users/107/107186214049884880219-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Федор Фокин](users/156/156773887861822636-mailru)<sup>2</sup> 
 [](users/186/186567618-vkontakte)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>841</sup> 
 
 
-_22.02.2021 13:52:20_
+_22.02.2021 18:15:06_
