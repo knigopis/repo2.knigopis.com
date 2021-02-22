@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>158</sup> 
 [](users/153/1537586159620888-facebook)<sup>34</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>202</sup> 
 
 
-_22.02.2021 09:39:07_
+_22.02.2021 09:39:39_
