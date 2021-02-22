@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>158</sup> 
 [](users/153/1537586159620888-facebook)<sup>34</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>83</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>106</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
 [Федор Фокин](users/156/156773887861822636-mailru)<sup>2</sup> 
 [](users/186/186567618-vkontakte)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>202</sup> 
 
 
-_21.02.2021 22:25:10_
+_22.02.2021 09:39:07_
