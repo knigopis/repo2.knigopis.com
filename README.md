@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>266</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
 [Федор Фокин](users/156/156773887861822636-mailru)<sup>2</sup> 
 [](users/186/186567618-vkontakte)<sup>1</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
 
 
-_23.02.2021 15:48:05_
+_23.02.2021 17:52:33_
