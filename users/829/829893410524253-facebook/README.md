@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>170</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>171</sup>
 ---
 
 ## 2021
+
+### Игра Джералда
+Стиве Кинг
+> [2021-02-22] 8/10 Закованная в наручники женщина рядом с телом мертвого мужа.
+
 
 ### Опасные советские вещи
 Архипова Александра, Кирзюк Анна

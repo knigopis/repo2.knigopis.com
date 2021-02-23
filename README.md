@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
+    > 8/10 Закованная в наручники женщина рядом с телом мертвого мужа.
+
 * Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
     > Сюжет интересный, но чувствуется, что написано без соавтора.  Дергано и схематично. Хорошо, что серию не забросили.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Только первые 2 книги
 
 * Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
-    > 10/10 Анализ городских легенд и страхов.
 
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 
-* Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>266</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup> 
 [](users/107/107186214049884880219-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>112</sup> 
 
 
-_22.02.2021 18:59:52_
+_23.02.2021 15:48:05_

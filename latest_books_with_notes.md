@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 * Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
 * Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
 * Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
@@ -30,7 +31,6 @@
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
 * Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
 * Колесо страха ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>167</sup>
-* Красное и черное ~ [kissamasya](users/684/68439978-vkontakte)<sup>105</sup>
 
 
-_22.02.2021 18:59:52_
+_23.02.2021 15:48:05_
