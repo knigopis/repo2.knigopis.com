@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
+    > Чем больше мужчина чувствует к женщине, тем труднее ему даются слова. А чем легче они льются, тем меньше значат.
+
 * Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
     > 8/10 Закованная в наручники женщина рядом с телом мертвого мужа.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сюжет интересный, но чувствуется, что написано без соавтора.  Дергано и схематично. Хорошо, что серию не забросили.
 
 * Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
-    > Только первые 2 книги
 
 * Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
 
-* Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>267</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>266</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 [](users/107/107186214049884880219-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/186/186567618-vkontakte)<sup>1</sup> 
 
 
-_23.02.2021 17:52:33_
+_23.02.2021 19:09:03_
