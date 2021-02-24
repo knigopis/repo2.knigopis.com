@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107186214049884880219-google)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>268</sup> 
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
-[](users/107/107186214049884880219-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>158</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 
 
-_24.02.2021 20:35:20_
+_24.02.2021 21:17:04_

@@ -1,4 +1,10 @@
 {
+    "107186214049884880219-google": {
+        "id": "107186214049884880219-google",
+        "nickname": null,
+        "booksCount": 2,
+        "updatedAt": "2021-02-24 21:17:03"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -70,12 +76,6 @@
         "nickname": "EsterHani",
         "booksCount": 203,
         "updatedAt": "2021-02-22 18:15:06"
-    },
-    "107186214049884880219-google": {
-        "id": "107186214049884880219-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2021-02-22 12:14:24"
     },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",

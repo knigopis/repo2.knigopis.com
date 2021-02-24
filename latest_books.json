@@ -1,4 +1,16 @@
 {
+    "JlkzoEwSpw": {
+        "id": "JlkzoEwSpw",
+        "title": "Сердце хирурга",
+        "author": "Федор Углов",
+        "notes": "",
+        "createdAt": "2021-02-24 21:17:03",
+        "user": {
+            "id": "107186214049884880219-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "jL4seMUGlk": {
         "id": "jL4seMUGlk",
         "title": "Включите сердце и мозги",
@@ -345,18 +357,6 @@
             "id": "107066996909968062694-googleplus",
             "nickname": "CorLeonis",
             "booksCount": 1
-        }
-    },
-    "PyOABv3_3q": {
-        "id": "PyOABv3_3q",
-        "title": "Искусство быть неподвластным.",
-        "author": "Джон С. Скотт",
-        "notes": "",
-        "createdAt": "2021-02-19 16:57:04",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 405
         }
     }
 }
