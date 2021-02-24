@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
+    > 10/10 Материалы дела и разумное объяснение к ним без парнормальных версий.
+
 * «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чем больше мужчина чувствует к женщине, тем труднее ему даются слова. А чем легче они льются, тем меньше значат.
 
 * Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
-    > 8/10 Закованная в наручники женщина рядом с телом мертвого мужа.
 
 * Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
 
-* История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 [greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>32</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>267</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 [](users/107/107186214049884880219-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
 
 
-_24.02.2021 11:43:57_
+_24.02.2021 11:54:12_

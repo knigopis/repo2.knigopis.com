@@ -1,4 +1,16 @@
 {
+    "cDwlptyM2C": {
+        "id": "cDwlptyM2C",
+        "title": "Разгадка страшной истории гибели группы Дятлова",
+        "author": "Владимир Кузнецов",
+        "notes": "10/10 Материалы дела и разумное объяснение к ним без парнормальных версий.",
+        "createdAt": "2021-02-24 11:54:12",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 172
+        }
+    },
     "E4mT1SCUIv": {
         "id": "E4mT1SCUIv",
         "title": "«Человекоминимум»",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 45
-        }
-    },
-    "7L1OBX0NxC": {
-        "id": "7L1OBX0NxC",
-        "title": "Улики",
-        "author": "Айзек Азимов",
-        "notes": "audio",
-        "createdAt": "2021-02-11 02:37:53",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 31
         }
     }
 }

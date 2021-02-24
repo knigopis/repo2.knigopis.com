@@ -1,4 +1,16 @@
 {
+    "cDwlptyM2C": {
+        "id": "cDwlptyM2C",
+        "title": "Разгадка страшной истории гибели группы Дятлова",
+        "author": "Владимир Кузнецов",
+        "notes": "10/10 Материалы дела и разумное объяснение к ним без парнормальных версий.",
+        "createdAt": "2021-02-24 11:54:12",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 172
+        }
+    },
     "IuMX_ctIRM": {
         "id": "IuMX_ctIRM",
         "title": "Of Ice and Shadows",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 5
-        }
-    },
-    "rK1VV8cblh": {
-        "id": "rK1VV8cblh",
-        "title": "Всё хреново. Книга о надежде",
-        "author": "Мэнсон Марк",
-        "notes": "Быстро забывается прочитанное. Надеюсь, что оно откладывается в при этом в подсознании и скрыто используется.",
-        "createdAt": "2021-02-19 12:25:52",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 4
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
 * «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
 * Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
 * Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
@@ -30,7 +31,6 @@
 * Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
 * Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
-* Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
 
 
-_24.02.2021 05:05:59_
+_24.02.2021 11:54:12_

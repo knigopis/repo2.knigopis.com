@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>171</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>172</sup>
 ---
 
 ## 2021
+
+### Разгадка страшной истории гибели группы Дятлова
+Владимир Кузнецов
+> [2021-02-24] 10/10 Материалы дела и разумное объяснение к ним без парнормальных версий.
+
 
 ### Игра Джералда
 Стиве Кинг
