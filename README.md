@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Valeriia](users/107/107184472368930437407-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
-[Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 [greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
 
 
-_24.02.2021 16:24:50_
+_24.02.2021 17:19:24_
