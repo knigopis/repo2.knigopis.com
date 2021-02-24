@@ -1,4 +1,16 @@
 {
+    "Rj1qwqnikQ": {
+        "id": "Rj1qwqnikQ",
+        "title": "Три цукербрины",
+        "author": "В. Пелевин",
+        "notes": "",
+        "createdAt": "2021-02-24 16:24:50",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 84
+        }
+    },
     "-7kQH32jj2": {
         "id": "-7kQH32jj2",
         "title": "Важные годы. Почему не стоит откладывать жизнь на потом.",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 18
-        }
-    },
-    "FOcxFDO_Hp": {
-        "id": "FOcxFDO_Hp",
-        "title": "Когда я вернусь, будь дома",
-        "author": "Сафарли Эльчин",
-        "notes": "Очень умиротворяющее чтиво.",
-        "createdAt": "2021-02-19 12:46:28",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 7
         }
     }
 }
