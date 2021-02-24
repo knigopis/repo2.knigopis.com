@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
+    > — Думаешь, если поражение не признавать, оно может превратиться в победу? Что-то я сомневаюсь. В определенных случаях победить можно, только это самое поражение признав и начав сначала.
+
 * Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
     > 10/10 Материалы дела и разумное объяснение к ним без парнормальных версий.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
-    > Чем больше мужчина чувствует к женщине, тем труднее ему даются слова. А чем легче они льются, тем меньше значат.
 
 * Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 
-* Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>268</sup> 
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 [greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>32</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>267</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
 
 
-_24.02.2021 17:19:41_
+_24.02.2021 19:00:35_
