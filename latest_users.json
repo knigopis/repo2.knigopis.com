@@ -1,4 +1,10 @@
 {
+    "108196782764762972225-google": {
+        "id": "108196782764762972225-google",
+        "nickname": "greenka78",
+        "booksCount": 0,
+        "updatedAt": "2021-02-24 07:24:30"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -172,11 +178,5 @@
         "nickname": "Chandravadana",
         "booksCount": 113,
         "updatedAt": "2021-02-15 11:47:49"
-    },
-    "156773887861822636-mailru": {
-        "id": "156773887861822636-mailru",
-        "nickname": "Федор Фокин",
-        "booksCount": 2,
-        "updatedAt": "2021-02-14 10:21:23"
     }
 }
