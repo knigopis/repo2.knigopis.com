@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>7</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>8</sup>
 ---
 
 ## 2021
+
+### Of Ice and Shadows
+> [2021-02-23] 
+
 
 ### Of Fare and Stars
 Audrey Coulthurst

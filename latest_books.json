@@ -1,4 +1,16 @@
 {
+    "IuMX_ctIRM": {
+        "id": "IuMX_ctIRM",
+        "title": "Of Ice and Shadows",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-02-24 11:43:57",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 8
+        }
+    },
     "E4mT1SCUIv": {
         "id": "E4mT1SCUIv",
         "title": "«Человекоминимум»",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 4
-        }
-    },
-    "ppIFBzlP0K": {
-        "id": "ppIFBzlP0K",
-        "title": "Я манипулирую тобой. Методы противодействия скрытому влиянию",
-        "author": "Непряхин Никита Юрьевич",
-        "notes": "Действительно лучшая книга по манипуляциям. Должна быть в библиотеке у каждого.",
-        "createdAt": "2021-02-19 12:17:41",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 3
         }
     }
 }
