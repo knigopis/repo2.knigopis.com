@@ -1,4 +1,10 @@
 {
+    "275766107-vkontakte": {
+        "id": "275766107-vkontakte",
+        "nickname": "aktoty",
+        "booksCount": 88,
+        "updatedAt": "2021-02-24 16:21:43"
+    },
     "107184472368930437407-google": {
         "id": "107184472368930437407-google",
         "nickname": "Valeriia",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 83,
         "updatedAt": "2021-02-15 16:24:38"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "Joan8ied",
-        "booksCount": 106,
-        "updatedAt": "2021-02-15 12:34:08"
     }
 }
