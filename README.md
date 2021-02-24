@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
+    > Хорошее описание построения творческих бизнесов по элементам. В принципе, годится много подо что, где есть люди-клиенты, но заточено именно под эвент-менеджмент.
+
 * Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
     > — Думаешь, если поражение не признавать, оно может превратиться в победу? Что-то я сомневаюсь. В определенных случаях победить можно, только это самое поражение признав и начав сначала.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Материалы дела и разумное объяснение к ним без парнормальных версий.
 
 * «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
-    > audio
 
 * Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
 
-* Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>268</sup> 
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>84</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>147</sup> 
 
 
-_24.02.2021 19:00:35_
+_24.02.2021 20:35:20_

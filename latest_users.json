@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 246,
+        "updatedAt": "2021-02-24 20:35:20"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 179,
         "updatedAt": "2021-02-15 18:40:10"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 147,
-        "updatedAt": "2021-02-15 18:35:28"
     }
 }

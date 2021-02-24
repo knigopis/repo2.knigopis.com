@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
 * Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
 * Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
 * «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
@@ -30,7 +31,6 @@
 * Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
 * Алиса в Стране чудес ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 * Career of Evil ~ [violet_velva](users/116/116961712580551399099-google)<sup>77</sup>
-* Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 
 
-_24.02.2021 19:00:35_
+_24.02.2021 20:35:20_
