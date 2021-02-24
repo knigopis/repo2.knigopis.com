@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>32</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>267</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>83</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>106</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
-[Федор Фокин](users/156/156773887861822636-mailru)<sup>2</sup> 
 
 
-_24.02.2021 05:05:59_
+_24.02.2021 07:24:31_
