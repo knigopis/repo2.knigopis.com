@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
+    > audio
+
 * Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
     > Чем больше мужчина чувствует к женщине, тем труднее ему даются слова. А чем легче они льются, тем меньше значат.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Закованная в наручники женщина рядом с телом мертвого мужа.
 
 * Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
-    > Сюжет интересный, но чувствуется, что написано без соавтора.  Дергано и схематично. Хорошо, что серию не забросили.
 
 * Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>32</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>267</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Joan8ied](users/240/2401650-vkontakte)<sup>106</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup> 
 [Федор Фокин](users/156/156773887861822636-mailru)<sup>2</sup> 
-[](users/186/186567618-vkontakte)<sup>1</sup> 
 
 
-_23.02.2021 19:09:03_
+_24.02.2021 05:05:59_

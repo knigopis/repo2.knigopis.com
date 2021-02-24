@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>31</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>32</sup>
 ---
 
 ## 2021
+
+### «Человекоминимум»
+Роберт Шекли
+> [2021-02-24] audio
+
 
 ### Улики
 Айзек Азимов

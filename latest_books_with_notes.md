@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
 * Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
 * Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 * Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
@@ -30,7 +31,6 @@
 * Небезпека "Дому на околиці" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 * Вечера на хуторе близ Диканьки ~ [Beaviska](users/102/10202544960024508-facebook)<sup>45</sup>
 * Улики ~ [vitasoft](users/474/47446642-vkontakte)<sup>31</sup>
-* Нестареющий мозг ~ [Len4e91](users/254/254448176-yandex)<sup>12</sup>
 
 
-_23.02.2021 19:09:03_
+_24.02.2021 05:05:59_

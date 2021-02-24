@@ -1,4 +1,16 @@
 {
+    "E4mT1SCUIv": {
+        "id": "E4mT1SCUIv",
+        "title": "«Человекоминимум»",
+        "author": "Роберт Шекли",
+        "notes": "audio",
+        "createdAt": "2021-02-24 05:05:59",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 32
+        }
+    },
     "h4K9ZMxySq": {
         "id": "h4K9ZMxySq",
         "title": "Хозяйка старого дома",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 3
-        }
-    },
-    "XhaUehWYrs": {
-        "id": "XhaUehWYrs",
-        "title": "Сказать жизни \"Да!\". Психолог в концлагере",
-        "author": "Виктор Франкл",
-        "notes": "В общем-то, ничего нового узнать не удалось.",
-        "createdAt": "2021-02-19 12:16:47",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 2
         }
     }
 }
