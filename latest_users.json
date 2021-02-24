@@ -1,4 +1,10 @@
 {
+    "107184472368930437407-google": {
+        "id": "107184472368930437407-google",
+        "nickname": "Valeriia",
+        "booksCount": 0,
+        "updatedAt": "2021-02-24 14:39:23"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Joan8ied",
         "booksCount": 106,
         "updatedAt": "2021-02-15 12:34:08"
-    },
-    "105866022348292919948-google": {
-        "id": "105866022348292919948-google",
-        "nickname": "Chandravadana",
-        "booksCount": 113,
-        "updatedAt": "2021-02-15 11:47:49"
     }
 }
