@@ -1,4 +1,10 @@
 {
+    "76561198846322195-steam": {
+        "id": "76561198846322195-steam",
+        "nickname": "TTyTb_k_Лeге",
+        "booksCount": 0,
+        "updatedAt": "2021-02-25 19:04:36"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "tumturumk",
         "booksCount": 4,
         "updatedAt": "2021-02-16 14:09:47"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 179,
-        "updatedAt": "2021-02-15 18:40:10"
     }
 }
