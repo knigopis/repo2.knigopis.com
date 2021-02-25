@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 127,
+        "updatedAt": "2021-02-25 15:44:45"
+    },
     "107186214049884880219-google": {
         "id": "107186214049884880219-google",
         "nickname": null,
@@ -142,12 +148,6 @@
         "nickname": "CorLeonis",
         "booksCount": 1,
         "updatedAt": "2021-02-19 20:56:27"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 126,
-        "updatedAt": "2021-02-19 16:43:41"
     },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",

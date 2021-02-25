@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>127</sup> 
 [](users/107/107186214049884880219-google)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>268</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>126</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 
 
-_24.02.2021 21:17:04_
+_25.02.2021 15:44:45_
