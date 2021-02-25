@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 324,
+        "updatedAt": "2021-02-25 20:03:42"
+    },
     "76561198846322195-steam": {
         "id": "76561198846322195-steam",
         "nickname": "TTyTb_k_Лeге",
@@ -172,11 +178,5 @@
         "nickname": "JanTrix",
         "booksCount": 1,
         "updatedAt": "2021-02-16 20:56:59"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tumturumk",
-        "booksCount": 4,
-        "updatedAt": "2021-02-16 14:09:47"
     }
 }
