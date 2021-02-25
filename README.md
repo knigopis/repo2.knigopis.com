@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[TTyTb_k_Лeге](users/765/76561198846322195-steam)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>128</sup> 
 [](users/107/107186214049884880219-google)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
 [JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>4</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup> 
 
 
-_25.02.2021 16:48:40_
+_25.02.2021 19:04:36_
