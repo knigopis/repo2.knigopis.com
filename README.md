@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 [TTyTb_k_Лeге](users/765/76561198846322195-steam)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>128</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>242</sup> 
-[JanTrix](users/104/104939911619996338742-google)<sup>1</sup> 
 
 
-_25.02.2021 20:03:42_
+_26.02.2021 11:33:42_

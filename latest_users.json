@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ..",
+        "booksCount": 139,
+        "updatedAt": "2021-02-26 11:33:42"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Lala",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 242,
         "updatedAt": "2021-02-19 09:30:59"
-    },
-    "104939911619996338742-google": {
-        "id": "104939911619996338742-google",
-        "nickname": "JanTrix",
-        "booksCount": 1,
-        "updatedAt": "2021-02-16 20:56:59"
     }
 }
