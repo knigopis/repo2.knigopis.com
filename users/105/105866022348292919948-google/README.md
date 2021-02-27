@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>115</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>116</sup>
 ---
 
 ## 2021
@@ -535,6 +535,10 @@
 
 
 ## 2001
+
+### Хроника капитана Блада
+Рафаэль Сабатини
+
 
 ### Одиссея Капитана Блада
 Рафаэль Сабатини
