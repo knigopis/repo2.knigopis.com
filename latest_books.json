@@ -1,4 +1,16 @@
 {
+    "rECys4giY8": {
+        "id": "rECys4giY8",
+        "title": "Лилия и лев",
+        "author": "Морис Дрюон",
+        "notes": "",
+        "createdAt": "2021-02-27 05:12:41",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 122
+        }
+    },
     "328XOe5dD6": {
         "id": "328XOe5dD6",
         "title": "Французская волчица",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 170
-        }
-    },
-    "_BRdFhL-E_": {
-        "id": "_BRdFhL-E_",
-        "title": "Искусство любить",
-        "author": "Эрих ФРОММ",
-        "notes": "",
-        "createdAt": "2021-02-22 12:14:24",
-        "user": {
-            "id": "107186214049884880219-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>121</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>122</sup>
 ---
 
 ## 2021
@@ -514,6 +514,11 @@
 
 
 ## 2002
+
+### Лилия и лев
+Морис Дрюон
+> [2002-06] 
+
 
 ### Французская волчица
 Морис Дрюон
