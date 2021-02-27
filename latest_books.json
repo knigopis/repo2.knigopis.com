@@ -1,4 +1,16 @@
 {
+    "8_GyCZ8m6K": {
+        "id": "8_GyCZ8m6K",
+        "title": "Владения Хаоса",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2021-02-27 05:33:20",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 131
+        }
+    },
     "8DVFUUDJ_6": {
         "id": "8DVFUUDJ_6",
         "title": "Рука Оберона",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 88
-        }
-    },
-    "SWGyb162gk": {
-        "id": "SWGyb162gk",
-        "title": "Братья Карамазовы",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2021-02-24 14:39:56",
-        "user": {
-            "id": "107184472368930437407-google",
-            "nickname": "Valeriia",
-            "booksCount": 1
         }
     }
 }
