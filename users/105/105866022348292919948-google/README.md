@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>134</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>133</sup>
 ---
 
 ## 2021
@@ -359,10 +359,6 @@
 
 
 ### Второй Фонд
-Айзек Азимов
-
-
-### Звезды как пыль
 Айзек Азимов
 
 
