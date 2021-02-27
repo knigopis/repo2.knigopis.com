@@ -1,4 +1,16 @@
 {
+    "3TkRvQ6giH": {
+        "id": "3TkRvQ6giH",
+        "title": "Трилогия: Тропы тьмы",
+        "author": "Роберт Сальваторе",
+        "notes": "Незримый клинок, Хребет мира, Море мечей",
+        "createdAt": "2021-02-27 06:18:17",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 156
+        }
+    },
     "WWOu-cZ5lp": {
         "id": "WWOu-cZ5lp",
         "title": "Трилогия «Долина Ледяного Ветра",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 134
-        }
-    },
-    "kBfL7-lyKK": {
-        "id": "kBfL7-lyKK",
-        "title": "Рыцарь Теней",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2021-02-27 05:35:59",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 133
         }
     }
 }

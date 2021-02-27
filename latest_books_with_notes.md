@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Трилогия: Тропы тьмы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>156</sup>
 * Трилогия «Долина Ледяного Ветра ~ [Chandravadana](users/105/105866022348292919948-google)<sup>155</sup>
 * Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
 * Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
@@ -30,7 +31,6 @@
 * Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
 * Я, Робот ~ [Chandravadana](users/105/105866022348292919948-google)<sup>112</sup>
 * Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
-* Седьмица Трехглазого и Убить Змееныша ~ [Chiffi](users/105/105831994080785626680-google)<sup>260</sup>
 
 
-_27.02.2021 06:14:43_
+_27.02.2021 06:18:17_

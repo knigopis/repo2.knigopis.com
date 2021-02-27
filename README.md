@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трилогия: Тропы тьмы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>156</sup>
+    > Незримый клинок, Хребет мира, Море мечей
+
 * Трилогия «Долина Ледяного Ветра ~ [Chandravadana](users/105/105866022348292919948-google)<sup>155</sup>
     > Магический кристалл, Серебрянные стрелы, Проклятие рубина
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отступник, Изгнанник, Воин
 
 * Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
-    > Хорошее описание построения творческих бизнесов по элементам. В принципе, годится много подо что, где есть люди-клиенты, но заточено именно под эвент-менеджмент.
 
 * Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
 
-* Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>155</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>156</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 [TTyTb_k_Лeге](users/765/76561198846322195-steam)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 
 
-_27.02.2021 06:14:43_
+_27.02.2021 06:18:17_
