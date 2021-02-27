@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
+    > Отступник, Изгнанник, Воин
+
 * Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
     > Хорошее описание построения творческих бизнесов по элементам. В принципе, годится много подо что, где есть люди-клиенты, но заточено именно под эвент-менеджмент.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > — Думаешь, если поражение не признавать, оно может превратиться в победу? Что-то я сомневаюсь. В определенных случаях победить можно, только это самое поражение признав и начав сначала.
 
 * Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
-    > 10/10 Материалы дела и разумное объяснение к ним без парнормальных версий.
 
 * «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
 
-* Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>153</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>154</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 [TTyTb_k_Лeге](users/765/76561198846322195-steam)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 
 
-_27.02.2021 06:09:46_
+_27.02.2021 06:12:44_

@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>153</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>154</sup>
 ---
 
 ## 2021
@@ -313,6 +313,11 @@
 
 
 ## 2014
+
+### Трилогии: Темный эльф
+Роберт Сальваторе
+> Отступник, Изгнанник, Воин
+
 
 ### Гарри Поттер и Дары Смерти
 Джоан Роулинг
