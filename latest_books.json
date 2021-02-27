@@ -1,4 +1,16 @@
 {
+    "-jGVGu65Z5": {
+        "id": "-jGVGu65Z5",
+        "title": "на западном фронте без перемен",
+        "author": "Ремарк",
+        "notes": "",
+        "createdAt": "2021-02-27 22:21:26",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 24
+        }
+    },
     "BMTbQIYjS7": {
         "id": "BMTbQIYjS7",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 138
-        }
-    },
-    "rTf_6qLQzG": {
-        "id": "rTf_6qLQzG",
-        "title": "По ту сторону льда",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2021-02-27 06:00:21",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 137
         }
     }
 }
