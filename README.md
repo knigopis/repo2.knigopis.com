@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>35</sup> 
 [pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>269</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>158</sup> 
-[](users/153/1537586159620888-facebook)<sup>34</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>6</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>81</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
 
 
-_27.02.2021 10:39:13_
+_27.02.2021 12:28:01_

@@ -1,4 +1,16 @@
 {
+    "vzGZfpFcNQ": {
+        "id": "vzGZfpFcNQ",
+        "title": "Отцы наши",
+        "author": "Ребекка Уэйт",
+        "notes": "",
+        "createdAt": "2021-02-27 12:28:01",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 35
+        }
+    },
     "91RgFGJD7x": {
         "id": "91RgFGJD7x",
         "title": "Пробуждение куклы. Городские легенды 3",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 133
-        }
-    },
-    "TNHTCuyyrZ": {
-        "id": "TNHTCuyyrZ",
-        "title": "Волкодав. Самоцветные горы",
-        "author": "Мария Семенова",
-        "notes": "",
-        "createdAt": "2021-02-27 05:47:17",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 138
         }
     }
 }
