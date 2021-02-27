@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>138</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>139</sup>
 ---
 
 ## 2021
@@ -46,6 +46,10 @@
 
 
 ## 2019
+
+### Слепые солдаты
+Александр Бушков
+
 
 ### Чёртова Мельница
 Александр Бушков
