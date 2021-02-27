@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>135</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>134</sup>
 ---
 
 ## 2021
@@ -353,10 +353,6 @@
 
 
 ## 2008
-
-### Прелюдия к Фонду
-Айзек Азимов
-
 
 ### Цикл "Лакки Старр"
 Айзек Азимов
