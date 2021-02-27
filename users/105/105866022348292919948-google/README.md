@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>127</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>128</sup>
 ---
 
 ## 2021
@@ -428,6 +428,10 @@
 
 
 ## 2005
+
+### Ружья Авалона
+Роджер Желязны
+
 
 ### Девять принцев Амбера
 Роджер Желязны

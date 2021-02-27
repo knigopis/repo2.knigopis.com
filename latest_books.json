@@ -1,4 +1,16 @@
 {
+    "QJA--6A8L3": {
+        "id": "QJA--6A8L3",
+        "title": "Ружья Авалона",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2021-02-27 05:31:48",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 128
+        }
+    },
     "z-h28FGKUi": {
         "id": "z-h28FGKUi",
         "title": "Девять принцев Амбера",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 8
-        }
-    },
-    "E4mT1SCUIv": {
-        "id": "E4mT1SCUIv",
-        "title": "«Человекоминимум»",
-        "author": "Роберт Шекли",
-        "notes": "audio",
-        "createdAt": "2021-02-24 05:05:59",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 32
         }
     }
 }
