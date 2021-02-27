@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>123</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>124</sup>
 ---
 
 ## 2021
@@ -499,6 +499,10 @@
 
 
 ## 2003
+
+### Возвращение короля
+Джон Рональд Ру́эл То́лкин
+
 
 ### Две крепости
 Джон Рональд Ру́эл То́лкин
