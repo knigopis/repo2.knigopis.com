@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>152</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>153</sup>
 ---
 
 ## 2021
@@ -353,6 +353,10 @@
 
 
 ## 2013
+
+### Чёрное копье
+Ник Перумов
+
 
 ### Эльфийский клинок
 Ник Перумов
