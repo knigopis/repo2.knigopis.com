@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
+    > Классная серия. Жаль, что пока нет продолжения.
+
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
     > Служитель кристалла, Заклятие Короля-колдуна, Дорога патриарха
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Тысяча орков, Одинокий дроу, Два меча
 
 * Серия: Наследие дроу ~ [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup>
-    > Тёмное наследие, Беззвездная ночь, Нашествие тьмы, Путь к рассвету
 
 * Трилогия: Тропы тьмы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>156</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
 
-* «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>269</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>128</sup> 
 [](users/107/107186214049884880219-google)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>268</sup> 
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 
 
-_27.02.2021 06:32:29_
+_27.02.2021 06:57:04_
