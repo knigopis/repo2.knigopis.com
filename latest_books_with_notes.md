@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Серия: Наследие дроу ~ [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup>
 * Трилогия: Тропы тьмы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>156</sup>
 * Трилогия «Долина Ледяного Ветра ~ [Chandravadana](users/105/105866022348292919948-google)<sup>155</sup>
 * Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
@@ -30,7 +31,6 @@
 * Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
 * Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
 * Я, Робот ~ [Chandravadana](users/105/105866022348292919948-google)<sup>112</sup>
-* Темная башня ~ [Naricev](users/107/107090515204537133928-google)<sup>97</sup>
 
 
-_27.02.2021 06:18:17_
+_27.02.2021 06:20:40_

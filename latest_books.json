@@ -1,4 +1,16 @@
 {
+    "Nf5PzviTOf": {
+        "id": "Nf5PzviTOf",
+        "title": "Серия: Наследие дроу",
+        "author": "Роберт Сальваторе",
+        "notes": "Тёмное наследие, Беззвездная ночь, Нашествие тьмы, Путь к рассвету",
+        "createdAt": "2021-02-27 06:20:40",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 157
+        }
+    },
     "3TkRvQ6giH": {
         "id": "3TkRvQ6giH",
         "title": "Трилогия: Тропы тьмы",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 135
-        }
-    },
-    "ov-mml0q6D": {
-        "id": "ov-mml0q6D",
-        "title": "Принц Хаоса",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2021-02-27 05:36:21",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 134
         }
     }
 }
