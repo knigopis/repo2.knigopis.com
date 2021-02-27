@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>269</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 
 
-_27.02.2021 06:57:04_
+_27.02.2021 10:39:13_
