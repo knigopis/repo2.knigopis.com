@@ -1,4 +1,16 @@
 {
+    "oZNubvXTTu": {
+        "id": "oZNubvXTTu",
+        "title": "Трилогия: Наемные клинки",
+        "author": "Роберт Сальваторе",
+        "notes": "Служитель кристалла, Заклятие Короля-колдуна, Дорога патриарха",
+        "createdAt": "2021-02-27 06:23:10",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 159
+        }
+    },
     "oz4d1LvLY5": {
         "id": "oz4d1LvLY5",
         "title": "Трилогия: Клинки охотника",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 137
-        }
-    },
-    "xXZ1Ojwg2x": {
-        "id": "xXZ1Ojwg2x",
-        "title": "Волкодав. Истовик-камень",
-        "author": "Мария Семенова",
-        "notes": "",
-        "createdAt": "2021-02-27 05:46:19",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 136
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
 * Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
 * Серия: Наследие дроу ~ [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup>
 * Трилогия: Тропы тьмы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>156</sup>
@@ -30,7 +31,6 @@
 * Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>262</sup>
 * Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
 * Бабука ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>177</sup>
-* Остальные роботы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>113</sup>
 
 
-_27.02.2021 06:22:12_
+_27.02.2021 06:23:10_

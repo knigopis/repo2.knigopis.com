@@ -1,4 +1,16 @@
 {
+    "oZNubvXTTu": {
+        "id": "oZNubvXTTu",
+        "title": "Трилогия: Наемные клинки",
+        "author": "Роберт Сальваторе",
+        "notes": "Служитель кристалла, Заклятие Короля-колдуна, Дорога патриарха",
+        "createdAt": "2021-02-27 06:23:10",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 159
+        }
+    },
     "oz4d1LvLY5": {
         "id": "oz4d1LvLY5",
         "title": "Трилогия: Клинки охотника",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 177
-        }
-    },
-    "6FOH7L7xfl": {
-        "id": "6FOH7L7xfl",
-        "title": "Остальные роботы",
-        "author": "Айзек Азимов",
-        "notes": "Сборник рассказов",
-        "createdAt": "2021-02-15 11:47:49",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 113
         }
     }
 }
