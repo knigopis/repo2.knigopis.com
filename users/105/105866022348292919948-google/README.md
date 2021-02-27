@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>145</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>146</sup>
 ---
 
 ## 2021
@@ -34,6 +34,10 @@
 ### Туарег
 Альберто Васкес-Фигероа
 > [2020-10-12] 
+
+
+### Чудовища в янтаре: Дыхание мороза
+Александр Бушков
 
 
 ### Homo Deus: Краткая история завтрашнего дня
