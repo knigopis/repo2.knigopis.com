@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>137</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>136</sup>
 ---
 
 ## 2021
@@ -355,10 +355,6 @@
 ## 2008
 
 ### Прелюдия к Фонду
-Айзек Азимов
-
-
-### Фонд и Земля
 Айзек Азимов
 
 
