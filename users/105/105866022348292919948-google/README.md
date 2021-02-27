@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>132</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>133</sup>
 ---
 
 ## 2021
@@ -428,6 +428,10 @@
 
 
 ## 2005
+
+### Рыцарь Теней
+Роджер Желязны
+
 
 ### Знак Хаоса
 Роджер Желязны
