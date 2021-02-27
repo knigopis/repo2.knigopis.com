@@ -1,4 +1,16 @@
 {
+    "b_5jNvv_Hz": {
+        "id": "b_5jNvv_Hz",
+        "title": "Зима в Эдеме",
+        "author": "Гарри Гаррисон",
+        "notes": "",
+        "createdAt": "2021-02-27 05:28:10",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 125
+        }
+    },
     "CZTOis71UZ": {
         "id": "CZTOis71UZ",
         "title": "Возвращение короля",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 171
-        }
-    },
-    "YaTSk86dYq": {
-        "id": "YaTSk86dYq",
-        "title": "Секретное досье 7 . Черная дама",
-        "author": "Тимошенко Наталья",
-        "notes": "Сюжет интересный, но чувствуется, что написано без соавтора.  Дергано и схематично. Хорошо, что серию не забросили.",
-        "createdAt": "2021-02-22 18:59:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 266
         }
     }
 }
