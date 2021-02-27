@@ -1,4 +1,16 @@
 {
+    "P4ARqbmj9p": {
+        "id": "P4ARqbmj9p",
+        "title": "Негоже лилиям прясть",
+        "author": "Морис Дрюон",
+        "notes": "",
+        "createdAt": "2021-02-27 05:11:23",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 120
+        }
+    },
     "qkiuYXHqz_": {
         "id": "qkiuYXHqz_",
         "title": "Яд и Корона",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 79
-        }
-    },
-    "IMN_d4vPeE": {
-        "id": "IMN_d4vPeE",
-        "title": "Стрелок",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-02-22 09:39:07",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 98
         }
     }
 }
