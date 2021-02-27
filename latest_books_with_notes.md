@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чингисхан и рождение современного мира ~ [Garka](users/115/115753719718250012620-google)<sup>278</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
@@ -30,7 +31,6 @@
 * Чрево ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>179</sup>
 * Большие надежды ~ [anvonamore](users/595/5957175-vkontakte)<sup>147</sup>
 * Выдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>262</sup>
-* Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
 
 
-_27.02.2021 16:45:33_
+_27.02.2021 18:44:41_

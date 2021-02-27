@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чингисхан и рождение современного мира ~ [Garka](users/115/115753719718250012620-google)<sup>278</sup>
+    > Хорошая книга. Разбивает представление о монголах, как о кровожадных варварах. Да, завоеватели, но не варвары. Терпимость к религиям, обмен знаниями и прчее
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
     > Кошаку Уве сразу не понравился. Надо сказать, неприязнь оказалась в высшей степени обоюдной.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Классная серия. Жаль, что пока нет продолжения.
 
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
-    > Служитель кристалла, Заклятие Короля-колдуна, Дорога патриарха
 
 * Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
 
-* Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>278</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>270</sup> 
 [](users/153/1537586159620888-facebook)<sup>35</sup> 
 [pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/178/178095973-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>50</sup> 
-[CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
 
 
-_27.02.2021 16:45:33_
+_27.02.2021 18:44:41_

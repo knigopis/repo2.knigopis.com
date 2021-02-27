@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 278,
+        "updatedAt": "2021-02-27 18:44:41"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 50,
         "updatedAt": "2021-02-20 10:26:18"
-    },
-    "107066996909968062694-googleplus": {
-        "id": "107066996909968062694-googleplus",
-        "nickname": "CorLeonis",
-        "booksCount": 1,
-        "updatedAt": "2021-02-19 20:56:27"
     }
 }
