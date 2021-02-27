@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
+    > Тысяча орков, Одинокий дроу, Два меча
+
 * Серия: Наследие дроу ~ [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup>
     > Тёмное наследие, Беззвездная ночь, Нашествие тьмы, Путь к рассвету
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Незримый клинок, Хребет мира, Море мечей
 
 * Трилогия «Долина Ледяного Ветра ~ [Chandravadana](users/105/105866022348292919948-google)<sup>155</sup>
-    > Магический кристалл, Серебрянные стрелы, Проклятие рубина
 
 * Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
 
-* Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>158</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 [TTyTb_k_Лeге](users/765/76561198846322195-steam)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>7</sup> 
 
 
-_27.02.2021 06:20:40_
+_27.02.2021 06:22:12_

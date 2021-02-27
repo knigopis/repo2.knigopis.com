@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>157</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>158</sup>
 ---
 
 ## 2021
@@ -313,6 +313,11 @@
 
 
 ## 2014
+
+### Трилогия: Клинки охотника
+Роберт Сальваторе
+> Тысяча орков, Одинокий дроу, Два меча
+
 
 ### Серия: Наследие дроу
 Роберт Сальваторе

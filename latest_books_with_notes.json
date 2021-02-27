@@ -1,4 +1,16 @@
 {
+    "oz4d1LvLY5": {
+        "id": "oz4d1LvLY5",
+        "title": "Трилогия: Клинки охотника",
+        "author": "Роберт Сальваторе",
+        "notes": "Тысяча орков, Одинокий дроу, Два меча",
+        "createdAt": "2021-02-27 06:22:12",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 158
+        }
+    },
     "Nf5PzviTOf": {
         "id": "Nf5PzviTOf",
         "title": "Серия: Наследие дроу",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 113
-        }
-    },
-    "EfTZaGaCgm": {
-        "id": "EfTZaGaCgm",
-        "title": "Я, Робот",
-        "author": "Айзек Азимов",
-        "notes": "Сборник рассказов",
-        "createdAt": "2021-02-15 11:47:01",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 112
         }
     }
 }
