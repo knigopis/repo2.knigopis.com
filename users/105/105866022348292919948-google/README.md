@@ -1,7 +1,12 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>113</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>114</sup>
 ---
 
 ## 2021
+
+### Позитронный человек
+Айзек Азимов
+> [2021-02-24] 
+
 
 ### За стеной фильтров. Что Интернет скрывает от вас?
 Эли Паризер
