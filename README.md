@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [shpet](users/104/104126809082024514594-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>278</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>270</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>81</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>20</sup> 
 [](users/178/178095973-vkontakte)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>307</sup> 
 
 
-_27.02.2021 18:55:39_
+_27.02.2021 20:45:18_
