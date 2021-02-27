@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>138</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>137</sup>
 ---
 
 ## 2021
@@ -367,10 +367,6 @@
 
 
 ### Второй Фонд
-Айзек Азимов
-
-
-### Фонд и Империя
 Айзек Азимов
 
 
