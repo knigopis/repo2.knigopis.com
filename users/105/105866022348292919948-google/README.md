@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>117</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>116</sup>
 ---
 
 ## 2021
@@ -550,10 +550,6 @@
 
 ### Два капитана
 Вениамин Каверин
-
-
-### Капитан Блад
-Рафаэль Сабатини
 
 
 
