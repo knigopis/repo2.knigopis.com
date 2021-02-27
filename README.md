@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
+    > Кошаку Уве сразу не понравился. Надо сказать, неприязнь оказалась в высшей степени обоюдной.
+
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
     > Классная серия. Жаль, что пока нет продолжения.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Служитель кристалла, Заклятие Короля-колдуна, Дорога патриарха
 
 * Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
-    > Тысяча орков, Одинокий дроу, Два меча
 
 * Серия: Наследие дроу ~ [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
 
-* Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>270</sup> 
 [](users/153/1537586159620888-facebook)<sup>35</sup> 
 [pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>269</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [CorLeonis](users/107/107066996909968062694-googleplus)<sup>1</sup> 
 
 
-_27.02.2021 12:28:01_
+_27.02.2021 16:45:33_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
 * Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
@@ -21,7 +22,6 @@
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
 * История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>265</sup>
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
@@ -33,4 +33,4 @@
 * Для всех ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>178</sup>
 
 
-_27.02.2021 06:57:04_
+_27.02.2021 16:45:33_
