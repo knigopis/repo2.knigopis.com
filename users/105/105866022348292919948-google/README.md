@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>118</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>119</sup>
 ---
 
 ## 2021
@@ -514,6 +514,11 @@
 
 
 ## 2002
+
+### Яд и Корона
+Морис Дрюон
+> [2002-03] 
+
 
 ### Узница Шато-Гайара
 Морис Дрюон
