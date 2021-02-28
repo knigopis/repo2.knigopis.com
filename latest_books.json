@@ -1,4 +1,16 @@
 {
+    "NIsXPkB4Mj": {
+        "id": "NIsXPkB4Mj",
+        "title": "Формы человеческих отношений",
+        "author": "Эрик Берн",
+        "notes": "",
+        "createdAt": "2021-02-28 09:43:01",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 5
+        }
+    },
     "0CENMxnKqW": {
         "id": "0CENMxnKqW",
         "title": "Игра в бисер",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 140
-        }
-    },
-    "WDuKNJHZC6": {
-        "id": "WDuKNJHZC6",
-        "title": "Слепые солдаты",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2021-02-27 06:01:00",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 139
         }
     }
 }

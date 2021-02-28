@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 5,
+        "updatedAt": "2021-02-28 09:43:01"
+    },
     "177960414-vkontakte": {
         "id": "177960414-vkontakte",
         "nickname": "valexdarkstalker00",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 6,
         "updatedAt": "2021-02-21 06:47:46"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 81,
-        "updatedAt": "2021-02-21 05:38:12"
     }
 }
