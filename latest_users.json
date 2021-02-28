@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 60,
+        "updatedAt": "2021-02-28 13:52:39"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 158,
         "updatedAt": "2021-02-21 18:56:55"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 6,
-        "updatedAt": "2021-02-21 06:47:46"
     }
 }
