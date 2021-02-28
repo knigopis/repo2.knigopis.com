@@ -1,4 +1,10 @@
 {
+    "177960414-vkontakte": {
+        "id": "177960414-vkontakte",
+        "nickname": "valexdarkstalker00",
+        "booksCount": 0,
+        "updatedAt": "2021-02-28 06:49:45"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 81,
         "updatedAt": "2021-02-21 05:38:12"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 20,
-        "updatedAt": "2021-02-20 18:30:57"
     }
 }
