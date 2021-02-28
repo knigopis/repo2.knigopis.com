@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[andrewgrumpus](users/560/560577759-vkontakte)<sup>0</sup> 
+[andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>842</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 
 
-_28.02.2021 14:50:24_
+_28.02.2021 14:51:01_
