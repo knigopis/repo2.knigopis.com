@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[danyluk62](users/374/374149854-vkontakte)<sup>5</sup> 
+[danyluk62](users/374/374149854-vkontakte)<sup>6</sup> 
 [valexdarkstalker00](users/177/177960414-vkontakte)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>6</sup> 
 
 
-_28.02.2021 09:43:01_
+_28.02.2021 09:43:36_
