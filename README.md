@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>842</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>6</sup> 
 [valexdarkstalker00](users/177/177960414-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>97</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>158</sup> 
 
 
-_28.02.2021 13:52:39_
+_28.02.2021 14:42:13_
