@@ -1,4 +1,10 @@
 {
+    "560577759-vkontakte": {
+        "id": "560577759-vkontakte",
+        "nickname": "andrewgrumpus",
+        "booksCount": 0,
+        "updatedAt": "2021-02-28 14:50:23"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 79,
         "updatedAt": "2021-02-22 11:44:50"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 97,
-        "updatedAt": "2021-02-22 09:39:39"
     }
 }
