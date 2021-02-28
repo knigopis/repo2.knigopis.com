@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[valexdarkstalker00](users/177/177960414-vkontakte)<sup>0</sup> 
+[valexdarkstalker00](users/177/177960414-vkontakte)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [shpet](users/104/104126809082024514594-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>81</sup> 
 
 
-_28.02.2021 06:49:46_
+_28.02.2021 06:50:33_

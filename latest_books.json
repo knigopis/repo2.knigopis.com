@@ -1,4 +1,16 @@
 {
+    "0CENMxnKqW": {
+        "id": "0CENMxnKqW",
+        "title": "Игра в бисер",
+        "author": "Герман Гессе",
+        "notes": "Красиво и любо",
+        "createdAt": "2021-02-28 06:50:33",
+        "user": {
+            "id": "177960414-vkontakte",
+            "nickname": "valexdarkstalker00",
+            "booksCount": 1
+        }
+    },
     "-jGVGu65Z5": {
         "id": "-jGVGu65Z5",
         "title": "на западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 139
-        }
-    },
-    "AFVRdzaGT6": {
-        "id": "AFVRdzaGT6",
-        "title": "Чёртова Мельница",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2021-02-27 06:00:40",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 138
         }
     }
 }
