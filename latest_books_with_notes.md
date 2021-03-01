@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
 * Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
 * Избранница. Хладые 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>271</sup>
@@ -30,7 +31,6 @@
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
 * 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
-* Грозы медового отпуска ~ [Chiffi](users/105/105831994080785626680-google)<sup>263</sup>
 
 
-_01.03.2021 15:12:38_
+_01.03.2021 15:13:18_
