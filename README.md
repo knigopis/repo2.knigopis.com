@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>243</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>271</sup> 
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>842</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 
 
-_01.03.2021 05:21:16_
+_01.03.2021 10:56:42_
