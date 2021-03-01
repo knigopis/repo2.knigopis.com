@@ -1,4 +1,10 @@
 {
+    "112383791028642787860-google": {
+        "id": "112383791028642787860-google",
+        "nickname": "kellion",
+        "booksCount": 0,
+        "updatedAt": "2021-03-01 15:03:25"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 406,
         "updatedAt": "2021-02-22 18:27:39"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 203,
-        "updatedAt": "2021-02-22 18:15:06"
     }
 }
