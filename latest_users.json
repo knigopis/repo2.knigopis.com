@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 33,
+        "updatedAt": "2021-03-01 15:12:38"
+    },
     "112383791028642787860-google": {
         "id": "112383791028642787860-google",
         "nickname": "kellion",
@@ -160,12 +166,6 @@
         "nickname": "greenka78",
         "booksCount": 0,
         "updatedAt": "2021-02-24 07:24:30"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 32,
-        "updatedAt": "2021-02-24 05:05:59"
     },
     "42838582-vkontakte": {
         "id": "42838582-vkontakte",

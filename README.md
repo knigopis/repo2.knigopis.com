@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
+    > audio
+
 * Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
     > 7/10 История развода молодой семьи.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Тимошенко отвечает за Чехию, а Обухова за литературный стиль.   У нее никогда не было проблем с подчинением, но для этого она должна была признавать чье-то превосходящее положение.
 
 * Чингисхан и рождение современного мира ~ [Garka](users/115/115753719718250012620-google)<sup>278</sup>
-    > Хорошая книга. Разбивает представление о монголах, как о кровожадных варварах. Да, завоеватели, но не варвары. Терпимость к религиям, обмен знаниями и прчее
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трилогия: Тропы тьмы ~ [Chandravadana](users/105/105866022348292919948-google)<sup>156</sup>
 
-* Трилогия «Долина Ледяного Ветра ~ [Chandravadana](users/105/105866022348292919948-google)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>33</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>85</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 [greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>32</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 
 
-_01.03.2021 15:03:25_
+_01.03.2021 15:12:38_
