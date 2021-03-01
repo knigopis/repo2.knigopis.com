@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
 * Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
 * Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
@@ -30,7 +31,6 @@
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
 * Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
-* 45 татуировок менеджера ~ [tumturumk](users/135/135685382-vkontakte)<sup>4</sup>
 
 
-_01.03.2021 15:13:18_
+_01.03.2021 15:13:58_

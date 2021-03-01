@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
+    > audio
+
 * Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
-    > 7/10 История развода молодой семьи.
 
 * Избранница. Хладые 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>271</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
 
-* Серия: Наследие дроу ~ [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft](users/474/47446642-vkontakte)<sup>34</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>85</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 
 
-_01.03.2021 15:13:18_
+_01.03.2021 15:13:58_

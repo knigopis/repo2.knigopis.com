@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>34</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>35</sup>
 ---
 
 ## 2021
+
+### Хобби
+Фредерик Браун
+> [2021-03-01] audio
+
 
 ### Робот, который видел сны
 Айзек Азимов
