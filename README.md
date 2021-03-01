@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
+    > 7/10 История развода молодой семьи.
+
 * Избранница. Хладые 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>271</sup>
     > Тимошенко отвечает за Чехию, а Обухова за литературный стиль.   У нее никогда не было проблем с подчинением, но для этого она должна была признавать чье-то превосходящее положение.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга. Разбивает представление о монголах, как о кровожадных варварах. Да, завоеватели, но не варвары. Терпимость к религиям, обмен знаниями и прчее
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
-    > Кошаку Уве сразу не понравился. Надо сказать, неприязнь оказалась в высшей степени обоюдной.
 
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трилогия «Долина Ледяного Ветра ~ [Chandravadana](users/105/105866022348292919948-google)<sup>155</sup>
 
-* Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>243</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>271</sup> 
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 [greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 
 
-_01.03.2021 10:56:42_
+_01.03.2021 14:45:28_
