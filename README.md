@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Избранница. Хладые 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>271</sup>
+    > Тимошенко отвечает за Чехию, а Обухова за литературный стиль.   У нее никогда не было проблем с подчинением, но для этого она должна была признавать чье-то превосходящее положение.
+
 * Чингисхан и рождение современного мира ~ [Garka](users/115/115753719718250012620-google)<sup>278</sup>
     > Хорошая книга. Разбивает представление о монголах, как о кровожадных варварах. Да, завоеватели, но не варвары. Терпимость к религиям, обмен знаниями и прчее
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кошаку Уве сразу не понравился. Надо сказать, неприязнь оказалась в высшей степени обоюдной.
 
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
-    > Классная серия. Жаль, что пока нет продолжения.
 
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
 
-* Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>271</sup> 
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>842</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [shpet](users/104/104126809082024514594-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>278</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>270</sup> 
 [](users/153/1537586159620888-facebook)<sup>35</sup> 
 [pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>79</sup> 
 
 
-_28.02.2021 14:51:01_
+_01.03.2021 05:21:16_
