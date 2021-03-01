@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>82</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>843</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>129</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 [greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 
 
-_01.03.2021 18:27:52_
+_01.03.2021 18:42:00_
