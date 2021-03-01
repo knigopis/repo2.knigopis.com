@@ -1,4 +1,16 @@
 {
+    "V3dFfOQ4O6": {
+        "id": "V3dFfOQ4O6",
+        "title": "Список Шиндлера",
+        "author": "Томас Кенэлли",
+        "notes": "",
+        "createdAt": "2021-03-01 16:10:31",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 129
+        }
+    },
     "NbxU-RUWli": {
         "id": "NbxU-RUWli",
         "title": "Хобби",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 152
-        }
-    },
-    "9QgbHHeTFn": {
-        "id": "9QgbHHeTFn",
-        "title": "Враг Короны",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2021-02-27 06:06:59",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 151
         }
     }
 }

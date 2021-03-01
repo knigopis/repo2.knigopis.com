@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>129</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>85</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 [TTyTb_k_Лeге](users/765/76561198846322195-steam)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>128</sup> 
 [](users/107/107186214049884880219-google)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
 
 
-_01.03.2021 15:13:58_
+_01.03.2021 16:10:31_
