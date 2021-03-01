@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kellion](users/112/112383791028642787860-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>85</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>243</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>32</sup> 
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>406</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>203</sup> 
 
 
-_01.03.2021 14:51:26_
+_01.03.2021 15:03:25_
