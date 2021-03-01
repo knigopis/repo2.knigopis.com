@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
+    > Таким образом люди успокаивают собственную совесть. Не говорили при жизни, что любят, ругались, пилили друг друга, а потом — раз! — и все. Поняли, что все это было неважно, что нужно было говорить о любви, а не о невымытой тарелке. Да только поздно уже, некому сказать. Вот и приходят. Умершим, на самом деле, уже все равно, зато живые свою совесть успокоили. А спокойная совесть — залог душевного равновесия. Жаль только, — Марк вздохнул, — что ничему это людей не учит, и с живыми они продолжают ругаться.
+
 * Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
-    > audio
 
 * Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
 
-* Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>272</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>82</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>843</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>129</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>85</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>243</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>271</sup> 
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 
 
-_01.03.2021 18:42:00_
+_01.03.2021 20:56:51_

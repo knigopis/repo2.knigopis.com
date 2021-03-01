@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
 * Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
 * Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
 * Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 * Дорогой мертвеца ~ [dromoman2008](users/444/44461886-yandex)<sup>17</sup>
-* Комната с видом на огни ~ [Chiffi](users/105/105831994080785626680-google)<sup>264</sup>
 
 
-_01.03.2021 15:13:58_
+_01.03.2021 20:56:51_
