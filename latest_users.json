@@ -1,4 +1,10 @@
 {
+    "115866996040654857247-google": {
+        "id": "115866996040654857247-google",
+        "nickname": "Omori",
+        "booksCount": 0,
+        "updatedAt": "2021-03-02 18:08:27"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 246,
         "updatedAt": "2021-02-24 20:35:20"
-    },
-    "107184472368930437407-google": {
-        "id": "107184472368930437407-google",
-        "nickname": "Valeriia",
-        "booksCount": 1,
-        "updatedAt": "2021-02-24 17:19:41"
     }
 }
