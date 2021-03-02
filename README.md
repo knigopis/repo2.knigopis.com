@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/100/100028852573184906516-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>7</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>130</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
-[greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
 
 
-_02.03.2021 13:16:57_
+_02.03.2021 13:39:19_
