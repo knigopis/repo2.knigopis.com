@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shadowboss](users/237/23730569-vkontakte)<sup>0</sup> 
 [](users/100/100028852573184906516-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 
 
-_02.03.2021 13:39:19_
+_02.03.2021 14:35:00_
