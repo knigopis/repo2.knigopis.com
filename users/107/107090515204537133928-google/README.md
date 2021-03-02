@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>97</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>98</sup>
 ---
 
 ## 2021
+
+### Игра престолов
+Джордж Мартин
+> [2021-03-02] 15.02.2021.г -02.03.2021г
+
 
 ### Темная башня
 Стивен Кинг

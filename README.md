@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
+    > 15.02.2021.г -02.03.2021г
+
 * Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
     > Таким образом люди успокаивают собственную совесть. Не говорили при жизни, что любят, ругались, пилили друг друга, а потом — раз! — и все. Поняли, что все это было неважно, что нужно было говорить о любви, а не о невымытой тарелке. Да только поздно уже, некому сказать. Вот и приходят. Умершим, на самом деле, уже все равно, зато живые свою совесть успокоили. А спокойная совесть — залог душевного равновесия. Жаль только, — Марк вздохнул, — что ничему это людей не учит, и с живыми они продолжают ругаться.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
-    > audio
 
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
 
-* Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>7</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>130</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>244</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>8</sup> 
 [greenka78](users/108/108196782764762972225-google)<sup>0</sup> 
-[naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 
 
-_02.03.2021 12:20:42_
+_02.03.2021 13:16:57_
