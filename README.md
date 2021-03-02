@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>130</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>244</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>272</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>82</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>843</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>129</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>85</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [naudiz](users/428/42838582-vkontakte)<sup>0</sup> 
 
 
-_02.03.2021 09:11:24_
+_02.03.2021 11:05:32_
