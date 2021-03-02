@@ -1,4 +1,16 @@
 {
+    "9WfIvqbf4t": {
+        "id": "9WfIvqbf4t",
+        "title": "Легкий способ бросить курить",
+        "author": "Аллен Карр",
+        "notes": "",
+        "createdAt": "2021-03-02 22:13:42",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 46
+        }
+    },
     "oRTnNgbAzE": {
         "id": "oRTnNgbAzE",
         "title": "Гранатовый браслет",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 270
-        }
-    },
-    "vzGZfpFcNQ": {
-        "id": "vzGZfpFcNQ",
-        "title": "Отцы наши",
-        "author": "Ребекка Уэйт",
-        "notes": "",
-        "createdAt": "2021-02-27 12:28:01",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 35
         }
     }
 }

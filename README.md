@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>46</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>131</sup> 
 [Omori](users/115/115866996040654857247-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>159</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 [TTyTb_k_Лeге](users/765/76561198846322195-steam)<sup>0</sup> 
 [](users/107/107186214049884880219-google)<sup>2</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
 
 
-_02.03.2021 18:28:23_
+_02.03.2021 22:13:42_
