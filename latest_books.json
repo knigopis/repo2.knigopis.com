@@ -1,4 +1,16 @@
 {
+    "_RYM6t31EV": {
+        "id": "_RYM6t31EV",
+        "title": "Записки с войны. Южная Осетия",
+        "author": "Александр Ковылков",
+        "notes": "",
+        "createdAt": "2021-03-02 22:54:55",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 8
+        }
+    },
     "9WfIvqbf4t": {
         "id": "9WfIvqbf4t",
         "title": "Легкий способ бросить курить",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 278
-        }
-    },
-    "5xiv7YKNnL": {
-        "id": "5xiv7YKNnL",
-        "title": "",
-        "author": "",
-        "notes": "Кошаку Уве сразу не понравился. Надо сказать, неприязнь оказалась в высшей степени обоюдной.",
-        "createdAt": "2021-02-27 16:45:33",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 270
         }
     }
 }

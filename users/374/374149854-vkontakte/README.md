@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>7</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>8</sup>
 ---
 
 ## 2021
+
+### Записки с войны. Южная Осетия
+Александр Ковылков
+> [2021-03] 
+
 
 ### Факел Новороссии
 Павел Губарев
