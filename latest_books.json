@@ -1,4 +1,16 @@
 {
+    "oLLiTRMk5a": {
+        "id": "oLLiTRMk5a",
+        "title": "Бельведерский торс",
+        "author": "Марк Алданов",
+        "notes": "",
+        "createdAt": "2021-03-02 09:11:24",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 244
+        }
+    },
     "tVpQ1qmoEQ": {
         "id": "tVpQ1qmoEQ",
         "title": "Тимошенко Наталья",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 155
-        }
-    },
-    "txZOdM1R3_": {
-        "id": "txZOdM1R3_",
-        "title": "Трилогии: Темный эльф",
-        "author": "Роберт Сальваторе",
-        "notes": "Отступник, Изгнанник, Воин",
-        "createdAt": "2021-02-27 06:12:44",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 154
         }
     }
 }
