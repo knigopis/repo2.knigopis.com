@@ -1,4 +1,16 @@
 {
+    "oRTnNgbAzE": {
+        "id": "oRTnNgbAzE",
+        "title": "Гранатовый браслет",
+        "author": "Александр Иванович Куприн",
+        "notes": "",
+        "createdAt": "2021-03-02 18:28:23",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 131
+        }
+    },
     "8dKVRPEhNb": {
         "id": "8dKVRPEhNb",
         "title": "Doctoring Data: How to sort out medical advice from medical nonsense",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 35
-        }
-    },
-    "91RgFGJD7x": {
-        "id": "91RgFGJD7x",
-        "title": "Пробуждение куклы. Городские легенды 3",
-        "author": "Обухова Лена",
-        "notes": "Классная серия. Жаль, что пока нет продолжения.",
-        "createdAt": "2021-02-27 06:57:04",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 269
         }
     }
 }
