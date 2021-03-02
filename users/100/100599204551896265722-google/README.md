@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>158</sup>
+# Список прочитанных книг пользователя exulted<sup>159</sup>
 ---
 
 ## 2021
+
+### Doctoring Data: How to sort out medical advice from medical nonsense
+Malcolm Kendrick
+> [2021-02-27] 
+
 
 ### Волоколамское шоссе
 Бек Александр

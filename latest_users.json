@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 159,
+        "updatedAt": "2021-03-02 17:32:33"
+    },
     "23730569-vkontakte": {
         "id": "23730569-vkontakte",
         "nickname": "Shadowboss",
@@ -172,11 +178,5 @@
         "nickname": "Valeriia",
         "booksCount": 1,
         "updatedAt": "2021-02-24 17:19:41"
-    },
-    "275766107-vkontakte": {
-        "id": "275766107-vkontakte",
-        "nickname": "aktoty",
-        "booksCount": 88,
-        "updatedAt": "2021-02-24 16:21:43"
     }
 }

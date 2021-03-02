@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>159</sup> 
 [Shadowboss](users/237/23730569-vkontakte)<sup>1</sup> 
 [](users/100/100028852573184906516-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107186214049884880219-google)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup> 
 [Valeriia](users/107/107184472368930437407-google)<sup>1</sup> 
-[aktoty](users/275/275766107-vkontakte)<sup>88</sup> 
 
 
-_02.03.2021 14:35:25_
+_02.03.2021 17:32:33_
