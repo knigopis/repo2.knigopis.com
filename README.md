@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[net](users/167/1678604580855513138-mailru)<sup>0</sup> 
+[net](users/167/1678604580855513138-mailru)<sup>1</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>245</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 
 
-_03.03.2021 11:18:14_
+_03.03.2021 11:18:43_

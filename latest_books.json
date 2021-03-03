@@ -1,4 +1,16 @@
 {
+    "k8XnINo30e": {
+        "id": "k8XnINo30e",
+        "title": "Треумфальная арка",
+        "author": "Ремарк",
+        "notes": "круто",
+        "createdAt": "2021-03-03 11:18:43",
+        "user": {
+            "id": "1678604580855513138-mailru",
+            "nickname": "net",
+            "booksCount": 1
+        }
+    },
     "a2r4Bh1_uO": {
         "id": "a2r4Bh1_uO",
         "title": "Аляксей Дудараў",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 24
-        }
-    },
-    "BMTbQIYjS7": {
-        "id": "BMTbQIYjS7",
-        "title": "Старик и море",
-        "author": "Э.Хэмингуэй",
-        "notes": "",
-        "createdAt": "2021-02-27 22:21:00",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 23
         }
     }
 }
