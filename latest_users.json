@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 7,
+        "updatedAt": "2021-03-03 08:28:25"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "TTyTb_k_Лeге",
         "booksCount": 0,
         "updatedAt": "2021-02-25 19:04:36"
-    },
-    "107186214049884880219-google": {
-        "id": "107186214049884880219-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2021-02-24 21:17:03"
     }
 }
