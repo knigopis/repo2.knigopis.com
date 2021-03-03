@@ -1,4 +1,16 @@
 {
+    "iFiI07NbVY": {
+        "id": "iFiI07NbVY",
+        "title": "Патриций",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2021-03-03 21:09:24",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 844
+        }
+    },
     "k8XnINo30e": {
         "id": "k8XnINo30e",
         "title": "Треумфальная арка",
@@ -345,18 +357,6 @@
             "id": "177960414-vkontakte",
             "nickname": "valexdarkstalker00",
             "booksCount": 1
-        }
-    },
-    "-jGVGu65Z5": {
-        "id": "-jGVGu65Z5",
-        "title": "на западном фронте без перемен",
-        "author": "Ремарк",
-        "notes": "",
-        "createdAt": "2021-02-27 22:21:26",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 24
         }
     }
 }
