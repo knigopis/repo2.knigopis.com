@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
+    > Симпатичная книга. Но чего-то не хватает, в соавторстве мне этот автор нравится больше. Зато ощущение новогодней сказки и надежды почти для всех оставляют приятное послевкусие.
+
 * Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
     > 15.02.2021.г -02.03.2021г
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Таким образом люди успокаивают собственную совесть. Не говорили при жизни, что любят, ругались, пилили друг друга, а потом — раз! — и все. Поняли, что все это было неважно, что нужно было говорить о любви, а не о невымытой тарелке. Да только поздно уже, некому сказать. Вот и приходят. Умершим, на самом деле, уже все равно, зато живые свою совесть успокоили. А спокойная совесть — залог душевного равновесия. Жаль только, — Марк вздохнул, — что ничему это людей не учит, и с живыми они продолжают ругаться.
 
 * Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
-    > audio
 
 * Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
 
-* Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>273</sup> 
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>134</sup> 
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shadowboss](users/237/23730569-vkontakte)<sup>1</sup> 
 [](users/100/100028852573184906516-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>272</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>82</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
 
 
-_04.03.2021 19:03:06_
+_04.03.2021 20:31:35_

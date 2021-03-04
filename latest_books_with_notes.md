@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
 * Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
 * Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
 * Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
 * История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
-* Моя кузина Рейчел ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>169</sup>
 
 
-_02.03.2021 13:16:57_
+_04.03.2021 20:31:35_
