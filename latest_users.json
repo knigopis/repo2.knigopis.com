@@ -1,4 +1,10 @@
 {
+    "15007129483640630959-mailru": {
+        "id": "15007129483640630959-mailru",
+        "nickname": "Наталья Заз",
+        "booksCount": 0,
+        "updatedAt": "2021-03-04 18:59:09"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Chandravadana",
         "booksCount": 157,
         "updatedAt": "2021-02-27 06:32:29"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ..",
-        "booksCount": 139,
-        "updatedAt": "2021-02-26 11:33:42"
     }
 }
