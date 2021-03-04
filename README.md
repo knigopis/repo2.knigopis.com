@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/376/376489035-yandex)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>8</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 [net](users/167/1678604580855513138-mailru)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>139</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>324</sup> 
 
 
-_04.03.2021 11:42:43_
+_04.03.2021 14:48:28_
