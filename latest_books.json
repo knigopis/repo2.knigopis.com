@@ -1,4 +1,16 @@
 {
+    "YrcduGbn02": {
+        "id": "YrcduGbn02",
+        "title": "Собака на сене",
+        "author": "Лопе Де Вега",
+        "notes": "",
+        "createdAt": "2021-03-04 15:17:19",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 132
+        }
+    },
     "cPQ8w4pW8q": {
         "id": "cPQ8w4pW8q",
         "title": "Невеста его высочества",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 6
-        }
-    },
-    "NIsXPkB4Mj": {
-        "id": "NIsXPkB4Mj",
-        "title": "Формы человеческих отношений",
-        "author": "Эрик Берн",
-        "notes": "",
-        "createdAt": "2021-02-28 09:43:01",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 5
         }
     }
 }
