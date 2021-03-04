@@ -1,4 +1,10 @@
 {
+    "109056009931706955629-google": {
+        "id": "109056009931706955629-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 0,
+        "updatedAt": "2021-03-04 19:03:05"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "pachkun",
         "booksCount": 0,
         "updatedAt": "2021-02-27 10:39:12"
-    },
-    "105866022348292919948-google": {
-        "id": "105866022348292919948-google",
-        "nickname": "Chandravadana",
-        "booksCount": 157,
-        "updatedAt": "2021-02-27 06:32:29"
     }
 }
