@@ -1,4 +1,16 @@
 {
+    "cPQ8w4pW8q": {
+        "id": "cPQ8w4pW8q",
+        "title": "Невеста его высочества",
+        "author": "Эвелина Тень",
+        "notes": "",
+        "createdAt": "2021-03-04 11:42:43",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 8
+        }
+    },
     "iFiI07NbVY": {
         "id": "iFiI07NbVY",
         "title": "Патриций",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 5
-        }
-    },
-    "0CENMxnKqW": {
-        "id": "0CENMxnKqW",
-        "title": "Игра в бисер",
-        "author": "Герман Гессе",
-        "notes": "Красиво и любо",
-        "createdAt": "2021-02-28 06:50:33",
-        "user": {
-            "id": "177960414-vkontakte",
-            "nickname": "valexdarkstalker00",
-            "booksCount": 1
         }
     }
 }
