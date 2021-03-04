@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>134</sup> 
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
 [](users/376/376489035-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>278</sup> 
 [](users/153/1537586159620888-facebook)<sup>35</sup> 
 [pachkun](users/114/114309115883392945033-google)<sup>0</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>157</sup> 
 
 
-_04.03.2021 19:00:46_
+_04.03.2021 19:03:06_
