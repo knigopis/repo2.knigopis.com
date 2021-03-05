@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>273</sup> 
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [shpet](users/104/104126809082024514594-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>278</sup> 
-[](users/153/1537586159620888-facebook)<sup>35</sup> 
 
 
-_05.03.2021 11:11:10_
+_05.03.2021 14:28:32_
