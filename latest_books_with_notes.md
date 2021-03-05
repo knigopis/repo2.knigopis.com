@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
 * Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
 * Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
 * Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
@@ -30,7 +31,6 @@
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 * Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
-* История Норлинга, Империи и Северных земель ~ [dromoman2008](users/444/44461886-yandex)<sup>18</sup>
 
 
-_04.03.2021 20:31:35_
+_05.03.2021 11:11:10_

@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>7</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>8</sup>
 ---
 
 ## 2021
+
+### Красная таблетка
+Курпатов Андрей Владимирович
+> [2021-03-05] Есть, о чем подумать
+
 
 ### Шенна
 Пядар О'Лери
