@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
 * Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
 * Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
@@ -30,7 +31,6 @@
 * Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
-* Вингер. Начало ~ [dromoman2008](users/444/44461886-yandex)<sup>19</sup>
 
 
-_05.03.2021 11:11:10_
+_05.03.2021 17:39:23_

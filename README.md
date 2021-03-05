@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
+    > среди вариантов заплатить за услугу или попросить знакомых и остаться им морально должным лучше выбирать первый. Особенно если ко второму добавляются нотации родственников
+
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
     > Есть, о чем подумать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Симпатичная книга. Но чего-то не хватает, в соавторстве мне этот автор нравится больше. Зато ощущение новогодней сказки и надежды почти для всех оставляют приятное послевкусие.
 
 * Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
-    > 15.02.2021.г -02.03.2021г
 
 * Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Избранница. Хладые 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>271</sup>
 
-* Чингисхан и рождение современного мира ~ [Garka](users/115/115753719718250012620-google)<sup>278</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>274</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>273</sup> 
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>134</sup> 
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>278</sup> 
 
 
-_05.03.2021 14:28:32_
+_05.03.2021 17:39:23_
