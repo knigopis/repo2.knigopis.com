@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>275</sup>
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
 * Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
@@ -12,7 +13,6 @@
 * Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
 * Избранница. Хладые 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>271</sup>
 * Чингисхан и рождение современного мира ~ [Garka](users/115/115753719718250012620-google)<sup>278</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>270</sup>
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
 * Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
@@ -33,4 +33,4 @@
 * Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 
 
-_05.03.2021 17:39:23_
+_06.03.2021 08:49:37_
