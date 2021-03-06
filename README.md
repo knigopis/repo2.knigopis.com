@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
+    > Продолжение 
+    > Серия из 6 книг. ЛитРПГ. Бессмертный землянин в человеке и после в гоблине, довольно интересно написано 
+    > Оценка на твердую 4
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>275</sup>
     > ищи листочек в листопад.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > среди вариантов заплатить за услугу или попросить знакомых и остаться им морально должным лучше выбирать первый. Особенно если ко второму добавляются нотации родственников
 
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
-    > Есть, о чем подумать
 
 * Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
 
-* Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>21</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>275</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [shpet](users/104/104126809082024514594-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>278</sup> 
 
 
-_06.03.2021 08:49:37_
+_06.03.2021 16:03:56_

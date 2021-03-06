@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>275</sup>
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
 * Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
 * Андрей Волошин ~ [dromoman2008](users/444/44461886-yandex)<sup>20</sup>
-* Кафка на пляже ~ [mfevralev](users/140/140966150-vkontakte)<sup>50</sup>
 
 
-_06.03.2021 08:49:37_
+_06.03.2021 16:03:56_

@@ -1,4 +1,16 @@
 {
+    "-7iYvU3r1L": {
+        "id": "-7iYvU3r1L",
+        "title": "Гостеприимный мир",
+        "author": "Мамбурин Харитон Байконурович",
+        "notes": "Продолжение \nСерия из 6 книг. ЛитРПГ. Бессмертный землянин в человеке и после в гоблине, довольно интересно написано \nОценка на твердую 4",
+        "createdAt": "2021-03-06 16:03:56",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 21
+        }
+    },
     "rZ72m80y7n": {
         "id": "rZ72m80y7n",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 20
-        }
-    },
-    "ENI1ZDW22q": {
-        "id": "ENI1ZDW22q",
-        "title": "Кафка на пляже",
-        "author": "Харуки Мураками",
-        "notes": "пойдет",
-        "createdAt": "2021-02-20 10:26:18",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 50
         }
     }
 }

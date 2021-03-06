@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 21,
+        "updatedAt": "2021-03-06 16:03:56"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "shpet",
         "booksCount": 0,
         "updatedAt": "2021-02-27 18:55:39"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 278,
-        "updatedAt": "2021-02-27 18:44:41"
     }
 }
