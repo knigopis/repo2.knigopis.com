@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
+    > Продолжение
+    > Серия пока из 1 книги
+    > Стимпанк. Попаданец в параллельный мир без нефти и газа но с эфиром, 4 сын на учебе в Японии. 
+    > Оценка 4
+
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
     > Продолжение 
     > Серия из 6 книг. ЛитРПГ. Бессмертный землянин в человеке и после в гоблине, довольно интересно написано 
@@ -14,7 +20,6 @@ Do not use pull requests to make changes here.
     > ищи листочек в листопад.
 
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
-    > среди вариантов заплатить за услугу или попросить знакомых и остаться им морально должным лучше выбирать первый. Особенно если ко второму добавляются нотации родственников
 
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
 
@@ -28,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
 
-* Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>21</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>22</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>275</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
@@ -67,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shpet](users/104/104126809082024514594-google)<sup>0</sup> 
 
 
-_06.03.2021 16:03:56_
+_06.03.2021 16:07:20_
