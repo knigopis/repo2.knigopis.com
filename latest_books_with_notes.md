@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>275</sup>
@@ -30,7 +31,6 @@
 * Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
 * Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
 * Исследование о природе и причинах богатства народов. ~ [HXT](users/100/100002563462782-facebook)<sup>406</sup>
-* Опасные советские вещи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>170</sup>
 
 
-_06.03.2021 16:07:20_
+_06.03.2021 16:11:18_

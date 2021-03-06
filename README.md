@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
+    > Героическая фантастика
+    > Варшава начало 20 века, анклав с демонами. Польский алхимик Олаф Рудницкий в месте с офицером  царской гвардии встает на пути смертельной опасности.
+
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
     > Продолжение
     > Серия пока из 1 книги
@@ -17,7 +21,6 @@ Do not use pull requests to make changes here.
     > Оценка на твердую 4
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>275</sup>
-    > ищи листочек в листопад.
 
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 
@@ -31,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
 
-* Робот, который видел сны ~ [vitasoft](users/474/47446642-vkontakte)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>22</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>275</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
@@ -70,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shpet](users/104/104126809082024514594-google)<sup>0</sup> 
 
 
-_06.03.2021 16:07:20_
+_06.03.2021 16:11:18_
