@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>23</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
 [valexdarkstalker00](users/177/177960414-vkontakte)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 
 
-_06.03.2021 18:59:14_
+_06.03.2021 21:17:00_
