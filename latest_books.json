@@ -1,4 +1,16 @@
 {
+    "equctzvJcj": {
+        "id": "equctzvJcj",
+        "title": "Сильмариллион",
+        "author": "Толкин Джон Рональд Руэл",
+        "notes": "",
+        "createdAt": "2021-03-06 18:51:39",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 279
+        }
+    },
     "mk-MXgHxNi": {
         "id": "mk-MXgHxNi",
         "title": "Materia prima (адепт)",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 129
-        }
-    },
-    "NbxU-RUWli": {
-        "id": "NbxU-RUWli",
-        "title": "Хобби",
-        "author": "Фредерик Браун",
-        "notes": "audio",
-        "createdAt": "2021-03-01 15:13:58",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 35
         }
     }
 }

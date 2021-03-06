@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>278</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>279</sup>
 ---
 
 ## 2021
+
+### Сильмариллион
+Толкин Джон Рональд Руэл
+> [2021-03-06] 
+
 
 ### Чингисхан и рождение современного мира
 Джек Уэзерфорд
