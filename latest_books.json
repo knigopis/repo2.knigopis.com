@@ -1,4 +1,16 @@
 {
+    "DzfjbNBdIK": {
+        "id": "DzfjbNBdIK",
+        "title": "В тени Холокоста. Дневник Рении",
+        "author": "Рения Шпигель",
+        "notes": "",
+        "createdAt": "2021-03-06 18:59:14",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 135
+        }
+    },
     "equctzvJcj": {
         "id": "equctzvJcj",
         "title": "Сильмариллион",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 843
-        }
-    },
-    "V3dFfOQ4O6": {
-        "id": "V3dFfOQ4O6",
-        "title": "Список Шиндлера",
-        "author": "Томас Кенэлли",
-        "notes": "",
-        "createdAt": "2021-03-01 16:10:31",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 129
         }
     }
 }

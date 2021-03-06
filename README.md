@@ -39,13 +39,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>275</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>134</sup> 
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
 [](users/376/376489035-yandex)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>8</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 
 
-_06.03.2021 18:51:39_
+_06.03.2021 18:59:14_
