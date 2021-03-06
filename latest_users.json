@@ -1,4 +1,10 @@
 {
+    "2576575-vkontakte": {
+        "id": "2576575-vkontakte",
+        "nickname": "annakonchits",
+        "booksCount": 0,
+        "updatedAt": "2021-03-06 21:17:00"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Артур Вольнов",
         "booksCount": 24,
         "updatedAt": "2021-02-27 22:21:26"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 98,
-        "updatedAt": "2021-02-27 20:45:18"
     }
 }
