@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/402/4027658217279647-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>10</sup> 
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
 [valexdarkstalker00](users/177/177960414-vkontakte)<sup>1</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
 
 
-_07.03.2021 11:24:04_
+_07.03.2021 14:54:31_
