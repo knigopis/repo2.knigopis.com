@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[danyluk62](users/374/374149854-vkontakte)<sup>9</sup> 
+[danyluk62](users/374/374149854-vkontakte)<sup>10</sup> 
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
 
 
-_07.03.2021 01:15:12_
+_07.03.2021 01:15:43_

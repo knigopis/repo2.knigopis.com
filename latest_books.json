@@ -1,4 +1,16 @@
 {
+    "vZp-ZVfXtP": {
+        "id": "vZp-ZVfXtP",
+        "title": "Крепость Славянск",
+        "author": "Евгений Норин",
+        "notes": "",
+        "createdAt": "2021-03-07 01:15:43",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 10
+        }
+    },
     "dsAvQqh8rj": {
         "id": "dsAvQqh8rj",
         "title": "Боевая группа \"Байерсдорф\"",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 272
-        }
-    },
-    "eBV0E9WgAf": {
-        "id": "eBV0E9WgAf",
-        "title": "Девятнадцать минут",
-        "author": "Джоди Пиколт",
-        "notes": "",
-        "createdAt": "2021-03-01 18:42:00",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 82
         }
     }
 }
