@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>173</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>174</sup>
 ---
 
 ## 2021
+
+### Феміністки не носять рожевого та інші вигадки
+Скарлет Кертіс
+> [2021-03-06] 5/10 Різні жінки пояснюють що для них фемінізм.
+
 
 ### Его семья
 Анатолий Димаров

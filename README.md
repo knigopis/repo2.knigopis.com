@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
+    > 5/10 Різні жінки пояснюють що для них фемінізм.
+
 * Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
     > Героическая фантастика
     > Варшава начало 20 века, анклав с демонами. Польский алхимик Олаф Рудницкий в месте с офицером  царской гвардии встает на пути смертельной опасности.
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
-    > Продолжение 
-    > Серия из 6 книг. ЛитРПГ. Бессмертный землянин в человеке и после в гоблине, довольно интересно написано 
-    > Оценка на твердую 4
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>275</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
 
-* Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>10</sup> 
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
@@ -64,11 +63,10 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>85</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup> 
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
 [valexdarkstalker00](users/177/177960414-vkontakte)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
 
 
-_07.03.2021 01:15:43_
+_07.03.2021 11:24:04_
