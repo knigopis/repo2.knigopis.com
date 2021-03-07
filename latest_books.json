@@ -1,4 +1,16 @@
 {
+    "dsAvQqh8rj": {
+        "id": "dsAvQqh8rj",
+        "title": "Боевая группа \"Байерсдорф\"",
+        "author": "Роман Пономаренко",
+        "notes": "",
+        "createdAt": "2021-03-07 01:15:12",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 9
+        }
+    },
     "DzfjbNBdIK": {
         "id": "DzfjbNBdIK",
         "title": "В тени Холокоста. Дневник Рении",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 82
-        }
-    },
-    "m-4sVgEZwi": {
-        "id": "m-4sVgEZwi",
-        "title": "Всё о Муми-Троллях",
-        "author": "Туве Янссон",
-        "notes": "",
-        "createdAt": "2021-03-01 18:27:51",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 843
         }
     }
 }

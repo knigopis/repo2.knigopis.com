@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>8</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>9</sup>
 ---
 
 ## 2021
+
+### Боевая группа "Байерсдорф"
+Роман Пономаренко
+> [2021-03] 
+
 
 ### Записки с войны. Южная Осетия
 Александр Ковылков

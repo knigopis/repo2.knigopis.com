@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>9</sup> 
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 [net](users/167/1678604580855513138-mailru)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>245</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>8</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>46</sup> 
 [Omori](users/115/115866996040654857247-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>159</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>24</sup> 
 
 
-_06.03.2021 21:17:00_
+_07.03.2021 01:15:12_

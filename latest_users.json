@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 9,
+        "updatedAt": "2021-03-07 01:15:12"
+    },
     "2576575-vkontakte": {
         "id": "2576575-vkontakte",
         "nickname": "annakonchits",
@@ -82,12 +88,6 @@
         "nickname": "borodach",
         "booksCount": 245,
         "updatedAt": "2021-03-03 05:36:15"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 8,
-        "updatedAt": "2021-03-02 22:54:55"
     },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
