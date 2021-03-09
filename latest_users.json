@@ -1,4 +1,10 @@
 {
+    "277295453-vkontakte": {
+        "id": "277295453-vkontakte",
+        "nickname": "egarkafmsh",
+        "booksCount": 0,
+        "updatedAt": "2021-03-09 14:15:59"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 60,
         "updatedAt": "2021-02-28 13:52:39"
-    },
-    "177960414-vkontakte": {
-        "id": "177960414-vkontakte",
-        "nickname": "valexdarkstalker00",
-        "booksCount": 1,
-        "updatedAt": "2021-02-28 06:50:33"
     }
 }
