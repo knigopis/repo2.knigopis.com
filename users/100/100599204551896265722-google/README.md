@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>159</sup>
+# Список прочитанных книг пользователя exulted<sup>160</sup>
 ---
 
 ## 2021
+
+### Чудо под Москвой
+Исаев Алексей
+> [2021-03-05] 
+
 
 ### Doctoring Data: How to sort out medical advice from medical nonsense
 Malcolm Kendrick

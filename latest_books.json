@@ -1,4 +1,16 @@
 {
+    "0oyDUnNtJE": {
+        "id": "0oyDUnNtJE",
+        "title": "Чудо под Москвой",
+        "author": "Исаев Алексей",
+        "notes": "",
+        "createdAt": "2021-03-09 17:56:11",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 160
+        }
+    },
     "gbgJbg6cQg": {
         "id": "gbgJbg6cQg",
         "title": "Тени Тевтонов",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 98
-        }
-    },
-    "Kfxr05BiCF": {
-        "id": "Kfxr05BiCF",
-        "title": "Факел Новороссии",
-        "author": "Павел Губарев",
-        "notes": "",
-        "createdAt": "2021-03-02 12:20:42",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 7
         }
     }
 }
