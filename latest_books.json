@@ -1,4 +1,16 @@
 {
+    "Va0tv4T4q8": {
+        "id": "Va0tv4T4q8",
+        "title": "Лестница ведьм",
+        "author": "Обухова Лена, Тимошенко Наталья",
+        "notes": "Мистика. Ответвление от цикла про Дворжака",
+        "createdAt": "2021-03-09 20:20:29",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 276
+        }
+    },
     "gz6zXfbTHV": {
         "id": "gz6zXfbTHV",
         "title": "Вонгозеро",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 159
-        }
-    },
-    "rZ88gNBE5A": {
-        "id": "rZ88gNBE5A",
-        "title": "pf",
-        "author": "11",
-        "notes": "31",
-        "createdAt": "2021-03-02 14:35:25",
-        "user": {
-            "id": "23730569-vkontakte",
-            "nickname": "Shadowboss",
-            "booksCount": 1
         }
     }
 }

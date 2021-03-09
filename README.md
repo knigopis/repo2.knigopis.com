@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
+    > Мистика. Ответвление от цикла про Дворжака
+
 * Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
     > 5/10 Різні жінки пояснюють що для них фемінізм.
 
@@ -13,10 +16,6 @@ Do not use pull requests to make changes here.
     > Варшава начало 20 века, анклав с демонами. Польский алхимик Олаф Рудницкий в месте с офицером  царской гвардии встает на пути смертельной опасности.
 
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
-    > Продолжение
-    > Серия пока из 1 книги
-    > Стимпанк. Попаданец в параллельный мир без нефти и газа но с эфиром, 4 сын на учебе в Японии. 
-    > Оценка 4
 
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
 
@@ -30,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
 
-* Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>276</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>13</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>160</sup> 
 [egarkafmsh](users/277/277295453-vkontakte)<sup>0</sup> 
@@ -49,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>23</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>275</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
@@ -69,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 
 
-_09.03.2021 18:19:01_
+_09.03.2021 20:20:29_

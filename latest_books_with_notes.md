@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
 * Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
 * Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
@@ -30,7 +31,6 @@
 * «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
 * Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
 * Игра Джералда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>171</sup>
-* Секретное досье 7 . Черная дама ~ [Chiffi](users/105/105831994080785626680-google)<sup>266</sup>
 
 
-_07.03.2021 11:24:04_
+_09.03.2021 20:20:29_
