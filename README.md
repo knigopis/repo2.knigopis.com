@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>246</sup> 
 [](users/402/4027658217279647-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>10</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>8</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 [net](users/167/1678604580855513138-mailru)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>245</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>46</sup> 
 [Omori](users/115/115866996040654857247-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>159</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [valexdarkstalker00](users/177/177960414-vkontakte)<sup>1</sup> 
 
 
-_07.03.2021 14:54:31_
+_09.03.2021 10:11:04_
