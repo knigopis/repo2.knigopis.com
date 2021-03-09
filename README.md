@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>13</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>160</sup> 
 [egarkafmsh](users/277/277295453-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>86</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
 [andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>60</sup> 
 
 
-_09.03.2021 17:56:11_
+_09.03.2021 18:19:01_

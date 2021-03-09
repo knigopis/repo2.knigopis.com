@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 13,
+        "updatedAt": "2021-03-09 18:19:01"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "andrewgrumpus",
         "booksCount": 1,
         "updatedAt": "2021-02-28 14:51:01"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 60,
-        "updatedAt": "2021-02-28 13:52:39"
     }
 }

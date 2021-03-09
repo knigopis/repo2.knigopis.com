@@ -1,4 +1,16 @@
 {
+    "gz6zXfbTHV": {
+        "id": "gz6zXfbTHV",
+        "title": "Вонгозеро",
+        "author": "Вагнер Яна",
+        "notes": "",
+        "createdAt": "2021-03-09 18:19:01",
+        "user": {
+            "id": "3448154788585127-facebook",
+            "nickname": "Пу_тем",
+            "booksCount": 13
+        }
+    },
     "0oyDUnNtJE": {
         "id": "0oyDUnNtJE",
         "title": "Чудо под Москвой",
@@ -345,18 +357,6 @@
             "id": "23730569-vkontakte",
             "nickname": "Shadowboss",
             "booksCount": 1
-        }
-    },
-    "q_vspCN7CL": {
-        "id": "q_vspCN7CL",
-        "title": "Игра престолов",
-        "author": "Джордж Мартин",
-        "notes": "15.02.2021.г -02.03.2021г",
-        "createdAt": "2021-03-02 13:16:57",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 98
         }
     }
 }
