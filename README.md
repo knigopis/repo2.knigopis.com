@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/545/545226830-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>276</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>13</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>82</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 [kellion](users/112/112383791028642787860-google)<sup>0</sup> 
-[andrewgrumpus](users/560/560577759-vkontakte)<sup>1</sup> 
 
 
-_10.03.2021 04:54:43_
+_10.03.2021 11:06:58_
