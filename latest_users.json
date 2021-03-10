@@ -1,4 +1,10 @@
 {
+    "264391125-vkontakte": {
+        "id": "264391125-vkontakte",
+        "nickname": "minwushe",
+        "booksCount": 0,
+        "updatedAt": "2021-03-10 16:52:13"
+    },
     "327630816-vkontakte": {
         "id": "327630816-vkontakte",
         "nickname": "vvb",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 82,
         "updatedAt": "2021-03-01 18:42:00"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 35,
-        "updatedAt": "2021-03-01 15:13:58"
     }
 }
