@@ -1,4 +1,10 @@
 {
+    "545226830-vkontakte": {
+        "id": "545226830-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-03-10 11:06:57"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "kellion",
         "booksCount": 0,
         "updatedAt": "2021-03-01 15:03:25"
-    },
-    "560577759-vkontakte": {
-        "id": "560577759-vkontakte",
-        "nickname": "andrewgrumpus",
-        "booksCount": 1,
-        "updatedAt": "2021-02-28 14:51:01"
     }
 }
