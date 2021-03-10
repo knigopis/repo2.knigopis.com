@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[minwushe](users/264/264391125-vkontakte)<sup>0</sup> 
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
 [](users/545/545226830-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>11</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100028852573184906516-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>82</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>35</sup> 
 
 
-_10.03.2021 15:04:48_
+_10.03.2021 16:52:13_
