@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 9,
+        "updatedAt": "2021-03-11 12:48:32"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Shadowboss",
         "booksCount": 1,
         "updatedAt": "2021-03-02 14:35:25"
-    },
-    "100028852573184906516-google": {
-        "id": "100028852573184906516-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-03-02 13:39:18"
     }
 }

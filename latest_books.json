@@ -1,4 +1,16 @@
 {
+    "hKcdy-xe23": {
+        "id": "hKcdy-xe23",
+        "title": "Эдем",
+        "author": "Лем",
+        "notes": "",
+        "createdAt": "2021-03-11 12:48:32",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 9
+        }
+    },
     "9ILFbt0Vuz": {
         "id": "9ILFbt0Vuz",
         "title": "Теория всего",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 245
-        }
-    },
-    "_RYM6t31EV": {
-        "id": "_RYM6t31EV",
-        "title": "Записки с войны. Южная Осетия",
-        "author": "Александр Ковылков",
-        "notes": "",
-        "createdAt": "2021-03-02 22:54:55",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 8
         }
     }
 }

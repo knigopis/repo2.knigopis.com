@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>87</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>3</sup> 
 [Zhigaloinfire](users/444/444088111-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>46</sup> 
 [Omori](users/115/115866996040654857247-google)<sup>0</sup> 
 [Shadowboss](users/237/23730569-vkontakte)<sup>1</sup> 
-[](users/100/100028852573184906516-google)<sup>0</sup> 
 
 
-_11.03.2021 06:38:27_
+_11.03.2021 12:48:32_
