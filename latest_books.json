@@ -1,4 +1,16 @@
 {
+    "lI3mydqTpi": {
+        "id": "lI3mydqTpi",
+        "title": "Будь жесток",
+        "author": "Давид Икс",
+        "notes": "",
+        "createdAt": "2021-03-11 15:52:03",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 55
+        }
+    },
     "wqZJgnaGfR": {
         "id": "wqZJgnaGfR",
         "title": "Диалоги (дочитать)",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 8
-        }
-    },
-    "iFiI07NbVY": {
-        "id": "iFiI07NbVY",
-        "title": "Патриций",
-        "author": "Джон Голсуорси",
-        "notes": "",
-        "createdAt": "2021-03-03 21:09:24",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 844
         }
     }
 }

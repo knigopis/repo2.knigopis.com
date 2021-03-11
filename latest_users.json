@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 55,
+        "updatedAt": "2021-03-11 15:52:03"
+    },
     "233860015-vkontakte": {
         "id": "233860015-vkontakte",
         "nickname": "dghtt",
@@ -172,11 +178,5 @@
         "nickname": "net",
         "booksCount": 1,
         "updatedAt": "2021-03-03 11:18:43"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 46,
-        "updatedAt": "2021-03-02 22:13:42"
     }
 }

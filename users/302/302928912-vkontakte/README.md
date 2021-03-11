@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>54</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>55</sup>
 ---
 
 ## 2021
+
+### Будь жесток
+Давид Икс
+> [2021-03-11] 
+
 
 ### Спокойствие. Стоицизм – путь мудреца.
 Мэттью Дж. Ван Натта

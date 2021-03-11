@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>55</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>99</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>8</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 [net](users/167/1678604580855513138-mailru)<sup>1</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>46</sup> 
 
 
-_11.03.2021 15:33:13_
+_11.03.2021 15:52:03_
