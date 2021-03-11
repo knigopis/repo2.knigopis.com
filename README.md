@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zhigaloinfire](users/444/444088111-vkontakte)<sup>0</sup> 
 [minwushe](users/264/264391125-vkontakte)<sup>0</sup> 
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
 [](users/545/545226830-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shadowboss](users/237/23730569-vkontakte)<sup>1</sup> 
 [](users/100/100028852573184906516-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>98</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>82</sup> 
 
 
-_10.03.2021 16:52:13_
+_11.03.2021 04:15:50_
