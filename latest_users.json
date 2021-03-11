@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 99,
+        "updatedAt": "2021-03-11 13:16:40"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": "Omori",
         "booksCount": 0,
         "updatedAt": "2021-03-02 18:08:27"
-    },
-    "23730569-vkontakte": {
-        "id": "23730569-vkontakte",
-        "nickname": "Shadowboss",
-        "booksCount": 1,
-        "updatedAt": "2021-03-02 14:35:25"
     }
 }
