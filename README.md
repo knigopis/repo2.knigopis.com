@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
+    > идет гроза – разувай глаза.
+
 * Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
     > не сбивайся с пути
 
@@ -12,15 +15,12 @@ Do not use pull requests to make changes here.
     > Мистика. Ответвление от цикла про Дворжака
 
 * Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
-    > 5/10 Різні жінки пояснюють що для них фемінізм.
 
 * Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
 
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
 
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
-
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>275</sup>
 
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 
@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>277</sup> 
 [youno](users/302/302928912-vkontakte)<sup>55</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>99</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
 [](users/545/545226830-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>11</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>276</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>13</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>160</sup> 
 [egarkafmsh](users/277/277295453-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [net](users/167/1678604580855513138-mailru)<sup>1</sup> 
 
 
-_11.03.2021 15:52:03_
+_11.03.2021 17:30:04_
