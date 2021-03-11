@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
+    > не сбивайся с пути
+
 * Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
     > Мистика. Ответвление от цикла про Дворжака
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Різні жінки пояснюють що для них фемінізм.
 
 * Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
-    > Героическая фантастика
-    > Варшава начало 20 века, анклав с демонами. Польский алхимик Олаф Рудницкий в месте с офицером  царской гвардии встает на пути смертельной опасности.
 
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
 
-* Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dghtt](users/233/233860015-vkontakte)<sup>35</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>99</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>87</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 [net](users/167/1678604580855513138-mailru)<sup>1</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>46</sup> 
-[Omori](users/115/115866996040654857247-google)<sup>0</sup> 
 
 
-_11.03.2021 13:16:40_
+_11.03.2021 15:30:26_

@@ -1,4 +1,10 @@
 {
+    "233860015-vkontakte": {
+        "id": "233860015-vkontakte",
+        "nickname": "dghtt",
+        "booksCount": 35,
+        "updatedAt": "2021-03-11 15:30:26"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 46,
         "updatedAt": "2021-03-02 22:13:42"
-    },
-    "115866996040654857247-google": {
-        "id": "115866996040654857247-google",
-        "nickname": "Omori",
-        "booksCount": 0,
-        "updatedAt": "2021-03-02 18:08:27"
     }
 }
