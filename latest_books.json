@@ -1,4 +1,16 @@
 {
+    "RXT_GnIu6e": {
+        "id": "RXT_GnIu6e",
+        "title": "Алиса в стране чудес",
+        "author": "Льюис Кэролл",
+        "notes": "",
+        "createdAt": "2021-03-11 06:13:29",
+        "user": {
+            "id": "108324375224819470216-google",
+            "nickname": "Shimpanze",
+            "booksCount": 3
+        }
+    },
     "uyjKf7oH5x": {
         "id": "uyjKf7oH5x",
         "title": "Санькя",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 46
-        }
-    },
-    "oRTnNgbAzE": {
-        "id": "oRTnNgbAzE",
-        "title": "Гранатовый браслет",
-        "author": "Александр Иванович Куприн",
-        "notes": "",
-        "createdAt": "2021-03-02 18:28:23",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 131
         }
     }
 }

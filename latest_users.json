@@ -1,4 +1,10 @@
 {
+    "108324375224819470216-google": {
+        "id": "108324375224819470216-google",
+        "nickname": "Shimpanze",
+        "booksCount": 3,
+        "updatedAt": "2021-03-11 06:13:29"
+    },
     "444088111-vkontakte": {
         "id": "444088111-vkontakte",
         "nickname": "Zhigaloinfire",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-03-02 13:39:18"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 98,
-        "updatedAt": "2021-03-02 13:16:57"
     }
 }
