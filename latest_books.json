@@ -1,4 +1,16 @@
 {
+    "JM5CqYzAGN": {
+        "id": "JM5CqYzAGN",
+        "title": "FERA Апокалипсис пособие по выживанию",
+        "author": "Тихий Алексей Владимирович",
+        "notes": "Ужасы мистика\nОценка 4",
+        "createdAt": "2021-03-13 05:37:13",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 25
+        }
+    },
     "gCi1hArXbV": {
         "id": "gCi1hArXbV",
         "title": "Виктор Глухов (серия из 11 книг)",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 273
-        }
-    },
-    "55NAs-sV6U": {
-        "id": "55NAs-sV6U",
-        "title": "Бедная Лиза",
-        "author": "Николай Михайлович Карамзин",
-        "notes": "",
-        "createdAt": "2021-03-04 19:00:46",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 134
         }
     }
 }

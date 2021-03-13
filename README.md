@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
+    > Ужасы мистика
+    > Оценка 4
+
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
     > Боевая фантастика, Фэнтези
     > По второму разу не пошла серия. А так, интересно почитать. Попаданец в тело 15летнего наследника барона из закрытого магического мира
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > идет гроза – разувай глаза.
 
 * Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
-    > не сбивайся с пути
 
 * Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
 
@@ -28,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 
-* Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>24</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>14</sup> 
 [](users/153/1537586159620888-facebook)<sup>36</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>277</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 
 
-_13.03.2021 05:34:47_
+_13.03.2021 05:37:13_
