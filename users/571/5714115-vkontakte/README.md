@@ -1,7 +1,12 @@
-# List of books read by [dmiro](http://vk.com/id5714115)<sup>42</sup>
+# List of books read by [dmiro](http://vk.com/id5714115)<sup>43</sup>
 ---
 
 ## 2021
+
+### Алмазная колесница, часть 2
+Борис Акунин
+> [2021-03-12] 
+
 
 ### Алмазная колесница, часть 1
 Борис Акунин
