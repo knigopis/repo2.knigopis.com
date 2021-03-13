@@ -1,4 +1,10 @@
 {
+    "5714115-vkontakte": {
+        "id": "5714115-vkontakte",
+        "nickname": "dmiro",
+        "booksCount": 42,
+        "updatedAt": "2021-03-13 15:50:06"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 8,
         "updatedAt": "2021-03-04 11:42:43"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 844,
-        "updatedAt": "2021-03-03 21:09:24"
     }
 }

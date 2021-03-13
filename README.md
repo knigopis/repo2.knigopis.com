@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>42</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>14</sup> 
 [](users/153/1537586159620888-facebook)<sup>36</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
 [](users/376/376489035-yandex)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>8</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 
 
-_13.03.2021 05:37:13_
+_13.03.2021 15:50:06_
