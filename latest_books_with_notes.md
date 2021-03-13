@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
 * Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
 * Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
@@ -30,7 +31,6 @@
 * Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
 * Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
 * «Человекоминимум» ~ [vitasoft](users/474/47446642-vkontakte)<sup>32</sup>
-* Хозяйка старого дома ~ [Chiffi](users/105/105831994080785626680-google)<sup>267</sup>
 
 
-_11.03.2021 17:30:04_
+_13.03.2021 05:34:47_

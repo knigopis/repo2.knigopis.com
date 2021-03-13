@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
+    > Боевая фантастика, Фэнтези
+    > По второму разу не пошла серия. А так, интересно почитать. Попаданец в тело 15летнего наследника барона из закрытого магического мира
+    > Оценка 4
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
     > идет гроза – разувай глаза.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > не сбивайся с пути
 
 * Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
-    > Мистика. Ответвление от цикла про Дворжака
 
 * Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
 
-* Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>24</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>14</sup> 
 [](users/153/1537586159620888-facebook)<sup>36</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>277</sup> 
@@ -55,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>23</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>844</sup> 
 
 
-_13.03.2021 04:23:21_
+_13.03.2021 05:34:47_
