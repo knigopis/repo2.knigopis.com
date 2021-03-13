@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>100</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>43</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>277</sup> 
 [youno](users/302/302928912-vkontakte)<sup>55</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>99</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>87</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>3</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/376/376489035-yandex)<sup>0</sup> 
 
 
-_13.03.2021 16:24:21_
+_13.03.2021 17:52:29_

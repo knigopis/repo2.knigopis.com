@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 100,
+        "updatedAt": "2021-03-13 17:52:29"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -46,12 +52,6 @@
         "nickname": "dghtt",
         "booksCount": 36,
         "updatedAt": "2021-03-11 15:33:13"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 99,
-        "updatedAt": "2021-03-11 13:16:40"
     },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
