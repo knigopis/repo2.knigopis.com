@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
@@ -30,7 +31,6 @@
 * Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
 * Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
 * Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
-* Разгадка страшной истории гибели группы Дятлова ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>172</sup>
 
 
-_13.03.2021 05:37:13_
+_13.03.2021 16:24:21_

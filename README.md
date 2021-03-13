@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
+    > ...величайшее благо для человечества заключается в том, чтобы каждодневно вести беседы о добродетели...
+    > 32, размышления о жизни и смерти
+
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
     > Ужасы мистика
     > Оценка 4
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
-    > идет гроза – разувай глаза.
 
 * Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
 
-* Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>43</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>14</sup> 
@@ -65,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
 [](users/376/376489035-yandex)<sup>0</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>8</sup> 
 
 
-_13.03.2021 15:50:39_
+_13.03.2021 16:24:21_

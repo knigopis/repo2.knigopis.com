@@ -1,4 +1,16 @@
 {
+    "2ZuMrX9xW2": {
+        "id": "2ZuMrX9xW2",
+        "title": "Апология Сократа",
+        "author": "Платон",
+        "notes": "...величайшее благо для человечества заключается в том, чтобы каждодневно вести беседы о добродетели...\n32, размышления о жизни и смерти",
+        "createdAt": "2021-03-13 16:24:21",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 59
+        }
+    },
     "U-SlyKC7Aa": {
         "id": "U-SlyKC7Aa",
         "title": "Алмазная колесница, часть 2",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 274
-        }
-    },
-    "VMJX7fM80L": {
-        "id": "VMJX7fM80L",
-        "title": "Демон",
-        "author": "Лермонтов",
-        "notes": "",
-        "createdAt": "2021-03-05 14:28:32",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tumturumk",
-            "booksCount": 5
         }
     }
 }
