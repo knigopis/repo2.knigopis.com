@@ -1,4 +1,16 @@
 {
+    "CNKYmnxFU8": {
+        "id": "CNKYmnxFU8",
+        "title": "В каморке, что за актовым залом",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-03-14 19:12:49",
+        "user": {
+            "id": "118195892640941995591-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "B70Boi6CAn": {
         "id": "B70Boi6CAn",
         "title": "Нація овочів",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 9
-        }
-    },
-    "DzfjbNBdIK": {
-        "id": "DzfjbNBdIK",
-        "title": "В тени Холокоста. Дневник Рении",
-        "author": "Рения Шпигель",
-        "notes": "",
-        "createdAt": "2021-03-06 18:59:14",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 135
         }
     }
 }

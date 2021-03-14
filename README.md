@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/118/118195892640941995591-google)<sup>0</sup> 
+[](users/118/118195892640941995591-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>278</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>161</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
 
 
-_14.03.2021 19:12:34_
+_14.03.2021 19:12:49_
