@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>174</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>175</sup>
 ---
 
 ## 2021
+
+### Нація овочів
+Оксана Мороз
+> [2021-03-14] 7/10 Інформаційна гігієна та розпізнавання фейків.
+
 
 ### Феміністки не носять рожевого та інші вигадки
 Скарлет Кертіс

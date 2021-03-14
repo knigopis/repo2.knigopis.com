@@ -1,4 +1,16 @@
 {
+    "B70Boi6CAn": {
+        "id": "B70Boi6CAn",
+        "title": "Нація овочів",
+        "author": "Оксана Мороз",
+        "notes": "7/10 Інформаційна гігієна та розпізнавання фейків.",
+        "createdAt": "2021-03-14 17:34:14",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 175
+        }
+    },
     "eDEZu6aPWJ": {
         "id": "eDEZu6aPWJ",
         "title": "Обыкновенная история",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 135
-        }
-    },
-    "equctzvJcj": {
-        "id": "equctzvJcj",
-        "title": "Сильмариллион",
-        "author": "Толкин Джон Рональд Руэл",
-        "notes": "",
-        "createdAt": "2021-03-06 18:51:39",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 279
         }
     }
 }

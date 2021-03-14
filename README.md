@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нація овочів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup>
+    > 7/10 Інформаційна гігієна та розпізнавання фейків.
+
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
     > тебя по нынешним временам, характер дрянь. На тебя кто сядет, тот и поедет. Ты, Сашка, как ковровая дорожка: всем под ноги стелешься. Всем улыбаешься, слово поперек боишься сказать.
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > 32, размышления о жизни и смерти
 
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
-    > Ужасы мистика
-    > Оценка 4
 
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
 
-* Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>278</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>161</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>325</sup> 
@@ -57,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [egarkafmsh](users/277/277295453-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>246</sup> 
 [](users/402/4027658217279647-facebook)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup> 
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>135</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
 
 
-_14.03.2021 13:38:37_
+_14.03.2021 17:34:14_
