@@ -1,4 +1,10 @@
 {
+    "118195892640941995591-google": {
+        "id": "118195892640941995591-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-03-14 19:12:34"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 0,
         "updatedAt": "2021-03-04 19:03:05"
-    },
-    "15007129483640630959-mailru": {
-        "id": "15007129483640630959-mailru",
-        "nickname": "Наталья Заз",
-        "booksCount": 0,
-        "updatedAt": "2021-03-04 18:59:09"
     }
 }
