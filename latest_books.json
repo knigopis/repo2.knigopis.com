@@ -1,4 +1,16 @@
 {
+    "7yFP38NKBh": {
+        "id": "7yFP38NKBh",
+        "title": "How to Read a Book",
+        "author": "Charles Van Doren, Mortimer J. Adler",
+        "notes": "",
+        "createdAt": "2021-03-14 11:32:09",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 161
+        }
+    },
     "ccxa_KeOht": {
         "id": "ccxa_KeOht",
         "title": "По ту сторону от меня",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 23
-        }
-    },
-    "CT-CLMUVty": {
-        "id": "CT-CLMUVty",
-        "title": "Добрым демоном и пистолетом",
-        "author": "Мамбурин Харитон Байконурович",
-        "notes": "Продолжение\nСерия пока из 1 книги\nСтимпанк. Попаданец в параллельный мир без нефти и газа но с эфиром, 4 сын на учебе в Японии. \nОценка 4",
-        "createdAt": "2021-03-06 16:07:20",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 22
         }
     }
 }
