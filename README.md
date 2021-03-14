@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
+    > тебя по нынешним временам, характер дрянь. На тебя кто сядет, тот и поедет. Ты, Сашка, как ковровая дорожка: всем под ноги стелешься. Всем улыбаешься, слово поперек боишься сказать.
+
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
     > ...величайшее благо для человечества заключается в том, чтобы каждодневно вести беседы о добродетели...
     > 32, размышления о жизни и смерти
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
-    > Боевая фантастика, Фэнтези
-    > По второму разу не пошла серия. А так, интересно почитать. Попаданец в тело 15летнего наследника барона из закрытого магического мира
-    > Оценка 4
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
 
-* Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>278</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>161</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>325</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>100</sup> 
@@ -45,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>14</sup> 
 [](users/153/1537586159620888-facebook)<sup>36</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>277</sup> 
 [youno](users/302/302928912-vkontakte)<sup>55</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
 
 
-_14.03.2021 11:32:09_
+_14.03.2021 13:38:37_

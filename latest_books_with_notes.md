@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Трилогия «Долина Ледяного Ветра ~ [Chandravadana](users/105/105866022348292919948-google)<sup>155</sup>
 * Трилогии: Темный эльф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>154</sup>
 * Включите сердце и мозги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>246</sup>
-* Ночной смотритель. Городские легенды 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>268</sup>
 
 
-_13.03.2021 16:24:21_
+_14.03.2021 13:38:37_
