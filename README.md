@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>325</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>100</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>43</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/109/109056009931706955629-google)<sup>0</sup> 
 [Наталья Заз](users/150/15007129483640630959-mailru)<sup>0</sup> 
-[](users/376/376489035-yandex)<sup>0</sup> 
 
 
-_13.03.2021 17:52:29_
+_14.03.2021 06:05:12_
