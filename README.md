@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>83</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>13</sup> 
 [Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>246</sup> 
 [](users/402/4027658217279647-facebook)<sup>0</sup> 
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>279</sup> 
 
 
-_15.03.2021 14:53:58_
+_15.03.2021 16:15:14_

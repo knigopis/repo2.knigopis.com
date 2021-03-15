@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 83,
+        "updatedAt": "2021-03-15 16:15:14"
+    },
     "100006761945842-facebook": {
         "id": "100006761945842-facebook",
         "nickname": "Somik",
@@ -172,11 +178,5 @@
         "nickname": "annakonchits",
         "booksCount": 0,
         "updatedAt": "2021-03-06 21:17:00"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 279,
-        "updatedAt": "2021-03-06 18:51:39"
     }
 }
