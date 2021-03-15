@@ -1,7 +1,12 @@
-# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>12</sup>
+# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>13</sup>
 ---
 
 ## 2021
+
+### Когда Ницше плакал (аудио)
+Ирвин Девид Ялом
+> [2021-03] 
+
 
 ### Мир Софии (аудио)
 Юстейн Гордер
