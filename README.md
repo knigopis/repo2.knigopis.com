@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мир Софии (аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>9</sup>
+    > Супер!!!
+
 * Нація овочів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup>
     > 7/10 Інформаційна гігієна та розпізнавання фейків.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > тебя по нынешним временам, характер дрянь. На тебя кто сядет, тот и поедет. Ты, Сашка, как ковровая дорожка: всем под ноги стелешься. Всем улыбаешься, слово поперек боишься сказать.
 
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
-    > ...величайшее благо для человечества заключается в том, чтобы каждодневно вести беседы о добродетели...
-    > 32, размышления о жизни и смерти
 
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
 
-* Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Somik](users/100/100006761945842-facebook)<sup>8</sup> 
+[Somik](users/100/100006761945842-facebook)<sup>9</sup> 
 [Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
 
 
-_15.03.2021 14:48:30_
+_15.03.2021 14:49:23_
