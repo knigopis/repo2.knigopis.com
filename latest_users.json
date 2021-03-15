@@ -1,4 +1,10 @@
 {
+    "819285468208720-facebook": {
+        "id": "819285468208720-facebook",
+        "nickname": "Guzya",
+        "booksCount": 0,
+        "updatedAt": "2021-03-15 14:36:03"
+    },
     "4129490930435358-facebook": {
         "id": "4129490930435358-facebook",
         "nickname": "Malysha",
@@ -172,11 +178,5 @@
         "nickname": "tumturumk",
         "booksCount": 5,
         "updatedAt": "2021-03-05 14:28:32"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 8,
-        "updatedAt": "2021-03-05 11:11:10"
     }
 }
