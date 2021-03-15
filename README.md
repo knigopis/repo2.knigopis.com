@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Somik](users/100/100006761945842-facebook)<sup>7</sup> 
+[Somik](users/100/100006761945842-facebook)<sup>8</sup> 
 [Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>279</sup> 
 
 
-_15.03.2021 14:47:20_
+_15.03.2021 14:48:30_
