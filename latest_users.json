@@ -1,4 +1,10 @@
 {
+    "4129490930435358-facebook": {
+        "id": "4129490930435358-facebook",
+        "nickname": "Malysha",
+        "booksCount": 0,
+        "updatedAt": "2021-03-15 13:00:28"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 8,
         "updatedAt": "2021-03-05 11:11:10"
-    },
-    "109056009931706955629-google": {
-        "id": "109056009931706955629-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 0,
-        "updatedAt": "2021-03-04 19:03:05"
     }
 }
