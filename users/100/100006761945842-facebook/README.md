@@ -1,4 +1,4 @@
-# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>11</sup>
+# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>12</sup>
 ---
 
 ## 2021
@@ -6,6 +6,11 @@
 ### Мир Софии (аудио)
 Юстейн Гордер
 > [2021-03] Супер!!!
+
+
+### 7 навыков высокоэффективных людей (аудио)
+Стивена Кови
+> [2021-02] 
 
 
 ### Одиннадцать минут (аудио)
