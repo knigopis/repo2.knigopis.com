@@ -1,7 +1,12 @@
-# List of books read by [Malysha](https://www.facebook.com/profile.php?id=4129490930435358)<sup>1</sup>
+# List of books read by [Malysha](https://www.facebook.com/profile.php?id=4129490930435358)<sup>2</sup>
 ---
 
 ## 2021
+
+### Хищные вещи века
+Аркадий и Борис Стругацкие
+> [2021-03-15] 
+
 
 ### Объявлено убийство
 Агата Кристи
