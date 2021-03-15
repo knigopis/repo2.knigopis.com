@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Guzya](users/819/819285468208720-facebook)<sup>0</sup> 
+[Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>136</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>5</sup> 
 
 
-_15.03.2021 14:36:04_
+_15.03.2021 14:36:34_
