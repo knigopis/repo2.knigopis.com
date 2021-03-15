@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Malysha](users/412/4129490930435358-facebook)<sup>0</sup> 
+[Malysha](users/412/4129490930435358-facebook)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>136</sup> 
 [](users/118/118195892640941995591-google)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup> 
 
 
-_15.03.2021 13:00:28_
+_15.03.2021 13:01:18_
