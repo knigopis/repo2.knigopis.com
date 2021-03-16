@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shimpanze](users/108/108324375224819470216-google)<sup>4</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>83</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>13</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>87</sup> 
-[Shimpanze](users/108/108324375224819470216-google)<sup>3</sup> 
 [Zhigaloinfire](users/444/444088111-vkontakte)<sup>0</sup> 
 [minwushe](users/264/264391125-vkontakte)<sup>0</sup> 
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 
 
-_15.03.2021 20:26:55_
+_16.03.2021 06:16:10_

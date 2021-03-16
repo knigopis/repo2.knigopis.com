@@ -1,4 +1,10 @@
 {
+    "108324375224819470216-google": {
+        "id": "108324375224819470216-google",
+        "nickname": "Shimpanze",
+        "booksCount": 4,
+        "updatedAt": "2021-03-16 06:16:10"
+    },
     "4129490930435358-facebook": {
         "id": "4129490930435358-facebook",
         "nickname": "Malysha",
@@ -118,12 +124,6 @@
         "nickname": "4apa",
         "booksCount": 87,
         "updatedAt": "2021-03-11 06:38:27"
-    },
-    "108324375224819470216-google": {
-        "id": "108324375224819470216-google",
-        "nickname": "Shimpanze",
-        "booksCount": 3,
-        "updatedAt": "2021-03-11 06:13:29"
     },
     "444088111-vkontakte": {
         "id": "444088111-vkontakte",
