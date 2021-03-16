@@ -1,4 +1,16 @@
 {
+    "1V_33oZNre": {
+        "id": "1V_33oZNre",
+        "title": "За новыми горизонтами",
+        "author": "А. Стерн, Д. Гринспун",
+        "notes": "",
+        "createdAt": "2021-03-16 20:55:22",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 88
+        }
+    },
     "UEuGwQ3svh": {
         "id": "UEuGwQ3svh",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 55
-        }
-    },
-    "wqZJgnaGfR": {
-        "id": "wqZJgnaGfR",
-        "title": "Диалоги (дочитать)",
-        "author": "Платон",
-        "notes": "",
-        "createdAt": "2021-03-11 15:33:05",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 37
         }
     }
 }
