@@ -1,4 +1,16 @@
 {
+    "xpQUvguiqU": {
+        "id": "xpQUvguiqU",
+        "title": "Sapiens",
+        "author": "Юваль Ной Харари",
+        "notes": "5/10",
+        "createdAt": "2021-03-16 22:36:55",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 148
+        }
+    },
     "1V_33oZNre": {
         "id": "1V_33oZNre",
         "title": "За новыми горизонтами",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 277
-        }
-    },
-    "lI3mydqTpi": {
-        "id": "lI3mydqTpi",
-        "title": "Будь жесток",
-        "author": "Давид Икс",
-        "notes": "",
-        "createdAt": "2021-03-11 15:52:03",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 55
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Sapiens ~ [anvonamore](users/595/5957175-vkontakte)<sup>148</sup>
+    > 5/10
+
 * Мир Софии (аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>9</sup>
     > Супер!!!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Інформаційна гігієна та розпізнавання фейків.
 
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
-    > тебя по нынешним временам, характер дрянь. На тебя кто сядет, тот и поедет. Ты, Сашка, как ковровая дорожка: всем под ноги стелешься. Всем улыбаешься, слово поперек боишься сказать.
 
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
 
-* Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>88</sup> 
 [](users/234/234992147-vkontakte)<sup>0</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>11</sup> 
 [egarkafmsh](users/277/277295453-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>246</sup> 
-[](users/402/4027658217279647-facebook)<sup>0</sup> 
 
 
-_16.03.2021 20:55:22_
+_16.03.2021 22:36:55_
