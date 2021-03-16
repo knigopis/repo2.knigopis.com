@@ -1,4 +1,10 @@
 {
+    "234992147-vkontakte": {
+        "id": "234992147-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-03-16 09:51:34"
+    },
     "108324375224819470216-google": {
         "id": "108324375224819470216-google",
         "nickname": "Shimpanze",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-03-07 14:54:30"
-    },
-    "2576575-vkontakte": {
-        "id": "2576575-vkontakte",
-        "nickname": "annakonchits",
-        "booksCount": 0,
-        "updatedAt": "2021-03-06 21:17:00"
     }
 }
