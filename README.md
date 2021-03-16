@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/234/234992147-vkontakte)<sup>0</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>4</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [egarkafmsh](users/277/277295453-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>246</sup> 
 [](users/402/4027658217279647-facebook)<sup>0</sup> 
-[annakonchits](users/257/2576575-vkontakte)<sup>0</sup> 
 
 
-_16.03.2021 06:16:10_
+_16.03.2021 09:51:34_
