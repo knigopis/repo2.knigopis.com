@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ромео и Джульетта ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>143</sup>
 * Первые среди лучших 2006 ~ [Chiffi](users/105/105831994080785626680-google)<sup>279</sup>
 * Sapiens ~ [anvonamore](users/595/5957175-vkontakte)<sup>148</sup>
 * Мир Софии (аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
 * Трилогия: Наемные клинки ~ [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup>
 * Трилогия: Клинки охотника ~ [Chandravadana](users/105/105866022348292919948-google)<sup>158</sup>
-* Серия: Наследие дроу ~ [Chandravadana](users/105/105866022348292919948-google)<sup>157</sup>
 
 
-_17.03.2021 18:43:29_
+_17.03.2021 21:43:30_
