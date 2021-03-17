@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Первые среди лучших 2006 ~ [Chiffi](users/105/105831994080785626680-google)<sup>279</sup>
+    > Рождественские детективы. Отличный сборник.   самая большая ценность успеха – это умение прятать свой неуспех.
+
 * Sapiens ~ [anvonamore](users/595/5957175-vkontakte)<sup>148</sup>
     > 5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Супер!!!
 
 * Нація овочів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup>
-    > 7/10 Інформаційна гігієна та розпізнавання фейків.
 
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
 
-* Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>279</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>845</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>141</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
 [](users/118/118195892640941995591-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>278</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>161</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>325</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>100</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
 
 
-_17.03.2021 18:42:59_
+_17.03.2021 18:43:29_
