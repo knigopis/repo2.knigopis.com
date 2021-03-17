@@ -1,4 +1,16 @@
 {
+    "S2ewFfwQ3Z": {
+        "id": "S2ewFfwQ3Z",
+        "title": "История мировой цивилизации",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2021-03-17 18:15:57",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 407
+        }
+    },
     "mtmHe-uhpN": {
         "id": "mtmHe-uhpN",
         "title": "Старый гений",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 161
-        }
-    },
-    "ccxa_KeOht": {
-        "id": "ccxa_KeOht",
-        "title": "По ту сторону от меня",
-        "author": "Алекс Д",
-        "notes": "",
-        "createdAt": "2021-03-14 06:05:12",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 325
         }
     }
 }
