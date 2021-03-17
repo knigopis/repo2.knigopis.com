@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>88</sup> 
 [](users/234/234992147-vkontakte)<sup>0</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>4</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>2</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>83</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>13</sup> 
 [Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>246</sup> 
 
 
-_16.03.2021 22:36:55_
+_17.03.2021 01:48:40_
