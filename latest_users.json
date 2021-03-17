@@ -1,4 +1,10 @@
 {
+    "105866022348292919948-google": {
+        "id": "105866022348292919948-google",
+        "nickname": "Chandravadana",
+        "booksCount": 158,
+        "updatedAt": "2021-03-17 04:30:01"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "egarkafmsh",
         "booksCount": 0,
         "updatedAt": "2021-03-09 14:15:59"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 246,
-        "updatedAt": "2021-03-09 10:11:04"
     }
 }

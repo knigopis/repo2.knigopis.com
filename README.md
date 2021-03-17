@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chandravadana](users/105/105866022348292919948-google)<sup>158</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>88</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/545/545226830-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>11</sup> 
 [egarkafmsh](users/277/277295453-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>246</sup> 
 
 
-_17.03.2021 01:48:40_
+_17.03.2021 04:30:01_
