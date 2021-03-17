@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>142</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>279</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>845</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>141</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>247</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
 
 
-_17.03.2021 18:43:29_
+_17.03.2021 19:45:37_

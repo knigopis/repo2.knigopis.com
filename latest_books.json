@@ -1,4 +1,16 @@
 {
+    "Lfaxtl_gzR": {
+        "id": "Lfaxtl_gzR",
+        "title": "Тайна Фламбо",
+        "author": "Гилберт Кит Честертон",
+        "notes": "",
+        "createdAt": "2021-03-17 19:45:37",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 142
+        }
+    },
     "oJvCUa_Cc_": {
         "id": "oJvCUa_Cc_",
         "title": "Первые среди лучших 2006",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 136
-        }
-    },
-    "CNKYmnxFU8": {
-        "id": "CNKYmnxFU8",
-        "title": "В каморке, что за актовым залом",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-03-14 19:12:49",
-        "user": {
-            "id": "118195892640941995591-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
