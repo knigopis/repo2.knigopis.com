@@ -1,4 +1,16 @@
 {
+    "eTY66xLdQm": {
+        "id": "eTY66xLdQm",
+        "title": "Аграрная палітыка нацыстаў у Заходняй Беларусі",
+        "author": "Святлана Казлова",
+        "notes": "",
+        "createdAt": "2021-03-17 18:17:26",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 408
+        }
+    },
     "S2ewFfwQ3Z": {
         "id": "S2ewFfwQ3Z",
         "title": "История мировой цивилизации",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 278
-        }
-    },
-    "7yFP38NKBh": {
-        "id": "7yFP38NKBh",
-        "title": "How to Read a Book",
-        "author": "Charles Van Doren, Mortimer J. Adler",
-        "notes": "",
-        "createdAt": "2021-03-14 11:32:09",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 161
         }
     }
 }
