@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>845</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>141</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>247</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zhigaloinfire](users/444/444088111-vkontakte)<sup>0</sup> 
 [minwushe](users/264/264391125-vkontakte)<sup>0</sup> 
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
-[](users/545/545226830-vkontakte)<sup>0</sup> 
 
 
-_17.03.2021 18:17:27_
+_17.03.2021 18:42:59_
