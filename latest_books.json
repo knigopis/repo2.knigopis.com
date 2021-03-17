@@ -1,4 +1,16 @@
 {
+    "z13_fnpJlI": {
+        "id": "z13_fnpJlI",
+        "title": "Лапти",
+        "author": "Иван Алексеевич Бунин",
+        "notes": "",
+        "createdAt": "2021-03-17 17:40:58",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 140
+        }
+    },
     "iXNi92Do4c": {
         "id": "iXNi92Do4c",
         "title": "Мцыри",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 100
-        }
-    },
-    "2ZuMrX9xW2": {
-        "id": "2ZuMrX9xW2",
-        "title": "Апология Сократа",
-        "author": "Платон",
-        "notes": "...величайшее благо для человечества заключается в том, чтобы каждодневно вести беседы о добродетели...\n32, размышления о жизни и смерти",
-        "createdAt": "2021-03-13 16:24:21",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 59
         }
     }
 }
