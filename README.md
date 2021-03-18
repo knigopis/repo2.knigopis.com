@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Загадка "Блакитного потяга" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
+    > 8/10 Загадкове вбивство у потязі та викрадення рубінів.
+
 * Ромео и Джульетта ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>143</sup>
     > Что есть любовь? Безумье от угара,Игра огнём, ведущая к пожару,Столб пламени над морем наших слёз,Раздумье необдуманности ради,Смешенье яда и противоядья.
     > Ослепший вечно помнит драгоценность Утраченного зренья.
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > Рождественские детективы. Отличный сборник.   самая большая ценность успеха – это умение прятать свой неуспех.
 
 * Sapiens ~ [anvonamore](users/595/5957175-vkontakte)<sup>148</sup>
-    > 5/10
 
 * Мир Софии (аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>9</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>143</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>279</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>845</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
 [](users/118/118195892640941995591-google)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>161</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>325</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>100</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vvb](users/327/327630816-vkontakte)<sup>0</sup> 
 
 
-_17.03.2021 21:43:30_
+_18.03.2021 16:04:08_
