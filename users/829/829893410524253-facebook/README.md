@@ -1,12 +1,7 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>177</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>176</sup>
 ---
 
 ## 2021
-
-### Загадка "Блакитного потяга"
-Аґата Крісті
-> [2021-03-18] 8/10 Загадкове вбивство у потязі та викрадення рубінів.
-
 
 ### Загадка "Блакитного потяга"
 Аґата Крісті
