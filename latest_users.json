@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 47,
+        "updatedAt": "2021-03-19 10:19:57"
+    },
     "4129490930435358-facebook": {
         "id": "4129490930435358-facebook",
         "nickname": "Malysha",
@@ -172,11 +178,5 @@
         "nickname": "minwushe",
         "booksCount": 0,
         "updatedAt": "2021-03-10 16:52:13"
-    },
-    "327630816-vkontakte": {
-        "id": "327630816-vkontakte",
-        "nickname": "vvb",
-        "booksCount": 0,
-        "updatedAt": "2021-03-10 15:04:47"
     }
 }
