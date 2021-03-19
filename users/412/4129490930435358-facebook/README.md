@@ -1,7 +1,12 @@
-# List of books read by [Malysha](https://www.facebook.com/profile.php?id=4129490930435358)<sup>2</sup>
+# List of books read by [Malysha](https://www.facebook.com/profile.php?id=4129490930435358)<sup>3</sup>
 ---
 
 ## 2021
+
+### Тайные виды на гору Фудзи
+Пелевин Виктор
+> [2021-03-18] 
+
 
 ### Хищные вещи века
 Аркадий и Борис Стругацкие
