@@ -1,4 +1,10 @@
 {
+    "105362923714442300619-google": {
+        "id": "105362923714442300619-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-03-19 13:17:02"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "Zhigaloinfire",
         "booksCount": 0,
         "updatedAt": "2021-03-11 04:15:50"
-    },
-    "264391125-vkontakte": {
-        "id": "264391125-vkontakte",
-        "nickname": "minwushe",
-        "booksCount": 0,
-        "updatedAt": "2021-03-10 16:52:13"
     }
 }
