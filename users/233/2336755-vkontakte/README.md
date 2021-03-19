@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>112</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>113</sup>
 ---
 
 ## 2021
+
+### Ритуал
+Адам Нэвилл
+> [2021-03-06] 
+
 
 ### Вкус ужаса. Коллекция страха
 Дэл Ховисон, Джефф Гелб

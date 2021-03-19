@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 [](users/105/105362923714442300619-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>47</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>55</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
-[Zhigaloinfire](users/444/444088111-vkontakte)<sup>0</sup> 
 
 
-_19.03.2021 13:17:02_
+_19.03.2021 19:00:41_
