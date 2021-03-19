@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105362923714442300619-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>47</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>144</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>9</sup> 
 [Zhigaloinfire](users/444/444088111-vkontakte)<sup>0</sup> 
-[minwushe](users/264/264391125-vkontakte)<sup>0</sup> 
 
 
-_19.03.2021 10:19:57_
+_19.03.2021 13:17:02_
