@@ -1,4 +1,16 @@
 {
+    "FDV7zJXyO1": {
+        "id": "FDV7zJXyO1",
+        "title": "Судьба на выбор",
+        "author": "Аткинс Дэни",
+        "notes": "Не знаю что это было : дружба, предательство, любовь. Любовь разная, но без границ.",
+        "createdAt": "2021-03-20 22:15:54",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 280
+        }
+    },
     "4R8MKYIyCs": {
         "id": "4R8MKYIyCs",
         "title": "Письма смерти",
@@ -345,18 +357,6 @@
             "id": "100006761945842-facebook",
             "nickname": "Somik",
             "booksCount": 13
-        }
-    },
-    "l01MQA8ZeA": {
-        "id": "l01MQA8ZeA",
-        "title": "7 навыков высокоэффективных людей (аудио)",
-        "author": "Стивена Кови",
-        "notes": "",
-        "createdAt": "2021-03-15 14:52:35",
-        "user": {
-            "id": "100006761945842-facebook",
-            "nickname": "Somik",
-            "booksCount": 12
         }
     }
 }

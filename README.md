@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Судьба на выбор ~ [Chiffi](users/105/105831994080785626680-google)<sup>280</sup>
+    > Не знаю что это было : дружба, предательство, любовь. Любовь разная, но без границ.
+
 * Загадка "Блакитного потяга" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
     > 8/10 Загадкове вбивство у потязі та викрадення рубінів.
 
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > Согласно английскому народному поверью, у ленивых девушек заводятся под ногтями червячки.
 
 * Первые среди лучших 2006 ~ [Chiffi](users/105/105831994080785626680-google)<sup>279</sup>
-    > Рождественские детективы. Отличный сборник.   самая большая ценность успеха – это умение прятать свой неуспех.
 
 * Sapiens ~ [anvonamore](users/595/5957175-vkontakte)<sup>148</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
 
-* Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>280</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>6</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>162</sup> 
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>144</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>176</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>279</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>845</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>247</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>36</sup> 
 
 
-_20.03.2021 20:42:27_
+_20.03.2021 22:15:54_
