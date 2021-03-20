@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>6</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>162</sup> 
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>12</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>43</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
 [](users/153/1537586159620888-facebook)<sup>36</sup> 
-[youno](users/302/302928912-vkontakte)<sup>55</sup> 
 
 
-_20.03.2021 12:56:43_
+_20.03.2021 20:42:27_
