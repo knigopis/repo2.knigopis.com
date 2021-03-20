@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>11</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>12</sup>
 ---
 
 ## 2021
+
+### Великая шахматная доска
+Збигнев Бжезинский
+> [2021-03] 
+
 
 ### Санькя
 Захар Прилепин

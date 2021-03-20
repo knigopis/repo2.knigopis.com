@@ -1,4 +1,16 @@
 {
+    "PHmbNdteJB": {
+        "id": "PHmbNdteJB",
+        "title": "Великая шахматная доска",
+        "author": "Збигнев Бжезинский",
+        "notes": "",
+        "createdAt": "2021-03-20 00:55:56",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 12
+        }
+    },
     "Z_J3T36jtZ": {
         "id": "Z_J3T36jtZ",
         "title": "Ритуал",
@@ -345,18 +357,6 @@
             "id": "100006761945842-facebook",
             "nickname": "Somik",
             "booksCount": 10
-        }
-    },
-    "NGLrcr0Nmq": {
-        "id": "NGLrcr0Nmq",
-        "title": "Мир Софии (аудио)",
-        "author": "Юстейн Гордер",
-        "notes": "Супер!!!",
-        "createdAt": "2021-03-15 14:49:23",
-        "user": {
-            "id": "100006761945842-facebook",
-            "nickname": "Somik",
-            "booksCount": 9
         }
     }
 }
