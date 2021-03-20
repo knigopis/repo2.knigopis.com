@@ -1,4 +1,10 @@
 {
+    "210927617-yandex": {
+        "id": "210927617-yandex",
+        "nickname": "kokina93",
+        "booksCount": 0,
+        "updatedAt": "2021-03-20 06:56:11"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 55,
         "updatedAt": "2021-03-11 15:52:03"
-    },
-    "233860015-vkontakte": {
-        "id": "233860015-vkontakte",
-        "nickname": "dghtt",
-        "booksCount": 36,
-        "updatedAt": "2021-03-11 15:33:13"
     }
 }
