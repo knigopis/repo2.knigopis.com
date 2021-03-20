@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kokina93](users/210/210927617-yandex)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>12</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 [](users/105/105362923714442300619-google)<sup>0</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
 [](users/153/1537586159620888-facebook)<sup>36</sup> 
 [youno](users/302/302928912-vkontakte)<sup>55</sup> 
-[dghtt](users/233/233860015-vkontakte)<sup>36</sup> 
 
 
-_20.03.2021 00:55:56_
+_20.03.2021 06:56:11_
