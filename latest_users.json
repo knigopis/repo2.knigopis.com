@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 162,
+        "updatedAt": "2021-03-20 12:56:43"
+    },
     "210927617-yandex": {
         "id": "210927617-yandex",
         "nickname": "kokina93",
@@ -130,12 +136,6 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2021-03-14 19:12:49"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 161,
-        "updatedAt": "2021-03-14 11:32:09"
     },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
