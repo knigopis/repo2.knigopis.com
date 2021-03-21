@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>846</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>281</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>281</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>6</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>162</sup> 
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>12</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
 
 
-_21.03.2021 13:42:09_
+_21.03.2021 14:13:02_
