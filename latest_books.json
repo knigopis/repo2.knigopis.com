@@ -1,4 +1,16 @@
 {
+    "6_4WoHsFKk": {
+        "id": "6_4WoHsFKk",
+        "title": "Дети Хурина",
+        "author": "Толкин Джон Рональд Руэл",
+        "notes": "История Турина и Нионор. Было бы очень интересно, если бы краткую историю ранее не прочла в Сильмариллионе",
+        "createdAt": "2021-03-21 11:43:57",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 281
+        }
+    },
     "A6Xk6sIWlo": {
         "id": "A6Xk6sIWlo",
         "title": "Хроники странствующего кота",
@@ -345,18 +357,6 @@
             "id": "108324375224819470216-google",
             "nickname": "Shimpanze",
             "booksCount": 4
-        }
-    },
-    "LS9EFxTLpU": {
-        "id": "LS9EFxTLpU",
-        "title": "Хищные вещи века",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2021-03-15 20:26:55",
-        "user": {
-            "id": "4129490930435358-facebook",
-            "nickname": "Malysha",
-            "booksCount": 2
         }
     }
 }

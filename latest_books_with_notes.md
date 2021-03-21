@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дети Хурина ~ [Garka](users/115/115753719718250012620-google)<sup>281</sup>
 * Хроники странствующего кота ~ [Garka](users/115/115753719718250012620-google)<sup>280</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>281</sup>
 * Судьба на выбор ~ [Chiffi](users/105/105831994080785626680-google)<sup>280</sup>
@@ -30,7 +31,6 @@
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>33</sup>
 * Его семья ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>173</sup>
 * Избранница. Хладые 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>271</sup>
-* Чингисхан и рождение современного мира ~ [Garka](users/115/115753719718250012620-google)<sup>278</sup>
 
 
-_21.03.2021 11:41:45_
+_21.03.2021 11:43:57_
