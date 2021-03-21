@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>281</sup>
 * Судьба на выбор ~ [Chiffi](users/105/105831994080785626680-google)<sup>280</sup>
 * Загадка "Блакитного потяга" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
 * Ромео и Джульетта ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>143</sup>
@@ -12,7 +13,6 @@
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>277</sup>
 * Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
 * Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
 * Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
@@ -33,4 +33,4 @@
 * Пробуждение куклы. Городские легенды 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>269</sup>
 
 
-_20.03.2021 22:15:54_
+_21.03.2021 08:10:05_
