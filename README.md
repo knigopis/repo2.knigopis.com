@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники странствующего кота ~ [Garka](users/115/115753719718250012620-google)<sup>280</sup>
+    > Начало скучное, но потом просто жесть. Грусть кота передана потрясающе, жалко и Сатора, и Нана
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>281</sup>
     > «День есть день, евреи, и вечер есть вечер, —День затопляет нас потом трудов наших, но вечер держит наготове веера своей божественной прохлады.  Всю жизнь хотел он жариться на солнцепеке, всю жизнь хотел он стоять на том месте, где его застал полдень. Но бог имеет городовых на каждой улице, и Мендель Крик имел сынов в своем доме. Городовые приходят и делают в доме порядок. День есть день, и вечер есть вечер. Все в порядке, евреи. Выпьем рюмку водки!»
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не знаю что это было : дружба, предательство, любовь. Любовь разная, но без границ.
 
 * Загадка "Блакитного потяга" ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
-    > 8/10 Загадкове вбивство у потязі та викрадення рубінів.
 
 * Ромео и Джульетта ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>143</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
 
-* Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>280</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>281</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>6</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>162</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>43</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>25</sup> 
-[](users/153/1537586159620888-facebook)<sup>36</sup> 
 
 
-_21.03.2021 08:10:05_
+_21.03.2021 11:41:45_
