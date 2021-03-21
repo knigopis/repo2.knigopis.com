@@ -1,4 +1,16 @@
 {
+    "sg79VKSrN1": {
+        "id": "sg79VKSrN1",
+        "title": "Чорна лихоманка: нелегальний видобуток вугілля на Донбасі.",
+        "author": "Денис Казанський",
+        "notes": "9/10 Повстання копанок та дірок, криміналізація нелегального видобутку.",
+        "createdAt": "2021-03-21 19:41:09",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 177
+        }
+    },
     "B5xw9VOqzP": {
         "id": "B5xw9VOqzP",
         "title": "Радикальное прощение",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 33
-        }
-    },
-    "C4oodgbqYo": {
-        "id": "C4oodgbqYo",
-        "title": "Его семья",
-        "author": "Анатолий Димаров",
-        "notes": "7/10 История развода молодой семьи.",
-        "createdAt": "2021-03-01 14:45:28",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 173
         }
     }
 }

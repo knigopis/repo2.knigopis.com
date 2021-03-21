@@ -1,4 +1,16 @@
 {
+    "sg79VKSrN1": {
+        "id": "sg79VKSrN1",
+        "title": "Чорна лихоманка: нелегальний видобуток вугілля на Донбасі.",
+        "author": "Денис Казанський",
+        "notes": "9/10 Повстання копанок та дірок, криміналізація нелегального видобутку.",
+        "createdAt": "2021-03-21 19:41:09",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 177
+        }
+    },
     "B5xw9VOqzP": {
         "id": "B5xw9VOqzP",
         "title": "Радикальное прощение",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 158
-        }
-    },
-    "lCYH_pgz00": {
-        "id": "lCYH_pgz00",
-        "title": "Красношейка",
-        "author": "Ю Нёсбе",
-        "notes": "",
-        "createdAt": "2021-03-17 01:48:40",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 84
         }
     }
 }

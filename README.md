@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чорна лихоманка: нелегальний видобуток вугілля на Донбасі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup>
+    > 9/10 Повстання копанок та дірок, криміналізація нелегального видобутку.
+
 * Радикальное прощение ~ [Len4e91](users/254/254448176-yandex)<sup>13</sup>
     > Ситуации, которые происходят, мы создаём сами. Это возможность увидеть наши несовершенства. Не нужно держать зло на человека, обижаться и винить, важно понимать, почему эта ситуация пришла в жизни, простить и поблагодарить участников за вклад в наше развитие, ведь без неё у нас не было бы понимая о проблеме. Очень много страхов и трамв заложено в детстве. И как быстро мы проработаем их и перестанем считать себя жертвой, так же быстро мы обретем спокойствие и счастье. Чтобы быть в ресурсе и энергии, надо быть в текущем моменте, без оглядки на прошлом и без тревоги за будущее. Всё придёт, когда ситуация разрешится и душа исцелиться.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История Турина и Нионор. Было бы очень интересно, если бы краткую историю ранее не прочла в Сильмариллионе
 
 * Хроники странствующего кота ~ [Garka](users/115/115753719718250012620-google)<sup>280</sup>
-    > Начало скучное, но потом просто жесть. Грусть кота передана потрясающе, жалко и Сатора, и Нана
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>281</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Sapiens ~ [anvonamore](users/595/5957175-vkontakte)<sup>148</sup>
 
-* Мир Софии (аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>13</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>846</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>47</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>144</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>176</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>247</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>43</sup> 
 
 
-_21.03.2021 19:07:34_
+_21.03.2021 19:41:10_

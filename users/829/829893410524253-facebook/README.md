@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>176</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>177</sup>
 ---
 
 ## 2021
+
+### Чорна лихоманка: нелегальний видобуток вугілля на Донбасі.
+Денис Казанський
+> [2021-03-21] 9/10 Повстання копанок та дірок, криміналізація нелегального видобутку.
+
 
 ### Загадка "Блакитного потяга"
 Аґата Крісті
