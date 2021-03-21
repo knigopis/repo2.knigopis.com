@@ -1,4 +1,10 @@
 {
+    "254448176-yandex": {
+        "id": "254448176-yandex",
+        "nickname": "Len4e91",
+        "booksCount": 13,
+        "updatedAt": "2021-03-21 19:07:34"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tumturumk",
@@ -172,11 +178,5 @@
         "nickname": "dmiro",
         "booksCount": 43,
         "updatedAt": "2021-03-13 15:50:39"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 25,
-        "updatedAt": "2021-03-13 05:37:13"
     }
 }
