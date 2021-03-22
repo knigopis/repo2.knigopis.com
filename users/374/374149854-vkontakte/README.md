@@ -1,4 +1,4 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>14</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>15</sup>
 ---
 
 ## 2021
@@ -65,6 +65,11 @@
 
 
 ## 2020
+
+### Рыцари Новороссии
+Геннадий Дубовой
+> [2020-08] 
+
 
 ### Катехизис Революционера
 Сергей Нечаев
