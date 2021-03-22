@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>178</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>179</sup>
 ---
 
 ## 2021
+
+### Чудный олень вечной охоты
+Светлана Алексиевич
+> [2021-03-22] 5/10 Страдательная ЖГС российских (советских) женщин и травмированные эпохой мужчины.
+
 
 ### Хулій Хурина
 Микола Куліш
