@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>13</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>13</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>281</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>162</sup> 
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>12</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 [](users/105/105362923714442300619-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup> 
 
 
-_22.03.2021 15:14:30_
+_22.03.2021 18:41:48_
