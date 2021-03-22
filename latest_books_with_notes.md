@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и проклятое дитя ~ [aktoty](users/275/275766107-vkontakte)<sup>89</sup>
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup>
 * Хулій Хурина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
 * Чорна лихоманка: нелегальний видобуток вугілля на Донбасі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup>
@@ -30,7 +31,6 @@
 * Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
 * Игра престолов ~ [Naricev](users/107/107090515204537133928-google)<sup>98</sup>
 * Тимошенко Наталья ~ [Chiffi](users/105/105831994080785626680-google)<sup>272</sup>
-* Хобби ~ [vitasoft](users/474/47446642-vkontakte)<sup>35</sup>
 
 
-_22.03.2021 15:14:30_
+_22.03.2021 19:37:29_
