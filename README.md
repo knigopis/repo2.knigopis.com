@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Даша](users/334/334696193054530347-mailru)<sup>61</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>13</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>325</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>100</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>43</sup> 
 
 
-_21.03.2021 19:41:10_
+_22.03.2021 10:09:13_
