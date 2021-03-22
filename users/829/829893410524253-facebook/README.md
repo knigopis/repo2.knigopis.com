@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>177</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>178</sup>
 ---
 
 ## 2021
+
+### Хулій Хурина
+Микола Куліш
+> [2021-03-22] 7/10 Сатирична п'єса про пошуки могили та вшанування революціонера.
+
 
 ### Чорна лихоманка: нелегальний видобуток вугілля на Донбасі.
 Денис Казанський
