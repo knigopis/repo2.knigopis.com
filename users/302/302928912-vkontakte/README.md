@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>55</sup>
+# List of books read by Evermind<sup>56</sup>
 ---
 
 ## 2021
+
+### Человек в поисках смысла
+Виктор Франкл
+> [2021-03-23] 
+
 
 ### Будь жесток
 Давид Икс

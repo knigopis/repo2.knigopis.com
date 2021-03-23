@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>89</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>15</sup> 
 [](users/118/118195892640941995591-google)<sup>1</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>325</sup> 
 
 
-_23.03.2021 06:41:10_
+_23.03.2021 09:24:46_
