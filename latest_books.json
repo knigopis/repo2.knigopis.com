@@ -1,4 +1,16 @@
 {
+    "JeNv577cUs": {
+        "id": "JeNv577cUs",
+        "title": "Дневник миссис Фрай",
+        "author": "Стивен Фрай",
+        "notes": "",
+        "createdAt": "2021-03-23 10:26:42",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 248
+        }
+    },
     "nP-ASSKBx3": {
         "id": "nP-ASSKBx3",
         "title": "Человек в поисках смысла",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 142
-        }
-    },
-    "oJvCUa_Cc_": {
-        "id": "oJvCUa_Cc_",
-        "title": "Первые среди лучших 2006",
-        "author": "",
-        "notes": "Рождественские детективы. Отличный сборник.   самая большая ценность успеха – это умение прятать свой неуспех.",
-        "createdAt": "2021-03-17 18:43:29",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 279
         }
     }
 }

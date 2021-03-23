@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>248</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>144</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>247</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118195892640941995591-google)<sup>1</sup> 
 
 
-_23.03.2021 09:24:46_
+_23.03.2021 10:26:42_
