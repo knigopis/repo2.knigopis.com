@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 71,
+        "updatedAt": "2021-03-23 16:38:17"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "Guzya",
         "booksCount": 1,
         "updatedAt": "2021-03-15 14:36:34"
-    },
-    "3448154788585127-facebook": {
-        "id": "3448154788585127-facebook",
-        "nickname": "Пу_тем",
-        "booksCount": 15,
-        "updatedAt": "2021-03-15 08:46:10"
     }
 }

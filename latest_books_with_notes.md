@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 * Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
 * Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
-* Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
 
 
-_23.03.2021 16:07:58_
+_23.03.2021 16:38:17_
