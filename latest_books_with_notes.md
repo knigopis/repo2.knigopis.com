@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
 * Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
 * Гарри Поттер и проклятое дитя ~ [aktoty](users/275/275766107-vkontakte)<sup>89</sup>
@@ -30,7 +31,6 @@
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
 * Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 * Красная таблетка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>8</sup>
-* Дар. Исчезающе в темноте 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>273</sup>
 
 
-_23.03.2021 16:05:42_
+_23.03.2021 16:07:58_
