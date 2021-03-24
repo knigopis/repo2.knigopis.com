@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>28</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/234/234992147-vkontakte)<sup>0</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>4</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>13</sup> 
-[Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 
 
-_24.03.2021 01:19:10_
+_24.03.2021 03:30:26_
