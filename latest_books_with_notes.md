@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
 * История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 * Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Materia prima (адепт) ~ [dromoman2008](users/444/44461886-yandex)<sup>23</sup>
 * Добрым демоном и пистолетом ~ [dromoman2008](users/444/44461886-yandex)<sup>22</sup>
 * Гостеприимный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>21</sup>
-* Кольцо бессмертной ~ [Chiffi](users/105/105831994080785626680-google)<sup>274</sup>
 
 
-_23.03.2021 16:38:17_
+_24.03.2021 01:19:10_

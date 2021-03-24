@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
+    > Все вы точно костры из сирого хвороста: как ни пыжитесь — все не можете разгореться.
+
 * История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
     > Наконец я закончила ее читать. Местами было интересно, и в целом неплохо, но слишком затянуто. Создаётся ощущение, что История –детская выдумка, без опоры на серьезные философские вопросы. Может потому что это книга для детей?
     > ______________
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 5
 
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
-    > Серия из 3 книг (искать продолжение)
-    > Героическая фантастика. Никита Зимин ради внучки друга отправляется в другой мир. Мир магический. Понравилось
-    > Оценка 5
 
 * Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Радикальное прощение ~ [Len4e91](users/254/254448176-yandex)<sup>13</sup>
 
-* Дети Хурина ~ [Garka](users/115/115753719718250012620-google)<sup>281</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>28</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>248</sup> 
@@ -60,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105362923714442300619-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>47</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>144</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
@@ -71,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Guzya](users/819/819285468208720-facebook)<sup>1</sup> 
 
 
-_23.03.2021 16:38:17_
+_24.03.2021 01:19:10_
