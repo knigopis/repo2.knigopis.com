@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 204,
+        "updatedAt": "2021-03-24 12:21:18"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "Shimpanze",
         "booksCount": 4,
         "updatedAt": "2021-03-16 06:16:10"
-    },
-    "100006761945842-facebook": {
-        "id": "100006761945842-facebook",
-        "nickname": "Somik",
-        "booksCount": 13,
-        "updatedAt": "2021-03-15 14:53:58"
     }
 }

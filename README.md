@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
 [](users/234/234992147-vkontakte)<sup>0</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>4</sup> 
-[Somik](users/100/100006761945842-facebook)<sup>13</sup> 
 
 
-_24.03.2021 03:30:26_
+_24.03.2021 12:21:18_
