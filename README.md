@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
+    > Мужчина после бара возвращается домой, там сосед профессор перевернул весь мир.
+
 * Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
     > Все вы точно костры из сирого хвороста: как ни пыжитесь — все не можете разгореться.
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > « В мире есть тысячи тысяч радостей, но, в сущности, все они — одна-единственная радость: радость любить. Любить и радоваться — это одно и то же»
 
 * Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
-    > Серия из пока 2 книг (искать продолжение)
-    > Альтернативная история. Попаданец в тело полицейского. Мир альтернативный, магический. Хорошо идет
-    > Оценка 5
 
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Чорна лихоманка: нелегальний видобуток вугілля на Донбасі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup>
 
-* Радикальное прощение ~ [Len4e91](users/254/254448176-yandex)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
 [](users/234/234992147-vkontakte)<sup>0</sup> 
-[Shimpanze](users/108/108324375224819470216-google)<sup>4</sup> 
 
 
-_24.03.2021 12:21:18_
+_24.03.2021 22:49:53_
