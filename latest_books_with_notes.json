@@ -1,4 +1,16 @@
 {
+    "l0mQYlRxtL": {
+        "id": "l0mQYlRxtL",
+        "title": "Портрет семьи",
+        "author": "Максим Георгиев",
+        "notes": "Мужчина, чьи портреты умирают. Рисует себя.",
+        "createdAt": "2021-03-25 09:54:31",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 181
+        }
+    },
     "2an9gYa6A4": {
         "id": "2an9gYa6A4",
         "title": "Убийство в Восточном экспрессе",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 35
-        }
-    },
-    "Va0tv4T4q8": {
-        "id": "Va0tv4T4q8",
-        "title": "Лестница ведьм",
-        "author": "Обухова Лена, Тимошенко Наталья",
-        "notes": "Мистика. Ответвление от цикла про Дворжака",
-        "createdAt": "2021-03-09 20:20:29",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 276
         }
     }
 }

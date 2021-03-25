@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
+    > Мужчина, чьи портреты умирают. Рисует себя.
+
 * Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
     > Хмммм, ну, в общем интересная. Но не прям пипец интересная.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
-    > audio
-    > Скарлет -- дура, но я подумаю об этом завтра.
 
 * Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
 
@@ -27,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
 
-* Гарри Поттер и проклятое дитя ~ [aktoty](users/275/275766107-vkontakte)<sup>89</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>37</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
 
 
-_25.03.2021 09:23:24_
+_25.03.2021 09:54:31_
