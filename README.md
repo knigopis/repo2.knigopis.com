@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[labrob2013](users/117/117887268417609457575-google)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>37</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
 
 
-_25.03.2021 07:06:05_
+_25.03.2021 08:11:29_
