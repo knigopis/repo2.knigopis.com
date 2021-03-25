@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>60</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
 
 
-_25.03.2021 09:54:31_
+_25.03.2021 20:25:11_

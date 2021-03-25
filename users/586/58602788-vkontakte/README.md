@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>59</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>60</sup>
 ---
 
 ## 2021
+
+### Пир
+Платон
+> [2021-03] 
+
 
 ### Апология Сократа
 Платон

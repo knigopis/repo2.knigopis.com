@@ -1,4 +1,16 @@
 {
+    "dzgX3LLVqd": {
+        "id": "dzgX3LLVqd",
+        "title": "Пир",
+        "author": "Платон",
+        "notes": "",
+        "createdAt": "2021-03-25 20:25:11",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 60
+        }
+    },
     "l0mQYlRxtL": {
         "id": "l0mQYlRxtL",
         "title": "Портрет семьи",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 846
-        }
-    },
-    "6_4WoHsFKk": {
-        "id": "6_4WoHsFKk",
-        "title": "Дети Хурина",
-        "author": "Толкин Джон Рональд Руэл",
-        "notes": "История Турина и Нионор. Было бы очень интересно, если бы краткую историю ранее не прочла в Сильмариллионе",
-        "createdAt": "2021-03-21 11:43:57",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 281
         }
     }
 }
