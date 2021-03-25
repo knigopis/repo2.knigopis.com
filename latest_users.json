@@ -1,4 +1,10 @@
 {
+    "117887268417609457575-google": {
+        "id": "117887268417609457575-google",
+        "nickname": "labrob2013",
+        "booksCount": 0,
+        "updatedAt": "2021-03-25 08:11:29"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 84,
         "updatedAt": "2021-03-17 01:48:40"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 148,
-        "updatedAt": "2021-03-16 22:36:55"
     }
 }
