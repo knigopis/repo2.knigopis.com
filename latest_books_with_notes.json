@@ -1,4 +1,16 @@
 {
+    "5F9D_nBdD4": {
+        "id": "5F9D_nBdD4",
+        "title": "Девять миллиардов имен Бога",
+        "author": "Артур Кларк",
+        "notes": "audio",
+        "createdAt": "2021-03-25 07:06:05",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 37
+        }
+    },
     "E9f9FKwrQ_": {
         "id": "E9f9FKwrQ_",
         "title": "Унесенные ветром",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 174
-        }
-    },
-    "mk-MXgHxNi": {
-        "id": "mk-MXgHxNi",
-        "title": "Materia prima (адепт)",
-        "author": "Адам Пшехта",
-        "notes": "Героическая фантастика\nВаршава начало 20 века, анклав с демонами. Польский алхимик Олаф Рудницкий в месте с офицером  царской гвардии встает на пути смертельной опасности.",
-        "createdAt": "2021-03-06 16:11:18",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 23
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
+    > audio
+
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
     > audio
     > Скарлет -- дура, но я подумаю об этом завтра.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Мужчина после бара возвращается домой, там сосед профессор перевернул весь мир.
 
 * Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
-    > Все вы точно костры из сирого хвороста: как ни пыжитесь — все не можете разгореться.
 
 * История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup>
 
-* Хулій Хурина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vitasoft](users/474/47446642-vkontakte)<sup>36</sup> 
+[vitasoft](users/474/47446642-vkontakte)<sup>37</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>148</sup> 
 
 
-_25.03.2021 06:58:57_
+_25.03.2021 07:06:05_
