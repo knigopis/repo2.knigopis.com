@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
+    > Хмммм, ну, в общем интересная. Но не прям пипец интересная.
+
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
     > audio
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Скарлет -- дура, но я подумаю об этом завтра.
 
 * Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
-    > Мужчина после бара возвращается домой, там сосед профессор перевернул весь мир.
 
 * Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и проклятое дитя ~ [aktoty](users/275/275766107-vkontakte)<sup>89</sup>
 
-* Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>37</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
-[aktoty](users/275/275766107-vkontakte)<sup>89</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>16</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>61</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>84</sup> 
 
 
-_25.03.2021 08:11:57_
+_25.03.2021 09:23:24_

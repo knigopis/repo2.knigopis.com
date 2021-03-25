@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
 * Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
@@ -30,7 +31,6 @@
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
 * Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
 * Лестница ведьм ~ [Chiffi](users/105/105831994080785626680-google)<sup>276</sup>
-* Феміністки не носять рожевого та інші вигадки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>174</sup>
 
 
-_25.03.2021 07:06:05_
+_25.03.2021 09:23:24_
