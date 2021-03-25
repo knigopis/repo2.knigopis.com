@@ -1,4 +1,16 @@
 {
+    "E9f9FKwrQ_": {
+        "id": "E9f9FKwrQ_",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "audio\nСкарлет -- дура, но я подумаю об этом завтра.",
+        "createdAt": "2021-03-25 06:58:57",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 36
+        }
+    },
     "xgLa1LFMQr": {
         "id": "xgLa1LFMQr",
         "title": "Подъезд",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 23
-        }
-    },
-    "CT-CLMUVty": {
-        "id": "CT-CLMUVty",
-        "title": "Добрым демоном и пистолетом",
-        "author": "Мамбурин Харитон Байконурович",
-        "notes": "Продолжение\nСерия пока из 1 книги\nСтимпанк. Попаданец в параллельный мир без нефти и газа но с эфиром, 4 сын на учебе в Японии. \nОценка 4",
-        "createdAt": "2021-03-06 16:07:20",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 22
         }
     }
 }
