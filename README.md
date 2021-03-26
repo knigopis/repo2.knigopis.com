@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>85</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>847</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>29</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>47</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
 
 
-_26.03.2021 16:02:03_
+_26.03.2021 18:16:21_
