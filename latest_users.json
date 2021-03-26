@@ -1,4 +1,10 @@
 {
+    "108343313645150344223-google": {
+        "id": "108343313645150344223-google",
+        "nickname": " Potokolov",
+        "booksCount": 0,
+        "updatedAt": "2021-03-26 21:23:00"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Malysha",
         "booksCount": 3,
         "updatedAt": "2021-03-19 08:37:39"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 408,
-        "updatedAt": "2021-03-17 18:17:26"
     }
 }
