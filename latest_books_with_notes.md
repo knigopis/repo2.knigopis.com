@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
 * Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
 * Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
 * Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
-* Алхимик ~ [dghtt](users/233/233860015-vkontakte)<sup>35</sup>
 
 
-_25.03.2021 09:54:31_
+_26.03.2021 03:33:31_

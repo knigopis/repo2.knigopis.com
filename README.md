@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
+    > Боевая фантастика, Фэнтези
+    > Дочитал продолжение - довольно интересно автор пишет. Перенос в магический средневековый мир
+    > Оценка 4
+
 * Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
     > Мужчина, чьи портреты умирают. Рисует себя.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Хмммм, ну, в общем интересная. Но не прям пипец интересная.
 
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
-    > audio
 
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
 
-* Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>29</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup> 
@@ -43,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>28</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>248</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>159</sup> 
 
 
-_25.03.2021 22:43:32_
+_26.03.2021 03:33:31_
