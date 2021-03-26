@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bubnoovi](users/104/104855896250239351009-google)<sup>0</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>85</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 [](users/105/105362923714442300619-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>47</sup> 
-[Malysha](users/412/4129490930435358-facebook)<sup>3</sup> 
 
 
-_26.03.2021 21:24:46_
+_26.03.2021 21:45:34_
