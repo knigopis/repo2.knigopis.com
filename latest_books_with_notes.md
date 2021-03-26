@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
 * Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
 * Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
 * Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
@@ -30,7 +31,6 @@
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
 * FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
-* Виктор Глухов (серия из 11 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>24</sup>
 
 
-_26.03.2021 03:33:31_
+_26.03.2021 19:12:06_

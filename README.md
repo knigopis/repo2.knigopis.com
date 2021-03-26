@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
+    > Молодой человек! если записки мои попадутся в твои руки, вспомни, что лучшие и прочнейшие изменения суть те, которые происходят от улучшения нравов, без всяких насильственных потрясений.
+
 * Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
     > Боевая фантастика, Фэнтези
     > Дочитал продолжение - довольно интересно автор пишет. Перенос в магический средневековый мир
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Мужчина, чьи портреты умирают. Рисует себя.
 
 * Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
-    > Хмммм, ну, в общем интересная. Но не прям пипец интересная.
 
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
 
-* Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>85</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>847</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>29</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>37</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>248</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>408</sup> 
 
 
-_26.03.2021 18:16:21_
+_26.03.2021 19:12:06_
