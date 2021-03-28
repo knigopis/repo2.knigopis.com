@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
 * Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
 * Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
 * Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
@@ -30,7 +31,6 @@
 * Нація овочів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup>
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
 * Апология Сократа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>59</sup>
-* FERA Апокалипсис пособие по выживанию ~ [dromoman2008](users/444/44461886-yandex)<sup>25</sup>
 
 
-_26.03.2021 19:12:06_
+_28.03.2021 11:46:20_

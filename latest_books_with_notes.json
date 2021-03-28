@@ -1,4 +1,16 @@
 {
+    "BVXwE4wpgp": {
+        "id": "BVXwE4wpgp",
+        "title": "Джакузи для Офелии",
+        "author": "Александрова Наталья",
+        "notes": "33 книжка про Лолу и Маркиза. Милый детектив, милые зверушки.",
+        "createdAt": "2021-03-28 11:46:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 282
+        }
+    },
     "pi09CFWyYo": {
         "id": "pi09CFWyYo",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 59
-        }
-    },
-    "JM5CqYzAGN": {
-        "id": "JM5CqYzAGN",
-        "title": "FERA Апокалипсис пособие по выживанию",
-        "author": "Тихий Алексей Владимирович",
-        "notes": "Ужасы мистика\nОценка 4",
-        "createdAt": "2021-03-13 05:37:13",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 25
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "BVXwE4wpgp": {
+        "id": "BVXwE4wpgp",
+        "title": "Джакузи для Офелии",
+        "author": "Александрова Наталья",
+        "notes": "33 книжка про Лолу и Маркиза. Милый детектив, милые зверушки.",
+        "createdAt": "2021-03-28 11:46:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 282
+        }
+    },
     "8PMsQfDb18": {
         "id": "8PMsQfDb18",
         "title": "Худеющий",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 89
-        }
-    },
-    "9aU6sfYOPW": {
-        "id": "9aU6sfYOPW",
-        "title": "Истории из лёгкой и мгновенной жизни",
-        "author": "Захар Прилепин",
-        "notes": "",
-        "createdAt": "2021-03-22 18:43:06",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 16
         }
     }
 }
