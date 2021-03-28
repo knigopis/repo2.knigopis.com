@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>163</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>282</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
@@ -62,9 +63,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>13</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>281</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>162</sup> 
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_28.03.2021 11:46:20_
+_28.03.2021 16:30:55_
