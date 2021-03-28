@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>86</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>163</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>282</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>409</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>85</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>847</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>29</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_28.03.2021 16:30:55_
+_28.03.2021 17:05:20_
