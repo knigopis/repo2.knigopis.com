@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>179</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>180</sup>
 ---
 
 ## 2021
+
+### "Світлий шлях". Історія одного концтабору
+Станіслав Асєєв
+> [2021-03-28] 10/10 Колишній військовополонений донецької "Ізоляції" розповідає про катування.
+
 
 ### Чудный олень вечной охоты
 Светлана Алексиевич

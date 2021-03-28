@@ -1,4 +1,16 @@
 {
+    "3AIkTpCwg-": {
+        "id": "3AIkTpCwg-",
+        "title": "\"Світлий шлях\". Історія одного концтабору",
+        "author": "Станіслав Асєєв",
+        "notes": "10/10 Колишній військовополонений донецької \"Ізоляції\" розповідає про катування.",
+        "createdAt": "2021-03-28 17:05:58",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 180
+        }
+    },
     "dTsJNUQIVt": {
         "id": "dTsJNUQIVt",
         "title": "Эра мореходов",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "Evermind",
             "booksCount": 56
-        }
-    },
-    "MrPctQBGNZ": {
-        "id": "MrPctQBGNZ",
-        "title": "Вселенная. Краткий путеводитель по пространству и времени",
-        "author": "С. Попов",
-        "notes": "",
-        "createdAt": "2021-03-23 06:41:10",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 89
         }
     }
 }

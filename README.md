@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
+    > 10/10 Колишній військовополонений донецької "Ізоляції" розповідає про катування.
+
 * Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
     > 33 книжка про Лолу и Маркиза. Милый детектив, милые зверушки.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Молодой человек! если записки мои попадутся в твои руки, вспомни, что лучшие и прочнейшие изменения суть те, которые происходят от улучшения нравов, без всяких насильственных потрясений.
 
 * Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
-    > Боевая фантастика, Фэнтези
-    > Дочитал продолжение - довольно интересно автор пишет. Перенос в магический средневековый мир
-    > Оценка 4
 
 * Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
 
-* История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>86</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>163</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>282</sup> 
@@ -58,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>13</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_28.03.2021 17:05:20_
+_28.03.2021 17:05:58_
