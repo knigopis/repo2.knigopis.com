@@ -1,4 +1,10 @@
 {
+    "103759789460787995323-google": {
+        "id": "103759789460787995323-google",
+        "nickname": "Alyona_Zolotinka",
+        "booksCount": 0,
+        "updatedAt": "2021-03-28 05:18:36"
+    },
     "104855896250239351009-google": {
         "id": "104855896250239351009-google",
         "nickname": "bubnoovi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-03-19 13:17:02"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 47,
-        "updatedAt": "2021-03-19 10:19:57"
     }
 }
