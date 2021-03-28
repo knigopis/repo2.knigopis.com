@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>162</sup> 
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
-[](users/105/105362923714442300619-google)<sup>0</sup> 
 
 
-_28.03.2021 05:18:37_
+_28.03.2021 10:12:19_

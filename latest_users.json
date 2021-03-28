@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 409,
+        "updatedAt": "2021-03-28 10:12:18"
+    },
     "103759789460787995323-google": {
         "id": "103759789460787995323-google",
         "nickname": "Alyona_Zolotinka",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 113,
         "updatedAt": "2021-03-19 19:00:41"
-    },
-    "105362923714442300619-google": {
-        "id": "105362923714442300619-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-03-19 13:17:02"
     }
 }
