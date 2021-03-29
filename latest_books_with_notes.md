@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>283</sup>
 * "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
 * Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
@@ -30,7 +31,6 @@
 * Sapiens ~ [anvonamore](users/595/5957175-vkontakte)<sup>148</sup>
 * Мир Софии (аудио) ~ [Somik](users/100/100006761945842-facebook)<sup>9</sup>
 * Нація овочів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>175</sup>
-* Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>278</sup>
 
 
-_29.03.2021 11:31:41_
+_29.03.2021 12:54:28_

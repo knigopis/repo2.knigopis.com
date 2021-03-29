@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
+    > audio
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>283</sup>
     > провокация на действие.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Колишній військовополонений донецької "Ізоляції" розповідає про катування.
 
 * Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
-    > 33 книжка про Лолу и Маркиза. Милый детектив, милые зверушки.
 
 * Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
 
-* Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>283</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>86</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>37</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_29.03.2021 11:31:41_
+_29.03.2021 12:54:28_
