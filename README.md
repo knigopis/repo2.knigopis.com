@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>147</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>283</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>847</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>29</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_29.03.2021 12:54:28_
+_29.03.2021 15:13:01_

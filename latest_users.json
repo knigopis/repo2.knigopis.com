@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 147,
+        "updatedAt": "2021-03-29 15:13:01"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -52,12 +58,6 @@
         "nickname": " Potokolov",
         "booksCount": 1,
         "updatedAt": "2021-03-26 21:24:46"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 146,
-        "updatedAt": "2021-03-26 19:12:06"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
