@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 283,
+        "updatedAt": "2021-03-29 11:31:41"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -16,12 +22,6 @@
         "nickname": "exulted",
         "booksCount": 163,
         "updatedAt": "2021-03-28 16:30:55"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 282,
-        "updatedAt": "2021-03-28 11:46:20"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

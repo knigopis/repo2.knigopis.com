@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>283</sup>
+    > провокация на действие.
+
 * "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
     > 10/10 Колишній військовополонений донецької "Ізоляції" розповідає про катування.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 33 книжка про Лолу и Маркиза. Милый детектив, милые зверушки.
 
 * Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
-    > Молодой человек! если записки мои попадутся в твои руки, вспомни, что лучшие и прочнейшие изменения суть те, которые происходят от улучшения нравов, без всяких насильственных потрясений.
 
 * Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
 
-* Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>283</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>86</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>163</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>282</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_28.03.2021 17:05:58_
+_29.03.2021 11:31:41_

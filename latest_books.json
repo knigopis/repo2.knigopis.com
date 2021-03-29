@@ -1,4 +1,16 @@
 {
+    "sGqsCTi_3J": {
+        "id": "sGqsCTi_3J",
+        "title": "",
+        "author": "",
+        "notes": "провокация на действие.",
+        "createdAt": "2021-03-29 11:31:41",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 283
+        }
+    },
     "3AIkTpCwg-": {
         "id": "3AIkTpCwg-",
         "title": "\"Світлий шлях\". Історія одного концтабору",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 248
-        }
-    },
-    "nP-ASSKBx3": {
-        "id": "nP-ASSKBx3",
-        "title": "Человек в поисках смысла",
-        "author": "Виктор Франкл",
-        "notes": "",
-        "createdAt": "2021-03-23 09:24:46",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "Evermind",
-            "booksCount": 56
         }
     }
 }
