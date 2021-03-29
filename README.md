@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Юшка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup>
+    > А чего я тебе, чем я вам мешаю!.. Я жить родителями поставлен, я по закону родился, я тоже всему свету нужен, как и ты, без меня тоже, значит, нельзя!..
+
 * Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > провокация на действие.
 
 * "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
-    > 10/10 Колишній військовополонений донецької "Ізоляції" розповідає про катування.
 
 * Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
 
-* Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>148</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>283</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_29.03.2021 15:48:12_
+_29.03.2021 16:03:42_
