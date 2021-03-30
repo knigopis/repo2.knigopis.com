@@ -1,7 +1,12 @@
-# List of books read by Elixir<sup>428</sup>
+# List of books read by Elixir<sup>429</sup>
 ---
 
 ## 2021
+
+### Сила момента сейчас
+Толле, Экхарт
+> [2021-03-30] 
+
 
 ### Жизнь после жизни
 Моуди, Раймонд

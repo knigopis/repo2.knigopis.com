@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>30</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>281</sup> 
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_30.03.2021 06:24:06_
+_30.03.2021 11:43:07_
