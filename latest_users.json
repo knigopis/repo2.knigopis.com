@@ -1,4 +1,10 @@
 {
+    "174733033-vkontakte": {
+        "id": "174733033-vkontakte",
+        "nickname": "Agmych",
+        "booksCount": 0,
+        "updatedAt": "2021-03-30 17:19:36"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 281,
         "updatedAt": "2021-03-21 11:43:57"
-    },
-    "210927617-yandex": {
-        "id": "210927617-yandex",
-        "nickname": "kokina93",
-        "booksCount": 0,
-        "updatedAt": "2021-03-20 06:56:11"
     }
 }
