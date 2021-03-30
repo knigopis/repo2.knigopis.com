@@ -1,4 +1,16 @@
 {
+    "cODaZLWPpv": {
+        "id": "cODaZLWPpv",
+        "title": "",
+        "author": "Маленький принц",
+        "notes": "",
+        "createdAt": "2021-03-30 17:21:52",
+        "user": {
+            "id": "174733033-vkontakte",
+            "nickname": "Agmych",
+            "booksCount": 1
+        }
+    },
     "AkuRTiKaZa": {
         "id": "AkuRTiKaZa",
         "title": "Пойман с поличным",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 180
-        }
-    },
-    "zyh9GoaoPX": {
-        "id": "zyh9GoaoPX",
-        "title": "Зачем мы спим. Новая наука о сне и сновидениях",
-        "author": "Мэттью Уолкер",
-        "notes": "",
-        "createdAt": "2021-03-24 12:21:18",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 204
         }
     }
 }
