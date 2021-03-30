@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
+    > и я часто думал, как много потерял и жизни, потеряв доверчивость, и как мало приобрел, приобретя осторожность.
+
 * Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
     > Искать продолжение.
     > Серия пока из 1 книги. Альтернативная история. Приблатненным главным героям попадает переносной портал и будущее. Приблатненный жаргон
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > А чего я тебе, чем я вам мешаю!.. Я жить родителями поставлен, я по закону родился, я тоже всему свету нужен, как и ты, без меня тоже, значит, нельзя!..
 
 * Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
-    > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>283</sup>
 
@@ -28,16 +30,14 @@ Do not use pull requests to make changes here.
 
 * Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
 
-* Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>30</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>283</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kokina93](users/210/210927617-yandex)<sup>0</sup> 
 
 
-_30.03.2021 11:43:07_
+_30.03.2021 15:34:36_
