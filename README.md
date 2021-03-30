@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
+    > Искать продолжение.
+    > Серия пока из 1 книги. Альтернативная история. Приблатненным главным героям попадает переносной портал и будущее. Приблатненный жаргон
+    > Оценка 4
+
 * Юшка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup>
     > А чего я тебе, чем я вам мешаю!.. Я жить родителями поставлен, я по закону родился, я тоже всему свету нужен, как и ты, без меня тоже, значит, нельзя!..
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>283</sup>
-    > провокация на действие.
 
 * "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
 
-* Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>30</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>283</sup> 
@@ -44,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>847</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>29</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>113</sup> 
 
 
-_29.03.2021 16:03:42_
+_30.03.2021 06:24:06_
