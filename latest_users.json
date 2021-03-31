@@ -1,4 +1,10 @@
 {
+    "213314465-vkontakte": {
+        "id": "213314465-vkontakte",
+        "nickname": "alles_fur_rei",
+        "booksCount": 0,
+        "updatedAt": "2021-03-31 22:32:22"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Len4e91",
         "booksCount": 13,
         "updatedAt": "2021-03-21 19:07:34"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tumturumk",
-        "booksCount": 7,
-        "updatedAt": "2021-03-21 14:13:02"
     }
 }
