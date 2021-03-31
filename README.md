@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>249</sup> 
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>16</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>248</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>281</sup> 
 
 
-_30.03.2021 17:21:52_
+_31.03.2021 06:55:23_
