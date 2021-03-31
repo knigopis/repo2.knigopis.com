@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alles_fur_rei](users/213/213314465-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>282</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>17</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>13</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
 
 
-_31.03.2021 16:05:22_
+_31.03.2021 22:32:23_
