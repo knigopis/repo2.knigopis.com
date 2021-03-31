@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
+    > Хорошая книга, понятно описываются техники медитации, много полезных советов. Но всё-таки большая часть советов не для среднестатистического жителя России, а для людей с доходом выше среднего.
+
 * Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
     > и я часто думал, как много потерял и жизни, потеряв доверчивость, и как мало приобрел, приобретя осторожность.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 * Юшка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup>
-    > А чего я тебе, чем я вам мешаю!.. Я жить родителями поставлен, я по закону родился, я тоже всему свету нужен, как и ты, без меня тоже, значит, нельзя!..
 
 * Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
 
-* Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>282</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>249</sup> 
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>61</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>13</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>7</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>281</sup> 
 
 
-_31.03.2021 08:33:21_
+_31.03.2021 15:46:58_
