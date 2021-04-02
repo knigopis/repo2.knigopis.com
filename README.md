@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>251</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>101</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
-[iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
 
 
-_02.04.2021 18:55:14_
+_02.04.2021 19:10:06_
