@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>251</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>848</sup> 
 [](users/116/116248373007179178601-google)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>250</sup> 
 [alles_fur_rei](users/213/213314465-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>282</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
 
 
-_02.04.2021 09:32:25_
+_02.04.2021 11:17:34_
