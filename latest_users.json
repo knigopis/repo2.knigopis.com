@@ -1,4 +1,10 @@
 {
+    "116248373007179178601-google": {
+        "id": "116248373007179178601-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-04-02 09:09:20"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 61,
         "updatedAt": "2021-03-22 10:09:13"
-    },
-    "254448176-yandex": {
-        "id": "254448176-yandex",
-        "nickname": "Len4e91",
-        "booksCount": 13,
-        "updatedAt": "2021-03-21 19:07:34"
     }
 }
