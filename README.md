@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116248373007179178601-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>250</sup> 
 [alles_fur_rei](users/213/213314465-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>89</sup> 
 [iztuesz](users/100/100877468102766148730-google)<sup>20</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>61</sup> 
-[Len4e91](users/254/254448176-yandex)<sup>13</sup> 
 
 
-_01.04.2021 06:34:28_
+_02.04.2021 09:09:20_
