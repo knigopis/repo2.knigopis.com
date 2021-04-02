@@ -1,4 +1,16 @@
 {
+    "_pDyjdHfI3": {
+        "id": "_pDyjdHfI3",
+        "title": "Битва королей",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2021-04-02 09:32:25",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 101
+        }
+    },
     "6dj_hR6lSP": {
         "id": "6dj_hR6lSP",
         "title": "Дом у канала",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 61
-        }
-    },
-    "dzgX3LLVqd": {
-        "id": "dzgX3LLVqd",
-        "title": "Пир",
-        "author": "Платон",
-        "notes": "",
-        "createdAt": "2021-03-25 20:25:11",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 60
         }
     }
 }

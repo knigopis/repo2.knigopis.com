@@ -1,4 +1,4 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>100</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>101</sup>
 ---
 
 ## 2021
@@ -21,6 +21,10 @@
 ### Темная башня
 Стивен Кинг
 > [2021-02-15] 27.01.2021-15.02.2021г
+
+
+### Битва королей
+Джордж Мартин
 
 
 ### Убийца
