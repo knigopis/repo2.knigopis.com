@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
+    > Алтарь, к которому жертва мужчина сам захотел прийти "раскрыть" тайну.
+
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
     > Убийца прислали живых солдатиков.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Передача про Вия и продажу душ
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>284</sup>
-    > страшные угрозы – удел глупцов.Слова, что сотрясают воздух. Они бессмысленны. И не требуются умному человеку. Он не должен принижать себя, наступая босыми ногами в свиное дерьмо. Нет. Это ниже достоинства, тех, кто не касается земли.
-    > 	Людей благородных.
-    > 	«Я расстроюсь» вполне достаточно.
 
 * Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
 
-* Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 [Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 
 
-_03.04.2021 17:14:36_
+_03.04.2021 17:36:50_
