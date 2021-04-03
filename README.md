@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
+    > Мужчина разговаривает с призракам, его сводный брат умер, он узнал, что это такая же как он девушка, мёртвая заставила его убить себя. Он мстит сожжением тела Королевы.
+
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
     > Алтарь, к которому жертва мужчина сам захотел прийти "раскрыть" тайну.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Убийца прислали живых солдатиков.
 
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
-    > Передача про Вия и продажу душ
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>284</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
 
-* "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>57</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 [Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_03.04.2021 20:19:47_
+_03.04.2021 20:22:12_

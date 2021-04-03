@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
@@ -30,7 +31,6 @@
 * Чорна лихоманка: нелегальний видобуток вугілля на Донбасі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup>
 * Радикальное прощение ~ [Len4e91](users/254/254448176-yandex)<sup>13</sup>
 * Дети Хурина ~ [Garka](users/115/115753719718250012620-google)<sup>281</sup>
-* Хроники странствующего кота ~ [Garka](users/115/115753719718250012620-google)<sup>280</sup>
 
 
-_03.04.2021 17:36:50_
+_03.04.2021 20:22:12_
