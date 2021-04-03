@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>57</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_03.04.2021 20:11:13_
+_03.04.2021 20:19:47_

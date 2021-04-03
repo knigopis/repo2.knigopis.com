@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>17</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>18</sup>
 ---
 
 ## 2021
+
+### Не чужая смута. Один день - один год
+Захар Прилепин
+> [2021-04] 
+
 
 ### Дзен а искусстве написания книг
 Рэй Брэдбери
