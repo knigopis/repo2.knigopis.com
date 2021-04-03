@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>57</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 [Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>71</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 
 
-_03.04.2021 17:36:50_
+_03.04.2021 18:33:36_
