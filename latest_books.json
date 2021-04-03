@@ -1,4 +1,16 @@
 {
+    "WOjI_1NFmt": {
+        "id": "WOjI_1NFmt",
+        "title": "Война миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2021-04-03 20:11:13",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 48
+        }
+    },
     "dwY3uwKfF1": {
         "id": "dwY3uwKfF1",
         "title": "Цель: процесс непрерывного совершенствования",
@@ -341,18 +353,6 @@
         "author": "Xbzj",
         "notes": "",
         "createdAt": "2021-03-26 21:24:46",
-        "user": {
-            "id": "108343313645150344223-google",
-            "nickname": " Potokolov",
-            "booksCount": 1
-        }
-    },
-    "4U67lagIko": {
-        "id": "4U67lagIko",
-        "title": "",
-        "author": "Drygv",
-        "notes": "",
-        "createdAt": "2021-03-26 21:23:47",
         "user": {
             "id": "108343313645150344223-google",
             "nickname": " Potokolov",

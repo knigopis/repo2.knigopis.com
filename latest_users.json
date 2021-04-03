@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 48,
+        "updatedAt": "2021-04-03 20:11:13"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "Evermind",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 204,
         "updatedAt": "2021-03-24 12:21:18"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 71,
-        "updatedAt": "2021-03-23 16:38:17"
     }
 }
