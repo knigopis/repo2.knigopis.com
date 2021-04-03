@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
+    > Убийца прислали живых солдатиков.
+
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
     > Передача про Вия и продажу душ
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 	«Я расстроюсь» вполне достаточно.
 
 * Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
-    > Хорошая книга, понятно описываются техники медитации, много полезных советов. Но всё-таки большая часть советов не для среднестатистического жителя России, а для людей с доходом выше среднего.
 
 * Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
 
-* Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 [Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 
 
-_03.04.2021 16:22:56_
+_03.04.2021 17:14:36_
