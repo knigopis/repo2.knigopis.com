@@ -1,4 +1,10 @@
 {
+    "4129490930435358-facebook": {
+        "id": "4129490930435358-facebook",
+        "nickname": "Malysha",
+        "booksCount": 4,
+        "updatedAt": "2021-04-03 15:00:54"
+    },
     "106329452642535622141-google": {
         "id": "106329452642535622141-google",
         "nickname": "Саша ",
@@ -172,11 +178,5 @@
         "nickname": "Evermind",
         "booksCount": 56,
         "updatedAt": "2021-03-23 09:24:46"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 89,
-        "updatedAt": "2021-03-23 06:41:10"
     }
 }
