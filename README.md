@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
+    > Передача про Вия и продажу душ
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>284</sup>
     > страшные угрозы – удел глупцов.Слова, что сотрясают воздух. Они бессмысленны. И не требуются умному человеку. Он не должен принижать себя, наступая босыми ногами в свиное дерьмо. Нет. Это ниже достоинства, тех, кто не касается земли.
     > 	Людей благородных.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга, понятно описываются техники медитации, много полезных советов. Но всё-таки большая часть советов не для среднестатистического жителя России, а для людей с доходом выше среднего.
 
 * Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
-    > и я часто думал, как много потерял и жизни, потеряв доверчивость, и как мало приобрел, приобретя осторожность.
 
 * Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
 
-* Феникс (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 [Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>56</sup> 
 
 
-_03.04.2021 15:00:54_
+_03.04.2021 16:22:56_
