@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
 * Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 * Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
@@ -30,7 +31,6 @@
 * Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
 * Гарри Поттер и проклятое дитя ~ [aktoty](users/275/275766107-vkontakte)<sup>89</sup>
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup>
-* Хулій Хурина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
 
 
-_04.04.2021 14:35:19_
+_04.04.2021 14:37:14_

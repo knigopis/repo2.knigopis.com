@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>181</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>182</sup>
 ---
 
 ## 2021
+
+### Чорнобиль: я бачив
+Володимир Шовкошитний
+> [2021-04-02] 6/10 Технічний опис аварії художньо-документальний роман.
+
 
 ### "Світлий шлях". Історія одного концтабору
 Станіслав Асєєв

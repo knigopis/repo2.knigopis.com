@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
+    > 6/10 Технічний опис аварії художньо-документальний роман.
+
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
     > 10/10 Доктор-оповідач скоює вбивство у тихому англійському селі.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Четверная книга серии. Я надеялась, что это будет окончание, но ощущение, что смотрела боевик. Куча драк, перемещений и сплошной сумбур.
 
 * Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
-    > Подлый покупатель хотел обмануть продавца индуса.
 
 * Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
 
-* Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_04.04.2021 14:35:19_
+_04.04.2021 14:37:14_
