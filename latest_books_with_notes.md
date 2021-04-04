@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
@@ -30,7 +31,6 @@
 * Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
 * Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
-* Гарри Поттер и проклятое дитя ~ [aktoty](users/275/275766107-vkontakte)<sup>89</sup>
 
 
-_04.04.2021 14:38:17_
+_04.04.2021 14:39:34_

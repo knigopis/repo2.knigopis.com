@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
+    > 9/10 Доктор-оповідач скоює вбивство у тихому англійському селі.
+
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
     > 9/10 Нелінійній фантастичний роман про зоряні війни у жанрі альтернативної історії.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Технічний опис аварії художньо-документальний роман.
 
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
-    > 10/10 Доктор-оповідач скоює вбивство у тихому англійському селі.
 
 * Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>284</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_04.04.2021 14:38:17_
+_04.04.2021 14:39:34_
