@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
+    > Четверная книга серии. Я надеялась, что это будет окончание, но ощущение, что смотрела боевик. Куча драк, перемещений и сплошной сумбур.
+
 * Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
     > Подлый покупатель хотел обмануть продавца индуса.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мужчина разговаривает с призракам, его сводный брат умер, он узнал, что это такая же как он девушка, мёртвая заставила его убить себя. Он мстит сожжением тела Королевы.
 
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
-    > Алтарь, к которому жертва мужчина сам захотел прийти "раскрыть" тайну.
 
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
 
-* Юшка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>57</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 [Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>251</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>848</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_04.04.2021 08:46:07_
+_04.04.2021 12:28:04_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 * Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
 * Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
@@ -30,7 +31,6 @@
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup>
 * Хулій Хурина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
 * Чорна лихоманка: нелегальний видобуток вугілля на Донбасі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup>
-* Радикальное прощение ~ [Len4e91](users/254/254448176-yandex)<sup>13</sup>
 
 
-_04.04.2021 08:46:07_
+_04.04.2021 12:28:04_
