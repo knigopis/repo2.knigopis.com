@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
 * Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
@@ -30,7 +31,6 @@
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
 * Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
 * Гарри Поттер и проклятое дитя ~ [aktoty](users/275/275766107-vkontakte)<sup>89</sup>
-* Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>179</sup>
 
 
-_04.04.2021 14:37:14_
+_04.04.2021 14:38:17_

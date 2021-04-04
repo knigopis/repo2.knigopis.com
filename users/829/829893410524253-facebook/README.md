@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>182</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>183</sup>
 ---
 
 ## 2021
+
+### Заколот
+Володимир Кузнєцов
+> [2021-04-04] 9/10 Нелінійній фантастичний роман про зоряні війни у жанрі альтернативної історії.
+
 
 ### Чорнобиль: я бачив
 Володимир Шовкошитний
