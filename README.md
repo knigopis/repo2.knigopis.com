@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
+    > 10/10 Доктор-оповідач скоює вбивство у тихому англійському селі.
+
 * Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
     > Четверная книга серии. Я надеялась, что это будет окончание, но ощущение, что смотрела боевик. Куча драк, перемещений и сплошной сумбур.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Подлый покупатель хотел обмануть продавца индуса.
 
 * Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
-    > Мужчина разговаривает с призракам, его сводный брат умер, он узнал, что это такая же как он девушка, мёртвая заставила его убить себя. Он мстит сожжением тела Королевы.
 
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
 
-* Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>30</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>163</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_04.04.2021 12:28:04_
+_04.04.2021 14:35:19_
