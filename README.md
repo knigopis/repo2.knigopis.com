@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 [labrob2013](users/117/117887268417609457575-google)<sup>1</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_04.04.2021 14:39:34_
+_04.04.2021 14:52:52_
