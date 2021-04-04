@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 90,
+        "updatedAt": "2021-04-04 21:01:49"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "aktoty",
         "booksCount": 90,
         "updatedAt": "2021-03-25 09:23:24"
-    },
-    "117887268417609457575-google": {
-        "id": "117887268417609457575-google",
-        "nickname": "labrob2013",
-        "booksCount": 1,
-        "updatedAt": "2021-03-25 08:11:57"
     }
 }
