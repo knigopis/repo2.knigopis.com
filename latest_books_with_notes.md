@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
 * Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
@@ -30,7 +31,6 @@
 * Хулій Хурина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>178</sup>
 * Чорна лихоманка: нелегальний видобуток вугілля на Донбасі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>177</sup>
 * Радикальное прощение ~ [Len4e91](users/254/254448176-yandex)<sup>13</sup>
-* Дети Хурина ~ [Garka](users/115/115753719718250012620-google)<sup>281</sup>
 
 
-_03.04.2021 20:22:12_
+_04.04.2021 08:46:07_

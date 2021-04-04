@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
+    > Подлый покупатель хотел обмануть продавца индуса.
+
 * Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
     > Мужчина разговаривает с призракам, его сводный брат умер, он узнал, что это такая же как он девушка, мёртвая заставила его убить себя. Он мстит сожжением тела Королевы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Алтарь, к которому жертва мужчина сам захотел прийти "раскрыть" тайну.
 
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
-    > Убийца прислали живых солдатиков.
 
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Юшка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup>
 
-* Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>57</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>204</sup> 
 
 
-_03.04.2021 20:22:12_
+_04.04.2021 08:46:07_
