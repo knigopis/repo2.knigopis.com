@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
+    > Деревня, в которой убили цыган и теперь пропадают люди.
+
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
     > Сделка с дьяволом против лучшего друга.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Доктор-оповідач скоює вбивство у тихому англійському селі.
 
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
-    > 9/10 Нелінійній фантастичний роман про зоряні війни у жанрі альтернативної історії.
 
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
 
-* Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>90</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
 [☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 
 
-_05.04.2021 11:45:14_
+_05.04.2021 12:23:59_

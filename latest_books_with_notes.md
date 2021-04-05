@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
@@ -30,7 +31,6 @@
 * Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
 * История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 * Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
-* Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
 
 
-_05.04.2021 11:45:14_
+_05.04.2021 12:23:59_
