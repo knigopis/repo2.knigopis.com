@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
+    > Сделка с дьяволом против лучшего друга.
+
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
     > 9/10 Доктор-оповідач скоює вбивство у тихому англійському селі.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Нелінійній фантастичний роман про зоряні війни у жанрі альтернативної історії.
 
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
-    > 6/10 Технічний опис аварії художньо-документальний роман.
 
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
 
-* Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>187</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>90</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
 [☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 
 
-_05.04.2021 07:01:16_
+_05.04.2021 11:45:14_

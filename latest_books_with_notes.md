@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
@@ -30,7 +31,6 @@
 * История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 * Видок ~ [dromoman2008](users/444/44461886-yandex)<sup>28</sup>
 * Станционный смотритель ~ [dromoman2008](users/444/44461886-yandex)<sup>27</sup>
-* Пупсик ~ [dromoman2008](users/444/44461886-yandex)<sup>26</sup>
 
 
-_04.04.2021 14:39:34_
+_05.04.2021 11:45:14_
