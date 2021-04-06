@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
+    > Но такова ужасная любовь! Она может сделать преступником самого добродетельнейшего человека! И кто, любив пламенно в жизни своей, не поступил ни в чем против строгой нравственности, тот – счастлив!
+
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
     > Корпорация "Вторая жизнь"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Деревня, в которой убили цыган и теперь пропадают люди.
 
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
-    > Сделка с дьяволом против лучшего друга.
 
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
 
-* Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>151</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>90</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
 
 
-_06.04.2021 20:38:21_
+_06.04.2021 21:11:00_

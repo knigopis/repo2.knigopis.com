@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
 * Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
@@ -30,7 +31,6 @@
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
 * Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
 * Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
-* История конца которой нет ~ [Rainbow](users/109/109787328219839805802-google)<sup>71</sup>
 
 
-_05.04.2021 13:45:17_
+_06.04.2021 21:11:00_
