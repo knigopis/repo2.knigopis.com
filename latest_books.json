@@ -1,4 +1,16 @@
 {
+    "cgj0OTFyy9": {
+        "id": "cgj0OTFyy9",
+        "title": "Две недели в другом городе",
+        "author": "Ирвин Шоу",
+        "notes": "",
+        "createdAt": "2021-04-06 20:38:21",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 99
+        }
+    },
     "Iuux7b-jgY": {
         "id": "Iuux7b-jgY",
         "title": "Спартак",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 17
-        }
-    },
-    "ZOogu2TzdZ": {
-        "id": "ZOogu2TzdZ",
-        "title": "Жизнь взаймы",
-        "author": "Эрик Мария Ремарк",
-        "notes": "",
-        "createdAt": "2021-03-31 06:55:23",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 249
         }
     }
 }

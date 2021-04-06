@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 99,
+        "updatedAt": "2021-04-06 20:38:21"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": " Potokolov",
         "booksCount": 1,
         "updatedAt": "2021-03-26 21:24:46"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 61,
-        "updatedAt": "2021-03-25 20:25:45"
     }
 }

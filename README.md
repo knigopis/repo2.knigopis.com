@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>151</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
 
 
-_06.04.2021 17:39:13_
+_06.04.2021 20:38:21_
