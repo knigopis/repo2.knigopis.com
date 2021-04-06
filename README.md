@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>90</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 [ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
-[aktoty](users/275/275766107-vkontakte)<sup>90</sup> 
 
 
-_05.04.2021 13:45:17_
+_06.04.2021 06:10:06_
