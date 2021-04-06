@@ -1,4 +1,16 @@
 {
+    "Iuux7b-jgY": {
+        "id": "Iuux7b-jgY",
+        "title": "Спартак",
+        "author": "Рафаэлло Джованьоли",
+        "notes": "",
+        "createdAt": "2021-04-06 17:39:13",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 151
+        }
+    },
     "3wbvRbJnmG": {
         "id": "3wbvRbJnmG",
         "title": "Пассажиры",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 249
-        }
-    },
-    "cODaZLWPpv": {
-        "id": "cODaZLWPpv",
-        "title": "",
-        "author": "Маленький принц",
-        "notes": "",
-        "createdAt": "2021-03-30 17:21:52",
-        "user": {
-            "id": "174733033-vkontakte",
-            "nickname": "Agmych",
-            "booksCount": 1
         }
     }
 }

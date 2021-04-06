@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>151</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>90</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>282</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>17</sup> 
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>30</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>61</sup> 
 
 
-_06.04.2021 06:10:06_
+_06.04.2021 17:39:13_
