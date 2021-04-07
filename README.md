@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
+    > Альтернативная история
+    > 1921г попаданец в командарма 8 армией Кравцова
+
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
     > Серия в 3 книгах
     > Юмористическая проза, фэнтези
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > — Я — о своей жизни, которая позади, а Грегуар — о своей, которая впереди.
 
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
-    > Но такова ужасная любовь! Она может сделать преступником самого добродетельнейшего человека! И кто, любив пламенно в жизни своей, не поступил ни в чем против строгой нравственности, тот – счастлив!
 
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
 
@@ -30,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 
-*  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>32</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>33</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>154</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
@@ -69,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 
 
-_07.04.2021 16:11:28_
+_07.04.2021 16:17:28_

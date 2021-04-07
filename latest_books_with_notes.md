@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
@@ -30,7 +31,6 @@
 * Портрет семьи ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>181</sup>
 * Убийство в Восточном экспрессе ~ [aktoty](users/275/275766107-vkontakte)<sup>90</sup>
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
-* Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
 
 
-_07.04.2021 16:11:28_
+_07.04.2021 16:17:28_
