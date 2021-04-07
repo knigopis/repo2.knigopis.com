@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>154</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 
 
-_07.04.2021 14:04:24_
+_07.04.2021 15:00:06_

@@ -1,4 +1,16 @@
 {
+    "dnrZ1pi78N": {
+        "id": "dnrZ1pi78N",
+        "title": "Медной горы хозяйка",
+        "author": "Павел Петрович Бажов",
+        "notes": "",
+        "createdAt": "2021-04-07 15:00:06",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 154
+        }
+    },
     "1m9vVTAG0w": {
         "id": "1m9vVTAG0w",
         "title": "35 кило надежды",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 848
-        }
-    },
-    "sRJuR4DLjS": {
-        "id": "sRJuR4DLjS",
-        "title": "Жизнь и смерть в благотворительной палате",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2021-04-01 06:34:28",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 250
         }
     }
 }
