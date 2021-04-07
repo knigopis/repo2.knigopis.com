@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>164</sup>
+# Список прочитанных книг пользователя exulted<sup>165</sup>
 ---
 
 ## 2021
@@ -6,6 +6,11 @@
 ### The Shipping Man
 Matthew McCleery
 > [2021-04-07] 
+
+
+### Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ
+Бронников Андрей
+> [2021-04-01] 
 
 
 ### The Hidden Half: How the World Conceals its Secrets

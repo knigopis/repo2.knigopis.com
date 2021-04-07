@@ -1,4 +1,16 @@
 {
+    "EFXxjg4RJt": {
+        "id": "EFXxjg4RJt",
+        "title": "Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ",
+        "author": "Бронников Андрей",
+        "notes": "",
+        "createdAt": "2021-04-07 18:31:12",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 165
+        }
+    },
     "MJIsGd4hxv": {
         "id": "MJIsGd4hxv",
         "title": "The Shipping Man",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 183
-        }
-    },
-    "_SEAaQnbCd": {
-        "id": "_SEAaQnbCd",
-        "title": "Курьи ножки",
-        "author": "Кабир Максим",
-        "notes": "Передача про Вия и продажу душ",
-        "createdAt": "2021-04-03 16:22:56",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 182
         }
     }
 }
