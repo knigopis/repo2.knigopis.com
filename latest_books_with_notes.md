@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
 * Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
@@ -30,7 +31,6 @@
 * Девять миллиардов имен Бога ~ [vitasoft](users/474/47446642-vkontakte)<sup>37</sup>
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
 * Подъезд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>180</sup>
-* Ласточка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>145</sup>
 
 
-_06.04.2021 21:11:00_
+_07.04.2021 14:04:24_

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
+    > О чем это вы будете думать, интересно?
+    > — Я — о своей жизни, которая позади, а Грегуар — о своей, которая впереди.
+
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
     > Но такова ужасная любовь! Она может сделать преступником самого добродетельнейшего человека! И кто, любив пламенно в жизни своей, не поступил ни в чем против строгой нравственности, тот – счастлив!
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Корпорация "Вторая жизнь"
 
 * Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
-    > Деревня, в которой убили цыган и теперь пропадают люди.
 
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
 
@@ -26,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 
-* Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
 
 
-_07.04.2021 06:08:13_
+_07.04.2021 14:04:24_
