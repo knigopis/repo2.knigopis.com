@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>31</sup>
+* Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
@@ -33,4 +33,4 @@
 * Унесенные ветром ~ [vitasoft](users/474/47446642-vkontakte)<sup>36</sup>
 
 
-_07.04.2021 16:10:22_
+_07.04.2021 16:11:28_

@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>31</sup>
+* Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
     > Серия в 3 книгах
     > Юмористическая проза, фэнтези
     > Не понравилось, бросил на 1 книге не прочитав и 100 страниц. Кот рассуждающие как человек? - ладно бы попаданец в кота.... Где там юмор и где смеяться?
@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>31</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>32</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>154</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 
 
-_07.04.2021 16:10:22_
+_07.04.2021 16:11:28_
