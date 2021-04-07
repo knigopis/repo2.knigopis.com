@@ -1,4 +1,10 @@
 {
+    "105870511513917298315-google": {
+        "id": "105870511513917298315-google",
+        "nickname": "Машуша",
+        "booksCount": 0,
+        "updatedAt": "2021-04-07 15:57:06"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Alyona_Zolotinka",
         "booksCount": 0,
         "updatedAt": "2021-03-28 05:18:36"
-    },
-    "104855896250239351009-google": {
-        "id": "104855896250239351009-google",
-        "nickname": "bubnoovi",
-        "booksCount": 1,
-        "updatedAt": "2021-03-26 21:46:42"
     }
 }
