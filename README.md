@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>31</sup>
+    > Серия в 3 книгах
+    > Юмористическая проза, фэнтези
+    > Не понравилось, бросил на 1 книге не прочитав и 100 страниц. Кот рассуждающие как человек? - ладно бы попаданец в кота.... Где там юмор и где смеяться?
+    > Оценка 3-
+
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
     > О чем это вы будете думать, интересно?
     > — Я — о своей жизни, которая позади, а Грегуар — о своей, которая впереди.
@@ -13,7 +19,6 @@ Do not use pull requests to make changes here.
     > Но такова ужасная любовь! Она может сделать преступником самого добродетельнейшего человека! И кто, любив пламенно в жизни своей, не поступил ни в чем против строгой нравственности, тот – счастлив!
 
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
-    > Корпорация "Вторая жизнь"
 
 * Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
 
@@ -27,13 +32,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
 
-* Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>31</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>154</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
@@ -59,11 +63,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>17</sup> 
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>30</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>163</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 
 
-_07.04.2021 15:58:11_
+_07.04.2021 16:10:22_
