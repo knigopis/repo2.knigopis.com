@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Машуша](users/105/105870511513917298315-google)<sup>0</sup> 
+[Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>154</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 
 
-_07.04.2021 15:57:06_
+_07.04.2021 15:58:11_
