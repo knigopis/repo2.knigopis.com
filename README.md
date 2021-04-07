@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
+    > Я делаю свое, а ты – свое.
+    > Я в этом мире не для того, чтобы соответствовать твоим ожиданиям. 
+    > А ты – не для того, чтобы соответствовать моим. 
+    > Ты – это есть ты, а я – это есть я, 
+    > И если нам случится найти друг друга, это прекрасно. 
+    > Если нет, этому нельзя помочь.
+
 * Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
     > Альтернативная история
     > 1921г попаданец в командарма 8 армией Кравцова
@@ -16,8 +24,6 @@ Do not use pull requests to make changes here.
     > Оценка 3-
 
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
-    > О чем это вы будете думать, интересно?
-    > — Я — о своей жизни, которая позади, а Грегуар — о своей, которая впереди.
 
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
 
@@ -31,16 +37,14 @@ Do not use pull requests to make changes here.
 
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
 
-* Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>33</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>154</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
@@ -70,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 
 
-_07.04.2021 16:17:28_
+_07.04.2021 16:21:57_
