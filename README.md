@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 [bubnoovi](users/104/104855896250239351009-google)<sup>1</sup> 
-[ Potokolov](users/108/108343313645150344223-google)<sup>1</sup> 
 
 
-_06.04.2021 21:11:00_
+_07.04.2021 06:08:13_

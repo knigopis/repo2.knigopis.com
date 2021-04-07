@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tumturumk",
+        "booksCount": 8,
+        "updatedAt": "2021-04-07 06:08:13"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "bubnoovi",
         "booksCount": 1,
         "updatedAt": "2021-03-26 21:46:42"
-    },
-    "108343313645150344223-google": {
-        "id": "108343313645150344223-google",
-        "nickname": " Potokolov",
-        "booksCount": 1,
-        "updatedAt": "2021-03-26 21:24:46"
     }
 }
