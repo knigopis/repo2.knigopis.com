@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>33</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
 [☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>57</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alyona_Zolotinka](users/103/103759789460787995323-google)<sup>0</sup> 
 
 
-_07.04.2021 18:31:12_
+_07.04.2021 21:58:25_
