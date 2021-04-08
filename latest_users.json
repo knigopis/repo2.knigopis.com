@@ -1,4 +1,10 @@
 {
+    "107060344012113539390-google": {
+        "id": "107060344012113539390-google",
+        "nickname": "Risky",
+        "booksCount": 0,
+        "updatedAt": "2021-04-08 17:49:57"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 409,
         "updatedAt": "2021-03-28 10:12:18"
-    },
-    "103759789460787995323-google": {
-        "id": "103759789460787995323-google",
-        "nickname": "Alyona_Zolotinka",
-        "booksCount": 0,
-        "updatedAt": "2021-03-28 05:18:36"
     }
 }
