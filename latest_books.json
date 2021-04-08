@@ -1,4 +1,16 @@
 {
+    "wMZby0hyxT": {
+        "id": "wMZby0hyxT",
+        "title": "Теория везения. Практическое пособие по повышению вашей удачливости",
+        "author": "Скотт Адамс",
+        "notes": "",
+        "createdAt": "2021-04-08 21:20:47",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 18
+        }
+    },
     "EFXxjg4RJt": {
         "id": "EFXxjg4RJt",
         "title": "Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 184
-        }
-    },
-    "yUW5eXkeAY": {
-        "id": "yUW5eXkeAY",
-        "title": "Покушение",
-        "author": "Стивен Кинг",
-        "notes": "Убийца прислали живых солдатиков.",
-        "createdAt": "2021-04-03 17:14:36",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 183
         }
     }
 }

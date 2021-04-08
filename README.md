@@ -42,8 +42,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Risky](users/107/107060344012113539390-google)<sup>0</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>17</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>33</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 
 
-_08.04.2021 17:49:57_
+_08.04.2021 21:20:48_
