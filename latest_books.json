@@ -1,4 +1,16 @@
 {
+    "VSCEvRKR9Z": {
+        "id": "VSCEvRKR9Z",
+        "title": "Леденцовые туфельки",
+        "author": "Джоанн Харрис",
+        "notes": "",
+        "createdAt": "2021-04-08 22:01:12",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 78
+        }
+    },
     "wMZby0hyxT": {
         "id": "wMZby0hyxT",
         "title": "Теория везения. Практическое пособие по повышению вашей удачливости",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "Evermind",
             "booksCount": 57
-        }
-    },
-    "vApc3-ufVo": {
-        "id": "vApc3-ufVo",
-        "title": "Алтарь",
-        "author": "Роберт Шекли",
-        "notes": "Алтарь, к которому жертва мужчина сам захотел прийти \"раскрыть\" тайну.",
-        "createdAt": "2021-04-03 17:36:50",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 184
         }
     }
 }

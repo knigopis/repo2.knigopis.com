@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>78</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Risky](users/107/107060344012113539390-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>38</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>409</sup> 
 
 
-_08.04.2021 21:20:48_
+_08.04.2021 22:01:12_
