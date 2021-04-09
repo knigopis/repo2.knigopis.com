@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>79</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>282</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>17</sup> 
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>429</sup> 
 
 
-_09.04.2021 05:42:14_
+_09.04.2021 16:40:50_
