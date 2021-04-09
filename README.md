@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
+    > Знание, абсолютно уверенное в том, что оно безошибочно, – это вера.
+    > Человек – как роман: до самой последней страницы не знаешь, чем кончится. Иначе не стоило бы и читать…
+
 * Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
     > Я делаю свое, а ты – свое.
     > Я в этом мире не для того, чтобы соответствовать твоим ожиданиям. 
@@ -18,10 +22,6 @@ Do not use pull requests to make changes here.
     > 1921г попаданец в командарма 8 армией Кравцова
 
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
-    > Серия в 3 книгах
-    > Юмористическая проза, фэнтези
-    > Не понравилось, бросил на 1 книге не прочитав и 100 страниц. Кот рассуждающие как человек? - ладно бы попаданец в кота.... Где там юмор и где смеяться?
-    > Оценка 3-
 
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
 
@@ -35,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
 
-* Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
@@ -49,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Risky](users/107/107060344012113539390-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>33</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
@@ -74,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
 
 
-_09.04.2021 19:58:43_
+_09.04.2021 20:55:44_
