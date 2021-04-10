@@ -1,4 +1,16 @@
 {
+    "XlUg4XfDVG": {
+        "id": "XlUg4XfDVG",
+        "title": "Другая правда, том 2",
+        "author": "А. Маринина",
+        "notes": "",
+        "createdAt": "2021-04-10 09:16:23",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 38
+        }
+    },
     "Cj4sLXxBt-": {
         "id": "Cj4sLXxBt-",
         "title": "Другая правда, том 1",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 183
-        }
-    },
-    "tZxSqiMWs4": {
-        "id": "tZxSqiMWs4",
-        "title": "Чорнобиль: я бачив",
-        "author": "Володимир Шовкошитний",
-        "notes": "6/10 Технічний опис аварії художньо-документальний роман.",
-        "createdAt": "2021-04-04 14:37:14",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 182
         }
     }
 }
