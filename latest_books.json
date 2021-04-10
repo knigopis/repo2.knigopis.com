@@ -1,4 +1,16 @@
 {
+    "Cj4sLXxBt-": {
+        "id": "Cj4sLXxBt-",
+        "title": "Другая правда, том 1",
+        "author": "А. Маринина",
+        "notes": "",
+        "createdAt": "2021-04-10 09:16:05",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 37
+        }
+    },
     "d3FywjlXsZ": {
         "id": "d3FywjlXsZ",
         "title": "Голодные",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 182
-        }
-    },
-    "tbTbmxxCBl": {
-        "id": "tbTbmxxCBl",
-        "title": "",
-        "author": "",
-        "notes": "10/10 Доктор-оповідач скоює вбивство у тихому англійському селі.",
-        "createdAt": "2021-04-04 14:35:19",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 181
         }
     }
 }

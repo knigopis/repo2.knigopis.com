@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>37</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>282</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>17</sup> 
-[Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
 
 
-_10.04.2021 06:09:38_
+_10.04.2021 09:16:05_
