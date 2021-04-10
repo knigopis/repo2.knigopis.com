@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
+    > Серия из 2 книг
+    > Альтернативка. Попаданец в 90, Химик,
+
 * Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
     > Знание, абсолютно уверенное в том, что оно безошибочно, – это вера.
     > Человек – как роман: до самой последней страницы не знаешь, чем кончится. Иначе не стоило бы и читать…
@@ -18,8 +22,6 @@ Do not use pull requests to make changes here.
     > Если нет, этому нельзя помочь.
 
 * Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
-    > Альтернативная история
-    > 1921г попаданец в командарма 8 армией Кравцова
 
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
 
-* Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>18</sup> 
 [Risky](users/107/107060344012113539390-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>33</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
 
 
-_09.04.2021 20:55:44_
+_10.04.2021 04:56:53_
