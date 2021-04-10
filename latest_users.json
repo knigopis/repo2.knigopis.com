@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 191,
+        "updatedAt": "2021-04-10 06:09:38"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -70,12 +76,6 @@
         "nickname": "katrinvredina",
         "booksCount": 114,
         "updatedAt": "2021-04-06 06:10:05"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 190,
-        "updatedAt": "2021-04-05 13:45:17"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",

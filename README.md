@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
+    > Женщина потеряла ребёнка, согласилась быть пророщенной ростями ради мести.
+
 * Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
     > Серия из 2 книг
     > Альтернативка. Попаданец в 90, Химик,
@@ -14,12 +17,6 @@ Do not use pull requests to make changes here.
     > Человек – как роман: до самой последней страницы не знаешь, чем кончится. Иначе не стоило бы и читать…
 
 * Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
-    > Я делаю свое, а ты – свое.
-    > Я в этом мире не для того, чтобы соответствовать твоим ожиданиям. 
-    > А ты – не для того, чтобы соответствовать моим. 
-    > Ты – это есть ты, а я – это есть я, 
-    > И если нам случится найти друг друга, это прекрасно. 
-    > Если нет, этому нельзя помочь.
 
 * Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
 
@@ -33,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
 
-* На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
@@ -52,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>90</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
 [☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
@@ -72,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Agmych](users/174/174733033-vkontakte)<sup>1</sup> 
 
 
-_10.04.2021 04:56:53_
+_10.04.2021 06:09:38_
