@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
+    > Бросила на 13%.
+
 * Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
     > 96с.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Женщина потеряла ребёнка, согласилась быть пророщенной ростями ради мести.
 
 * Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
-    > Серия из 2 книг
-    > Альтернативка. Попаданец в 90, Химик,
 
 * Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
 
@@ -27,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
 
-* Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>197</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>91</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 
 
-_11.04.2021 17:25:47_
+_11.04.2021 18:07:07_
