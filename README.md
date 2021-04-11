@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>19</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>79</sup> 
 [Risky](users/107/107060344012113539390-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 
 
-_11.04.2021 19:49:59_
+_11.04.2021 20:27:52_
