@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
 * Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
 * Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
@@ -30,7 +31,6 @@
 * Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
 * "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
 * Джакузи для Офелии ~ [Chiffi](users/105/105831994080785626680-google)<sup>282</sup>
-* Капитанская дочка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>146</sup>
 
 
-_10.04.2021 06:09:38_
+_11.04.2021 15:07:49_

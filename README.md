@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
+    > 96с.
+
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
     > Женщина потеряла ребёнка, согласилась быть пророщенной ростями ради мести.
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Альтернативка. Попаданец в 90, Химик,
 
 * Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
-    > Знание, абсолютно уверенное в том, что оно безошибочно, – это вера.
-    > Человек – как роман: до самой последней страницы не знаешь, чем кончится. Иначе не стоило бы и читать…
 
 * Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
 
-* Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alles_fur_rei](users/213/213314465-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>282</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>17</sup> 
 
 
-_10.04.2021 09:16:23_
+_11.04.2021 15:07:49_

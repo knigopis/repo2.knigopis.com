@@ -1,7 +1,12 @@
-# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>2</sup>
+# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>3</sup>
 ---
 
 ## 2021
+
+### Рассказы
+К. Паустовский
+> [2021-04-11] 96с.
+
 
 ### Ледяная царевна с Андреевского
 мадам Лузина
