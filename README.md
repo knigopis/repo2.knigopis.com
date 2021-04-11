@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
+    > У женщин свое хозяйство; постороннему не видно, как бьются горшки.
+
 * Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
     > Бросила на 13%.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 96с.
 
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
-    > Женщина потеряла ребёнка, согласилась быть пророщенной ростями ради мести.
 
 * Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
 
-* Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>19</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>197</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>284</sup> 
 [☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 
 
-_11.04.2021 19:48:38_
+_11.04.2021 19:49:59_

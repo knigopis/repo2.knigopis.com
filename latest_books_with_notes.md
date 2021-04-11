@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 * Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
 * Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
@@ -24,7 +25,6 @@
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>284</sup>
 * Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
 * Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
 * Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
@@ -33,4 +33,4 @@
 * "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
 
 
-_11.04.2021 18:07:07_
+_11.04.2021 19:49:59_
