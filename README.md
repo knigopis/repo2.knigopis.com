@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>189</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>91</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116248373007179178601-google)<sup>0</sup> 
 [alles_fur_rei](users/213/213314465-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>282</sup> 
 
 
-_11.04.2021 16:18:36_
+_11.04.2021 17:20:25_
