@@ -1,7 +1,12 @@
-# List of books read by Sky<sup>191</sup>
+# List of books read by Sky<sup>192</sup>
 ---
 
 ## 2021
+
+### Кати в Италии
+Астрид Линдгрен
+> [2021-02-02] 
+
 
 ### Кати в Америке
 Астрид Линдгрен
