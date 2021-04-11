@@ -1,4 +1,16 @@
 {
+    "AN1rFaubZ-": {
+        "id": "AN1rFaubZ-",
+        "title": "Война с Котиром",
+        "author": "Брайан Джейкс",
+        "notes": "",
+        "createdAt": "2021-04-11 17:24:37",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 195
+        }
+    },
     "xrvaZ8QBOD": {
         "id": "xrvaZ8QBOD",
         "title": "Воин Рэдволла",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 99
-        }
-    },
-    "Iuux7b-jgY": {
-        "id": "Iuux7b-jgY",
-        "title": "Спартак",
-        "author": "Рафаэлло Джованьоли",
-        "notes": "",
-        "createdAt": "2021-04-06 17:39:13",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 151
         }
     }
 }
