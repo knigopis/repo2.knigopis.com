@@ -1,7 +1,12 @@
-# List of books read by Sky<sup>193</sup>
+# List of books read by Sky<sup>194</sup>
 ---
 
 ## 2021
+
+### Воин Рэдволла
+Брайан Джейкс
+> [2021-02-25] 
+
 
 ### Кати в Париже
 Астрид Линдгрен
