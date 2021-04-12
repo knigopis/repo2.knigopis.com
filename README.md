@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>848</sup> 
 [](users/116/116248373007179178601-google)<sup>0</sup> 
-[alles_fur_rei](users/213/213314465-vkontakte)<sup>0</sup> 
 
 
-_12.04.2021 03:08:07_
+_12.04.2021 13:06:00_
