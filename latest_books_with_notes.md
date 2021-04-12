@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 * Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
 * Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
 * Юшка ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>149</sup>
 * Чайка по имени Джонатан Ливингстон ~ [vitasoft](users/474/47446642-vkontakte)<sup>38</sup>
-* "Світлий шлях". Історія одного концтабору ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>180</sup>
 
 
-_11.04.2021 19:49:59_
+_12.04.2021 03:08:07_

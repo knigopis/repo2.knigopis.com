@@ -1,4 +1,16 @@
 {
+    "_E-aHGbQVG": {
+        "id": "_E-aHGbQVG",
+        "title": "Клан пещерного медведя",
+        "author": "Джин Ауэл",
+        "notes": "paper",
+        "createdAt": "2021-04-12 03:08:07",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 39
+        }
+    },
     "3KzdpxUEZU": {
         "id": "3KzdpxUEZU",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 38
-        }
-    },
-    "3AIkTpCwg-": {
-        "id": "3AIkTpCwg-",
-        "title": "\"Світлий шлях\". Історія одного концтабору",
-        "author": "Станіслав Асєєв",
-        "notes": "10/10 Колишній військовополонений донецької \"Ізоляції\" розповідає про катування.",
-        "createdAt": "2021-03-28 17:05:58",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 180
         }
     }
 }

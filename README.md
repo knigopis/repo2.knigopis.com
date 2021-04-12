@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
+    > paper
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
     > У женщин свое хозяйство; постороннему не видно, как бьются горшки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бросила на 13%.
 
 * Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
-    > 96с.
 
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
 
-* 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>848</sup> 
 [](users/116/116248373007179178601-google)<sup>0</sup> 
 [alles_fur_rei](users/213/213314465-vkontakte)<sup>0</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>87</sup> 
 
 
-_11.04.2021 20:27:52_
+_12.04.2021 03:08:07_
