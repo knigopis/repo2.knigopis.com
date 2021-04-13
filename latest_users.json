@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 88,
+        "updatedAt": "2021-04-13 18:08:44"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Саша ",
         "booksCount": 0,
         "updatedAt": "2021-04-02 19:10:06"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 251,
-        "updatedAt": "2021-04-02 11:17:33"
     }
 }
