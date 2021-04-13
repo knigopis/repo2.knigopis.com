@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>308</sup> 
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>849</sup> 
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 [Саша ](users/106/106329452642535622141-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>251</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>101</sup> 
 
 
-_13.04.2021 14:44:21_
+_13.04.2021 16:20:42_
