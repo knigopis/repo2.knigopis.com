@@ -1,4 +1,10 @@
 {
+    "101518469468204915024-google": {
+        "id": "101518469468204915024-google",
+        "nickname": "fedotov",
+        "booksCount": 0,
+        "updatedAt": "2021-04-14 16:12:27"
+    },
     "319912296-vkontakte": {
         "id": "319912296-vkontakte",
         "nickname": "flame_of_the_fire",
@@ -172,11 +178,5 @@
         "nickname": "Evermind",
         "booksCount": 57,
         "updatedAt": "2021-04-03 18:33:36"
-    },
-    "4129490930435358-facebook": {
-        "id": "4129490930435358-facebook",
-        "nickname": "Malysha",
-        "booksCount": 4,
-        "updatedAt": "2021-04-03 15:00:54"
     }
 }
