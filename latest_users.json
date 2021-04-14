@@ -1,4 +1,10 @@
 {
+    "319912296-vkontakte": {
+        "id": "319912296-vkontakte",
+        "nickname": "flame_of_the_fire",
+        "booksCount": 0,
+        "updatedAt": "2021-04-14 11:38:01"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Malysha",
         "booksCount": 4,
         "updatedAt": "2021-04-03 15:00:54"
-    },
-    "106329452642535622141-google": {
-        "id": "106329452642535622141-google",
-        "nickname": "Саша ",
-        "booksCount": 0,
-        "updatedAt": "2021-04-02 19:10:06"
     }
 }
