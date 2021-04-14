@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fedotov](users/101/101518469468204915024-google)<sup>0</sup> 
 [flame_of_the_fire](users/319/319912296-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>88</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>308</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>57</sup> 
-[Malysha](users/412/4129490930435358-facebook)<sup>4</sup> 
 
 
-_14.04.2021 11:38:02_
+_14.04.2021 16:12:27_
