@@ -1,4 +1,10 @@
 {
+    "107255524402462322556-google": {
+        "id": "107255524402462322556-google",
+        "nickname": "wikju",
+        "booksCount": 1,
+        "updatedAt": "2021-04-15 16:50:48"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 184,
         "updatedAt": "2021-04-04 14:39:34"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 48,
-        "updatedAt": "2021-04-03 20:11:13"
     }
 }

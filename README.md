@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wikju](users/107/107255524402462322556-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>157</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>102</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>198</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
 [☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 
 
-_15.04.2021 16:32:36_
+_15.04.2021 16:50:48_

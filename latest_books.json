@@ -1,4 +1,16 @@
 {
+    "WegMtzEWuA": {
+        "id": "WegMtzEWuA",
+        "title": "Грокаем алгоритмы",
+        "author": "Адитья Бхаргава",
+        "notes": "",
+        "createdAt": "2021-04-15 16:50:48",
+        "user": {
+            "id": "107255524402462322556-google",
+            "nickname": "wikju",
+            "booksCount": 1
+        }
+    },
     "k6JBeAXrVN": {
         "id": "k6JBeAXrVN",
         "title": "Убежище. Дневник в письмах",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 430
-        }
-    },
-    "psUWO_t30x": {
-        "id": "psUWO_t30x",
-        "title": "Последний свидетель",
-        "author": "Клэр Макфолл",
-        "notes": "",
-        "createdAt": "2021-04-08 22:01:57",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 79
         }
     }
 }
