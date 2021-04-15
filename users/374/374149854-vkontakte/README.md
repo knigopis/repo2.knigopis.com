@@ -1,4 +1,4 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>28</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>29</sup>
 ---
 
 ## 2021
@@ -117,6 +117,11 @@
 ### Катехизис традиционалиста
 Raido
 > [2019-05] 
+
+
+### Старикам тут не место
+Кормак Маккарти
+> [2019-03] 
 
 
 
