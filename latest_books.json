@@ -1,4 +1,16 @@
 {
+    "9_RdPiEVUU": {
+        "id": "9_RdPiEVUU",
+        "title": "История западной философии",
+        "author": "Бертран Рассел",
+        "notes": "",
+        "createdAt": "2021-04-15 23:42:15",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 26
+        }
+    },
     "yKNlkg1icY": {
         "id": "yKNlkg1icY",
         "title": "Наполеон",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 190
-        }
-    },
-    "ZNKAhO3alN": {
-        "id": "ZNKAhO3alN",
-        "title": "The short second life of Bree Tanner",
-        "author": "Stephenie Meyer",
-        "notes": "",
-        "createdAt": "2021-04-11 17:20:25",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 189
         }
     }
 }
