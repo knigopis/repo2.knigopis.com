@@ -1,4 +1,4 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>27</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>28</sup>
 ---
 
 ## 2021
@@ -109,6 +109,13 @@
 ### Это я – Эдичка
 Эдуард Лимонов
 > [2020-07] 
+
+
+
+## 2019
+
+### Катехизис традиционалиста
+> [2019-05] 
 
 
 
