@@ -1,4 +1,16 @@
 {
+    "w_7dXc1-8o": {
+        "id": "w_7dXc1-8o",
+        "title": "Вторая мировая война",
+        "author": "Энтони Бивор",
+        "notes": "",
+        "createdAt": "2021-04-15 22:39:52",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 22
+        }
+    },
     "D3BWOwQIUP": {
         "id": "D3BWOwQIUP",
         "title": "Воздушный замок",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 38
-        }
-    },
-    "Cj4sLXxBt-": {
-        "id": "Cj4sLXxBt-",
-        "title": "Другая правда, том 1",
-        "author": "А. Маринина",
-        "notes": "",
-        "createdAt": "2021-04-10 09:16:05",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 37
         }
     }
 }

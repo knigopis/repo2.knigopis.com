@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>22</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>21</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>157</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>102</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
 
 
-_15.04.2021 20:09:40_
+_15.04.2021 22:39:52_

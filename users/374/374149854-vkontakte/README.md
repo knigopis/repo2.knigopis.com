@@ -1,4 +1,4 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>21</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>22</sup>
 ---
 
 ## 2021
@@ -109,6 +109,13 @@
 ### Это я – Эдичка
 Эдуард Лимонов
 > [2020-07] 
+
+
+
+## 2016
+
+### Вторая мировая война
+Энтони Бивор
 
 
 
