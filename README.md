@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>157</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>102</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>198</sup> 
 [fedotov](users/101/101518469468204915024-google)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>48</sup> 
 
 
-_15.04.2021 08:23:50_
+_15.04.2021 16:32:36_

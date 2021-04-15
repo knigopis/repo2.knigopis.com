@@ -1,4 +1,16 @@
 {
+    "k6JBeAXrVN": {
+        "id": "k6JBeAXrVN",
+        "title": "Убежище. Дневник в письмах",
+        "author": "Анна Франк",
+        "notes": "",
+        "createdAt": "2021-04-15 16:32:36",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 157
+        }
+    },
     "pOLx2y1k9z": {
         "id": "pOLx2y1k9z",
         "title": "Буря мечей",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 79
-        }
-    },
-    "VSCEvRKR9Z": {
-        "id": "VSCEvRKR9Z",
-        "title": "Леденцовые туфельки",
-        "author": "Джоанн Харрис",
-        "notes": "",
-        "createdAt": "2021-04-08 22:01:12",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 78
         }
     }
 }
