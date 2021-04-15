@@ -1,4 +1,16 @@
 {
+    "l_5JJiVH9g": {
+        "id": "l_5JJiVH9g",
+        "title": "Моя темная Ванесса",
+        "author": "Рассел Кейт Элизабет",
+        "notes": "",
+        "createdAt": "2021-04-15 04:32:11",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 198
+        }
+    },
     "EMy-KOMy-H": {
         "id": "EMy-KOMy-H",
         "title": "Рождённый туманом. Герой веков",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 18
-        }
-    },
-    "EFXxjg4RJt": {
-        "id": "EFXxjg4RJt",
-        "title": "Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ",
-        "author": "Бронников Андрей",
-        "notes": "",
-        "createdAt": "2021-04-07 18:31:12",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 165
         }
     }
 }
