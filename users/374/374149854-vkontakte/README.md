@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>20</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>21</sup>
 ---
 
 ## 2021
+
+### Я и рыжий сепар
+Семён Пегов
+> [2021-10] 
+
 
 ### По прозвищу «Матрос»
 Владимир Агранович

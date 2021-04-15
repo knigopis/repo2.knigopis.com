@@ -1,4 +1,16 @@
 {
+    "EDNBr37CLT": {
+        "id": "EDNBr37CLT",
+        "title": "Я и рыжий сепар",
+        "author": "Семён Пегов",
+        "notes": "",
+        "createdAt": "2021-04-15 20:07:48",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 21
+        }
+    },
     "-FUIAdVw-0": {
         "id": "-FUIAdVw-0",
         "title": "По прозвищу «Матрос»",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 191
-        }
-    },
-    "VSFaFBsPOw": {
-        "id": "VSFaFBsPOw",
-        "title": "Во все тяжкие",
-        "author": "Минин Станислав",
-        "notes": "Серия из 2 книг\nАльтернативка. Попаданец в 90, Химик,",
-        "createdAt": "2021-04-10 04:56:53",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 34
         }
     }
 }
