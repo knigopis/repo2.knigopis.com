@@ -1,4 +1,16 @@
 {
+    "WftHKFXLwp": {
+        "id": "WftHKFXLwp",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2021-04-15 22:41:16",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 23
+        }
+    },
     "w_7dXc1-8o": {
         "id": "w_7dXc1-8o",
         "title": "Вторая мировая война",
@@ -345,18 +357,6 @@
             "id": "102857111133378678801-google",
             "nickname": "Rina",
             "booksCount": 3
-        }
-    },
-    "XlUg4XfDVG": {
-        "id": "XlUg4XfDVG",
-        "title": "Другая правда, том 2",
-        "author": "А. Маринина",
-        "notes": "",
-        "createdAt": "2021-04-10 09:16:23",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 38
         }
     }
 }
