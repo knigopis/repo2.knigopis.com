@@ -1,4 +1,16 @@
 {
+    "1nCqPOeuiG": {
+        "id": "1nCqPOeuiG",
+        "title": "Исповедь сыщика",
+        "author": "Николай Леонов",
+        "notes": "",
+        "createdAt": "2021-04-16 23:23:07",
+        "user": {
+            "id": "468075371-vkontakte",
+            "nickname": "Maximus",
+            "booksCount": 2
+        }
+    },
     "6TrcOE0rdG": {
         "id": "6TrcOE0rdG",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 285
-        }
-    },
-    "r01X-qbBOf": {
-        "id": "r01X-qbBOf",
-        "title": "",
-        "author": "Доротея Бранд",
-        "notes": "",
-        "createdAt": "2021-04-11 19:48:38",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 19
         }
     }
 }
