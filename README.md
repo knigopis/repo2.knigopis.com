@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Maximus](users/468/468075371-vkontakte)<sup>4</sup> 
+[Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>252</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 
 
-_16.04.2021 23:33:18_
+_16.04.2021 23:35:26_
