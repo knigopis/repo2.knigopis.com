@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>30</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>31</sup>
 ---
 
 ## 2021
+
+### Искусство прозы
+Владимир Иванович Гучсев
+> [2021-04] 
+
 
 ### По прозвищу «Матрос»
 Владимир Агранович
