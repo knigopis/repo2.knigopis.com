@@ -1,4 +1,10 @@
 {
+    "468075371-vkontakte": {
+        "id": "468075371-vkontakte",
+        "nickname": "Maximus",
+        "booksCount": 0,
+        "updatedAt": "2021-04-16 19:02:21"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "tumturumk",
         "booksCount": 8,
         "updatedAt": "2021-04-07 06:08:13"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 114,
-        "updatedAt": "2021-04-06 06:10:05"
     }
 }
