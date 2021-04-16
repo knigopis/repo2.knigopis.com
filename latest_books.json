@@ -1,4 +1,16 @@
 {
+    "cDjrIHxUGR": {
+        "id": "cDjrIHxUGR",
+        "title": "Snuff",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2021-04-16 08:48:30",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 252
+        }
+    },
     "b4pfatbhta": {
         "id": "b4pfatbhta",
         "title": "Искусство прозы",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 196
-        }
-    },
-    "AN1rFaubZ-": {
-        "id": "AN1rFaubZ-",
-        "title": "Война с Котиром",
-        "author": "Брайан Джейкс",
-        "notes": "",
-        "createdAt": "2021-04-11 17:24:37",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 195
         }
     }
 }

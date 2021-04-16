@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>252</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>31</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>114</sup> 
-[☕ Lover](users/152/15251310795888048195-mailru)<sup>0</sup> 
 
 
-_16.04.2021 02:47:33_
+_16.04.2021 08:48:30_
