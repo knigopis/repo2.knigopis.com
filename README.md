@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
+    > О неформалке Луи и её парне Аме.
+
 * Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
     > paper
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > У женщин свое хозяйство; постороннему не видно, как бьются горшки.
 
 * Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
-    > Бросила на 13%.
 
 * Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
 
-* Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup> 
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 
 
-_16.04.2021 23:35:26_
+_17.04.2021 10:12:41_
