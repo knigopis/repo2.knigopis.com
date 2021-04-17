@@ -1,4 +1,16 @@
 {
+    "c4hQLe_KWr": {
+        "id": "c4hQLe_KWr",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "Бросила на 70% и прочитала содержание по главам остатка.",
+        "createdAt": "2021-04-17 19:07:54",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 194
+        }
+    },
     "mduEEvLUte": {
         "id": "mduEEvLUte",
         "title": "Пока течет река",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 198
-        }
-    },
-    "EMy-KOMy-H": {
-        "id": "EMy-KOMy-H",
-        "title": "Рождённый туманом. Герой веков",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2021-04-13 18:08:44",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 88
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
+    > Бросила на 70% и прочитала содержание по главам остатка.
+
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
     > О неформалке Луи и её парне Аме.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > paper
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
-    > У женщин свое хозяйство; постороннему не видно, как бьются горшки.
 
 * Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
 
-* Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>850</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup> 
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 
 
-_17.04.2021 17:24:43_
+_17.04.2021 19:07:54_
