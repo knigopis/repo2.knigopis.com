@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>850</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup> 
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>88</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>308</sup> 
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>849</sup> 
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 
 
-_17.04.2021 10:12:41_
+_17.04.2021 17:24:43_
