@@ -1,4 +1,10 @@
 {
+    "103389838241993724492-google": {
+        "id": "103389838241993724492-google",
+        "nickname": "Hammerzeit",
+        "booksCount": 0,
+        "updatedAt": "2021-04-18 08:13:46"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 165,
         "updatedAt": "2021-04-07 18:31:12"
-    },
-    "105870511513917298315-google": {
-        "id": "105870511513917298315-google",
-        "nickname": "Машуша",
-        "booksCount": 1,
-        "updatedAt": "2021-04-07 15:58:11"
     }
 }
