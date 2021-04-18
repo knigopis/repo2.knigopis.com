@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>850</sup> 
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Risky](users/107/107060344012113539390-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
 [Машуша](users/105/105870511513917298315-google)<sup>1</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>8</sup> 
 
 
-_17.04.2021 19:07:54_
+_18.04.2021 05:50:48_
