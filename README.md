@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>309</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fedotov](users/101/101518469468204915024-google)<sup>0</sup> 
 [flame_of_the_fire](users/319/319912296-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>88</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>308</sup> 
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>165</sup> 
 
 
-_18.04.2021 08:13:47_
+_18.04.2021 14:21:03_
