@@ -1,7 +1,12 @@
-# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>16</sup>
+# List of books read by [Somik](https://www.facebook.com/profile.php?id=100006761945842)<sup>17</sup>
 ---
 
 ## 2021
+
+### Легенды и мифы древней Греции (аудио)
+Николай Кун
+> [2021-04] 
+
 
 ### У войны не женское лицр (аудио)
 Светлана Алексеевич
