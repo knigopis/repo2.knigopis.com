@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>31</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>32</sup>
 ---
 
 ## 2021
+
+### Нераскрытая самость
+Карл Густав Юнг
+> [2021-04] 
+
 
 ### Искусство прозы
 Владимир Иванович Гусев

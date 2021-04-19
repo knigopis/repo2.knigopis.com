@@ -1,4 +1,16 @@
 {
+    "5JjTc8eiHC": {
+        "id": "5JjTc8eiHC",
+        "title": "Нераскрытая самость",
+        "author": "Карл Густав Юнг",
+        "notes": "",
+        "createdAt": "2021-04-19 21:39:51",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 32
+        }
+    },
     "HS2vQHzzpJ": {
         "id": "HS2vQHzzpJ",
         "title": "The bad beginning (english)",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 62
-        }
-    },
-    "EDNBr37CLT": {
-        "id": "EDNBr37CLT",
-        "title": "Я и рыжий сепар",
-        "author": "Семён Пегов",
-        "notes": "",
-        "createdAt": "2021-04-15 20:07:48",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 21
         }
     }
 }
