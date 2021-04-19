@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
+    > Потрібно перечитати в оригіналі і подивитися кіно
+
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
     > Бросила на 70% и прочитала содержание по главам остатка.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О неформалке Луи и её парне Аме.
 
 * Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
-    > paper
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
 
-* Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Somik](users/100/100006761945842-facebook)<sup>14</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>309</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
 [Risky](users/107/107060344012113539390-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>165</sup> 
 
 
-_18.04.2021 14:21:03_
+_19.04.2021 09:29:47_

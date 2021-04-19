@@ -1,4 +1,10 @@
 {
+    "100006761945842-facebook": {
+        "id": "100006761945842-facebook",
+        "nickname": "Somik",
+        "booksCount": 14,
+        "updatedAt": "2021-04-19 09:29:47"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Risky",
         "booksCount": 0,
         "updatedAt": "2021-04-08 17:49:57"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 165,
-        "updatedAt": "2021-04-07 18:31:12"
     }
 }

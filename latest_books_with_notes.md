@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
 * Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
 * Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
 * Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
-* Андреевский крест ~ [dromoman2008](users/444/44461886-yandex)<sup>30</sup>
 
 
-_17.04.2021 19:07:54_
+_19.04.2021 09:29:47_
