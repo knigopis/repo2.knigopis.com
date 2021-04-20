@@ -1,4 +1,10 @@
 {
+    "6069210-vkontakte": {
+        "id": "6069210-vkontakte",
+        "nickname": "dobrova_nails",
+        "booksCount": 0,
+        "updatedAt": "2021-04-20 21:40:04"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "dima@selezov.com",
         "booksCount": 0,
         "updatedAt": "2021-04-09 05:42:13"
-    },
-    "107060344012113539390-google": {
-        "id": "107060344012113539390-google",
-        "nickname": "Risky",
-        "booksCount": 0,
-        "updatedAt": "2021-04-08 17:49:57"
     }
 }
