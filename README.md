@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>32</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>18</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>309</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
-[Risky](users/107/107060344012113539390-google)<sup>0</sup> 
 
 
-_19.04.2021 21:39:51_
+_20.04.2021 21:40:05_
