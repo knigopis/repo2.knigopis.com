@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
 * Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
@@ -30,7 +31,6 @@
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
 * Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
-* Пойман с поличным ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>150</sup>
 
 
-_19.04.2021 09:29:47_
+_21.04.2021 15:08:14_

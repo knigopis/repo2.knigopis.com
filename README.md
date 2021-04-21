@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
+    > Определенно есть и полезная информация, но и очень много "воды"
+
 * Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
     > Потрібно перечитати в оригіналі і подивитися кіно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бросила на 70% и прочитала содержание по главам остатка.
 
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
-    > О неформалке Луи и её парне Аме.
 
 * Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
 
-* Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>283</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>195</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>253</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 
 
-_21.04.2021 12:59:26_
+_21.04.2021 15:08:14_

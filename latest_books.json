@@ -1,4 +1,16 @@
 {
+    "yiaAdiB-hN": {
+        "id": "yiaAdiB-hN",
+        "title": "Путеводитель по лжи",
+        "author": "Дэниел Левитин",
+        "notes": "Определенно есть и полезная информация, но и очень много \"воды\"",
+        "createdAt": "2021-04-21 15:08:13",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 283
+        }
+    },
     "o17bMjavsf": {
         "id": "o17bMjavsf",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 25
-        }
-    },
-    "2gYC47UL6q": {
-        "id": "2gYC47UL6q",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Дэвид Сэлинджер",
-        "notes": "",
-        "createdAt": "2021-04-15 22:41:54",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 24
         }
     }
 }
