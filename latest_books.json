@@ -1,4 +1,16 @@
 {
+    "BIsCnKM61g": {
+        "id": "BIsCnKM61g",
+        "title": "Франкенштейн",
+        "author": "Мэри Шелли",
+        "notes": "",
+        "createdAt": "2021-04-21 10:01:37",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 195
+        }
+    },
     "vhVYQdArIM": {
         "id": "vhVYQdArIM",
         "title": "Армейские письма к отцу",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 23
-        }
-    },
-    "w_7dXc1-8o": {
-        "id": "w_7dXc1-8o",
-        "title": "Вторая мировая война",
-        "author": "Энтони Бивор",
-        "notes": "",
-        "createdAt": "2021-04-15 22:39:52",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 22
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>195</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>253</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>32</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>309</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>850</sup> 
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
 
 
-_21.04.2021 04:08:00_
+_21.04.2021 10:01:37_
