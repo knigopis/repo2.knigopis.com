@@ -1,4 +1,16 @@
 {
+    "o17bMjavsf": {
+        "id": "o17bMjavsf",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2021-04-21 12:59:26",
+        "user": {
+            "id": "105545318327982772463-google",
+            "nickname": "Kulagren",
+            "booksCount": 1
+        }
+    },
     "BIsCnKM61g": {
         "id": "BIsCnKM61g",
         "title": "Франкенштейн",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 24
-        }
-    },
-    "WftHKFXLwp": {
-        "id": "WftHKFXLwp",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2021-04-15 22:41:16",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 23
         }
     }
 }

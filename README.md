@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Kulagren](users/105/105545318327982772463-google)<sup>0</sup> 
+[Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>195</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>253</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>430</sup> 
 
 
-_21.04.2021 12:58:53_
+_21.04.2021 12:59:26_
