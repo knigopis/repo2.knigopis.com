@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>283</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>195</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>253</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 
 
-_21.04.2021 15:08:14_
+_21.04.2021 15:09:29_
