@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>253</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>32</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>18</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>252</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>157</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dima@selezov.com](users/113/1130000028058675-yandex)<sup>0</sup> 
 
 
-_20.04.2021 21:40:05_
+_21.04.2021 04:08:00_
