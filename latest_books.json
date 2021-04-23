@@ -1,4 +1,16 @@
 {
+    "QKdzthC2Ia": {
+        "id": "QKdzthC2Ia",
+        "title": "Графиня Рудольштадт",
+        "author": "Жорж Санд",
+        "notes": "",
+        "createdAt": "2021-04-23 20:21:03",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 851
+        }
+    },
     "yVJG9NUuZE": {
         "id": "yVJG9NUuZE",
         "title": "Закон братів Капранових",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 252
-        }
-    },
-    "b4pfatbhta": {
-        "id": "b4pfatbhta",
-        "title": "Искусство прозы",
-        "author": "Владимир Иванович Гучсев",
-        "notes": "",
-        "createdAt": "2021-04-16 02:47:33",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 31
         }
     }
 }
