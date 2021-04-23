@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>185</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>186</sup>
 ---
 
 ## 2021
+
+### І будуть люди
+Анатолій Дімаров
+> [2021-04-22] 9/10 Колективізація та встановлення совєтів на Полтавщині.
+
 
 ### Біль і гнів
 Анатолій Дімаров
