@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>187</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>188</sup>
 ---
 
 ## 2021
+
+### Закон братів Капранових
+Брати Капранови
+> [2021-04-23] 5/10 Збірка газетних статей (деякі вже не актуальні після 2014).
+
 
 ### Зоряний вуйко
 Брати Капранови

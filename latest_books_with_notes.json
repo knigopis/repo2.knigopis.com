@@ -1,4 +1,16 @@
 {
+    "yVJG9NUuZE": {
+        "id": "yVJG9NUuZE",
+        "title": "Закон братів Капранових",
+        "author": "Брати Капранови",
+        "notes": "5/10 Збірка газетних статей (деякі вже не актуальні після 2014).",
+        "createdAt": "2021-04-23 11:36:00",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 188
+        }
+    },
     "lG01i0ZBp5": {
         "id": "lG01i0ZBp5",
         "title": "Зоряний вуйко",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 185
-        }
-    },
-    "vApc3-ufVo": {
-        "id": "vApc3-ufVo",
-        "title": "Алтарь",
-        "author": "Роберт Шекли",
-        "notes": "Алтарь, к которому жертва мужчина сам захотел прийти \"раскрыть\" тайну.",
-        "createdAt": "2021-04-03 17:36:50",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 184
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "yVJG9NUuZE": {
+        "id": "yVJG9NUuZE",
+        "title": "Закон братів Капранових",
+        "author": "Брати Капранови",
+        "notes": "5/10 Збірка газетних статей (деякі вже не актуальні після 2014).",
+        "createdAt": "2021-04-23 11:36:00",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 188
+        }
+    },
     "lG01i0ZBp5": {
         "id": "lG01i0ZBp5",
         "title": "Зоряний вуйко",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 31
-        }
-    },
-    "Ps64l18R0A": {
-        "id": "Ps64l18R0A",
-        "title": "По ту сторону добра и зла",
-        "author": "Фридрих Ницше",
-        "notes": "",
-        "createdAt": "2021-04-15 23:53:25",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 30
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
 * Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
 * Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
@@ -30,7 +31,6 @@
 * Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 * Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
 * Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
-* Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
 
 
-_23.04.2021 11:34:46_
+_23.04.2021 11:36:00_
