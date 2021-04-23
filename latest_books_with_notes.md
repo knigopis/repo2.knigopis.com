@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
 * Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
 * Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
@@ -30,7 +31,6 @@
 * Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
 * Королева призраков ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>185</sup>
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
-* Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
 
 
-_23.04.2021 11:33:23_
+_23.04.2021 11:34:46_

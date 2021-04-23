@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>186</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>187</sup>
 ---
 
 ## 2021
+
+### Зоряний вуйко
+Брати Капранови
+> [2021-04-22] 07/10 Збірка фантастичних оповідань з дрібкою сексизма.
+
 
 ### І будуть люди
 Анатолій Дімаров

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
+    > 07/10 Збірка фантастичних оповідань з дрібкою сексизма.
+
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
     > 9/10 Колективізація та встановлення совєтів на Полтавщині.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Полтавщина під час другої світової війни, людські долі у вихорі історичних подій.
 
 * Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
-    > Определенно есть и полезная информация, но и очень много "воды"
 
 * Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
 
-* Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>166</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 
 
-_23.04.2021 11:33:23_
+_23.04.2021 11:34:46_
