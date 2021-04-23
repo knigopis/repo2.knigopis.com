@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>184</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>185</sup>
 ---
 
 ## 2021
+
+### Біль і гнів
+Анатолій Дімаров
+> [2021-04-20] 9/10 Полтавщина під час другої світової війни, людські долі у вихорі історичних подій.
+
 
 ### Заколот
 Володимир Кузнєцов

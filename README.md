@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
+    > 9/10 Полтавщина під час другої світової війни, людські долі у вихорі історичних подій.
+
 * Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
     > Определенно есть и полезная информация, но и очень много "воды"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Потрібно перечитати в оригіналі і подивитися кіно
 
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
-    > Бросила на 70% и прочитала содержание по главам остатка.
 
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
 
-* Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>166</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
 
 
-_23.04.2021 09:35:04_
+_23.04.2021 11:32:19_

@@ -1,4 +1,16 @@
 {
+    "TslNOj8rvJ": {
+        "id": "TslNOj8rvJ",
+        "title": "Біль і гнів",
+        "author": "Анатолій Дімаров",
+        "notes": "9/10 Полтавщина під час другої світової війни, людські долі у вихорі історичних подій.",
+        "createdAt": "2021-04-23 11:32:19",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 185
+        }
+    },
     "htLqvWXKkY": {
         "id": "htLqvWXKkY",
         "title": "Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 28
-        }
-    },
-    "doy6zxbgTM": {
-        "id": "doy6zxbgTM",
-        "title": "Наполеон Бонапарт",
-        "author": "Альфред Манфред",
-        "notes": "",
-        "createdAt": "2021-04-15 23:44:23",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 27
         }
     }
 }

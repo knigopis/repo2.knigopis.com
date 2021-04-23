@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 185,
+        "updatedAt": "2021-04-23 11:32:19"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 38,
         "updatedAt": "2021-04-10 09:16:23"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 34,
-        "updatedAt": "2021-04-10 04:56:53"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
 * Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
 * Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
@@ -30,7 +31,6 @@
 * Алтарь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>184</sup>
 * Покушение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>183</sup>
 * Курьи ножки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>182</sup>
-* Городской монах ~ [Garka](users/115/115753719718250012620-google)<sup>282</sup>
 
 
-_21.04.2021 15:08:14_
+_23.04.2021 11:32:19_
