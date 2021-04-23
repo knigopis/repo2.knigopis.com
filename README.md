@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>166</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>195</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>34</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 
 
-_21.04.2021 15:09:29_
+_23.04.2021 09:35:04_
