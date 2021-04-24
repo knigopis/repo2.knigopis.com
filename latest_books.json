@@ -1,4 +1,16 @@
 {
+    "aXO7wQnzew": {
+        "id": "aXO7wQnzew",
+        "title": "Игры, в которые играют люди",
+        "author": "Эрик Берн",
+        "notes": "",
+        "createdAt": "2021-04-24 21:44:31",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 38
+        }
+    },
     "yIJ3y-AWP_": {
         "id": "yIJ3y-AWP_",
         "title": "Как разговаривать с кем угодно, когда угодно и где угодно",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 193
-        }
-    },
-    "Ff7Pr2OLWN": {
-        "id": "Ff7Pr2OLWN",
-        "title": "Свой круг",
-        "author": "Данил Корецкий",
-        "notes": "",
-        "createdAt": "2021-04-16 23:35:26",
-        "user": {
-            "id": "468075371-vkontakte",
-            "nickname": "Maximus",
-            "booksCount": 5
         }
     }
 }
