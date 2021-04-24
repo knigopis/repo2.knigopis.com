@@ -1,4 +1,16 @@
 {
+    "_4HCs4AoMg": {
+        "id": "_4HCs4AoMg",
+        "title": "Анатомия героя",
+        "author": "Эдуард Лимонов",
+        "notes": "",
+        "createdAt": "2021-04-24 21:14:50",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 35
+        }
+    },
     "Ab5kSCYVCK": {
         "id": "Ab5kSCYVCK",
         "title": "В стальных грозах",
@@ -345,18 +357,6 @@
             "id": "468075371-vkontakte",
             "nickname": "Maximus",
             "booksCount": 3
-        }
-    },
-    "3WlluI303s": {
-        "id": "3WlluI303s",
-        "title": "Ментовская работа",
-        "author": "Данил Корецкий",
-        "notes": "",
-        "createdAt": "2021-04-16 23:28:27",
-        "user": {
-            "id": "468075371-vkontakte",
-            "nickname": "Maximus",
-            "booksCount": 2
         }
     }
 }
