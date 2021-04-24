@@ -1,7 +1,12 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>32</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>33</sup>
 ---
 
 ## 2021
+
+### 85 дней Славянска
+Жучковский А. Г.
+> [2021-04] 
+
 
 ### Нераскрытая самость
 Карл Густав Юнг

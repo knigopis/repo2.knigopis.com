@@ -1,4 +1,16 @@
 {
+    "QNP8cawp4S": {
+        "id": "QNP8cawp4S",
+        "title": "85 дней Славянска",
+        "author": "Жучковский А. Г.",
+        "notes": "",
+        "createdAt": "2021-04-24 21:09:48",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 33
+        }
+    },
     "thyMSzXZCW": {
         "id": "thyMSzXZCW",
         "title": "Барраярд",
@@ -345,18 +357,6 @@
             "id": "468075371-vkontakte",
             "nickname": "Maximus",
             "booksCount": 1
-        }
-    },
-    "1Zk2T61Si-": {
-        "id": "1Zk2T61Si-",
-        "title": "Ночь в Одиноком Октябре",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2021-04-16 15:12:38",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 199
         }
     }
 }
