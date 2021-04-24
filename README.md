@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
+    > В свободном падении ; Осколки чести; Барраярд; Ученик воина
+
 * Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
     > 5/10 Збірка газетних статей (деякі вже не актуальні після 2014).
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 07/10 Збірка фантастичних оповідань з дрібкою сексизма.
 
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
-    > 9/10 Колективізація та встановлення совєтів на Полтавщині.
 
 * Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>89</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>851</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>102</sup> 
 [fedotov](users/101/101518469468204915024-google)<sup>0</sup> 
 [flame_of_the_fire](users/319/319912296-vkontakte)<sup>0</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>88</sup> 
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 
 
-_23.04.2021 21:05:21_
+_24.04.2021 06:16:08_
