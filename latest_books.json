@@ -1,4 +1,16 @@
 {
+    "Ab5kSCYVCK": {
+        "id": "Ab5kSCYVCK",
+        "title": "В стальных грозах",
+        "author": "Эрнст Юнгер",
+        "notes": "",
+        "createdAt": "2021-04-24 21:13:18",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 34
+        }
+    },
     "QNP8cawp4S": {
         "id": "QNP8cawp4S",
         "title": "85 дней Славянска",
@@ -345,18 +357,6 @@
             "id": "468075371-vkontakte",
             "nickname": "Maximus",
             "booksCount": 2
-        }
-    },
-    "6TrcOE0rdG": {
-        "id": "6TrcOE0rdG",
-        "title": "Жизнь взаймы",
-        "author": "Николай Леонов,Алексей Макеев",
-        "notes": "",
-        "createdAt": "2021-04-16 19:31:16",
-        "user": {
-            "id": "468075371-vkontakte",
-            "nickname": "Maximus",
-            "booksCount": 1
         }
     }
 }
