@@ -1,4 +1,4 @@
-# List of books read by [danyluk62](http://vk.com/id374149854)<sup>35</sup>
+# List of books read by [danyluk62](http://vk.com/id374149854)<sup>36</sup>
 ---
 
 ## 2021
@@ -141,6 +141,10 @@ Raido
 ### Старикам тут не место
 Кормак Маккарти
 > [2019-02] 
+
+
+### Моя политическая биография
+Эдуард Лимонов
 
 
 ### Анатомия героя

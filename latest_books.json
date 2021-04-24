@@ -1,4 +1,16 @@
 {
+    "TUlP_4B7q2": {
+        "id": "TUlP_4B7q2",
+        "title": "Моя политическая биография",
+        "author": "Эдуард Лимонов",
+        "notes": "",
+        "createdAt": "2021-04-24 21:15:25",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 36
+        }
+    },
     "_4HCs4AoMg": {
         "id": "_4HCs4AoMg",
         "title": "Анатомия героя",
@@ -345,18 +357,6 @@
             "id": "468075371-vkontakte",
             "nickname": "Maximus",
             "booksCount": 4
-        }
-    },
-    "QdYlvS4ady": {
-        "id": "QdYlvS4ady",
-        "title": "Исповедь сыщика",
-        "author": "Николай Леонов",
-        "notes": "",
-        "createdAt": "2021-04-16 23:30:00",
-        "user": {
-            "id": "468075371-vkontakte",
-            "nickname": "Maximus",
-            "booksCount": 3
         }
     }
 }
