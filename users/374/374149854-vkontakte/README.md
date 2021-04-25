@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>66</sup>
+# List of books read by danyluk62<sup>67</sup>
 ---
 
 ## 2021
@@ -154,6 +154,14 @@ Raido
 
 ### Анатомия героя
 Эдуард Лимонов
+
+
+
+## 2018
+
+### Традиции и Европа
+Юлиус Эвола
+> [2018-01] 
 
 
 

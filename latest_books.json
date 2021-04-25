@@ -1,4 +1,16 @@
 {
+    "Wgu-OPi1qC": {
+        "id": "Wgu-OPi1qC",
+        "title": "Традиции и Европа",
+        "author": "Юлиус Эвола",
+        "notes": "",
+        "createdAt": "2021-04-25 20:49:04",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 67
+        }
+    },
     "FP0oiiVGpK": {
         "id": "FP0oiiVGpK",
         "title": "К себе самому",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 40
-        }
-    },
-    "H2GjBn_TIL": {
-        "id": "H2GjBn_TIL",
-        "title": "Просто христианство",
-        "author": "К. Льюис",
-        "notes": "",
-        "createdAt": "2021-04-24 23:58:45",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 39
         }
     }
 }
