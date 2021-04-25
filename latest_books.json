@@ -1,4 +1,16 @@
 {
+    "rwYw8COUJp": {
+        "id": "rwYw8COUJp",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2021-04-25 16:09:44",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 45
+        }
+    },
     "7vu_-TJ6BY": {
         "id": "7vu_-TJ6BY",
         "title": "Бойня номер пять, или Крестовый поход детей",
@@ -345,18 +357,6 @@
             "id": "100006761945842-facebook",
             "nickname": "Somik",
             "booksCount": 17
-        }
-    },
-    "CwSrtxYLpg": {
-        "id": "CwSrtxYLpg",
-        "title": "У войны не женское лицр (аудио)",
-        "author": "Светлана Алексеевич",
-        "notes": "",
-        "createdAt": "2021-04-19 09:32:02",
-        "user": {
-            "id": "100006761945842-facebook",
-            "nickname": "Somik",
-            "booksCount": 16
         }
     }
 }
