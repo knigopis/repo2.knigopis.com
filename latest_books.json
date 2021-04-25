@@ -1,4 +1,16 @@
 {
+    "0hmdiEEEkZ": {
+        "id": "0hmdiEEEkZ",
+        "title": "Лис пустыни: Генерал-фельдмаршал Эрвин Роммель",
+        "author": "Лутц Кох",
+        "notes": "",
+        "createdAt": "2021-04-25 20:29:30",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 53
+        }
+    },
     "Ee0ENytNQ-": {
         "id": "Ee0ENytNQ-",
         "title": "Хоббит, или Туда и обратно",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 185
-        }
-    },
-    "htLqvWXKkY": {
-        "id": "htLqvWXKkY",
-        "title": "Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ",
-        "author": "Бронников Андрей",
-        "notes": "",
-        "createdAt": "2021-04-23 09:35:04",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 166
         }
     }
 }
