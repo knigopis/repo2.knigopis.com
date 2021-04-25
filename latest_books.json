@@ -1,4 +1,16 @@
 {
+    "UR-K8nXIXB": {
+        "id": "UR-K8nXIXB",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2021-04-25 16:12:25",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 48
+        }
+    },
     "7FrvW97Y5n": {
         "id": "7FrvW97Y5n",
         "title": "Таинственный остров",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 253
-        }
-    },
-    "5JjTc8eiHC": {
-        "id": "5JjTc8eiHC",
-        "title": "Нераскрытая самость",
-        "author": "Карл Густав Юнг",
-        "notes": "",
-        "createdAt": "2021-04-19 21:39:51",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 32
         }
     }
 }

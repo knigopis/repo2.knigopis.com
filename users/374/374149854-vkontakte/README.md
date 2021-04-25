@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>47</sup>
+# List of books read by danyluk62<sup>48</sup>
 ---
 
 ## 2021
@@ -220,6 +220,10 @@ Raido
 
 
 ## 2014
+
+### О дивный новый мир
+Олдос Хаксли
+
 
 ### Игры, в которые играют люди
 Эрик Берн
