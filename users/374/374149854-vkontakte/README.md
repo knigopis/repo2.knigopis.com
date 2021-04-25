@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>50</sup>
+# List of books read by danyluk62<sup>51</sup>
 ---
 
 ## 2021
@@ -220,6 +220,10 @@ Raido
 
 
 ## 2014
+
+### 1984
+Джордж Оруэлл
+
 
 ### О дивный новый мир
 Олдос Хаксли
