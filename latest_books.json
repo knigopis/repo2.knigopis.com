@@ -1,4 +1,16 @@
 {
+    "vnOuW6-8SB": {
+        "id": "vnOuW6-8SB",
+        "title": "Заводной апельсин",
+        "author": "Энтони Берджесс",
+        "notes": "",
+        "createdAt": "2021-04-25 16:12:51",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 49
+        }
+    },
     "UR-K8nXIXB": {
         "id": "UR-K8nXIXB",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 195
-        }
-    },
-    "vhVYQdArIM": {
-        "id": "vhVYQdArIM",
-        "title": "Армейские письма к отцу",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2021-04-21 04:07:59",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 253
         }
     }
 }

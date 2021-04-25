@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>48</sup>
+# List of books read by danyluk62<sup>49</sup>
 ---
 
 ## 2021
@@ -242,6 +242,10 @@ Raido
 
 
 ## 2012
+
+### Заводной апельсин
+Энтони Берджесс
+
 
 ### Таинственный остров
 Жюль Верн
