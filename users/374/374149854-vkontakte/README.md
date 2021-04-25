@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>53</sup>
+# List of books read by danyluk62<sup>54</sup>
 ---
 
 ## 2021
@@ -174,6 +174,11 @@ Raido
 ### Наполеон
 Евгений Тарле
 > [2016-11] 
+
+
+### Рассуждение о методе
+Рене Декарт
+> [2016-09] 
 
 
 ### Тошнота
