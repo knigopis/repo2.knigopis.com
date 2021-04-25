@@ -1,4 +1,16 @@
 {
+    "FP0oiiVGpK": {
+        "id": "FP0oiiVGpK",
+        "title": "К себе самому",
+        "author": "Марк Аврелий",
+        "notes": "",
+        "createdAt": "2021-04-25 20:47:21",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 66
+        }
+    },
     "1qRXEyHa4q": {
         "id": "1qRXEyHa4q",
         "title": "Метафизика войны",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 39
-        }
-    },
-    "aXO7wQnzew": {
-        "id": "aXO7wQnzew",
-        "title": "Игры, в которые играют люди",
-        "author": "Эрик Берн",
-        "notes": "",
-        "createdAt": "2021-04-24 21:44:31",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 38
         }
     }
 }

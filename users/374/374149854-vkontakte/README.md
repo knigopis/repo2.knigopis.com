@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>65</sup>
+# List of books read by danyluk62<sup>66</sup>
 ---
 
 ## 2021
@@ -158,6 +158,11 @@ Raido
 
 
 ## 2017
+
+### К себе самому
+Марк Аврелий
+> [2017-12] 
+
 
 ### Метафизика войны
 Юлиус Эвола
