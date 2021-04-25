@@ -1,4 +1,16 @@
 {
+    "z5nkJ54Xcw": {
+        "id": "z5nkJ54Xcw",
+        "title": "Так говорил Заратустра",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2021-04-25 20:33:40",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 55
+        }
+    },
     "olw6_7xhX0": {
         "id": "olw6_7xhX0",
         "title": "Рассуждение о методе",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 187
-        }
-    },
-    "8yIpS5a0fX": {
-        "id": "8yIpS5a0fX",
-        "title": "І будуть люди",
-        "author": "Анатолій Дімаров",
-        "notes": "9/10 Колективізація та встановлення совєтів на Полтавщині.",
-        "createdAt": "2021-04-23 11:33:23",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 186
         }
     }
 }
