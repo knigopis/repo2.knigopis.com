@@ -1,4 +1,16 @@
 {
+    "tbDijLabmA": {
+        "id": "tbDijLabmA",
+        "title": "Борьба как внутреннее состояние",
+        "author": "Эрнст Юнгер",
+        "notes": "",
+        "createdAt": "2021-04-25 20:44:18",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 62
+        }
+    },
     "xdCNJAosIX": {
         "id": "xdCNJAosIX",
         "title": "Люди и руины",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 35
-        }
-    },
-    "Ab5kSCYVCK": {
-        "id": "Ab5kSCYVCK",
-        "title": "В стальных грозах",
-        "author": "Эрнст Юнгер",
-        "notes": "",
-        "createdAt": "2021-04-24 21:13:18",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 34
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>61</sup>
+# List of books read by danyluk62<sup>62</sup>
 ---
 
 ## 2021
@@ -158,6 +158,11 @@ Raido
 
 
 ## 2017
+
+### Борьба как внутреннее состояние
+Эрнст Юнгер
+> [2017-11] 
+
 
 ### Люди и руины
 Юлиус Эвола
