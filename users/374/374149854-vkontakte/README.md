@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>57</sup>
+# List of books read by danyluk62<sup>58</sup>
 ---
 
 ## 2021
@@ -158,6 +158,11 @@ Raido
 
 
 ## 2017
+
+### Антихристианин
+Фридрих Ницше
+> [2017-10] 
+
 
 ### По ту сторону добра и зла
 Фридрих Ницше

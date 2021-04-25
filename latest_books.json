@@ -1,4 +1,16 @@
 {
+    "XBfXq5WPZv": {
+        "id": "XBfXq5WPZv",
+        "title": "Антихристианин",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2021-04-25 20:40:47",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 58
+        }
+    },
     "lz0nLNU_fX": {
         "id": "lz0nLNU_fX",
         "title": "Легкий способ бросить курить",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 158
-        }
-    },
-    "QKdzthC2Ia": {
-        "id": "QKdzthC2Ia",
-        "title": "Графиня Рудольштадт",
-        "author": "Жорж Санд",
-        "notes": "",
-        "createdAt": "2021-04-23 20:21:03",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 851
         }
     }
 }
