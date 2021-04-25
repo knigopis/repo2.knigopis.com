@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 52,
+        "updatedAt": "2021-04-25 20:11:21"
+    },
     "116762187083018967175-google": {
         "id": "116762187083018967175-google",
         "nickname": "kirillbk",
@@ -10,12 +16,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 197,
         "updatedAt": "2021-04-25 16:34:20"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 51,
-        "updatedAt": "2021-04-25 16:29:50"
     },
     "292667189027944-facebook": {
         "id": "292667189027944-facebook",

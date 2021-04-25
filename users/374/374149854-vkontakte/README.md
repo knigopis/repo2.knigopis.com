@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>51</sup>
+# List of books read by danyluk62<sup>52</sup>
 ---
 
 ## 2021
@@ -170,6 +170,10 @@ Raido
 ### По ту сторону добра и зла
 Фридрих Ницше
 > [2017-09] 
+
+
+### Хоббит, или Туда и обратно
+Джон Р. Р. Толкин
 
 
 
