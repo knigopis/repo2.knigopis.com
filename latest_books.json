@@ -1,4 +1,16 @@
 {
+    "MnZsI6WuJP": {
+        "id": "MnZsI6WuJP",
+        "title": "Степной волк",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2021-04-25 00:05:21",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 43
+        }
+    },
     "gYhwzcyS3C": {
         "id": "gYhwzcyS3C",
         "title": "Демиан",
@@ -345,18 +357,6 @@
             "id": "100006761945842-facebook",
             "nickname": "Somik",
             "booksCount": 14
-        }
-    },
-    "gjf8b01Qmu": {
-        "id": "gjf8b01Qmu",
-        "title": "Занавес",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2021-04-18 14:21:03",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 309
         }
     }
 }
