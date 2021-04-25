@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>68</sup>
+# List of books read by danyluk62<sup>69</sup>
 ---
 
 ## 2021
@@ -158,6 +158,11 @@ Raido
 
 
 ## 2018
+
+### Восстание масс
+Хосе Ортега-и-Гассет
+> [2018-04] 
+
 
 ### Языческий империализм
 Юлиус Эвола

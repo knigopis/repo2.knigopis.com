@@ -1,4 +1,16 @@
 {
+    "26XyYBMtNH": {
+        "id": "26XyYBMtNH",
+        "title": "Восстание масс",
+        "author": "Хосе Ортега-и-Гассет",
+        "notes": "",
+        "createdAt": "2021-04-25 20:52:28",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 69
+        }
+    },
     "xZKMB0pTWM": {
         "id": "xZKMB0pTWM",
         "title": "Языческий империализм",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 42
-        }
-    },
-    "OpH_RZ4E__": {
-        "id": "OpH_RZ4E__",
-        "title": "Тошнота",
-        "author": "Жан-поль Сартр",
-        "notes": "",
-        "createdAt": "2021-04-25 00:03:35",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 41
         }
     }
 }
