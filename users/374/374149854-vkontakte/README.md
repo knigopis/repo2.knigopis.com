@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>69</sup>
+# List of books read by danyluk62<sup>70</sup>
 ---
 
 ## 2021
@@ -158,6 +158,11 @@ Raido
 
 
 ## 2018
+
+### К генеалогии морали
+Фридрих Ницше
+> [2018-04] 
+
 
 ### Восстание масс
 Хосе Ортега-и-Гассет

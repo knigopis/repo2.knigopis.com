@@ -1,4 +1,16 @@
 {
+    "g9O9iZSvd2": {
+        "id": "g9O9iZSvd2",
+        "title": "К генеалогии морали",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2021-04-25 20:53:01",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 70
+        }
+    },
     "26XyYBMtNH": {
         "id": "26XyYBMtNH",
         "title": "Восстание масс",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 43
-        }
-    },
-    "gYhwzcyS3C": {
-        "id": "gYhwzcyS3C",
-        "title": "Демиан",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2021-04-25 00:05:00",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 42
         }
     }
 }
