@@ -1,4 +1,16 @@
 {
+    "9s5StMeOr4": {
+        "id": "9s5StMeOr4",
+        "title": "Человеческое, слишком человеческое",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2021-04-25 20:41:23",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 59
+        }
+    },
     "XBfXq5WPZv": {
         "id": "XBfXq5WPZv",
         "title": "Антихристианин",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 89
-        }
-    },
-    "4eovBOuTPb": {
-        "id": "4eovBOuTPb",
-        "title": "Блокада. Книга первая.",
-        "author": "Александр Борисович Чаковский",
-        "notes": "",
-        "createdAt": "2021-04-23 21:05:21",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 158
         }
     }
 }
