@@ -1,4 +1,16 @@
 {
+    "1qRXEyHa4q": {
+        "id": "1qRXEyHa4q",
+        "title": "Метафизика войны",
+        "author": "Юлиус Эвола",
+        "notes": "",
+        "createdAt": "2021-04-25 20:46:49",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 65
+        }
+    },
     "h7hnIuxbJQ": {
         "id": "h7hnIuxbJQ",
         "title": "Оседлать тигра",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 38
-        }
-    },
-    "yIJ3y-AWP_": {
-        "id": "yIJ3y-AWP_",
-        "title": "Как разговаривать с кем угодно, когда угодно и где угодно",
-        "author": "Ларри Кинг",
-        "notes": "",
-        "createdAt": "2021-04-24 21:29:48",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 37
         }
     }
 }
