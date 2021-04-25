@@ -1,4 +1,16 @@
 {
+    "d3UxQrgJnS": {
+        "id": "d3UxQrgJnS",
+        "title": "Фашизм. Критика справа",
+        "author": "Юлиус Эвола",
+        "notes": "",
+        "createdAt": "2021-04-25 20:45:36",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 63
+        }
+    },
     "tbDijLabmA": {
         "id": "tbDijLabmA",
         "title": "Борьба как внутреннее состояние",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 36
-        }
-    },
-    "_4HCs4AoMg": {
-        "id": "_4HCs4AoMg",
-        "title": "Анатомия героя",
-        "author": "Эдуард Лимонов",
-        "notes": "",
-        "createdAt": "2021-04-24 21:14:50",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 35
         }
     }
 }
