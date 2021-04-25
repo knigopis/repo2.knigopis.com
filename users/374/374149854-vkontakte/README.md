@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>63</sup>
+# List of books read by danyluk62<sup>64</sup>
 ---
 
 ## 2021
@@ -158,6 +158,11 @@ Raido
 
 
 ## 2017
+
+### Оседлать тигра
+Юлиус Эвола
+> [2017-11] 
+
 
 ### Фашизм. Критика справа
 Юлиус Эвола

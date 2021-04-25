@@ -1,4 +1,16 @@
 {
+    "h7hnIuxbJQ": {
+        "id": "h7hnIuxbJQ",
+        "title": "Оседлать тигра",
+        "author": "Юлиус Эвола",
+        "notes": "",
+        "createdAt": "2021-04-25 20:46:16",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 64
+        }
+    },
     "d3UxQrgJnS": {
         "id": "d3UxQrgJnS",
         "title": "Фашизм. Критика справа",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 37
-        }
-    },
-    "TUlP_4B7q2": {
-        "id": "TUlP_4B7q2",
-        "title": "Моя политическая биография",
-        "author": "Эдуард Лимонов",
-        "notes": "",
-        "createdAt": "2021-04-24 21:15:25",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 36
         }
     }
 }
