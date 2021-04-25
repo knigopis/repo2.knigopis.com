@@ -1,4 +1,16 @@
 {
+    "xdCNJAosIX": {
+        "id": "xdCNJAosIX",
+        "title": "Люди и руины",
+        "author": "Юлиус Эвола",
+        "notes": "",
+        "createdAt": "2021-04-25 20:43:42",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 61
+        }
+    },
     "fVOdEVxG4_": {
         "id": "fVOdEVxG4_",
         "title": "Психология",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 34
-        }
-    },
-    "QNP8cawp4S": {
-        "id": "QNP8cawp4S",
-        "title": "85 дней Славянска",
-        "author": "Жучковский А. Г.",
-        "notes": "",
-        "createdAt": "2021-04-24 21:09:48",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 33
         }
     }
 }
