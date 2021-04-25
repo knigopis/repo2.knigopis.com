@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
+    > Отто убил компаньёна грузовиком, грузовик убил Отто.
+
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
     > Бросила прочитав 16%.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В свободном падении ; Осколки чести; Барраярд; Ученик воина
 
 * Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
-    > 5/10 Збірка газетних статей (деякі вже не актуальні після 2014).
 
 * Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
 
-* Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>51</sup> 
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>89</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>851</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
 
 
-_25.04.2021 16:29:50_
+_25.04.2021 16:34:20_

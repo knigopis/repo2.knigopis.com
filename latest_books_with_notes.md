@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
 * Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
@@ -30,7 +31,6 @@
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
-* Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
 
 
-_25.04.2021 10:42:19_
+_25.04.2021 16:34:20_

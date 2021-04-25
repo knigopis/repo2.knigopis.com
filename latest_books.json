@@ -1,4 +1,16 @@
 {
+    "7Hvl5PnWcC": {
+        "id": "7Hvl5PnWcC",
+        "title": "Грузовик дяди Отто",
+        "author": "Стивен Кинг",
+        "notes": "Отто убил компаньёна грузовиком, грузовик убил Отто.",
+        "createdAt": "2021-04-25 16:34:20",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 197
+        }
+    },
     "kaTzHyHRLv": {
         "id": "kaTzHyHRLv",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 284
-        }
-    },
-    "yiaAdiB-hN": {
-        "id": "yiaAdiB-hN",
-        "title": "Путеводитель по лжи",
-        "author": "Дэниел Левитин",
-        "notes": "Определенно есть и полезная информация, но и очень много \"воды\"",
-        "createdAt": "2021-04-21 15:08:13",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 283
         }
     }
 }
