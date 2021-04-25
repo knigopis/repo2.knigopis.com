@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
 * Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
 * Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
@@ -30,7 +31,6 @@
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 *  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
 * Синее пламя 4. Белый огонь ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
-* Подарок из Индии ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>186</sup>
 
 
-_24.04.2021 06:16:08_
+_25.04.2021 10:42:19_

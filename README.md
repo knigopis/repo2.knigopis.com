@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
+    > Бросила прочитав 16%.
+
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
     > В свободном падении ; Осколки чести; Барраярд; Ученик воина
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Збірка газетних статей (деякі вже не актуальні після 2014).
 
 * Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
-    > 07/10 Збірка фантастичних оповідань з дрібкою сексизма.
 
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
 
-* Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>43</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>89</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>166</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>195</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>253</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 
 
-_25.04.2021 00:05:21_
+_25.04.2021 10:42:19_
