@@ -1,4 +1,16 @@
 {
+    "gYhwzcyS3C": {
+        "id": "gYhwzcyS3C",
+        "title": "Демиан",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2021-04-25 00:05:00",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 42
+        }
+    },
     "OpH_RZ4E__": {
         "id": "OpH_RZ4E__",
         "title": "Тошнота",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 309
-        }
-    },
-    "DAxihFxMKb": {
-        "id": "DAxihFxMKb",
-        "title": "Пояс Ариона",
-        "author": "Устинова Татьяна",
-        "notes": "",
-        "createdAt": "2021-04-18 05:50:48",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 18
         }
     }
 }
