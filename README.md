@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>44</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>43</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>89</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>851</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>38</sup> 
 
 
-_25.04.2021 10:42:19_
+_25.04.2021 10:43:10_
