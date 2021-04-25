@@ -1,4 +1,10 @@
 {
+    "292667189027944-facebook": {
+        "id": "292667189027944-facebook",
+        "nickname": "izabellangel",
+        "booksCount": 0,
+        "updatedAt": "2021-04-25 12:15:21"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "Rina",
         "booksCount": 3,
         "updatedAt": "2021-04-11 15:07:49"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 38,
-        "updatedAt": "2021-04-10 09:16:23"
     }
 }
