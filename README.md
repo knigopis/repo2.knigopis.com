@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>44</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>89</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>3</sup> 
-[](users/153/1537586159620888-facebook)<sup>38</sup> 
 
 
-_25.04.2021 10:43:10_
+_25.04.2021 12:15:21_
