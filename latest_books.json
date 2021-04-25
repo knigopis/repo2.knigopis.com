@@ -1,4 +1,16 @@
 {
+    "k8FvYsGSt1": {
+        "id": "k8FvYsGSt1",
+        "title": "Крёстный отец",
+        "author": "Марио Пьюзо",
+        "notes": "",
+        "createdAt": "2021-04-25 16:10:20",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 46
+        }
+    },
     "rwYw8COUJp": {
         "id": "rwYw8COUJp",
         "title": "Метро 2033",
@@ -345,18 +357,6 @@
             "id": "100006761945842-facebook",
             "nickname": "Somik",
             "booksCount": 18
-        }
-    },
-    "EjvRBwX41y": {
-        "id": "EjvRBwX41y",
-        "title": "Легенды и мифы древней Греции (аудио)",
-        "author": "Николай Кун",
-        "notes": "",
-        "createdAt": "2021-04-19 09:33:06",
-        "user": {
-            "id": "100006761945842-facebook",
-            "nickname": "Somik",
-            "booksCount": 17
         }
     }
 }
