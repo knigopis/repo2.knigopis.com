@@ -1,4 +1,10 @@
 {
+    "116762187083018967175-google": {
+        "id": "116762187083018967175-google",
+        "nickname": "kirillbk",
+        "booksCount": 0,
+        "updatedAt": "2021-04-25 19:01:40"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 285,
         "updatedAt": "2021-04-11 19:49:59"
-    },
-    "102857111133378678801-google": {
-        "id": "102857111133378678801-google",
-        "nickname": "Rina",
-        "booksCount": 3,
-        "updatedAt": "2021-04-11 15:07:49"
     }
 }
