@@ -1,4 +1,16 @@
 {
+    "fVOdEVxG4_": {
+        "id": "fVOdEVxG4_",
+        "title": "Психология",
+        "author": "Уильям Джеймс",
+        "notes": "",
+        "createdAt": "2021-04-25 20:42:59",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 60
+        }
+    },
     "9s5StMeOr4": {
         "id": "9s5StMeOr4",
         "title": "Человеческое, слишком человеческое",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 33
-        }
-    },
-    "thyMSzXZCW": {
-        "id": "thyMSzXZCW",
-        "title": "Барраярд",
-        "author": "Буджолд Лоис Макмастер",
-        "notes": "В свободном падении ; Осколки чести; Барраярд; Ученик воина",
-        "createdAt": "2021-04-24 06:16:08",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 89
         }
     }
 }
