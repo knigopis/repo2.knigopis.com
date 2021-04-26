@@ -1,4 +1,10 @@
 {
+    "262062207519652-facebook": {
+        "id": "262062207519652-facebook",
+        "nickname": "TheWildWind",
+        "booksCount": 39,
+        "updatedAt": "2021-04-26 17:02:18"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 80,
         "updatedAt": "2021-04-11 20:27:52"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 285,
-        "updatedAt": "2021-04-11 19:49:59"
     }
 }

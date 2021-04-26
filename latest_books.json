@@ -1,4 +1,16 @@
 {
+    "EvG4XaqTdB": {
+        "id": "EvG4XaqTdB",
+        "title": "Сексуальный интеллект",
+        "author": "Марти Кляйн",
+        "notes": "",
+        "createdAt": "2021-04-26 17:02:18",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 39
+        }
+    },
     "g9O9iZSvd2": {
         "id": "g9O9iZSvd2",
         "title": "К генеалогии морали",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 196
-        }
-    },
-    "MnZsI6WuJP": {
-        "id": "MnZsI6WuJP",
-        "title": "Степной волк",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2021-04-25 00:05:21",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 43
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[TheWildWind](users/262/262062207519652-facebook)<sup>39</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>70</sup> 
 [kirillbk](users/116/116762187083018967175-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>285</sup> 
 
 
-_25.04.2021 20:53:01_
+_26.04.2021 17:02:18_
