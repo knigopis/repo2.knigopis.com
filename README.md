@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>852</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>39</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>70</sup> 
 [kirillbk](users/116/116762187083018967175-google)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>89</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>851</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>166</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
 
 
-_26.04.2021 17:02:18_
+_26.04.2021 19:12:59_
