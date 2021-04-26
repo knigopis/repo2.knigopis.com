@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jolly](users/111/111004832908941453467-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>852</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>39</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>80</sup> 
 
 
-_26.04.2021 19:12:59_
+_26.04.2021 19:15:28_
