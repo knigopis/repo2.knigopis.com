@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>103</sup> 
 [jolly](users/111/111004832908941453467-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>852</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>39</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>1</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>102</sup> 
 [fedotov](users/101/101518469468204915024-google)<sup>0</sup> 
 [flame_of_the_fire](users/319/319912296-vkontakte)<sup>0</sup> 
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
 
 
-_26.04.2021 19:15:28_
+_27.04.2021 08:21:08_
