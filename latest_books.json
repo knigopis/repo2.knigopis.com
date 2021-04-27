@@ -1,4 +1,16 @@
 {
+    "ugCuC1pQNc": {
+        "id": "ugCuC1pQNc",
+        "title": "Слов'янськ. Початок вiйни",
+        "author": "Артем Шевченко",
+        "notes": "",
+        "createdAt": "2021-04-27 21:29:42",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 73
+        }
+    },
     "ApS3jtcYTf": {
         "id": "ApS3jtcYTf",
         "title": "Generation П",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 48
-        }
-    },
-    "7FrvW97Y5n": {
-        "id": "7FrvW97Y5n",
-        "title": "Таинственный остров",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2021-04-25 16:11:39",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 47
         }
     }
 }

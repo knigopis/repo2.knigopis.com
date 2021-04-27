@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>72</sup>
+# List of books read by danyluk62<sup>73</sup>
 ---
 
 ## 2021
+
+### Слов'янськ. Початок вiйни
+Артем Шевченко
+> [2021-04] 
+
 
 ### 85 дней Славянска
 Жучковский А. Г.
