@@ -1,4 +1,4 @@
-# List of books read by danyluk62<sup>70</sup>
+# List of books read by danyluk62<sup>71</sup>
 ---
 
 ## 2021
@@ -323,6 +323,10 @@ Raido
 
 
 ## 2014
+
+### Омон Ра
+Виктор Пелевин
+
 
 ### 1984
 Джордж Оруэлл
