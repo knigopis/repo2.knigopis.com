@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Phoenix](users/112/112747734454276773382-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>103</sup> 
 [jolly](users/111/111004832908941453467-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>852</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [flame_of_the_fire](users/319/319912296-vkontakte)<sup>0</sup> 
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>39</sup> 
 
 
-_27.04.2021 08:21:08_
+_27.04.2021 12:12:30_
