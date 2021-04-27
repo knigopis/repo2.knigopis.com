@@ -1,4 +1,10 @@
 {
+    "112747734454276773382-google": {
+        "id": "112747734454276773382-google",
+        "nickname": "Phoenix",
+        "booksCount": 0,
+        "updatedAt": "2021-04-27 12:12:30"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "4inasky",
         "booksCount": 0,
         "updatedAt": "2021-04-12 13:05:59"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 39,
-        "updatedAt": "2021-04-12 03:08:07"
     }
 }
