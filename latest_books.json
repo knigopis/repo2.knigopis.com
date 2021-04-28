@@ -1,4 +1,16 @@
 {
+    "XIBzid6cd9": {
+        "id": "XIBzid6cd9",
+        "title": "День, когда исчезли дети",
+        "author": "Пентикост",
+        "notes": "",
+        "createdAt": "2021-04-28 19:49:57",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 40
+        }
+    },
     "D6q6NEoxDG": {
         "id": "D6q6NEoxDG",
         "title": "Тень и кость",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 50
-        }
-    },
-    "vnOuW6-8SB": {
-        "id": "vnOuW6-8SB",
-        "title": "Заводной апельсин",
-        "author": "Энтони Берджесс",
-        "notes": "",
-        "createdAt": "2021-04-25 16:12:51",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 49
         }
     }
 }
