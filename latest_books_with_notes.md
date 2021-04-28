@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
 * Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
@@ -30,7 +31,6 @@
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
 * Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
-*  ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>181</sup>
 
 
-_25.04.2021 16:34:20_
+_28.04.2021 21:13:38_

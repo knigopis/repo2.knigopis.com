@@ -1,4 +1,16 @@
 {
+    "1u3nvkRI4o": {
+        "id": "1u3nvkRI4o",
+        "title": "Воин любви. История любви и прощения",
+        "author": "Мелтон Гленнон Дойл",
+        "notes": "Наталкивает на размышления, но перечитать вряд ли захочется.",
+        "createdAt": "2021-04-28 21:13:38",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 44
+        }
+    },
     "7Hvl5PnWcC": {
         "id": "7Hvl5PnWcC",
         "title": "Грузовик дяди Отто",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 182
-        }
-    },
-    "tbTbmxxCBl": {
-        "id": "tbTbmxxCBl",
-        "title": "",
-        "author": "",
-        "notes": "10/10 Доктор-оповідач скоює вбивство у тихому англійському селі.",
-        "createdAt": "2021-04-04 14:35:19",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 181
         }
     }
 }

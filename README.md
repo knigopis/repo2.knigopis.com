@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
+    > Наталкивает на размышления, но перечитать вряд ли захочется.
+
 * Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
     > Отто убил компаньёна грузовиком, грузовик убил Отто.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бросила прочитав 16%.
 
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
-    > В свободном падении ; Осколки чести; Барраярд; Ученик воина
 
 * Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 
-* Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TheWildWind](users/262/262062207519652-facebook)<sup>43</sup> 
+[TheWildWind](users/262/262062207519652-facebook)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>853</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>73</sup> 
 [Phoenix](users/112/112747734454276773382-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4inasky](users/138/138289153-vkontakte)<sup>0</sup> 
 
 
-_28.04.2021 19:52:19_
+_28.04.2021 21:13:38_

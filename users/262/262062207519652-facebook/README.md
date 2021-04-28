@@ -1,7 +1,12 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>43</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>44</sup>
 ---
 
 ## 2021
+
+### Воин любви. История любви и прощения
+Мелтон Гленнон Дойл
+> [2021-04-29] Наталкивает на размышления, но перечитать вряд ли захочется.
+
 
 ### День, когда исчезли дети
 Пентикост
