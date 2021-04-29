@@ -1,4 +1,10 @@
 {
+    "4129490930435358-facebook": {
+        "id": "4129490930435358-facebook",
+        "nickname": "Malysha",
+        "booksCount": 5,
+        "updatedAt": "2021-04-29 04:18:18"
+    },
     "262062207519652-facebook": {
         "id": "262062207519652-facebook",
         "nickname": "TheWildWind",
@@ -172,11 +178,5 @@
         "nickname": "newqwes",
         "booksCount": 0,
         "updatedAt": "2021-04-13 14:44:20"
-    },
-    "138289153-vkontakte": {
-        "id": "138289153-vkontakte",
-        "nickname": "4inasky",
-        "booksCount": 0,
-        "updatedAt": "2021-04-12 13:05:59"
     }
 }
