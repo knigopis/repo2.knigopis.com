@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>74</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>5</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>853</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>73</sup> 
 [Phoenix](users/112/112747734454276773382-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>103</sup> 
 [jolly](users/111/111004832908941453467-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [newqwes](users/147/147033532-vkontakte)<sup>0</sup> 
 
 
-_29.04.2021 04:18:18_
+_29.04.2021 16:01:46_
