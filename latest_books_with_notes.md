@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
 * Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
 * Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
@@ -30,7 +31,6 @@
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
 * Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
-* Чорнобиль: я бачив ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>182</sup>
 
 
-_28.04.2021 21:13:38_
+_29.04.2021 16:52:58_

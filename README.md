@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
+    > Неожиданно пришлось найти себя в этой книге :( 
+    > интересно было прочитать про область мозга, отвечающая за поведение в стрессе, которая растет, если в этом стрессе находиться долго и часто
+
 * Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
     > Наталкивает на размышления, но перечитать вряд ли захочется.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Отто убил компаньёна грузовиком, грузовик убил Отто.
 
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
-    > Бросила прочитав 16%.
 
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
 
-* Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[albina_untiring](users/257/2579695-vkontakte)<sup>9</sup> 
+[albina_untiring](users/257/2579695-vkontakte)<sup>10</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>74</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>5</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [flame_of_the_fire](users/319/319912296-vkontakte)<sup>0</sup> 
 
 
-_29.04.2021 16:51:29_
+_29.04.2021 16:52:58_
