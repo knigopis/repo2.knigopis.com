@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ..",
+        "booksCount": 140,
+        "updatedAt": "2021-04-30 18:10:57"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "fedotov",
         "booksCount": 0,
         "updatedAt": "2021-04-14 16:12:27"
-    },
-    "319912296-vkontakte": {
-        "id": "319912296-vkontakte",
-        "nickname": "flame_of_the_fire",
-        "booksCount": 0,
-        "updatedAt": "2021-04-14 11:38:01"
     }
 }

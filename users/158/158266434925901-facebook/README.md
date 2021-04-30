@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>139</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>140</sup>
 ---
 
 ## 2021
+
+### Полкороля
+Джо АБЕРКРОМБИ
+> [2021-05-01] 
+
 
 ### Проклятая
 Том Уилер, Фрэнк Миллер

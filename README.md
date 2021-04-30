@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>140</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>74</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>5</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>1</sup> 
 [fedotov](users/101/101518469468204915024-google)<sup>0</sup> 
-[flame_of_the_fire](users/319/319912296-vkontakte)<sup>0</sup> 
 
 
-_29.04.2021 16:52:58_
+_30.04.2021 18:10:57_
