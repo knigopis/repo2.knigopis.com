@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>286</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>140</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
-[wikju](users/107/107255524402462322556-google)<sup>1</sup> 
 
 
-_30.04.2021 19:24:57_
+_30.04.2021 20:42:54_

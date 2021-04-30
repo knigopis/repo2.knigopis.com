@@ -1,4 +1,16 @@
 {
+    "-XV0jd7wWC": {
+        "id": "-XV0jd7wWC",
+        "title": "Маг",
+        "author": "Сомерсет Моэм",
+        "notes": "",
+        "createdAt": "2021-04-30 20:42:54",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 49
+        }
+    },
     "xdx99hTiJU": {
         "id": "xdx99hTiJU",
         "title": "Престол Кретории",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 60
-        }
-    },
-    "9s5StMeOr4": {
-        "id": "9s5StMeOr4",
-        "title": "Человеческое, слишком человеческое",
-        "author": "Фридрих Ницше",
-        "notes": "",
-        "createdAt": "2021-04-25 20:41:23",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 59
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 49,
+        "updatedAt": "2021-04-30 20:42:54"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 62,
         "updatedAt": "2021-04-15 20:09:40"
-    },
-    "107255524402462322556-google": {
-        "id": "107255524402462322556-google",
-        "nickname": "wikju",
-        "booksCount": 1,
-        "updatedAt": "2021-04-15 16:51:53"
     }
 }
