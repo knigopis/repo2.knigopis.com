@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
 * Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
 * Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
@@ -30,7 +31,6 @@
 * Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
 * На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
 * Убивство Роджера Екройда ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>184</sup>
-* Заколот ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>183</sup>
 
 
-_29.04.2021 16:52:58_
+_30.04.2021 19:24:57_

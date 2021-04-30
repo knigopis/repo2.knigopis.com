@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
+    > Только настоящий аристократ не доказывает на каждом шагу свое превосходство -он и так в нем не сомневается
+
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
     > Неожиданно пришлось найти себя в этой книге :( 
     > интересно было прочитать про область мозга, отвечающая за поведение в стрессе, которая растет, если в этом стрессе находиться долго и часто
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Наталкивает на размышления, но перечитать вряд ли захочется.
 
 * Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
-    > Отто убил компаньёна грузовиком, грузовик убил Отто.
 
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
 
-* Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>286</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>140</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>74</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>1</sup> 
-[fedotov](users/101/101518469468204915024-google)<sup>0</sup> 
 
 
-_30.04.2021 18:10:57_
+_30.04.2021 19:24:57_
