@@ -1,4 +1,10 @@
 {
+    "567284923-yandex": {
+        "id": "567284923-yandex",
+        "nickname": "yadykova.natalia",
+        "booksCount": 0,
+        "updatedAt": "2021-05-01 05:59:58"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 92,
         "updatedAt": "2021-04-16 12:55:03"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 62,
-        "updatedAt": "2021-04-15 20:09:40"
     }
 }
