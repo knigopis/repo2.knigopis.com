@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>286</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>140</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>62</sup> 
 
 
-_30.04.2021 20:42:54_
+_01.05.2021 05:59:58_
