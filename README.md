@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>310</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>90</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>854</sup> 
 [yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>253</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>18</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>309</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>92</sup> 
 
 
-_01.05.2021 15:14:24_
+_01.05.2021 20:30:25_

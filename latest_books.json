@@ -1,4 +1,16 @@
 {
+    "AtvA9xNTef": {
+        "id": "AtvA9xNTef",
+        "title": "Сквозь стену",
+        "author": "Патриция Вентворт",
+        "notes": "",
+        "createdAt": "2021-05-01 20:30:24",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 310
+        }
+    },
     "M9atBEUbeA": {
         "id": "M9atBEUbeA",
         "title": "Тёмная башня. Колдун и кристалл",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 63
-        }
-    },
-    "tbDijLabmA": {
-        "id": "tbDijLabmA",
-        "title": "Борьба как внутреннее состояние",
-        "author": "Эрнст Юнгер",
-        "notes": "",
-        "createdAt": "2021-04-25 20:44:18",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 62
         }
     }
 }
