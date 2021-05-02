@@ -1,4 +1,16 @@
 {
+    "TWZ7U9rZQm": {
+        "id": "TWZ7U9rZQm",
+        "title": "Fathers Raising Daughters: The Father's Guide to the Female Mind-Field",
+        "author": "Nigel Latta",
+        "notes": "",
+        "createdAt": "2021-05-02 07:56:01",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 167
+        }
+    },
     "PJcBQqi2y9": {
         "id": "PJcBQqi2y9",
         "title": "Крах и восход",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 68
-        }
-    },
-    "Wgu-OPi1qC": {
-        "id": "Wgu-OPi1qC",
-        "title": "Традиции и Европа",
-        "author": "Юлиус Эвола",
-        "notes": "",
-        "createdAt": "2021-04-25 20:49:04",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 67
         }
     }
 }

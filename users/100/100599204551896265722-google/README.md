@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>166</sup>
+# Список прочитанных книг пользователя exulted<sup>167</sup>
 ---
 
 ## 2021
+
+### Fathers Raising Daughters: The Father's Guide to the Female Mind-Field
+Nigel Latta
+> [2021-04-23] 
+
 
 ### Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ
 Бронников Андрей
