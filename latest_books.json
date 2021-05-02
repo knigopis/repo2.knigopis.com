@@ -1,4 +1,16 @@
 {
+    "LzHV7D44n6": {
+        "id": "LzHV7D44n6",
+        "title": "Муссолини и другие фашисты",
+        "author": "Эдуард Лимонов",
+        "notes": "",
+        "createdAt": "2021-05-02 02:43:35",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 75
+        }
+    },
     "BAAFDrOnVo": {
         "id": "BAAFDrOnVo",
         "title": "Анна, где ты",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 65
-        }
-    },
-    "h7hnIuxbJQ": {
-        "id": "h7hnIuxbJQ",
-        "title": "Оседлать тигра",
-        "author": "Юлиус Эвола",
-        "notes": "",
-        "createdAt": "2021-04-25 20:46:16",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 64
         }
     }
 }
