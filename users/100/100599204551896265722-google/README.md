@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>167</sup>
+# Список прочитанных книг пользователя exulted<sup>168</sup>
 ---
 
 ## 2021
+
+### Denken wie der Feind 20 Jahre Ausnahmezustand 9/11 und die Geopolitik des Terrors: Teil 1 Das Erdöl, der Dollar und die Drogen
+Lars Schall
+> [2021-05-02] 
+
 
 ### Fathers Raising Daughters: The Father's Guide to the Female Mind-Field
 Nigel Latta
