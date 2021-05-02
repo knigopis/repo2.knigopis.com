@@ -1,4 +1,16 @@
 {
+    "6WCNwlar7I": {
+        "id": "6WCNwlar7I",
+        "title": "Дисгардиум (серия из 6 книг)",
+        "author": "Сургалинов Данияр",
+        "notes": "ЛитРПГ\nПервые книги интересные, дальше посмотрим",
+        "createdAt": "2021-05-02 14:09:14",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 38
+        }
+    },
     "t9Wp8OYR-7": {
         "id": "t9Wp8OYR-7",
         "title": "Ветер (серия из 9 книг)",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 852
-        }
-    },
-    "EvG4XaqTdB": {
-        "id": "EvG4XaqTdB",
-        "title": "Сексуальный интеллект",
-        "author": "Марти Кляйн",
-        "notes": "",
-        "createdAt": "2021-04-26 17:02:18",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 39
         }
     }
 }

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
+    > ЛитРПГ
+    > Первые книги интересные, дальше посмотрим
+
 * Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
     > ЛитРПГ
     > Довольно интересная серия, правда последние книги уже читать не так интересно
@@ -17,7 +21,6 @@ Do not use pull requests to make changes here.
     > Оценка 3-
 
 * Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
-    > Только настоящий аристократ не доказывает на каждом шагу свое превосходство -он и так в нем не сомневается
 
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
 
@@ -31,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
 
-* Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>37</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>76</sup> 
@@ -70,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 
 
-_02.05.2021 14:06:25_
+_02.05.2021 14:09:14_
