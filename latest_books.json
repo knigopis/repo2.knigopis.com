@@ -1,4 +1,16 @@
 {
+    "SR8mpzjbf_": {
+        "id": "SR8mpzjbf_",
+        "title": "Сражение года: оборона Саур-Могилы",
+        "author": "Евгений Норин",
+        "notes": "",
+        "createdAt": "2021-05-02 02:44:01",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 76
+        }
+    },
     "LzHV7D44n6": {
         "id": "LzHV7D44n6",
         "title": "Муссолини и другие фашисты",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 66
-        }
-    },
-    "1qRXEyHa4q": {
-        "id": "1qRXEyHa4q",
-        "title": "Метафизика войны",
-        "author": "Юлиус Эвола",
-        "notes": "",
-        "createdAt": "2021-04-25 20:46:49",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 65
         }
     }
 }
