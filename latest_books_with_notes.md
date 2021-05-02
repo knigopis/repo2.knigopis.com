@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
 * Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
 * Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
 * Тайна мертвой деревни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>189</sup>
-* На выгодных условиях ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>188</sup>
 
 
-_02.05.2021 14:03:10_
+_02.05.2021 14:06:25_

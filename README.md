@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
+    > ЛитРПГ
+    > Довольно интересная серия, правда последние книги уже читать не так интересно
+    > Серия не закончена
+    > Оценка 4
+
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
     > Биография
     > Насилие над гражданским населением Германии, "заваливание трупами" при атаке -  автор озлобленный демагог
@@ -14,8 +20,6 @@ Do not use pull requests to make changes here.
     > Только настоящий аристократ не доказывает на каждом шагу свое превосходство -он и так в нем не сомневается
 
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
-    > Неожиданно пришлось найти себя в этой книге :( 
-    > интересно было прочитать про область мозга, отвечающая за поведение в стрессе, которая растет, если в этом стрессе находиться долго и часто
 
 * Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
 
@@ -29,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
 
-* І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>36</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>37</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>76</sup> 
@@ -68,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 
 
-_02.05.2021 14:03:56_
+_02.05.2021 14:06:25_
