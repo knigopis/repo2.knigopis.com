@@ -1,4 +1,16 @@
 {
+    "K5vfiUCCw5": {
+        "id": "K5vfiUCCw5",
+        "title": "Ветер (серия из 9 книг)",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-02 14:03:56",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 36
+        }
+    },
     "e69WH4CbgN": {
         "id": "e69WH4CbgN",
         "title": "Воспоминания о войне",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 39
-        }
-    },
-    "g9O9iZSvd2": {
-        "id": "g9O9iZSvd2",
-        "title": "К генеалогии морали",
-        "author": "Фридрих Ницше",
-        "notes": "",
-        "createdAt": "2021-04-25 20:53:01",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 70
         }
     }
 }

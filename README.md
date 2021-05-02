@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>35</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>36</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>76</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 
 
-_02.05.2021 14:03:10_
+_02.05.2021 14:03:56_
