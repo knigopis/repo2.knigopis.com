@@ -39,10 +39,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>77</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>76</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>311</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>90</sup> 
 [yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>199</sup> 
 
 
-_02.05.2021 14:09:14_
+_03.05.2021 19:42:42_
