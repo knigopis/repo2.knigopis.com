@@ -37,12 +37,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>312</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>77</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>311</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>90</sup> 
 [yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 
 
-_03.05.2021 20:35:13_
+_03.05.2021 21:42:05_
