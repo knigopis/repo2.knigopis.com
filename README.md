@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>312</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>313</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>77</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 
 
-_03.05.2021 21:42:05_
+_03.05.2021 21:42:29_
