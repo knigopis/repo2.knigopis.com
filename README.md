@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
+    > 3.05
+
 * Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
     > ЛитРПГ
     > Первые книги интересные, дальше посмотрим
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
-    > Биография
-    > Насилие над гражданским населением Германии, "заваливание трупами" при атаке -  автор озлобленный демагог
-    > Оценка 3-
 
 * Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
 
@@ -32,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
 
-* Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rina](users/102/102857111133378678801-google)<sup>4</sup> 
+[Rina](users/102/102857111133378678801-google)<sup>5</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>77</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>168</sup> 
@@ -71,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 
 
-_03.05.2021 20:33:16_
+_03.05.2021 20:34:07_

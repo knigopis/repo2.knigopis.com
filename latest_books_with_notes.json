@@ -1,4 +1,16 @@
 {
+    "8gUDArH8Uq": {
+        "id": "8gUDArH8Uq",
+        "title": "Кафе на краю світу",
+        "author": "Джон П. Стрелекі",
+        "notes": "3.05",
+        "createdAt": "2021-05-03 20:34:07",
+        "user": {
+            "id": "102857111133378678801-google",
+            "nickname": "Rina",
+            "booksCount": 5
+        }
+    },
     "6WCNwlar7I": {
         "id": "6WCNwlar7I",
         "title": "Дисгардиум (серия из 6 книг)",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 152
-        }
-    },
-    "wHubrG-ryW": {
-        "id": "wHubrG-ryW",
-        "title": "Счастья не будет",
-        "author": "Андрей Миля",
-        "notes": "Корпорация \"Вторая жизнь\"",
-        "createdAt": "2021-04-05 13:45:17",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 190
         }
     }
 }

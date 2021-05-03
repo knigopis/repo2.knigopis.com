@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
 * Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
 * Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
-* Счастья не будет ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>190</sup>
 
 
-_02.05.2021 14:09:14_
+_03.05.2021 20:34:07_
