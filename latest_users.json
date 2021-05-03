@@ -1,4 +1,10 @@
 {
+    "102857111133378678801-google": {
+        "id": "102857111133378678801-google",
+        "nickname": "Rina",
+        "booksCount": 4,
+        "updatedAt": "2021-05-03 20:33:16"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "Maximus",
         "booksCount": 5,
         "updatedAt": "2021-04-16 23:35:26"
-    },
-    "118049897850017649660-googleplus": {
-        "id": "118049897850017649660-googleplus",
-        "nickname": "Sky",
-        "booksCount": 199,
-        "updatedAt": "2021-04-16 15:12:38"
     }
 }
