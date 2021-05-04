@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
+    > 7/10 Пуаро розслідує смерть багатої дами.
+
 * Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
     > 3.05
 
@@ -13,10 +16,6 @@ Do not use pull requests to make changes here.
     > Первые книги интересные, дальше посмотрим
 
 * Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
-    > ЛитРПГ
-    > Довольно интересная серия, правда последние книги уже читать не так интересно
-    > Серия не закончена
-    > Оценка 4
 
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
 
@@ -30,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
 
-* Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>313</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>77</sup> 
@@ -58,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup> 
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>253</sup> 
@@ -69,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 
 
-_03.05.2021 21:42:29_
+_04.05.2021 11:51:06_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
 * Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
 * Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
 * 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
-* Наталья, боярская дочь ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>152</sup>
 
 
-_03.05.2021 20:34:07_
+_04.05.2021 11:51:06_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>188</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>189</sup>
 ---
 
 ## 2021
+
+### Таємнича пригода в Стайлзі
+Аґата Крісті
+> [2021-05-02] 7/10 Пуаро розслідує смерть багатої дами.
+
 
 ### Закон братів Капранових
 Брати Капранови
