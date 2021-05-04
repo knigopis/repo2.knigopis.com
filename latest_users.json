@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 200,
+        "updatedAt": "2021-05-04 17:31:08"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "Пу_тем",
         "booksCount": 18,
         "updatedAt": "2021-04-18 05:50:48"
-    },
-    "468075371-vkontakte": {
-        "id": "468075371-vkontakte",
-        "nickname": "Maximus",
-        "booksCount": 5,
-        "updatedAt": "2021-04-16 23:35:26"
     }
 }

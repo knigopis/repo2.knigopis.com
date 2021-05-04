@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>200</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>78</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>313</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Somik](users/100/100006761945842-facebook)<sup>18</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
-[Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 
 
-_04.05.2021 13:24:40_
+_04.05.2021 17:31:08_
