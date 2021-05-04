@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
 * Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
 * Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
 * Командарм ~ [dromoman2008](users/444/44461886-yandex)<sup>33</sup>
 * Кыся ~ [dromoman2008](users/444/44461886-yandex)<sup>32</sup>
-* 35 кило надежды ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>153</sup>
 
 
-_04.05.2021 11:51:06_
+_04.05.2021 11:52:13_
