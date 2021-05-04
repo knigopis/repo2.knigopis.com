@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
+    > 6/10 Алгоритми та фейк-ньюз роблять із нас гоблінів.
+
 * Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
     > 7/10 Три убивства не пов'язані між собою.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Пуаро розслідує смерть багатої дами.
 
 * Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
-    > 3.05
 
 * Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
 
-* Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>313</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>77</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maximus](users/468/468075371-vkontakte)<sup>5</sup> 
 
 
-_04.05.2021 11:52:13_
+_04.05.2021 11:53:33_

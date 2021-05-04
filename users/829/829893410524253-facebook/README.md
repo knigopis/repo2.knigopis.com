@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>190</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>191</sup>
 ---
 
 ## 2021
+
+### 10 причин видалити акаунт із соцмереж просто зараз
+Джарон Ланьє
+> [2021-05-04] 6/10 Алгоритми та фейк-ньюз роблять із нас гоблінів.
+
 
 ### Трагедія в трьох діях
 Аґата Крісті
