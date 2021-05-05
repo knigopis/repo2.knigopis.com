@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>254</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>202</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>78</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>253</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>18</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
 
 
-_04.05.2021 17:33:12_
+_05.05.2021 04:02:11_

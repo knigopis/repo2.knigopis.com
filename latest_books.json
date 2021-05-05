@@ -1,4 +1,16 @@
 {
+    "DIykq3w-xR": {
+        "id": "DIykq3w-xR",
+        "title": "Бред",
+        "author": "Марк Алданов",
+        "notes": "",
+        "createdAt": "2021-05-05 04:02:11",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 254
+        }
+    },
     "TsF-0rgnib": {
         "id": "TsF-0rgnib",
         "title": "Приключения в стране львов",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 9
-        }
-    },
-    "byGgswg60N": {
-        "id": "byGgswg60N",
-        "title": "Лимонов против Путина",
-        "author": "Эдуард Лимонов",
-        "notes": "",
-        "createdAt": "2021-04-29 16:01:46",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 74
         }
     }
 }
