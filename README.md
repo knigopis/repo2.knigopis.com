@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
+    > Горы скорби. Игра форов. Цетаганда. Этан с Афона. Лабиринт. Границы бесконечности. Примечание (рассказы)
+
 * 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
     > 6/10 Алгоритми та фейк-ньюз роблять із нас гоблінів.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Три убивства не пов'язані між собою.
 
 * Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
-    > 7/10 Пуаро розслідує смерть багатої дами.
 
 * Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
 
-* Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>91</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>254</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>202</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>78</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>90</sup> 
 [yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>286</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
 
 
-_05.05.2021 04:02:11_
+_05.05.2021 05:16:06_

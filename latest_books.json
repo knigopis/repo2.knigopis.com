@@ -1,4 +1,16 @@
 {
+    "4YhSZeEk5-": {
+        "id": "4YhSZeEk5-",
+        "title": "Цетаганда",
+        "author": "Лоис Макмастер Буджолд",
+        "notes": "Горы скорби. Игра форов. Цетаганда. Этан с Афона. Лабиринт. Границы бесконечности. Примечание (рассказы)",
+        "createdAt": "2021-05-05 05:16:06",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 91
+        }
+    },
     "DIykq3w-xR": {
         "id": "DIykq3w-xR",
         "title": "Бред",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 10
-        }
-    },
-    "DYxeOGwvrN": {
-        "id": "DYxeOGwvrN",
-        "title": "Хорошие девочки отправляются на небеса, а плохие - куда захотят | Эрхардт Уте",
-        "author": "Эрхардт Уте",
-        "notes": "",
-        "createdAt": "2021-04-29 16:51:29",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 9
         }
     }
 }
