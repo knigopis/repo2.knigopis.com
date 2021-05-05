@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>91</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>254</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>202</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 [Somik](users/100/100006761945842-facebook)<sup>18</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>18</sup> 
 
 
-_05.05.2021 05:16:06_
+_05.05.2021 19:55:54_
