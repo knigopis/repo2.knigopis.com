@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
+    > К девушке в дом пытается пробиться нечто, разговор с полициейским.
+
 * Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
     > Мальчик говорящий с призраками.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Горы скорби. Игра форов. Цетаганда. Этан с Афона. Лабиринт. Границы бесконечности. Примечание (рассказы)
 
 * 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
-    > 6/10 Алгоритми та фейк-ньюз роблять із нас гоблінів.
 
 * Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
 
-* Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>91</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>254</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 
 
-_06.05.2021 08:47:21_
+_06.05.2021 09:25:31_
