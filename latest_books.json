@@ -1,4 +1,16 @@
 {
+    "p_IpwZHQDC": {
+        "id": "p_IpwZHQDC",
+        "title": "Роботы и Империя",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2021-05-06 09:29:22",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 160
+        }
+    },
     "a00TEmWoRa": {
         "id": "a00TEmWoRa",
         "title": "Холодно",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 854
-        }
-    },
-    "-XV0jd7wWC": {
-        "id": "-XV0jd7wWC",
-        "title": "Маг",
-        "author": "Сомерсет Моэм",
-        "notes": "",
-        "createdAt": "2021-04-30 20:42:54",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 49
         }
     }
 }
