@@ -1,4 +1,16 @@
 {
+    "p2e4mwolGv": {
+        "id": "p2e4mwolGv",
+        "title": "Позже",
+        "author": "Стивен Кинг",
+        "notes": "Мальчик говорящий с призраками.",
+        "createdAt": "2021-05-06 08:47:21",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 198
+        }
+    },
     "useqVeqZBV": {
         "id": "useqVeqZBV",
         "title": "Дом на набережной",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 286
-        }
-    },
-    "0-zDONYyhb": {
-        "id": "0-zDONYyhb",
-        "title": "Полкороля",
-        "author": "Джо АБЕРКРОМБИ",
-        "notes": "",
-        "createdAt": "2021-04-30 18:10:57",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 140
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
+    > Мальчик говорящий с призраками.
+
 * Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
     > Горы скорби. Игра форов. Цетаганда. Этан с Афона. Лабиринт. Границы бесконечности. Примечание (рассказы)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Алгоритми та фейк-ньюз роблять із нас гоблінів.
 
 * Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
-    > 7/10 Три убивства не пов'язані між собою.
 
 * Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
 
-* Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>91</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>254</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>103</sup> 
 [jolly](users/111/111004832908941453467-google)<sup>0</sup> 
 [kirillbk](users/116/116762187083018967175-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup> 
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Hammerzeit](users/103/103389838241993724492-google)<sup>0</sup> 
 
 
-_05.05.2021 19:55:54_
+_06.05.2021 08:47:21_

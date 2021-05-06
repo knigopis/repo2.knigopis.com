@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
 * Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
 * 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
 * Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
@@ -30,7 +31,6 @@
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
 * Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
 * Мы ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>156</sup>
-* Внутренняя гомофобия: Боюсь ли я сам себя? ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>155</sup>
 
 
-_05.05.2021 05:16:06_
+_06.05.2021 08:47:21_
