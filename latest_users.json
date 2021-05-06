@@ -1,4 +1,10 @@
 {
+    "13048215253533969259-mailru": {
+        "id": "13048215253533969259-mailru",
+        "nickname": "Артем Коробицин",
+        "booksCount": 0,
+        "updatedAt": "2021-05-06 12:20:40"
+    },
     "105866022348292919948-google": {
         "id": "105866022348292919948-google",
         "nickname": "Chandravadana",
@@ -172,11 +178,5 @@
         "nickname": "dobrova_nails",
         "booksCount": 0,
         "updatedAt": "2021-04-20 21:40:04"
-    },
-    "100006761945842-facebook": {
-        "id": "100006761945842-facebook",
-        "nickname": "Somik",
-        "booksCount": 18,
-        "updatedAt": "2021-04-19 09:36:07"
     }
 }
