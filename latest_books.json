@@ -1,4 +1,16 @@
 {
+    "80MylCUV61": {
+        "id": "80MylCUV61",
+        "title": "Железный человек есть в каждом",
+        "author": "Джон Кэллос",
+        "notes": "неплохо описывается схематический процесс подготовки к АйронМен, амереканским бизнесменом в сфере консалтинга",
+        "createdAt": "2021-05-07 11:22:54",
+        "user": {
+            "id": "101388427713088610140-googleplus",
+            "nickname": "skubanskyy",
+            "booksCount": 1
+        }
+    },
     "CS_3QIEGMn": {
         "id": "CS_3QIEGMn",
         "title": "Гамлет Щигровского уезда",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 75
-        }
-    },
-    "BAAFDrOnVo": {
-        "id": "BAAFDrOnVo",
-        "title": "Анна, где ты",
-        "author": "Патриция Вентворт",
-        "notes": "",
-        "createdAt": "2021-05-01 20:30:47",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 311
         }
     }
 }
