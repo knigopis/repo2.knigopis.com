@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>114</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>115</sup>
 ---
 
 ## 2021
+
+### Семья вурдалака: мистические истории
+сборник
+> [2021-05-06] 
+
 
 ### Пассажиры
 Джон Маррс

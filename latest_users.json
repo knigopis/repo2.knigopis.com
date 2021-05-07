@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 115,
+        "updatedAt": "2021-05-07 08:00:01"
+    },
     "13048215253533969259-mailru": {
         "id": "13048215253533969259-mailru",
         "nickname": "Артем Коробицин",
@@ -172,11 +178,5 @@
         "nickname": "Kulagren",
         "booksCount": 1,
         "updatedAt": "2021-04-21 12:59:26"
-    },
-    "6069210-vkontakte": {
-        "id": "6069210-vkontakte",
-        "nickname": "dobrova_nails",
-        "booksCount": 0,
-        "updatedAt": "2021-04-20 21:40:04"
     }
 }

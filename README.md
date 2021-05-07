@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 [Артем Коробицин](users/130/13048215253533969259-mailru)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>161</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 [Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
-[dobrova_nails](users/606/6069210-vkontakte)<sup>0</sup> 
 
 
-_06.05.2021 12:20:41_
+_07.05.2021 08:00:01_

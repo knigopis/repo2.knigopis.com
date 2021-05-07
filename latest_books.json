@@ -1,4 +1,16 @@
 {
+    "M1Y4TgZrHZ": {
+        "id": "M1Y4TgZrHZ",
+        "title": "Семья вурдалака: мистические истории",
+        "author": "сборник",
+        "notes": "",
+        "createdAt": "2021-05-07 08:00:01",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 115
+        }
+    },
     "vO0mq2_Ow7": {
         "id": "vO0mq2_Ow7",
         "title": "Звезды как пыль",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 310
-        }
-    },
-    "M9atBEUbeA": {
-        "id": "M9atBEUbeA",
-        "title": "Тёмная башня. Колдун и кристалл",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-05-01 15:14:24",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 90
         }
     }
 }
