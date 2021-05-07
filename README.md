@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[skubanskyy](users/101/101388427713088610140-googleplus)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>255</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 [Артем Коробицин](users/130/13048215253533969259-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>284</sup> 
-[Kulagren](users/105/105545318327982772463-google)<sup>1</sup> 
 
 
-_07.05.2021 08:33:42_
+_07.05.2021 11:20:54_
