@@ -1,4 +1,10 @@
 {
+    "101388427713088610140-googleplus": {
+        "id": "101388427713088610140-googleplus",
+        "nickname": "skubanskyy",
+        "booksCount": 0,
+        "updatedAt": "2021-05-07 11:20:54"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 284,
         "updatedAt": "2021-04-21 15:09:29"
-    },
-    "105545318327982772463-google": {
-        "id": "105545318327982772463-google",
-        "nickname": "Kulagren",
-        "booksCount": 1,
-        "updatedAt": "2021-04-21 12:59:26"
     }
 }
