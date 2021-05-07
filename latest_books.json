@@ -1,4 +1,16 @@
 {
+    "lc5_l_sN2K": {
+        "id": "lc5_l_sN2K",
+        "title": "Немезида",
+        "author": "Ю Нёсбе",
+        "notes": "",
+        "createdAt": "2021-05-07 17:58:55",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 92
+        }
+    },
     "80MylCUV61": {
         "id": "80MylCUV61",
         "title": "Железный человек есть в каждом",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 76
-        }
-    },
-    "LzHV7D44n6": {
-        "id": "LzHV7D44n6",
-        "title": "Муссолини и другие фашисты",
-        "author": "Эдуард Лимонов",
-        "notes": "",
-        "createdAt": "2021-05-02 02:43:35",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 75
         }
     }
 }

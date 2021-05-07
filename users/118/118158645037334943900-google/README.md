@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>91</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>92</sup>
 ---
 
 ## 2021
+
+### Немезида
+Ю Нёсбе
+> [2021-05-08] 
+
 
 ### Цетаганда
 Лоис Макмастер Буджолд
