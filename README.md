@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yana_bmstu](users/178/17842868-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>79</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>92</sup> 
 [skubanskyy](users/101/101388427713088610140-googleplus)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kirillbk](users/116/116762187083018967175-google)<sup>0</sup> 
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>284</sup> 
 
 
-_08.05.2021 17:51:02_
+_08.05.2021 18:25:57_
