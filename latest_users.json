@@ -1,4 +1,10 @@
 {
+    "17842868-vkontakte": {
+        "id": "17842868-vkontakte",
+        "nickname": "yana_bmstu",
+        "booksCount": 0,
+        "updatedAt": "2021-05-08 18:25:56"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 158,
         "updatedAt": "2021-04-23 21:05:21"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 284,
-        "updatedAt": "2021-04-21 15:09:29"
     }
 }
