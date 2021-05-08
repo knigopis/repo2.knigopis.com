@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 79,
+        "updatedAt": "2021-05-08 17:51:02"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -52,12 +58,6 @@
         "nickname": "Sky",
         "booksCount": 202,
         "updatedAt": "2021-05-04 17:33:12"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 78,
-        "updatedAt": "2021-05-04 13:24:40"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
