@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
 * Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
 * Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
 * Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
@@ -30,7 +31,6 @@
 * Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
 * Рассказы ~ [Rina](users/102/102857111133378678801-google)<sup>3</sup>
 * Голодные ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>191</sup>
-* Во все тяжкие ~ [dromoman2008](users/444/44461886-yandex)<sup>34</sup>
 
 
-_06.05.2021 09:25:31_
+_08.05.2021 18:34:06_

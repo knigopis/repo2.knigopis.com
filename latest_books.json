@@ -1,4 +1,16 @@
 {
+    "yCjFrmPCpS": {
+        "id": "yCjFrmPCpS",
+        "title": "Дориан Грей",
+        "author": "Оскар Уайльд",
+        "notes": "Прослушала 30%, остальное прочитала в содержании по главам.",
+        "createdAt": "2021-05-08 18:34:06",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 200
+        }
+    },
     "ZEUGYU2BIA": {
         "id": "ZEUGYU2BIA",
         "title": "Дневник неудачника, или Секретная тетрадь",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 167
-        }
-    },
-    "PJcBQqi2y9": {
-        "id": "PJcBQqi2y9",
-        "title": "Крах и восход",
-        "author": "Ли Бардуго",
-        "notes": "",
-        "createdAt": "2021-05-02 07:37:41",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 855
         }
     }
 }

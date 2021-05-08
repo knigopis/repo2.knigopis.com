@@ -1,4 +1,16 @@
 {
+    "yCjFrmPCpS": {
+        "id": "yCjFrmPCpS",
+        "title": "Дориан Грей",
+        "author": "Оскар Уайльд",
+        "notes": "Прослушала 30%, остальное прочитала в содержании по главам.",
+        "createdAt": "2021-05-08 18:34:06",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 200
+        }
+    },
     "a00TEmWoRa": {
         "id": "a00TEmWoRa",
         "title": "Холодно",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 191
-        }
-    },
-    "VSFaFBsPOw": {
-        "id": "VSFaFBsPOw",
-        "title": "Во все тяжкие",
-        "author": "Минин Станислав",
-        "notes": "Серия из 2 книг\nАльтернативка. Попаданец в 90, Химик,",
-        "createdAt": "2021-04-10 04:56:53",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 34
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
+    > Прослушала 30%, остальное прочитала в содержании по главам.
+
 * Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
     > К девушке в дом пытается пробиться нечто, разговор с полициейским.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мальчик говорящий с призраками.
 
 * Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
-    > Горы скорби. Игра форов. Цетаганда. Этан с Афона. Лабиринт. Границы бесконечности. Примечание (рассказы)
 
 * 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
 
-* Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup> 
 [yana_bmstu](users/178/17842868-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>79</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>92</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 [Артем Коробицин](users/130/13048215253533969259-mailru)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>161</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>202</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>158</sup> 
 
 
-_08.05.2021 18:25:57_
+_08.05.2021 18:34:06_
