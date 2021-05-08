@@ -1,4 +1,10 @@
 {
+    "1998470006956859-facebook": {
+        "id": "1998470006956859-facebook",
+        "nickname": "kkossobok",
+        "booksCount": 0,
+        "updatedAt": "2021-05-08 19:03:33"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "izabellangel",
         "booksCount": 0,
         "updatedAt": "2021-04-25 12:15:21"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 158,
-        "updatedAt": "2021-04-23 21:05:21"
     }
 }
