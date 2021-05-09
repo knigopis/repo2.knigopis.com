@@ -1,4 +1,16 @@
 {
+    "T30cr2cZ9N": {
+        "id": "T30cr2cZ9N",
+        "title": "Оборона тупика",
+        "author": "Жуков Максим",
+        "notes": "",
+        "createdAt": "2021-05-09 11:00:21",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 170
+        }
+    },
     "_0bEkVD7Rw": {
         "id": "_0bEkVD7Rw",
         "title": "Чекистские будни",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 35
-        }
-    },
-    "M9c0g-JOb6": {
-        "id": "M9c0g-JOb6",
-        "title": "Denken wie der Feind 20 Jahre Ausnahmezustand 9/11 und die Geopolitik des Terrors: Teil 1 Das Erdöl, der Dollar und die Drogen",
-        "author": "Lars Schall",
-        "notes": "",
-        "createdAt": "2021-05-02 07:56:23",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 168
         }
     }
 }
