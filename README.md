@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>318</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>319</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 [kkossobok](users/199/1998470006956859-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 
 
-_09.05.2021 12:56:38_
+_09.05.2021 12:57:09_
