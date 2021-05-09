@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>169</sup> 
 [kkossobok](users/199/1998470006956859-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup> 
 [yana_bmstu](users/178/17842868-vkontakte)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>313</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
 [yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 
 
-_08.05.2021 19:03:33_
+_09.05.2021 11:00:06_
