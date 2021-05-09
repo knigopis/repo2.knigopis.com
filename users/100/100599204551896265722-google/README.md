@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>170</sup>
+# Список прочитанных книг пользователя exulted<sup>171</sup>
 ---
 
 ## 2021
+
+### Fake Science: Exposing the Left's Skewed Statistics, Fuzzy Facts, and Dodgy Data
+Austin Ruse
+> [2021-05-07] 
+
 
 ### Чекистские будни
 Федичкин Д.Г.
