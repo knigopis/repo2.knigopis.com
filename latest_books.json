@@ -1,4 +1,16 @@
 {
+    "gjxspJDLBs": {
+        "id": "gjxspJDLBs",
+        "title": "Тайна тёмного подвала",
+        "author": "Патриция Вентворт",
+        "notes": "",
+        "createdAt": "2021-05-10 15:06:30",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 324
+        }
+    },
     "5QmfNVPozW": {
         "id": "5QmfNVPozW",
         "title": "Безупречная репутация",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 254
-        }
-    },
-    "TsF-0rgnib": {
-        "id": "TsF-0rgnib",
-        "title": "Приключения в стране львов",
-        "author": "Луи Буссенар",
-        "notes": "",
-        "createdAt": "2021-05-04 17:33:12",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 202
         }
     }
 }
