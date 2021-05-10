@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>256</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>323</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 [kkossobok](users/199/1998470006956859-facebook)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>79</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>92</sup> 
 [skubanskyy](users/101/101388427713088610140-googleplus)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>255</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 [Артем Коробицин](users/130/13048215253533969259-mailru)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>161</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [izabellangel](users/292/292667189027944-facebook)<sup>0</sup> 
 
 
-_09.05.2021 17:25:45_
+_10.05.2021 07:26:25_

@@ -1,4 +1,16 @@
 {
+    "fqz054lzDR": {
+        "id": "fqz054lzDR",
+        "title": "За решеткой с главным врагом общества",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2021-05-10 07:26:25",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 256
+        }
+    },
     "3OJDiz0PkO": {
         "id": "3OJDiz0PkO",
         "title": "Эллингтонское наследство",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 200
-        }
-    },
-    "_e9fcHBje2": {
-        "id": "_e9fcHBje2",
-        "title": "Искусство рассуждать о книгах, которых вы не читали",
-        "author": "Пьер Байяр",
-        "notes": "",
-        "createdAt": "2021-05-04 13:24:40",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 78
         }
     }
 }
