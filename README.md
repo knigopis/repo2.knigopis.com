@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>19</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>9</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>256</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>323</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Phoenix](users/112/112747734454276773382-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>103</sup> 
 [jolly](users/111/111004832908941453467-google)<sup>0</sup> 
-[kirillbk](users/116/116762187083018967175-google)<sup>0</sup> 
 
 
-_10.05.2021 08:33:53_
+_10.05.2021 12:42:37_
