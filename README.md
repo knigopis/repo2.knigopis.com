@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zabiiakaserhii](users/100/100986570544775597300-google)<sup>0</sup> 
+[zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>6</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>324</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Phoenix](users/112/112747734454276773382-google)<sup>0</sup> 
 
 
-_11.05.2021 18:15:20_
+_11.05.2021 18:19:47_
