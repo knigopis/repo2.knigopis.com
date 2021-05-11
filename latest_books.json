@@ -1,4 +1,16 @@
 {
+    "f0fN-OZkJ9": {
+        "id": "f0fN-OZkJ9",
+        "title": "Семнадцать Животных",
+        "author": "Роберт Пуцек",
+        "notes": "",
+        "createdAt": "2021-05-11 10:06:03",
+        "user": {
+            "id": "108324375224819470216-google",
+            "nickname": "Shimpanze",
+            "booksCount": 5
+        }
+    },
     "gjxspJDLBs": {
         "id": "gjxspJDLBs",
         "title": "Тайна тёмного подвала",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 91
-        }
-    },
-    "DIykq3w-xR": {
-        "id": "DIykq3w-xR",
-        "title": "Бред",
-        "author": "Марк Алданов",
-        "notes": "",
-        "createdAt": "2021-05-05 04:02:11",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 254
         }
     }
 }
