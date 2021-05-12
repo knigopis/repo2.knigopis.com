@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>81</sup> 
 [zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>6</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>324</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>5</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup> 
-[Phoenix](users/112/112747734454276773382-google)<sup>0</sup> 
 
 
-_11.05.2021 18:19:47_
+_12.05.2021 12:54:54_
