@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>203</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>81</sup> 
 [zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>6</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артем Коробицин](users/130/13048215253533969259-mailru)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>202</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup> 
 
 
-_12.05.2021 12:54:54_
+_12.05.2021 14:03:48_
