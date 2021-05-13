@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>141</sup> 
 [koakxil23](users/513/513268475-yandex)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>203</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>286</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>140</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup> 
 [Malysha](users/412/4129490930435358-facebook)<sup>5</sup> 
 
 
-_13.05.2021 04:31:05_
+_13.05.2021 08:15:28_
