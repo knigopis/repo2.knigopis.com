@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
+[Пу_тем](users/344/3448154788585127-facebook)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>203</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>81</sup> 
 [zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup> 
 
 
-_13.05.2021 01:51:03_
+_13.05.2021 01:51:07_
