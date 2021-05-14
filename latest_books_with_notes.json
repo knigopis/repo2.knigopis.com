@@ -1,4 +1,16 @@
 {
+    "FoTImoLMXt": {
+        "id": "FoTImoLMXt",
+        "title": "Магистр дьявольского культа",
+        "author": "Мосян Тунсю",
+        "notes": "Том 1-4",
+        "createdAt": "2021-05-14 16:07:18",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 10
+        }
+    },
     "yCjFrmPCpS": {
         "id": "yCjFrmPCpS",
         "title": "Дориан Грей",
@@ -345,18 +357,6 @@
             "id": "102857111133378678801-google",
             "nickname": "Rina",
             "booksCount": 3
-        }
-    },
-    "d3FywjlXsZ": {
-        "id": "d3FywjlXsZ",
-        "title": "Голодные",
-        "author": "Евгений Шиков",
-        "notes": "Женщина потеряла ребёнка, согласилась быть пророщенной ростями ради мести.",
-        "createdAt": "2021-04-10 06:09:38",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 191
         }
     }
 }

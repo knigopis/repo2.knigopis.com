@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 10,
+        "updatedAt": "2021-05-14 16:07:18"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 10,
         "updatedAt": "2021-04-29 16:52:58"
-    },
-    "4129490930435358-facebook": {
-        "id": "4129490930435358-facebook",
-        "nickname": "Malysha",
-        "booksCount": 5,
-        "updatedAt": "2021-04-29 04:18:18"
     }
 }

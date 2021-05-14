@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>9</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>10</sup>
 ---
 
 ## 2021
+
+### Магистр дьявольского культа
+Мосян Тунсю
+> [2021-05-14] Том 1-4
+
 
 ### Эдем
 Лем

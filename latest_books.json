@@ -1,4 +1,16 @@
 {
+    "FoTImoLMXt": {
+        "id": "FoTImoLMXt",
+        "title": "Магистр дьявольского культа",
+        "author": "Мосян Тунсю",
+        "notes": "Том 1-4",
+        "createdAt": "2021-05-14 16:07:18",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 10
+        }
+    },
     "hvNDx0LvWR": {
         "id": "hvNDx0LvWR",
         "title": "Экскалибур",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 255
-        }
-    },
-    "M1Y4TgZrHZ": {
-        "id": "M1Y4TgZrHZ",
-        "title": "Семья вурдалака: мистические истории",
-        "author": "сборник",
-        "notes": "",
-        "createdAt": "2021-05-07 08:00:01",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 115
         }
     }
 }
