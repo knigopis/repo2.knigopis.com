@@ -1,4 +1,16 @@
 {
+    "GlcOvjgVxM": {
+        "id": "GlcOvjgVxM",
+        "title": "Пять языков любви",
+        "author": "Гэри Чепмен",
+        "notes": "",
+        "createdAt": "2021-05-15 08:28:11",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 44
+        }
+    },
     "qRY3Kwlg-d": {
         "id": "qRY3Kwlg-d",
         "title": "Война в 16. Из кадетов в \"диверсанты\"",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 92
-        }
-    },
-    "80MylCUV61": {
-        "id": "80MylCUV61",
-        "title": "Железный человек есть в каждом",
-        "author": "Джон Кэллос",
-        "notes": "неплохо описывается схематический процесс подготовки к АйронМен, амереканским бизнесменом в сфере консалтинга",
-        "createdAt": "2021-05-07 11:22:54",
-        "user": {
-            "id": "101388427713088610140-googleplus",
-            "nickname": "skubanskyy",
-            "booksCount": 1
         }
     }
 }
