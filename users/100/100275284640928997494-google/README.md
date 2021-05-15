@@ -1,7 +1,11 @@
-# List of books read by [Enchanter](https://plus.google.com/u/0/100275284640928997494/)<sup>6</sup>
+# List of books read by [Enchanter](https://plus.google.com/u/0/100275284640928997494/)<sup>7</sup>
 ---
 
 ## 2021
+
+### Кольцо тьмы
+Ник Перумов
+
 
 ### Стоик
 Теодор Драйзер
