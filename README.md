@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/100/100275284640928997494-google)<sup>0</sup> 
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>45</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>80</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
-[yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
 
 
-_15.05.2021 09:49:41_
+_15.05.2021 14:17:55_
