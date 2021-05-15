@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[w1984](users/107/107323625212383253068-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>10</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>142</sup> 
 [koakxil23](users/513/513268475-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yadykova.natalia](users/567/567284923-yandex)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>286</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>10</sup> 
 
 
-_14.05.2021 16:07:18_
+_15.05.2021 03:24:14_
