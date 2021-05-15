@@ -1,4 +1,16 @@
 {
+    "X-d1dKe1by": {
+        "id": "X-d1dKe1by",
+        "title": "Стоик",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2021-05-15 14:27:08",
+        "user": {
+            "id": "100275284640928997494-google",
+            "nickname": "Enchanter",
+            "booksCount": 6
+        }
+    },
     "rQ2qoFO3vT": {
         "id": "rQ2qoFO3vT",
         "title": "Титан",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 316
-        }
-    },
-    "eMxVl_Eo58": {
-        "id": "eMxVl_Eo58",
-        "title": "Из прошлого",
-        "author": "Патриция Вентворт",
-        "notes": "",
-        "createdAt": "2021-05-09 12:55:33",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 315
         }
     }
 }

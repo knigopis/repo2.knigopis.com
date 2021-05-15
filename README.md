@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Enchanter](users/100/100275284640928997494-google)<sup>5</sup> 
+[Enchanter](users/100/100275284640928997494-google)<sup>6</sup> 
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>45</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>80</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>855</sup> 
 
 
-_15.05.2021 14:26:50_
+_15.05.2021 14:27:08_

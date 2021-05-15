@@ -1,7 +1,11 @@
-# List of books read by [Enchanter](https://plus.google.com/u/0/100275284640928997494/)<sup>5</sup>
+# List of books read by [Enchanter](https://plus.google.com/u/0/100275284640928997494/)<sup>6</sup>
 ---
 
 ## 2021
+
+### Стоик
+Теодор Драйзер
+
 
 ### Титан
 Теодор Драйзер
