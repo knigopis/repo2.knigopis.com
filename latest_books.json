@@ -1,4 +1,16 @@
 {
+    "Adgq08PIfC": {
+        "id": "Adgq08PIfC",
+        "title": "Совсем не герой",
+        "author": "Олег Бубела",
+        "notes": "",
+        "createdAt": "2021-05-15 14:20:44",
+        "user": {
+            "id": "100275284640928997494-google",
+            "nickname": "Enchanter",
+            "booksCount": 1
+        }
+    },
     "oZB_wjSiNs": {
         "id": "oZB_wjSiNs",
         "title": "Людина в пошуках справжнього сенсу. Психолог у концтаборі",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 169
-        }
-    },
-    "yCjFrmPCpS": {
-        "id": "yCjFrmPCpS",
-        "title": "Дориан Грей",
-        "author": "Оскар Уайльд",
-        "notes": "Прослушала 30%, остальное прочитала в содержании по главам.",
-        "createdAt": "2021-05-08 18:34:06",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 200
         }
     }
 }
