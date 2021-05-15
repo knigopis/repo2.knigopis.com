@@ -1,4 +1,16 @@
 {
+    "oZB_wjSiNs": {
+        "id": "oZB_wjSiNs",
+        "title": "Людина в пошуках справжнього сенсу. Психолог у концтаборі",
+        "author": "Вiктор Франкл",
+        "notes": "Жизнь в Освенциме и Логотерапия",
+        "createdAt": "2021-05-15 09:49:41",
+        "user": {
+            "id": "100001355756908-facebook",
+            "nickname": "Denis",
+            "booksCount": 1
+        }
+    },
     "_HB2whVGOq": {
         "id": "_HB2whVGOq",
         "title": "Девушка, которая играла с огнем",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 200
-        }
-    },
-    "ZEUGYU2BIA": {
-        "id": "ZEUGYU2BIA",
-        "title": "Дневник неудачника, или Секретная тетрадь",
-        "author": "Эдуард Лимонов",
-        "notes": "",
-        "createdAt": "2021-05-08 17:51:02",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 79
         }
     }
 }
