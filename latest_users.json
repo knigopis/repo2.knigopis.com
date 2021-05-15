@@ -1,4 +1,10 @@
 {
+    "100275284640928997494-google": {
+        "id": "100275284640928997494-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-05-15 14:17:55"
+    },
     "100001355756908-facebook": {
         "id": "100001355756908-facebook",
         "nickname": "Denis",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 855,
         "updatedAt": "2021-05-02 07:37:41"
-    },
-    "567284923-yandex": {
-        "id": "567284923-yandex",
-        "nickname": "yadykova.natalia",
-        "booksCount": 0,
-        "updatedAt": "2021-05-01 05:59:58"
     }
 }
