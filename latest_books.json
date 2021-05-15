@@ -1,4 +1,16 @@
 {
+    "dWqUGRJohQ": {
+        "id": "dWqUGRJohQ",
+        "title": "Финансист",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2021-05-15 14:25:51",
+        "user": {
+            "id": "100275284640928997494-google",
+            "nickname": "Enchanter",
+            "booksCount": 4
+        }
+    },
     "DiaCxoKug7": {
         "id": "DiaCxoKug7",
         "title": "Череп в небесах",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 314
-        }
-    },
-    "tI1X_Qcxsr": {
-        "id": "tI1X_Qcxsr",
-        "title": "Fake Science: Exposing the Left's Skewed Statistics, Fuzzy Facts, and Dodgy Data",
-        "author": "Austin Ruse",
-        "notes": "",
-        "createdAt": "2021-05-09 11:03:16",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 171
         }
     }
 }
