@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
+    > 1147 страниц. Это много и это захватывающе
+
 * Магистр дьявольского культа ~ [Askaliya](users/326/326783541-vkontakte)<sup>10</sup>
     > Том 1-4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прослушала 30%, остальное прочитала в содержании по главам.
 
 * Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
-    > К девушке в дом пытается пробиться нечто, разговор с полициейским.
 
 * Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 
-* Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dmiro](users/571/5714115-vkontakte)<sup>44</sup> 
+[dmiro](users/571/5714115-vkontakte)<sup>45</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>80</sup> 
 [w1984](users/107/107323625212383253068-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>49</sup> 
 
 
-_15.05.2021 08:28:11_
+_15.05.2021 08:29:06_
