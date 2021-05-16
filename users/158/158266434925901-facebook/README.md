@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>142</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>143</sup>
 ---
 
 ## 2021
+
+### Эра криптовалюты
+Алекс Полански
+> [2021-05-15] 
+
 
 ### Экскалибур
 Бернард Корнуэлл

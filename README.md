@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>143</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>94</sup> 
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>80</sup> 
 [w1984](users/107/107323625212383253068-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>10</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>142</sup> 
 [koakxil23](users/513/513268475-yandex)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>203</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 
 
-_15.05.2021 17:07:55_
+_16.05.2021 04:32:22_
