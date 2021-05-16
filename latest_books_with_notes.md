@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
 * Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
 * Магистр дьявольского культа ~ [Askaliya](users/326/326783541-vkontakte)<sup>10</sup>
 * Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
@@ -30,7 +31,6 @@
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
 * Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>285</sup>
-* Мартен Иден ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>192</sup>
 
 
-_15.05.2021 08:29:06_
+_16.05.2021 15:30:58_

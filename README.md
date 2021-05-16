@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
+    > Промозглая снежная буря заставляет троих незнакомцев пережидать её в заброшенной строительной будке.
+
 * Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
     > 1147 страниц. Это много и это захватывающе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Том 1-4
 
 * Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
-    > Прослушала 30%, остальное прочитала в содержании по главам.
 
 * Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
 
-* Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>143</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>94</sup> 
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>256</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 [kkossobok](users/199/1998470006956859-facebook)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup> 
 [yana_bmstu](users/178/17842868-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>92</sup> 
 [skubanskyy](users/101/101388427713088610140-googleplus)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 
 
-_16.05.2021 04:32:22_
+_16.05.2021 15:30:58_
