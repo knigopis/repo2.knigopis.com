@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 202,
+        "updatedAt": "2021-05-17 16:21:54"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -10,12 +16,6 @@
         "nickname": "danyluk62",
         "booksCount": 81,
         "updatedAt": "2021-05-16 16:23:32"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 201,
-        "updatedAt": "2021-05-16 15:30:58"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
