@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>82</sup> 
 [](users/153/1537586159620888-facebook)<sup>39</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>202</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>257</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>81</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>143</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>94</sup> 
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 
 
-_17.05.2021 18:07:45_
+_17.05.2021 21:46:46_
