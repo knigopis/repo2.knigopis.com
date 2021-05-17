@@ -1,12 +1,7 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>40</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>39</sup>
 ---
 
 ## 2021
-
-### Самостоятельный ребенок, или как стать "ленивой мамой"
-Анна Быкова
-> [2021-05] 
-
 
 ### Самостоятельный ребенок, или как стать "ленивой мамой"
 Анна Быкова
