@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 40,
+        "updatedAt": "2021-05-17 18:07:37"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Rina",
         "booksCount": 4,
         "updatedAt": "2021-05-03 20:35:12"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 38,
-        "updatedAt": "2021-05-02 14:09:14"
     }
 }

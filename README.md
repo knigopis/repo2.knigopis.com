@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>40</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>202</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>257</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>81</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>38</sup> 
 
 
-_17.05.2021 16:21:54_
+_17.05.2021 18:07:37_
