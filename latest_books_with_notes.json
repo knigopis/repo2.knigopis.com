@@ -1,4 +1,16 @@
 {
+    "J-2TMlHUer": {
+        "id": "J-2TMlHUer",
+        "title": "Летний гром",
+        "author": "Стивен Кинг",
+        "notes": "Два мужчины и собака в конце этого мира.",
+        "createdAt": "2021-05-18 18:41:01",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 206
+        }
+    },
     "IlEqNJp795": {
         "id": "IlEqNJp795",
         "title": "Водосток",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 193
-        }
-    },
-    "_E-aHGbQVG": {
-        "id": "_E-aHGbQVG",
-        "title": "Клан пещерного медведя",
-        "author": "Джин Ауэл",
-        "notes": "paper",
-        "createdAt": "2021-04-12 03:08:07",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 39
         }
     }
 }

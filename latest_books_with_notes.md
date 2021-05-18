@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
 * Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
 * Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
 * Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
 * Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
-* Клан пещерного медведя ~ [vitasoft](users/474/47446642-vkontakte)<sup>39</sup>
 
 
-_18.05.2021 10:48:50_
+_18.05.2021 18:41:01_
