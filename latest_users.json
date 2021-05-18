@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 159,
+        "updatedAt": "2021-05-18 22:14:09"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "Elixir",
         "booksCount": 431,
         "updatedAt": "2021-05-05 19:55:54"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 191,
-        "updatedAt": "2021-05-04 11:53:33"
     }
 }
