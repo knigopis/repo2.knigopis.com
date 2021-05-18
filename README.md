@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
+    > У мужчины умер сын, тысячелетняя тварь из водостока преследует людей с особой кровью.
+
 * Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
     > Промозглая снежная буря заставляет троих незнакомцев пережидать её в заброшенной строительной будке.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 1147 страниц. Это много и это захватывающе
 
 * Магистр дьявольского культа ~ [Askaliya](users/326/326783541-vkontakte)<sup>10</sup>
-    > Том 1-4
 
 * Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
 
-* Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>82</sup> 
 [](users/153/1537586159620888-facebook)<sup>39</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>202</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>257</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>143</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>94</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 
 
-_17.05.2021 21:46:46_
+_18.05.2021 10:48:50_
