@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
+    > Немного расстроена книгой, завлеклась отзывом Билла Гейтса "Я разослал книгу всем своим знакомым". На деле - скучная и предсказуемая романтическая фантазия айтишника, вышедшего на пенсию. Не буду читать две последующие книги серии.
+
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
     > Два мужчины и собака в конце этого мира.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > У мужчины умер сын, тысячелетняя тварь из водостока преследует людей с особой кровью.
 
 * Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
-    > Промозглая снежная буря заставляет троих незнакомцев пережидать её в заброшенной строительной будке.
 
 * Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
 
-* 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>82</sup> 
 [](users/153/1537586159620888-facebook)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup> 
-[Rina](users/102/102857111133378678801-google)<sup>4</sup> 
 
 
-_18.05.2021 18:41:01_
+_18.05.2021 20:53:15_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
 * Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
 * Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
@@ -30,7 +31,6 @@
 * Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
 * Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 * Мастер и Маргарита ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>194</sup>
-* Змеи и серьги ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>193</sup>
 
 
-_18.05.2021 18:41:01_
+_18.05.2021 20:53:15_
