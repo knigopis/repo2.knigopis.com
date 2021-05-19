@@ -1,4 +1,16 @@
 {
+    "EpBJ73sFde": {
+        "id": "EpBJ73sFde",
+        "title": "Белая чума",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2021-05-19 06:18:24",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 411
+        }
+    },
     "LK4LGfSn0n": {
         "id": "LK4LGfSn0n",
         "title": "Мессия Дюны",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 80
-        }
-    },
-    "FoTImoLMXt": {
-        "id": "FoTImoLMXt",
-        "title": "Магистр дьявольского культа",
-        "author": "Мосян Тунсю",
-        "notes": "Том 1-4",
-        "createdAt": "2021-05-14 16:07:18",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 10
         }
     }
 }
