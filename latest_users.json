@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 104,
+        "updatedAt": "2021-05-19 09:44:51"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Артем Коробицин",
         "booksCount": 0,
         "updatedAt": "2021-05-06 12:20:40"
-    },
-    "105866022348292919948-google": {
-        "id": "105866022348292919948-google",
-        "nickname": "Chandravadana",
-        "booksCount": 161,
-        "updatedAt": "2021-05-06 09:30:08"
     }
 }
