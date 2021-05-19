@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>410</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>160</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 [Артем Коробицин](users/130/13048215253533969259-mailru)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>161</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>431</sup> 
 
 
-_18.05.2021 22:14:52_
+_19.05.2021 06:17:19_
