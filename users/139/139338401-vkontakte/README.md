@@ -1,4 +1,4 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>100</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>99</sup>
 ---
 
 ## 2021
@@ -499,8 +499,6 @@
 ### Барьер
 П.Вежинов
 > [2018-01-03] 
-
-
 
 
 
