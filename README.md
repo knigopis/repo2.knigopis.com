@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
+[sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>104</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>411</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>160</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 
 
-_19.05.2021 10:25:02_
+_19.05.2021 10:25:04_
