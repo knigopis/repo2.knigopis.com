@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>82</sup>
+# List of books read by danyluk62<sup>83</sup>
 ---
 
 ## 2021
+
+### Эта странная жизнь
+Даниил Гранин
+> [2021-05] 
+
 
 ### Бег
 Владлен Татарский
