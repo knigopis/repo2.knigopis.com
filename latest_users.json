@@ -1,4 +1,10 @@
 {
+    "103241427589325528077-google": {
+        "id": "103241427589325528077-google",
+        "nickname": "Anarchy16",
+        "booksCount": 0,
+        "updatedAt": "2021-05-20 21:24:44"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "kkossobok",
         "booksCount": 0,
         "updatedAt": "2021-05-08 19:03:33"
-    },
-    "17842868-vkontakte": {
-        "id": "17842868-vkontakte",
-        "nickname": "yana_bmstu",
-        "booksCount": 0,
-        "updatedAt": "2021-05-08 18:25:56"
     }
 }
