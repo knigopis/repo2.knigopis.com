@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zimova1990](users/111/111025093-yandex)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup> 
 [](users/153/1537586159620888-facebook)<sup>40</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yana_bmstu](users/178/17842868-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>92</sup> 
 [skubanskyy](users/101/101388427713088610140-googleplus)<sup>1</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 
 
-_20.05.2021 07:33:34_
+_20.05.2021 10:21:50_
