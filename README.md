@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>856</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 [kkossobok](users/199/1998470006956859-facebook)<sup>0</sup> 
-[yana_bmstu](users/178/17842868-vkontakte)<sup>0</sup> 
 
 
-_20.05.2021 20:05:29_
+_20.05.2021 21:24:44_
