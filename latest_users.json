@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 856,
+        "updatedAt": "2021-05-20 16:15:52"
+    },
     "111025093-yandex": {
         "id": "111025093-yandex",
         "nickname": "zimova1990",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 92,
         "updatedAt": "2021-05-07 17:58:55"
-    },
-    "101388427713088610140-googleplus": {
-        "id": "101388427713088610140-googleplus",
-        "nickname": "skubanskyy",
-        "booksCount": 1,
-        "updatedAt": "2021-05-07 11:22:54"
     }
 }
