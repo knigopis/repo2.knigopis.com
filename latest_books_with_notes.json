@@ -1,4 +1,16 @@
 {
+    "6qWVX1RVg6": {
+        "id": "6qWVX1RVg6",
+        "title": "Посвящение",
+        "author": "Стивен Кинг",
+        "notes": "Женщина и её естественный отец ребёнка.",
+        "createdAt": "2021-05-20 07:33:34",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 207
+        }
+    },
     "Gy1YHzbAjR": {
         "id": "Gy1YHzbAjR",
         "title": "Проект Рози",
@@ -345,18 +357,6 @@
             "id": "100006761945842-facebook",
             "nickname": "Somik",
             "booksCount": 14
-        }
-    },
-    "c4hQLe_KWr": {
-        "id": "c4hQLe_KWr",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "Бросила на 70% и прочитала содержание по главам остатка.",
-        "createdAt": "2021-04-17 19:07:54",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 194
         }
     }
 }

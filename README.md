@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
+    > Женщина и её естественный отец ребёнка.
+
 * Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
     > Немного расстроена книгой, завлеклась отзывом Билла Гейтса "Я разослал книгу всем своим знакомым". На деле - скучная и предсказуемая романтическая фантазия айтишника, вышедшего на пенсию. Не буду читать две последующие книги серии.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Два мужчины и собака в конце этого мира.
 
 * Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
-    > У мужчины умер сын, тысячелетняя тварь из водостока преследует людей с особой кровью.
 
 * Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
 
-* Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup> 
 [](users/153/1537586159620888-facebook)<sup>40</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>104</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>411</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>160</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>82</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>257</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>143</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>115</sup> 
 
 
-_19.05.2021 17:52:14_
+_20.05.2021 07:33:34_
