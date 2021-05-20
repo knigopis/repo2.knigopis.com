@@ -1,4 +1,10 @@
 {
+    "105866022348292919948-google": {
+        "id": "105866022348292919948-google",
+        "nickname": "Chandravadana",
+        "booksCount": 162,
+        "updatedAt": "2021-05-20 19:17:25"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "yana_bmstu",
         "booksCount": 0,
         "updatedAt": "2021-05-08 18:25:56"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 92,
-        "updatedAt": "2021-05-07 17:58:55"
     }
 }
