@@ -1,4 +1,16 @@
 {
+    "rq9CxQhVPA": {
+        "id": "rq9CxQhVPA",
+        "title": "Донбасс: От Славянска до Дебальцево. Хроники, записанные кровью. Окопная правда гражданской войны",
+        "author": "Михаил Поликарпов",
+        "notes": "",
+        "createdAt": "2021-05-21 19:01:18",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 84
+        }
+    },
     "fUutc1l55L": {
         "id": "fUutc1l55L",
         "title": "Нищий и алмаз",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 93
-        }
-    },
-    "D-mzVc9Ubj": {
-        "id": "D-mzVc9Ubj",
-        "title": "Первое правило волшебника",
-        "author": "Терри Гудкайнд",
-        "notes": "",
-        "createdAt": "2021-05-15 14:31:36",
-        "user": {
-            "id": "100275284640928997494-google",
-            "nickname": "Enchanter",
-            "booksCount": 8
         }
     }
 }
