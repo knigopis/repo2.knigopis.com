@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
+    > Крепость Славянск. Сражение года: оборона Саур-Могилы. День, когда Украина дрогнула: Иловайская трагедия. Падение Донецкого аэропорта: как это было.
+
 * Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
     > Тёмная башня 5
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Женщина и её естественный отец ребёнка.
 
 * Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
-    > Немного расстроена книгой, завлеклась отзывом Билла Гейтса "Я разослал книгу всем своим знакомым". На деле - скучная и предсказуемая романтическая фантазия айтишника, вышедшего на пенсию. Не буду читать две последующие книги серии.
 
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
 
-* Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
+[danyluk62](users/374/374149854-vkontakte)<sup>84</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>208</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>144</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>93</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_21.05.2021 21:14:49_
+_21.05.2021 21:17:55_

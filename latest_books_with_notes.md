@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
 * Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
 * Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
@@ -30,7 +31,6 @@
 * Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
 * Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
-* Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
 
 
-_21.05.2021 02:31:31_
+_21.05.2021 21:17:55_
