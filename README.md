@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>144</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>93</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>160</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>257</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>143</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>94</sup> 
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_21.05.2021 02:31:31_
+_21.05.2021 06:55:43_
