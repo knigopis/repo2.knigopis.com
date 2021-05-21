@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
+    > Тёмная башня 5
+
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
     > Женщина и её естественный отец ребёнка.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Немного расстроена книгой, завлеклась отзывом Билла Гейтса "Я разослал книгу всем своим знакомым". На деле - скучная и предсказуемая романтическая фантазия айтишника, вышедшего на пенсию. Не буду читать две последующие книги серии.
 
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
-    > Два мужчины и собака в конце этого мира.
 
 * Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
 
-* Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>93</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>324</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
-[kkossobok](users/199/1998470006956859-facebook)<sup>0</sup> 
 
 
-_20.05.2021 21:24:44_
+_21.05.2021 02:31:31_

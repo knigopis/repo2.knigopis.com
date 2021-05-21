@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
 * Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
@@ -30,7 +31,6 @@
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
 * Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
 * Путеводитель по лжи ~ [Garka](users/115/115753719718250012620-google)<sup>283</sup>
-* Замок из стекла ~ [Somik](users/100/100006761945842-facebook)<sup>14</sup>
 
 
-_20.05.2021 07:33:34_
+_21.05.2021 02:31:31_
