@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
+    > Женщина задравшая подол юбки с нейтральным лицом.
+
 * Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
     > Крепость Славянск. Сражение года: оборона Саур-Могилы. День, когда Украина дрогнула: Иловайская трагедия. Падение Донецкого аэропорта: как это было.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Тёмная башня 5
 
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
-    > Женщина и её естественный отец ребёнка.
 
 * Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Магистр дьявольского культа ~ [Askaliya](users/326/326783541-vkontakte)<sup>10</sup>
 
-* Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>208</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>144</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>93</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_21.05.2021 21:18:40_
+_22.05.2021 11:14:49_

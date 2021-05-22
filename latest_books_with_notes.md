@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
 * Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
 * Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
@@ -30,7 +31,6 @@
 * Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
 * Зоряний вуйко ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>187</sup>
 * І будуть люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>186</sup>
-* Біль і гнів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>185</sup>
 
 
-_21.05.2021 21:17:55_
+_22.05.2021 11:14:49_
