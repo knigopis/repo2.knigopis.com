@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
+    > Серия Проклятые короли #1
+
 * Щелкун ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup>
     > Мужчину коммивояжера попытался убить автостопщик.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Много вынесла для себя интересного. 1. что вокруг нас уже есть - этого мы и хотим, 2. чтобы достичь успеха, нужно тренироваться больше остальных, 3. надо составлять карту реальности и пути в ней.
 
 * Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
-    > Женщина задравшая подол юбки с нейтральным лицом.
 
 * Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
 
-* Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>95</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>94</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>144</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_23.05.2021 19:03:05_
+_23.05.2021 19:03:48_

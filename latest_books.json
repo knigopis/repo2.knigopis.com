@@ -1,4 +1,16 @@
 {
+    "C3IaeLVgUm": {
+        "id": "C3IaeLVgUm",
+        "title": "Железный король",
+        "author": "Морис Дрюон",
+        "notes": "Серия Проклятые короли #1",
+        "createdAt": "2021-05-23 19:03:48",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 95
+        }
+    },
     "g6xVD5ojkq": {
         "id": "g6xVD5ojkq",
         "title": "Щелкун",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 202
-        }
-    },
-    "azH9HT1ziI": {
-        "id": "azH9HT1ziI",
-        "title": "Зелёные холмы Африки",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2021-05-17 10:57:01",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 257
         }
     }
 }

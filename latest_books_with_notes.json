@@ -1,4 +1,16 @@
 {
+    "C3IaeLVgUm": {
+        "id": "C3IaeLVgUm",
+        "title": "Железный король",
+        "author": "Морис Дрюон",
+        "notes": "Серия Проклятые короли #1",
+        "createdAt": "2021-05-23 19:03:48",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 95
+        }
+    },
     "g6xVD5ojkq": {
         "id": "g6xVD5ojkq",
         "title": "Щелкун",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 89
-        }
-    },
-    "yVJG9NUuZE": {
-        "id": "yVJG9NUuZE",
-        "title": "Закон братів Капранових",
-        "author": "Брати Капранови",
-        "notes": "5/10 Збірка газетних статей (деякі вже не актуальні після 2014).",
-        "createdAt": "2021-04-23 11:36:00",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 188
         }
     }
 }

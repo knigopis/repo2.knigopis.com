@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
 * Щелкун ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup>
 * Красная таблетка-2. Вся правда об успехе. ~ [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup>
 * Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
@@ -30,7 +31,6 @@
 * Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
 * Маленькие женщины ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>196</sup>
 * Барраярд ~ [Антенка](users/118/118158645037334943900-google)<sup>89</sup>
-* Закон братів Капранових ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>188</sup>
 
 
-_23.05.2021 19:03:05_
+_23.05.2021 19:03:48_
