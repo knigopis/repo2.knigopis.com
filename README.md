@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>94</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>144</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>93</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>856</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_23.05.2021 18:12:37_
+_23.05.2021 18:14:28_
