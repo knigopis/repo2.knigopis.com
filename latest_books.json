@@ -1,4 +1,16 @@
 {
+    "g6xVD5ojkq": {
+        "id": "g6xVD5ojkq",
+        "title": "Щелкун",
+        "author": "Стивен Кинг",
+        "notes": "Мужчину коммивояжера попытался убить автостопщик.",
+        "createdAt": "2021-05-23 19:03:05",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 210
+        }
+    },
     "snInLwsMLd": {
         "id": "snInLwsMLd",
         "title": "Счастье на бис",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 257
-        }
-    },
-    "qs7TVHRusw": {
-        "id": "qs7TVHRusw",
-        "title": "Наука любви",
-        "author": "Овидий",
-        "notes": "",
-        "createdAt": "2021-05-16 16:23:32",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 81
         }
     }
 }
