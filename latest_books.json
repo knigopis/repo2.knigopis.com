@@ -1,4 +1,16 @@
 {
+    "bIfI8D46kg": {
+        "id": "bIfI8D46kg",
+        "title": "S-T-I-K-S. Человеческий улей",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:08:57",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 1
+        }
+    },
     "ZltEHKvmzm": {
         "id": "ZltEHKvmzm",
         "title": "Сотканный мир",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 206
-        }
-    },
-    "jiYC1_WLam": {
-        "id": "jiYC1_WLam",
-        "title": "Сорняк",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-05-18 16:03:47",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 205
         }
     }
 }
