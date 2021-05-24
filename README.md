@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кроссовки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>211</sup>
+    > Кроссовки в туалете на протяжении долгого времени.
+
 * Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
     > Серия Проклятые короли #1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мужчину коммивояжера попытался убить автостопщик.
 
 * Красная таблетка-2. Вся правда об успехе. ~ [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup>
-    > Много вынесла для себя интересного. 1. что вокруг нас уже есть - этого мы и хотим, 2. чтобы достичь успеха, нужно тренироваться больше остальных, 3. надо составлять карту реальности и пути в ней.
 
 * Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
 
-* Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>211</sup> 
 [](users/153/1537586159620888-facebook)<sup>41</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>95</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>83</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>144</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_23.05.2021 19:41:17_
+_24.05.2021 07:29:56_
