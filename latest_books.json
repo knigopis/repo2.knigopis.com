@@ -1,4 +1,16 @@
 {
+    "y70cfwoDCl": {
+        "id": "y70cfwoDCl",
+        "title": "Ведьмак «Последнее желание»",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:16:45",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 15
+        }
+    },
     "KaMtaXO8v8": {
         "id": "KaMtaXO8v8",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 93
-        }
-    },
-    "EnbiyswfxH": {
-        "id": "EnbiyswfxH",
-        "title": "Эта странная жизнь",
-        "author": "Даниил Гранин",
-        "notes": "",
-        "createdAt": "2021-05-20 20:05:29",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 83
         }
     }
 }
