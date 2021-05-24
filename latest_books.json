@@ -1,4 +1,16 @@
 {
+    "6vbrs_Cue2": {
+        "id": "6vbrs_Cue2",
+        "title": "У оружия нет имени",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:11:56",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 9
+        }
+    },
     "pBnci20tKe": {
         "id": "pBnci20tKe",
         "title": "LIVE-RPG. Эволюция-6",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 207
-        }
-    },
-    "xNLXvRHL9P": {
-        "id": "xNLXvRHL9P",
-        "title": "Ей о нём",
-        "author": "Андрей Клеверин",
-        "notes": "",
-        "createdAt": "2021-05-19 17:52:14",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 40
         }
     }
 }
