@@ -1,4 +1,10 @@
 {
+    "2756136091613116923-mailru": {
+        "id": "2756136091613116923-mailru",
+        "nickname": "bagnyan777",
+        "booksCount": 0,
+        "updatedAt": "2021-05-24 20:05:56"
+    },
     "103389838241993724492-google": {
         "id": "103389838241993724492-google",
         "nickname": "Hammerzeit",
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 324,
         "updatedAt": "2021-05-10 15:06:30"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 9,
-        "updatedAt": "2021-05-10 08:33:53"
     }
 }
