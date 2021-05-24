@@ -1,4 +1,10 @@
 {
+    "116650782618177766821-googleplus": {
+        "id": "116650782618177766821-googleplus",
+        "nickname": "Дмитрий Витальевич",
+        "booksCount": 0,
+        "updatedAt": "2021-05-24 20:06:32"
+    },
     "2756136091613116923-mailru": {
         "id": "2756136091613116923-mailru",
         "nickname": "bagnyan777",
@@ -172,11 +178,5 @@
         "nickname": "Shimpanze",
         "booksCount": 6,
         "updatedAt": "2021-05-11 10:06:47"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 324,
-        "updatedAt": "2021-05-10 15:06:30"
     }
 }
