@@ -1,4 +1,16 @@
 {
+    "5HTKCFTt-K": {
+        "id": "5HTKCFTt-K",
+        "title": "У оружия нет имени. Книга 2",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:12:09",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 10
+        }
+    },
     "6vbrs_Cue2": {
         "id": "6vbrs_Cue2",
         "title": "У оружия нет имени",
@@ -345,18 +357,6 @@
             "id": "111025093-yandex",
             "nickname": "zimova1990",
             "booksCount": 1
-        }
-    },
-    "6qWVX1RVg6": {
-        "id": "6qWVX1RVg6",
-        "title": "Посвящение",
-        "author": "Стивен Кинг",
-        "notes": "Женщина и её естественный отец ребёнка.",
-        "createdAt": "2021-05-20 07:33:34",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 207
         }
     }
 }
