@@ -1,4 +1,16 @@
 {
+    "KaMtaXO8v8": {
+        "id": "KaMtaXO8v8",
+        "title": "",
+        "author": "S-T-I-K-S. Дорога в рай",
+        "notes": "",
+        "createdAt": "2021-05-24 20:14:57",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 14
+        }
+    },
     "KNL9xv-lIM": {
         "id": "KNL9xv-lIM",
         "title": "Эпидемия. All Inclusive",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 83
-        }
-    },
-    "j5HW7mW7hc": {
-        "id": "j5HW7mW7hc",
-        "title": "Галька в небе",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2021-05-20 19:19:14",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 163
         }
     }
 }
