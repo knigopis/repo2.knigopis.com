@@ -1,4 +1,16 @@
 {
+    "0rcrjKrUcZ": {
+        "id": "0rcrjKrUcZ",
+        "title": "S-T-I-K-S. Человек с котом",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:09:10",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 2
+        }
+    },
     "bIfI8D46kg": {
         "id": "bIfI8D46kg",
         "title": "S-T-I-K-S. Человеческий улей",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 11
-        }
-    },
-    "J-2TMlHUer": {
-        "id": "J-2TMlHUer",
-        "title": "Летний гром",
-        "author": "Стивен Кинг",
-        "notes": "Два мужчины и собака в конце этого мира.",
-        "createdAt": "2021-05-18 18:41:01",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 206
         }
     }
 }
