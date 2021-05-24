@@ -1,4 +1,16 @@
 {
+    "UJDPwnSTJ3": {
+        "id": "UJDPwnSTJ3",
+        "title": "Код да Винчи",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:19:06",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 24
+        }
+    },
     "S-m7HRFkxB": {
         "id": "S-m7HRFkxB",
         "title": "Ритуал",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 95
-        }
-    },
-    "g6xVD5ojkq": {
-        "id": "g6xVD5ojkq",
-        "title": "Щелкун",
-        "author": "Стивен Кинг",
-        "notes": "Мужчину коммивояжера попытался убить автостопщик.",
-        "createdAt": "2021-05-23 19:03:05",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 210
         }
     }
 }
