@@ -1,4 +1,16 @@
 {
+    "KtTE1vI9TY": {
+        "id": "KtTE1vI9TY",
+        "title": "LIVE-RPG. Эволюция-3",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:10:57",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 5
+        }
+    },
     "rY4RF4yFwS": {
         "id": "rY4RF4yFwS",
         "title": "LIVE-RPG. Эволюция-2",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 410
-        }
-    },
-    "1lHGDwrbQu": {
-        "id": "1lHGDwrbQu",
-        "title": "Блокада. Книга третья.",
-        "author": "Александр Борисович Чаковский",
-        "notes": "",
-        "createdAt": "2021-05-18 22:14:52",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 160
         }
     }
 }
