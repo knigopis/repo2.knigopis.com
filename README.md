@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>24</sup> 
+[Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>25</sup> 
 [bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shimpanze](users/108/108324375224819470216-google)<sup>6</sup> 
 
 
-_24.05.2021 20:19:06_
+_24.05.2021 20:19:31_
