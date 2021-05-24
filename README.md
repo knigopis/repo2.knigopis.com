@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мой милый пони ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup>
+    > Дед рассказывает внуку про время.
+
 * Рок-н-ролл никогда не умрёт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>212</sup>
     > Пара попадает в город Рок-н-ролл.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кроссовки в туалете на протяжении долгого времени.
 
 * Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
-    > Серия Проклятые короли #1
 
 * Щелкун ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
 
-* Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>212</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup> 
 [](users/153/1537586159620888-facebook)<sup>41</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>95</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_24.05.2021 07:30:25_
+_24.05.2021 08:47:08_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мой милый пони ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup>
 * Рок-н-ролл никогда не умрёт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>212</sup>
 * Кроссовки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>211</sup>
 * Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
 * Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
-* Грузовик дяди Отто ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>197</sup>
 
 
-_24.05.2021 07:30:25_
+_24.05.2021 08:47:08_
