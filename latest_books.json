@@ -1,4 +1,16 @@
 {
+    "2DX1Rap-BP": {
+        "id": "2DX1Rap-BP",
+        "title": "Ведьмак «Меч Предназначения»",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-05-24 20:16:51",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 16
+        }
+    },
     "y70cfwoDCl": {
         "id": "y70cfwoDCl",
         "title": "Ведьмак «Последнее желание»",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 144
-        }
-    },
-    "_vzbJFNsgF": {
-        "id": "_vzbJFNsgF",
-        "title": "Волки Кальи",
-        "author": "Стивен Кинг",
-        "notes": "Тёмная башня 5",
-        "createdAt": "2021-05-21 02:31:31",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 93
         }
     }
 }
