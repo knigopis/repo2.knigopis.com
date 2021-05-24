@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup> 
 [](users/153/1537586159620888-facebook)<sup>41</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
 [Shimpanze](users/108/108324375224819470216-google)<sup>6</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>324</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>9</sup> 
 
 
-_24.05.2021 17:49:32_
+_24.05.2021 20:05:56_
