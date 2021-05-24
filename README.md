@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
+    > Не очень увлекательно
+
 * Мой милый пони ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup>
     > Дед рассказывает внуку про время.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Пара попадает в город Рок-н-ролл.
 
 * Кроссовки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>211</sup>
-    > Кроссовки в туалете на протяжении долгого времени.
 
 * Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
 
-* Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup> 
 [](users/153/1537586159620888-facebook)<sup>41</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>95</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shimpanze](users/108/108324375224819470216-google)<sup>6</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>324</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>9</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>171</sup> 
 
 
-_24.05.2021 08:47:08_
+_24.05.2021 17:49:32_

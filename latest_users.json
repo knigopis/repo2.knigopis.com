@@ -1,4 +1,10 @@
 {
+    "103389838241993724492-google": {
+        "id": "103389838241993724492-google",
+        "nickname": "Hammerzeit",
+        "booksCount": 1,
+        "updatedAt": "2021-05-24 17:49:32"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 9,
         "updatedAt": "2021-05-10 08:33:53"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 171,
-        "updatedAt": "2021-05-09 11:03:16"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
 * Мой милый пони ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup>
 * Рок-н-ролл никогда не умрёт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>212</sup>
 * Кроссовки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>211</sup>
@@ -30,7 +31,6 @@
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
 * Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
 * Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
-* Воин любви. История любви и прощения ~ [TheWildWind](users/262/262062207519652-facebook)<sup>44</sup>
 
 
-_24.05.2021 08:47:08_
+_24.05.2021 17:49:32_
