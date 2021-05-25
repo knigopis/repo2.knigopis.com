@@ -1,4 +1,16 @@
 {
+    "J7QdQxmENd": {
+        "id": "J7QdQxmENd",
+        "title": "Крауч-энд",
+        "author": "Стивен Кинг",
+        "notes": "Женщина и мужчина попадают на улицу в стиле Лавкрафта.",
+        "createdAt": "2021-05-25 16:33:42",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 215
+        }
+    },
     "BUK8ABZUfM": {
         "id": "BUK8ABZUfM",
         "title": "Пентаграмма",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 4
-        }
-    },
-    "tH9If8BvSj": {
-        "id": "tH9If8BvSj",
-        "title": "1 LIVE-RPG. Эволюция-1",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:10:25",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 3
         }
     }
 }
