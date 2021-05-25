@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>104</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>105</sup>
 ---
 
 ## 2021
+
+### Возвышение Хоруса
+Дэн Абнетт
+> [2021-05-25] 
+
 
 ### Танец с драконами
 Джордж Мартин
