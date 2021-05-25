@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
 * Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
 * Мой милый пони ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup>
 * Рок-н-ролл никогда не умрёт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>212</sup>
@@ -30,7 +31,6 @@
 * Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
 * Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
 * Престол Кретории ~ [Chiffi](users/105/105831994080785626680-google)<sup>286</sup>
-* Элегия Хиллбилли ~ [albina_untiring](users/257/2579695-vkontakte)<sup>10</sup>
 
 
-_24.05.2021 17:49:32_
+_25.05.2021 03:34:30_

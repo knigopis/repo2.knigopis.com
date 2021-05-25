@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 214,
+        "updatedAt": "2021-05-25 03:34:30"
+    },
     "116650782618177766821-googleplus": {
         "id": "116650782618177766821-googleplus",
         "nickname": "Дмитрий Витальевич",
@@ -16,12 +22,6 @@
         "nickname": "Hammerzeit",
         "booksCount": 1,
         "updatedAt": "2021-05-24 17:49:32"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 213,
-        "updatedAt": "2021-05-24 08:47:08"
     },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
