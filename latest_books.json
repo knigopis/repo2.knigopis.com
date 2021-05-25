@@ -1,4 +1,16 @@
 {
+    "I0Q210VaDf": {
+        "id": "I0Q210VaDf",
+        "title": "Пятая четверть",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-05-25 17:39:23",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 216
+        }
+    },
     "J7QdQxmENd": {
         "id": "J7QdQxmENd",
         "title": "Крауч-энд",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 5
-        }
-    },
-    "rY4RF4yFwS": {
-        "id": "rY4RF4yFwS",
-        "title": "LIVE-RPG. Эволюция-2",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:10:49",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 4
         }
     }
 }
