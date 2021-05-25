@@ -1,4 +1,16 @@
 {
+    "Bc15oulAaR": {
+        "id": "Bc15oulAaR",
+        "title": "Маленькие женщины",
+        "author": "Луиза Мэй Олкотт",
+        "notes": "",
+        "createdAt": "2021-05-25 20:11:36",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 857
+        }
+    },
     "o1soURv_0j": {
         "id": "o1soURv_0j",
         "title": "Игорь Стрелков — ужас бандеровской хунты. Оборона Донбасса",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 8
-        }
-    },
-    "iTFNNz9OwT": {
-        "id": "iTFNNz9OwT",
-        "title": "LIVE-RPG. Эволюция-5",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:11:10",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 7
         }
     }
 }
