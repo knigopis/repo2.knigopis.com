@@ -1,4 +1,16 @@
 {
+    "BUK8ABZUfM": {
+        "id": "BUK8ABZUfM",
+        "title": "Пентаграмма",
+        "author": "Ю Нёсбе",
+        "notes": "",
+        "createdAt": "2021-05-25 09:33:13",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 96
+        }
+    },
     "pV1_3oeznR": {
         "id": "pV1_3oeznR",
         "title": "Возвышение Хоруса",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 3
-        }
-    },
-    "0rcrjKrUcZ": {
-        "id": "0rcrjKrUcZ",
-        "title": "S-T-I-K-S. Человек с котом",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:09:10",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 2
         }
     }
 }
