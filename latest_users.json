@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 192,
+        "updatedAt": "2021-05-25 18:58:56"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "zabiiakaserhii",
         "booksCount": 1,
         "updatedAt": "2021-05-11 18:19:47"
-    },
-    "108324375224819470216-google": {
-        "id": "108324375224819470216-google",
-        "nickname": "Shimpanze",
-        "booksCount": 6,
-        "updatedAt": "2021-05-11 10:06:47"
     }
 }

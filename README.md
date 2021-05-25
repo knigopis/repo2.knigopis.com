@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Справжність Велесової книги ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup>
+    > 6/10 Резензент п. Ющук, логічні та наукові доводи щодо книги, суперечить офіційній позиції науки.
+
 * Крауч-энд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>215</sup>
     > Женщина и мужчина попадают на улицу в стиле Лавкрафта.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Женщина звонит себе в прошлое.
 
 * Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
-    > Не очень увлекательно
 
 * Мой милый пони ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Красная таблетка-2. Вся правда об успехе. ~ [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup>
 
-* Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>216</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>96</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>105</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>203</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>81</sup> 
 [zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
-[Shimpanze](users/108/108324375224819470216-google)<sup>6</sup> 
 
 
-_25.05.2021 17:39:23_
+_25.05.2021 18:58:57_

@@ -1,4 +1,16 @@
 {
+    "Bs9yl-nVG8": {
+        "id": "Bs9yl-nVG8",
+        "title": "Справжність Велесової книги",
+        "author": "Ігор Россоха",
+        "notes": "6/10 Резензент п. Ющук, логічні та наукові доводи щодо книги, суперечить офіційній позиції науки.",
+        "createdAt": "2021-05-25 18:58:56",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 192
+        }
+    },
     "I0Q210VaDf": {
         "id": "I0Q210VaDf",
         "title": "Пятая четверть",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 6
-        }
-    },
-    "KtTE1vI9TY": {
-        "id": "KtTE1vI9TY",
-        "title": "LIVE-RPG. Эволюция-3",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:10:57",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 5
         }
     }
 }

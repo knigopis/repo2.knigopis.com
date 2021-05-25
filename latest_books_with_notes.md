@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Справжність Велесової книги ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup>
 * Крауч-энд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>215</sup>
 * Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
 * Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
@@ -30,7 +31,6 @@
 * Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Дисгардиум (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>38</sup>
 * Ветер (серия из 9 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>37</sup>
-* Воспоминания о войне ~ [dromoman2008](users/444/44461886-yandex)<sup>35</sup>
 
 
-_25.05.2021 16:33:42_
+_25.05.2021 18:58:57_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>191</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>192</sup>
 ---
 
 ## 2021
+
+### Справжність Велесової книги
+Ігор Россоха
+> [2021-05-23] 6/10 Резензент п. Ющук, логічні та наукові доводи щодо книги, суперечить офіційній позиції науки.
+
 
 ### 10 причин видалити акаунт із соцмереж просто зараз
 Джарон Ланьє
