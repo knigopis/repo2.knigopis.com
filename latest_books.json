@@ -1,4 +1,16 @@
 {
+    "v_FlacrnSq": {
+        "id": "v_FlacrnSq",
+        "title": "Война и миф",
+        "author": "Михаил Зыгарь",
+        "notes": "",
+        "createdAt": "2021-05-28 17:53:00",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 85
+        }
+    },
     "UgUTHNPjHI": {
         "id": "UgUTHNPjHI",
         "title": "Расследование доктора Уотсона",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 17
-        }
-    },
-    "2DX1Rap-BP": {
-        "id": "2DX1Rap-BP",
-        "title": "Ведьмак «Меч Предназначения»",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:16:51",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 16
         }
     }
 }
