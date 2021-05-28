@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>858</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>857</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>84</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>216</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
 
 
-_28.05.2021 02:02:15_
+_28.05.2021 04:38:34_
