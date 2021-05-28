@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом на Кленовой улице ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup>
+    > Злой отчим и пропадающий дом.
+
 * Справжність Велесової книги ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup>
     > 6/10 Резензент п. Ющук, логічні та наукові доводи щодо книги, суперечить офіційній позиції науки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Женщина и мужчина попадают на улицу в стиле Лавкрафта.
 
 * Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
-    > Женщина звонит себе в прошлое.
 
 * Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Щелкун ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup>
 
-* Красная таблетка-2. Вся правда об успехе. ~ [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>106</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>95</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>858</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>84</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>216</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>96</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 [bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zabiiakaserhii](users/100/100986570544775597300-google)<sup>1</sup> 
 
 
-_28.05.2021 08:24:23_
+_28.05.2021 09:46:27_

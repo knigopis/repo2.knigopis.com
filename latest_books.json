@@ -1,4 +1,16 @@
 {
+    "idmfwe1mqM": {
+        "id": "idmfwe1mqM",
+        "title": "Дом на Кленовой улице",
+        "author": "Стивен Кинг",
+        "notes": "Злой отчим и пропадающий дом.",
+        "createdAt": "2021-05-28 09:46:27",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 217
+        }
+    },
     "ulmrlYg8jY": {
         "id": "ulmrlYg8jY",
         "title": "Лживые боги",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 13
-        }
-    },
-    "j5FlcVQn0h": {
-        "id": "j5FlcVQn0h",
-        "title": "Дикий Мир. Колонисты",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:12:23",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 12
         }
     }
 }
