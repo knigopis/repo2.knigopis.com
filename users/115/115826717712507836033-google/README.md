@@ -1,7 +1,12 @@
-# List of books read by Elixir<sup>431</sup>
+# List of books read by Elixir<sup>432</sup>
 ---
 
 ## 2021
+
+### Sapiens. Краткая история человечества
+Харари, Юваль Ной
+> [2021-05-28] 
+
 
 ### Дом на набережной
 Трифонов, Юрий

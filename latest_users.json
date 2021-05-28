@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": "Elixir",
+        "booksCount": 432,
+        "updatedAt": "2021-05-28 15:53:35"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 81,
         "updatedAt": "2021-05-12 12:54:54"
-    },
-    "100986570544775597300-google": {
-        "id": "100986570544775597300-google",
-        "nickname": "zabiiakaserhii",
-        "booksCount": 1,
-        "updatedAt": "2021-05-11 18:19:47"
     }
 }

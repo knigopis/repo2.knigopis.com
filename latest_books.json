@@ -1,4 +1,16 @@
 {
+    "rZImKdrtvb": {
+        "id": "rZImKdrtvb",
+        "title": "Sapiens. Краткая история человечества",
+        "author": "Харари, Юваль Ной",
+        "notes": "",
+        "createdAt": "2021-05-28 15:53:35",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 432
+        }
+    },
     "idmfwe1mqM": {
         "id": "idmfwe1mqM",
         "title": "Дом на Кленовой улице",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 14
-        }
-    },
-    "KNL9xv-lIM": {
-        "id": "KNL9xv-lIM",
-        "title": "Эпидемия. All Inclusive",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:12:28",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 13
         }
     }
 }
