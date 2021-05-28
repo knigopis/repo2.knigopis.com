@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Расследование доктора Уотсона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup>
+    > Семья, 5 членов и один мертвец, мерзкий старик, убийцы все.
+
 * Дом на Кленовой улице ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup>
     > Злой отчим и пропадающий дом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Резензент п. Ющук, логічні та наукові доводи щодо книги, суперечить офіційній позиції науки.
 
 * Крауч-энд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>215</sup>
-    > Женщина и мужчина попадают на улицу в стиле Лавкрафта.
 
 * Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
 
-* Щелкун ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>106</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>95</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>858</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>81</sup> 
 
 
-_28.05.2021 16:30:21_
+_28.05.2021 16:54:03_

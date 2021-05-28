@@ -1,4 +1,16 @@
 {
+    "UgUTHNPjHI": {
+        "id": "UgUTHNPjHI",
+        "title": "Расследование доктора Уотсона",
+        "author": "Стивен Кинг",
+        "notes": "Семья, 5 членов и один мертвец, мерзкий старик, убийцы все.",
+        "createdAt": "2021-05-28 16:54:03",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 218
+        }
+    },
     "idmfwe1mqM": {
         "id": "idmfwe1mqM",
         "title": "Дом на Кленовой улице",
@@ -345,18 +357,6 @@
             "id": "102857111133378678801-google",
             "nickname": "Rina",
             "booksCount": 5
-        }
-    },
-    "6WCNwlar7I": {
-        "id": "6WCNwlar7I",
-        "title": "Дисгардиум (серия из 6 книг)",
-        "author": "Сургалинов Данияр",
-        "notes": "ЛитРПГ\nПервые книги интересные, дальше посмотрим",
-        "createdAt": "2021-05-02 14:09:14",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 38
         }
     }
 }

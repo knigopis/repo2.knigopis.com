@@ -1,4 +1,16 @@
 {
+    "UgUTHNPjHI": {
+        "id": "UgUTHNPjHI",
+        "title": "Расследование доктора Уотсона",
+        "author": "Стивен Кинг",
+        "notes": "Семья, 5 членов и один мертвец, мерзкий старик, убийцы все.",
+        "createdAt": "2021-05-28 16:54:03",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 218
+        }
+    },
     "S1UGgkQ8xb": {
         "id": "S1UGgkQ8xb",
         "title": "Блокада. Книга четвёртая.",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 16
-        }
-    },
-    "y70cfwoDCl": {
-        "id": "y70cfwoDCl",
-        "title": "Ведьмак «Последнее желание»",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:16:45",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 15
         }
     }
 }
