@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
 * Безсмертний полк. Священна вiйна Путiна ~ [danyluk62](users/374/374149854-vkontakte)<sup>86</sup>
 * Расследование доктора Уотсона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup>
 * Дом на Кленовой улице ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup>
@@ -30,7 +31,6 @@
 * Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
 * 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
 * Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
-* Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
 
 
-_28.05.2021 18:10:03_
+_28.05.2021 18:23:13_
