@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Безсмертний полк. Священна вiйна Путiна ~ [danyluk62](users/374/374149854-vkontakte)<sup>86</sup>
 * Расследование доктора Уотсона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup>
 * Дом на Кленовой улице ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup>
 * Справжність Велесової книги ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup>
@@ -30,7 +31,6 @@
 * 10 причин видалити акаунт із соцмереж просто зараз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>191</sup>
 * Трагедія в трьох діях ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>190</sup>
 * Таємнича пригода в Стайлзі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>189</sup>
-* Кафе на краю світу ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 
 
-_28.05.2021 16:54:03_
+_28.05.2021 18:10:03_
