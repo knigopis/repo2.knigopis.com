@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>106</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>411</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>160</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>257</sup> 
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>81</sup> 
 
 
-_28.05.2021 15:53:35_
+_28.05.2021 16:30:21_

@@ -1,4 +1,16 @@
 {
+    "S1UGgkQ8xb": {
+        "id": "S1UGgkQ8xb",
+        "title": "Блокада. Книга четвёртая.",
+        "author": "Александр Борисович Чаковский",
+        "notes": "",
+        "createdAt": "2021-05-28 16:30:21",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 161
+        }
+    },
     "rZImKdrtvb": {
         "id": "rZImKdrtvb",
         "title": "Sapiens. Краткая история человечества",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 15
-        }
-    },
-    "KaMtaXO8v8": {
-        "id": "KaMtaXO8v8",
-        "title": "",
-        "author": "S-T-I-K-S. Дорога в рай",
-        "notes": "",
-        "createdAt": "2021-05-24 20:14:57",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 14
         }
     }
 }
