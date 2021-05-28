@@ -1,4 +1,16 @@
 {
+    "ulmrlYg8jY": {
+        "id": "ulmrlYg8jY",
+        "title": "Лживые боги",
+        "author": "Грэм МакНилл",
+        "notes": "",
+        "createdAt": "2021-05-28 08:24:23",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 106
+        }
+    },
     "5XKKeHXCkC": {
         "id": "5XKKeHXCkC",
         "title": "Собрание сочинений. Т. 3",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 12
-        }
-    },
-    "F6o3zVWH7l": {
-        "id": "F6o3zVWH7l",
-        "title": "Преисподняя \"АСТРА-1\"",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:12:16",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 11
         }
     }
 }
