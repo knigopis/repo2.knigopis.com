@@ -1,4 +1,16 @@
 {
+    "C4H_zW7K9_": {
+        "id": "C4H_zW7K9_",
+        "title": "Всё хреново",
+        "author": "Мэнсон Марк",
+        "notes": "И рядом не стоит с Тонким искусством пофигизма. Но интересные мысли есть",
+        "createdAt": "2021-05-30 15:44:18",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 287
+        }
+    },
     "xWUcPUoHTi": {
         "id": "xWUcPUoHTi",
         "title": "Властелин колец. Две крепости",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 26
-        }
-    },
-    "qwFSXS7yoG": {
-        "id": "qwFSXS7yoG",
-        "title": "Метро 2033",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:19:31",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 25
         }
     }
 }

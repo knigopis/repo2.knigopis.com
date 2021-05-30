@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
+    > И рядом не стоит с Тонким искусством пофигизма. Но интересные мысли есть
+
 * Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
     > Серия из 4 книг Фэнтези
     > Оценка 4
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 4+
 
 * Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
-    > Дневник Игорь Гиркина-Стрелкова о своём участии на войне в Боснии в составе 2-го Русского добровольческого отряда. Небольшое по объему произведение описывает личный состав отряда, его боевой путь и реалии той войны.
 
 * Безсмертний полк. Священна вiйна Путiна ~ [danyluk62](users/374/374149854-vkontakte)<sup>86</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
 
-* Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>286</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>287</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>98</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>40</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>87</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [koakxil23](users/513/513268475-yandex)<sup>0</sup> 
 
 
-_30.05.2021 15:42:15_
+_30.05.2021 15:44:18_

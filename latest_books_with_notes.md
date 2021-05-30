@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
 * Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
 * Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
 * Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
@@ -30,7 +31,6 @@
 * Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
 * Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
 * Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
-* Цетаганда ~ [Антенка](users/118/118158645037334943900-google)<sup>91</sup>
 
 
-_30.05.2021 07:12:26_
+_30.05.2021 15:44:18_
