@@ -1,4 +1,16 @@
 {
+    "iu9MJU6aBs": {
+        "id": "iu9MJU6aBs",
+        "title": "Жертвы жадности",
+        "author": "Сухов Лео",
+        "notes": "Серия из 4 книг ЛитРпг Интересная серия \nОценка 4+",
+        "createdAt": "2021-05-30 07:10:28",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 39
+        }
+    },
     "pfqstT5Qqf": {
         "id": "pfqstT5Qqf",
         "title": "История с кладбищем",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 21
-        }
-    },
-    "QMVI9V0j2t": {
-        "id": "QMVI9V0j2t",
-        "title": "Ведьмак «Башня Ласточки»",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:17:26",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 20
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 39,
+        "updatedAt": "2021-05-30 07:10:28"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 203,
         "updatedAt": "2021-05-12 14:03:48"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 81,
-        "updatedAt": "2021-05-12 12:54:54"
     }
 }
