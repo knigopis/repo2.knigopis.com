@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[galard13](users/137/1372460683-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>287</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>98</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>40</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>45</sup> 
 [w1984](users/107/107323625212383253068-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>10</sup> 
-[koakxil23](users/513/513268475-yandex)<sup>0</sup> 
 
 
-_30.05.2021 15:44:18_
+_30.05.2021 19:13:29_
