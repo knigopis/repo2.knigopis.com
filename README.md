@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>285</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>286</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>98</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>40</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>87</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [koakxil23](users/513/513268475-yandex)<sup>0</sup> 
 
 
-_30.05.2021 15:41:45_
+_30.05.2021 15:42:15_
