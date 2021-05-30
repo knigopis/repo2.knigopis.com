@@ -1,4 +1,10 @@
 {
+    "1372460683-yandex": {
+        "id": "1372460683-yandex",
+        "nickname": "galard13",
+        "booksCount": 0,
+        "updatedAt": "2021-05-30 19:13:28"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Askaliya",
         "booksCount": 10,
         "updatedAt": "2021-05-14 16:07:18"
-    },
-    "513268475-yandex": {
-        "id": "513268475-yandex",
-        "nickname": "koakxil23",
-        "booksCount": 0,
-        "updatedAt": "2021-05-13 04:31:05"
     }
 }
