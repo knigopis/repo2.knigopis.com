@@ -1,4 +1,16 @@
 {
+    "Dwi-2-Yu6I": {
+        "id": "Dwi-2-Yu6I",
+        "title": "Властелин колец. Братство Кольца",
+        "author": "Толкин Джон Рональд Руэл",
+        "notes": "",
+        "createdAt": "2021-05-30 15:41:45",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 285
+        }
+    },
     "77AiWCPL2g": {
         "id": "77AiWCPL2g",
         "title": "Двурожденные. Сплав закона",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 24
-        }
-    },
-    "S-m7HRFkxB": {
-        "id": "S-m7HRFkxB",
-        "title": "Ритуал",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:18:08",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 23
         }
     }
 }
