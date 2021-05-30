@@ -1,4 +1,16 @@
 {
+    "77AiWCPL2g": {
+        "id": "77AiWCPL2g",
+        "title": "Двурожденные. Сплав закона",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2021-05-30 12:38:46",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 98
+        }
+    },
     "Y0rbyaiyVG": {
         "id": "Y0rbyaiyVG",
         "title": "Сломанный мир",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 23
-        }
-    },
-    "x2nXt3eucb": {
-        "id": "x2nXt3eucb",
-        "title": "Ведьмак  «Сезон гроз»",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:17:46",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 22
         }
     }
 }

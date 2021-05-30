@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>98</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>40</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>97</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>87</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>203</sup> 
 
 
-_30.05.2021 07:12:26_
+_30.05.2021 12:38:46_
