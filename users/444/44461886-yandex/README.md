@@ -1,7 +1,13 @@
-# List of books read by dromoman2008<sup>39</sup>
+# List of books read by dromoman2008<sup>40</sup>
 ---
 
 ## 2021
+
+### Сломанный мир
+Сухов Лео
+> [2021-05] Серия из 4 книг Фэнтези
+> Оценка 4
+
 
 ### Жертвы жадности
 Сухов Лео
