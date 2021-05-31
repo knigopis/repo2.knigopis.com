@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
 * Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
 * Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
 * Магистр дьявольского культа ~ [Askaliya](users/326/326783541-vkontakte)<sup>10</sup>
 * Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
-* Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
 
 
-_31.05.2021 02:58:43_
+_31.05.2021 16:06:22_

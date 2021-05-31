@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
+    > После произошедших в Украине событий 2014 года, среди оппозиционных украинских политиков началось обсуждение будущей денацификации Украины. По мнению автора, данное понятие - денацификация, - политиками используется неосознанно, без понимания сути этого процесса. В книге автор пытается объяснить сущность этого процесса, анализируя опыт борьбы советской власти с националистическими силами и настроениями (включая военно-политическую борьбу в гражданской войне 20-30х гг. и борьбу с партизанами 40-50х гг.), развитие идеологемы Голодомора, ошибки украинской власти в отношении национализма в современной истории, а также исторический опыт денацификации Германии.
+
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
     > Audio
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > И рядом не стоит с Тонким искусством пофигизма. Но интересные мысли есть
 
 * Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
-    > Серия из 4 книг Фэнтези
-    > Оценка 4
 
 * Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
 
@@ -27,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Справжність Велесової книги ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup>
 
-* Крауч-энд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>215</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>258</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>287</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>98</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>40</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>87</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [w1984](users/107/107323625212383253068-google)<sup>0</sup> 
 
 
-_31.05.2021 04:40:36_
+_31.05.2021 16:06:22_
