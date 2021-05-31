@@ -1,4 +1,16 @@
 {
+    "ZzHse6PM5y": {
+        "id": "ZzHse6PM5y",
+        "title": "Земля обетованная",
+        "author": "Эрик Мария Ремарк",
+        "notes": "",
+        "createdAt": "2021-05-31 04:40:36",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 258
+        }
+    },
     "Tq77UaeydS": {
         "id": "Tq77UaeydS",
         "title": "«Обладать»",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 28
-        }
-    },
-    "YLnInrzJYD": {
-        "id": "YLnInrzJYD",
-        "title": "Метро 2035",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:19:46",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 27
         }
     }
 }

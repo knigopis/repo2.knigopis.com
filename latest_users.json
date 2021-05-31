@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 258,
+        "updatedAt": "2021-05-31 04:40:36"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -148,12 +154,6 @@
         "nickname": "HXT",
         "booksCount": 411,
         "updatedAt": "2021-05-19 06:18:24"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 257,
-        "updatedAt": "2021-05-17 10:57:01"
     },
     "100275284640928997494-google": {
         "id": "100275284640928997494-google",

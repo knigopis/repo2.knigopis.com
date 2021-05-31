@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>258</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>287</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>411</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>257</sup> 
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>45</sup> 
 [w1984](users/107/107323625212383253068-google)<sup>0</sup> 
 
 
-_31.05.2021 02:58:43_
+_31.05.2021 04:40:36_
