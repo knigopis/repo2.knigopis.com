@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
 * Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
 * Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
 * Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Магистр дьявольского культа ~ [Askaliya](users/326/326783541-vkontakte)<sup>10</sup>
 * Дориан Грей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>200</sup>
 * Холодно ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>199</sup>
-* Позже ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>198</sup>
 
 
-_30.05.2021 15:44:18_
+_31.05.2021 02:58:43_

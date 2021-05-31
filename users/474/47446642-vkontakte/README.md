@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>39</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>40</sup>
 ---
 
 ## 2021
+
+### «Обладать»
+Сьюзен Байетт
+> [2021-05-29] Audio
+
 
 ### Клан пещерного медведя
 Джин Ауэл

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
+    > Audio
+
 * Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
     > И рядом не стоит с Тонким искусством пофигизма. Но интересные мысли есть
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 * Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
-    > Серия из 4 книг ЛитРпг Интересная серия 
-    > Оценка 4+
 
 * Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Крауч-энд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>215</sup>
 
-* Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>287</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>98</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>45</sup> 
 [w1984](users/107/107323625212383253068-google)<sup>0</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>10</sup> 
 
 
-_30.05.2021 19:13:29_
+_31.05.2021 02:58:43_

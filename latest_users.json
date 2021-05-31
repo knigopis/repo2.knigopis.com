@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 40,
+        "updatedAt": "2021-05-31 02:58:43"
+    },
     "1372460683-yandex": {
         "id": "1372460683-yandex",
         "nickname": "galard13",
@@ -172,11 +178,5 @@
         "nickname": "w1984",
         "booksCount": 0,
         "updatedAt": "2021-05-15 03:24:13"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 10,
-        "updatedAt": "2021-05-14 16:07:18"
     }
 }
