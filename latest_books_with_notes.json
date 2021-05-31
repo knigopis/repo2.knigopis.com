@@ -1,4 +1,16 @@
 {
+    "PNMZutoO_O": {
+        "id": "PNMZutoO_O",
+        "title": "Последнее дело Амни",
+        "author": "Стивен Кинг",
+        "notes": "Писатель украл жизни своего персонажа детектива.",
+        "createdAt": "2021-05-31 16:17:58",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 219
+        }
+    },
     "jYLexd55gk": {
         "id": "jYLexd55gk",
         "title": "ДеНАЦИфикация Украины",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 10
-        }
-    },
-    "yCjFrmPCpS": {
-        "id": "yCjFrmPCpS",
-        "title": "Дориан Грей",
-        "author": "Оскар Уайльд",
-        "notes": "Прослушала 30%, остальное прочитала в содержании по главам.",
-        "createdAt": "2021-05-08 18:34:06",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 200
         }
     }
 }

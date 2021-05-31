@@ -1,4 +1,16 @@
 {
+    "PNMZutoO_O": {
+        "id": "PNMZutoO_O",
+        "title": "Последнее дело Амни",
+        "author": "Стивен Кинг",
+        "notes": "Писатель украл жизни своего персонажа детектива.",
+        "createdAt": "2021-05-31 16:17:58",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 219
+        }
+    },
     "jYLexd55gk": {
         "id": "jYLexd55gk",
         "title": "ДеНАЦИфикация Украины",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 214
-        }
-    },
-    "i61mEeWXYH": {
-        "id": "i61mEeWXYH",
-        "title": "Я еду домой",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-05-24 20:22:19",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 29
         }
     }
 }
