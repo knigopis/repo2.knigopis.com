@@ -1,10 +1,7 @@
 # Wish list of books by [Askaliya](http://vk.com/id326783541)
 ---
 
-### `53` Of Ice and Shadows
-
-### `16` Эдем
-Лем
+### `50` Милый друг
 
 ### `12` По эту сторону рая !!
 Фицджеральд
