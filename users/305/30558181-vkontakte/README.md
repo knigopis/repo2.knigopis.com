@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>206</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>207</sup>
 ---
 
 ## 2021
+
+### Краткие ответы на большие вопросы
+Стивен Хокинг
+> [2021-06-01] 
+
 
 ### Широты тягот
 Шубханги Сваруп
