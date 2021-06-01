@@ -1,4 +1,16 @@
 {
+    "UPYuULwg1U": {
+        "id": "UPYuULwg1U",
+        "title": "Язык композиции",
+        "author": "Альбрехт Рисслер",
+        "notes": "",
+        "createdAt": "2021-06-01 19:01:04",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 205
+        }
+    },
     "LBeT6lXWdc": {
         "id": "LBeT6lXWdc",
         "title": "Sha po lang",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 96
-        }
-    },
-    "pV1_3oeznR": {
-        "id": "pV1_3oeznR",
-        "title": "Возвышение Хоруса",
-        "author": "Дэн Абнетт",
-        "notes": "",
-        "createdAt": "2021-05-25 07:25:37",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 105
         }
     }
 }
