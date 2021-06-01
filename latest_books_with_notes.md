@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
 * Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
 * ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
 * Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
 * Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
-* Магистр дьявольского культа ~ [Askaliya](users/326/326783541-vkontakte)<sup>10</sup>
 
 
-_31.05.2021 16:17:58_
+_01.06.2021 07:13:41_

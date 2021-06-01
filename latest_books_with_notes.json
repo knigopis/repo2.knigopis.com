@@ -1,4 +1,16 @@
 {
+    "LBeT6lXWdc": {
+        "id": "LBeT6lXWdc",
+        "title": "Sha po lang",
+        "author": "Priest",
+        "notes": "Том 1-4",
+        "createdAt": "2021-06-01 07:13:41",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 11
+        }
+    },
     "PNMZutoO_O": {
         "id": "PNMZutoO_O",
         "title": "Последнее дело Амни",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 45
-        }
-    },
-    "FoTImoLMXt": {
-        "id": "FoTImoLMXt",
-        "title": "Магистр дьявольского культа",
-        "author": "Мосян Тунсю",
-        "notes": "Том 1-4",
-        "createdAt": "2021-05-14 16:07:18",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 10
         }
     }
 }

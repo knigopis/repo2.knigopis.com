@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
+    > Том 1-4
+
 * Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
     > Писатель украл жизни своего персонажа детектива.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > После произошедших в Украине событий 2014 года, среди оппозиционных украинских политиков началось обсуждение будущей денацификации Украины. По мнению автора, данное понятие - денацификация, - политиками используется неосознанно, без понимания сути этого процесса. В книге автор пытается объяснить сущность этого процесса, анализируя опыт борьбы советской власти с националистическими силами и настроениями (включая военно-политическую борьбу в гражданской войне 20-30х гг. и борьбу с партизанами 40-50х гг.), развитие идеологемы Голодомора, ошибки украинской власти в отношении национализма в современной истории, а также исторический опыт денацификации Германии.
 
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
-    > Audio
 
 * Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Расследование доктора Уотсона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup>
 
-* Дом на Кленовой улице ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>258</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>45</sup> 
-[w1984](users/107/107323625212383253068-google)<sup>0</sup> 
 
 
-_31.05.2021 16:17:58_
+_01.06.2021 07:13:41_
