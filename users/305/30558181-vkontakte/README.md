@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>205</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>206</sup>
 ---
 
 ## 2021
+
+### Широты тягот
+Шубханги Сваруп
+> [2021-05-04] 
+
 
 ### Язык композиции
 Альбрехт Рисслер

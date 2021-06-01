@@ -1,4 +1,16 @@
 {
+    "d_oqPYPVgU": {
+        "id": "d_oqPYPVgU",
+        "title": "Широты тягот",
+        "author": "Шубханги Сваруп",
+        "notes": "",
+        "createdAt": "2021-06-01 19:01:47",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 206
+        }
+    },
     "UPYuULwg1U": {
         "id": "UPYuULwg1U",
         "title": "Язык композиции",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 215
-        }
-    },
-    "BUK8ABZUfM": {
-        "id": "BUK8ABZUfM",
-        "title": "Пентаграмма",
-        "author": "Ю Нёсбе",
-        "notes": "",
-        "createdAt": "2021-05-25 09:33:13",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 96
         }
     }
 }
