@@ -1,4 +1,16 @@
 {
+    "DzfHERIOem": {
+        "id": "DzfHERIOem",
+        "title": "Прежде чем их повесят (Серия: Первый Закон 2/3+)",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2021-06-02 16:30:15",
+        "user": {
+            "id": "248300842-vkontakte",
+            "nickname": null,
+            "booksCount": 60
+        }
+    },
     "cGcbI0kg_E": {
         "id": "cGcbI0kg_E",
         "title": "Кровь и железо (Серия: Первый Закон)",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 20
-        }
-    },
-    "Bc15oulAaR": {
-        "id": "Bc15oulAaR",
-        "title": "Маленькие женщины",
-        "author": "Луиза Мэй Олкотт",
-        "notes": "",
-        "createdAt": "2021-05-25 20:11:36",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 857
         }
     }
 }
