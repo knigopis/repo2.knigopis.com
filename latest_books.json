@@ -1,4 +1,16 @@
 {
+    "NKZxcKLS_3": {
+        "id": "NKZxcKLS_3",
+        "title": "Последний довод королей (Серия: Первый Закон 3/3+)",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2021-06-02 16:31:51",
+        "user": {
+            "id": "248300842-vkontakte",
+            "nickname": null,
+            "booksCount": 61
+        }
+    },
     "DzfHERIOem": {
         "id": "DzfHERIOem",
         "title": "Прежде чем их повесят (Серия: Первый Закон 2/3+)",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 858
-        }
-    },
-    "Gq3uQO1gLK": {
-        "id": "Gq3uQO1gLK",
-        "title": "Тринадцатая сказка",
-        "author": "Сеттерфилд Диана",
-        "notes": "",
-        "createdAt": "2021-05-28 02:02:15",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 20
         }
     }
 }
