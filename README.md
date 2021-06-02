@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
+    > О бейсбольной команде сына Кинга.
+
 * Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
     > Том 1-4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Писатель украл жизни своего персонажа детектива.
 
 * ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
-    > После произошедших в Украине событий 2014 года, среди оппозиционных украинских политиков началось обсуждение будущей денацификации Украины. По мнению автора, данное понятие - денацификация, - политиками используется неосознанно, без понимания сути этого процесса. В книге автор пытается объяснить сущность этого процесса, анализируя опыт борьбы советской власти с националистическими силами и настроениями (включая военно-политическую борьбу в гражданской войне 20-30х гг. и борьбу с партизанами 40-50х гг.), развитие идеологемы Голодомора, ошибки украинской власти в отношении национализма в современной истории, а также исторический опыт денацификации Германии.
 
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Безсмертний полк. Священна вiйна Путiна ~ [danyluk62](users/374/374149854-vkontakte)<sup>86</sup>
 
-* Расследование доктора Уотсона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>258</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
 
 
-_01.06.2021 19:02:54_
+_02.06.2021 10:16:47_

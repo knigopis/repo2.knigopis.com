@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
 * Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
 * Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
 * ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
@@ -30,7 +31,6 @@
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
 * Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
 * Зов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>201</sup>
-* Девушка, которая играла с огнем ~ [dmiro](users/571/5714115-vkontakte)<sup>45</sup>
 
 
-_01.06.2021 07:13:41_
+_02.06.2021 10:16:47_
