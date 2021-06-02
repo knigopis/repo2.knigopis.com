@@ -1,4 +1,16 @@
 {
+    "cGcbI0kg_E": {
+        "id": "cGcbI0kg_E",
+        "title": "Кровь и железо (Серия: Первый Закон)",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2021-06-02 16:28:43",
+        "user": {
+            "id": "248300842-vkontakte",
+            "nickname": null,
+            "booksCount": 59
+        }
+    },
     "NdCz2xSiJ_": {
         "id": "NdCz2xSiJ_",
         "title": "Ночные кошмары и фантастические видения",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 857
-        }
-    },
-    "o1soURv_0j": {
-        "id": "o1soURv_0j",
-        "title": "Игорь Стрелков — ужас бандеровской хунты. Оборона Донбасса",
-        "author": "Михаил Поликарпов",
-        "notes": "",
-        "createdAt": "2021-05-25 20:02:10",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 84
         }
     }
 }
