@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
+    > ???человек с чистой душой ни к чему не должен привязываться. Каждый день он должен посвящать себя чему-то новому.
+
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
     > Рассказы:
     > Дагон ✓
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > О бейсбольной команде сына Кинга.
 
 * Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
-    > Том 1-4
 
 * Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
 
-* Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>221</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>411</sup> 
-[Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
 
 
-_02.06.2021 16:42:53_
+_02.06.2021 19:29:05_

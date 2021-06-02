@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
 * Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
 * Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
@@ -30,7 +31,6 @@
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
 * Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
 * Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
-* Водосток ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>203</sup>
 
 
-_02.06.2021 16:42:53_
+_02.06.2021 19:29:05_

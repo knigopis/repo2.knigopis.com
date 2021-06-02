@@ -1,4 +1,16 @@
 {
+    "gGaw5ic1-Z": {
+        "id": "gGaw5ic1-Z",
+        "title": "Эндер (цикл)",
+        "author": "Кард Орсон",
+        "notes": "???человек с чистой душой ни к чему не должен привязываться. Каждый день он должен посвящать себя чему-то новому.",
+        "createdAt": "2021-06-02 19:29:05",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 287
+        }
+    },
     "Vj3W7sQ8k0": {
         "id": "Vj3W7sQ8k0",
         "title": "Зов Ктулху (не дочитан)",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 217
-        }
-    },
-    "ulmrlYg8jY": {
-        "id": "ulmrlYg8jY",
-        "title": "Лживые боги",
-        "author": "Грэм МакНилл",
-        "notes": "",
-        "createdAt": "2021-05-28 08:24:23",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 106
         }
     }
 }
