@@ -1,4 +1,10 @@
 {
+    "248300842-vkontakte": {
+        "id": "248300842-vkontakte",
+        "nickname": null,
+        "booksCount": 58,
+        "updatedAt": "2021-06-02 16:24:37"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Enchanter",
         "booksCount": 8,
         "updatedAt": "2021-05-15 14:31:36"
-    },
-    "100001355756908-facebook": {
-        "id": "100001355756908-facebook",
-        "nickname": "Denis",
-        "booksCount": 1,
-        "updatedAt": "2021-05-15 09:49:41"
     }
 }
