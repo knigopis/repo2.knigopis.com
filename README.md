@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>221</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>88</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Denis](users/100/100001355756908-facebook)<sup>1</sup> 
 
 
-_02.06.2021 10:16:47_
+_02.06.2021 10:16:52_

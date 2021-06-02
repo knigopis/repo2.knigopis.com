@@ -1,4 +1,16 @@
 {
+    "NdCz2xSiJ_": {
+        "id": "NdCz2xSiJ_",
+        "title": "Ночные кошмары и фантастические видения",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-02 10:16:52",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 221
+        }
+    },
     "uE4bvR4Iqo": {
         "id": "uE4bvR4Iqo",
         "title": "Опусти голову - и вперёд",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 84
-        }
-    },
-    "Bs9yl-nVG8": {
-        "id": "Bs9yl-nVG8",
-        "title": "Справжність Велесової книги",
-        "author": "Ігор Россоха",
-        "notes": "6/10 Резензент п. Ющук, логічні та наукові доводи щодо книги, суперечить офіційній позиції науки.",
-        "createdAt": "2021-05-25 18:58:56",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 192
         }
     }
 }
