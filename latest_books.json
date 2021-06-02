@@ -1,4 +1,16 @@
 {
+    "7NQK66zeGJ": {
+        "id": "7NQK66zeGJ",
+        "title": "Нейромант (Серия: Киберпространство 1/3)",
+        "author": "Уильям Гибсон",
+        "notes": "",
+        "createdAt": "2021-06-02 16:36:58",
+        "user": {
+            "id": "248300842-vkontakte",
+            "nickname": "hellhelen",
+            "booksCount": 62
+        }
+    },
     "NKZxcKLS_3": {
         "id": "NKZxcKLS_3",
         "title": "Последний довод королей (Серия: Первый Закон 3/3+)",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 95
-        }
-    },
-    "20UJIdImaZ": {
-        "id": "20UJIdImaZ",
-        "title": "Хорошие жены",
-        "author": "Луиза Мэй Олкотт",
-        "notes": "",
-        "createdAt": "2021-05-28 04:38:34",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 858
         }
     }
 }
