@@ -5,6 +5,16 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
+    > Рассказы:
+    > Дагон ✓
+    > Безымянный город✓
+    > Праздник✓
+    > Зов Ктулху✓
+    > Данвичский ужас ✓
+    > Хребты безумия ✖ 
+    > Тень над Инсмутом ✓
+
 * Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
     > О бейсбольной команде сына Кинга.
 
@@ -12,7 +22,6 @@ Do not use pull requests to make changes here.
     > Том 1-4
 
 * Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
-    > Писатель украл жизни своего персонажа детектива.
 
 * ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
 
@@ -26,14 +35,12 @@ Do not use pull requests to make changes here.
 
 * Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
 
-* Безсмертний полк. Священна вiйна Путiна ~ [danyluk62](users/374/374149854-vkontakte)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[hellhelen](users/248/248300842-vkontakte)<sup>62</sup> 
+[hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>221</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
@@ -65,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Enchanter](users/100/100275284640928997494-google)<sup>8</sup> 
 
 
-_02.06.2021 16:36:58_
+_02.06.2021 16:42:53_
