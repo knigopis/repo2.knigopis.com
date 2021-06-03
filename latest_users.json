@@ -1,4 +1,10 @@
 {
+    "118958415-vkontakte": {
+        "id": "118958415-vkontakte",
+        "nickname": "hoverlink",
+        "booksCount": 0,
+        "updatedAt": "2021-06-03 08:44:00"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 98,
         "updatedAt": "2021-05-19 10:25:04"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 411,
-        "updatedAt": "2021-05-19 06:18:24"
     }
 }
