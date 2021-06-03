@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>221</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>98</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>411</sup> 
 
 
-_02.06.2021 19:29:05_
+_03.06.2021 08:44:00_
