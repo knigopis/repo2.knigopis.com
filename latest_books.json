@@ -1,4 +1,16 @@
 {
+    "GNze7U6wns": {
+        "id": "GNze7U6wns",
+        "title": "«Гармония премиум»",
+        "author": "Стивен Кинг",
+        "notes": "У мужчины умерла жена в магазине и собака в автомобиле. Брак был склочный в последнее время.",
+        "createdAt": "2021-06-04 15:53:32",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 223
+        }
+    },
     "XssGW1mzHU": {
         "id": "XssGW1mzHU",
         "title": "Дюна",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 85
-        }
-    },
-    "UgUTHNPjHI": {
-        "id": "UgUTHNPjHI",
-        "title": "Расследование доктора Уотсона",
-        "author": "Стивен Кинг",
-        "notes": "Семья, 5 членов и один мертвец, мерзкий старик, убийцы все.",
-        "createdAt": "2021-05-28 16:54:03",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 218
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
 * Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
 * Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
-* Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
 
 
-_04.06.2021 15:52:00_
+_04.06.2021 15:53:32_
