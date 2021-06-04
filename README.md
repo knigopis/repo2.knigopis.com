@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
+    > Дюна предсказывающая смерти.
+
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
     > ???человек с чистой душой ни к чему не должен привязываться. Каждый день он должен посвящать себя чему-то новому.
 
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > Тень над Инсмутом ✓
 
 * Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
-    > О бейсбольной команде сына Кинга.
 
 * Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
 
@@ -33,19 +35,17 @@ Do not use pull requests to make changes here.
 
 * Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
 
-* Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
 [hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>221</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>88</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_04.06.2021 11:02:00_
+_04.06.2021 15:52:00_

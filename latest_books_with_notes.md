@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
 * Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
@@ -30,7 +31,6 @@
 * Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
 * Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
 * Проект Рози ~ [albina_untiring](users/257/2579695-vkontakte)<sup>11</sup>
-* Летний гром ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>206</sup>
 
 
-_02.06.2021 19:29:05_
+_04.06.2021 15:52:00_

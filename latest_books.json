@@ -1,4 +1,16 @@
 {
+    "XssGW1mzHU": {
+        "id": "XssGW1mzHU",
+        "title": "Дюна",
+        "author": "Стивен Кинг",
+        "notes": "Дюна предсказывающая смерти.",
+        "createdAt": "2021-06-04 15:52:00",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 222
+        }
+    },
     "_BRFNsYitL": {
         "id": "_BRFNsYitL",
         "title": "Тёмный цветок",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 218
-        }
-    },
-    "S1UGgkQ8xb": {
-        "id": "S1UGgkQ8xb",
-        "title": "Блокада. Книга четвёртая.",
-        "author": "Александр Борисович Чаковский",
-        "notes": "",
-        "createdAt": "2021-05-28 16:30:21",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 161
         }
     }
 }
