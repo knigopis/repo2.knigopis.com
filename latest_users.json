@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 72,
+        "updatedAt": "2021-06-04 00:47:34"
+    },
     "118958415-vkontakte": {
         "id": "118958415-vkontakte",
         "nickname": "hoverlink",
@@ -172,11 +178,5 @@
         "nickname": "zimova1990",
         "booksCount": 1,
         "updatedAt": "2021-05-20 10:23:39"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 98,
-        "updatedAt": "2021-05-19 10:25:04"
     }
 }
