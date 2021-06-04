@@ -1,4 +1,16 @@
 {
+    "OXn49Ys0YL": {
+        "id": "OXn49Ys0YL",
+        "title": "Бэтмен и Робин ссорятся",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-04 15:55:17",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 224
+        }
+    },
     "GNze7U6wns": {
         "id": "GNze7U6wns",
         "title": "«Гармония премиум»",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 86
-        }
-    },
-    "v_FlacrnSq": {
-        "id": "v_FlacrnSq",
-        "title": "Война и миф",
-        "author": "Михаил Зыгарь",
-        "notes": "",
-        "createdAt": "2021-05-28 17:53:00",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 85
         }
     }
 }
