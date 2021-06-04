@@ -1,4 +1,16 @@
 {
+    "_BRFNsYitL": {
+        "id": "_BRFNsYitL",
+        "title": "Тёмный цветок",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2021-06-04 11:02:00",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 859
+        }
+    },
     "pocCAXTnaN": {
         "id": "pocCAXTnaN",
         "title": "Как закалялась сталь",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 161
-        }
-    },
-    "rZImKdrtvb": {
-        "id": "rZImKdrtvb",
-        "title": "Sapiens. Краткая история человечества",
-        "author": "Харари, Юваль Ной",
-        "notes": "",
-        "createdAt": "2021-05-28 15:53:35",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 432
         }
     }
 }

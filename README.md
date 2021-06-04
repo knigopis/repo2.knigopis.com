@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
 [hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>106</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>95</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>858</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_04.06.2021 00:47:34_
+_04.06.2021 11:02:00_
