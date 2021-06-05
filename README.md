@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
+    > Боевая фантастика
+    > Вроде бы не дописано - пока одна книга По ощущению - автор малолетка + эгоист 
+    > Оценка 3
+
 * «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
     > У мужчины умерла жена в магазине и собака в автомобиле. Брак был склочный в последнее время.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Дюна предсказывающая смерти.
 
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
-    > ???человек с чистой душой ни к чему не должен привязываться. Каждый день он должен посвящать себя чему-то новому.
 
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
 
-* Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>41</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
@@ -47,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>287</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>98</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>40</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>106</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_04.06.2021 15:55:17_
+_05.06.2021 07:10:36_

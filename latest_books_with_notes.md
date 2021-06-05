@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
 * «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
 * Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
@@ -30,7 +31,6 @@
 * Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
 * Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
 * Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
-* Посвящение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>207</sup>
 
 
-_04.06.2021 15:53:32_
+_05.06.2021 07:10:36_
