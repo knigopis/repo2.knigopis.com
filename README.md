@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
+    > 6/10 Сборник непроверенных мифов.
+
 * БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
     > Серия из 2 книг
     > Постапокалипсис
@@ -15,9 +18,6 @@ Do not use pull requests to make changes here.
     > Оценка 4
 
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
-    > Альтернативка
-    > Серия из 2? книг. Первая еще ничего, а вот вторая, - автор злой эгоист если судить по главному герою.
-    > Оценка 3
 
 * День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
 
@@ -31,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
 
-* Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>99</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>44</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>224</sup> 
@@ -58,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>106</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>95</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 [bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
@@ -70,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_05.06.2021 07:53:26_
+_05.06.2021 17:01:01_

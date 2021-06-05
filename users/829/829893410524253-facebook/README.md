@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>192</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>193</sup>
 ---
 
 ## 2021
+
+### 100 великих тайн нового времени
+Сборник
+> [2021-05-31] 6/10 Сборник непроверенных мифов.
+
 
 ### Справжність Велесової книги
 Ігор Россоха

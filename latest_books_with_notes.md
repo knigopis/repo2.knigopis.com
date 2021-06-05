@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
 * БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Кроссовки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>211</sup>
 * Железный король ~ [Антенка](users/118/118158645037334943900-google)<sup>95</sup>
 * Щелкун ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>210</sup>
-* Красная таблетка-2. Вся правда об успехе. ~ [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup>
 
 
-_05.06.2021 07:17:34_
+_05.06.2021 17:01:01_

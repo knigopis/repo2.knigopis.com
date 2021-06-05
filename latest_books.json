@@ -1,4 +1,16 @@
 {
+    "JIsDqIUj37": {
+        "id": "JIsDqIUj37",
+        "title": "100 великих тайн нового времени",
+        "author": "Сборник",
+        "notes": "6/10 Сборник непроверенных мифов.",
+        "createdAt": "2021-06-05 17:01:01",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 193
+        }
+    },
     "UT1ZxKvk_v": {
         "id": "UT1ZxKvk_v",
         "title": "Тени истины",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 285
-        }
-    },
-    "77AiWCPL2g": {
-        "id": "77AiWCPL2g",
-        "title": "Двурожденные. Сплав закона",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2021-05-30 12:38:46",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 98
         }
     }
 }
