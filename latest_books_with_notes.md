@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
 * День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
 * «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
 * Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
@@ -30,7 +31,6 @@
 * Красная таблетка-2. Вся правда об успехе. ~ [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup>
 * Дом у поворота ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>209</sup>
 * Статьи о войне в Донбассе ~ [danyluk62](users/374/374149854-vkontakte)<sup>84</sup>
-* Волки Кальи ~ [Антенка](users/118/118158645037334943900-google)<sup>93</sup>
 
 
-_05.06.2021 07:10:36_
+_05.06.2021 07:13:03_

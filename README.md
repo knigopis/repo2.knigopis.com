@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
+    > Альтернативка
+    > Серия из 2? книг. Первая еще ничего, а вот вторая, - автор злой эгоист если судить по главному герою.
+    > Оценка 3
+
 * День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
     > Боевая фантастика
     > Вроде бы не дописано - пока одна книга По ощущению - автор малолетка + эгоист 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > У мужчины умерла жена в магазине и собака в автомобиле. Брак был склочный в последнее время.
 
 * Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
-    > Дюна предсказывающая смерти.
 
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
 
-* «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>41</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>42</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_05.06.2021 07:10:36_
+_05.06.2021 07:13:03_
