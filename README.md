@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
+    > Серия из 2 книг
+    > Постапокалипсис
+
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
     > Боевая фантастика Фэнтези
     > Серия из 2 книг - Довольно интересно читать про егеря на брошенной планете
@@ -16,9 +20,6 @@ Do not use pull requests to make changes here.
     > Оценка 3
 
 * День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
-    > Боевая фантастика
-    > Вроде бы не дописано - пока одна книга По ощущению - автор малолетка + эгоист 
-    > Оценка 3
 
 * «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
 
@@ -32,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
 
-* Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>43</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>44</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
@@ -71,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_05.06.2021 07:16:00_
+_05.06.2021 07:17:34_
