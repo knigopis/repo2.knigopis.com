@@ -1,4 +1,16 @@
 {
+    "0sh0E6vJwo": {
+        "id": "0sh0E6vJwo",
+        "title": "Смерть",
+        "author": "Стивен Кинг",
+        "notes": "Преступник съедал доллар девочки, ему поверил полицейский.",
+        "createdAt": "2021-06-05 20:16:10",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 225
+        }
+    },
     "JIsDqIUj37": {
         "id": "JIsDqIUj37",
         "title": "100 великих тайн нового времени",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 286
-        }
-    },
-    "Dwi-2-Yu6I": {
-        "id": "Dwi-2-Yu6I",
-        "title": "Властелин колец. Братство Кольца",
-        "author": "Толкин Джон Рональд Руэл",
-        "notes": "",
-        "createdAt": "2021-05-30 15:41:45",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 285
         }
     }
 }

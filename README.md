@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смерть ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup>
+    > Преступник съедал доллар девочки, ему поверил полицейский.
+
 * 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
     > 6/10 Сборник непроверенных мифов.
 
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > Постапокалипсис
 
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
-    > Боевая фантастика Фэнтези
-    > Серия из 2 книг - Довольно интересно читать про егеря на брошенной планете
-    > Оценка 4
 
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
 
@@ -29,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
 
-* Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>99</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>44</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
 [hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
@@ -68,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_05.06.2021 17:01:01_
+_05.06.2021 20:16:10_

@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 225,
+        "updatedAt": "2021-06-05 20:16:10"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -16,12 +22,6 @@
         "nickname": "dromoman2008",
         "booksCount": 44,
         "updatedAt": "2021-06-05 07:17:34"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 224,
-        "updatedAt": "2021-06-04 15:55:17"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
