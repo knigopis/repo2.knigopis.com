@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
+    > Боевая фантастика Фэнтези
+    > Серия из 2 книг - Довольно интересно читать про егеря на брошенной планете
+    > Оценка 4
+
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
     > Альтернативка
     > Серия из 2? книг. Первая еще ничего, а вот вторая, - автор злой эгоист если судить по главному герою.
@@ -16,7 +21,6 @@ Do not use pull requests to make changes here.
     > Оценка 3
 
 * «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
-    > У мужчины умерла жена в магазине и собака в автомобиле. Брак был склочный в последнее время.
 
 * Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
 
@@ -30,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
 
-* ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>42</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>43</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
@@ -69,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_05.06.2021 07:13:03_
+_05.06.2021 07:16:00_
