@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>144</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>145</sup>
 ---
 
 ## 2021
+
+### Инквизитор
+Яна Тулиша
+> [2021-06-05] 
+
 
 ### Полмира
 Джо Аберкромби

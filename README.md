@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>89</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
 [](users/153/1537586159620888-facebook)<sup>41</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>144</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_06.06.2021 12:03:10_
+_06.06.2021 15:53:08_
