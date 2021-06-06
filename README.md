@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Менше знаєш, краще спис ~ [danyluk62](users/374/374149854-vkontakte)<sup>89</sup>
+    > История становления постсоветской России глазами американского журналиста. Пытаясь объяснить современную политическую реальность России, автор рассматривает её историю от распада СССР и вплоть до наших дней, особенно подробно останавливаясь на периодах президентства Ельцина и первых лет правления Путина. Периоду 90-х годов посвящен весьма обширный обзор, ключевые события периода первых сроков Путина рассмотрены в деталях с журналистской скрупулезностью. Также дано обозрение и более современных событий, с попыткой объяснить их сквозь призму сложившейся российской системы.
+
 * Смерть ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup>
     > Преступник съедал доллар девочки, ему поверил полицейский.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Сборник непроверенных мифов.
 
 * БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
-    > Серия из 2 книг
-    > Постапокалипсис
 
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
 
-* Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>89</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>99</sup> 
@@ -45,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>258</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_05.06.2021 20:16:10_
+_06.06.2021 12:03:10_
