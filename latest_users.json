@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 325,
+        "updatedAt": "2021-06-07 16:08:40"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Chandravadana",
         "booksCount": 163,
         "updatedAt": "2021-05-20 19:19:14"
-    },
-    "111025093-yandex": {
-        "id": "111025093-yandex",
-        "nickname": "zimova1990",
-        "booksCount": 1,
-        "updatedAt": "2021-05-20 10:23:39"
     }
 }

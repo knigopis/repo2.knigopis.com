@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>325</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>96</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>107</sup> 
 [](users/153/1537586159620888-facebook)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
-[zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_07.06.2021 14:38:12_
+_07.06.2021 16:08:41_
