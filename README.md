@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>42</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>100</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>89</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 [bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
-[](users/153/1537586159620888-facebook)<sup>41</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_07.06.2021 06:09:13_
+_07.06.2021 10:09:58_
