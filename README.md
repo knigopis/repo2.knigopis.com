@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>96</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>107</sup> 
 [](users/153/1537586159620888-facebook)<sup>42</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>100</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>287</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>95</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 [bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_07.06.2021 13:42:32_
+_07.06.2021 14:38:12_
