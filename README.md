@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>100</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>89</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>99</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zimova1990](users/111/111025093-yandex)<sup>1</sup> 
 
 
-_06.06.2021 15:53:08_
+_07.06.2021 06:09:13_

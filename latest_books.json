@@ -1,4 +1,16 @@
 {
+    "NgVijGwgzA": {
+        "id": "NgVijGwgzA",
+        "title": "Браслеты скорби",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2021-06-07 06:09:13",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 100
+        }
+    },
     "qVrvr32KOz": {
         "id": "qVrvr32KOz",
         "title": "Инквизитор",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 258
-        }
-    },
-    "Tq77UaeydS": {
-        "id": "Tq77UaeydS",
-        "title": "«Обладать»",
-        "author": "Сьюзен Байетт",
-        "notes": "Audio",
-        "createdAt": "2021-05-31 02:58:43",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 40
         }
     }
 }
