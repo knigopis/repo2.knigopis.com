@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>106</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>107</sup>
 ---
 
 ## 2021
+
+### Галактика в огне
+Бен Каунтер
+> [2021-06-07] 
+
 
 ### Лживые боги
 Грэм МакНилл
