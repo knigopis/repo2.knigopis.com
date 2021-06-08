@@ -1,4 +1,16 @@
 {
+    "g1UBm4t5on": {
+        "id": "g1UBm4t5on",
+        "title": "Вся кремлевская рать: Краткая история современной России",
+        "author": "Михаил Зыгарь",
+        "notes": "",
+        "createdAt": "2021-06-08 19:41:10",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 90
+        }
+    },
     "lwCxSZVV_u": {
         "id": "lwCxSZVV_u",
         "title": "Дьявол",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 221
-        }
-    },
-    "uE4bvR4Iqo": {
-        "id": "uE4bvR4Iqo",
-        "title": "Опусти голову - и вперёд",
-        "author": "Стивен Кинг",
-        "notes": "О бейсбольной команде сына Кинга.",
-        "createdAt": "2021-06-02 10:16:47",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 220
         }
     }
 }
