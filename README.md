@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>90</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>328</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>96</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>163</sup> 
 
 
-_08.06.2021 19:41:10_
+_09.06.2021 09:16:33_
