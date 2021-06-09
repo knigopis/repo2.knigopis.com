@@ -1,4 +1,16 @@
 {
+    "v8m4F1c9pR": {
+        "id": "v8m4F1c9pR",
+        "title": "Моральные принципы",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-09 09:21:24",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 227
+        }
+    },
     "VI1P9IjKoH": {
         "id": "VI1P9IjKoH",
         "title": "Храм из костей",
@@ -345,18 +357,6 @@
             "id": "248300842-vkontakte",
             "nickname": null,
             "booksCount": 60
-        }
-    },
-    "cGcbI0kg_E": {
-        "id": "cGcbI0kg_E",
-        "title": "Кровь и железо (Серия: Первый Закон)",
-        "author": "Джо Аберкромби",
-        "notes": "",
-        "createdAt": "2021-06-02 16:28:43",
-        "user": {
-            "id": "248300842-vkontakte",
-            "nickname": null,
-            "booksCount": 59
         }
     }
 }
