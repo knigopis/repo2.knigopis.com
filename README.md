@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Храм из костей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup>
+    > Стихи о трёх мужчинах
+
 * Менше знаєш, краще спис ~ [danyluk62](users/374/374149854-vkontakte)<sup>89</sup>
     > История становления постсоветской России глазами американского журналиста. Пытаясь объяснить современную политическую реальность России, автор рассматривает её историю от распада СССР и вплоть до наших дней, особенно подробно останавливаясь на периодах президентства Ельцина и первых лет правления Путина. Периоду 90-х годов посвящен весьма обширный обзор, ключевые события периода первых сроков Путина рассмотрены в деталях с журналистской скрупулезностью. Также дано обозрение и более современных событий, с попыткой объяснить их сквозь призму сложившейся российской системы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Преступник съедал доллар девочки, ему поверил полицейский.
 
 * 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
-    > 6/10 Сборник непроверенных мифов.
 
 * БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
 
-* Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup> 
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>90</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>328</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>42</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>100</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>859</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 
 
-_09.06.2021 09:16:33_
+_09.06.2021 09:21:07_
