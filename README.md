@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>227</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>228</sup> 
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>90</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>328</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 
 
-_09.06.2021 09:21:24_
+_09.06.2021 09:58:22_
