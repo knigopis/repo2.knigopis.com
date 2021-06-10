@@ -1,4 +1,16 @@
 {
+    "pMzy_ngrLy": {
+        "id": "pMzy_ngrLy",
+        "title": "Лебединая песня",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2021-06-10 15:20:23",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 860
+        }
+    },
     "rh8ujUHoId": {
         "id": "rh8ujUHoId",
         "title": "Загробная жизнь",
@@ -345,18 +357,6 @@
             "id": "248300842-vkontakte",
             "nickname": "hellhelen",
             "booksCount": 62
-        }
-    },
-    "NKZxcKLS_3": {
-        "id": "NKZxcKLS_3",
-        "title": "Последний довод королей (Серия: Первый Закон 3/3+)",
-        "author": "Джо Аберкромби",
-        "notes": "",
-        "createdAt": "2021-06-02 16:31:51",
-        "user": {
-            "id": "248300842-vkontakte",
-            "nickname": null,
-            "booksCount": 61
         }
     }
 }

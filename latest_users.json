@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 860,
+        "updatedAt": "2021-06-10 15:20:23"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -64,12 +70,6 @@
         "nickname": "dromoman2008",
         "booksCount": 44,
         "updatedAt": "2021-06-05 07:17:34"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 859,
-        "updatedAt": "2021-06-04 11:02:00"
     },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
