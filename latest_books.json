@@ -1,4 +1,16 @@
 {
+    "nd68gVTZ3c": {
+        "id": "nd68gVTZ3c",
+        "title": "Васёк Трубачёв и его товарищи",
+        "author": "Валентина Осеева",
+        "notes": "",
+        "createdAt": "2021-06-11 23:58:45",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 331
+        }
+    },
     "614hL76xJs": {
         "id": "614hL76xJs",
         "title": "Динка прощается с детством",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 223
-        }
-    },
-    "XssGW1mzHU": {
-        "id": "XssGW1mzHU",
-        "title": "Дюна",
-        "author": "Стивен Кинг",
-        "notes": "Дюна предсказывающая смерти.",
-        "createdAt": "2021-06-04 15:52:00",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 222
         }
     }
 }
