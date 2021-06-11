@@ -1,4 +1,16 @@
 {
+    "bKwP6DpvGq": {
+        "id": "bKwP6DpvGq",
+        "title": "Динка",
+        "author": "Валентина Осеева",
+        "notes": "",
+        "createdAt": "2021-06-11 23:57:28",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 329
+        }
+    },
     "zU65uhJmqk": {
         "id": "zU65uhJmqk",
         "title": "Большой куш нищей герцогини",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 859
-        }
-    },
-    "pocCAXTnaN": {
-        "id": "pocCAXTnaN",
-        "title": "Как закалялась сталь",
-        "author": "Николай Алексеевич Островский",
-        "notes": "",
-        "createdAt": "2021-06-04 00:47:34",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 72
         }
     }
 }
