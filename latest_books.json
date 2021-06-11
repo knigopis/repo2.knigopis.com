@@ -1,4 +1,16 @@
 {
+    "pYEYZZOCVh": {
+        "id": "pYEYZZOCVh",
+        "title": "Картёжник и бретёр, игрок и дуэлянт",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2021-06-11 23:59:57",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 332
+        }
+    },
     "nd68gVTZ3c": {
         "id": "nd68gVTZ3c",
         "title": "Васёк Трубачёв и его товарищи",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 224
-        }
-    },
-    "GNze7U6wns": {
-        "id": "GNze7U6wns",
-        "title": "«Гармония премиум»",
-        "author": "Стивен Кинг",
-        "notes": "У мужчины умерла жена в магазине и собака в автомобиле. Брак был склочный в последнее время.",
-        "createdAt": "2021-06-04 15:53:32",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 223
         }
     }
 }
