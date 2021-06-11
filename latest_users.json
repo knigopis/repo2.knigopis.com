@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 101,
+        "updatedAt": "2021-06-11 08:07:49"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -46,12 +52,6 @@
         "nickname": null,
         "booksCount": 42,
         "updatedAt": "2021-06-07 10:09:58"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 100,
-        "updatedAt": "2021-06-07 06:09:13"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
