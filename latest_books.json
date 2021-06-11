@@ -1,4 +1,16 @@
 {
+    "zU65uhJmqk": {
+        "id": "zU65uhJmqk",
+        "title": "Большой куш нищей герцогини",
+        "author": "Д.Донцова",
+        "notes": "",
+        "createdAt": "2021-06-11 12:29:28",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 43
+        }
+    },
     "pMW1u36Y2O": {
         "id": "pMW1u36Y2O",
         "title": "Милый друг",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 72
-        }
-    },
-    "gGaw5ic1-Z": {
-        "id": "gGaw5ic1-Z",
-        "title": "Эндер (цикл)",
-        "author": "Кард Орсон",
-        "notes": "???человек с чистой душой ни к чему не должен привязываться. Каждый день он должен посвящать себя чему-то новому.",
-        "createdAt": "2021-06-02 19:29:05",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 287
         }
     }
 }
