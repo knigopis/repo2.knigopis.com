@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>332</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>333</sup> 
 [](users/153/1537586159620888-facebook)<sup>43</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>101</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>91</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anarchy16](users/103/103241427589325528077-google)<sup>0</sup> 
 
 
-_11.06.2021 23:59:57_
+_12.06.2021 00:01:34_
