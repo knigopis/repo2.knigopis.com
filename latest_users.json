@@ -1,4 +1,10 @@
 {
+    "906605961-yandex": {
+        "id": "906605961-yandex",
+        "nickname": "hoemi",
+        "booksCount": 0,
+        "updatedAt": "2021-06-12 12:28:11"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Hammerzeit",
         "booksCount": 1,
         "updatedAt": "2021-05-24 17:49:32"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 12,
-        "updatedAt": "2021-05-23 18:12:37"
     }
 }
