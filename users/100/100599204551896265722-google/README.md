@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>171</sup>
+# Список прочитанных книг пользователя exulted<sup>172</sup>
 ---
 
 ## 2021
+
+### You Are the Placebo: Making Your Mind Matter
+Joe Dispenza
+> [2021-06-12] 
+
 
 ### Fake Science: Exposing the Left's Skewed Statistics, Fuzzy Facts, and Dodgy Data
 Austin Ruse

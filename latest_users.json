@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 172,
+        "updatedAt": "2021-06-12 12:17:21"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 12,
         "updatedAt": "2021-05-23 18:12:37"
-    },
-    "103241427589325528077-google": {
-        "id": "103241427589325528077-google",
-        "nickname": "Anarchy16",
-        "booksCount": 0,
-        "updatedAt": "2021-05-20 21:24:44"
     }
 }
