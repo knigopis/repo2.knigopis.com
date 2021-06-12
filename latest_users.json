@@ -1,4 +1,10 @@
 {
+    "106256274804767210019-google": {
+        "id": "106256274804767210019-google",
+        "nickname": "kishki",
+        "booksCount": 0,
+        "updatedAt": "2021-06-12 13:10:27"
+    },
     "906605961-yandex": {
         "id": "906605961-yandex",
         "nickname": "hoemi",
@@ -172,11 +178,5 @@
         "nickname": "bagnyan777",
         "booksCount": 0,
         "updatedAt": "2021-05-24 20:05:56"
-    },
-    "103389838241993724492-google": {
-        "id": "103389838241993724492-google",
-        "nickname": "Hammerzeit",
-        "booksCount": 1,
-        "updatedAt": "2021-05-24 17:49:32"
     }
 }
