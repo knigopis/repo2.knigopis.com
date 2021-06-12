@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>229</sup>
 * Храм из костей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup>
 * Менше знаєш, краще спис ~ [danyluk62](users/374/374149854-vkontakte)<sup>89</sup>
 * Смерть ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup>
@@ -30,7 +31,6 @@
 * Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
 * Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
 * Мой милый пони ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>213</sup>
-* Рок-н-ролл никогда не умрёт ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>212</sup>
 
 
-_09.06.2021 09:21:07_
+_12.06.2021 17:05:07_

@@ -1,4 +1,16 @@
 {
+    "aYZ_7qKPkE": {
+        "id": "aYZ_7qKPkE",
+        "title": "Ур",
+        "author": "Стивен Кинг",
+        "notes": "Про Кингдом, который давал доступ к параллельным мирам и людях в жёлтых плащах.",
+        "createdAt": "2021-06-12 17:05:07",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 229
+        }
+    },
     "LH5BDvQuui": {
         "id": "LH5BDvQuui",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 42
-        }
-    },
-    "NgVijGwgzA": {
-        "id": "NgVijGwgzA",
-        "title": "Браслеты скорби",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2021-06-07 06:09:13",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 100
         }
     }
 }
