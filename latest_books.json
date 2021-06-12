@@ -1,4 +1,16 @@
 {
+    "42uMZGRYnb": {
+        "id": "42uMZGRYnb",
+        "title": "Дом, который построил дед",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2021-06-12 00:02:19",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 334
+        }
+    },
     "ZDFbbznNvU": {
         "id": "ZDFbbznNvU",
         "title": "Были и небыли",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 42
-        }
-    },
-    "qJeOVUj6PH": {
-        "id": "qJeOVUj6PH",
-        "title": "День непослушания",
-        "author": "Щепетнев Евгений",
-        "notes": "Боевая фантастика\nВроде бы не дописано - пока одна книга По ощущению - автор малолетка + эгоист \nОценка 3",
-        "createdAt": "2021-06-05 07:10:36",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 41
         }
     }
 }
