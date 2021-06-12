@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kishki](users/106/106256274804767210019-google)<sup>0</sup> 
+[kishki](users/106/106256274804767210019-google)<sup>1</sup> 
 [hoemi](users/906/906605961-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>176</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>336</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
 
 
-_12.06.2021 13:10:27_
+_12.06.2021 13:12:45_
