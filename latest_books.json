@@ -1,4 +1,16 @@
 {
+    "wlu3J8vda0": {
+        "id": "wlu3J8vda0",
+        "title": "Записки физика-экстрасенса. Кн. 1. Болезни людей и принципы излечения",
+        "author": "Чусов Илья Витальевич",
+        "notes": "",
+        "createdAt": "2021-06-12 12:19:38",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 174
+        }
+    },
     "-3OD4k1GfL": {
         "id": "-3OD4k1GfL",
         "title": "Материнская любовь",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 225
-        }
-    },
-    "JIsDqIUj37": {
-        "id": "JIsDqIUj37",
-        "title": "100 великих тайн нового времени",
-        "author": "Сборник",
-        "notes": "6/10 Сборник непроверенных мифов.",
-        "createdAt": "2021-06-05 17:01:01",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 193
         }
     }
 }
