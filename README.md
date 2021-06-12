@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hoemi](users/906/906605961-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>176</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>336</sup> 
 [](users/153/1537586159620888-facebook)<sup>43</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 [bagnyan777](users/275/2756136091613116923-mailru)<sup>0</sup> 
 [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>12</sup> 
 
 
-_12.06.2021 12:20:54_
+_12.06.2021 12:28:12_
