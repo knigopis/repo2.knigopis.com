@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
+    > Альтернативка
+    > Искать продолжение
+    > У автора хороший язык, интересно читать
+    > Оценка 5-
+
 * Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
     > Альтернативка
     > Серия. Не смог продраться через множество героев -Скучно, не интересно. Не мое
@@ -16,7 +22,6 @@ Do not use pull requests to make changes here.
     > Оценка 2
 
 * Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
-    > У мужчины умерла жена, он против и на сдаёт её смерть.
 
 * Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
 
@@ -30,14 +35,12 @@ Do not use pull requests to make changes here.
 
 * 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
 
-* БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>46</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>47</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 [kishki](users/106/106256274804767210019-google)<sup>1</sup> 
@@ -69,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 
 
-_13.06.2021 08:08:01_
+_13.06.2021 08:15:13_
