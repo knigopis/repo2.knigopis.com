@@ -1,4 +1,16 @@
 {
+    "A3c1b7E3yA": {
+        "id": "A3c1b7E3yA",
+        "title": "Алюмен (серия",
+        "author": "Олди -Валенитнов",
+        "notes": "Альтернативка\nСерия. Не смог продраться через множество героев -Скучно, не интересно. Не мое\nОценка 2",
+        "createdAt": "2021-06-13 08:08:01",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 46
+        }
+    },
     "joa1karoSl": {
         "id": "joa1karoSl",
         "title": "Колхозное строительство (серия из 5 книг)",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 192
-        }
-    },
-    "J7QdQxmENd": {
-        "id": "J7QdQxmENd",
-        "title": "Крауч-энд",
-        "author": "Стивен Кинг",
-        "notes": "Женщина и мужчина попадают на улицу в стиле Лавкрафта.",
-        "createdAt": "2021-05-25 16:33:42",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 215
         }
     }
 }

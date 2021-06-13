@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
 * Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
 * Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
 * Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
@@ -30,7 +31,6 @@
 * Расследование доктора Уотсона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup>
 * Дом на Кленовой улице ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>217</sup>
 * Справжність Велесової книги ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup>
-* Крауч-энд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>215</sup>
 
 
-_13.06.2021 08:04:57_
+_13.06.2021 08:08:01_

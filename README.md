@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
+    > Альтернативка
+    > Серия. Не смог продраться через множество героев -Скучно, не интересно. Не мое
+    > Оценка 2
+
 * Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
     > Альтернативка.
     > Автор не адекватен. Проверится ему у психиатра
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > У мужчины умерла жена, он против и на сдаёт её смерть.
 
 * Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
-    > Наиболее интересна будет для практикующих психологов, но и для чайников интересно
 
 * Ур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>229</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
 
-* Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>45</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>46</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 [kishki](users/106/106256274804767210019-google)<sup>1</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 
 
-_13.06.2021 08:04:57_
+_13.06.2021 08:08:01_
