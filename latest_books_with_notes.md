@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
 * Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
 * Ур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>229</sup>
 * Храм из костей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup>
@@ -30,7 +31,6 @@
 * Справжність Велесової книги ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>192</sup>
 * Крауч-энд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>215</sup>
 * Извините, номер верный ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>214</sup>
-* Сотканный мир ~ [Hammerzeit](users/103/103389838241993724492-google)<sup>1</sup>
 
 
-_13.06.2021 07:31:43_
+_13.06.2021 07:43:25_

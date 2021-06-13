@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
+    > У мужчины умерла жена, он против и на сдаёт её смерть.
+
 * Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
     > Наиболее интересна будет для практикующих психологов, но и для чайников интересно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Про Кингдом, который давал доступ к параллельным мирам и людях в жёлтых плащах.
 
 * Храм из костей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup>
-    > Стихи о трёх мужчинах
 
 * Менше знаєш, краще спис ~ [danyluk62](users/374/374149854-vkontakte)<sup>89</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
 
-* День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>230</sup> 
 [kishki](users/106/106256274804767210019-google)<sup>1</sup> 
 [hoemi](users/906/906605961-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>176</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 
 
-_13.06.2021 07:31:43_
+_13.06.2021 07:43:25_

@@ -1,4 +1,16 @@
 {
+    "aw5UzV3UaF": {
+        "id": "aw5UzV3UaF",
+        "title": "Нездоровье",
+        "author": "Стивен Кинг",
+        "notes": "У мужчины умерла жена, он против и на сдаёт её смерть.",
+        "createdAt": "2021-06-13 07:43:25",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 231
+        }
+    },
     "DaW0b18lvL": {
         "id": "DaW0b18lvL",
         "title": "Лечение от любви (и другие психотерапевтические новеллы)",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 214
-        }
-    },
-    "ZltEHKvmzm": {
-        "id": "ZltEHKvmzm",
-        "title": "Сотканный мир",
-        "author": "Баркер Клайв",
-        "notes": "Не очень увлекательно",
-        "createdAt": "2021-05-24 17:49:32",
-        "user": {
-            "id": "103389838241993724492-google",
-            "nickname": "Hammerzeit",
-            "booksCount": 1
         }
     }
 }
