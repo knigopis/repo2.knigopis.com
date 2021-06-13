@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
+    > Альтернативка.
+    > Автор не адекватен. Проверится ему у психиатра
+    > Оценка 2
+
 * Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
     > У мужчины умерла жена, он против и на сдаёт её смерть.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Наиболее интересна будет для практикующих психологов, но и для чайников интересно
 
 * Ур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>229</sup>
-    > Про Кингдом, который давал доступ к параллельным мирам и людях в жёлтых плащах.
 
 * Храм из костей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
 
-* 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>45</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 [kishki](users/106/106256274804767210019-google)<sup>1</sup> 
@@ -48,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>107</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>44</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>72</sup> 
 [hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 
 
-_13.06.2021 07:43:25_
+_13.06.2021 08:04:57_

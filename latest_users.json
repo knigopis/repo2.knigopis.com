@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 45,
+        "updatedAt": "2021-06-13 08:04:57"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -88,12 +94,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 193,
         "updatedAt": "2021-06-05 17:01:01"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 44,
-        "updatedAt": "2021-06-05 07:17:34"
     },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
