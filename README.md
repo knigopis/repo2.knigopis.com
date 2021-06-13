@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
+    > Если бы читала до того, как вышли фильмы, абсолютно бы не запомнилось произведение. Сам антураж в виде Сильмариллиона намного интересней. Повествование уж слишком размеренное, эльфы вообще какие-то блаженные певуны, гном 1, Гимли и всё У Джексона история вышла намного эпичней и масштабней.
+
 * Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
     > Альтернативка
     > Искать продолжение
@@ -17,9 +20,6 @@ Do not use pull requests to make changes here.
     > Оценка 2
 
 * Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
-    > Альтернативка.
-    > Автор не адекватен. Проверится ему у психиатра
-    > Оценка 2
 
 * Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
 
@@ -33,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Смерть ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup>
 
-* 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>288</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>47</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
@@ -65,11 +64,10 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>258</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>287</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 
 
-_13.06.2021 08:15:13_
+_13.06.2021 10:29:55_
