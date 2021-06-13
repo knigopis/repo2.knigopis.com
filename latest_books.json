@@ -1,4 +1,16 @@
 {
+    "DaW0b18lvL": {
+        "id": "DaW0b18lvL",
+        "title": "Лечение от любви (и другие психотерапевтические новеллы)",
+        "author": "Ирвин Ялом",
+        "notes": "Наиболее интересна будет для практикующих психологов, но и для чайников интересно",
+        "createdAt": "2021-06-13 07:31:43",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 46
+        }
+    },
     "-BhtLqQFjo": {
         "id": "-BhtLqQFjo",
         "title": "Герман Вук ещё жив",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 96
-        }
-    },
-    "mZywVZbPre": {
-        "id": "mZywVZbPre",
-        "title": "Галактика в огне",
-        "author": "Бен Каунтер",
-        "notes": "",
-        "createdAt": "2021-06-07 13:42:32",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 107
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "DaW0b18lvL": {
+        "id": "DaW0b18lvL",
+        "title": "Лечение от любви (и другие психотерапевтические новеллы)",
+        "author": "Ирвин Ялом",
+        "notes": "Наиболее интересна будет для практикующих психологов, но и для чайников интересно",
+        "createdAt": "2021-06-13 07:31:43",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 46
+        }
+    },
     "aYZ_7qKPkE": {
         "id": "aYZ_7qKPkE",
         "title": "Ур",
@@ -345,18 +357,6 @@
             "id": "103389838241993724492-google",
             "nickname": "Hammerzeit",
             "booksCount": 1
-        }
-    },
-    "6FimX85oRG": {
-        "id": "6FimX85oRG",
-        "title": "Мой милый пони",
-        "author": "Стивен Кинг",
-        "notes": "Дед рассказывает внуку про время.",
-        "createdAt": "2021-05-24 08:47:08",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 213
         }
     }
 }

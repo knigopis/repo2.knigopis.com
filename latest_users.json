@@ -1,4 +1,10 @@
 {
+    "5714115-vkontakte": {
+        "id": "5714115-vkontakte",
+        "nickname": "dmiro",
+        "booksCount": 46,
+        "updatedAt": "2021-06-13 07:31:43"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Дмитрий Витальевич",
         "booksCount": 29,
         "updatedAt": "2021-05-24 20:22:19"
-    },
-    "2756136091613116923-mailru": {
-        "id": "2756136091613116923-mailru",
-        "nickname": "bagnyan777",
-        "booksCount": 0,
-        "updatedAt": "2021-05-24 20:05:56"
     }
 }
