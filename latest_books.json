@@ -1,4 +1,16 @@
 {
+    "xYaV1scn-5": {
+        "id": "xYaV1scn-5",
+        "title": "Леди несовершенство",
+        "author": "Дарья Донцова",
+        "notes": "",
+        "createdAt": "2021-06-13 21:45:53",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 44
+        }
+    },
     "aHOHUKDR6_": {
         "id": "aHOHUKDR6_",
         "title": "Властелин колец. Возвращение короля",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 226
-        }
-    },
-    "g1UBm4t5on": {
-        "id": "g1UBm4t5on",
-        "title": "Вся кремлевская рать: Краткая история современной России",
-        "author": "Михаил Зыгарь",
-        "notes": "",
-        "createdAt": "2021-06-08 19:41:10",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 90
         }
     }
 }
