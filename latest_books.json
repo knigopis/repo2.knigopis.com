@@ -1,4 +1,16 @@
 {
+    "1s5AhMKzEy": {
+        "id": "1s5AhMKzEy",
+        "title": "Как творить историю",
+        "author": "Стивен Фрай",
+        "notes": "",
+        "createdAt": "2021-06-14 09:25:31",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 259
+        }
+    },
     "xYaV1scn-5": {
         "id": "xYaV1scn-5",
         "title": "Леди несовершенство",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 227
-        }
-    },
-    "VI1P9IjKoH": {
-        "id": "VI1P9IjKoH",
-        "title": "Храм из костей",
-        "author": "Стивен Кинг",
-        "notes": "Стихи о трёх мужчинах",
-        "createdAt": "2021-06-09 09:21:07",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 226
         }
     }
 }
