@@ -1,4 +1,16 @@
 {
+    "XUooG57wNi": {
+        "id": "XUooG57wNi",
+        "title": "Мистер Симпатяжка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-14 10:00:15",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 232
+        }
+    },
     "1s5AhMKzEy": {
         "id": "1s5AhMKzEy",
         "title": "Как творить историю",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 228
-        }
-    },
-    "v8m4F1c9pR": {
-        "id": "v8m4F1c9pR",
-        "title": "Моральные принципы",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-06-09 09:21:24",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 227
         }
     }
 }
