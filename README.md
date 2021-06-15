@@ -38,8 +38,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>235</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>93</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>234</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>259</sup> 
 [](users/153/1537586159620888-facebook)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 
 
-_15.06.2021 09:37:40_
+_15.06.2021 11:53:32_
