@@ -1,4 +1,16 @@
 {
+    "z_DLROHuVV": {
+        "id": "z_DLROHuVV",
+        "title": "Исповедь российского добровольца",
+        "author": "Юрий Горошко",
+        "notes": "",
+        "createdAt": "2021-06-15 09:37:40",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 93
+        }
+    },
     "Uvhj-bpaa4": {
         "id": "Uvhj-bpaa4",
         "title": "Промывка мозга. Программа для ясного мышления, укрепления отношений с людьми и развития полезных привычек",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 43
-        }
-    },
-    "pMW1u36Y2O": {
-        "id": "pMW1u36Y2O",
-        "title": "Милый друг",
-        "author": "Ги де Мопассан",
-        "notes": "",
-        "createdAt": "2021-06-11 08:07:49",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 101
         }
     }
 }
