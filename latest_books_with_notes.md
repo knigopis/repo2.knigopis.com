@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Овод ~ [Rainbow](users/109/109787328219839805802-google)<sup>73</sup>
 * Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
 * Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
 * Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
@@ -30,7 +31,6 @@
 * Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
 * Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
 * Безсмертний полк. Священна вiйна Путiна ~ [danyluk62](users/374/374149854-vkontakte)<sup>86</sup>
-* Расследование доктора Уотсона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>218</sup>
 
 
-_13.06.2021 10:29:55_
+_15.06.2021 13:26:07_
