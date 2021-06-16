@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>73</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>235</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>93</sup> 
@@ -68,8 +69,7 @@ _More notes [here](latest_books_with_notes.md)._
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>20</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>29</sup> 
 
 
-_15.06.2021 13:26:07_
+_16.06.2021 03:41:25_
