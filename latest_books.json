@@ -1,4 +1,16 @@
 {
+    "_r4-d5Qf57": {
+        "id": "_r4-d5Qf57",
+        "title": "Безмолвный пациент",
+        "author": "Михаэлидес Алекс",
+        "notes": "",
+        "createdAt": "2021-06-16 04:55:52",
+        "user": {
+            "id": "1326779400711265-facebook",
+            "nickname": "Боната",
+            "booksCount": 6
+        }
+    },
     "b_ZEFHXjDj": {
         "id": "b_ZEFHXjDj",
         "title": "The One. Единственный",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 173
-        }
-    },
-    "6I-r_GgJhs": {
-        "id": "6I-r_GgJhs",
-        "title": "You Are the Placebo: Making Your Mind Matter",
-        "author": "Joe Dispenza",
-        "notes": "",
-        "createdAt": "2021-06-12 12:17:21",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 172
         }
     }
 }
