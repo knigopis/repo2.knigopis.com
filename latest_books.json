@@ -1,4 +1,16 @@
 {
+    "chaXig-hQM": {
+        "id": "chaXig-hQM",
+        "title": "Абандон",
+        "author": "Блэйк крауч",
+        "notes": "7/10 Группа посетителей заброшенного города ищет спрятаное золото.",
+        "createdAt": "2021-06-16 19:38:15",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 194
+        }
+    },
     "hw-Gqdig6G": {
         "id": "hw-Gqdig6G",
         "title": "Телефон мистера Харригана",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 231
-        }
-    },
-    "DaW0b18lvL": {
-        "id": "DaW0b18lvL",
-        "title": "Лечение от любви (и другие психотерапевтические новеллы)",
-        "author": "Ирвин Ялом",
-        "notes": "Наиболее интересна будет для практикующих психологов, но и для чайников интересно",
-        "createdAt": "2021-06-13 07:31:43",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 46
         }
     }
 }

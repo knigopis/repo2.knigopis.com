@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
 * Овод ~ [Rainbow](users/109/109787328219839805802-google)<sup>73</sup>
 * Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
 * Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
 * Жертвы жадности ~ [dromoman2008](users/444/44461886-yandex)<sup>39</sup>
 * Боснийский дневник ~ [danyluk62](users/374/374149854-vkontakte)<sup>87</sup>
-* Безсмертний полк. Священна вiйна Путiна ~ [danyluk62](users/374/374149854-vkontakte)<sup>86</sup>
 
 
-_15.06.2021 13:26:07_
+_16.06.2021 19:38:16_

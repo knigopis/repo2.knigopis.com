@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>193</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>194</sup>
 ---
 
 ## 2021
+
+### Абандон
+Блэйк крауч
+> [2021-06-10] 7/10 Группа посетителей заброшенного города ищет спрятаное золото.
+
 
 ### 100 великих тайн нового времени
 Сборник
