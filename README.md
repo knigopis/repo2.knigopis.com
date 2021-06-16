@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>8</sup> 
 [](users/153/1537586159620888-facebook)<sup>45</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
 
 
-_16.06.2021 19:39:59_
+_16.06.2021 20:12:31_
