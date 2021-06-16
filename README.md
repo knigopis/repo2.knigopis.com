@@ -40,11 +40,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>236</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>6</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>260</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>73</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>235</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>93</sup> 
 [](users/153/1537586159620888-facebook)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
 
 
-_16.06.2021 04:55:52_
+_16.06.2021 09:19:10_

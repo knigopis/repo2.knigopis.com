@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 236,
+        "updatedAt": "2021-06-16 09:19:10"
+    },
     "1326779400711265-facebook": {
         "id": "1326779400711265-facebook",
         "nickname": "Боната",
@@ -22,12 +28,6 @@
         "nickname": "Rainbow",
         "booksCount": 73,
         "updatedAt": "2021-06-15 13:26:07"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 235,
-        "updatedAt": "2021-06-15 11:53:32"
     },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",

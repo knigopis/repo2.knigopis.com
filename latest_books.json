@@ -1,4 +1,16 @@
 {
+    "l1O3_C7jX5": {
+        "id": "l1O3_C7jX5",
+        "title": "Некрологи",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-16 09:19:10",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 236
+        }
+    },
     "_r4-d5Qf57": {
         "id": "_r4-d5Qf57",
         "title": "Безмолвный пациент",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 174
-        }
-    },
-    "-3OD4k1GfL": {
-        "id": "-3OD4k1GfL",
-        "title": "Материнская любовь",
-        "author": "Некрасов Анатолий",
-        "notes": "",
-        "createdAt": "2021-06-12 12:18:34",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 173
         }
     }
 }
