@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>194</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>195</sup>
 ---
 
 ## 2021
+
+### В высокой траве
+Стивен Кинг, Джо Хилл
+> [2021-06-11] 9/10 Загадочный камень среди поля высокой травы требует жертв.
+
 
 ### Абандон
 Блэйк крауч
