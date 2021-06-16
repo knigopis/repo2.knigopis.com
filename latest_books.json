@@ -1,4 +1,16 @@
 {
+    "76fgBBdfWI": {
+        "id": "76fgBBdfWI",
+        "title": "Лавка дурных снов",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-16 09:33:44",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 238
+        }
+    },
     "zTKG6GB7i8": {
         "id": "zTKG6GB7i8",
         "title": "Пьяные фейерверки",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 176
-        }
-    },
-    "Y-uE_IU0L2": {
-        "id": "Y-uE_IU0L2",
-        "title": "Записки физика-экстрасенса. Кн. 2. Научный путь к Богу",
-        "author": "Чусов Илья Витальевич",
-        "notes": "",
-        "createdAt": "2021-06-12 12:20:22",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 175
         }
     }
 }
