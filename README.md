@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>94</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>97</sup> 
 [dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>260</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>73</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>93</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>47</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 
 
-_16.06.2021 20:32:54_
+_16.06.2021 22:25:41_
