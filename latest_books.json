@@ -1,4 +1,16 @@
 {
+    "1W6zNl4j1w": {
+        "id": "1W6zNl4j1w",
+        "title": "Прими волшебную таблетку от боли",
+        "author": "Екатерина Пластеева",
+        "notes": "",
+        "createdAt": "2021-06-16 18:17:47",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 45
+        }
+    },
     "_4Iyjhiq4x": {
         "id": "_4Iyjhiq4x",
         "title": "Спаситель",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 230
-        }
-    },
-    "aYZ_7qKPkE": {
-        "id": "aYZ_7qKPkE",
-        "title": "Ур",
-        "author": "Стивен Кинг",
-        "notes": "Про Кингдом, который давал доступ к параллельным мирам и людях в жёлтых плащах.",
-        "createdAt": "2021-06-12 17:05:07",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 229
         }
     }
 }

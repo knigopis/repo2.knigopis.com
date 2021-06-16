@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>44</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>45</sup>
 ---
 
 ## 2021
+
+### Прими волшебную таблетку от боли
+Екатерина Пластеева
+> [2021-06] 
+
 
 ### Леди несовершенство
 Дарья Донцова
