@@ -1,4 +1,16 @@
 {
+    "W8kdY3wmsc": {
+        "id": "W8kdY3wmsc",
+        "title": "Изменчивая природа математического доказательства",
+        "author": "С. Кранц",
+        "notes": "",
+        "createdAt": "2021-06-16 20:32:54",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 97
+        }
+    },
     "_XFJS6Y5Jz": {
         "id": "_XFJS6Y5Jz",
         "title": "В высокой траве",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 46
-        }
-    },
-    "joa1karoSl": {
-        "id": "joa1karoSl",
-        "title": "Колхозное строительство (серия из 5 книг)",
-        "author": "Шопперт Андрей",
-        "notes": "Альтернативка.\nАвтор не адекватен. Проверится ему у психиатра\nОценка 2",
-        "createdAt": "2021-06-13 08:04:57",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 45
         }
     }
 }
