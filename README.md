@@ -40,9 +40,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Боната](users/132/1326779400711265-facebook)<sup>8</sup> 
 [](users/153/1537586159620888-facebook)<sup>45</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>102</sup> 
-[Боната](users/132/1326779400711265-facebook)<sup>7</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>238</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>260</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>432</sup> 
 
 
-_16.06.2021 18:17:47_
+_16.06.2021 18:22:49_
