@@ -1,4 +1,16 @@
 {
+    "zTKG6GB7i8": {
+        "id": "zTKG6GB7i8",
+        "title": "Пьяные фейерверки",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-16 09:33:25",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 237
+        }
+    },
     "l1O3_C7jX5": {
         "id": "l1O3_C7jX5",
         "title": "Некрологи",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 175
-        }
-    },
-    "wlu3J8vda0": {
-        "id": "wlu3J8vda0",
-        "title": "Записки физика-экстрасенса. Кн. 1. Болезни людей и принципы излечения",
-        "author": "Чусов Илья Витальевич",
-        "notes": "",
-        "createdAt": "2021-06-12 12:19:38",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 174
         }
     }
 }
