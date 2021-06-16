@@ -1,4 +1,16 @@
 {
+    "_4Iyjhiq4x": {
+        "id": "_4Iyjhiq4x",
+        "title": "Спаситель",
+        "author": "Ю Несбё",
+        "notes": "",
+        "createdAt": "2021-06-16 15:43:29",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 102
+        }
+    },
     "mdQl58kOfe": {
         "id": "mdQl58kOfe",
         "title": "Она",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 229
-        }
-    },
-    "LH5BDvQuui": {
-        "id": "LH5BDvQuui",
-        "title": "",
-        "author": "Ася Лавринович",
-        "notes": "Книга понравилась. Идеальные герои. Идеальный мир. Наш мир. Тепло и приятно от этой книги.",
-        "createdAt": "2021-06-12 13:12:45",
-        "user": {
-            "id": "106256274804767210019-google",
-            "nickname": "kishki",
-            "booksCount": 1
         }
     }
 }
