@@ -1,4 +1,16 @@
 {
+    "mdQl58kOfe": {
+        "id": "mdQl58kOfe",
+        "title": "Она",
+        "author": "Филипп Джиан",
+        "notes": "",
+        "createdAt": "2021-06-16 09:51:44",
+        "user": {
+            "id": "1326779400711265-facebook",
+            "nickname": "Боната",
+            "booksCount": 7
+        }
+    },
     "76fgBBdfWI": {
         "id": "76fgBBdfWI",
         "title": "Лавка дурных снов",
@@ -345,18 +357,6 @@
             "id": "106256274804767210019-google",
             "nickname": "kishki",
             "booksCount": 1
-        }
-    },
-    "wo12Stj09m": {
-        "id": "wo12Stj09m",
-        "title": "Диагностика кармы",
-        "author": "Лазарев С.Н.",
-        "notes": "",
-        "createdAt": "2021-06-12 12:20:54",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 176
         }
     }
 }
