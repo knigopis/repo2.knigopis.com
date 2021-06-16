@@ -1,4 +1,16 @@
 {
+    "b_ZEFHXjDj": {
+        "id": "b_ZEFHXjDj",
+        "title": "The One. Единственный",
+        "author": "Маррс Джон",
+        "notes": "",
+        "createdAt": "2021-06-16 04:55:02",
+        "user": {
+            "id": "1326779400711265-facebook",
+            "nickname": "Боната",
+            "booksCount": 5
+        }
+    },
     "omGdA-YRIX": {
         "id": "omGdA-YRIX",
         "title": "Глазами жертвы",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 172
-        }
-    },
-    "98E9fremtX": {
-        "id": "98E9fremtX",
-        "title": "Утоли моя печали",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2021-06-12 00:05:36",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 336
         }
     }
 }
