@@ -1,12 +1,7 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>14</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>13</sup>
 ---
 
 ## 2021
-
-### "Миф о красоте"
-Наоми Вульф
-> [2021-06-19] Книга написана в довольно надрывном тоне, много затрагивается религиозный аспект
-
 
 ### "Миф о красоте"
 Наоми Вульф
