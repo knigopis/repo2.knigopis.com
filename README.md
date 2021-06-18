@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[albina_untiring](users/257/2579695-vkontakte)<sup>13</sup> 
+[albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>861</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>95</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>97</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
 
 
-_18.06.2021 19:32:48_
+_18.06.2021 19:33:34_
