@@ -1,4 +1,16 @@
 {
+    "kEmT1PO1nY": {
+        "id": "kEmT1PO1nY",
+        "title": "\"Миф о красоте\"",
+        "author": "Наоми Вульф",
+        "notes": "Книга написана в довольно надрывном тоне, много затрагивается религиозный аспект",
+        "createdAt": "2021-06-18 19:32:38",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 14
+        }
+    },
     "q-jwLHpEbR": {
         "id": "q-jwLHpEbR",
         "title": "Фронтовые заметки из Новороссии",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 287
-        }
-    },
-    "Y0rbyaiyVG": {
-        "id": "Y0rbyaiyVG",
-        "title": "Сломанный мир",
-        "author": "Сухов Лео",
-        "notes": "Серия из 4 книг Фэнтези\nОценка 4",
-        "createdAt": "2021-05-30 07:12:26",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 40
         }
     }
 }

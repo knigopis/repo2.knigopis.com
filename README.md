@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
+    > Книга написана в довольно надрывном тоне, много затрагивается религиозный аспект
+
 * Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
     > Статья-рассказ писателя Игоря Пыхалова о своей службе в батальоне "Заря" в августе-сентябре 2014 года.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Загадочный камень среди поля высокой травы требует жертв.
 
 * Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
-    > 7/10 Группа посетителей заброшенного города ищет спрятаное золото.
 
 * Овод ~ [Rainbow](users/109/109787328219839805802-google)<sup>73</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
 
-* Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>861</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>95</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
 [galard13](users/137/1372460683-yandex)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>161</sup> 
 
 
-_17.06.2021 10:13:25_
+_18.06.2021 19:32:38_

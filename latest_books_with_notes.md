@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 * Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
 * В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
 * Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
@@ -30,7 +31,6 @@
 * ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
 * Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
-* Сломанный мир ~ [dromoman2008](users/444/44461886-yandex)<sup>40</sup>
 
 
-_16.06.2021 22:27:20_
+_18.06.2021 19:32:38_

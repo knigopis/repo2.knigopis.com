@@ -1,4 +1,16 @@
 {
+    "kEmT1PO1nY": {
+        "id": "kEmT1PO1nY",
+        "title": "\"Миф о красоте\"",
+        "author": "Наоми Вульф",
+        "notes": "Книга написана в довольно надрывном тоне, много затрагивается религиозный аспект",
+        "createdAt": "2021-06-18 19:32:38",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 14
+        }
+    },
     "DBIpIL6PjW": {
         "id": "DBIpIL6PjW",
         "title": "Раб",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 259
-        }
-    },
-    "xYaV1scn-5": {
-        "id": "xYaV1scn-5",
-        "title": "Леди несовершенство",
-        "author": "Дарья Донцова",
-        "notes": "",
-        "createdAt": "2021-06-13 21:45:53",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 44
         }
     }
 }
