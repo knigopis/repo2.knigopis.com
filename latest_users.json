@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": "Elixir",
+        "booksCount": 433,
+        "updatedAt": "2021-06-20 10:05:36"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "Askaliya",
         "booksCount": 11,
         "updatedAt": "2021-06-01 07:13:41"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 40,
-        "updatedAt": "2021-05-31 02:58:43"
     }
 }
