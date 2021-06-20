@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>96</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>861</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>95</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>97</sup> 
 [dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 
 
-_20.06.2021 10:05:36_
+_20.06.2021 10:40:27_

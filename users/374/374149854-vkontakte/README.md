@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>95</sup>
+# List of books read by danyluk62<sup>96</sup>
 ---
 
 ## 2021
+
+### Иловайский дневник
+Роман Зиненко
+> [2021-06] 
+
 
 ### Фронтовые заметки из Новороссии
 Игорь Пыхалов
