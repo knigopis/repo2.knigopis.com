@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>69</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>861</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>95</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>40</sup> 
-[galard13](users/137/1372460683-yandex)<sup>0</sup> 
 
 
-_18.06.2021 19:33:49_
+_20.06.2021 05:26:35_

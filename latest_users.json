@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 69,
+        "updatedAt": "2021-06-20 05:26:35"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "vitasoft",
         "booksCount": 40,
         "updatedAt": "2021-05-31 02:58:43"
-    },
-    "1372460683-yandex": {
-        "id": "1372460683-yandex",
-        "nickname": "galard13",
-        "booksCount": 0,
-        "updatedAt": "2021-05-30 19:13:28"
     }
 }
