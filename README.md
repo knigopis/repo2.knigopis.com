@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>261</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>96</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>45</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>102</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>238</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>260</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>73</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 
 
-_20.06.2021 10:40:27_
+_21.06.2021 07:41:48_

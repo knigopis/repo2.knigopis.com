@@ -1,4 +1,16 @@
 {
+    "Zo0b_ga22X": {
+        "id": "Zo0b_ga22X",
+        "title": "Аварон",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2021-06-21 07:41:48",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 261
+        }
+    },
     "kHvDp4wyYX": {
         "id": "kHvDp4wyYX",
         "title": "Иловайский дневник",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 93
-        }
-    },
-    "Uvhj-bpaa4": {
-        "id": "Uvhj-bpaa4",
-        "title": "Промывка мозга. Программа для ясного мышления, укрепления отношений с людьми и развития полезных привычек",
-        "author": "Дэвид Перлмуттер, Остин Перлмуттер",
-        "notes": "",
-        "createdAt": "2021-06-15 09:36:53",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 92
         }
     }
 }
