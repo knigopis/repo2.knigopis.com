@@ -1,4 +1,16 @@
 {
+    "ls3xiCoW1M": {
+        "id": "ls3xiCoW1M",
+        "title": "Малец",
+        "author": "Каталкин Василий",
+        "notes": "Альтернативка\nПопаданец в Сибирь 17 век в пацана. Прогрессорство. Читать интересно. Если будет продолжение - читать обязательно\nОценка 5-",
+        "createdAt": "2021-06-21 15:28:25",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 49
+        }
+    },
     "yqz4MW91lO": {
         "id": "yqz4MW91lO",
         "title": "Режим бога (фанфик из 7 пока книг)",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 88
-        }
-    },
-    "Tq77UaeydS": {
-        "id": "Tq77UaeydS",
-        "title": "«Обладать»",
-        "author": "Сьюзен Байетт",
-        "notes": "Audio",
-        "createdAt": "2021-05-31 02:58:43",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 40
         }
     }
 }

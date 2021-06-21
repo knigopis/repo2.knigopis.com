@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
+    > Альтернативка
+    > Попаданец в Сибирь 17 век в пацана. Прогрессорство. Читать интересно. Если будет продолжение - читать обязательно
+    > Оценка 5-
+
 * Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
     > Альтернативка
     > Интересная. У автора хороший язык
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Книга написана в довольно надрывном тоне, много затрагивается религиозный аспект
 
 * Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
-    > Статья-рассказ писателя Игоря Пыхалова о своей службе в батальоне "Заря" в августе-сентябре 2014 года.
 
 * В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
 
-* Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>48</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>10</sup> 
 [](users/153/1537586159620888-facebook)<sup>46</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 
 
-_21.06.2021 15:25:31_
+_21.06.2021 15:28:25_
