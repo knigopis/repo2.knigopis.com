@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>45</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>46</sup>
 ---
 
 ## 2021
+
+### Астральное тело холостяка
+Дарья Донцова
+> [2021-06] 
+
 
 ### Прими волшебную таблетку от боли
 Екатерина Пластеева
