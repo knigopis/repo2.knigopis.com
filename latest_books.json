@@ -1,4 +1,16 @@
 {
+    "vJ6TqCbKlj": {
+        "id": "vJ6TqCbKlj",
+        "title": "Жизнь Чака",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-21 11:37:52",
+        "user": {
+            "id": "1326779400711265-facebook",
+            "nickname": "Боната",
+            "booksCount": 9
+        }
+    },
     "Zo0b_ga22X": {
         "id": "Zo0b_ga22X",
         "title": "Аварон",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 235
-        }
-    },
-    "z_DLROHuVV": {
-        "id": "z_DLROHuVV",
-        "title": "Исповедь российского добровольца",
-        "author": "Юрий Горошко",
-        "notes": "",
-        "createdAt": "2021-06-15 09:37:40",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 93
         }
     }
 }
