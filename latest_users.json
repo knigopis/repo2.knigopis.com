@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 48,
+        "updatedAt": "2021-06-21 15:25:30"
+    },
     "1326779400711265-facebook": {
         "id": "1326779400711265-facebook",
         "nickname": "Боната",
@@ -94,12 +100,6 @@
         "nickname": "Garka",
         "booksCount": 288,
         "updatedAt": "2021-06-13 10:29:54"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 47,
-        "updatedAt": "2021-06-13 08:15:13"
     },
     "5714115-vkontakte": {
         "id": "5714115-vkontakte",

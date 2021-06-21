@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
+    > Альтернативка
+    > Интересная. У автора хороший язык
+    > Оценка 5-
+
 * "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
     > Книга написана в довольно надрывном тоне, много затрагивается религиозный аспект
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Статья-рассказ писателя Игоря Пыхалова о своей службе в батальоне "Заря" в августе-сентябре 2014 года.
 
 * В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
-    > 9/10 Загадочный камень среди поля высокой травы требует жертв.
 
 * Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
 
-* Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>48</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>10</sup> 
 [](users/153/1537586159620888-facebook)<sup>46</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
@@ -49,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>73</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>47</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 [kishki](users/106/106256274804767210019-google)<sup>1</sup> 
 [hoemi](users/906/906605961-yandex)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 
 
-_21.06.2021 13:20:20_
+_21.06.2021 15:25:31_

@@ -1,4 +1,16 @@
 {
+    "yqz4MW91lO": {
+        "id": "yqz4MW91lO",
+        "title": "Режим бога (фанфик из 7 пока книг)",
+        "author": "Вязовский Алексей",
+        "notes": "Альтернативка\nИнтересная. У автора хороший язык\nОценка 5-",
+        "createdAt": "2021-06-21 15:25:30",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 48
+        }
+    },
     "ENh--HvuCw": {
         "id": "ENh--HvuCw",
         "title": "Будет кровь",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 260
-        }
-    },
-    "_egsUs5WBU": {
-        "id": "_egsUs5WBU",
-        "title": "Ход королевы",
-        "author": "Тевис Уолтер",
-        "notes": "",
-        "createdAt": "2021-06-16 03:41:25",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 21
         }
     }
 }

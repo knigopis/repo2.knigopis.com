@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
 * "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 * Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
 * В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
@@ -30,7 +31,6 @@
 * Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
 * ДеНАЦИфикация Украины ~ [danyluk62](users/374/374149854-vkontakte)<sup>88</sup>
 * «Обладать» ~ [vitasoft](users/474/47446642-vkontakte)<sup>40</sup>
-* Всё хреново ~ [Garka](users/115/115753719718250012620-google)<sup>287</sup>
 
 
-_18.06.2021 19:32:38_
+_21.06.2021 15:25:31_
