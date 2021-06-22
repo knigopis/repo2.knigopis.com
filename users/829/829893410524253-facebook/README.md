@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>195</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>196</sup>
 ---
 
 ## 2021
+
+### *69
+Блэйк Крауч
+> [2021-06-21] 9/10 Случайная запись убийства на автоответчик.
+
 
 ### В высокой траве
 Стивен Кинг, Джо Хилл

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
+    > 9/10 Случайная запись убийства на автоответчик.
+
 * Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
     > Альтернативка
     > Попаданец в Сибирь 17 век в пацана. Прогрессорство. Читать интересно. Если будет продолжение - читать обязательно
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 5-
 
 * "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
-    > Книга написана в довольно надрывном тоне, много затрагивается религиозный аспект
 
 * Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
 
-* Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>98</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>2</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>861</sup> 
 [dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>102</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>238</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 
 
-_22.06.2021 14:00:32_
+_22.06.2021 21:27:30_
