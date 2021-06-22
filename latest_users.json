@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 74,
+        "updatedAt": "2021-06-22 10:38:08"
+    },
     "172060772-vkontakte": {
         "id": "172060772-vkontakte",
         "nickname": "April Sunderland",
@@ -94,12 +100,6 @@
         "nickname": "Пу_тем",
         "booksCount": 21,
         "updatedAt": "2021-06-16 03:41:25"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 73,
-        "updatedAt": "2021-06-15 13:26:07"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

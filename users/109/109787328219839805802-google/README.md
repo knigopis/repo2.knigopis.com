@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>73</sup>
+# List of books read by Rainbow<sup>74</sup>
 ---
 
 ## 2021
+
+### Сиддхартха
+Герман Гессе
+> [2021-06-21] 
+
 
 ### Овод
 Этель Лилиан Войнич
