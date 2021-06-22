@@ -1,4 +1,10 @@
 {
+    "172060772-vkontakte": {
+        "id": "172060772-vkontakte",
+        "nickname": "april__sunderland",
+        "booksCount": 0,
+        "updatedAt": "2021-06-22 04:56:50"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 207,
         "updatedAt": "2021-06-01 19:02:54"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 11,
-        "updatedAt": "2021-06-01 07:13:41"
     }
 }
