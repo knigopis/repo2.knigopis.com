@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[april__sunderland](users/172/172060772-vkontakte)<sup>0</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>10</sup> 
 [](users/153/1537586159620888-facebook)<sup>46</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>11</sup> 
 
 
-_21.06.2021 15:28:25_
+_22.06.2021 04:56:50_
