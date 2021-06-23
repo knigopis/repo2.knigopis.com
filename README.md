@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>863</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>864</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>108</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 
 
-_23.06.2021 16:54:22_
+_23.06.2021 20:03:18_
