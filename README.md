@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>98</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
-[April Sunderland](users/172/172060772-vkontakte)<sup>2</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>10</sup> 
 [](users/153/1537586159620888-facebook)<sup>46</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 
 
-_22.06.2021 21:27:30_
+_23.06.2021 00:05:28_

@@ -1,4 +1,10 @@
 {
+    "172060772-vkontakte": {
+        "id": "172060772-vkontakte",
+        "nickname": "April Sunderland",
+        "booksCount": 3,
+        "updatedAt": "2021-06-23 00:05:28"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -16,12 +22,6 @@
         "nickname": "Rainbow",
         "booksCount": 74,
         "updatedAt": "2021-06-22 10:38:08"
-    },
-    "172060772-vkontakte": {
-        "id": "172060772-vkontakte",
-        "nickname": "April Sunderland",
-        "booksCount": 2,
-        "updatedAt": "2021-06-22 05:12:05"
     },
     "44461886-yandex": {
         "id": "44461886-yandex",
