@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>862</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>13</sup> 
 [dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>102</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>238</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 
 
-_23.06.2021 06:48:43_
+_23.06.2021 13:45:56_

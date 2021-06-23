@@ -1,4 +1,16 @@
 {
+    "L3HRFZBUhf": {
+        "id": "L3HRFZBUhf",
+        "title": "Переход",
+        "author": "Джеральд Даррелл",
+        "notes": "",
+        "createdAt": "2021-06-23 13:45:56",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 239
+        }
+    },
     "HPfgCiBq0E": {
         "id": "HPfgCiBq0E",
         "title": "Американские боги",
@@ -345,18 +357,6 @@
             "id": "1326779400711265-facebook",
             "nickname": "Боната",
             "booksCount": 7
-        }
-    },
-    "76fgBBdfWI": {
-        "id": "76fgBBdfWI",
-        "title": "Лавка дурных снов",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-06-16 09:33:44",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 238
         }
     }
 }
