@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
+    > Наверное единственная книга, которую я прочитала буквально за один присест
+
 * *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
     > 9/10 Случайная запись убийства на автоответчик.
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 5-
 
 * Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
-    > Альтернативка
-    > Интересная. У автора хороший язык
-    > Оценка 5-
 
 * "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
 
-* Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>864</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>108</sup> 
@@ -51,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>96</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>13</sup> 
 [dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>102</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 
 
-_23.06.2021 20:03:18_
+_23.06.2021 21:22:50_

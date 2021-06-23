@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 * *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
 * Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
 * Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
 * Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
 * Sha po lang ~ [Askaliya](users/326/326783541-vkontakte)<sup>11</sup>
-* Последнее дело Амни ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>219</sup>
 
 
-_22.06.2021 21:27:30_
+_23.06.2021 21:22:50_

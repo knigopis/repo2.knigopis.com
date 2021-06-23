@@ -1,4 +1,16 @@
 {
+    "hbra-JObXY": {
+        "id": "hbra-JObXY",
+        "title": "Поступай как женщина, думай как мужчина",
+        "author": "Стив Харви",
+        "notes": "Наверное единственная книга, которую я прочитала буквально за один присест",
+        "createdAt": "2021-06-23 21:22:50",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 14
+        }
+    },
     "IQYpyzVhhh": {
         "id": "IQYpyzVhhh",
         "title": "Когда умерли автобусы",
@@ -345,18 +357,6 @@
             "id": "1326779400711265-facebook",
             "nickname": "Боната",
             "booksCount": 8
-        }
-    },
-    "1W6zNl4j1w": {
-        "id": "1W6zNl4j1w",
-        "title": "Прими волшебную таблетку от боли",
-        "author": "Екатерина Пластеева",
-        "notes": "",
-        "createdAt": "2021-06-16 18:17:47",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 45
         }
     }
 }
