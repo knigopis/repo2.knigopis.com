@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>864</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 
 
-_23.06.2021 21:22:50_
+_23.06.2021 21:41:50_
