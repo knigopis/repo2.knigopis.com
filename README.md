@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>862</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup> 
@@ -61,7 +62,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>176</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>336</sup> 
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>107</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 [hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>207</sup> 
 
 
-_23.06.2021 05:54:49_
+_23.06.2021 06:48:43_

@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>107</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>108</sup>
 ---
 
 ## 2021
+
+### Американские боги
+Нил Гейман
+> [2021-06-23] 
+
 
 ### Галактика в огне
 Бен Каунтер
