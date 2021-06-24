@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 865,
+        "updatedAt": "2021-06-24 15:45:53"
+    },
     "1326779400711265-facebook": {
         "id": "1326779400711265-facebook",
         "nickname": "Боната",
@@ -16,12 +22,6 @@
         "nickname": "albina_untiring",
         "booksCount": 14,
         "updatedAt": "2021-06-23 21:22:50"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 864,
-        "updatedAt": "2021-06-23 20:03:18"
     },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",

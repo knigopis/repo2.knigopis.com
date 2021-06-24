@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>865</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>11</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>864</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>108</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 
 
-_24.06.2021 11:38:47_
+_24.06.2021 15:45:53_
