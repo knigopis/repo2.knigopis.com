@@ -1,4 +1,16 @@
 {
+    "msCv1doyu2": {
+        "id": "msCv1doyu2",
+        "title": "Крыса",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-24 11:38:47",
+        "user": {
+            "id": "1326779400711265-facebook",
+            "nickname": "Боната",
+            "booksCount": 11
+        }
+    },
     "PSrIfTpNk6": {
         "id": "PSrIfTpNk6",
         "title": "Трое в лодке, не считая собаки",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 195
-        }
-    },
-    "chaXig-hQM": {
-        "id": "chaXig-hQM",
-        "title": "Абандон",
-        "author": "Блэйк крауч",
-        "notes": "7/10 Группа посетителей заброшенного города ищет спрятаное золото.",
-        "createdAt": "2021-06-16 19:38:15",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 194
         }
     }
 }

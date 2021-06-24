@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Боната](users/132/1326779400711265-facebook)<sup>11</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>864</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>98</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
-[Боната](users/132/1326779400711265-facebook)<sup>10</sup> 
 [](users/153/1537586159620888-facebook)<sup>46</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>96</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 
 
-_23.06.2021 21:41:50_
+_24.06.2021 11:38:47_
