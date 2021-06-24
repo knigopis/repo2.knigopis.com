@@ -1,4 +1,16 @@
 {
+    "uq3sTcq92a": {
+        "id": "uq3sTcq92a",
+        "title": "Бессмертный",
+        "author": "Кэтрин Валенте Морган",
+        "notes": "",
+        "createdAt": "2021-06-24 17:19:04",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 103
+        }
+    },
     "Z8o0t1psNY": {
         "id": "Z8o0t1psNY",
         "title": "Через реку",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 94
-        }
-    },
-    "W8kdY3wmsc": {
-        "id": "W8kdY3wmsc",
-        "title": "Изменчивая природа математического доказательства",
-        "author": "С. Кранц",
-        "notes": "",
-        "createdAt": "2021-06-16 20:32:54",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 97
         }
     }
 }
