@@ -1,4 +1,16 @@
 {
+    "-NRiNVgnrC": {
+        "id": "-NRiNVgnrC",
+        "title": "Песнь Сюзанны",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-06-25 01:02:03",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 104
+        }
+    },
     "uq3sTcq92a": {
         "id": "uq3sTcq92a",
         "title": "Бессмертный",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 95
-        }
-    },
-    "yfO_f1Fdwo": {
-        "id": "yfO_f1Fdwo",
-        "title": "Начни писать. 52 совета для развития творческих способностей",
-        "author": "Грант Фолкнер",
-        "notes": "",
-        "createdAt": "2021-06-16 22:25:41",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 94
         }
     }
 }

@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Антенка](users/118/118158645037334943900-google)<sup>103</sup> 
+[Антенка](users/118/118158645037334943900-google)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>865</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>11</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hellhelen](users/248/248300842-vkontakte)<sup>63</sup> 
 
 
-_24.06.2021 17:19:05_
+_25.06.2021 01:02:03_
