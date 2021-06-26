@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
+    > пойдет
+
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
     > Необходимым довольствуются животные и варвары. Всякое развитие-это стремление к необязательно у и излишеству.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Наверное единственная книга, которую я прочитала буквально за один присест
 
 * *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
-    > 9/10 Случайная запись убийства на автоответчик.
 
 * Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
 
-* Овод ~ [Rainbow](users/109/109787328219839805802-google)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>288</sup> 
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>104</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>336</sup> 
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
-[hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
 
 
-_26.06.2021 07:58:01_
+_26.06.2021 09:37:17_

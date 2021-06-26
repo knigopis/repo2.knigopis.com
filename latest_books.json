@@ -1,4 +1,16 @@
 {
+    "OYHxmEtECH": {
+        "id": "OYHxmEtECH",
+        "title": "Я – княгиня Ольга. Первая женщина на русском престоле",
+        "author": "Наталья Павлищева",
+        "notes": "пойдет",
+        "createdAt": "2021-06-26 09:37:17",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 51
+        }
+    },
     "PSia6Vqq7N": {
         "id": "PSia6Vqq7N",
         "title": "Огненный перст",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 69
-        }
-    },
-    "kElM5OrJMT": {
-        "id": "kElM5OrJMT",
-        "title": "Красная таблетка",
-        "author": "Курпатов Андрей Владимирович",
-        "notes": "",
-        "createdAt": "2021-06-18 19:33:33",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 14
         }
     }
 }

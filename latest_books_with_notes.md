@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
 * Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 * *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
@@ -30,7 +31,6 @@
 * Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
 * Эндер (цикл) ~ [Chiffi](users/105/105831994080785626680-google)<sup>287</sup>
 * Зов Ктулху (не дочитан) ~ [hellhelen](users/248/248300842-vkontakte)<sup>63</sup>
-* Опусти голову - и вперёд ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>220</sup>
 
 
-_26.06.2021 07:58:01_
+_26.06.2021 09:37:17_

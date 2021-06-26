@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 51,
+        "updatedAt": "2021-06-26 09:37:17"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ..",
         "booksCount": 145,
         "updatedAt": "2021-06-06 15:53:08"
-    },
-    "118958415-vkontakte": {
-        "id": "118958415-vkontakte",
-        "nickname": "hoverlink",
-        "booksCount": 0,
-        "updatedAt": "2021-06-03 08:44:00"
     }
 }
