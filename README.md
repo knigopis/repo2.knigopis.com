@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ordeal595](users/101/101497995260874987681-google)<sup>0</sup> 
+[Ordeal595](users/101/101497995260874987681-google)<sup>1</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>865</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>11</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
 
 
-_26.06.2021 07:54:56_
+_26.06.2021 07:56:17_

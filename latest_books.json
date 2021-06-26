@@ -1,4 +1,16 @@
 {
+    "M76jay8_BP": {
+        "id": "M76jay8_BP",
+        "title": "Семь смертей Эвелины Хардкасл",
+        "author": "Стюарт Тортон",
+        "notes": "",
+        "createdAt": "2021-06-26 07:56:17",
+        "user": {
+            "id": "101497995260874987681-google",
+            "nickname": "Ordeal595",
+            "booksCount": 1
+        }
+    },
     "-NRiNVgnrC": {
         "id": "-NRiNVgnrC",
         "title": "Песнь Сюзанны",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 861
-        }
-    },
-    "q-jwLHpEbR": {
-        "id": "q-jwLHpEbR",
-        "title": "Фронтовые заметки из Новороссии",
-        "author": "Игорь Пыхалов",
-        "notes": "Статья-рассказ писателя Игоря Пыхалова о своей службе в батальоне \"Заря\" в августе-сентябре 2014 года.",
-        "createdAt": "2021-06-16 22:27:20",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 95
         }
     }
 }
