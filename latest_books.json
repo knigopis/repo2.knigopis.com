@@ -1,4 +1,16 @@
 {
+    "sp89zN1uZV": {
+        "id": "sp89zN1uZV",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-06-26 07:56:36",
+        "user": {
+            "id": "101497995260874987681-google",
+            "nickname": "Ordeal595",
+            "booksCount": 2
+        }
+    },
     "M76jay8_BP": {
         "id": "M76jay8_BP",
         "title": "Семь смертей Эвелины Хардкасл",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 14
-        }
-    },
-    "DBIpIL6PjW": {
-        "id": "DBIpIL6PjW",
-        "title": "Раб",
-        "author": "Исаак Башевис-Зингер",
-        "notes": "",
-        "createdAt": "2021-06-17 10:13:25",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 861
         }
     }
 }
