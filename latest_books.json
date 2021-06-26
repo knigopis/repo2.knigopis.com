@@ -1,4 +1,16 @@
 {
+    "mn6kKa6fY6": {
+        "id": "mn6kKa6fY6",
+        "title": "Человек в футляре",
+        "author": "Чехов А. П.",
+        "notes": "",
+        "createdAt": "2021-06-26 12:34:08",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 5
+        }
+    },
     "AcgenR_-jT": {
         "id": "AcgenR_-jT",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "1326779400711265-facebook",
             "nickname": "Боната",
             "booksCount": 9
-        }
-    },
-    "Zo0b_ga22X": {
-        "id": "Zo0b_ga22X",
-        "title": "Аварон",
-        "author": "Владимир Сорокин",
-        "notes": "",
-        "createdAt": "2021-06-21 07:41:48",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 261
         }
     }
 }
