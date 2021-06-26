@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Triste](users/517/5175580462988229760-mailru)<sup>3</sup> 
+[Triste](users/517/5175580462988229760-mailru)<sup>4</sup> 
 [](users/153/1537586159620888-facebook)<sup>47</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>288</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 
 
-_26.06.2021 12:33:28_
+_26.06.2021 12:33:39_
