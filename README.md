@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>47</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>288</sup> 
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>98</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
-[](users/153/1537586159620888-facebook)<sup>46</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>96</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 
 
-_26.06.2021 09:37:17_
+_26.06.2021 11:04:34_
