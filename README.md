@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
+    > Школьная литература.
+
 * Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
     > пойдет
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Необходимым довольствуются животные и варвары. Всякое развитие-это стремление к необязательно у и излишеству.
 
 * Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
-    > Наверное единственная книга, которую я прочитала буквально за один присест
 
 * *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
 
-* Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>47</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>288</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>176</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>336</sup> 
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 
 
-_26.06.2021 11:04:34_
+_26.06.2021 12:33:28_
