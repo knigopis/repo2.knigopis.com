@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
+    > Необходимым довольствуются животные и варвары. Всякое развитие-это стремление к необязательно у и излишеству.
+
 * Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
     > Наверное единственная книга, которую я прочитала буквально за один присест
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Случайная запись убийства на автоответчик.
 
 * Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
-    > Альтернативка
-    > Попаданец в Сибирь 17 век в пацана. Прогрессорство. Читать интересно. Если будет продолжение - читать обязательно
-    > Оценка 5-
 
 * Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Овод ~ [Rainbow](users/109/109787328219839805802-google)<sup>73</sup>
 
-* Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>288</sup> 
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>865</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>145</sup> 
 [hoverlink](users/118/118958415-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>287</sup> 
 
 
-_26.06.2021 07:56:36_
+_26.06.2021 07:58:01_
