@@ -1,4 +1,16 @@
 {
+    "ZW1lavl7uv": {
+        "id": "ZW1lavl7uv",
+        "title": "Гибридная Война",
+        "author": "Евгений Магда",
+        "notes": "",
+        "createdAt": "2021-06-27 04:33:24",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 97
+        }
+    },
     "mn6kKa6fY6": {
         "id": "mn6kKa6fY6",
         "title": "Человек в футляре",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 46
-        }
-    },
-    "vJ6TqCbKlj": {
-        "id": "vJ6TqCbKlj",
-        "title": "Жизнь Чака",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-06-21 11:37:52",
-        "user": {
-            "id": "1326779400711265-facebook",
-            "nickname": "Боната",
-            "booksCount": 9
         }
     }
 }

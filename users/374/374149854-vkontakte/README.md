@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>96</sup>
+# List of books read by danyluk62<sup>97</sup>
 ---
 
 ## 2021
+
+### Гибридная Война
+Евгений Магда
+> [2021-06] 
+
 
 ### Иловайский дневник
 Роман Зиненко

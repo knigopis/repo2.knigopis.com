@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>97</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 [](users/153/1537586159620888-facebook)<sup>47</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>96</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
 [dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 
 
-_26.06.2021 12:34:08_
+_27.06.2021 04:33:24_
