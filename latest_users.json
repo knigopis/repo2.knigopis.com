@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 208,
+        "updatedAt": "2021-06-27 20:29:49"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 336,
         "updatedAt": "2021-06-12 00:05:36"
-    },
-    "1619498-vkontakte": {
-        "id": "1619498-vkontakte",
-        "nickname": "pacifistx",
-        "booksCount": 0,
-        "updatedAt": "2021-06-09 09:16:32"
     }
 }
