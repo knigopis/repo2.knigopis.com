@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
+    > Хлеб насущный-милость божья, и оскорблять ее поспешанинм есть великий грех. Хоть и речено в "посланиях к евреям", что надобно укрепляться благодатью, а не явствами, но я рассудил, что я не еврей и потому могу укрепляться и тем и другим.
+
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
     > Школьная литература.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > пойдет
 
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
-    > Необходимым довольствуются животные и варвары. Всякое развитие-это стремление к необязательно у и излишеству.
 
 * Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
 
-* В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>289</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>97</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 [](users/153/1537586159620888-facebook)<sup>47</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>288</sup> 
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>865</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pacifistx](users/161/1619498-vkontakte)<sup>0</sup> 
 
 
-_27.06.2021 04:33:24_
+_27.06.2021 06:50:46_
