@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>162</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>209</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>289</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kishki](users/106/106256274804767210019-google)<sup>1</sup> 
 [hoemi](users/906/906605961-yandex)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>176</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>336</sup> 
 
 
-_27.06.2021 20:32:25_
+_27.06.2021 21:56:07_
