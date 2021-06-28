@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
+    > Читал
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
     > Хлеб насущный-милость божья, и оскорблять ее поспешанинм есть великий грех. Хоть и речено в "посланиях к евреям", что надобно укрепляться благодатью, а не явствами, но я рассудил, что я не еврей и потому могу укрепляться и тем и другим.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Школьная литература.
 
 * Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
-    > пойдет
 
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 
-* Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>109</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>162</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>209</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>108</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>98</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hoemi](users/906/906605961-yandex)<sup>0</sup> 
 
 
-_28.06.2021 03:12:30_
+_28.06.2021 07:21:45_

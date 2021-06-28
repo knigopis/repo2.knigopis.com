@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
 * Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
@@ -30,7 +31,6 @@
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
 * День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
 * «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
-* Дюна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>222</sup>
 
 
-_27.06.2021 06:50:46_
+_28.06.2021 07:21:45_
