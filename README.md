@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
+    > На самом деле в книге нет ничего нового, но написано душевно
+
 * Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
     > Читал
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хлеб насущный-милость божья, и оскорблять ее поспешанинм есть великий грех. Хоть и речено в "посланиях к евреям", что надобно укрепляться благодатью, а не явствами, но я рассудил, что я не еврей и потому могу укрепляться и тем и другим.
 
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
-    > Школьная литература.
 
 * Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
 
-* "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>15</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>109</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>162</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>865</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>11</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>14</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hoemi](users/906/906605961-yandex)<sup>0</sup> 
 
 
-_28.06.2021 07:21:45_
+_28.06.2021 16:03:18_

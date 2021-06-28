@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>14</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>15</sup>
 ---
 
 ## 2021
+
+### По любви
+Вася Аккерман
+> [2021-06-28] На самом деле в книге нет ничего нового, но написано душевно
+
 
 ### Поступай как женщина, думай как мужчина
 Стив Харви

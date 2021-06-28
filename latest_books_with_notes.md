@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
 * Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
 * День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
-* «Гармония премиум» ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>223</sup>
 
 
-_28.06.2021 07:21:45_
+_28.06.2021 16:03:18_
