@@ -1,4 +1,16 @@
 {
+    "0sZvos-M5e": {
+        "id": "0sZvos-M5e",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2021-06-29 16:49:37",
+        "user": {
+            "id": "1011685224-yandex",
+            "nickname": "One.more.777",
+            "booksCount": 6
+        }
+    },
     "n7Rvpp1fSb": {
         "id": "n7Rvpp1fSb",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "1326779400711265-facebook",
             "nickname": "Боната",
             "booksCount": 11
-        }
-    },
-    "PSrIfTpNk6": {
-        "id": "PSrIfTpNk6",
-        "title": "Трое в лодке, не считая собаки",
-        "author": "Джером К. Джером",
-        "notes": "",
-        "createdAt": "2021-06-23 21:41:50",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 50
         }
     }
 }
