@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>109</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>110</sup>
 ---
 
 ## 2021
+
+### Человек амфибия
+Александр Беляев
+> [2021-06-29] Читал
+
 
 ### Чапаев
 Дмитрий Фурманов

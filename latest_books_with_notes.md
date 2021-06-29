@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
 * По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
 * Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
@@ -30,7 +31,6 @@
 * БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
 * 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
-* День непослушания ~ [dromoman2008](users/444/44461886-yandex)<sup>41</sup>
 
 
-_28.06.2021 16:03:18_
+_29.06.2021 09:44:31_

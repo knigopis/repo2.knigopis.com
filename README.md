@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
+    > Читал
+
 * По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
     > На самом деле в книге нет ничего нового, но написано душевно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Читал
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
-    > Хлеб насущный-милость божья, и оскорблять ее поспешанинм есть великий грех. Хоть и речено в "посланиях к евреям", что надобно укрепляться благодатью, а не явствами, но я рассудил, что я не еврей и потому могу укрепляться и тем и другим.
 
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
 
-* Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>109</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>162</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>209</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hoemi](users/906/906605961-yandex)<sup>0</sup> 
 
 
-_28.06.2021 16:03:18_
+_29.06.2021 09:44:31_
