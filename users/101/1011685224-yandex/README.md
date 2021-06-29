@@ -1,4 +1,4 @@
-# List of books read by One.more.777<sup>6</sup>
+# List of books read by One.more.777<sup>7</sup>
 ---
 
 ## 2021
@@ -9,6 +9,10 @@
 
 
 ## 2019
+
+### Как говорить с кем угодно и о чем угодно
+Лейл Лаундес
+
 
 ### Мы
 Евгений Замятин
