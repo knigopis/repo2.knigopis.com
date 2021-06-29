@@ -1,4 +1,16 @@
 {
+    "1yjMVfVje5": {
+        "id": "1yjMVfVje5",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2021-06-29 16:57:40",
+        "user": {
+            "id": "1011685224-yandex",
+            "nickname": "One.more.777",
+            "booksCount": 12
+        }
+    },
     "4Na4eL7XY4": {
         "id": "4Na4eL7XY4",
         "title": "Мастерство общения",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 288
-        }
-    },
-    "sp89zN1uZV": {
-        "id": "sp89zN1uZV",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-06-26 07:56:36",
-        "user": {
-            "id": "101497995260874987681-google",
-            "nickname": "Ordeal595",
-            "booksCount": 2
         }
     }
 }
