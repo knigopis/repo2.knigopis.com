@@ -1,7 +1,11 @@
-# List of books read by One.more.777<sup>2</sup>
+# List of books read by One.more.777<sup>3</sup>
 ---
 
 ## 2019
+
+### О дивный новый мир
+Олдос Хаксли
+
 
 ### Скотный двор
 Джордж Оруэлл
