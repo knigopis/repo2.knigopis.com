@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[One.more.777](users/101/1011685224-yandex)<sup>4</sup> 
+[One.more.777](users/101/1011685224-yandex)<sup>5</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kishki](users/106/106256274804767210019-google)<sup>1</sup> 
 
 
-_29.06.2021 16:43:27_
+_29.06.2021 16:46:45_
