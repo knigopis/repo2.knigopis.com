@@ -1,4 +1,16 @@
 {
+    "4Na4eL7XY4": {
+        "id": "4Na4eL7XY4",
+        "title": "Мастерство общения",
+        "author": "Пол Макги",
+        "notes": "",
+        "createdAt": "2021-06-29 16:56:16",
+        "user": {
+            "id": "1011685224-yandex",
+            "nickname": "One.more.777",
+            "booksCount": 11
+        }
+    },
     "QcuXTwdigI": {
         "id": "QcuXTwdigI",
         "title": "Наука общения",
@@ -345,18 +357,6 @@
             "id": "101497995260874987681-google",
             "nickname": "Ordeal595",
             "booksCount": 2
-        }
-    },
-    "M76jay8_BP": {
-        "id": "M76jay8_BP",
-        "title": "Семь смертей Эвелины Хардкасл",
-        "author": "Стюарт Тортон",
-        "notes": "",
-        "createdAt": "2021-06-26 07:56:17",
-        "user": {
-            "id": "101497995260874987681-google",
-            "nickname": "Ordeal595",
-            "booksCount": 1
         }
     }
 }
