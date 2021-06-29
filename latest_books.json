@@ -1,4 +1,16 @@
 {
+    "dIZADvi5aR": {
+        "id": "dIZADvi5aR",
+        "title": "1984",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-06-29 16:41:15",
+        "user": {
+            "id": "1011685224-yandex",
+            "nickname": "One.more.777",
+            "booksCount": 1
+        }
+    },
     "ezq1Qt55IR": {
         "id": "ezq1Qt55IR",
         "title": "Человек амфибия",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 239
-        }
-    },
-    "HPfgCiBq0E": {
-        "id": "HPfgCiBq0E",
-        "title": "Американские боги",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2021-06-23 06:48:43",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 108
         }
     }
 }
