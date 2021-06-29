@@ -1,7 +1,11 @@
-# List of books read by One.more.777<sup>7</sup>
+# List of books read by One.more.777<sup>8</sup>
 ---
 
 ## 2021
+
+### Тонкое искусство пофигизма
+Марк Мэнсон
+
 
 ### Портрет Дориана Грея
 Оскар Уайльд

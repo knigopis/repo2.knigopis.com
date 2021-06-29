@@ -1,4 +1,16 @@
 {
+    "pb26MhJXCz": {
+        "id": "pb26MhJXCz",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2021-06-29 16:53:13",
+        "user": {
+            "id": "1011685224-yandex",
+            "nickname": "One.more.777",
+            "booksCount": 8
+        }
+    },
     "shX6nX7Vj_": {
         "id": "shX6nX7Vj_",
         "title": "Как говорить с кем угодно и о чем угодно",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 103
-        }
-    },
-    "Z8o0t1psNY": {
-        "id": "Z8o0t1psNY",
-        "title": "Через реку",
-        "author": "Джон Голсуорси",
-        "notes": "",
-        "createdAt": "2021-06-24 15:45:53",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 865
         }
     }
 }
