@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>145</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>146</sup>
 ---
 
 ## 2021
+
+### Ка. Дарр Дубраули в руинах Имра
+Джон Краули
+> [2021-06-30] 
+
 
 ### Инквизитор
 Яна Тулиша

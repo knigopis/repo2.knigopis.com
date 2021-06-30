@@ -1,4 +1,16 @@
 {
+    "UW97s8bt_j": {
+        "id": "UW97s8bt_j",
+        "title": "Ка. Дарр Дубраули в руинах Имра",
+        "author": "Джон Краули",
+        "notes": "",
+        "createdAt": "2021-06-30 11:49:36",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 146
+        }
+    },
     "B2X-5X54ac": {
         "id": "B2X-5X54ac",
         "title": "451 градус по Фарингейту",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 47
-        }
-    },
-    "OYHxmEtECH": {
-        "id": "OYHxmEtECH",
-        "title": "Я – княгиня Ольга. Первая женщина на русском престоле",
-        "author": "Наталья Павлищева",
-        "notes": "пойдет",
-        "createdAt": "2021-06-26 09:37:17",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 51
         }
     }
 }
