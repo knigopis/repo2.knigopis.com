@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сліди на дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup>
+    > 9/10 Відщверта розповідь про стан армії на початок АТО.
+
 * Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
     > 9/10 Ленґольєри пожирають вчорашній день. Таємне вікно, таємний сад, де письменника переслідує загадковий персонаж. Бібліотечний полісмен вимагає повернення книг. Сонячний пес, що ось-ось вискоче з полароїдного фото.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Приложение для поиска ДНК-пары разрушает жизнб людей.
 
 * Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
-    > Читал
 
 * По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
 
-* Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>146</sup> 
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 
 
-_30.06.2021 14:43:21_
+_30.06.2021 14:44:24_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>198</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>199</sup>
 ---
 
 ## 2021
+
+### Сліди на дорозі
+Валерій Ананьєв (Маркус)
+> [2021-06-29] 9/10 Відщверта розповідь про стан армії на початок АТО.
+
 
 ### Чотири після півночі. Збірка
 Стівен Кінг

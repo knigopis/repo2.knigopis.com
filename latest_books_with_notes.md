@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сліди на дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup>
 * Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
 * Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
 * Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
@@ -30,7 +31,6 @@
 * Менше знаєш, краще спис ~ [danyluk62](users/374/374149854-vkontakte)<sup>89</sup>
 * Смерть ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup>
 * 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
-* БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
 
 
-_30.06.2021 14:43:21_
+_30.06.2021 14:44:24_
