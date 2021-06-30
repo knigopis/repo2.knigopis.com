@@ -1,4 +1,4 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>196</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>197</sup>
 ---
 
 ## 2021
@@ -6,6 +6,11 @@
 ### *69
 Блэйк Крауч
 > [2021-06-21] 9/10 Случайная запись убийства на автоответчик.
+
+
+### Единственная/единственный The One
+Джон Маррс
+> [2021-06-20] 10/10 Приложение для поиска ДНК-пары разрушает жизнб людей.
 
 
 ### В высокой траве

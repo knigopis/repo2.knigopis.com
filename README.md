@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
+    > 10/10 Приложение для поиска ДНК-пары разрушает жизнб людей.
+
 * Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
     > Читал
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > На самом деле в книге нет ничего нового, но написано душевно
 
 * Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
-    > Читал
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
 
-* Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>146</sup> 
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>98</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 
 
-_30.06.2021 11:49:36_
+_30.06.2021 14:40:21_

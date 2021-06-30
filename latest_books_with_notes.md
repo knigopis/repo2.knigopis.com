@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
 * Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
 * По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
 * Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
@@ -30,7 +31,6 @@
 * 100 великих тайн нового времени ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>193</sup>
 * БлокАда ~ [dromoman2008](users/444/44461886-yandex)<sup>44</sup>
 * Брошенная колония ~ [dromoman2008](users/444/44461886-yandex)<sup>43</sup>
-* 1970 ~ [dromoman2008](users/444/44461886-yandex)<sup>42</sup>
 
 
-_29.06.2021 09:44:31_
+_30.06.2021 14:40:21_
