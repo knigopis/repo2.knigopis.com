@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
 * Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 * Сліди на дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup>
 * Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
@@ -30,7 +31,6 @@
 * Ур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>229</sup>
 * Храм из костей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup>
 * Менше знаєш, краще спис ~ [danyluk62](users/374/374149854-vkontakte)<sup>89</sup>
-* Смерть ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>225</sup>
 
 
-_01.07.2021 04:13:03_
+_01.07.2021 16:12:43_

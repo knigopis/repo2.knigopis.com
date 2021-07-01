@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
+    > Альтернативка. Попаданец в Уизли из Гарри Поттера. Первый раз такое читаю - как то не очень
+    > Оценка 3
+
 * Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
     > «Ребенок – как струна на арфе: невозможно выжать из нее звук, превышающий ее силу. Она просто лопнет…
     > 	Ребенок похож и на ручей – нельзя запрудить его и надеяться, что после этого он будет лучше служить кому-то, став болотом…
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > 9/10 Відщверта розповідь про стан армії на початок АТО.
 
 * Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
-    > 9/10 Ленґольєри пожирають вчорашній день. Таємне вікно, таємний сад, де письменника переслідує загадковий персонаж. Бібліотечний полісмен вимагає повернення книг. Сонячний пес, що ось-ось вискоче з полароїдного фото.
 
 * Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
 
-* Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>50</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>289</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>98</sup> 
@@ -58,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>98</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>49</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
@@ -68,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 
 
-_01.07.2021 13:33:32_
+_01.07.2021 16:12:43_
