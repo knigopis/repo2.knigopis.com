@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 98,
+        "updatedAt": "2021-07-01 03:40:14"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -52,12 +58,6 @@
         "nickname": "Chiffi",
         "booksCount": 289,
         "updatedAt": "2021-06-27 06:50:45"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 97,
-        "updatedAt": "2021-06-27 04:33:24"
     },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",

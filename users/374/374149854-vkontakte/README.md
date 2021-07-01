@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>97</sup>
+# List of books read by danyluk62<sup>98</sup>
 ---
 
 ## 2021
+
+### Посетитель
+Михаил Манченко
+> [2021-07] 
+
 
 ### Гибридная Война
 Евгений Магда
