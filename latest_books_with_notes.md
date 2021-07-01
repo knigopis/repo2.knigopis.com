@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
 * Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
 * Охотник и вторая Охота на охотника ~ [dromoman2008](users/444/44461886-yandex)<sup>51</sup>
 * Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
 * Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
 * Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
-* Ур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>229</sup>
 
 
-_01.07.2021 16:22:53_
+_01.07.2021 16:27:15_

@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
+    > Альтернативка
+    > Попаданец в князя Романова Алексея Михайловича, который после болезни попадает в Порт-Артур . Конец автор "слил".
+    > Оценка 4-
+
 * Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
     > Серия из 3? книг
     > Героическая фантастика
@@ -18,8 +23,6 @@ Do not use pull requests to make changes here.
     > Оценка 3
 
 * Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
-    > Альтернативка. Попаданец в Уизли из Гарри Поттера. Первый раз такое читаю - как то не очень
-    > Оценка 3
 
 * Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 
@@ -33,14 +36,12 @@ Do not use pull requests to make changes here.
 
 * По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
 
-* Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>52</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>53</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>289</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>98</sup> 
@@ -72,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 
 
-_01.07.2021 16:22:53_
+_01.07.2021 16:27:15_
