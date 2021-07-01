@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
+    > Серия из 2 книг
+    > Космическая фантастика. Боевая фантастика
+    > Выживание в космосе
+    > Оценка - 5-
+
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
     > Альтернативка
     > Попаданец в князя Романова Алексея Михайловича, который после болезни попадает в Порт-Артур . Конец автор "слил".
@@ -17,10 +23,6 @@ Do not use pull requests to make changes here.
     > Оценка 3-
 
 * Охотник и вторая Охота на охотника ~ [dromoman2008](users/444/44461886-yandex)<sup>51</sup>
-    > Боевая фантастика из 2 книг
-    > Аксель готовится пойти по стопам отца и стать горным инженером. Обнаруживаются другие способности и выбора нет. Становится учеником охотницы на чудовищ..
-    > Автор пишет не интересно, сюжет - тоже не интересный
-    > Оценка 3
 
 * Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
 
@@ -34,14 +36,12 @@ Do not use pull requests to make changes here.
 
 * Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
 
-* По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>53</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>289</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>98</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 
 
-_01.07.2021 16:27:15_
+_01.07.2021 16:30:37_

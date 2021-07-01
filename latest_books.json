@@ -1,4 +1,16 @@
 {
+    "Ulaeegkuoa": {
+        "id": "Ulaeegkuoa",
+        "title": "Механик",
+        "author": "Усманов Хайдарали",
+        "notes": "Серия из 2 книг\nКосмическая фантастика. Боевая фантастика\nВыживание в космосе\nОценка - 5-",
+        "createdAt": "2021-07-01 16:30:37",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 54
+        }
+    },
     "38sTmYXpad": {
         "id": "38sTmYXpad",
         "title": "Взгляд василиска",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 339
-        }
-    },
-    "CfLdlKRBgs": {
-        "id": "CfLdlKRBgs",
-        "title": "Откровение матери о родах, и не только о них",
-        "author": "Киржаева Алла",
-        "notes": "",
-        "createdAt": "2021-06-28 03:09:23",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 338
         }
     }
 }
