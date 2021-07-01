@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
 * Охотник и вторая Охота на охотника ~ [dromoman2008](users/444/44461886-yandex)<sup>51</sup>
 * Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
 * Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
@@ -30,7 +31,6 @@
 * Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
 * Лечение от любви (и другие психотерапевтические новеллы) ~ [dmiro](users/571/5714115-vkontakte)<sup>46</sup>
 * Ур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>229</sup>
-* Храм из костей ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>226</sup>
 
 
-_01.07.2021 16:18:06_
+_01.07.2021 16:22:53_
