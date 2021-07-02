@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
 * Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
 * Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
 * Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
 * Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
-* Нездоровье ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>231</sup>
 
 
-_01.07.2021 16:30:37_
+_02.07.2021 18:35:09_

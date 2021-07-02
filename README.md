@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
+    > в отличие от собаки, кошка сама решает, кого и когда следует убить.
+    > 	А потом придёт ластиться к тому, кого любит.
+
 * Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
     > Серия из 2 книг
     > Космическая фантастика. Боевая фантастика
@@ -17,10 +21,6 @@ Do not use pull requests to make changes here.
     > Оценка 4-
 
 * Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
-    > Серия из 3? книг
-    > Героическая фантастика
-    > В мир пришла магия. Главный герой становится боевым магом. Не дочитал. Главгерой не интересный, инфантильный, все им вертят как хотят и читать не интересно
-    > Оценка 3-
 
 * Охотник и вторая Охота на охотника ~ [dromoman2008](users/444/44461886-yandex)<sup>51</sup>
 
@@ -34,18 +34,16 @@ Do not use pull requests to make changes here.
 
 * Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
 
-* Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>290</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>99</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>326</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>289</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>98</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>146</sup> 
@@ -73,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
 
 
-_02.07.2021 07:01:36_
+_02.07.2021 18:35:09_
