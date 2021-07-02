@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>326</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>289</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>21</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>288</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>46</sup> 
 
 
-_01.07.2021 16:30:37_
+_02.07.2021 06:48:59_

@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 326,
+        "updatedAt": "2021-07-02 06:48:59"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 288,
         "updatedAt": "2021-06-13 10:29:54"
-    },
-    "5714115-vkontakte": {
-        "id": "5714115-vkontakte",
-        "nickname": "dmiro",
-        "booksCount": 46,
-        "updatedAt": "2021-06-13 07:31:43"
     }
 }
