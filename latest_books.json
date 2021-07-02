@@ -1,4 +1,16 @@
 {
+    "IV0EQZJlfC": {
+        "id": "IV0EQZJlfC",
+        "title": "Г. Иган",
+        "author": "Заводная ракета",
+        "notes": "",
+        "createdAt": "2021-07-02 07:01:36",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 99
+        }
+    },
     "ZA4sC3zMCW": {
         "id": "ZA4sC3zMCW",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 109
-        }
-    },
-    "YS_SJw8XpB": {
-        "id": "YS_SJw8XpB",
-        "title": "Рожаю! Записки сумасшедшей мамочки",
-        "author": "Честнова Ирина",
-        "notes": "",
-        "createdAt": "2021-06-28 03:12:30",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 340
         }
     }
 }
