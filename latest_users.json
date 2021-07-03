@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 12,
+        "updatedAt": "2021-07-03 20:05:58"
+    },
     "106525547149695326212-google": {
         "id": "106525547149695326212-google",
         "nickname": "Рамиля",
@@ -172,11 +178,5 @@
         "nickname": "dakeyrase",
         "booksCount": 0,
         "updatedAt": "2021-06-16 20:12:31"
-    },
-    "3448154788585127-facebook": {
-        "id": "3448154788585127-facebook",
-        "nickname": "Пу_тем",
-        "booksCount": 21,
-        "updatedAt": "2021-06-16 03:41:25"
     }
 }

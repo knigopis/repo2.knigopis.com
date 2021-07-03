@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>11</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>12</sup>
 ---
 
 ## 2021
+
+### Милый друг
+Ги Дэ Мопассан
+> [2021-07-03] 
+
 
 ### Sha po lang (Убить волка)
 Priest
