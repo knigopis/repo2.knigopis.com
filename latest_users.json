@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 163,
+        "updatedAt": "2021-07-03 20:12:13"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -82,12 +88,6 @@
         "nickname": "Йолант",
         "booksCount": 340,
         "updatedAt": "2021-06-28 03:12:30"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 162,
-        "updatedAt": "2021-06-27 21:56:07"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
