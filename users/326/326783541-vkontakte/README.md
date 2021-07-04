@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>12</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>13</sup>
 ---
 
 ## 2021
+
+### Благословение небожителей
+Мосян Тунсю
+> [2021-07-04] 
+
 
 ### Милый друг
 Ги Дэ Мопассан

@@ -37,11 +37,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>99</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup> 
 [Sonya](users/107/107611652965676430384-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>163</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>12</sup> 
 [Рамиля](users/106/106525547149695326212-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>290</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>99</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
 
 
-_04.07.2021 16:21:58_
+_04.07.2021 19:02:54_
