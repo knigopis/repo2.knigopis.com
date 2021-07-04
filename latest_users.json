@@ -1,4 +1,10 @@
 {
+    "107611652965676430384-google": {
+        "id": "107611652965676430384-google",
+        "nickname": "Sonya",
+        "booksCount": 0,
+        "updatedAt": "2021-07-04 06:47:39"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "develchip",
         "booksCount": 69,
         "updatedAt": "2021-06-20 05:26:35"
-    },
-    "64253628-yandex": {
-        "id": "64253628-yandex",
-        "nickname": "dakeyrase",
-        "booksCount": 0,
-        "updatedAt": "2021-06-16 20:12:31"
     }
 }
