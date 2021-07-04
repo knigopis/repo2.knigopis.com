@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sonya](users/107/107611652965676430384-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>163</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>12</sup> 
 [Рамиля](users/106/106525547149695326212-google)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
-[dakeyrase](users/642/64253628-yandex)<sup>0</sup> 
 
 
-_03.07.2021 20:12:13_
+_04.07.2021 06:47:39_
