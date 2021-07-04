@@ -1,4 +1,16 @@
 {
+    "dJsUoCycKZ": {
+        "id": "dJsUoCycKZ",
+        "title": "Оповідь служниці",
+        "author": "Марґарет Етвуд",
+        "notes": "10/10 Новостворена країна Гілеад, де жінки служать тільки для ародження дітей.",
+        "createdAt": "2021-07-04 06:52:58",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 200
+        }
+    },
     "SVcv5A5dQ4": {
         "id": "SVcv5A5dQ4",
         "title": "Иванова катер",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 2
-        }
-    },
-    "dIZADvi5aR": {
-        "id": "dIZADvi5aR",
-        "title": "1984",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-06-29 16:41:15",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 1
         }
     }
 }

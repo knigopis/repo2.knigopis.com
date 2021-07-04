@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>199</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>200</sup>
 ---
 
 ## 2021
+
+### Оповідь служниці
+Марґарет Етвуд
+> [2021-07-03] 10/10 Новостворена країна Гілеад, де жінки служать тільки для ародження дітей.
+
 
 ### Сліди на дорозі
 Валерій Ананьєв (Маркус)

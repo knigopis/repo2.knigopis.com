@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
 * Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
 * Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
 * Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
 * Алюмен (серия ~ [dromoman2008](users/444/44461886-yandex)<sup>46</sup>
-* Колхозное строительство (серия из 5 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>45</sup>
 
 
-_02.07.2021 18:35:09_
+_04.07.2021 06:52:59_

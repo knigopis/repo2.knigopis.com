@@ -1,4 +1,16 @@
 {
+    "dJsUoCycKZ": {
+        "id": "dJsUoCycKZ",
+        "title": "Оповідь служниці",
+        "author": "Марґарет Етвуд",
+        "notes": "10/10 Новостворена країна Гілеад, де жінки служать тільки для ародження дітей.",
+        "createdAt": "2021-07-04 06:52:58",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 200
+        }
+    },
     "GOYUy4jPLq": {
         "id": "GOYUy4jPLq",
         "title": "Герметикон. Не видя звёзд",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 46
-        }
-    },
-    "joa1karoSl": {
-        "id": "joa1karoSl",
-        "title": "Колхозное строительство (серия из 5 книг)",
-        "author": "Шопперт Андрей",
-        "notes": "Альтернативка.\nАвтор не адекватен. Проверится ему у психиатра\nОценка 2",
-        "createdAt": "2021-06-13 08:04:57",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 45
         }
     }
 }

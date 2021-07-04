@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
+    > 10/10 Новостворена країна Гілеад, де жінки служать тільки для ародження дітей.
+
 * Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
     > в отличие от собаки, кошка сама решает, кого и когда следует убить.
     > 	А потом придёт ластиться к тому, кого любит.
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка - 5-
 
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
-    > Альтернативка
-    > Попаданец в князя Романова Алексея Михайловича, который после болезни попадает в Порт-Артур . Конец автор "слил".
-    > Оценка 4-
 
 * Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
 
-* Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup> 
 [Sonya](users/107/107611652965676430384-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>163</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>12</sup> 
@@ -49,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>98</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>146</sup> 
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
@@ -71,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
 
 
-_04.07.2021 06:47:39_
+_04.07.2021 06:52:59_
