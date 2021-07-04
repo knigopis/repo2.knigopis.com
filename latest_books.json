@@ -1,4 +1,16 @@
 {
+    "kSN3vLZHae": {
+        "id": "kSN3vLZHae",
+        "title": "Планета людей",
+        "author": "Антуан Де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2021-07-04 19:29:59",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 75
+        }
+    },
     "1FQ_DdiSWz": {
         "id": "1FQ_DdiSWz",
         "title": "Благословение небожителей",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 5
-        }
-    },
-    "OOrGoPt3f1": {
-        "id": "OOrGoPt3f1",
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2021-06-29 16:43:27",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 4
         }
     }
 }

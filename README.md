@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>75</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>99</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup> 
@@ -63,10 +64,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>74</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>261</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>69</sup> 
 
 
-_04.07.2021 19:02:54_
+_04.07.2021 19:29:59_

@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>74</sup>
+# List of books read by Rainbow<sup>75</sup>
 ---
 
 ## 2021
+
+### Планета людей
+Антуан Де Сент-Экзюпери
+> [2021-07-04] 
+
 
 ### Сиддхартха
 Герман Гессе
