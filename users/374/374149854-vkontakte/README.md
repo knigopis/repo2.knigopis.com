@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>98</sup>
+# List of books read by danyluk62<sup>99</sup>
 ---
 
 ## 2021
+
+### Луганское направление
+Глеб Бобров
+> [2021-07] 
+
 
 ### Посетитель
 Михаил Манченко

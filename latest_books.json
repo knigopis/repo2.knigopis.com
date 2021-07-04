@@ -1,4 +1,16 @@
 {
+    "7xH1YYpGO4": {
+        "id": "7xH1YYpGO4",
+        "title": "Луганское направление",
+        "author": "Глеб Бобров",
+        "notes": "",
+        "createdAt": "2021-07-04 16:21:58",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 99
+        }
+    },
     "dJsUoCycKZ": {
         "id": "dJsUoCycKZ",
         "title": "Оповідь служниці",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 3
-        }
-    },
-    "_tikljTpmx": {
-        "id": "_tikljTpmx",
-        "title": "Скотный двор",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2021-06-29 16:42:14",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 2
         }
     }
 }
