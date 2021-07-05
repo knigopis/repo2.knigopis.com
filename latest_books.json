@@ -1,4 +1,16 @@
 {
+    "qnxqT9Szjx": {
+        "id": "qnxqT9Szjx",
+        "title": "Поколение П",
+        "author": "В. О. Пелевин",
+        "notes": "",
+        "createdAt": "2021-07-05 05:24:26",
+        "user": {
+            "id": "362555681-vkontakte",
+            "nickname": "ergindahouse",
+            "booksCount": 1
+        }
+    },
     "kSN3vLZHae": {
         "id": "kSN3vLZHae",
         "title": "Планета людей",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 6
-        }
-    },
-    "n7Rvpp1fSb": {
-        "id": "n7Rvpp1fSb",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2021-06-29 16:46:45",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 5
         }
     }
 }

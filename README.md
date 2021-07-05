@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ergindahouse](users/362/362555681-vkontakte)<sup>0</sup> 
+[ergindahouse](users/362/362555681-vkontakte)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>75</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>99</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 
 
-_05.07.2021 05:23:40_
+_05.07.2021 05:24:26_
