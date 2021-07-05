@@ -1,4 +1,10 @@
 {
+    "362555681-vkontakte": {
+        "id": "362555681-vkontakte",
+        "nickname": "ergindahouse",
+        "booksCount": 0,
+        "updatedAt": "2021-07-05 05:23:40"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Elixir",
         "booksCount": 433,
         "updatedAt": "2021-06-20 10:05:36"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 69,
-        "updatedAt": "2021-06-20 05:26:35"
     }
 }
