@@ -1,4 +1,16 @@
 {
+    "MRffczHTdy": {
+        "id": "MRffczHTdy",
+        "title": "Записки старого козла",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2021-07-06 07:58:11",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 262
+        }
+    },
     "vs9hz9gO9V": {
         "id": "vs9hz9gO9V",
         "title": "Леди Макбет Мценского уезда",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 8
-        }
-    },
-    "shX6nX7Vj_": {
-        "id": "shX6nX7Vj_",
-        "title": "Как говорить с кем угодно и о чем угодно",
-        "author": "Лейл Лаундес",
-        "notes": "",
-        "createdAt": "2021-06-29 16:52:08",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 7
         }
     }
 }
