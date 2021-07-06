@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>21</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>22</sup>
 ---
 
 ## 2021
+
+### Шестерка воронов
+Бардуго Ли
+> [2021-07-06] 
+
 
 ### Ход королевы
 Тевис Уолтер

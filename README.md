@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>262</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>105</sup> 
 [ergindahouse](users/362/362555681-vkontakte)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 [April Sunderland](users/172/172060772-vkontakte)<sup>3</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 
 
-_06.07.2021 07:58:11_
+_06.07.2021 08:32:10_
