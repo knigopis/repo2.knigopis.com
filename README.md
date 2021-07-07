@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>147</sup> 
 [Julia Lapan](users/791/791518651-soundcloud)<sup>13</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>341</sup> 
 [nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>326</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>146</sup> 
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 
 
-_07.07.2021 16:59:31_
+_07.07.2021 22:42:20_
