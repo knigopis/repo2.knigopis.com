@@ -1,4 +1,16 @@
 {
+    "zPQrfG2rUU": {
+        "id": "zPQrfG2rUU",
+        "title": "Фальшивые зеркала",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2021-07-07 16:54:09",
+        "user": {
+            "id": "791518651-soundcloud",
+            "nickname": "Julia Lapan",
+            "booksCount": 2
+        }
+    },
     "Bl2jKICNEw": {
         "id": "Bl2jKICNEw",
         "title": "Лабиринт отражений",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 12
-        }
-    },
-    "4Na4eL7XY4": {
-        "id": "4Na4eL7XY4",
-        "title": "Мастерство общения",
-        "author": "Пол Макги",
-        "notes": "",
-        "createdAt": "2021-06-29 16:56:16",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 11
         }
     }
 }
