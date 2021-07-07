@@ -1,4 +1,16 @@
 {
+    "1gJyKN3ct8": {
+        "id": "1gJyKN3ct8",
+        "title": "Луна и Грош",
+        "author": "Сомерсет Моэм",
+        "notes": "",
+        "createdAt": "2021-07-07 16:54:56",
+        "user": {
+            "id": "791518651-soundcloud",
+            "nickname": "Julia Lapan",
+            "booksCount": 4
+        }
+    },
     "bC58Ed_YSD": {
         "id": "bC58Ed_YSD",
         "title": "Прозрачные витражи",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 146
-        }
-    },
-    "B2X-5X54ac": {
-        "id": "B2X-5X54ac",
-        "title": "451 градус по Фарингейту",
-        "author": "Рэй Бредберри",
-        "notes": "",
-        "createdAt": "2021-06-29 17:03:25",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 13
         }
     }
 }
