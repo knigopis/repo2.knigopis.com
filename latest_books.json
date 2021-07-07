@@ -1,4 +1,16 @@
 {
+    "1pgj8bon3z": {
+        "id": "1pgj8bon3z",
+        "title": "Государь",
+        "author": "Никколо Макиавелли",
+        "notes": "",
+        "createdAt": "2021-07-07 16:56:50",
+        "user": {
+            "id": "791518651-soundcloud",
+            "nickname": "Julia Lapan",
+            "booksCount": 8
+        }
+    },
     "lp_1ZBP96E": {
         "id": "lp_1ZBP96E",
         "title": "Король Лип",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 98
-        }
-    },
-    "FwgLzCVqMy": {
-        "id": "FwgLzCVqMy",
-        "title": "Сліди на дорозі",
-        "author": "Валерій Ананьєв (Маркус)",
-        "notes": "9/10 Відщверта розповідь про стан армії на початок АТО.",
-        "createdAt": "2021-06-30 14:44:24",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 199
         }
     }
 }

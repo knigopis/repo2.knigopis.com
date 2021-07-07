@@ -1,4 +1,4 @@
-# List of books read by [Julia Lapan](https://soundcloud.com/julia-lapan-741189633)<sup>7</sup>
+# List of books read by [Julia Lapan](https://soundcloud.com/julia-lapan-741189633)<sup>8</sup>
 ---
 
 ## 2021
@@ -6,6 +6,11 @@
 ### Отцы и Дети
 Иван Тургенев
 > [2021-06] 
+
+
+### Государь
+Никколо Макиавелли
+> [2021-05] 
 
 
 ### Трудно быть богом
