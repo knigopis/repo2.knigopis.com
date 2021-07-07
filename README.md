@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Julia Lapan](users/791/791518651-soundcloud)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>341</sup> 
 [nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>22</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>865</sup> 
 [Боната](users/132/1326779400711265-facebook)<sup>11</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 
 
-_07.07.2021 15:41:58_
+_07.07.2021 16:52:19_
