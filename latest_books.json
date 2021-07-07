@@ -1,4 +1,16 @@
 {
+    "Bl2jKICNEw": {
+        "id": "Bl2jKICNEw",
+        "title": "Лабиринт отражений",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2021-07-07 16:53:46",
+        "user": {
+            "id": "791518651-soundcloud",
+            "nickname": "Julia Lapan",
+            "booksCount": 1
+        }
+    },
     "UnM5rTCgAn": {
         "id": "UnM5rTCgAn",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 11
-        }
-    },
-    "QcuXTwdigI": {
-        "id": "QcuXTwdigI",
-        "title": "Наука общения",
-        "author": "Ванесса Эванс",
-        "notes": "",
-        "createdAt": "2021-06-29 16:55:07",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 10
         }
     }
 }
