@@ -1,4 +1,16 @@
 {
+    "aDE_Zw_xK8": {
+        "id": "aDE_Zw_xK8",
+        "title": "Трудно быть богом",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2021-07-07 16:55:40",
+        "user": {
+            "id": "791518651-soundcloud",
+            "nickname": "Julia Lapan",
+            "booksCount": 5
+        }
+    },
     "1gJyKN3ct8": {
         "id": "1gJyKN3ct8",
         "title": "Луна и Грош",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 197
-        }
-    },
-    "UW97s8bt_j": {
-        "id": "UW97s8bt_j",
-        "title": "Ка. Дарр Дубраули в руинах Имра",
-        "author": "Джон Краули",
-        "notes": "",
-        "createdAt": "2021-06-30 11:49:36",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 146
         }
     }
 }

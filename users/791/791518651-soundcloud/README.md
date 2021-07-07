@@ -1,7 +1,12 @@
-# List of books read by [Julia Lapan](https://soundcloud.com/julia-lapan-741189633)<sup>4</sup>
+# List of books read by [Julia Lapan](https://soundcloud.com/julia-lapan-741189633)<sup>5</sup>
 ---
 
 ## 2021
+
+### Трудно быть богом
+Аркадий и Борис Стругацкие
+> [2021-04] 
+
 
 ### Луна и Грош
 Сомерсет Моэм
