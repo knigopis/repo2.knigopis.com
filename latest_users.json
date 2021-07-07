@@ -1,4 +1,10 @@
 {
+    "107015185865743977724-google": {
+        "id": "107015185865743977724-google",
+        "nickname": "nzakirov",
+        "booksCount": 0,
+        "updatedAt": "2021-07-07 14:02:23"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 239,
         "updatedAt": "2021-06-23 13:45:56"
-    },
-    "172060772-vkontakte": {
-        "id": "172060772-vkontakte",
-        "nickname": "April Sunderland",
-        "booksCount": 3,
-        "updatedAt": "2021-06-23 00:05:28"
     }
 }
