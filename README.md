@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>341</sup> 
 [nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>262</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>209</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>239</sup> 
 
 
-_07.07.2021 14:02:24_
+_07.07.2021 15:41:58_
