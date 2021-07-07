@@ -1,4 +1,16 @@
 {
+    "bC58Ed_YSD": {
+        "id": "bC58Ed_YSD",
+        "title": "Прозрачные витражи",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2021-07-07 16:54:28",
+        "user": {
+            "id": "791518651-soundcloud",
+            "nickname": "Julia Lapan",
+            "booksCount": 3
+        }
+    },
     "zPQrfG2rUU": {
         "id": "zPQrfG2rUU",
         "title": "Фальшивые зеркала",
@@ -345,18 +357,6 @@
             "id": "1011685224-yandex",
             "nickname": "One.more.777",
             "booksCount": 13
-        }
-    },
-    "1yjMVfVje5": {
-        "id": "1yjMVfVje5",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "",
-        "createdAt": "2021-06-29 16:57:40",
-        "user": {
-            "id": "1011685224-yandex",
-            "nickname": "One.more.777",
-            "booksCount": 12
         }
     }
 }
