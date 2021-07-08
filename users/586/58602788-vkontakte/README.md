@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>62</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>63</sup>
 ---
 
 ## 2021
+
+### Обскура
+Режи Дескотт
+> [2021-06] 
+
 
 ### Воздушный замок
 Диана Уинн Джонс

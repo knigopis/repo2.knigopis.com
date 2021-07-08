@@ -1,4 +1,16 @@
 {
+    "gQINye3325": {
+        "id": "gQINye3325",
+        "title": "Обскура",
+        "author": "Режи Дескотт",
+        "notes": "",
+        "createdAt": "2021-07-08 20:39:00",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 63
+        }
+    },
     "aYYnOGdg3F": {
         "id": "aYYnOGdg3F",
         "title": "Осиная Фабрика",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 99
-        }
-    },
-    "ZA4sC3zMCW": {
-        "id": "ZA4sC3zMCW",
-        "title": "",
-        "author": "Антуан де Сент-Экзюпери Маленький принц",
-        "notes": "",
-        "createdAt": "2021-07-02 06:48:59",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 326
         }
     }
 }

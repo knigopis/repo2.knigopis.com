@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 63,
+        "updatedAt": "2021-07-08 20:39:00"
+    },
     "791518651-soundcloud": {
         "id": "791518651-soundcloud",
         "nickname": "SuperJu",
@@ -172,11 +178,5 @@
         "nickname": "Боната",
         "booksCount": 11,
         "updatedAt": "2021-06-24 11:38:47"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 50,
-        "updatedAt": "2021-06-23 21:41:50"
     }
 }
