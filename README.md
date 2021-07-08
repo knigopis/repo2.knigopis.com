@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
+    > 10/10 Занепад Гілеаду.
+
 * Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
     > 10/10 Новостворена країна Гілеад, де жінки служать тільки для ародження дітей.
 
@@ -13,10 +16,6 @@ Do not use pull requests to make changes here.
     > 	А потом придёт ластиться к тому, кого любит.
 
 * Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
-    > Серия из 2 книг
-    > Космическая фантастика. Боевая фантастика
-    > Выживание в космосе
-    > Оценка - 5-
 
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
 
@@ -30,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Сліди на дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup>
 
-* Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>147</sup> 
 [Julia Lapan](users/791/791518651-soundcloud)<sup>13</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>341</sup> 
@@ -48,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>75</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>99</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup> 
 [Sonya](users/107/107611652965676430384-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>163</sup> 
 [Рамиля](users/106/106525547149695326212-google)<sup>0</sup> 
@@ -69,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 
 
-_07.07.2021 22:42:20_
+_08.07.2021 18:03:32_

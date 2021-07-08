@@ -1,4 +1,16 @@
 {
+    "bOQ0KZyvrW": {
+        "id": "bOQ0KZyvrW",
+        "title": "Заповіти",
+        "author": "Марґарет Етвуд",
+        "notes": "10/10 Занепад Гілеаду.",
+        "createdAt": "2021-07-08 18:03:32",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 201
+        }
+    },
     "dJsUoCycKZ": {
         "id": "dJsUoCycKZ",
         "title": "Оповідь служниці",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 47
-        }
-    },
-    "A3c1b7E3yA": {
-        "id": "A3c1b7E3yA",
-        "title": "Алюмен (серия",
-        "author": "Олди -Валенитнов",
-        "notes": "Альтернативка\nСерия. Не смог продраться через множество героев -Скучно, не интересно. Не мое\nОценка 2",
-        "createdAt": "2021-06-13 08:08:01",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 46
         }
     }
 }
