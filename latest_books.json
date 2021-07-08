@@ -1,4 +1,16 @@
 {
+    "aYYnOGdg3F": {
+        "id": "aYYnOGdg3F",
+        "title": "Осиная Фабрика",
+        "author": "Иэн Бэнкс",
+        "notes": "",
+        "createdAt": "2021-07-08 19:44:25",
+        "user": {
+            "id": "791518651-soundcloud",
+            "nickname": "SuperJu",
+            "booksCount": 14
+        }
+    },
     "bOQ0KZyvrW": {
         "id": "bOQ0KZyvrW",
         "title": "Заповіти",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 326
-        }
-    },
-    "Ulaeegkuoa": {
-        "id": "Ulaeegkuoa",
-        "title": "Механик",
-        "author": "Усманов Хайдарали",
-        "notes": "Серия из 2 книг\nКосмическая фантастика. Боевая фантастика\nВыживание в космосе\nОценка - 5-",
-        "createdAt": "2021-07-01 16:30:37",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 54
         }
     }
 }

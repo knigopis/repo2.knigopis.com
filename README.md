@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SuperJu](users/791/791518651-soundcloud)<sup>14</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>147</sup> 
-[Julia Lapan](users/791/791518651-soundcloud)<sup>13</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>341</sup> 
 [nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>22</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>50</sup> 
 
 
-_08.07.2021 18:03:32_
+_08.07.2021 19:44:25_

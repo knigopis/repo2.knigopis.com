@@ -1,7 +1,12 @@
-# List of books read by [Julia Lapan](https://soundcloud.com/julia-lapan-741189633)<sup>13</sup>
+# List of books read by [SuperJu](https://soundcloud.com/julia-lapan-741189633)<sup>14</sup>
 ---
 
 ## 2021
+
+### Осиная Фабрика
+Иэн Бэнкс
+> [2021-07-08] 
+
 
 ### Отцы и Дети
 Иван Тургенев
