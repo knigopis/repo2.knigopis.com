@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>22</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>23</sup>
 ---
 
 ## 2021
+
+### Страна радости
+Кинг Стивен
+> [2021-07-09] 
+
 
 ### Шестерка воронов
 Бардуго Ли
