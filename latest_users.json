@@ -1,4 +1,10 @@
 {
+    "33343845-vkontakte": {
+        "id": "33343845-vkontakte",
+        "nickname": "nezit",
+        "booksCount": 0,
+        "updatedAt": "2021-07-10 12:05:52"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 865,
         "updatedAt": "2021-06-24 15:45:53"
-    },
-    "1326779400711265-facebook": {
-        "id": "1326779400711265-facebook",
-        "nickname": "Боната",
-        "booksCount": 11,
-        "updatedAt": "2021-06-24 11:38:47"
     }
 }
