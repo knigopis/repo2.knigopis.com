@@ -1,4 +1,16 @@
 {
+    "25aprSarIz": {
+        "id": "25aprSarIz",
+        "title": "Последний день...",
+        "author": "Васильев Борис Львович",
+        "notes": "",
+        "createdAt": "2021-07-10 21:07:11",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 164
+        }
+    },
     "dgiauWWA7S": {
         "id": "dgiauWWA7S",
         "title": "Страна радости",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 12
-        }
-    },
-    "GOYUy4jPLq": {
-        "id": "GOYUy4jPLq",
-        "title": "Герметикон. Не видя звёзд",
-        "author": "Панов Вадим",
-        "notes": "в отличие от собаки, кошка сама решает, кого и когда следует убить.\r\n\tА потом придёт ластиться к тому, кого любит.",
-        "createdAt": "2021-07-02 18:35:09",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 290
         }
     }
 }
