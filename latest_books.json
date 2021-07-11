@@ -1,4 +1,16 @@
 {
+    "I51bmaBPAn": {
+        "id": "I51bmaBPAn",
+        "title": "Великолепная шестёрка",
+        "author": "Васильев Борис Львович",
+        "notes": "",
+        "createdAt": "2021-07-11 20:33:17",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 165
+        }
+    },
     "AIJcvgqMZW": {
         "id": "AIJcvgqMZW",
         "title": "Заколдованное колье (Наследники Остапа Бендера30)",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 13
-        }
-    },
-    "7xH1YYpGO4": {
-        "id": "7xH1YYpGO4",
-        "title": "Луганское направление",
-        "author": "Глеб Бобров",
-        "notes": "",
-        "createdAt": "2021-07-04 16:21:58",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 99
         }
     }
 }
