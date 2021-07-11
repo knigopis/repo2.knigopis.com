@@ -1,4 +1,16 @@
 {
+    "46CAfnDKxv": {
+        "id": "46CAfnDKxv",
+        "title": "Десять дней, которые потрясли мир",
+        "author": "Джон Рид",
+        "notes": "",
+        "createdAt": "2021-07-11 12:29:36",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 100
+        }
+    },
     "SNKCa6Ke9_": {
         "id": "SNKCa6Ke9_",
         "title": "Пехотная баллада",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 200
-        }
-    },
-    "SVcv5A5dQ4": {
-        "id": "SVcv5A5dQ4",
-        "title": "Иванова катер",
-        "author": "Васильев Борис Львович",
-        "notes": "",
-        "createdAt": "2021-07-03 20:12:13",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 163
         }
     }
 }

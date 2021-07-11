@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>100</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>289</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>164</sup> 
 [nezit](users/333/33343845-vkontakte)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ergindahouse](users/362/362555681-vkontakte)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>75</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>99</sup> 
 [Sonya](users/107/107611652965676430384-google)<sup>0</sup> 
 [Рамиля](users/106/106525547149695326212-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>290</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 
 
-_11.07.2021 09:11:44_
+_11.07.2021 12:29:36_
