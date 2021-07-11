@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
+    > больше похоже на энциклопедию
+
 * Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
     > Потому что радость – первая ступенька тупости.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Занепад Гілеаду.
 
 * Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
-    > 10/10 Новостворена країна Гілеад, де жінки служать тільки для ародження дітей.
 
 * Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
 
-* Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>291</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>100</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>15</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>209</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 
 
-_11.07.2021 20:36:33_
+_11.07.2021 20:41:22_

@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>15</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>16</sup>
 ---
 
 ## 2021
+
+### Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть
+Нина Брокман
+> [2021-07-12] больше похоже на энциклопедию
+
 
 ### По любви
 Вася Аккерман

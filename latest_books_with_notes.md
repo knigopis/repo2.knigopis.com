@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
 * Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
 * Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
 * Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
@@ -30,7 +31,6 @@
 * В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
 * Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
 * Овод ~ [Rainbow](users/109/109787328219839805802-google)<sup>73</sup>
-* Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
 
 
-_11.07.2021 20:36:33_
+_11.07.2021 20:41:22_
