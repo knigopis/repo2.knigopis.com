@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 289,
+        "updatedAt": "2021-07-11 09:11:44"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Ordeal595",
         "booksCount": 2,
         "updatedAt": "2021-06-26 07:56:36"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 865,
-        "updatedAt": "2021-06-24 15:45:53"
     }
 }

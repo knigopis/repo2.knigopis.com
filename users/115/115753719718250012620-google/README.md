@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>288</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>289</sup>
 ---
 
 ## 2021
+
+### Пехотная баллада
+Пратчетт, Терри
+> [2021-07-10] 
+
 
 ### Властелин колец. Возвращение короля
 Толкин Джон Рональд Руэл

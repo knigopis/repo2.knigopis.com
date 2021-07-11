@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>289</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>164</sup> 
 [nezit](users/333/33343845-vkontakte)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>23</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>865</sup> 
 
 
-_10.07.2021 21:07:11_
+_11.07.2021 09:11:44_
