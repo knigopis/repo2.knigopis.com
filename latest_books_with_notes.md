@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
 * Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
 * Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
 * Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
@@ -30,7 +31,6 @@
 * Абандон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>194</sup>
 * Овод ~ [Rainbow](users/109/109787328219839805802-google)<sup>73</sup>
 * Властелин колец. Возвращение короля ~ [Garka](users/115/115753719718250012620-google)<sup>288</sup>
-* Неверный ленинец (серия) ~ [dromoman2008](users/444/44461886-yandex)<sup>47</sup>
 
 
-_08.07.2021 18:03:32_
+_11.07.2021 20:36:33_

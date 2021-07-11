@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
+    > Потому что радость – первая ступенька тупости.
+
 * Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
     > 10/10 Занепад Гілеаду.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Новостворена країна Гілеад, де жінки служать тільки для ародження дітей.
 
 * Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
-    > в отличие от собаки, кошка сама решает, кого и когда следует убить.
-    > 	А потом придёт ластиться к тому, кого любит.
 
 * Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 
-* Сліди на дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>165</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>291</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>100</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>289</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 
 
-_11.07.2021 20:33:17_
+_11.07.2021 20:36:33_
