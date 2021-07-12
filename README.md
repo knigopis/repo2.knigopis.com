@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ася, русский человек на рандеву, драма без развязки ~ [Rainbow](users/109/109787328219839805802-google)<sup>76</sup>
+    > «Пока мечтаешь о работе, так и паришь орлом: землю, кажется, сдвинул бы с места - а в исполнении тотчас слабеешь и устаешь»
+    > «Это была прямо русская душа, правдивая, честная, простая, но, к сожалению, немного вялая, без цепкости и внутреннего жара. Молодость не кипела в нем ключом; она светилась тихим светом. Он был очень мил и умен, но я не мог себе представить, что с ним станется, как только он возмужает. Быть художником… Без горького, постоянного труда не бывает художников… а трудиться, думал я, глядя на его мягкие черты, слушая его неспешную речь, – нет! трудиться ты не будешь, сжаться ты не сумеешь.»
+    > «Судьба обошлась с ним не хуже, чем со многими другими; но он и первого удара ее не вынес»
+
 * Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
     > больше похоже на энциклопедию
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Потому что радость – первая ступенька тупости.
 
 * Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
-    > 10/10 Занепад Гілеаду.
 
 * Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Охотник и вторая Охота на охотника ~ [dromoman2008](users/444/44461886-yandex)<sup>51</sup>
 
-* Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>76</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup> 
@@ -49,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>262</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>105</sup> 
 [ergindahouse](users/362/362555681-vkontakte)<sup>1</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>75</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 [Sonya](users/107/107611652965676430384-google)<sup>0</sup> 
 [Рамиля](users/106/106525547149695326212-google)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 
 
-_12.07.2021 14:53:06_
+_12.07.2021 19:57:02_
