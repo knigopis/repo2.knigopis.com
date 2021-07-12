@@ -1,4 +1,16 @@
 {
+    "nhj8gDpTBI": {
+        "id": "nhj8gDpTBI",
+        "title": "Черный меч",
+        "author": "Иар Эльтеррус",
+        "notes": "",
+        "createdAt": "2021-07-12 21:13:12",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 3
+        }
+    },
     "LDOZOdUP5I": {
         "id": "LDOZOdUP5I",
         "title": "Маленькие женщины",
@@ -345,18 +357,6 @@
             "id": "791518651-soundcloud",
             "nickname": "Julia Lapan",
             "booksCount": 1
-        }
-    },
-    "UnM5rTCgAn": {
-        "id": "UnM5rTCgAn",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2021-07-07 15:41:58",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 341
         }
     }
 }
