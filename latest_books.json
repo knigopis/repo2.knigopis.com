@@ -1,4 +1,16 @@
 {
+    "MDXzOX3Jlc": {
+        "id": "MDXzOX3Jlc",
+        "title": "1Q84 Книга 2. Июль - сентябрь",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2021-07-12 21:17:56",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 17
+        }
+    },
     "6ptAcciGfL": {
         "id": "6ptAcciGfL",
         "title": "Предводитель волков",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 201
-        }
-    },
-    "A_YN5sEgLf": {
-        "id": "A_YN5sEgLf",
-        "title": "Дьявол и тёмная вода",
-        "author": "Стюарт Тёртон",
-        "notes": "",
-        "createdAt": "2021-07-07 22:42:20",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 147
         }
     }
 }
