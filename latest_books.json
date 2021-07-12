@@ -1,4 +1,16 @@
 {
+    "WR9uxerfbO": {
+        "id": "WR9uxerfbO",
+        "title": "Бойня №5",
+        "author": "Курт Воннегут",
+        "notes": "",
+        "createdAt": "2021-07-12 21:30:17",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 33
+        }
+    },
     "aAucd9k0fl": {
         "id": "aAucd9k0fl",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 4
-        }
-    },
-    "nhj8gDpTBI": {
-        "id": "nhj8gDpTBI",
-        "title": "Черный меч",
-        "author": "Иар Эльтеррус",
-        "notes": "",
-        "createdAt": "2021-07-12 21:13:12",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 3
         }
     }
 }
