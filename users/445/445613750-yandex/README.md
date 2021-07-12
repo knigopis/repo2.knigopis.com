@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>7</sup>
+# List of books read by goldpony<sup>8</sup>
 ---
 
 ## 2019
@@ -16,6 +16,13 @@
 
 ### Черный меч
 Иар Эльтеррус
+
+
+
+## 2017
+
+### Beyond the Dark Portal
+Кристи Голден
 
 
 
