@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>3</sup>
+# List of books read by goldpony<sup>4</sup>
 ---
 
 ## 2019
@@ -9,6 +9,10 @@
 
 
 ## 2018
+
+### Безумие Бардов
+Иар Эльтеррус
+
 
 ### Черный меч
 Иар Эльтеррус

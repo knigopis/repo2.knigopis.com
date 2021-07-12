@@ -1,4 +1,16 @@
 {
+    "4MTVWCbR8o": {
+        "id": "4MTVWCbR8o",
+        "title": "Безумие Бардов",
+        "author": "Иар Эльтеррус",
+        "notes": "",
+        "createdAt": "2021-07-12 21:13:30",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 4
+        }
+    },
     "nhj8gDpTBI": {
         "id": "nhj8gDpTBI",
         "title": "Черный меч",
@@ -345,18 +357,6 @@
             "id": "791518651-soundcloud",
             "nickname": "Julia Lapan",
             "booksCount": 2
-        }
-    },
-    "Bl2jKICNEw": {
-        "id": "Bl2jKICNEw",
-        "title": "Лабиринт отражений",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2021-07-07 16:53:46",
-        "user": {
-            "id": "791518651-soundcloud",
-            "nickname": "Julia Lapan",
-            "booksCount": 1
         }
     }
 }
