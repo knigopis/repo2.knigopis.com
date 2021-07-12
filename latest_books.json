@@ -1,4 +1,16 @@
 {
+    "M2RKxSE-pU": {
+        "id": "M2RKxSE-pU",
+        "title": "Исповедь маски",
+        "author": "Юкио Мисима",
+        "notes": "",
+        "createdAt": "2021-07-12 21:19:51",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 20
+        }
+    },
     "tbg0e2_zE2": {
         "id": "tbg0e2_zE2",
         "title": "1Q84. Книга 3",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 23
-        }
-    },
-    "gQINye3325": {
-        "id": "gQINye3325",
-        "title": "Обскура",
-        "author": "Режи Дескотт",
-        "notes": "",
-        "createdAt": "2021-07-08 20:39:00",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 63
         }
     }
 }

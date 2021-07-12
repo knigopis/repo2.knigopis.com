@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>19</sup>
+# List of books read by goldpony<sup>20</sup>
 ---
 
 ## 2019
@@ -63,6 +63,13 @@
 
 ### Beyond the Dark Portal
 Кристи Голден
+
+
+
+## 2016
+
+### Исповедь маски
+Юкио Мисима
 
 
 
