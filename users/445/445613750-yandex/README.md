@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>24</sup>
+# List of books read by goldpony<sup>25</sup>
 ---
 
 ## 2019
@@ -75,6 +75,10 @@
 
 
 ## 2016
+
+### Наука любить
+Овидий
+
 
 ### Несущие кони
 Юкио Мисима
