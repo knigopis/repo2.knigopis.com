@@ -1,4 +1,16 @@
 {
+    "lT_mlihW9j": {
+        "id": "lT_mlihW9j",
+        "title": "Цветы зла",
+        "author": "Шарль Бодлер",
+        "notes": "",
+        "createdAt": "2021-07-12 21:25:32",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 27
+        }
+    },
     "5COE6NFpIK": {
         "id": "5COE6NFpIK",
         "title": "Не только апельсины",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 16
-        }
-    },
-    "kfOcDre0ic": {
-        "id": "kfOcDre0ic",
-        "title": "Коррида  в большом порядке",
-        "author": "Васильев Борис Львович",
-        "notes": "Потому что радость – первая ступенька тупости.",
-        "createdAt": "2021-07-11 20:36:33",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 166
         }
     }
 }
