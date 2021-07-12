@@ -1,4 +1,16 @@
 {
+    "Eg8Hlhbqvk": {
+        "id": "Eg8Hlhbqvk",
+        "title": "Душа Демона",
+        "author": "Ричард А. Кнаак",
+        "notes": "",
+        "createdAt": "2021-07-12 21:15:27",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 10
+        }
+    },
     "kyG-6i4LfM": {
         "id": "kyG-6i4LfM",
         "title": "Источник Вечности Источник Вечности",
@@ -345,18 +357,6 @@
             "id": "791518651-soundcloud",
             "nickname": "Julia Lapan",
             "booksCount": 8
-        }
-    },
-    "lp_1ZBP96E": {
-        "id": "lp_1ZBP96E",
-        "title": "Король Лип",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2021-07-07 16:56:20",
-        "user": {
-            "id": "791518651-soundcloud",
-            "nickname": "Julia Lapan",
-            "booksCount": 7
         }
     }
 }
