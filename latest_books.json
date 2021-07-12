@@ -1,4 +1,16 @@
 {
+    "wkIn6R165p": {
+        "id": "wkIn6R165p",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2021-07-12 21:11:22",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 1
+        }
+    },
     "aHWrham9qp": {
         "id": "aHWrham9qp",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 22
-        }
-    },
-    "MRffczHTdy": {
-        "id": "MRffczHTdy",
-        "title": "Записки старого козла",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2021-07-06 07:58:11",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 262
         }
     }
 }
