@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>22</sup>
+# List of books read by goldpony<sup>23</sup>
 ---
 
 ## 2019
@@ -36,6 +36,10 @@
 
 
 ## 2017
+
+### Храм на рассвете
+Юкио Мисима
+
 
 ### World of Warcraft: Рождение Орды
 Кристи Голден

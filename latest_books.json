@@ -1,4 +1,16 @@
 {
+    "-_ntwvd7aV": {
+        "id": "-_ntwvd7aV",
+        "title": "Храм на рассвете",
+        "author": "Юкио Мисима",
+        "notes": "",
+        "createdAt": "2021-07-12 21:22:03",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 23
+        }
+    },
     "o4Hgt8jftC": {
         "id": "o4Hgt8jftC",
         "title": "Несущие кони",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 100
-        }
-    },
-    "SNKCa6Ke9_": {
-        "id": "SNKCa6Ke9_",
-        "title": "Пехотная баллада",
-        "author": "Пратчетт, Терри",
-        "notes": "",
-        "createdAt": "2021-07-11 09:11:44",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 289
         }
     }
 }
