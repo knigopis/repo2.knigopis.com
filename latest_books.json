@@ -1,4 +1,16 @@
 {
+    "Jcx9Kqgnuv": {
+        "id": "Jcx9Kqgnuv",
+        "title": "1Q84. Книга 1",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2021-07-12 21:18:21",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 18
+        }
+    },
     "MDXzOX3Jlc": {
         "id": "MDXzOX3Jlc",
         "title": "1Q84 Книга 2. Июль - сентябрь",
@@ -345,18 +357,6 @@
             "id": "791518651-soundcloud",
             "nickname": "SuperJu",
             "booksCount": 14
-        }
-    },
-    "bOQ0KZyvrW": {
-        "id": "bOQ0KZyvrW",
-        "title": "Заповіти",
-        "author": "Марґарет Етвуд",
-        "notes": "10/10 Занепад Гілеаду.",
-        "createdAt": "2021-07-08 18:03:32",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 201
         }
     }
 }

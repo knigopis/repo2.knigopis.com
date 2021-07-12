@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[goldpony](users/445/445613750-yandex)<sup>17</sup> 
+[goldpony](users/445/445613750-yandex)<sup>18</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>167</sup> 
 [](users/101/101179637838670611102-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>76</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 
 
-_12.07.2021 21:17:56_
+_12.07.2021 21:18:21_
