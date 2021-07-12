@@ -1,4 +1,16 @@
 {
+    "Z9c2-aNRtY": {
+        "id": "Z9c2-aNRtY",
+        "title": "Падение ангела",
+        "author": "Юкио Мисима",
+        "notes": "",
+        "createdAt": "2021-07-12 21:22:24",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 24
+        }
+    },
     "-_ntwvd7aV": {
         "id": "-_ntwvd7aV",
         "title": "Храм на рассвете",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 291
-        }
-    },
-    "46CAfnDKxv": {
-        "id": "46CAfnDKxv",
-        "title": "Десять дней, которые потрясли мир",
-        "author": "Джон Рид",
-        "notes": "",
-        "createdAt": "2021-07-11 12:29:36",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 100
         }
     }
 }

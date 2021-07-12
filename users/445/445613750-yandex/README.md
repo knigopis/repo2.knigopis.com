@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>23</sup>
+# List of books read by goldpony<sup>24</sup>
 ---
 
 ## 2019
@@ -36,6 +36,10 @@
 
 
 ## 2017
+
+### Падение ангела
+Юкио Мисима
+
 
 ### Храм на рассвете
 Юкио Мисима
