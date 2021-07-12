@@ -1,4 +1,16 @@
 {
+    "tbg0e2_zE2": {
+        "id": "tbg0e2_zE2",
+        "title": "1Q84. Книга 3",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2021-07-12 21:18:53",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 19
+        }
+    },
     "Jcx9Kqgnuv": {
         "id": "Jcx9Kqgnuv",
         "title": "1Q84. Книга 1",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 63
-        }
-    },
-    "aYYnOGdg3F": {
-        "id": "aYYnOGdg3F",
-        "title": "Осиная Фабрика",
-        "author": "Иэн Бэнкс",
-        "notes": "",
-        "createdAt": "2021-07-08 19:44:25",
-        "user": {
-            "id": "791518651-soundcloud",
-            "nickname": "SuperJu",
-            "booksCount": 14
         }
     }
 }
