@@ -1,4 +1,16 @@
 {
+    "_gE4lJ0mPB": {
+        "id": "_gE4lJ0mPB",
+        "title": "Артур и минипуты",
+        "author": "Люк Бессон",
+        "notes": "",
+        "createdAt": "2021-07-12 21:13:43",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 5
+        }
+    },
     "4MTVWCbR8o": {
         "id": "4MTVWCbR8o",
         "title": "Безумие Бардов",
@@ -345,18 +357,6 @@
             "id": "791518651-soundcloud",
             "nickname": "Julia Lapan",
             "booksCount": 3
-        }
-    },
-    "zPQrfG2rUU": {
-        "id": "zPQrfG2rUU",
-        "title": "Фальшивые зеркала",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2021-07-07 16:54:09",
-        "user": {
-            "id": "791518651-soundcloud",
-            "nickname": "Julia Lapan",
-            "booksCount": 2
         }
     }
 }
