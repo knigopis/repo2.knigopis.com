@@ -1,4 +1,16 @@
 {
+    "c8MeD12ru5": {
+        "id": "c8MeD12ru5",
+        "title": "Милый друг",
+        "author": "Ги де Мопассан",
+        "notes": "",
+        "createdAt": "2021-07-12 21:27:32",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 28
+        }
+    },
     "lT_mlihW9j": {
         "id": "lT_mlihW9j",
         "title": "Цветы зла",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 76
-        }
-    },
-    "ZQm7gPGebA": {
-        "id": "ZQm7gPGebA",
-        "title": "Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть",
-        "author": "Нина Брокман",
-        "notes": "больше похоже на энциклопедию",
-        "createdAt": "2021-07-11 20:41:22",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 16
         }
     }
 }
