@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>13</sup>
+# List of books read by goldpony<sup>14</sup>
 ---
 
 ## 2019
@@ -20,6 +20,10 @@
 
 
 ## 2017
+
+### Месть орков
+Ричард Кнаак
+
 
 ### World of Warcraft: Последний Страж
 Джефф Грабб
