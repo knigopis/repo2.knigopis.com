@@ -1,4 +1,16 @@
 {
+    "spKlRp7kTH": {
+        "id": "spKlRp7kTH",
+        "title": "World of Warcraft: Последний Страж",
+        "author": "Джефф Грабб",
+        "notes": "",
+        "createdAt": "2021-07-12 21:16:08",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 12
+        }
+    },
     "mqYqPhxkDP": {
         "id": "mqYqPhxkDP",
         "title": "World of Warcraft. Потоки тьмы",
@@ -345,18 +357,6 @@
             "id": "791518651-soundcloud",
             "nickname": "Julia Lapan",
             "booksCount": 10
-        }
-    },
-    "0fvrEu8yCp": {
-        "id": "0fvrEu8yCp",
-        "title": "Сонечка",
-        "author": "Людмила Улицкая",
-        "notes": "",
-        "createdAt": "2021-07-07 16:57:20",
-        "user": {
-            "id": "791518651-soundcloud",
-            "nickname": "Julia Lapan",
-            "booksCount": 9
         }
     }
 }
