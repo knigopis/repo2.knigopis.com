@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101179637838670611102-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>76</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>209</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>51</sup> 
-[Ordeal595](users/101/101497995260874987681-google)<sup>2</sup> 
 
 
-_12.07.2021 19:57:02_
+_12.07.2021 21:06:47_
