@@ -1,4 +1,16 @@
 {
+    "ai27iCjKgM": {
+        "id": "ai27iCjKgM",
+        "title": "Моби Дик, или Белый Кит",
+        "author": "Герман Мелвилл",
+        "notes": "",
+        "createdAt": "2021-07-12 21:28:43",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 30
+        }
+    },
     "AVCSaZz0RQ": {
         "id": "AVCSaZz0RQ",
         "title": "Размышления о революции во Франции",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 1
-        }
-    },
-    "aHWrham9qp": {
-        "id": "aHWrham9qp",
-        "title": "На дне",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2021-07-12 21:07:15",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 167
         }
     }
 }
