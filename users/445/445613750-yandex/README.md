@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>21</sup>
+# List of books read by goldpony<sup>22</sup>
 ---
 
 ## 2019
@@ -67,6 +67,10 @@
 
 
 ## 2016
+
+### Несущие кони
+Юкио Мисима
+
 
 ### Исповедь маски
 Юкио Мисима
