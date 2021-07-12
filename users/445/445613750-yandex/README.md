@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>20</sup>
+# List of books read by goldpony<sup>21</sup>
 ---
 
 ## 2019
@@ -74,6 +74,10 @@
 
 
 ## 2015
+
+### Весенний снег
+Юкио Мисима
+
 
 ### Электропрохладительный кислотный тест
 Том Вулф
