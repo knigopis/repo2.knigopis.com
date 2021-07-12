@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>10</sup>
+# List of books read by goldpony<sup>11</sup>
 ---
 
 ## 2019
@@ -20,6 +20,10 @@
 
 
 ## 2017
+
+### World of Warcraft. Потоки тьмы
+Айрон Розенберг
+
 
 ### Душа Демона
 Ричард А. Кнаак
