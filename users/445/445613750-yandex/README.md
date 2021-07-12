@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>28</sup>
+# List of books read by goldpony<sup>29</sup>
 ---
 
 ## 2020
@@ -9,6 +9,10 @@
 
 
 ## 2019
+
+### Размышления о революции во Франции
+Эдмунд Бёрк
+
 
 ### 1Q84. Книга 3
 Харуки Мураками
