@@ -1,4 +1,4 @@
-# List of books read by goldpony<sup>14</sup>
+# List of books read by goldpony<sup>15</sup>
 ---
 
 ## 2019
@@ -20,6 +20,10 @@
 
 
 ## 2017
+
+### World of Warcraft: Рождение Орды
+Кристи Голден
+
 
 ### Месть орков
 Ричард Кнаак
