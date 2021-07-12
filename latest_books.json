@@ -1,4 +1,16 @@
 {
+    "UIt6H3rTuE": {
+        "id": "UIt6H3rTuE",
+        "title": "Последняя империя. Падение Советского Союза",
+        "author": "Сергей Плохий",
+        "notes": "",
+        "createdAt": "2021-07-12 21:32:41",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 34
+        }
+    },
     "WR9uxerfbO": {
         "id": "WR9uxerfbO",
         "title": "Бойня №5",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 5
-        }
-    },
-    "4MTVWCbR8o": {
-        "id": "4MTVWCbR8o",
-        "title": "Безумие Бардов",
-        "author": "Иар Эльтеррус",
-        "notes": "",
-        "createdAt": "2021-07-12 21:13:30",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 4
         }
     }
 }
