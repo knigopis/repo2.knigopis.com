@@ -1,4 +1,16 @@
 {
+    "g1vcSlcTAu": {
+        "id": "g1vcSlcTAu",
+        "title": "На краю ойкумены",
+        "author": "Ефремов",
+        "notes": "",
+        "createdAt": "2021-07-13 12:07:08",
+        "user": {
+            "id": "880015719-yandex",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "nISrDX7gE1": {
         "id": "nISrDX7gE1",
         "title": "Чистая архитектура. Искусство разработки программного обеспечения",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 9
-        }
-    },
-    "uPG33_IdhN": {
-        "id": "uPG33_IdhN",
-        "title": "Beyond the Dark Portal",
-        "author": "Кристи Голден",
-        "notes": "",
-        "createdAt": "2021-07-12 21:14:50",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 8
         }
     }
 }
