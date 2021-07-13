@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>77</sup>
+# List of books read by Rainbow<sup>78</sup>
 ---
 
 ## 2021
+
+### Русский человек на rendez-vous
+Николай Гаврилович Чернышевский
+> [2021-07-13] 
+
 
 ### Русский человек на rendez-vous
 Николай Гаврилович Чернышевский
