@@ -2,11 +2,11 @@
     "id": "JDU1nrfkOV",
     "userId": "917342266-yandex",
     "createdAt": "2021-07-13 07:11:01",
-    "updatedAt": "2021-07-13 07:11:01",
+    "updatedAt": "2021-07-13 07:22:57",
     "title": "Архитектура сложных веб-приложений. С примерами на Laravel",
     "author": "Адель Файзрахманов",
     "readDay": "13",
     "readMonth": "7",
     "readYear": "2021",
-    "notes": "Внедрение зависимостей\nСлой Приложения\nВалидация (dto + value object)\nUnit-тестирование"
+    "notes": "https://github.com/adelf/acwa_book_ru\nВнедрение зависимостей\nСлой Приложения\nВалидация (dto + value object)\nUnit-тестирование"
 }
