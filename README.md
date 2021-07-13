@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/880/880015719-yandex)<sup>0</sup> 
 [](users/158/15831034236773408786-mailru)<sup>0</sup> 
 [gotoroho](users/917/917342266-yandex)<sup>2</sup> 
 [goldpony](users/445/445613750-yandex)<sup>35</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 [](users/153/1537586159620888-facebook)<sup>48</sup> 
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
 
 
-_13.07.2021 12:03:00_
+_13.07.2021 12:06:01_
