@@ -1,4 +1,16 @@
 {
+    "JDU1nrfkOV": {
+        "id": "JDU1nrfkOV",
+        "title": "Архитектура сложных веб-приложений. С примерами на Laravel",
+        "author": "Адель Файзрахманов",
+        "notes": "Внедрение зависимостей\nСлой Приложения\nВалидация (dto + value object)\nUnit-тестирование",
+        "createdAt": "2021-07-13 07:11:01",
+        "user": {
+            "id": "917342266-yandex",
+            "nickname": "gotoroho",
+            "booksCount": 1
+        }
+    },
     "CjnUhvdwtK": {
         "id": "CjnUhvdwtK",
         "title": "How to Bitcoin",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 7
-        }
-    },
-    "5qb1Ip4knL": {
-        "id": "5qb1Ip4knL",
-        "title": "Электропрохладительный кислотный тест",
-        "author": "Том Вулф",
-        "notes": "",
-        "createdAt": "2021-07-12 21:14:07",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 6
         }
     }
 }
