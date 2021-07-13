@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>866</sup> 
 [stenk](users/355/3556151164432717-facebook)<sup>0</sup> 
 [](users/880/880015719-yandex)<sup>2</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [goldpony](users/445/445613750-yandex)<sup>35</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>167</sup> 
 [](users/101/101179637838670611102-google)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>76</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>291</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 
 
-_13.07.2021 17:40:32_
+_13.07.2021 18:21:35_
