@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gotoroho](users/917/917342266-yandex)<sup>0</sup> 
 [goldpony](users/445/445613750-yandex)<sup>35</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>167</sup> 
 [](users/101/101179637838670611102-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>110</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>209</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>5</sup> 
 
 
-_12.07.2021 21:44:51_
+_13.07.2021 07:08:00_
