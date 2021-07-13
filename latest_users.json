@@ -1,4 +1,10 @@
 {
+    "917342266-yandex": {
+        "id": "917342266-yandex",
+        "nickname": "gotoroho",
+        "booksCount": 0,
+        "updatedAt": "2021-07-13 07:07:59"
+    },
     "445613750-yandex": {
         "id": "445613750-yandex",
         "nickname": "goldpony",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 209,
         "updatedAt": "2021-06-27 20:32:25"
-    },
-    "5175580462988229760-mailru": {
-        "id": "5175580462988229760-mailru",
-        "nickname": "Triste",
-        "booksCount": 5,
-        "updatedAt": "2021-06-26 12:34:08"
     }
 }
