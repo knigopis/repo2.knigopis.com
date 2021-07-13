@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>866</sup> 
 [stenk](users/355/3556151164432717-facebook)<sup>0</sup> 
 [](users/880/880015719-yandex)<sup>2</sup> 
 [](users/158/15831034236773408786-mailru)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>99</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>326</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
-[](users/153/1537586159620888-facebook)<sup>48</sup> 
 
 
-_13.07.2021 13:46:50_
+_13.07.2021 17:40:32_
