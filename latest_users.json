@@ -1,4 +1,10 @@
 {
+    "880015719-yandex": {
+        "id": "880015719-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-07-13 12:06:01"
+    },
     "15831034236773408786-mailru": {
         "id": "15831034236773408786-mailru",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "One.more.777",
         "booksCount": 13,
         "updatedAt": "2021-06-29 17:03:25"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 110,
-        "updatedAt": "2021-06-29 09:44:31"
     }
 }
