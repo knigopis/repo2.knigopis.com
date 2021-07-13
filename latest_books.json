@@ -1,4 +1,16 @@
 {
+    "ol1h-q0rEI": {
+        "id": "ol1h-q0rEI",
+        "title": "Дама с камелиями",
+        "author": "А.Дюма",
+        "notes": "",
+        "createdAt": "2021-07-13 12:07:39",
+        "user": {
+            "id": "880015719-yandex",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "g1vcSlcTAu": {
         "id": "g1vcSlcTAu",
         "title": "На краю ойкумены",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 10
-        }
-    },
-    "kyG-6i4LfM": {
-        "id": "kyG-6i4LfM",
-        "title": "Источник Вечности Источник Вечности",
-        "author": "Ричард Кнаак",
-        "notes": "",
-        "createdAt": "2021-07-12 21:15:12",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 9
         }
     }
 }

@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/880/880015719-yandex)<sup>1</sup> 
+[](users/880/880015719-yandex)<sup>2</sup> 
 [](users/158/15831034236773408786-mailru)<sup>0</sup> 
 [gotoroho](users/917/917342266-yandex)<sup>2</sup> 
 [goldpony](users/445/445613750-yandex)<sup>35</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [One.more.777](users/101/1011685224-yandex)<sup>13</sup> 
 
 
-_13.07.2021 12:07:08_
+_13.07.2021 12:07:39_
