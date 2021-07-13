@@ -1,4 +1,10 @@
 {
+    "15831034236773408786-mailru": {
+        "id": "15831034236773408786-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-07-13 12:03:00"
+    },
     "917342266-yandex": {
         "id": "917342266-yandex",
         "nickname": "gotoroho",
@@ -172,11 +178,5 @@
         "nickname": "Naricev",
         "booksCount": 110,
         "updatedAt": "2021-06-29 09:44:31"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 209,
-        "updatedAt": "2021-06-27 20:32:25"
     }
 }
