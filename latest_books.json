@@ -1,4 +1,16 @@
 {
+    "nISrDX7gE1": {
+        "id": "nISrDX7gE1",
+        "title": "Чистая архитектура. Искусство разработки программного обеспечения",
+        "author": "Роберт Мартин",
+        "notes": "SOLID и много про D (dependency inversion), потому что много про \"детали\" и отношение между зависимостями.",
+        "createdAt": "2021-07-13 07:20:57",
+        "user": {
+            "id": "917342266-yandex",
+            "nickname": "gotoroho",
+            "booksCount": 2
+        }
+    },
     "JDU1nrfkOV": {
         "id": "JDU1nrfkOV",
         "title": "Архитектура сложных веб-приложений. С примерами на Laravel",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 8
-        }
-    },
-    "_1Zbyu1BbV": {
-        "id": "_1Zbyu1BbV",
-        "title": "Приключения Тома Сойера. Приключения Гекльберри Финна. Том Сойер за границей.",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2021-07-12 21:14:29",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 7
         }
     }
 }
