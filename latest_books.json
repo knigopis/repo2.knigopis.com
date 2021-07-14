@@ -1,4 +1,16 @@
 {
+    "hCZS4bLERn": {
+        "id": "hCZS4bLERn",
+        "title": "На Западном фронте без перемен",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-07-14 09:27:05",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 35
+        }
+    },
     "0-1cjgRFul": {
         "id": "0-1cjgRFul",
         "title": "Real RPG",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 18
-        }
-    },
-    "MDXzOX3Jlc": {
-        "id": "MDXzOX3Jlc",
-        "title": "1Q84 Книга 2. Июль - сентябрь",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2021-07-12 21:17:56",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 17
         }
     }
 }
