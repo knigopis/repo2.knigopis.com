@@ -1,4 +1,16 @@
 {
+    "e4j38VspPU": {
+        "id": "e4j38VspPU",
+        "title": "Antigone",
+        "author": "Софокл",
+        "notes": "",
+        "createdAt": "2021-07-14 09:43:56",
+        "user": {
+            "id": "445613750-yandex",
+            "nickname": "goldpony",
+            "booksCount": 36
+        }
+    },
     "hCZS4bLERn": {
         "id": "hCZS4bLERn",
         "title": "На Западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 19
-        }
-    },
-    "Jcx9Kqgnuv": {
-        "id": "Jcx9Kqgnuv",
-        "title": "1Q84. Книга 1",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2021-07-12 21:18:21",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 18
         }
     }
 }
