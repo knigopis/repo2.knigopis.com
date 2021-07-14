@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>867</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>35</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>866</sup> 
 [stenk](users/355/3556151164432717-facebook)<sup>0</sup> 
 [](users/880/880015719-yandex)<sup>2</sup> 
 [](users/158/15831034236773408786-mailru)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>326</sup> 
 
 
-_14.07.2021 13:58:23_
+_14.07.2021 20:52:52_
