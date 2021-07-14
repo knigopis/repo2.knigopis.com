@@ -1,4 +1,16 @@
 {
+    "jG6OTX_lS3": {
+        "id": "jG6OTX_lS3",
+        "title": "Низший, книга первая",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-07-14 09:25:40",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 30
+        }
+    },
     "BzkYo4GajT": {
         "id": "BzkYo4GajT",
         "title": "Русский человек на rendez-vous",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 13
-        }
-    },
-    "spKlRp7kTH": {
-        "id": "spKlRp7kTH",
-        "title": "World of Warcraft: Последний Страж",
-        "author": "Джефф Грабб",
-        "notes": "",
-        "createdAt": "2021-07-12 21:16:08",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 12
         }
     }
 }

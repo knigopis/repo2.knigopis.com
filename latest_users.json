@@ -1,4 +1,10 @@
 {
+    "116650782618177766821-googleplus": {
+        "id": "116650782618177766821-googleplus",
+        "nickname": "Дмитрий Витальевич",
+        "booksCount": 30,
+        "updatedAt": "2021-07-14 09:25:40"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Lala",
         "booksCount": 326,
         "updatedAt": "2021-07-02 06:48:59"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 54,
-        "updatedAt": "2021-07-01 16:30:37"
     }
 }

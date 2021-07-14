@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>30</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>866</sup> 
 [stenk](users/355/3556151164432717-facebook)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Рамиля](users/106/106525547149695326212-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>99</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>326</sup> 
-[dromoman2008](users/444/44461886-yandex)<sup>54</sup> 
 
 
-_13.07.2021 18:22:57_
+_14.07.2021 09:25:40_
