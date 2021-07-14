@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 339,
+        "updatedAt": "2021-07-14 13:57:35"
+    },
     "445613750-yandex": {
         "id": "445613750-yandex",
         "nickname": "goldpony",
@@ -58,12 +64,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-07-12 21:06:47"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 340,
-        "updatedAt": "2021-07-12 14:53:05"
     },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
