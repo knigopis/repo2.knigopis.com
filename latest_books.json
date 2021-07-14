@@ -1,4 +1,16 @@
 {
+    "PbYm4zMQsb": {
+        "id": "PbYm4zMQsb",
+        "title": "Низший, книга вторая",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-07-14 09:25:46",
+        "user": {
+            "id": "116650782618177766821-googleplus",
+            "nickname": "Дмитрий Витальевич",
+            "booksCount": 31
+        }
+    },
     "jG6OTX_lS3": {
         "id": "jG6OTX_lS3",
         "title": "Низший, книга первая",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 14
-        }
-    },
-    "f4ux6GnqbY": {
-        "id": "f4ux6GnqbY",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2021-07-12 21:16:30",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 13
         }
     }
 }
