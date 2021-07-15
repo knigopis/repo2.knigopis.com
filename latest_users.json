@@ -1,4 +1,10 @@
 {
+    "173160241-vkontakte": {
+        "id": "173160241-vkontakte",
+        "nickname": "id_nastena_sazanovich",
+        "booksCount": 0,
+        "updatedAt": "2021-07-15 19:17:51"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 99,
         "updatedAt": "2021-07-02 07:01:36"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 326,
-        "updatedAt": "2021-07-02 06:48:59"
     }
 }
