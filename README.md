@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>868</sup> 
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>101</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>867</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>35</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>99</sup> 
 
 
-_15.07.2021 19:19:27_
+_15.07.2021 21:29:44_
