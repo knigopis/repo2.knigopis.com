@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
+    > Брошено. Скучно.
+
 * Морфий ~ [Triste](users/517/5175580462988229760-mailru)<sup>19</sup>
     > Любимая книга.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > «Судьба обошлась с ним не хуже, чем со многими другими; но он и первого удара ее не вынес»
 
 * Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
-    > больше похоже на энциклопедию
 
 * Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
 
-* Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Triste](users/517/5175580462988229760-mailru)<sup>27</sup> 
+[Triste](users/517/5175580462988229760-mailru)<sup>28</sup> 
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
 [wabisabimaid](users/420/420017445-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>868</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 
 
-_16.07.2021 17:54:43_
+_16.07.2021 17:56:19_

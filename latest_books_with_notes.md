@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
 * Морфий ~ [Triste](users/517/5175580462988229760-mailru)<sup>19</sup>
 * Ася, русский человек на рандеву, драма без развязки ~ [Rainbow](users/109/109787328219839805802-google)<sup>76</sup>
 * Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
@@ -30,7 +31,6 @@
 * Режим бога (фанфик из 7 пока книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>48</sup>
 * "Миф о красоте" ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 * Фронтовые заметки из Новороссии ~ [danyluk62](users/374/374149854-vkontakte)<sup>95</sup>
-* В высокой траве ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>195</sup>
 
 
-_16.07.2021 17:43:27_
+_16.07.2021 17:56:19_
