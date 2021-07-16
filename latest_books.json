@@ -1,4 +1,16 @@
 {
+    "MkHr3wGN3r": {
+        "id": "MkHr3wGN3r",
+        "title": "Торжество незначительности",
+        "author": "Милан Кундера",
+        "notes": "",
+        "createdAt": "2021-07-16 17:49:14",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 26
+        }
+    },
     "-xA7Y5sCAL": {
         "id": "-xA7Y5sCAL",
         "title": "Обезьяна",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 35
-        }
-    },
-    "0-1cjgRFul": {
-        "id": "0-1cjgRFul",
-        "title": "Real RPG",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-14 09:26:43",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 34
         }
     }
 }

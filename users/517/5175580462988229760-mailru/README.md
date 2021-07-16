@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>25</sup>
+# List of books read by Triste<sup>26</sup>
 ---
 
 ## 2021
@@ -68,6 +68,10 @@
 
 
 ## 2020
+
+### Торжество незначительности
+Милан Кундера
+
 
 ### Повелители DOOM
 Дэвид Кушнер
