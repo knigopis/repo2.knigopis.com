@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>17</sup>
+# List of books read by Triste<sup>18</sup>
 ---
 
 ## 2021
@@ -68,6 +68,10 @@
 
 
 ## 2020
+
+### Повелители DOOM
+Дэвид Кушнер
+
 
 ### Горе от ума
 А.С.Грибоедов
