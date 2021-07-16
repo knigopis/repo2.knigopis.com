@@ -1,4 +1,16 @@
 {
+    "WffG_nzXLO": {
+        "id": "WffG_nzXLO",
+        "title": "Ворота расёмон",
+        "author": "Рюноскэ Акутагава",
+        "notes": "",
+        "createdAt": "2021-07-16 17:47:36",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 21
+        }
+    },
     "PmuylMx7Dl": {
         "id": "PmuylMx7Dl",
         "title": "Юноши и смерть",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 30
-        }
-    },
-    "BzkYo4GajT": {
-        "id": "BzkYo4GajT",
-        "title": "Русский человек на rendez-vous",
-        "author": "Николай Гаврилович Чернышевский",
-        "notes": "",
-        "createdAt": "2021-07-13 18:22:40",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 78
         }
     }
 }

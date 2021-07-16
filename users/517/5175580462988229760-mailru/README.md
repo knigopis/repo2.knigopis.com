@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>20</sup>
+# List of books read by Triste<sup>21</sup>
 ---
 
 ## 2021
@@ -90,6 +90,10 @@
 
 
 ## 2019
+
+### Ворота расёмон
+Рюноскэ Акутагава
+
 
 ### Юноши и смерть
 Рюноскэ Акутагава
