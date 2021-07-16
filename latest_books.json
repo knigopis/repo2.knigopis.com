@@ -1,4 +1,16 @@
 {
+    "-ZfWoFwjgx": {
+        "id": "-ZfWoFwjgx",
+        "title": "Джазовые портреты",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2021-07-16 17:41:51",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 17
+        }
+    },
     "UzJ4Dc3nYM": {
         "id": "UzJ4Dc3nYM",
         "title": "Поэма \"Реквием\"",
@@ -345,18 +357,6 @@
             "id": "880015719-yandex",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "nISrDX7gE1": {
-        "id": "nISrDX7gE1",
-        "title": "Чистая архитектура. Искусство разработки программного обеспечения",
-        "author": "Роберт Мартин",
-        "notes": "SOLID и много про D (dependency inversion), потому что много про \"детали\" и отношение между зависимостями.",
-        "createdAt": "2021-07-13 07:20:57",
-        "user": {
-            "id": "917342266-yandex",
-            "nickname": "gotoroho",
-            "booksCount": 2
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>16</sup>
+# List of books read by Triste<sup>17</sup>
 ---
 
 ## 2021
+
+### Джазовые портреты
+Харуки Мураками
+> [2021-07] 
+
 
 ### Отцы и дети
 И.С.Тургенев
