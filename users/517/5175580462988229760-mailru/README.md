@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>23</sup>
+# List of books read by Triste<sup>24</sup>
 ---
 
 ## 2021
@@ -90,6 +90,10 @@
 
 
 ## 2019
+
+### Бататовая каша
+Рюноскэ Акутагава
+
 
 ### Нос
 Рюноскэ Акутагава

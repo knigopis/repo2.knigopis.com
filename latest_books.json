@@ -1,4 +1,16 @@
 {
+    "XgwjdHpkyx": {
+        "id": "XgwjdHpkyx",
+        "title": "Бататовая каша",
+        "author": "Рюноскэ Акутагава",
+        "notes": "",
+        "createdAt": "2021-07-16 17:48:19",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 24
+        }
+    },
     "FKYaT9bLhG": {
         "id": "FKYaT9bLhG",
         "title": "Нос",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 33
-        }
-    },
-    "qyt2Qo4LNZ": {
-        "id": "qyt2Qo4LNZ",
-        "title": "Еда и Патроны, книга первая",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-14 09:25:56",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 32
         }
     }
 }
