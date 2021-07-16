@@ -1,4 +1,16 @@
 {
+    "UzJ4Dc3nYM": {
+        "id": "UzJ4Dc3nYM",
+        "title": "Поэма \"Реквием\"",
+        "author": "А.А.Ахматова",
+        "notes": "",
+        "createdAt": "2021-07-16 17:41:00",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 16
+        }
+    },
     "985Rw8ceEn": {
         "id": "985Rw8ceEn",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "917342266-yandex",
             "nickname": "gotoroho",
             "booksCount": 2
-        }
-    },
-    "JDU1nrfkOV": {
-        "id": "JDU1nrfkOV",
-        "title": "Архитектура сложных веб-приложений. С примерами на Laravel",
-        "author": "Адель Файзрахманов",
-        "notes": "Внедрение зависимостей\nСлой Приложения\nВалидация (dto + value object)\nUnit-тестирование",
-        "createdAt": "2021-07-13 07:11:01",
-        "user": {
-            "id": "917342266-yandex",
-            "nickname": "gotoroho",
-            "booksCount": 1
         }
     }
 }
