@@ -1,4 +1,16 @@
 {
+    "kaSCCah9qy": {
+        "id": "kaSCCah9qy",
+        "title": "Мастер и Маргарита",
+        "author": "Ф.М.Достоевский",
+        "notes": "",
+        "createdAt": "2021-07-16 17:32:30",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 6
+        }
+    },
     "2eEnQ5JhiX": {
         "id": "2eEnQ5JhiX",
         "title": "Все семь волн",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 26
-        }
-    },
-    "SmgSsSyCyM": {
-        "id": "SmgSsSyCyM",
-        "title": "Наука любить",
-        "author": "Овидий",
-        "notes": "",
-        "createdAt": "2021-07-12 21:23:34",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 25
         }
     }
 }

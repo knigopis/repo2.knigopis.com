@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>6</sup> 
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
 [wabisabimaid](users/420/420017445-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>868</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>105</sup> 
 [ergindahouse](users/362/362555681-vkontakte)<sup>1</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
-[Sonya](users/107/107611652965676430384-google)<sup>0</sup> 
 
 
-_16.07.2021 17:31:20_
+_16.07.2021 17:32:30_

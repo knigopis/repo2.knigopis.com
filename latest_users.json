@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 6,
+        "updatedAt": "2021-07-16 17:32:30"
+    },
     "2193185692363496955-mailru": {
         "id": "2193185692363496955-mailru",
         "nickname": "Ruko Shit",
@@ -172,11 +178,5 @@
         "nickname": "Askaliya",
         "booksCount": 13,
         "updatedAt": "2021-07-04 19:02:54"
-    },
-    "107611652965676430384-google": {
-        "id": "107611652965676430384-google",
-        "nickname": "Sonya",
-        "booksCount": 0,
-        "updatedAt": "2021-07-04 06:47:39"
     }
 }
