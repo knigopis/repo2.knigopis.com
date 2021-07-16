@@ -1,4 +1,16 @@
 {
+    "bAlPRwLwPC": {
+        "id": "bAlPRwLwPC",
+        "title": "Морфий",
+        "author": "Булгаков М.А.",
+        "notes": "Любимая книга.",
+        "createdAt": "2021-07-16 17:43:27",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 19
+        }
+    },
     "cNQYirwy_W": {
         "id": "cNQYirwy_W",
         "title": "Повелители DOOM",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 866
-        }
-    },
-    "ol1h-q0rEI": {
-        "id": "ol1h-q0rEI",
-        "title": "Дама с камелиями",
-        "author": "А.Дюма",
-        "notes": "",
-        "createdAt": "2021-07-13 12:07:39",
-        "user": {
-            "id": "880015719-yandex",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
