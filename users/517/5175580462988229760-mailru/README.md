@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>24</sup>
+# List of books read by Triste<sup>25</sup>
 ---
 
 ## 2021
@@ -90,6 +90,10 @@
 
 
 ## 2019
+
+### Обезьяна
+Рюноскэ Акутагава
+
 
 ### Бататовая каша
 Рюноскэ Акутагава

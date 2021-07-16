@@ -1,4 +1,16 @@
 {
+    "-xA7Y5sCAL": {
+        "id": "-xA7Y5sCAL",
+        "title": "Обезьяна",
+        "author": "Рюноскэ Акутагава",
+        "notes": "",
+        "createdAt": "2021-07-16 17:48:31",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 25
+        }
+    },
     "XgwjdHpkyx": {
         "id": "XgwjdHpkyx",
         "title": "Бататовая каша",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 34
-        }
-    },
-    "xLZr-4Arb4": {
-        "id": "xLZr-4Arb4",
-        "title": "Еда и Патроны, книга вторая",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-14 09:26:00",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 33
         }
     }
 }
