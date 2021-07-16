@@ -1,4 +1,16 @@
 {
+    "FKYaT9bLhG": {
+        "id": "FKYaT9bLhG",
+        "title": "Нос",
+        "author": "Рюноскэ Акутагава",
+        "notes": "",
+        "createdAt": "2021-07-16 17:48:04",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 23
+        }
+    },
     "kGfLb8HBXM": {
         "id": "kGfLb8HBXM",
         "title": "Ад одиночества",
@@ -345,18 +357,6 @@
             "id": "116650782618177766821-googleplus",
             "nickname": "Дмитрий Витальевич",
             "booksCount": 32
-        }
-    },
-    "PbYm4zMQsb": {
-        "id": "PbYm4zMQsb",
-        "title": "Низший, книга вторая",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-14 09:25:46",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 31
         }
     }
 }
