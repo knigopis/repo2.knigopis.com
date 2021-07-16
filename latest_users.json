@@ -1,4 +1,10 @@
 {
+    "420017445-vkontakte": {
+        "id": "420017445-vkontakte",
+        "nickname": "wabisabimaid",
+        "booksCount": 0,
+        "updatedAt": "2021-07-16 17:18:22"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Рамиля",
         "booksCount": 0,
         "updatedAt": "2021-07-02 20:00:06"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 99,
-        "updatedAt": "2021-07-02 07:01:36"
     }
 }
