@@ -1,4 +1,16 @@
 {
+    "PmuylMx7Dl": {
+        "id": "PmuylMx7Dl",
+        "title": "Юноши и смерть",
+        "author": "Рюноскэ Акутагава",
+        "notes": "",
+        "createdAt": "2021-07-16 17:44:50",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 20
+        }
+    },
     "bAlPRwLwPC": {
         "id": "bAlPRwLwPC",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 78
-        }
-    },
-    "N44BcAgTtF": {
-        "id": "N44BcAgTtF",
-        "title": "Преступления Сильвестра Бонара",
-        "author": "Анатоль Франс",
-        "notes": "",
-        "createdAt": "2021-07-13 17:40:31",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 866
         }
     }
 }

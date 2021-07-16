@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>19</sup>
+# List of books read by Triste<sup>20</sup>
 ---
 
 ## 2021
@@ -90,6 +90,10 @@
 
 
 ## 2019
+
+### Юноши и смерть
+Рюноскэ Акутагава
+
 
 ### Баллада "Светлана"
 В.А.Жуковский
