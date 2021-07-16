@@ -1,4 +1,16 @@
 {
+    "rVlvZPhkZh": {
+        "id": "rVlvZPhkZh",
+        "title": "Бабочки полет",
+        "author": "Кобаяси Исса, Басё",
+        "notes": "",
+        "createdAt": "2021-07-16 17:54:43",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 27
+        }
+    },
     "MkHr3wGN3r": {
         "id": "MkHr3wGN3r",
         "title": "Торжество незначительности",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 36
-        }
-    },
-    "hCZS4bLERn": {
-        "id": "hCZS4bLERn",
-        "title": "На Западном фронте без перемен",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-14 09:27:05",
-        "user": {
-            "id": "116650782618177766821-googleplus",
-            "nickname": "Дмитрий Витальевич",
-            "booksCount": 35
         }
     }
 }
