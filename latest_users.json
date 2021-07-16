@@ -1,4 +1,10 @@
 {
+    "2193185692363496955-mailru": {
+        "id": "2193185692363496955-mailru",
+        "nickname": "Ruko Shit",
+        "booksCount": 0,
+        "updatedAt": "2021-07-16 17:31:19"
+    },
     "420017445-vkontakte": {
         "id": "420017445-vkontakte",
         "nickname": "wabisabimaid",
@@ -172,11 +178,5 @@
         "nickname": "Sonya",
         "booksCount": 0,
         "updatedAt": "2021-07-04 06:47:39"
-    },
-    "106525547149695326212-google": {
-        "id": "106525547149695326212-google",
-        "nickname": "Рамиля",
-        "booksCount": 0,
-        "updatedAt": "2021-07-02 20:00:06"
     }
 }
