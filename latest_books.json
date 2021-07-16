@@ -1,4 +1,16 @@
 {
+    "uzkDP716k4": {
+        "id": "uzkDP716k4",
+        "title": "Слово о полку Игореве",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-07-16 17:38:30",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 13
+        }
+    },
     "KKk6xVUnll": {
         "id": "KKk6xVUnll",
         "title": "Недоросль",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 34
-        }
-    },
-    "WR9uxerfbO": {
-        "id": "WR9uxerfbO",
-        "title": "Бойня №5",
-        "author": "Курт Воннегут",
-        "notes": "",
-        "createdAt": "2021-07-12 21:30:17",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 33
         }
     }
 }
