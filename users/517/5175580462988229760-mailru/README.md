@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>28</sup>
+# List of books read by Triste<sup>29</sup>
 ---
 
 ## 2021
@@ -103,6 +103,10 @@
 
 
 ## 2019
+
+### Лики времени
+Александр Прасол
+
 
 ### Обезьяна
 Рюноскэ Акутагава
