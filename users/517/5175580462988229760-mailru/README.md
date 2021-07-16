@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>21</sup>
+# List of books read by Triste<sup>22</sup>
 ---
 
 ## 2021
@@ -90,6 +90,10 @@
 
 
 ## 2019
+
+### Ад одиночества
+Рюноскэ Акутагава
+
 
 ### Ворота расёмон
 Рюноскэ Акутагава
