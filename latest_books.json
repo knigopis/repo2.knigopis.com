@@ -1,4 +1,16 @@
 {
+    "bvgo_kl0e2": {
+        "id": "bvgo_kl0e2",
+        "title": "Баллада \"Светлана\"",
+        "author": "В.А.Жуковский",
+        "notes": "",
+        "createdAt": "2021-07-16 17:39:35",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 14
+        }
+    },
     "uzkDP716k4": {
         "id": "uzkDP716k4",
         "title": "Слово о полку Игореве",
@@ -345,18 +357,6 @@
             "id": "445613750-yandex",
             "nickname": "goldpony",
             "booksCount": 35
-        }
-    },
-    "UIt6H3rTuE": {
-        "id": "UIt6H3rTuE",
-        "title": "Последняя империя. Падение Советского Союза",
-        "author": "Сергей Плохий",
-        "notes": "",
-        "createdAt": "2021-07-12 21:32:41",
-        "user": {
-            "id": "445613750-yandex",
-            "nickname": "goldpony",
-            "booksCount": 34
         }
     }
 }
