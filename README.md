@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>342</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>343</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>293</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>29</sup> 
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 
 
-_18.07.2021 14:18:36_
+_18.07.2021 14:19:04_
