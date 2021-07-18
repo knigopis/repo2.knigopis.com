@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>341</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>342</sup>
 ---
 
 ## 2021
+
+### Мизери
+Стивен Кинг
+> [2021-07-18] 
+
 
 ### Кристина
 Стивен Кинг
