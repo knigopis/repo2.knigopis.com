@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>340</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>341</sup>
 ---
 
 ## 2021
+
+### Кристина
+Стивен Кинг
+> [2021-07-17] 
+
 
 ### Лолита
 Владимир Набоков

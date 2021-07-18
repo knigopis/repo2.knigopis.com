@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>341</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>293</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>29</sup> 
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>868</sup> 
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>101</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>340</sup> 
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>35</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 
 
-_18.07.2021 14:04:10_
+_18.07.2021 14:17:54_
