@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>240</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>343</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>293</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>29</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>262</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>105</sup> 
 [ergindahouse](users/362/362555681-vkontakte)<sup>1</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>13</sup> 
 
 
-_18.07.2021 14:19:04_
+_18.07.2021 15:31:37_
