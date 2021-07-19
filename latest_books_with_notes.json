@@ -1,4 +1,16 @@
 {
+    "nUv6bat2ss": {
+        "id": "nUv6bat2ss",
+        "title": "Остров Сокровищ",
+        "author": "Роберт Стивенсон",
+        "notes": "audio",
+        "createdAt": "2021-07-19 14:07:59",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "vitasoft",
+            "booksCount": 41
+        }
+    },
     "sMi_aFF6Kj": {
         "id": "sMi_aFF6Kj",
         "title": "Мужская логика 8-го Марта (рассказ)",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 49
-        }
-    },
-    "yqz4MW91lO": {
-        "id": "yqz4MW91lO",
-        "title": "Режим бога (фанфик из 7 пока книг)",
-        "author": "Вязовский Алексей",
-        "notes": "Альтернативка\nИнтересная. У автора хороший язык\nОценка 5-",
-        "createdAt": "2021-06-21 15:25:30",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 48
         }
     }
 }

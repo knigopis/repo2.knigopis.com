@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
+    > audio
+
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
     > Илюшин и Бабкин1.   зарабатывали на жизнь несложным физическим трудом с незначительными вкраплениями умственного....отшутилась, сказав, что врожденные комплексы не позволяют ей встречаться с мужчинами ниже ее ростом.....обладал характером романтического танка, то есть пер напролом, но с выдумкой, время от времени являя окружающим доброту характера и бескорыстие, чем ошеломлял их до глубины души.... А из положения жертвы так удобно управлять ситуацией – не правда ли
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В случа екстраординарных событий первым делом обеспечь свою безопасность. Затем-зафиксируй то, что видишь.
 
 * Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
-    > Брошено. Скучно.
 
 * Морфий ~ [Triste](users/517/5175580462988229760-mailru)<sup>19</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
 
-* Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>41</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>111</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>240</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>343</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>147</sup> 
 [nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>262</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>105</sup> 
 
 
-_19.07.2021 08:00:54_
+_19.07.2021 14:07:59_

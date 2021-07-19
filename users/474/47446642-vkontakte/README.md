@@ -1,7 +1,12 @@
-# List of books read by [vitasoft](http://vk.com/id47446642)<sup>40</sup>
+# List of books read by [vitasoft](http://vk.com/id47446642)<sup>41</sup>
 ---
 
 ## 2021
+
+### Остров Сокровищ
+Роберт Стивенсон
+> [2021-06-12] audio
+
 
 ### «Обладать»
 Сьюзен Байетт
