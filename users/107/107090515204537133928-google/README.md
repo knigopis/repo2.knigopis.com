@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>110</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>111</sup>
 ---
 
 ## 2021
+
+### Страна Рождества
+Джо Хилл
+> [2021-07-19] 
+
 
 ### Человек амфибия
 Александр Беляев

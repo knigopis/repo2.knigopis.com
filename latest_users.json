@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 111,
+        "updatedAt": "2021-07-19 08:00:54"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 105,
         "updatedAt": "2021-07-06 02:07:13"
-    },
-    "362555681-vkontakte": {
-        "id": "362555681-vkontakte",
-        "nickname": "ergindahouse",
-        "booksCount": 1,
-        "updatedAt": "2021-07-05 05:24:26"
     }
 }
