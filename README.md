@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
+    > Люби на здоровье. Но не привязывайся. Потому что, как только привяжешься, сразу начнешь стараться быть незаменимым. И будешь не тем, кто ты, а тем, кого хотят видеть.
+    > Гроза опускается все ниже и ниже, сшивая небо и землю кривыми сверкающими стежками.
+
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
     > audio
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Илюшин и Бабкин1.   зарабатывали на жизнь несложным физическим трудом с незначительными вкраплениями умственного....отшутилась, сказав, что врожденные комплексы не позволяют ей встречаться с мужчинами ниже ее ростом.....обладал характером романтического танка, то есть пер напролом, но с выдумкой, время от времени являя окружающим доброту характера и бескорыстие, чем ошеломлял их до глубины души.... А из положения жертвы так удобно управлять ситуацией – не правда ли
 
 * Тот, кто ловит мотыльков ~ [Chiffi](users/105/105831994080785626680-google)<sup>292</sup>
-    > В случа екстраординарных событий первым делом обеспечь свою безопасность. Затем-зафиксируй то, что видишь.
 
 * Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
 
-* Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup> 
 [Оми](users/110/110990350469188914110-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>112</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>24</sup> 
@@ -58,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>289</sup> 
 [nezit](users/333/33343845-vkontakte)<sup>0</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>63</sup> 
 [SuperJu](users/791/791518651-soundcloud)<sup>14</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>147</sup> 
 [nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
 
 
-_20.07.2021 20:13:05_
+_20.07.2021 22:23:30_

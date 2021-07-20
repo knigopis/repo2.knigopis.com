@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 64,
+        "updatedAt": "2021-07-20 22:23:30"
+    },
     "110990350469188914110-google": {
         "id": "110990350469188914110-google",
         "nickname": "Оми",
@@ -148,12 +154,6 @@
         "nickname": "nezit",
         "booksCount": 0,
         "updatedAt": "2021-07-10 12:05:52"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 63,
-        "updatedAt": "2021-07-08 20:39:00"
     },
     "791518651-soundcloud": {
         "id": "791518651-soundcloud",

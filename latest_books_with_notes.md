@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
 * Тот, кто ловит мотыльков ~ [Chiffi](users/105/105831994080785626680-google)<sup>292</sup>
@@ -30,7 +31,6 @@
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
 * Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 * *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
-* Малец ~ [dromoman2008](users/444/44461886-yandex)<sup>49</sup>
 
 
-_19.07.2021 14:07:59_
+_20.07.2021 22:23:30_
