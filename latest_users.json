@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 112,
+        "updatedAt": "2021-07-20 10:36:08"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -10,12 +16,6 @@
         "nickname": "vitasoft",
         "booksCount": 41,
         "updatedAt": "2021-07-19 14:07:59"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 111,
-        "updatedAt": "2021-07-19 08:00:54"
     },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",

@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>112</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>24</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>41</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>111</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>240</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>343</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>293</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>262</sup> 
 
 
-_20.07.2021 08:21:11_
+_20.07.2021 10:36:08_
