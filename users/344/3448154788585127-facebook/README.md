@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>23</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>24</sup>
 ---
 
 ## 2021
+
+### Исчезновение Стефани Мейлер
+Диккер Жоэль
+> [2021-07-20] 
+
 
 ### Страна радости
 Кинг Стивен
