@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оми](users/110/110990350469188914110-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>112</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>24</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>41</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>147</sup> 
 [nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>262</sup> 
 
 
-_20.07.2021 10:36:08_
+_20.07.2021 20:13:05_
