@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>10</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup> 
 [Оми](users/110/110990350469188914110-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>112</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SuperJu](users/791/791518651-soundcloud)<sup>14</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>147</sup> 
-[nzakirov](users/107/107015185865743977724-google)<sup>0</sup> 
 
 
-_20.07.2021 22:23:30_
+_21.07.2021 06:02:33_
