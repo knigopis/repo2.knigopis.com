@@ -1,4 +1,16 @@
 {
+    "ap-fk6UG6I": {
+        "id": "ap-fk6UG6I",
+        "title": "Хорошо быть тихоней",
+        "author": "Стивен Чбоски",
+        "notes": "",
+        "createdAt": "2021-07-21 10:32:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 869
+        }
+    },
     "VTy6VwVm4Y": {
         "id": "VTy6VwVm4Y",
         "title": "Ближе, чем ты думаешь",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 14
-        }
-    },
-    "uzkDP716k4": {
-        "id": "uzkDP716k4",
-        "title": "Слово о полку Игореве",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-16 17:38:30",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 13
         }
     }
 }

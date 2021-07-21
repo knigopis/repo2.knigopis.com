@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>869</sup> 
 [](users/153/1537586159620888-facebook)<sup>49</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>10</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>29</sup> 
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
 [wabisabimaid](users/420/420017445-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>868</sup> 
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>101</sup> 
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 
 
-_21.07.2021 07:54:48_
+_21.07.2021 10:32:42_
