@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
+    > Илюшин и Бабкин2. Перечитываю второй раз. Решила вспомнить чем начиналась серия
+
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
     > Люби на здоровье. Но не привязывайся. Потому что, как только привяжешься, сразу начнешь стараться быть незаменимым. И будешь не тем, кто ты, а тем, кого хотят видеть.
     > Гроза опускается все ниже и ниже, сшивая небо и землю кривыми сверкающими стежками.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
-    > Илюшин и Бабкин1.   зарабатывали на жизнь несложным физическим трудом с незначительными вкраплениями умственного....отшутилась, сказав, что врожденные комплексы не позволяют ей встречаться с мужчинами ниже ее ростом.....обладал характером романтического танка, то есть пер напролом, но с выдумкой, время от времени являя окружающим доброту характера и бескорыстие, чем ошеломлял их до глубины души.... А из положения жертвы так удобно управлять ситуацией – не правда ли
 
 * Тот, кто ловит мотыльков ~ [Chiffi](users/105/105831994080785626680-google)<sup>292</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
 
-* Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>294</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>11</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>869</sup> 
 [](users/153/1537586159620888-facebook)<sup>49</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>41</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>240</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>343</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>293</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>29</sup> 
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
 [wabisabimaid](users/420/420017445-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 
 
-_21.07.2021 14:19:07_
+_21.07.2021 16:44:04_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
@@ -30,7 +31,6 @@
 * Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
 * Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
-* *69 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>196</sup>
 
 
-_20.07.2021 22:23:30_
+_21.07.2021 16:44:04_
