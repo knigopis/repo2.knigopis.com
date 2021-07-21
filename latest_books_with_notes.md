@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
 * Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
 * Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
 * Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
-* Поступай как женщина, думай как мужчина ~ [albina_untiring](users/257/2579695-vkontakte)<sup>14</sup>
 
 
-_21.07.2021 16:44:04_
+_21.07.2021 16:51:52_

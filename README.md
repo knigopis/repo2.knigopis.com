@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
+    > Илюшин и Бабкин 18. Решила перечитать серию, но в доступе очень мало книг.
+    > Меня окружали хорошие люди, медленно сжимая кольцо.
+
 * Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
     > Илюшин и Бабкин2. Перечитываю второй раз. Решила вспомнить чем начиналась серия
 
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Гроза опускается все ниже и ниже, сшивая небо и землю кривыми сверкающими стежками.
 
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
-    > audio
 
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
 
-* Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>294</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>11</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>869</sup> 
 [](users/153/1537586159620888-facebook)<sup>49</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 
 
-_21.07.2021 16:44:04_
+_21.07.2021 16:51:52_
