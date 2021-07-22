@@ -1,4 +1,16 @@
 {
+    "6MXe80glRp": {
+        "id": "6MXe80glRp",
+        "title": "Остров доктора Моро",
+        "author": "Герберт Уэлс",
+        "notes": "",
+        "createdAt": "2021-07-22 07:37:30",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 113
+        }
+    },
     "rkahynVzIn": {
         "id": "rkahynVzIn",
         "title": "Прощание с Матёрой",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 18
-        }
-    },
-    "-ZfWoFwjgx": {
-        "id": "-ZfWoFwjgx",
-        "title": "Джазовые портреты",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2021-07-16 17:41:51",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 17
         }
     }
 }

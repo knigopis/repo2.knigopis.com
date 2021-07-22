@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>112</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>113</sup>
 ---
 
 ## 2021
+
+### Остров доктора Моро
+Герберт Уэлс
+> [2021-07-22] 
+
 
 ### Способный ученик
 Стивен Кинг
