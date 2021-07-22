@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>102</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>113</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>168</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
 [wabisabimaid](users/420/420017445-vkontakte)<sup>0</sup> 
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>101</sup> 
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>35</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 
 
-_22.07.2021 07:37:30_
+_22.07.2021 20:10:26_
