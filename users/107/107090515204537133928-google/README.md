@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>113</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>114</sup>
 ---
 
 ## 2021
+
+### Зелёный луч
+Жюль Верн
+> [2021-07-23] 
+
 
 ### Остров доктора Моро
 Герберт Уэллс
