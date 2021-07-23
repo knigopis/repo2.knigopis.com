@@ -1,4 +1,16 @@
 {
+    "FrxiZ1MMLQ": {
+        "id": "FrxiZ1MMLQ",
+        "title": "Фидель на Донбассе. Записки военкора",
+        "author": "Вадим Канделинский",
+        "notes": "",
+        "createdAt": "2021-07-23 14:53:37",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 103
+        }
+    },
     "XUvH_qspnl": {
         "id": "XUvH_qspnl",
         "title": "Глубина",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 23
-        }
-    },
-    "kGfLb8HBXM": {
-        "id": "kGfLb8HBXM",
-        "title": "Ад одиночества",
-        "author": "Рюноскэ Акутагава",
-        "notes": "",
-        "createdAt": "2021-07-16 17:47:48",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 22
         }
     }
 }

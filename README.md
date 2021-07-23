@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>103</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>115</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>870</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>102</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>168</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>11</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 
 
-_23.07.2021 07:36:46_
+_23.07.2021 14:53:37_
