@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
 * Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
 * Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 * Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
 * Я – княгиня Ольга. Первая женщина на русском престоле ~ [mfevralev](users/140/140966150-vkontakte)<sup>51</sup>
-* Огненный перст ~ [Chiffi](users/105/105831994080785626680-google)<sup>288</sup>
 
 
-_21.07.2021 16:51:52_
+_23.07.2021 15:15:43_

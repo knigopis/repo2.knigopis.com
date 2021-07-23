@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
+    > Это стоит прочесть.
+
 * Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
     > Илюшин и Бабкин 18. Решила перечитать серию, но в доступе очень мало книг.
     > Меня окружали хорошие люди, медленно сжимая кольцо.
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Илюшин и Бабкин2. Перечитываю второй раз. Решила вспомнить чем начиналась серия
 
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
-    > Люби на здоровье. Но не привязывайся. Потому что, как только привяжешься, сразу начнешь стараться быть незаменимым. И будешь не тем, кто ты, а тем, кого хотят видеть.
-    > Гроза опускается все ниже и ниже, сшивая небо и землю кривыми сверкающими стежками.
 
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Ася, русский человек на рандеву, драма без развязки ~ [Rainbow](users/109/109787328219839805802-google)<sup>76</sup>
 
-* Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>64</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>103</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>115</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>870</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>289</sup> 
 [nezit](users/333/33343845-vkontakte)<sup>0</sup> 
 [SuperJu](users/791/791518651-soundcloud)<sup>14</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup> 
 
 
-_23.07.2021 14:53:37_
+_23.07.2021 15:15:43_
