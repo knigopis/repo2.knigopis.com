@@ -1,4 +1,16 @@
 {
+    "u3XE-TJ9f0": {
+        "id": "u3XE-TJ9f0",
+        "title": "Вторая жизнь Уве",
+        "author": "Фредерик Бакман",
+        "notes": "",
+        "createdAt": "2021-07-23 05:39:35",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 870
+        }
+    },
     "6SABKeAh2K": {
         "id": "6SABKeAh2K",
         "title": "Поток: Психология оптимального переживания",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 20
-        }
-    },
-    "bAlPRwLwPC": {
-        "id": "bAlPRwLwPC",
-        "title": "Морфий",
-        "author": "Булгаков М.А.",
-        "notes": "Любимая книга.",
-        "createdAt": "2021-07-16 17:43:27",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 19
         }
     }
 }
