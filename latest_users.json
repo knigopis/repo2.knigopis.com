@@ -1,4 +1,10 @@
 {
+    "4057739460942313-facebook": {
+        "id": "4057739460942313-facebook",
+        "nickname": "Лил",
+        "booksCount": 0,
+        "updatedAt": "2021-07-24 11:41:04"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "nezit",
         "booksCount": 0,
         "updatedAt": "2021-07-10 12:05:52"
-    },
-    "791518651-soundcloud": {
-        "id": "791518651-soundcloud",
-        "nickname": "SuperJu",
-        "booksCount": 14,
-        "updatedAt": "2021-07-08 19:44:25"
     }
 }
