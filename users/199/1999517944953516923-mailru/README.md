@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>9</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>10</sup>
 ---
 
 ## 2021
@@ -15,6 +15,11 @@
 
 
 ## 2015
+
+### Пожать руку богу (сборник)
+Курт Воннегут
+> [2015-05] 4/5
+
 
 ### Сияние
 Стивен Кинг

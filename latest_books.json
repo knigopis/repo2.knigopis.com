@@ -1,4 +1,16 @@
 {
+    "xte7hcIuYg": {
+        "id": "xte7hcIuYg",
+        "title": "Пожать руку богу (сборник)",
+        "author": "Курт Воннегут",
+        "notes": "4/5",
+        "createdAt": "2021-07-24 17:56:31",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 10
+        }
+    },
     "x3TgUXIBki": {
         "id": "x3TgUXIBki",
         "title": "Сияние",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 24
-        }
-    },
-    "nUv6bat2ss": {
-        "id": "nUv6bat2ss",
-        "title": "Остров Сокровищ",
-        "author": "Роберт Стивенсон",
-        "notes": "audio",
-        "createdAt": "2021-07-19 14:07:59",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 41
         }
     }
 }
