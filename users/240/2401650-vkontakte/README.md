@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя Joan8ied<sup>107</sup>
+# Список прочитанных книг пользователя Joan8ied<sup>108</sup>
 ---
 
 ## 2021
+
+### Notes from a Big Country (I'm a Stranger Here Myself)
+Bill Bryson
+> [2021-07-20] 
+
 
 ### The Mother Tongue: English and How It Got That Way
 Bill Bryson
