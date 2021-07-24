@@ -1,4 +1,16 @@
 {
+    "NXnwsDoQsQ": {
+        "id": "NXnwsDoQsQ",
+        "title": "Жизнь взаймы",
+        "author": "Этих Мария Ремарк",
+        "notes": "5/5",
+        "createdAt": "2021-07-24 18:08:02",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 23
+        }
+    },
     "B7cKNIMibb": {
         "id": "B7cKNIMibb",
         "title": "Волхв",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 115
-        }
-    },
-    "nkKfyILQlt": {
-        "id": "nkKfyILQlt",
-        "title": "Зелёный луч",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2021-07-23 06:42:26",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 114
         }
     }
 }
