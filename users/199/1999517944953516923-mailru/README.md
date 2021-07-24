@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>10</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>11</sup>
 ---
 
 ## 2021
@@ -15,6 +15,11 @@
 
 
 ## 2015
+
+### 69. Все оттенки голубого (сборник)
+Рю Мураками
+> [2015-07] 3/5
+
 
 ### Пожать руку богу (сборник)
 Курт Воннегут

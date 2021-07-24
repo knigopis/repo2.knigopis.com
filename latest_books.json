@@ -1,4 +1,16 @@
 {
+    "ou9qbG99Ob": {
+        "id": "ou9qbG99Ob",
+        "title": "69. Все оттенки голубого (сборник)",
+        "author": "Рю Мураками",
+        "notes": "3/5",
+        "createdAt": "2021-07-24 17:57:40",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 11
+        }
+    },
     "xte7hcIuYg": {
         "id": "xte7hcIuYg",
         "title": "Пожать руку богу (сборник)",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 112
-        }
-    },
-    "s_2s5qru3e": {
-        "id": "s_2s5qru3e",
-        "title": "Исчезновение Стефани Мейлер",
-        "author": "Диккер Жоэль",
-        "notes": "",
-        "createdAt": "2021-07-20 08:21:11",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 24
         }
     }
 }
