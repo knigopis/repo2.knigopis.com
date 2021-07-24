@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>23</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>24</sup>
 ---
 
 ## 2021
@@ -15,6 +15,11 @@
 
 
 ## 2015
+
+### Лекции по судебной психиатрии
+Вячеслав Пауков
+> [2015-11] 4/5
+
 
 ### Жизнь взаймы
 Этих Мария Ремарк
