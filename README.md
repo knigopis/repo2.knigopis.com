@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Joan8ied](users/240/2401650-vkontakte)<sup>107</sup> 
 [alley_gators](users/199/1999517944953516923-mailru)<sup>36</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>290</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/880/880015719-yandex)<sup>2</sup> 
 [](users/158/15831034236773408786-mailru)<sup>0</sup> 
 [gotoroho](users/917/917342266-yandex)<sup>2</sup> 
-[](users/101/101179637838670611102-google)<sup>0</sup> 
 
 
-_24.07.2021 18:20:32_
+_24.07.2021 19:21:23_

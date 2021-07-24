@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "Joan8ied",
+        "booksCount": 107,
+        "updatedAt": "2021-07-24 19:21:23"
+    },
     "1999517944953516923-mailru": {
         "id": "1999517944953516923-mailru",
         "nickname": "alley_gators",
@@ -172,11 +178,5 @@
         "nickname": "gotoroho",
         "booksCount": 2,
         "updatedAt": "2021-07-13 07:20:57"
-    },
-    "101179637838670611102-google": {
-        "id": "101179637838670611102-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-07-12 21:06:47"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "lGFgxRMyoq": {
+        "id": "lGFgxRMyoq",
+        "title": "The Mother Tongue: English and How It Got That Way",
+        "author": "Bill Bryson",
+        "notes": "",
+        "createdAt": "2021-07-24 19:21:23",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "Joan8ied",
+            "booksCount": 107
+        }
+    },
     "lhN3Izsy_O": {
         "id": "lhN3Izsy_O",
         "title": "Введение в психоанализ. Лекции",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 9
-        }
-    },
-    "Fn0H7-hhDl": {
-        "id": "Fn0H7-hhDl",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "5/5",
-        "createdAt": "2021-07-24 17:54:41",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 8
         }
     }
 }
