@@ -1,4 +1,16 @@
 {
+    "EAWSqr3jLF": {
+        "id": "EAWSqr3jLF",
+        "title": "Книга Асты",
+        "author": "Барбара Вайн",
+        "notes": "4/5",
+        "createdAt": "2021-07-24 13:43:11",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 3
+        }
+    },
     "jX0mAsTGgE": {
         "id": "jX0mAsTGgE",
         "title": "Мизери",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 28
-        }
-    },
-    "rVlvZPhkZh": {
-        "id": "rVlvZPhkZh",
-        "title": "Бабочки полет",
-        "author": "Кобаяси Исса, Басё",
-        "notes": "",
-        "createdAt": "2021-07-16 17:54:43",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 27
         }
     }
 }
