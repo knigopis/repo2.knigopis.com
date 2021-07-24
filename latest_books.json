@@ -1,4 +1,16 @@
 {
+    "U_4DUYGWOH": {
+        "id": "U_4DUYGWOH",
+        "title": "Безнадега",
+        "author": "Стивен Кинг",
+        "notes": "3/5",
+        "createdAt": "2021-07-24 18:00:04",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 14
+        }
+    },
     "SzoW9VTeTY": {
         "id": "SzoW9VTeTY",
         "title": "Виноваты звезды",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 869
-        }
-    },
-    "VTy6VwVm4Y": {
-        "id": "VTy6VwVm4Y",
-        "title": "Ближе, чем ты думаешь",
-        "author": "Брэд Паркс",
-        "notes": "",
-        "createdAt": "2021-07-21 07:54:48",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 49
         }
     }
 }
