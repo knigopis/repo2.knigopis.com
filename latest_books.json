@@ -1,4 +1,16 @@
 {
+    "Fn0H7-hhDl": {
+        "id": "Fn0H7-hhDl",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "5/5",
+        "createdAt": "2021-07-24 17:54:41",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 8
+        }
+    },
     "_ogu8j_Obv": {
         "id": "_ogu8j_Obv",
         "title": "Игра престолов",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 111
-        }
-    },
-    "QeAD3ZfJab": {
-        "id": "QeAD3ZfJab",
-        "title": "Подай на хлебушек",
-        "author": "Темир Руслан",
-        "notes": "",
-        "createdAt": "2021-07-18 15:31:37",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 240
         }
     }
 }
