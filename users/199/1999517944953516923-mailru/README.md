@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>29</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>28</sup>
 ---
 
 ## 2021
@@ -15,11 +15,6 @@
 
 
 ## 2016
-
-### Алая карта. Поединок в "Приюте отшельника" (сборник)
-Буало-Нарсежак
-> [2016-02] 1/5
-
 
 ### Алая карта. Поединок в "Приюте отшельника" (сборник)
 Буало-Нарсежак
