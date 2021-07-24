@@ -1,4 +1,16 @@
 {
+    "B7cKNIMibb": {
+        "id": "B7cKNIMibb",
+        "title": "Волхв",
+        "author": "Джон Фаулз",
+        "notes": "3/5",
+        "createdAt": "2021-07-24 18:07:29",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 22
+        }
+    },
     "1NRZCHfW6I": {
         "id": "1NRZCHfW6I",
         "title": "Женщины",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 114
-        }
-    },
-    "u3XE-TJ9f0": {
-        "id": "u3XE-TJ9f0",
-        "title": "Вторая жизнь Уве",
-        "author": "Фредерик Бакман",
-        "notes": "",
-        "createdAt": "2021-07-23 05:39:35",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 870
         }
     }
 }
