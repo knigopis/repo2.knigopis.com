@@ -1,4 +1,16 @@
 {
+    "VtLYSNmUsy": {
+        "id": "VtLYSNmUsy",
+        "title": "Илон Маск. Правила успеха",
+        "author": "Джон Гришэм",
+        "notes": "",
+        "createdAt": "2021-07-24 22:01:58",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 211
+        }
+    },
     "qok2tMSha_": {
         "id": "qok2tMSha_",
         "title": "Книга лениво гуру",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 13
-        }
-    },
-    "U_NSFBhUmd": {
-        "id": "U_NSFBhUmd",
-        "title": "Преступление и наказание",
-        "author": "Федор Достоевский",
-        "notes": "4/5",
-        "createdAt": "2021-07-24 17:58:49",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 12
         }
     }
 }
