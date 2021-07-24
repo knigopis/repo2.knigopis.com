@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
+    > 8/10 Выловленная из реки мертвая девочка оживает и сразу находятся трое претендентов, готовых назвать ее своей дочкой.
+
 * Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
     > 10/10 ШаллАддам 1. Світ майбутнього, зруйнований кліматичними змінами та ненажерливими корпораціями. Геніальний вчений Деркач вирішуує покласти усюму край, навіть якщо це значитиме загибель для всіх.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Это стоит прочесть.
 
 * Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
-    > Илюшин и Бабкин 18. Решила перечитать серию, но в доступе очень мало книг.
-    > Меня окружали хорошие люди, медленно сжимая кольцо.
 
 * Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
 
-* Морфий ~ [Triste](users/517/5175580462988229760-mailru)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>290</sup> 
 [alley_gators](users/199/1999517944953516923-mailru)<sup>4</sup> 
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101179637838670611102-google)<sup>0</sup> 
 
 
-_24.07.2021 14:23:47_
+_24.07.2021 14:25:29_

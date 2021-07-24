@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
 * Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
 * Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
 * Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
@@ -30,7 +31,6 @@
 * По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
 * Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
-* Преступление и наказание ~ [Triste](users/517/5175580462988229760-mailru)<sup>3</sup>
 
 
-_24.07.2021 14:23:47_
+_24.07.2021 14:25:29_
