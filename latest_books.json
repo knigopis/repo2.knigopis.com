@@ -1,4 +1,16 @@
 {
+    "UEVfC-VGJ6": {
+        "id": "UEVfC-VGJ6",
+        "title": "Краткая история почти всего на свете",
+        "author": "Билла Брайсон",
+        "notes": "",
+        "createdAt": "2021-07-24 19:25:00",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "Joan8ied",
+            "booksCount": 109
+        }
+    },
     "9aMQgdnGfW": {
         "id": "9aMQgdnGfW",
         "title": "Notes from a Big Country (I'm a Stranger Here Myself)",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 11
-        }
-    },
-    "xte7hcIuYg": {
-        "id": "xte7hcIuYg",
-        "title": "Пожать руку богу (сборник)",
-        "author": "Курт Воннегут",
-        "notes": "4/5",
-        "createdAt": "2021-07-24 17:56:31",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 10
         }
     }
 }
