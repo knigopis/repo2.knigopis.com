@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>290</sup> 
 [alley_gators](users/199/1999517944953516923-mailru)<sup>4</sup> 
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>64</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gotoroho](users/917/917342266-yandex)<sup>2</sup> 
 [](users/101/101179637838670611102-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>289</sup> 
 
 
-_24.07.2021 13:43:50_
+_24.07.2021 13:44:28_

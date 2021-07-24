@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 290,
+        "updatedAt": "2021-07-24 13:44:28"
+    },
     "1999517944953516923-mailru": {
         "id": "1999517944953516923-mailru",
         "nickname": "alley_gators",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 16,
         "updatedAt": "2021-07-11 20:41:22"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 289,
-        "updatedAt": "2021-07-11 09:11:44"
     }
 }

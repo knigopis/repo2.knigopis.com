@@ -1,4 +1,16 @@
 {
+    "YVpzuzDwSL": {
+        "id": "YVpzuzDwSL",
+        "title": "Греческие и римские мифы. От Трои и Гомера до Пандоры и «Аватара»",
+        "author": "Филипп Матышак",
+        "notes": "",
+        "createdAt": "2021-07-24 13:44:28",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 290
+        }
+    },
     "XR8RyeTPy4": {
         "id": "XR8RyeTPy4",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 292
-        }
-    },
-    "XDTkVtNNUI": {
-        "id": "XDTkVtNNUI",
-        "title": "Лики времени",
-        "author": "Александр Прасол",
-        "notes": "",
-        "createdAt": "2021-07-16 19:03:59",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 29
         }
     }
 }
