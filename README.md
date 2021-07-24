@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/199/1999517944953516923-mailru)<sup>0</sup> 
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>64</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>103</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101179637838670611102-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>289</sup> 
-[nezit](users/333/33343845-vkontakte)<sup>0</sup> 
 
 
-_24.07.2021 11:42:20_
+_24.07.2021 12:55:30_
