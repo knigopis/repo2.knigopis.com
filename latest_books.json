@@ -1,4 +1,16 @@
 {
+    "XR8RyeTPy4": {
+        "id": "XR8RyeTPy4",
+        "title": "Голодные игры",
+        "author": "Сьюзен Коллинз",
+        "notes": "3/5",
+        "createdAt": "2021-07-24 13:43:50",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 4
+        }
+    },
     "EAWSqr3jLF": {
         "id": "EAWSqr3jLF",
         "title": "Книга Асты",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 29
-        }
-    },
-    "BMCW1B9sEb": {
-        "id": "BMCW1B9sEb",
-        "title": "Чужой из теней",
-        "author": "Тим Леббон",
-        "notes": "Брошено. Скучно.",
-        "createdAt": "2021-07-16 17:56:19",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 28
         }
     }
 }
