@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>31</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>32</sup>
 ---
 
 ## 2021
@@ -15,6 +15,11 @@
 
 
 ## 2016
+
+### Кладбище домашних животных
+Стивен Кинг
+> [2016-03] 4/5
+
 
 ### Хорошо быть тихоней
 Стивен Чбоски
