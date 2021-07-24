@@ -1,4 +1,16 @@
 {
+    "rPNbl0IBZU": {
+        "id": "rPNbl0IBZU",
+        "title": "Пироги и пиво, или Скелет в шкафу",
+        "author": "Сомерсет Моэм",
+        "notes": "5/5",
+        "createdAt": "2021-07-24 18:01:53",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 15
+        }
+    },
     "U_4DUYGWOH": {
         "id": "U_4DUYGWOH",
         "title": "Безнадега",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 11
-        }
-    },
-    "ap-fk6UG6I": {
-        "id": "ap-fk6UG6I",
-        "title": "Хорошо быть тихоней",
-        "author": "Стивен Чбоски",
-        "notes": "",
-        "createdAt": "2021-07-21 10:32:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 869
         }
     }
 }

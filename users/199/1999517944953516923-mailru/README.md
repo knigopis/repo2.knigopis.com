@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>14</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>15</sup>
 ---
 
 ## 2021
@@ -15,6 +15,11 @@
 
 
 ## 2015
+
+### Пироги и пиво, или Скелет в шкафу
+Сомерсет Моэм
+> [2015-08] 5/5
+
 
 ### Безнадега
 Стивен Кинг
