@@ -1,4 +1,16 @@
 {
+    "lhN3Izsy_O": {
+        "id": "lhN3Izsy_O",
+        "title": "Введение в психоанализ. Лекции",
+        "author": "Зигмунд Фрейд",
+        "notes": "3/5",
+        "createdAt": "2021-07-24 18:20:32",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 36
+        }
+    },
     "xLEtBl3ggP": {
         "id": "xLEtBl3ggP",
         "title": "Девушка в поезде",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 8
-        }
-    },
-    "_ogu8j_Obv": {
-        "id": "_ogu8j_Obv",
-        "title": "Игра престолов",
-        "author": "Джордж Мартин",
-        "notes": "4/5",
-        "createdAt": "2021-07-24 17:53:19",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 7
         }
     }
 }
