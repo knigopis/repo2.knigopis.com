@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 202,
+        "updatedAt": "2021-07-24 14:23:47"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-07-12 21:06:47"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 16,
-        "updatedAt": "2021-07-11 20:41:22"
     }
 }

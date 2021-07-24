@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
+    > 10/10 ШаллАддам 1. Світ майбутнього, зруйнований кліматичними змінами та ненажерливими корпораціями. Геніальний вчений Деркач вирішуує покласти усюму край, навіть якщо це значитиме загибель для всіх.
+
 * Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
     > Это стоит прочесть.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Меня окружали хорошие люди, медленно сжимая кольцо.
 
 * Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
-    > Илюшин и Бабкин2. Перечитываю второй раз. Решила вспомнить чем начиналась серия
 
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Морфий ~ [Triste](users/517/5175580462988229760-mailru)<sup>19</sup>
 
-* Ася, русский человек на рандеву, драма без развязки ~ [Rainbow](users/109/109787328219839805802-google)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>290</sup> 
 [alley_gators](users/199/1999517944953516923-mailru)<sup>4</sup> 
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/158/15831034236773408786-mailru)<sup>0</sup> 
 [gotoroho](users/917/917342266-yandex)<sup>2</sup> 
 [](users/101/101179637838670611102-google)<sup>0</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>16</sup> 
 
 
-_24.07.2021 13:44:28_
+_24.07.2021 14:23:47_
