@@ -1,4 +1,16 @@
 {
+    "ls80_r98Kr": {
+        "id": "ls80_r98Kr",
+        "title": "Игра в бисер",
+        "author": "Герман Гессе",
+        "notes": "4/5",
+        "createdAt": "2021-07-24 18:06:10",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 20
+        }
+    },
     "uaXz50NBG7": {
         "id": "uaXz50NBG7",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 102
-        }
-    },
-    "6MXe80glRp": {
-        "id": "6MXe80glRp",
-        "title": "Остров доктора Моро",
-        "author": "Герберт Уэлс",
-        "notes": "",
-        "createdAt": "2021-07-22 07:37:30",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 113
         }
     }
 }
