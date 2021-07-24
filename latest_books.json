@@ -1,4 +1,16 @@
 {
+    "x3TgUXIBki": {
+        "id": "x3TgUXIBki",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "4/5",
+        "createdAt": "2021-07-24 17:55:34",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 9
+        }
+    },
     "Fn0H7-hhDl": {
         "id": "Fn0H7-hhDl",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 41
-        }
-    },
-    "A5SvLcL3_c": {
-        "id": "A5SvLcL3_c",
-        "title": "Страна Рождества",
-        "author": "Джо Хилл",
-        "notes": "",
-        "createdAt": "2021-07-19 08:00:54",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 111
         }
     }
 }
