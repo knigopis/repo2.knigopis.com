@@ -1,4 +1,16 @@
 {
+    "qok2tMSha_": {
+        "id": "qok2tMSha_",
+        "title": "Книга лениво гуру",
+        "author": "Лоуренс Шортер",
+        "notes": "",
+        "createdAt": "2021-07-24 22:00:18",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 210
+        }
+    },
     "UEVfC-VGJ6": {
         "id": "UEVfC-VGJ6",
         "title": "Краткая история почти всего на свете",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 12
-        }
-    },
-    "ou9qbG99Ob": {
-        "id": "ou9qbG99Ob",
-        "title": "69. Все оттенки голубого (сборник)",
-        "author": "Рю Мураками",
-        "notes": "3/5",
-        "createdAt": "2021-07-24 17:57:40",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 11
         }
     }
 }
