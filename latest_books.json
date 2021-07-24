@@ -1,4 +1,16 @@
 {
+    "1NktfZJRt5": {
+        "id": "1NktfZJRt5",
+        "title": "Хорошо быть тихоней",
+        "author": "Стивен Чбоски",
+        "notes": "5/5",
+        "createdAt": "2021-07-24 18:17:37",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 31
+        }
+    },
     "SJI-MZkFI8": {
         "id": "SJI-MZkFI8",
         "title": "Буря мечей",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 202
-        }
-    },
-    "YVpzuzDwSL": {
-        "id": "YVpzuzDwSL",
-        "title": "Греческие и римские мифы. От Трои и Гомера до Пандоры и «Аватара»",
-        "author": "Филипп Матышак",
-        "notes": "",
-        "createdAt": "2021-07-24 13:44:28",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 290
         }
     }
 }
