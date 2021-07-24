@@ -1,4 +1,16 @@
 {
+    "xLEtBl3ggP": {
+        "id": "xLEtBl3ggP",
+        "title": "Девушка в поезде",
+        "author": "Пола Хокинс",
+        "notes": "3/5",
+        "createdAt": "2021-07-24 18:19:57",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 35
+        }
+    },
     "_B_VpYZELu": {
         "id": "_B_VpYZELu",
         "title": "Бумажные города",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 7
-        }
-    },
-    "ZMfCq8aa87": {
-        "id": "ZMfCq8aa87",
-        "title": "Секреты Лондона",
-        "author": "Коррадо Ауджиас",
-        "notes": "",
-        "createdAt": "2021-07-24 14:32:12",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 6
         }
     }
 }
