@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>28</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>29</sup>
 ---
 
 ## 2021
@@ -15,6 +15,11 @@
 
 
 ## 2016
+
+### Битва королей
+Джордж Мартин
+> [2016-02] 5/5
+
 
 ### Алая карта. Поединок в "Приюте отшельника" (сборник)
 Буало-Нарсежак
