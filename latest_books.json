@@ -1,4 +1,16 @@
 {
+    "RaVYuIdDXn": {
+        "id": "RaVYuIdDXn",
+        "title": "Любовь и дружба. Уотсоны. Сэндитон (сборник)",
+        "author": "Джейн Остин",
+        "notes": "3/5",
+        "createdAt": "2021-07-24 18:10:24",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 25
+        }
+    },
     "W0eITUhFNJ": {
         "id": "W0eITUhFNJ",
         "title": "Лекции по судебной психиатрии",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 64
-        }
-    },
-    "FrxiZ1MMLQ": {
-        "id": "FrxiZ1MMLQ",
-        "title": "Фидель на Донбассе. Записки военкора",
-        "author": "Вадим Канделинский",
-        "notes": "",
-        "createdAt": "2021-07-23 14:53:37",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 103
         }
     }
 }
