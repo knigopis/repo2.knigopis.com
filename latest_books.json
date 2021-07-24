@@ -1,4 +1,16 @@
 {
+    "L4aoZezzMX": {
+        "id": "L4aoZezzMX",
+        "title": "Маленькие женщины",
+        "author": "Луиза Мэй Олкотт",
+        "notes": "4,5/5",
+        "createdAt": "2021-07-24 14:27:57",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 5
+        }
+    },
     "xOjUqjBLMv": {
         "id": "xOjUqjBLMv",
         "title": "Пока течет река",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 342
-        }
-    },
-    "r-BLtQPbfK": {
-        "id": "r-BLtQPbfK",
-        "title": "Кристина",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-07-18 14:17:54",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 341
         }
     }
 }
