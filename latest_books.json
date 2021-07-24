@@ -1,4 +1,16 @@
 {
+    "_ogu8j_Obv": {
+        "id": "_ogu8j_Obv",
+        "title": "Игра престолов",
+        "author": "Джордж Мартин",
+        "notes": "4/5",
+        "createdAt": "2021-07-24 17:53:19",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 7
+        }
+    },
     "ZMfCq8aa87": {
         "id": "ZMfCq8aa87",
         "title": "Секреты Лондона",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 240
-        }
-    },
-    "8rjc-ysHQN": {
-        "id": "8rjc-ysHQN",
-        "title": "В стороне от большого света",
-        "author": "Юлия Жадовская",
-        "notes": "",
-        "createdAt": "2021-07-18 14:19:04",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 343
         }
     }
 }
