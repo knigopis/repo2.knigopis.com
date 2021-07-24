@@ -1,4 +1,4 @@
-# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>15</sup>
+# List of books read by [alley_gators](https://my.mail.ru/mail/alligatorsalley/)<sup>16</sup>
 ---
 
 ## 2021
@@ -15,6 +15,11 @@
 
 
 ## 2015
+
+### Колыбель для кошки. Бойня номер пять (сборник)
+Курт Воннегут
+> [2015-08] 4/5
+
 
 ### Пироги и пиво, или Скелет в шкафу
 Сомерсет Моэм

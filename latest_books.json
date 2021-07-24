@@ -1,4 +1,16 @@
 {
+    "gEtrflv4Xg": {
+        "id": "gEtrflv4Xg",
+        "title": "Колыбель для кошки. Бойня номер пять (сборник)",
+        "author": "Курт Воннегут",
+        "notes": "4/5",
+        "createdAt": "2021-07-24 18:02:58",
+        "user": {
+            "id": "1999517944953516923-mailru",
+            "nickname": "alley_gators",
+            "booksCount": 16
+        }
+    },
     "rPNbl0IBZU": {
         "id": "rPNbl0IBZU",
         "title": "Пироги и пиво, или Скелет в шкафу",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 294
-        }
-    },
-    "BLu3zJkUmT": {
-        "id": "BLu3zJkUmT",
-        "title": "Милена Завойчинская",
-        "author": "Невест-то много, я одна",
-        "notes": "",
-        "createdAt": "2021-07-21 14:19:07",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 11
         }
     }
 }
