@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[chenuliana](users/565/565577824-yandex)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>52</sup> 
 [](users/111/111703151104314187202-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>213</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>35</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
-[stenk](users/355/3556151164432717-facebook)<sup>0</sup> 
 
 
-_25.07.2021 10:51:03_
+_25.07.2021 11:54:33_
