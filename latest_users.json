@@ -1,4 +1,10 @@
 {
+    "111703151104314187202-google": {
+        "id": "111703151104314187202-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-07-25 05:41:35"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2021-07-13 12:07:39"
-    },
-    "15831034236773408786-mailru": {
-        "id": "15831034236773408786-mailru",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-07-13 12:03:00"
     }
 }
