@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 52,
+        "updatedAt": "2021-07-25 10:51:03"
+    },
     "111703151104314187202-google": {
         "id": "111703151104314187202-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "stenk",
         "booksCount": 0,
         "updatedAt": "2021-07-13 13:46:49"
-    },
-    "880015719-yandex": {
-        "id": "880015719-yandex",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2021-07-13 12:07:39"
     }
 }

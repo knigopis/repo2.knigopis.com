@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вихорь-Атаман ~ [mfevralev](users/140/140966150-vkontakte)<sup>52</sup>
+    > Хорошая про Платова
+
 * Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
     > 8/10 Выловленная из реки мертвая девочка оживает и сразу находятся трое претендентов, готовых назвать ее своей дочкой.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 ШаллАддам 1. Світ майбутнього, зруйнований кліматичними змінами та ненажерливими корпораціями. Геніальний вчений Деркач вирішуує покласти усюму край, навіть якщо це значитиме загибель для всіх.
 
 * Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
-    > Это стоит прочесть.
 
 * Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тот, кто ловит мотыльков ~ [Chiffi](users/105/105831994080785626680-google)<sup>292</sup>
 
-* Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>52</sup> 
 [](users/111/111703151104314187202-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>213</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>109</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>35</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
 [stenk](users/355/3556151164432717-facebook)<sup>0</sup> 
-[](users/880/880015719-yandex)<sup>2</sup> 
 
 
-_25.07.2021 05:41:36_
+_25.07.2021 10:51:03_
