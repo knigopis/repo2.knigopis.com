@@ -1,4 +1,10 @@
 {
+    "2579695-vkontakte": {
+        "id": "2579695-vkontakte",
+        "nickname": "albina_untiring",
+        "booksCount": 17,
+        "updatedAt": "2021-07-25 15:18:12"
+    },
     "565577824-yandex": {
         "id": "565577824-yandex",
         "nickname": "chenuliana",
@@ -172,11 +178,5 @@
         "nickname": "Дмитрий Витальевич",
         "booksCount": 35,
         "updatedAt": "2021-07-14 09:27:05"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 77,
-        "updatedAt": "2021-07-13 18:22:57"
     }
 }

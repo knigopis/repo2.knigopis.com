@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
+    > Приятные для меня факты, давно заметила, что важные вещи стоит планировать надолго вперед.
+
 * Вихорь-Атаман ~ [mfevralev](users/140/140966150-vkontakte)<sup>52</sup>
     > Хорошая про Платова
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Выловленная из реки мертвая девочка оживает и сразу находятся трое претендентов, готовых назвать ее своей дочкой.
 
 * Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
-    > 10/10 ШаллАддам 1. Світ майбутнього, зруйнований кліматичними змінами та ненажерливими корпораціями. Геніальний вчений Деркач вирішуує покласти усюму край, навіть якщо це значитиме загибель для всіх.
 
 * Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
 
-* Тот, кто ловит мотыльков ~ [Chiffi](users/105/105831994080785626680-google)<sup>292</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>17</sup> 
 [chenuliana](users/565/565577824-yandex)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>52</sup> 
 [](users/111/111703151104314187202-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-googleplus)<sup>35</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>77</sup> 
 
 
-_25.07.2021 11:54:33_
+_25.07.2021 15:18:13_

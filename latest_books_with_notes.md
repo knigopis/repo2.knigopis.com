@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
 * Вихорь-Атаман ~ [mfevralev](users/140/140966150-vkontakte)<sup>52</sup>
 * Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
 * Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
@@ -30,7 +31,6 @@
 * Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
 * Человек амфибия ~ [Naricev](users/107/107090515204537133928-google)<sup>110</sup>
 * По любви ~ [albina_untiring](users/257/2579695-vkontakte)<sup>15</sup>
-* Чапаев ~ [Naricev](users/107/107090515204537133928-google)<sup>109</sup>
 
 
-_25.07.2021 10:51:03_
+_25.07.2021 15:18:13_
