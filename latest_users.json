@@ -1,4 +1,10 @@
 {
+    "565577824-yandex": {
+        "id": "565577824-yandex",
+        "nickname": "chenuliana",
+        "booksCount": 0,
+        "updatedAt": "2021-07-25 11:54:33"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 77,
         "updatedAt": "2021-07-13 18:22:57"
-    },
-    "3556151164432717-facebook": {
-        "id": "3556151164432717-facebook",
-        "nickname": "stenk",
-        "booksCount": 0,
-        "updatedAt": "2021-07-13 13:46:49"
     }
 }
