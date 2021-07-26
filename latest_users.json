@@ -1,4 +1,10 @@
 {
+    "674216608-yandex": {
+        "id": "674216608-yandex",
+        "nickname": "sukhanova122",
+        "booksCount": 0,
+        "updatedAt": "2021-07-26 07:30:00"
+    },
     "666911182-yandex": {
         "id": "666911182-yandex",
         "nickname": "arinamingazova",
@@ -172,11 +178,5 @@
         "nickname": "id_nastena_sazanovich",
         "booksCount": 2,
         "updatedAt": "2021-07-15 19:19:27"
-    },
-    "445613750-yandex": {
-        "id": "445613750-yandex",
-        "nickname": "goldpony",
-        "booksCount": 36,
-        "updatedAt": "2021-07-14 09:43:56"
     }
 }
