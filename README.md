@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sukhanova122](users/674/674216608-yandex)<sup>0</sup> 
+[sukhanova122](users/674/674216608-yandex)<sup>1</sup> 
 [arinamingazova](users/666/666911182-yandex)<sup>3</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup> 
 [chenuliana](users/565/565577824-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 
 
-_26.07.2021 07:30:00_
+_26.07.2021 07:43:58_
