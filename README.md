@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[arinamingazova](users/666/666911182-yandex)<sup>2</sup> 
+[arinamingazova](users/666/666911182-yandex)<sup>3</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup> 
 [chenuliana](users/565/565577824-yandex)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>52</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [goldpony](users/445/445613750-yandex)<sup>36</sup> 
 
 
-_26.07.2021 06:43:37_
+_26.07.2021 06:44:14_
