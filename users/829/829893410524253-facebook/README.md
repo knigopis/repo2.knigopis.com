@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>203</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>204</sup>
 ---
 
 ## 2021
+
+### Зачарованные смертью
+Светлана Алексиевич
+> [2021-07-25] 6/10 Истории коммунистов, которые пытались свести счеты с жизнью.
+
 
 ### Пока течет река
 Диана Сеттерфилд

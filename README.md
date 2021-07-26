@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
+    > 6/10 Истории коммунистов, которые пытались свести счеты с жизнью.
+
 * Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
     > Приятные для меня факты, давно заметила, что важные вещи стоит планировать надолго вперед.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая про Платова
 
 * Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
-    > 8/10 Выловленная из реки мертвая девочка оживает и сразу находятся трое претендентов, готовых назвать ее своей дочкой.
 
 * Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
 
-* Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup> 
 [sukhanova122](users/674/674216608-yandex)<sup>1</sup> 
 [arinamingazova](users/666/666911182-yandex)<sup>3</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>213</sup> 
 [Joan8ied](users/240/2401650-vkontakte)<sup>109</sup> 
 [alley_gators](users/199/1999517944953516923-mailru)<sup>36</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>290</sup> 
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 
 
-_26.07.2021 07:43:58_
+_26.07.2021 18:15:20_

@@ -1,4 +1,16 @@
 {
+    "ne9DIXz72E": {
+        "id": "ne9DIXz72E",
+        "title": "Зачарованные смертью",
+        "author": "Светлана Алексиевич",
+        "notes": "6/10 Истории коммунистов, которые пытались свести счеты с жизнью.",
+        "createdAt": "2021-07-26 18:15:20",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 204
+        }
+    },
     "3DpRvqPYWD": {
         "id": "3DpRvqPYWD",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 21
-        }
-    },
-    "ls80_r98Kr": {
-        "id": "ls80_r98Kr",
-        "title": "Игра в бисер",
-        "author": "Герман Гессе",
-        "notes": "4/5",
-        "createdAt": "2021-07-24 18:06:10",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 20
         }
     }
 }

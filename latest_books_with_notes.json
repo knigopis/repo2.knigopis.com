@@ -1,4 +1,16 @@
 {
+    "ne9DIXz72E": {
+        "id": "ne9DIXz72E",
+        "title": "Зачарованные смертью",
+        "author": "Светлана Алексиевич",
+        "notes": "6/10 Истории коммунистов, которые пытались свести счеты с жизнью.",
+        "createdAt": "2021-07-26 18:15:20",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 204
+        }
+    },
     "nvnMH9RE0L": {
         "id": "nvnMH9RE0L",
         "title": "Накопительный эффект",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 110
-        }
-    },
-    "Nn_1uLPJtR": {
-        "id": "Nn_1uLPJtR",
-        "title": "По любви",
-        "author": "Вася Аккерман",
-        "notes": "На самом деле в книге нет ничего нового, но написано душевно",
-        "createdAt": "2021-06-28 16:03:18",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 15
         }
     }
 }
