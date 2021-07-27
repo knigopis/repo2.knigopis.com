@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 99,
+        "updatedAt": "2021-07-27 22:58:39"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "wabisabimaid",
         "booksCount": 0,
         "updatedAt": "2021-07-16 17:18:22"
-    },
-    "173160241-vkontakte": {
-        "id": "173160241-vkontakte",
-        "nickname": "id_nastena_sazanovich",
-        "booksCount": 2,
-        "updatedAt": "2021-07-15 19:19:27"
     }
 }
