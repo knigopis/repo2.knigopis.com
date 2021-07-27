@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>115</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>116</sup>
 ---
 
 ## 2021
+
+### Ночная смена
+Стивен Кинг
+> [2021-07-27] 
+
 
 ### Глубина
 Роберт Маккамион

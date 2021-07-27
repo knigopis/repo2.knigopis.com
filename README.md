@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>116</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup> 
 [sukhanova122](users/674/674216608-yandex)<sup>1</sup> 
 [arinamingazova](users/666/666911182-yandex)<sup>3</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>64</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>103</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>115</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>870</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>168</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 
 
-_26.07.2021 18:15:20_
+_27.07.2021 14:12:43_
