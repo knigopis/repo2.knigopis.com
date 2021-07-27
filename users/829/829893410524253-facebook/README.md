@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>204</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>205</sup>
 ---
 
 ## 2021
+
+### Год потопа
+Маргарет Этвуд
+> [2021-07-27] 10/10 Беззумный Аддам 2. Секта Божих Садовников (ветроградарей) запускает конец света.
+
 
 ### Зачарованные смертью
 Светлана Алексиевич

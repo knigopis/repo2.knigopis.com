@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
+    > 10/10 Беззумный Аддам 2. Секта Божих Садовников (ветроградарей) запускает конец света.
+
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
     > 6/10 Истории коммунистов, которые пытались свести счеты с жизнью.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Приятные для меня факты, давно заметила, что важные вещи стоит планировать надолго вперед.
 
 * Вихорь-Атаман ~ [mfevralev](users/140/140966150-vkontakte)<sup>52</sup>
-    > Хорошая про Платова
 
 * Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
 
-* Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>116</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup> 
 [sukhanova122](users/674/674216608-yandex)<sup>1</sup> 
 [arinamingazova](users/666/666911182-yandex)<sup>3</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [id_nastena_sazanovich](users/173/173160241-vkontakte)<sup>2</sup> 
 
 
-_27.07.2021 14:12:43_
+_27.07.2021 16:00:02_
