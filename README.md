@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>100</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>116</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>343</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>29</sup> 
 [Ruko Shit](users/219/2193185692363496955-mailru)<sup>0</sup> 
-[wabisabimaid](users/420/420017445-vkontakte)<sup>0</sup> 
 
 
-_27.07.2021 22:58:39_
+_28.07.2021 09:46:24_

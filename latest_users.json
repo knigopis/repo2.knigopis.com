@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 100,
+        "updatedAt": "2021-07-28 09:46:24"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -172,11 +178,5 @@
         "nickname": "Ruko Shit",
         "booksCount": 0,
         "updatedAt": "2021-07-16 17:31:19"
-    },
-    "420017445-vkontakte": {
-        "id": "420017445-vkontakte",
-        "nickname": "wabisabimaid",
-        "booksCount": 0,
-        "updatedAt": "2021-07-16 17:18:22"
     }
 }
