@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 12,
+        "updatedAt": "2021-07-28 13:54:10"
+    },
     "112305785450519456960-google": {
         "id": "112305785450519456960-google",
         "nickname": "DonaKara",
@@ -124,12 +130,6 @@
         "nickname": "Chiffi",
         "booksCount": 295,
         "updatedAt": "2021-07-21 16:51:52"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 11,
-        "updatedAt": "2021-07-21 14:19:07"
     },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
