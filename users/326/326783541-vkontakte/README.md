@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>13</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>14</sup>
 ---
 
 ## 2021
+
+### Хаски и его учитель белый кот
+> [2021-07-28] 
+
 
 ### Благословение небожителей
 Мосян Тунсю

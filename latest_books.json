@@ -1,4 +1,16 @@
 {
+    "2y-rEsppl1": {
+        "id": "2y-rEsppl1",
+        "title": "Хаски и его учитель белый кот",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-07-28 17:38:54",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 14
+        }
+    },
     "TMpfEhnclq": {
         "id": "TMpfEhnclq",
         "title": "Госпожа управляющая",
@@ -345,18 +357,6 @@
             "id": "1999517944953516923-mailru",
             "nickname": "alley_gators",
             "booksCount": 27
-        }
-    },
-    "_qd0SfyCbd": {
-        "id": "_qd0SfyCbd",
-        "title": "1984. Скотный двор (сборник)",
-        "author": "Джордж Оруэлл",
-        "notes": "5/5",
-        "createdAt": "2021-07-24 18:11:24",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 26
         }
     }
 }
