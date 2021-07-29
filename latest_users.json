@@ -1,4 +1,10 @@
 {
+    "102857111133378678801-google": {
+        "id": "102857111133378678801-google",
+        "nickname": "Rina",
+        "booksCount": 5,
+        "updatedAt": "2021-07-29 12:06:42"
+    },
     "165990417340767-facebook": {
         "id": "165990417340767-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "vitasoft",
         "booksCount": 41,
         "updatedAt": "2021-07-19 14:07:59"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 240,
-        "updatedAt": "2021-07-18 15:31:37"
     }
 }

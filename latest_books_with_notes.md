@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
 * Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 * Сліди на дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup>
 * Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
-* Единственная/единственный The One ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>197</sup>
 
 
-_27.07.2021 16:00:02_
+_29.07.2021 12:06:42_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
+    > 272с.
+
 * Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
     > 10/10 Беззумный Аддам 2. Секта Божих Садовников (ветроградарей) запускает конец света.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Истории коммунистов, которые пытались свести счеты с жизнью.
 
 * Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
-    > Приятные для меня факты, давно заметила, что важные вещи стоит планировать надолго вперед.
 
 * Вихорь-Атаман ~ [mfevralev](users/140/140966150-vkontakte)<sup>52</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
 
-* Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rina](users/102/102857111133378678801-google)<sup>5</sup> 
 [](users/165/165990417340767-facebook)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>104</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оми](users/110/110990350469188914110-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>24</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>41</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>240</sup> 
 
 
-_29.07.2021 10:16:14_
+_29.07.2021 12:06:42_
