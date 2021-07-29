@@ -1,4 +1,16 @@
 {
+    "grPOaQ9cGM": {
+        "id": "grPOaQ9cGM",
+        "title": "Астровитянка",
+        "author": "Ник Горькавый",
+        "notes": "",
+        "createdAt": "2021-07-29 12:53:08",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 18
+        }
+    },
     "IpZET7gp9Y": {
         "id": "IpZET7gp9Y",
         "title": "Мальчик и тьма",
@@ -345,18 +357,6 @@
             "id": "666911182-yandex",
             "nickname": "arinamingazova",
             "booksCount": 2
-        }
-    },
-    "nvnMH9RE0L": {
-        "id": "nvnMH9RE0L",
-        "title": "Накопительный эффект",
-        "author": "Даррен Харди",
-        "notes": "Приятные для меня факты, давно заметила, что важные вещи стоит планировать надолго вперед.",
-        "createdAt": "2021-07-25 15:18:12",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 17
         }
     }
 }
