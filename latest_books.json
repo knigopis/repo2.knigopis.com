@@ -1,4 +1,16 @@
 {
+    "MflBzccAy3": {
+        "id": "MflBzccAy3",
+        "title": "Приключения Робинзона Крузо",
+        "author": "Даниэль Дефо",
+        "notes": "",
+        "createdAt": "2021-07-29 12:57:54",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 29
+        }
+    },
     "n-rwNlgPF_": {
         "id": "n-rwNlgPF_",
         "title": "Алые паруса",
@@ -345,18 +357,6 @@
             "id": "102857111133378678801-google",
             "nickname": "Rina",
             "booksCount": 5
-        }
-    },
-    "a8-2CAyBJ8": {
-        "id": "a8-2CAyBJ8",
-        "title": "Четвёртая политическая теория",
-        "author": "Александр Дугин",
-        "notes": "",
-        "createdAt": "2021-07-29 08:24:02",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 104
         }
     }
 }
