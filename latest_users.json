@@ -1,4 +1,10 @@
 {
+    "111656270551033014778-google": {
+        "id": "111656270551033014778-google",
+        "nickname": "eva",
+        "booksCount": 0,
+        "updatedAt": "2021-07-29 12:44:07"
+    },
     "102857111133378678801-google": {
         "id": "102857111133378678801-google",
         "nickname": "Rina",
@@ -172,11 +178,5 @@
         "nickname": "Пу_тем",
         "booksCount": 24,
         "updatedAt": "2021-07-20 08:21:11"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 41,
-        "updatedAt": "2021-07-19 14:07:59"
     }
 }
