@@ -1,4 +1,16 @@
 {
+    "FsBFoqvn_P": {
+        "id": "FsBFoqvn_P",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2021-07-29 12:52:15",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 15
+        }
+    },
     "gCEzEnFD4M": {
         "id": "gCEzEnFD4M",
         "title": "Приключения Тома Сойера и Гекльберри Финна",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 213
-        }
-    },
-    "9F8abhyE8F": {
-        "id": "9F8abhyE8F",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-24 22:01:59",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 212
         }
     }
 }
