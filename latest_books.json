@@ -1,4 +1,16 @@
 {
+    "kEQtn61-4P": {
+        "id": "kEQtn61-4P",
+        "title": "Гарри Поттер и Методы рационального мышления",
+        "author": "Элизер Юдковский",
+        "notes": "",
+        "createdAt": "2021-07-29 12:53:38",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 19
+        }
+    },
     "grPOaQ9cGM": {
         "id": "grPOaQ9cGM",
         "title": "Астровитянка",
@@ -345,18 +357,6 @@
             "id": "666911182-yandex",
             "nickname": "arinamingazova",
             "booksCount": 3
-        }
-    },
-    "AIc25zxUqF": {
-        "id": "AIc25zxUqF",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-07-26 06:43:37",
-        "user": {
-            "id": "666911182-yandex",
-            "nickname": "arinamingazova",
-            "booksCount": 2
         }
     }
 }
