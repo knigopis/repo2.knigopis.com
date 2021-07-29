@@ -1,4 +1,4 @@
-# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>94</sup>
+# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>95</sup>
 ---
 
 ## 2021
@@ -61,6 +61,10 @@
 
 
 ## 2020
+
+### Как-то лошадь входит в бар
+Давид Гроссман
+
 
 ### Прощай, оружие!
 Эрнест Хемингуэй
