@@ -1,4 +1,16 @@
 {
+    "6TioaCRkpZ": {
+        "id": "6TioaCRkpZ",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2021-07-29 12:54:46",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 21
+        }
+    },
     "x3MYqk0vxf": {
         "id": "x3MYqk0vxf",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 204
-        }
-    },
-    "3DpRvqPYWD": {
-        "id": "3DpRvqPYWD",
-        "title": "",
-        "author": "Борис Виана",
-        "notes": "",
-        "createdAt": "2021-07-26 07:43:58",
-        "user": {
-            "id": "674216608-yandex",
-            "nickname": "sukhanova122",
-            "booksCount": 1
         }
     }
 }
