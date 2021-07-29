@@ -1,4 +1,4 @@
-# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>10</sup>
+# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>11</sup>
 ---
 
 ## 2021
@@ -28,6 +28,10 @@
 ### 1984
 Джордж Оруэлл
 > [2019-07] 
+
+
+### О дивный новый мир
+Олдос Хаксли
 
 
 
