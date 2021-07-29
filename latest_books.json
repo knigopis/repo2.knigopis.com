@@ -1,4 +1,16 @@
 {
+    "50sUjz2-n9": {
+        "id": "50sUjz2-n9",
+        "title": "Исповедь неполноценного человека",
+        "author": "Осаму Дадзай",
+        "notes": "",
+        "createdAt": "2021-07-29 13:01:02",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 37
+        }
+    },
     "esxe3-N9BS": {
         "id": "esxe3-N9BS",
         "title": "Братья Карамазовы",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 8
-        }
-    },
-    "fsAG3yFqv7": {
-        "id": "fsAG3yFqv7",
-        "title": "Потерянный рай",
-        "author": "Джон Мильтон",
-        "notes": "",
-        "createdAt": "2021-07-29 12:48:23",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 7
         }
     }
 }
