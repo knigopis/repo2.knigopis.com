@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[eva](users/111/111656270551033014778-google)<sup>78</sup> 
+[eva](users/111/111656270551033014778-google)<sup>79</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>5</sup> 
 [](users/165/165990417340767-facebook)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>24</sup> 
 
 
-_29.07.2021 13:23:00_
+_29.07.2021 13:24:15_
