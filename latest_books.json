@@ -1,4 +1,16 @@
 {
+    "y_egzna7_o": {
+        "id": "y_egzna7_o",
+        "title": "Ночь нежна",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2021-07-29 12:56:53",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 27
+        }
+    },
     "gfq3dKPxK_": {
         "id": "gfq3dKPxK_",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 14
-        }
-    },
-    "TMpfEhnclq": {
-        "id": "TMpfEhnclq",
-        "title": "Госпожа управляющая",
-        "author": "Милена Завойчинская",
-        "notes": "",
-        "createdAt": "2021-07-28 13:54:10",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 12
         }
     }
 }
