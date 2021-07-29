@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/165/165990417340767-facebook)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>104</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>14</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>24</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>41</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>240</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>343</sup> 
 
 
-_29.07.2021 08:24:02_
+_29.07.2021 10:16:14_
