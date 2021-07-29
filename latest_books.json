@@ -1,4 +1,16 @@
 {
+    "GY7Pl6qXie": {
+        "id": "GY7Pl6qXie",
+        "title": "Кукольный дом",
+        "author": "Генрик Ибсен",
+        "notes": "",
+        "createdAt": "2021-07-29 13:16:35",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 67
+        }
+    },
     "pqq0BMmRnd": {
         "id": "pqq0BMmRnd",
         "title": "Хождение по мукам",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 38
-        }
-    },
-    "50sUjz2-n9": {
-        "id": "50sUjz2-n9",
-        "title": "Исповедь неполноценного человека",
-        "author": "Осаму Дадзай",
-        "notes": "",
-        "createdAt": "2021-07-29 13:01:02",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 37
         }
     }
 }
