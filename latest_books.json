@@ -1,4 +1,16 @@
 {
+    "uOzOA_zjKE": {
+        "id": "uOzOA_zjKE",
+        "title": "Вишневый сад",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2021-07-29 12:48:51",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 9
+        }
+    },
     "-3bC99sZ3e": {
         "id": "-3bC99sZ3e",
         "title": "Возвращенный рай",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "Joan8ied",
             "booksCount": 107
-        }
-    },
-    "lhN3Izsy_O": {
-        "id": "lhN3Izsy_O",
-        "title": "Введение в психоанализ. Лекции",
-        "author": "Зигмунд Фрейд",
-        "notes": "3/5",
-        "createdAt": "2021-07-24 18:20:32",
-        "user": {
-            "id": "1999517944953516923-mailru",
-            "nickname": "alley_gators",
-            "booksCount": 36
         }
     }
 }
