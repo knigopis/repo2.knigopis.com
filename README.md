@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>214</sup> 
 [uid-gua5ou5x](users/820/820026022-yandex)<sup>1</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>870</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>168</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
-[](users/153/1537586159620888-facebook)<sup>49</sup> 
 
 
-_30.07.2021 21:53:57_
+_30.07.2021 22:04:36_
