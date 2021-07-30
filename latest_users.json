@@ -1,4 +1,10 @@
 {
+    "106174139988189335509-google": {
+        "id": "106174139988189335509-google",
+        "nickname": "hihij4",
+        "booksCount": 0,
+        "updatedAt": "2021-07-30 22:04:36"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 295,
         "updatedAt": "2021-07-21 16:51:52"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 49,
-        "updatedAt": "2021-07-21 07:54:48"
     }
 }
