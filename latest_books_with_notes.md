@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Грозовой перевал ~ [vitasoft](users/474/47446642-vkontakte)<sup>42</sup>
 * Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
@@ -30,7 +31,6 @@
 * Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
 * Хватит ныть ~ [Chiffi](users/105/105831994080785626680-google)<sup>289</sup>
 * Сліди на дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>199</sup>
-* Чотири після півночі. Збірка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>198</sup>
 
 
-_29.07.2021 12:06:42_
+_30.07.2021 05:13:56_

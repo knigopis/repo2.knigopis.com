@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "vitasoft",
+        "booksCount": 42,
+        "updatedAt": "2021-07-30 05:13:56"
+    },
     "111656270551033014778-google": {
         "id": "111656270551033014778-google",
         "nickname": "eva",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 64,
         "updatedAt": "2021-07-20 22:23:30"
-    },
-    "110990350469188914110-google": {
-        "id": "110990350469188914110-google",
-        "nickname": "Оми",
-        "booksCount": 0,
-        "updatedAt": "2021-07-20 20:13:04"
     }
 }

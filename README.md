@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Грозовой перевал ~ [vitasoft](users/474/47446642-vkontakte)<sup>42</sup>
+    > audio
+
 * Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
     > 272с.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Беззумный Аддам 2. Секта Божих Садовников (ветроградарей) запускает конец света.
 
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
-    > 6/10 Истории коммунистов, которые пытались свести счеты с жизнью.
 
 * Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
 
-* Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
 [eva](users/111/111656270551033014778-google)<sup>95</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>25</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
 [](users/153/1537586159620888-facebook)<sup>49</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup> 
-[Оми](users/110/110990350469188914110-google)<sup>0</sup> 
 
 
-_29.07.2021 20:42:39_
+_30.07.2021 05:13:56_
