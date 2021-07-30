@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[uid-gua5ou5x](users/820/820026022-yandex)<sup>0</sup> 
+[uid-gua5ou5x](users/820/820026022-yandex)<sup>1</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
 [eva](users/111/111656270551033014778-google)<sup>95</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>25</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>49</sup> 
 
 
-_30.07.2021 08:36:20_
+_30.07.2021 08:37:12_
