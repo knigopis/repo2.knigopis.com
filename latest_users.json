@@ -1,4 +1,10 @@
 {
+    "820026022-yandex": {
+        "id": "820026022-yandex",
+        "nickname": "uid-gua5ou5x",
+        "booksCount": 0,
+        "updatedAt": "2021-07-30 08:36:20"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "vitasoft",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 49,
         "updatedAt": "2021-07-21 07:54:48"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 64,
-        "updatedAt": "2021-07-20 22:23:30"
     }
 }
