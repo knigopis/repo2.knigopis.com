@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[uid-gua5ou5x](users/820/820026022-yandex)<sup>0</sup> 
 [vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
 [eva](users/111/111656270551033014778-google)<sup>95</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>168</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
 [](users/153/1537586159620888-facebook)<sup>49</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup> 
 
 
-_30.07.2021 05:13:56_
+_30.07.2021 08:36:20_
