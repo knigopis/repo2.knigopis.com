@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Роли, которые играет женщина ~ [Rina](users/102/102857111133378678801-google)<sup>6</sup>
+    > 110с.
+
 * Грозовой перевал ~ [vitasoft](users/474/47446642-vkontakte)<sup>42</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 272с.
 
 * Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
-    > 10/10 Беззумный Аддам 2. Секта Божих Садовников (ветроградарей) запускает конец света.
 
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
 
-* Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rina](users/102/102857111133378678801-google)<sup>6</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>871</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>13</sup> 
 [hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
 [eva](users/111/111656270551033014778-google)<sup>95</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>25</sup> 
-[Rina](users/102/102857111133378678801-google)<sup>5</sup> 
 [](users/165/165990417340767-facebook)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>104</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
 
 
-_31.07.2021 12:40:07_
+_31.07.2021 19:55:10_
