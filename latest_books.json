@@ -1,4 +1,16 @@
 {
+    "0wlEZW0pfw": {
+        "id": "0wlEZW0pfw",
+        "title": "Мила Завойчинская",
+        "author": "Страшные сказки закрытого королевства",
+        "notes": "",
+        "createdAt": "2021-07-31 10:50:17",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 13
+        }
+    },
     "Qe0Fw0mfvp": {
         "id": "Qe0Fw0mfvp",
         "title": "На спине дракона, попивая чай с Утренней Звездой",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 73
-        }
-    },
-    "7z-G-OU08n": {
-        "id": "7z-G-OU08n",
-        "title": "Записки охотника",
-        "author": "Иван Тургенев",
-        "notes": "",
-        "createdAt": "2021-07-29 13:21:03",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 72
         }
     }
 }

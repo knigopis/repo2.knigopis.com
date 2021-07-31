@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>13</sup> 
 [hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>214</sup> 
 [uid-gua5ou5x](users/820/820026022-yandex)<sup>1</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/165/165990417340767-facebook)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>104</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>14</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>12</sup> 
 [DonaKara](users/112/112305785450519456960-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>100</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>99</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>295</sup> 
 
 
-_30.07.2021 22:04:36_
+_31.07.2021 10:50:17_
