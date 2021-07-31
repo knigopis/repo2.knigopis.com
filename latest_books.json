@@ -1,4 +1,16 @@
 {
+    "0rVwvKaZND": {
+        "id": "0rVwvKaZND",
+        "title": "Переломный момент: Как незначительные изменения приводят к глобальным переменам",
+        "author": "Малкольм Гладуэлл",
+        "notes": "",
+        "createdAt": "2021-07-31 12:40:07",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 871
+        }
+    },
     "0wlEZW0pfw": {
         "id": "0wlEZW0pfw",
         "title": "Мила Завойчинская",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 74
-        }
-    },
-    "bZZAlKl-yw": {
-        "id": "bZZAlKl-yw",
-        "title": "Муму",
-        "author": "Иван Тургенев",
-        "notes": "",
-        "createdAt": "2021-07-29 13:21:15",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 73
         }
     }
 }
