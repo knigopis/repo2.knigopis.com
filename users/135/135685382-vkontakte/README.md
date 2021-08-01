@@ -1,7 +1,12 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>8</sup>
+# List of books read by [tumturumk](http://vk.com/id135685382)<sup>9</sup>
 ---
 
 ## 2021
+
+### Выйди из зоны комфорта
+Брайн Трейси
+> [2021-08-01] 
+
 
 ### Исповедь узницы подземелья
 Катя Мартынова

@@ -1,4 +1,16 @@
 {
+    "KQWpflzr1G": {
+        "id": "KQWpflzr1G",
+        "title": "Выйди из зоны комфорта",
+        "author": "Брайн Трейси",
+        "notes": "",
+        "createdAt": "2021-08-01 21:22:36",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tumturumk",
+            "booksCount": 9
+        }
+    },
     "hYxUcNY2G7": {
         "id": "hYxUcNY2G7",
         "title": "Слiди на дорозi",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 79
-        }
-    },
-    "bjjoUsnfd7": {
-        "id": "bjjoUsnfd7",
-        "title": "Униженные и оскорбленные",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2021-07-29 13:23:00",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 78
         }
     }
 }

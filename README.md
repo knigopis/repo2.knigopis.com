@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>9</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>105</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>412</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>296</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alley_gators](users/199/1999517944953516923-mailru)<sup>36</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>290</sup> 
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>64</sup> 
 
 
-_01.08.2021 20:57:13_
+_01.08.2021 21:22:36_
