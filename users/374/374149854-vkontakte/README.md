@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>104</sup>
+# List of books read by danyluk62<sup>105</sup>
 ---
 
 ## 2021
+
+### Слiди на дорозi
+Валерій Ананьєв
+> [2021-08] 
+
 
 ### Четвёртая политическая теория
 Александр Дугин
