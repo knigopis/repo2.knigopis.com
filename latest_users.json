@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 100,
+        "updatedAt": "2021-08-02 12:25:11"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -100,12 +106,6 @@
         "nickname": "4apa",
         "booksCount": 100,
         "updatedAt": "2021-07-28 09:46:24"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 99,
-        "updatedAt": "2021-07-27 22:58:39"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
