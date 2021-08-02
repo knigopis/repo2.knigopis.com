@@ -1,4 +1,16 @@
 {
+    "bhMXYQrDK2": {
+        "id": "bhMXYQrDK2",
+        "title": "Проклятие пражской синагоги",
+        "author": "Лена Обухова, Наталья Тимошенко",
+        "notes": "",
+        "createdAt": "2021-08-02 02:49:24",
+        "user": {
+            "id": "3448154788585127-facebook",
+            "nickname": "Пу_тем",
+            "booksCount": 26
+        }
+    },
     "KQWpflzr1G": {
         "id": "KQWpflzr1G",
         "title": "Выйди из зоны комфорта",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 80
-        }
-    },
-    "5o8aNyxH3Z": {
-        "id": "5o8aNyxH3Z",
-        "title": "Сказка о потерянном времени",
-        "author": "Е. Шварц",
-        "notes": "",
-        "createdAt": "2021-07-29 13:24:15",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 79
         }
     }
 }

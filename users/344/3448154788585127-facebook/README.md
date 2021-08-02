@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>25</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>26</sup>
 ---
 
 ## 2021
+
+### Проклятие пражской синагоги
+Лена Обухова, Наталья Тимошенко
+> [2021-08-01] 
+
 
 ### Будет кровь
 Кинг Стивен
