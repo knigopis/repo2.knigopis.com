@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>14</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>117</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>26</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>296</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>6</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>871</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>13</sup> 
 [hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>214</sup> 
 [uid-gua5ou5x](users/820/820026022-yandex)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
 
 
-_02.08.2021 14:09:27_
+_02.08.2021 16:19:11_
