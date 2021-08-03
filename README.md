@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>14</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>117</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Joan8ied](users/240/2401650-vkontakte)<sup>109</sup> 
 [alley_gators](users/199/1999517944953516923-mailru)<sup>36</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>290</sup> 
-[Лил](users/405/4057739460942313-facebook)<sup>1</sup> 
 
 
-_02.08.2021 16:19:11_
+_03.08.2021 05:41:26_
