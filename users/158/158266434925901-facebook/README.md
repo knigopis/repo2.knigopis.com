@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>147</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>148</sup>
 ---
 
 ## 2021
+
+### По. Лавкрафт. Кинг. Четыре лекции о литературе ужасов.
+Оксана Разумовская
+> [2021-07-31] 
+
 
 ### Дьявол и тёмная вода
 Стюарт Тёртон

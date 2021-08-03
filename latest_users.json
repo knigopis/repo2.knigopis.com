@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ..",
+        "booksCount": 148,
+        "updatedAt": "2021-08-03 09:13:26"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "alley_gators",
         "booksCount": 36,
         "updatedAt": "2021-07-24 18:20:32"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 290,
-        "updatedAt": "2021-07-24 13:44:28"
     }
 }

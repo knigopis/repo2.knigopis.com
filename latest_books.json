@@ -1,4 +1,16 @@
 {
+    "wf8eij2xtW": {
+        "id": "wf8eij2xtW",
+        "title": "По. Лавкрафт. Кинг. Четыре лекции о литературе ужасов.",
+        "author": "Оксана Разумовская",
+        "notes": "",
+        "createdAt": "2021-08-03 09:13:26",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 148
+        }
+    },
     "eEGLcti4DK": {
         "id": "eEGLcti4DK",
         "title": "Нетопырь",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 85
-        }
-    },
-    "dgMpFpW1G-": {
-        "id": "dgMpFpW1G-",
-        "title": "Оливер Твист",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2021-07-29 13:26:31",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 84
         }
     }
 }
