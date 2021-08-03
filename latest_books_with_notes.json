@@ -1,4 +1,16 @@
 {
+    "UKbGJqyWqP": {
+        "id": "UKbGJqyWqP",
+        "title": "Венера в хутрі",
+        "author": "Леопольд фон Захер-Мазох",
+        "notes": "160с.",
+        "createdAt": "2021-08-03 14:19:49",
+        "user": {
+            "id": "102857111133378678801-google",
+            "nickname": "Rina",
+            "booksCount": 7
+        }
+    },
     "cfqb47rDn2": {
         "id": "cfqb47rDn2",
         "title": "Бумажный занавес, стеклянная корона. Бабкин и Илюшин",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 51
-        }
-    },
-    "zKTFJlh0yN": {
-        "id": "zKTFJlh0yN",
-        "title": "Жрон",
-        "author": "Курзанцев Александр Олегович",
-        "notes": "Альтернативка. Попаданец в Уизли из Гарри Поттера. Первый раз такое читаю - как то не очень\nОценка 3",
-        "createdAt": "2021-07-01 16:12:43",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 50
         }
     }
 }

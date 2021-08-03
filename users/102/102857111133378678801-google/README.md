@@ -1,7 +1,12 @@
-# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>6</sup>
+# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>7</sup>
 ---
 
 ## 2021
+
+### Венера в хутрі
+Леопольд фон Захер-Мазох
+> [2021-08-03] 160с.
+
 
 ### Роли, которые играет женщина
 Анна Кссо

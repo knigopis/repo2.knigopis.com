@@ -1,4 +1,16 @@
 {
+    "UKbGJqyWqP": {
+        "id": "UKbGJqyWqP",
+        "title": "Венера в хутрі",
+        "author": "Леопольд фон Захер-Мазох",
+        "notes": "160с.",
+        "createdAt": "2021-08-03 14:19:49",
+        "user": {
+            "id": "102857111133378678801-google",
+            "nickname": "Rina",
+            "booksCount": 7
+        }
+    },
     "lv9j9Y9jGf": {
         "id": "lv9j9Y9jGf",
         "title": "Одна ночь в зимнем саду",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 87
-        }
-    },
-    "7D3YFf59bI": {
-        "id": "7D3YFf59bI",
-        "title": "Прощай, оружие!",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2021-07-29 13:27:19",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 86
         }
     }
 }

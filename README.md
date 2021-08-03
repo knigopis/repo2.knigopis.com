@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Венера в хутрі ~ [Rina](users/102/102857111133378678801-google)<sup>7</sup>
+    > 160с.
+
 * Бумажный занавес, стеклянная корона. Бабкин и Илюшин ~ [Chiffi](users/105/105831994080785626680-google)<sup>296</sup>
     > Перечитываю второй раз.  Очень интересно.
     > Враги интереснее друзей, каждому хочется заглянуть к врагу... Был из тех мужчин, которые за юбку жены не просто держаться, а сидят под ней, точно гномики под грибом во время ливня. Периодически они осторожно высовывают наружу нос, убеждаются, что мир ничуть не изменился к лучшему, там по прежнему мокро, зябко и вот-вот совет, и облегчённо прячутся снова. По странному совпадению именно такие мужчины часто выглядят как покорители вселенной, дерзкой стопой подпирающие черепа врагов.  Согласие-это высшая форма презрения. Он даже не снисходит до того, чтобы спорить или сказать нет. Отказ-это всегда затрата ресурсов, а он не готов тратить ни лишних слов, ни лишней минуты. Он готов пожертвовать лишь безразличным кивком
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > 110с.
 
 * Грозовой перевал ~ [vitasoft](users/474/47446642-vkontakte)<sup>42</sup>
-    > audio
 
 * Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
 
-* Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rina](users/102/102857111133378678801-google)<sup>7</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>149</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>14</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>105</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>412</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>296</sup> 
-[Rina](users/102/102857111133378678801-google)<sup>6</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>871</sup> 
 [hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>214</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alley_gators](users/199/1999517944953516923-mailru)<sup>36</sup> 
 
 
-_03.08.2021 09:13:54_
+_03.08.2021 14:19:49_

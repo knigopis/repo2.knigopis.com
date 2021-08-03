@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Венера в хутрі ~ [Rina](users/102/102857111133378678801-google)<sup>7</sup>
 * Бумажный занавес, стеклянная корона. Бабкин и Илюшин ~ [Chiffi](users/105/105831994080785626680-google)<sup>296</sup>
 * Роли, которые играет женщина ~ [Rina](users/102/102857111133378678801-google)<sup>6</sup>
 * Грозовой перевал ~ [vitasoft](users/474/47446642-vkontakte)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
 * Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
 * Охотник и вторая Охота на охотника ~ [dromoman2008](users/444/44461886-yandex)<sup>51</sup>
-* Жрон ~ [dromoman2008](users/444/44461886-yandex)<sup>50</sup>
 
 
-_01.08.2021 06:33:27_
+_03.08.2021 14:19:49_
