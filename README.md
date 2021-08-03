@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>148</sup> 
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>149</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>14</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>117</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alley_gators](users/199/1999517944953516923-mailru)<sup>36</sup> 
 
 
-_03.08.2021 09:13:27_
+_03.08.2021 09:13:54_

@@ -1,4 +1,16 @@
 {
+    "lv9j9Y9jGf": {
+        "id": "lv9j9Y9jGf",
+        "title": "Одна ночь в зимнем саду",
+        "author": "Александр Полярный",
+        "notes": "",
+        "createdAt": "2021-08-03 09:13:54",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 149
+        }
+    },
     "wf8eij2xtW": {
         "id": "wf8eij2xtW",
         "title": "По. Лавкрафт. Кинг. Четыре лекции о литературе ужасов.",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 86
-        }
-    },
-    "YAm_J4LsSh": {
-        "id": "YAm_J4LsSh",
-        "title": "Путешествия гулливера",
-        "author": "Дж. Свифт",
-        "notes": "",
-        "createdAt": "2021-07-29 13:26:57",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 85
         }
     }
 }
