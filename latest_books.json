@@ -1,4 +1,16 @@
 {
+    "NKfRq9iRSl": {
+        "id": "NKfRq9iRSl",
+        "title": "Radical Remission. Surviving Cancer Against All Odds",
+        "author": "Kelly A. Turner, Ph.D",
+        "notes": "",
+        "createdAt": "2021-08-03 17:22:52",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 178
+        }
+    },
     "t9pHiAwqmu": {
         "id": "t9pHiAwqmu",
         "title": "Живые мысли",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 89
-        }
-    },
-    "8Pp9UR8JvF": {
-        "id": "8Pp9UR8JvF",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2021-07-29 13:29:01",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 88
         }
     }
 }

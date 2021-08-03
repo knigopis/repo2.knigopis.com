@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>177</sup>
+# Список прочитанных книг пользователя exulted<sup>178</sup>
 ---
 
 ## 2021
@@ -6,6 +6,11 @@
 ### Живые мысли
 Некрасов Анатолий
 > [2021-06-21] 
+
+
+### Radical Remission. Surviving Cancer Against All Odds
+Kelly A. Turner, Ph.D
+> [2021-06-18] 
 
 
 ### You Are the Placebo: Making Your Mind Matter
