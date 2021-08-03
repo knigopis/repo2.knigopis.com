@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>179</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>180</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>7</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>149</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Joan8ied](users/240/2401650-vkontakte)<sup>109</sup> 
 
 
-_03.08.2021 17:23:31_
+_03.08.2021 17:24:20_

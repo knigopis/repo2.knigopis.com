@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>179</sup>
+# Список прочитанных книг пользователя exulted<sup>180</sup>
 ---
 
 ## 2021
@@ -6,6 +6,11 @@
 ### Matrix Energetics
 Richard Bartlett, DC, ND
 > [2021-07-10] 
+
+
+### Surviving 'Terminal' Cancer
+Ben A. Williams, Ph. D
+> [2021-07-02] 
 
 
 ### Живые мысли
