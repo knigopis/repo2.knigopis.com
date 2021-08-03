@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 177,
+        "updatedAt": "2021-08-03 17:21:22"
+    },
     "102857111133378678801-google": {
         "id": "102857111133378678801-google",
         "nickname": "Rina",
@@ -172,11 +178,5 @@
         "nickname": "Joan8ied",
         "booksCount": 109,
         "updatedAt": "2021-07-24 19:25:00"
-    },
-    "1999517944953516923-mailru": {
-        "id": "1999517944953516923-mailru",
-        "nickname": "alley_gators",
-        "booksCount": 36,
-        "updatedAt": "2021-07-24 18:20:32"
     }
 }

@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>176</sup>
+# Список прочитанных книг пользователя exulted<sup>177</sup>
 ---
 
 ## 2021
+
+### Живые мысли
+Некрасов Анатолий
+> [2021-06-21] 
+
 
 ### You Are the Placebo: Making Your Mind Matter
 Joe Dispenza
