@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>344</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>345</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>180</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>7</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>149</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111703151104314187202-google)<sup>0</sup> 
 
 
-_04.08.2021 02:34:14_
+_04.08.2021 02:34:35_
