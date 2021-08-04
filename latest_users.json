@@ -1,4 +1,10 @@
 {
+    "102857111133378678801-google": {
+        "id": "102857111133378678801-google",
+        "nickname": "Rina",
+        "booksCount": 8,
+        "updatedAt": "2021-08-04 17:37:18"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -16,12 +22,6 @@
         "nickname": "exulted",
         "booksCount": 180,
         "updatedAt": "2021-08-03 17:24:20"
-    },
-    "102857111133378678801-google": {
-        "id": "102857111133378678801-google",
-        "nickname": "Rina",
-        "booksCount": 7,
-        "updatedAt": "2021-08-03 14:19:49"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",

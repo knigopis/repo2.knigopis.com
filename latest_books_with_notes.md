@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Осина фабрика ~ [Rina](users/102/102857111133378678801-google)<sup>8</sup>
 * Мне тебя обещали ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup>
 * Венера в хутрі ~ [Rina](users/102/102857111133378678801-google)<sup>7</sup>
 * Бумажный занавес, стеклянная корона. Бабкин и Илюшин ~ [Chiffi](users/105/105831994080785626680-google)<sup>296</sup>
@@ -30,7 +31,6 @@
 * Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
 * Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
 * Взгляд василиска ~ [dromoman2008](users/444/44461886-yandex)<sup>53</sup>
-* Боевой маг ~ [dromoman2008](users/444/44461886-yandex)<sup>52</sup>
 
 
-_04.08.2021 11:57:17_
+_04.08.2021 17:37:18_

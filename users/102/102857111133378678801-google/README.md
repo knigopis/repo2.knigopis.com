@@ -1,7 +1,12 @@
-# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>7</sup>
+# List of books read by [Rina](https://plus.google.com/u/0/102857111133378678801/)<sup>8</sup>
 ---
 
 ## 2021
+
+### Осина фабрика
+Ієн Бенкс
+> [2021-08-04] 208с.
+
 
 ### Венера в хутрі
 Леопольд фон Захер-Мазох
