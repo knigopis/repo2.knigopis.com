@@ -38,8 +38,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>346</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>345</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>180</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>7</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>149</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>52</sup> 
 
 
-_04.08.2021 11:57:17_
+_04.08.2021 13:38:09_
