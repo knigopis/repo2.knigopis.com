@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>27</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>28</sup>
 ---
 
 ## 2021
+
+### Город призрачных отражений
+Лена Обухова, Наталья Тимошенко
+> [2021-08-03] 
+
 
 ### Галерея последних портретов
 Лена Обухова, Наталья Тимошенко

@@ -1,4 +1,16 @@
 {
+    "UzlP2RJU0q": {
+        "id": "UzlP2RJU0q",
+        "title": "Город призрачных отражений",
+        "author": "Лена Обухова, Наталья Тимошенко",
+        "notes": "",
+        "createdAt": "2021-08-04 18:16:54",
+        "user": {
+            "id": "3448154788585127-facebook",
+            "nickname": "Пу_тем",
+            "booksCount": 28
+        }
+    },
     "Ko1qVItfpa": {
         "id": "Ko1qVItfpa",
         "title": "Галерея последних портретов",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 95
-        }
-    },
-    "2RqIFDgTYa": {
-        "id": "2RqIFDgTYa",
-        "title": "Будет кровь",
-        "author": "Кинг Стивен",
-        "notes": "",
-        "createdAt": "2021-07-29 15:57:26",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 25
         }
     }
 }
