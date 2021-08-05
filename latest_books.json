@@ -1,4 +1,16 @@
 {
+    "oq_ws0SGyo": {
+        "id": "oq_ws0SGyo",
+        "title": "Рапсодия минувших дней",
+        "author": "Милена Завойчинская",
+        "notes": "",
+        "createdAt": "2021-08-05 12:34:33",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 15
+        }
+    },
     "UzlP2RJU0q": {
         "id": "UzlP2RJU0q",
         "title": "Город призрачных отражений",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "vitasoft",
             "booksCount": 42
-        }
-    },
-    "0JU7rc73fr": {
-        "id": "0JU7rc73fr",
-        "title": "Как-то лошадь входит в бар",
-        "author": "Давид Гроссман",
-        "notes": "",
-        "createdAt": "2021-07-29 20:42:39",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 95
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 15,
+        "updatedAt": "2021-08-05 12:34:33"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -40,12 +46,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 241,
         "updatedAt": "2021-08-03 05:41:48"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 14,
-        "updatedAt": "2021-08-02 16:19:11"
     },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
