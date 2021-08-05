@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>105</sup>
+# List of books read by danyluk62<sup>106</sup>
 ---
 
 ## 2021
+
+### Некоторые не попадут в ад
+Захар Прилепин
+> [2021-08] 
+
 
 ### Слiди на дорозi
 Валерій Ананьєв

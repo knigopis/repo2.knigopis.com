@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>106</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>101</sup> 
 [eva](users/111/111656270551033014778-google)<sup>96</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>205</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>117</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>9</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>105</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>412</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>296</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>871</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chenuliana](users/565/565577824-yandex)<sup>0</sup> 
 
 
-_05.08.2021 16:10:44_
+_05.08.2021 18:07:35_
