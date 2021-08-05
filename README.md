@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-googleplus)<sup>204</sup> 
+[Sky](users/118/118049897850017649660-googleplus)<sup>205</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>150</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>15</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>28</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chenuliana](users/565/565577824-yandex)<sup>0</sup> 
 
 
-_05.08.2021 15:27:00_
+_05.08.2021 15:28:58_
