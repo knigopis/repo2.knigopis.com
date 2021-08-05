@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[danyluk62](users/374/374149854-vkontakte)<sup>106</sup> 
+[danyluk62](users/374/374149854-vkontakte)<sup>107</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>101</sup> 
 [eva](users/111/111656270551033014778-google)<sup>96</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>205</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chenuliana](users/565/565577824-yandex)<sup>0</sup> 
 
 
-_05.08.2021 18:07:35_
+_05.08.2021 18:08:47_
