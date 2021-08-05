@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 204,
+        "updatedAt": "2021-08-05 15:27:00"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "chenuliana",
         "booksCount": 0,
         "updatedAt": "2021-07-25 11:54:33"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 52,
-        "updatedAt": "2021-07-25 10:51:03"
     }
 }
