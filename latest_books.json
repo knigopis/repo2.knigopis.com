@@ -1,4 +1,16 @@
 {
+    "5sINa4LdxM": {
+        "id": "5sINa4LdxM",
+        "title": "Кто здесь власть?",
+        "author": "Г. Робертсон, С. Грин",
+        "notes": "",
+        "createdAt": "2021-08-05 16:10:44",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 101
+        }
+    },
     "D0nHH7YHiy": {
         "id": "D0nHH7YHiy",
         "title": "Булгаков. Воланд вчера, сегодня, завтра",
@@ -345,18 +357,6 @@
             "id": "102857111133378678801-google",
             "nickname": "Rina",
             "booksCount": 6
-        }
-    },
-    "0rVwvKaZND": {
-        "id": "0rVwvKaZND",
-        "title": "Переломный момент: Как незначительные изменения приводят к глобальным переменам",
-        "author": "Малкольм Гладуэлл",
-        "notes": "",
-        "createdAt": "2021-07-31 12:40:07",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 871
         }
     }
 }
