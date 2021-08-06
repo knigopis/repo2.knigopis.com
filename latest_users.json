@@ -1,4 +1,10 @@
 {
+    "309122898-yandex": {
+        "id": "309122898-yandex",
+        "nickname": "asiya.26",
+        "booksCount": 0,
+        "updatedAt": "2021-08-06 16:22:48"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 17,
         "updatedAt": "2021-07-25 15:18:12"
-    },
-    "565577824-yandex": {
-        "id": "565577824-yandex",
-        "nickname": "chenuliana",
-        "booksCount": 0,
-        "updatedAt": "2021-07-25 11:54:33"
     }
 }
