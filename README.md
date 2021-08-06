@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[asiya.26](users/309/309122898-yandex)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>355</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>107</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>101</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sukhanova122](users/674/674216608-yandex)<sup>1</sup> 
 [arinamingazova](users/666/666911182-yandex)<sup>3</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup> 
-[chenuliana](users/565/565577824-yandex)<sup>0</sup> 
 
 
-_05.08.2021 19:47:34_
+_06.08.2021 16:22:48_
