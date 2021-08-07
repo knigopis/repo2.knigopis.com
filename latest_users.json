@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 70,
+        "updatedAt": "2021-08-07 18:31:07"
+    },
     "113179958976964886996-google": {
         "id": "113179958976964886996-google",
         "nickname": "neokchan",
@@ -172,11 +178,5 @@
         "nickname": "DonaKara",
         "booksCount": 0,
         "updatedAt": "2021-07-28 10:50:39"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 205,
-        "updatedAt": "2021-07-27 16:00:02"
     }
 }

@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>70</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>21</sup> 
 [MarkusRain](users/109/109935069004582832811-googleplus)<sup>0</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>17</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/165/165990417340767-facebook)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>14</sup> 
 [DonaKara](users/112/112305785450519456960-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup> 
 
 
-_07.08.2021 17:27:50_
+_07.08.2021 18:31:07_

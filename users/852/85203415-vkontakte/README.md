@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>69</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>70</sup>
 ---
 
 ## 2021
@@ -10,6 +10,11 @@
 
 
 ## 2018
+
+### Педагогическая поэма
+Макаренко А.С.
+> [2018-08-07] 
+
 
 ### Ты меня полюбишь ?
 Кэти Гласс
