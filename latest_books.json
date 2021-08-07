@@ -1,4 +1,16 @@
 {
+    "3fPeQVi5Ky": {
+        "id": "3fPeQVi5Ky",
+        "title": "Академия магического права. Брюнетка в бою",
+        "author": "Наталья Жильцова и Азалия Еремеева",
+        "notes": "",
+        "createdAt": "2021-08-07 15:36:39",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 9
+        }
+    },
     "jP5NKbp7W8": {
         "id": "jP5NKbp7W8",
         "title": "Академия магического права. Брюнетка в осаде",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 15
-        }
-    },
-    "UzlP2RJU0q": {
-        "id": "UzlP2RJU0q",
-        "title": "Город призрачных отражений",
-        "author": "Лена Обухова, Наталья Тимошенко",
-        "notes": "",
-        "createdAt": "2021-08-04 18:16:54",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 28
         }
     }
 }
