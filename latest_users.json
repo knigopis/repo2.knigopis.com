@@ -1,4 +1,10 @@
 {
+    "109935069004582832811-googleplus": {
+        "id": "109935069004582832811-googleplus",
+        "nickname": "MarkusRain",
+        "booksCount": 0,
+        "updatedAt": "2021-08-07 16:45:54"
+    },
     "113179958976964886996-google": {
         "id": "113179958976964886996-google",
         "nickname": "neokchan",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 205,
         "updatedAt": "2021-07-27 16:00:02"
-    },
-    "674216608-yandex": {
-        "id": "674216608-yandex",
-        "nickname": "sukhanova122",
-        "booksCount": 1,
-        "updatedAt": "2021-07-26 07:43:58"
     }
 }
