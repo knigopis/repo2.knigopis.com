@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>17</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>297</sup> 
 [asiya.26](users/309/309122898-yandex)<sup>2</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>355</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup> 
 [sukhanova122](users/674/674216608-yandex)<sup>1</sup> 
 [arinamingazova](users/666/666911182-yandex)<sup>3</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>17</sup> 
 
 
-_06.08.2021 18:16:23_
+_07.08.2021 02:50:24_

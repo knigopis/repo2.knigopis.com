@@ -1,4 +1,10 @@
 {
+    "111367585493471720963-google": {
+        "id": "111367585493471720963-google",
+        "nickname": "Fenix",
+        "booksCount": 17,
+        "updatedAt": "2021-08-07 02:50:24"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "arinamingazova",
         "booksCount": 3,
         "updatedAt": "2021-07-26 06:44:14"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 17,
-        "updatedAt": "2021-07-25 15:18:12"
     }
 }
