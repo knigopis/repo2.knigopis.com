@@ -1,4 +1,16 @@
 {
+    "JWaJ0YNfU4": {
+        "id": "JWaJ0YNfU4",
+        "title": "Академия магических секретов",
+        "author": "Алена Федотовская",
+        "notes": "2 книги в серии, понравилось, но на два раза)))",
+        "createdAt": "2021-08-07 15:25:57",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 4
+        }
+    },
     "WMy0FJYy6i": {
         "id": "WMy0FJYy6i",
         "title": "Магия любви. Лучшее романтическое фэнтези",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 65
-        }
-    },
-    "E60KqQWL85": {
-        "id": "E60KqQWL85",
-        "title": "Степфордские жёны",
-        "author": "Айра Левин",
-        "notes": "",
-        "createdAt": "2021-08-04 02:34:35",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 345
         }
     }
 }
