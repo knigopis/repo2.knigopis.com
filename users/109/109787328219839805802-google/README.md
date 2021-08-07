@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>78</sup>
+# List of books read by Rainbow<sup>79</sup>
 ---
 
 ## 2021
+
+### Посторонний
+Альберт Камю
+> [2021-08-06] 
+
 
 ### Русский человек на rendez-vous
 Николай Гаврилович Чернышевский
