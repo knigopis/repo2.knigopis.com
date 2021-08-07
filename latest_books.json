@@ -1,4 +1,16 @@
 {
+    "jP5NKbp7W8": {
+        "id": "jP5NKbp7W8",
+        "title": "Академия магического права. Брюнетка в осаде",
+        "author": "Наталья Жильцова и Азалия Еремеева",
+        "notes": "",
+        "createdAt": "2021-08-07 15:31:08",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 8
+        }
+    },
     "vCl4XOaSvt": {
         "id": "vCl4XOaSvt",
         "title": "Академия магического права. Брюнетка в защите",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 28
-        }
-    },
-    "Ko1qVItfpa": {
-        "id": "Ko1qVItfpa",
-        "title": "Галерея последних портретов",
-        "author": "Лена Обухова, Наталья Тимошенко",
-        "notes": "",
-        "createdAt": "2021-08-04 18:15:18",
-        "user": {
-            "id": "3448154788585127-facebook",
-            "nickname": "Пу_тем",
-            "booksCount": 27
         }
     }
 }
