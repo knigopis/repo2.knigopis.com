@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Легенда о маленьком буксире ~ [Vladasbook](users/221/221759364-yandex)<sup>5</sup>
 * Пирог из горького миндаля ~ [Chiffi](users/105/105831994080785626680-google)<sup>297</sup>
 * Осина фабрика ~ [Rina](users/102/102857111133378678801-google)<sup>8</sup>
 * Мне тебя обещали ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
 * Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
 * Герметикон. Не видя звёзд ~ [Chiffi](users/105/105831994080785626680-google)<sup>290</sup>
-* Механик ~ [dromoman2008](users/444/44461886-yandex)<sup>54</sup>
 
 
-_06.08.2021 18:16:23_
+_08.08.2021 17:21:38_

@@ -1,4 +1,10 @@
 {
+    "221759364-yandex": {
+        "id": "221759364-yandex",
+        "nickname": "Vladasbook",
+        "booksCount": 5,
+        "updatedAt": "2021-08-08 17:21:38"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tumturumk",
@@ -172,11 +178,5 @@
         "nickname": "vitasoft",
         "booksCount": 42,
         "updatedAt": "2021-07-30 05:13:56"
-    },
-    "165990417340767-facebook": {
-        "id": "165990417340767-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-07-29 10:16:14"
     }
 }
