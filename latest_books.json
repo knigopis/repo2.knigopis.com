@@ -1,4 +1,16 @@
 {
+    "fARC7cfkgT": {
+        "id": "fARC7cfkgT",
+        "title": "Манифест как стать интересной",
+        "author": "Холли Борн",
+        "notes": "понравилось очень, но завязка меня чутка перепугала)(",
+        "createdAt": "2021-08-08 03:11:03",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 36
+        }
+    },
     "c12cSq2_ZA": {
         "id": "c12cSq2_ZA",
         "title": "Мара и Морок. Особенная тень.",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 10
-        }
-    },
-    "3fPeQVi5Ky": {
-        "id": "3fPeQVi5Ky",
-        "title": "Академия магического права. Брюнетка в бою",
-        "author": "Наталья Жильцова и Азалия Еремеева",
-        "notes": "",
-        "createdAt": "2021-08-07 15:36:39",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 9
         }
     }
 }
