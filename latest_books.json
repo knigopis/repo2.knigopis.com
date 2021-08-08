@@ -1,4 +1,16 @@
 {
+    "6awhWxRiij": {
+        "id": "6awhWxRiij",
+        "title": "Это моя территория",
+        "author": "Екатерина Васина",
+        "notes": "очень люблю, перечитаю",
+        "createdAt": "2021-08-08 03:21:30",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 38
+        }
+    },
     "_K_Va9cOpD": {
         "id": "_K_Va9cOpD",
         "title": "Мелодия моей жизни - потанцуем? [СИ]",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 12
-        }
-    },
-    "XHOMaoinLc": {
-        "id": "XHOMaoinLc",
-        "title": "Банальная сказка, или Красавица и Босс",
-        "author": "Альмира Рай",
-        "notes": "понравилось.",
-        "createdAt": "2021-08-07 15:38:53",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 11
         }
     }
 }
