@@ -1,7 +1,12 @@
-# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>32</sup>
+# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>33</sup>
 ---
 
 ## 2021
+
+### Злодей для злодейки
+Юлия Бум
+> [2021-08-08] очень люблю))))
+
 
 ### Я не злодейка (СИ)
 Юлия Бум
