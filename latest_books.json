@@ -1,4 +1,16 @@
 {
+    "CJGrwoxlFU": {
+        "id": "CJGrwoxlFU",
+        "title": "Фея любви, или Демон в юбке",
+        "author": "Мария Николаева Сергеевна",
+        "notes": "любовь, но серия огромная.",
+        "createdAt": "2021-08-08 10:53:37",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 63
+        }
+    },
     "TyOj0_O6AZ": {
         "id": "TyOj0_O6AZ",
         "title": "Стать Джоанной Морриган",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 34
-        }
-    },
-    "Yl7ldw7OlL": {
-        "id": "Yl7ldw7OlL",
-        "title": "Злодей для злодейки",
-        "author": "Юлия Бум",
-        "notes": "очень люблю))))",
-        "createdAt": "2021-08-08 03:08:12",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 33
         }
     }
 }
