@@ -1,4 +1,16 @@
 {
+    "s6o3UfrtYL": {
+        "id": "s6o3UfrtYL",
+        "title": "Отстань от моей мечты.",
+        "author": "Екатерина Васина",
+        "notes": "обожаю Скагги, больше никого не люблю)",
+        "createdAt": "2021-08-08 03:27:35",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 41
+        }
+    },
     "SEvn-xCKSd": {
         "id": "SEvn-xCKSd",
         "title": "Нет, детка, это – фантастика!",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 15
-        }
-    },
-    "nFxnpePox6": {
-        "id": "nFxnpePox6",
-        "title": "Великолепный тур, или Помолвка по контракту",
-        "author": "Анна Одувалова и Ольга Пашнина",
-        "notes": "",
-        "createdAt": "2021-08-07 16:00:11",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 14
         }
     }
 }
