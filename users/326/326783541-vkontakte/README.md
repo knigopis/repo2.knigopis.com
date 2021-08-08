@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>14</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>15</sup>
 ---
 
 ## 2021
+
+### Далекие странники
+Прист
+> [2021-08-08] 
+
 
 ### Хаски и его учитель белый кот
 > [2021-07-28] 
