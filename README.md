@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vladasbook](users/221/221759364-yandex)<sup>5</sup> 
+[Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>10</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>16</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>63</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
 
 
-_08.08.2021 17:21:38_
+_08.08.2021 17:26:55_
