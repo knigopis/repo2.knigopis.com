@@ -1,4 +1,4 @@
-# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>42</sup>
+# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>43</sup>
 ---
 
 ## 2021
@@ -34,6 +34,11 @@
 
 
 ## 2020
+
+### Трио для разведенной
+Патрисия Грей
+> 3/10
+
 
 ### Трио для замужней
 Грей Патрисия
