@@ -1,4 +1,4 @@
-# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>39</sup>
+# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>40</sup>
 ---
 
 ## 2021
@@ -29,6 +29,11 @@
 
 
 ## 2020
+
+### Нет, детка, это – фантастика!
+Екатерина Васина
+> нормально
+
 
 ### Снежное пламя
 Екатерина Васина
