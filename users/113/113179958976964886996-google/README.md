@@ -1,4 +1,4 @@
-# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>59</sup>
+# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>60</sup>
 ---
 
 ## 2021
@@ -21,6 +21,11 @@
 ### Мара и Морок
 Лия Арден
 > [2021-07] нормально, но не более.
+
+
+### Сосед
+Тери Сан
+> любовь
 
 
 ### Покорность не для меня
