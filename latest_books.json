@@ -1,4 +1,16 @@
 {
+    "8lPSSMjAiJ": {
+        "id": "8lPSSMjAiJ",
+        "title": "Злолушка или Сестрицы - тоже люди!",
+        "author": "Александра Шеина",
+        "notes": "достаточно мило, понравилось, но на один раз.",
+        "createdAt": "2021-08-08 03:55:09",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 49
+        }
+    },
     "BpqPwypeS0": {
         "id": "BpqPwypeS0",
         "title": "На полпути к могиле. Одной ногой в могиле. На краю могилы.",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 78
-        }
-    },
-    "Qogg9cT_u5": {
-        "id": "Qogg9cT_u5",
-        "title": "Педагогическая поэма",
-        "author": "Макаренко А.С.",
-        "notes": "",
-        "createdAt": "2021-08-07 18:31:07",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 70
         }
     }
 }
