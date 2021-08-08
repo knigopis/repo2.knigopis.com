@@ -1,4 +1,16 @@
 {
+    "Ftkk11pUKf": {
+        "id": "Ftkk11pUKf",
+        "title": "Жесткий менеджмент.",
+        "author": "Ден Кеннеди",
+        "notes": "",
+        "createdAt": "2021-08-08 15:01:23",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tumturumk",
+            "booksCount": 10
+        }
+    },
     "ItyUpEZRkN": {
         "id": "ItyUpEZRkN",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 37
-        }
-    },
-    "fARC7cfkgT": {
-        "id": "fARC7cfkgT",
-        "title": "Манифест как стать интересной",
-        "author": "Холли Борн",
-        "notes": "понравилось очень, но завязка меня чутка перепугала)(",
-        "createdAt": "2021-08-08 03:11:03",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 36
         }
     }
 }

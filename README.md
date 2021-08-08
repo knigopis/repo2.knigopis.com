@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>10</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>16</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>63</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>78</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>117</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>9</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>412</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>871</sup> 
 [hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/165/165990417340767-facebook)<sup>0</sup> 
 
 
-_08.08.2021 11:04:55_
+_08.08.2021 15:01:23_

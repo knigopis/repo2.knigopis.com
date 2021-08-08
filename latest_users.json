@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tumturumk",
+        "booksCount": 10,
+        "updatedAt": "2021-08-08 15:01:23"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -130,12 +136,6 @@
         "nickname": "sab_olya",
         "booksCount": 100,
         "updatedAt": "2021-08-02 12:25:11"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tumturumk",
-        "booksCount": 9,
-        "updatedAt": "2021-08-01 21:22:36"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

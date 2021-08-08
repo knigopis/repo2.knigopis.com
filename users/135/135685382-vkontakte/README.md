@@ -1,7 +1,12 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>9</sup>
+# List of books read by [tumturumk](http://vk.com/id135685382)<sup>10</sup>
 ---
 
 ## 2021
+
+### Жесткий менеджмент.
+Ден Кеннеди
+> [2021-08-08] 
+
 
 ### Выйди из зоны комфорта
 Брайн Трейси
