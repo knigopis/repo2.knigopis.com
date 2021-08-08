@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>118</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>10</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>16</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>180</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>117</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>412</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>871</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
 
 
-_08.08.2021 17:26:55_
+_08.08.2021 17:27:29_
