@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>108</sup>
+# List of books read by danyluk62<sup>109</sup>
 ---
 
 ## 2021
+
+### Щоденник Майдану та вiйни
+Андрей Курков
+> [2021-08] 
+
 
 ### Некоторые не попадут в ад
 Захар Прилепин

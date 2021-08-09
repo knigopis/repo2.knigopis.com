@@ -37,8 +37,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>109</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>6</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>108</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>291</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>206</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>118</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uid-gua5ou5x](users/820/820026022-yandex)<sup>1</sup> 
 
 
-_09.08.2021 07:42:51_
+_09.08.2021 09:08:01_
