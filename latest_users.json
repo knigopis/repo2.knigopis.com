@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 291,
+        "updatedAt": "2021-08-09 05:27:08"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "uid-gua5ou5x",
         "booksCount": 1,
         "updatedAt": "2021-07-30 08:37:12"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "vitasoft",
-        "booksCount": 42,
-        "updatedAt": "2021-07-30 05:13:56"
     }
 }

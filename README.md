@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путешествие по видеоирам ~ [Garka](users/115/115753719718250012620-google)<sup>291</sup>
+    > От первого ENIAC размером с половину дома, до PlayStation и GameBoy, от простейшей симуляции Pong, до HalfLive и ReaidentEvil.
+
 * Легенда о маленьком буксире ~ [Vladasbook](users/221/221759364-yandex)<sup>5</sup>
     > Монолог буксира в Ленинградском порту, где швартуются иностранные корабли.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Из смеха и рыданий всегда выбирай первое. За исключением тех случаев. когда разговариваешь с мужчиной.. Ломовая лошадь, пахала всю жизнь как проклятая.Зачем ей помогать? Она сама себя обеспечивает. А я так не умею ..Она с трогательной доверчивостью ждала его ответа " Потрясающая женщина. Ее даже нельзя назвать стяжательницей. Просто в ее картине мира она нуждается больше всех,  потому что нуждается больше всех. Какой удобный замкнутый круг"    Вечный раб на галере,  машущий веслами без отпусков и праздников. Счастье у этих людей выглядит как мрачная гордость:"Я смог! Я сделал!" (узнаю себя, и мне не нравится картинка)   Хуже циников только идеалисты
 
 * Осина фабрика ~ [Rina](users/102/102857111133378678801-google)<sup>8</sup>
-    > 208с.
 
 * Мне тебя обещали ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 
-* Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>291</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>206</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>118</sup> 
 [Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>214</sup> 
 [uid-gua5ou5x](users/820/820026022-yandex)<sup>1</sup> 
-[vitasoft](users/474/47446642-vkontakte)<sup>42</sup> 
 
 
-_08.08.2021 18:38:34_
+_09.08.2021 05:27:08_

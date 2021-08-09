@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>290</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>291</sup>
 ---
 
 ## 2021
+
+### Путешествие по видеоирам
+Стив Макнил
+> [2021-08-08] От первого ENIAC размером с половину дома, до PlayStation и GameBoy, от простейшей симуляции Pong, до HalfLive и ReaidentEvil.
+
 
 ### Греческие и римские мифы. От Трои и Гомера до Пандоры и «Аватара»
 Филипп Матышак
