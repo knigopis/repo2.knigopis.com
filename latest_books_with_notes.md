@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сказки дядюшки Римуса ~ [Vladasbook](users/221/221759364-yandex)<sup>6</sup>
 * Путешествие по видеоирам ~ [Garka](users/115/115753719718250012620-google)<sup>291</sup>
 * Легенда о маленьком буксире ~ [Vladasbook](users/221/221759364-yandex)<sup>5</sup>
 * Пирог из горького миндаля ~ [Chiffi](users/105/105831994080785626680-google)<sup>297</sup>
@@ -30,7 +31,6 @@
 * Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
 * Коррида  в большом порядке ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>166</sup>
 * Заповіти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>201</sup>
-* Оповідь служниці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>200</sup>
 
 
-_09.08.2021 05:27:08_
+_09.08.2021 07:42:51_
