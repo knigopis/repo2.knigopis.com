@@ -1,4 +1,4 @@
-# List of books read by Vladasbook<sup>4</sup>
+# List of books read by Vladasbook<sup>5</sup>
 ---
 
 ## 2021
@@ -56,6 +56,13 @@
 
 ### Михаил Булгаков
 Мастер и Маргаита
+
+
+
+## 1970
+
+### Кто чем поёт?
+Виталий Бианки
 
 
 
