@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vladasbook](users/221/221759364-yandex)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>291</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>206</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>118</sup> 
-[Vladasbook](users/221/221759364-yandex)<sup>4</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>10</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>16</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>63</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uid-gua5ou5x](users/820/820026022-yandex)<sup>1</sup> 
 
 
-_09.08.2021 05:27:08_
+_09.08.2021 07:19:07_
