@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>872</sup> 
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
 [](users/113/113255936223461038506-google)<sup>0</sup> 
 [МагоГиз](users/106/106082567795743405861-google)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>412</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>871</sup> 
 
 
-_10.08.2021 20:40:27_
+_10.08.2021 20:49:18_
