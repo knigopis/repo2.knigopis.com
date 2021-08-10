@@ -1,4 +1,10 @@
 {
+    "106082567795743405861-google": {
+        "id": "106082567795743405861-google",
+        "nickname": "МагоГиз",
+        "booksCount": 0,
+        "updatedAt": "2021-08-10 04:37:30"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 214,
         "updatedAt": "2021-07-30 21:53:57"
-    },
-    "820026022-yandex": {
-        "id": "820026022-yandex",
-        "nickname": "uid-gua5ou5x",
-        "booksCount": 1,
-        "updatedAt": "2021-07-30 08:37:12"
     }
 }
