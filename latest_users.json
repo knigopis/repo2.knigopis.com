@@ -1,4 +1,10 @@
 {
+    "954200493-yandex": {
+        "id": "954200493-yandex",
+        "nickname": "ktfya",
+        "booksCount": 0,
+        "updatedAt": "2021-08-10 20:34:39"
+    },
     "113255936223461038506-google": {
         "id": "113255936223461038506-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 871,
         "updatedAt": "2021-07-31 12:40:07"
-    },
-    "106174139988189335509-google": {
-        "id": "106174139988189335509-google",
-        "nickname": "hihij4",
-        "booksCount": 0,
-        "updatedAt": "2021-07-30 22:04:36"
     }
 }
