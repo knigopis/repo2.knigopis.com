@@ -1,4 +1,10 @@
 {
+    "113255936223461038506-google": {
+        "id": "113255936223461038506-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-08-10 14:50:00"
+    },
     "106082567795743405861-google": {
         "id": "106082567795743405861-google",
         "nickname": "МагоГиз",
@@ -172,11 +178,5 @@
         "nickname": "hihij4",
         "booksCount": 0,
         "updatedAt": "2021-07-30 22:04:36"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 214,
-        "updatedAt": "2021-07-30 21:53:57"
     }
 }
