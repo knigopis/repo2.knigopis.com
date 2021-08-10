@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ktfya](users/954/954200493-yandex)<sup>0</sup> 
 [](users/113/113255936223461038506-google)<sup>0</sup> 
 [МагоГиз](users/106/106082567795743405861-google)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>109</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>412</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>871</sup> 
-[hihij4](users/106/106174139988189335509-google)<sup>0</sup> 
 
 
-_10.08.2021 14:50:00_
+_10.08.2021 20:34:39_
