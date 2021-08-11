@@ -1,7 +1,12 @@
-# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>96</sup>
+# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>97</sup>
 ---
 
 ## 2021
+
+### Лгунья
+Гошен
+> [2021-08-11] 
+
 
 ### Булгаков. Воланд вчера, сегодня, завтра
 Дмитрий Быков

@@ -1,4 +1,10 @@
 {
+    "111656270551033014778-google": {
+        "id": "111656270551033014778-google",
+        "nickname": "eva",
+        "booksCount": 97,
+        "updatedAt": "2021-08-11 17:12:16"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -136,12 +142,6 @@
         "nickname": "4apa",
         "booksCount": 101,
         "updatedAt": "2021-08-05 16:10:44"
-    },
-    "111656270551033014778-google": {
-        "id": "111656270551033014778-google",
-        "nickname": "eva",
-        "booksCount": 96,
-        "updatedAt": "2021-08-05 15:51:50"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
