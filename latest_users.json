@@ -1,4 +1,10 @@
 {
+    "116650782618177766821-google": {
+        "id": "116650782618177766821-google",
+        "nickname": "Дмитрий Витальевич",
+        "booksCount": 0,
+        "updatedAt": "2021-08-11 09:45:01"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 100,
         "updatedAt": "2021-08-02 12:25:11"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 412,
-        "updatedAt": "2021-08-01 14:56:30"
     }
 }
