@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/371/371631802-vkontakte)<sup>0</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>872</sup> 
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>180</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>100</sup> 
 
 
-_11.08.2021 09:45:02_
+_11.08.2021 09:48:39_
