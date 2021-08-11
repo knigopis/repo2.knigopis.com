@@ -1,4 +1,10 @@
 {
+    "371631802-vkontakte": {
+        "id": "371631802-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-08-11 09:48:39"
+    },
     "116650782618177766821-google": {
         "id": "116650782618177766821-google",
         "nickname": "Дмитрий Витальевич",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 241,
         "updatedAt": "2021-08-03 05:41:48"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 100,
-        "updatedAt": "2021-08-02 12:25:11"
     }
 }
