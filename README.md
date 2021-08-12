@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112028192141409506684-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup> 
 [eva](users/111/111656270551033014778-google)<sup>97</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>16</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>28</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>8</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>180</sup> 
 
 
-_12.08.2021 06:08:42_
+_12.08.2021 12:39:45_
