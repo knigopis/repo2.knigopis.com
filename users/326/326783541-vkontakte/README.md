@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>16</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>17</sup>
 ---
 
 ## 2021
+
+### Система Спаси себя сам
+Мосян Тунсю
+> [2021-08-11] 
+
 
 ### Далекие странники
 Прист
