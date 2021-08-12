@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>298</sup>
 * Тараканы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup>
 * Тридцать девять ступеней ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup>
 * Сказки дядюшки Римуса ~ [Vladasbook](users/221/221759364-yandex)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
 * Морфий ~ [Triste](users/517/5175580462988229760-mailru)<sup>19</sup>
 * Ася, русский человек на рандеву, драма без развязки ~ [Rainbow](users/109/109787328219839805802-google)<sup>76</sup>
-* Viva la vagina. Хватит замалчивать скрытые возможности органа, который не принято называть ~ [albina_untiring](users/257/2579695-vkontakte)<sup>16</sup>
 
 
-_12.08.2021 13:15:51_
+_12.08.2021 18:47:01_
