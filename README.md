@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тридцать девять ступеней ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup>
+    > paper
+
 * Сказки дядюшки Римуса ~ [Vladasbook](users/221/221759364-yandex)<sup>6</sup>
     > Пер. с англ. и обработка М. Гершензона.
     > Рис. А. Фроста.
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > От первого ENIAC размером с половину дома, до PlayStation и GameBoy, от простейшей симуляции Pong, до HalfLive и ReaidentEvil.
 
 * Легенда о маленьком буксире ~ [Vladasbook](users/221/221759364-yandex)<sup>5</sup>
-    > Монолог буксира в Ленинградском порту, где швартуются иностранные корабли.
 
 * Пирог из горького миндаля ~ [Chiffi](users/105/105831994080785626680-google)<sup>297</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Роли, которые играет женщина ~ [Rina](users/102/102857111133378678801-google)<sup>6</sup>
 
-* Грозовой перевал ~ [vitasoft](users/474/47446642-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup> 
 [eva](users/111/111656270551033014778-google)<sup>97</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>16</sup> 
 [](users/371/371631802-vkontakte)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>8</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>180</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>241</sup> 
 
 
-_11.08.2021 17:12:16_
+_12.08.2021 06:08:42_

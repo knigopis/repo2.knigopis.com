@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 43,
+        "updatedAt": "2021-08-12 06:08:42"
+    },
     "111656270551033014778-google": {
         "id": "111656270551033014778-google",
         "nickname": "eva",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 180,
         "updatedAt": "2021-08-03 17:24:20"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 241,
-        "updatedAt": "2021-08-03 05:41:48"
     }
 }
