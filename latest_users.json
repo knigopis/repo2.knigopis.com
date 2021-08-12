@@ -1,4 +1,10 @@
 {
+    "112028192141409506684-google": {
+        "id": "112028192141409506684-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-08-12 12:39:44"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 65,
         "updatedAt": "2021-08-04 11:57:17"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 180,
-        "updatedAt": "2021-08-03 17:24:20"
     }
 }
