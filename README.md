@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тараканы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup>
+    > Прослушала 75%, прочитала краткое содержание.
+
 * Тридцать девять ступеней ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup>
     > paper
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Сказки североамериканских негров, записанные и обработанные известным американским писателем-фольклористом Джоэлем Харрисом (1848-1908)
 
 * Путешествие по видеоирам ~ [Garka](users/115/115753719718250012620-google)<sup>291</sup>
-    > От первого ENIAC размером с половину дома, до PlayStation и GameBoy, от простейшей симуляции Pong, до HalfLive и ReaidentEvil.
 
 * Легенда о маленьком буксире ~ [Vladasbook](users/221/221759364-yandex)<sup>5</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Бумажный занавес, стеклянная корона. Бабкин и Илюшин ~ [Chiffi](users/105/105831994080785626680-google)<sup>296</sup>
 
-* Роли, которые играет женщина ~ [Rina](users/102/102857111133378678801-google)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup> 
 [](users/112/112028192141409506684-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup> 
 [eva](users/111/111656270551033014778-google)<sup>97</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>150</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>28</sup> 
 [Rina](users/102/102857111133378678801-google)<sup>8</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 
 
-_12.08.2021 12:39:45_
+_12.08.2021 13:15:51_
