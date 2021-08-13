@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>30</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>873</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>17</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>355</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>101</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>150</sup> 
-[Rina](users/102/102857111133378678801-google)<sup>8</sup> 
 
 
-_13.08.2021 10:55:36_
+_13.08.2021 12:07:08_

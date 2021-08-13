@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 30,
+        "updatedAt": "2021-08-13 12:07:08"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ..",
         "booksCount": 150,
         "updatedAt": "2021-08-05 14:43:25"
-    },
-    "102857111133378678801-google": {
-        "id": "102857111133378678801-google",
-        "nickname": "Rina",
-        "booksCount": 8,
-        "updatedAt": "2021-08-04 17:37:18"
     }
 }
