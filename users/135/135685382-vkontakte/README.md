@@ -1,7 +1,12 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>10</sup>
+# List of books read by [tumturumk](http://vk.com/id135685382)<sup>11</sup>
 ---
 
 ## 2021
+
+### Жесткий тайм-менеджмент
+Дэн Кеннеди
+> [2021-08-13] 
+
 
 ### Жесткий менеджмент.
 Ден Кеннеди

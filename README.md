@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>11</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>151</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>30</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>291</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>206</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>118</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>10</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>63</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>78</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>355</sup> 
 
 
-_13.08.2021 15:56:14_
+_13.08.2021 20:18:38_
