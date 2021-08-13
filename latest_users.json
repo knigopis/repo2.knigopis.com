@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 873,
+        "updatedAt": "2021-08-13 09:01:33"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -52,12 +58,6 @@
         "nickname": "Дмитрий Витальевич",
         "booksCount": 0,
         "updatedAt": "2021-08-11 09:45:01"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 872,
-        "updatedAt": "2021-08-10 20:49:18"
     },
     "954200493-yandex": {
         "id": "954200493-yandex",

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>873</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>17</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>298</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>16</sup> 
 [](users/371/371631802-vkontakte)<sup>0</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>872</sup> 
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
 [](users/113/113255936223461038506-google)<sup>0</sup> 
 [МагоГиз](users/106/106082567795743405861-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rina](users/102/102857111133378678801-google)<sup>8</sup> 
 
 
-_12.08.2021 21:01:19_
+_13.08.2021 09:01:33_
