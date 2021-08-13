@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 64,
+        "updatedAt": "2021-08-13 12:24:36"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 101,
         "updatedAt": "2021-08-05 16:10:44"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ..",
-        "booksCount": 150,
-        "updatedAt": "2021-08-05 14:43:25"
     }
 }
