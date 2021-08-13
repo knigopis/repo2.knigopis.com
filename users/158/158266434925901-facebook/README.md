@@ -1,4 +1,4 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>150</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>151</sup>
 ---
 
 ## 2021
@@ -21,6 +21,11 @@
 ### Дьявол и тёмная вода
 Стюарт Тёртон
 > [2021-07-08] 
+
+
+### Трейдинг в чайнике
+BigDaddy205
+> [2021-07-04] 
 
 
 ### Ка. Дарр Дубраули в руинах Имра

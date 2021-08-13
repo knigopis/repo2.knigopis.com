@@ -1,4 +1,16 @@
 {
+    "jBuJyzhX9p": {
+        "id": "jBuJyzhX9p",
+        "title": "Трейдинг в чайнике",
+        "author": "BigDaddy205",
+        "notes": "",
+        "createdAt": "2021-08-13 15:56:14",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 151
+        }
+    },
     "sgxImx8Lzf": {
         "id": "sgxImx8Lzf",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 60
-        }
-    },
-    "V4O0oARcIx": {
-        "id": "V4O0oARcIx",
-        "title": "Покорность не для меня",
-        "author": "Виктория Свободина",
-        "notes": "любовь.",
-        "createdAt": "2021-08-08 10:46:20",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 59
         }
     }
 }
