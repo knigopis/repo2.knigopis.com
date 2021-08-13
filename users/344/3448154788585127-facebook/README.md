@@ -1,7 +1,12 @@
-# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>28</sup>
+# List of books read by [Пу_тем](https://www.facebook.com/profile.php?id=3448154788585127)<sup>29</sup>
 ---
 
 ## 2021
+
+### Месть кровавого жнеца
+Лена Обухова, Наталья Тимошенко
+> [2021-08-13] 
+
 
 ### Город призрачных отражений
 Лена Обухова, Наталья Тимошенко
