@@ -1,4 +1,16 @@
 {
+    "gZepA7iHhO": {
+        "id": "gZepA7iHhO",
+        "title": "Человек",
+        "author": "Уэлс",
+        "notes": "2кеупукп",
+        "createdAt": "2021-08-14 12:43:00",
+        "user": {
+            "id": "1474032679114725758-mailru",
+            "nickname": "Морская Свинка",
+            "booksCount": 1
+        }
+    },
     "IunzNUhl9a": {
         "id": "IunzNUhl9a",
         "title": "Рекорд",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 15
-        }
-    },
-    "CJGrwoxlFU": {
-        "id": "CJGrwoxlFU",
-        "title": "Фея любви, или Демон в юбке",
-        "author": "Мария Николаева Сергеевна",
-        "notes": "любовь, но серия огромная.",
-        "createdAt": "2021-08-08 10:53:37",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 63
         }
     }
 }
