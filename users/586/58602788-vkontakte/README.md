@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>64</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>65</sup>
 ---
 
 ## 2021
+
+### Переплет
+Бриджет Коллинз
+> [2021-08] 
+
 
 ### Мне тебя обещали
 Эльчин Сафарли

@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [](users/651/651537773-vkontakte)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>11</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>151</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>30</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>873</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [asiya.26](users/309/309122898-yandex)<sup>2</sup> 
 
 
-_14.08.2021 11:07:25_
+_14.08.2021 11:22:10_
