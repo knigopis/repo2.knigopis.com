@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Морская Свинка](users/147/1474032679114725758-mailru)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [](users/651/651537773-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [develchip](users/852/85203415-vkontakte)<sup>70</sup> 
 [MarkusRain](users/109/109935069004582832811-googleplus)<sup>0</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>17</sup> 
-[asiya.26](users/309/309122898-yandex)<sup>2</sup> 
 
 
-_14.08.2021 11:28:34_
+_14.08.2021 12:37:02_
