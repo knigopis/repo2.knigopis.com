@@ -1,4 +1,10 @@
 {
+    "651537773-vkontakte": {
+        "id": "651537773-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-08-14 11:07:24"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tumturumk",
@@ -172,11 +178,5 @@
         "nickname": "asiya.26",
         "booksCount": 2,
         "updatedAt": "2021-08-06 16:25:05"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 355,
-        "updatedAt": "2021-08-05 19:47:34"
     }
 }
