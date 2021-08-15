@@ -1,4 +1,16 @@
 {
+    "cpjKftcNtR": {
+        "id": "cpjKftcNtR",
+        "title": "Записки террориста (в хорошем смысле слова)",
+        "author": "Виталий Африка",
+        "notes": "",
+        "createdAt": "2021-08-15 17:12:39",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 110
+        }
+    },
     "gZepA7iHhO": {
         "id": "gZepA7iHhO",
         "title": "Человек",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 16
-        }
-    },
-    "LAw9RYGYyq": {
-        "id": "LAw9RYGYyq",
-        "title": "Далекие странники",
-        "author": "Прист",
-        "notes": "",
-        "createdAt": "2021-08-08 11:04:48",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 15
         }
     }
 }
