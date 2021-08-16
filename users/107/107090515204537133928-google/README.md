@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>119</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>120</sup>
 ---
 
 ## 2021
+
+### Грохот костей
+Роберт Говард
+> [2021-08-16] 
+
 
 ### Рекорд
 Николай Ткаченко

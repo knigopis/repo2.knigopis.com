@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>120</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>53</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>106</sup> 
 [esiti](users/463/463509228-vkontakte)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>110</sup> 
 [Морская Свинка](users/147/1474032679114725758-mailru)<sup>1</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>119</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [](users/651/651537773-vkontakte)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>78</sup> 
 
 
-_16.08.2021 14:45:40_
+_16.08.2021 17:16:11_

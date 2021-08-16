@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 120,
+        "updatedAt": "2021-08-16 17:16:11"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -28,12 +34,6 @@
         "nickname": "Морская Свинка",
         "booksCount": 1,
         "updatedAt": "2021-08-14 12:43:00"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 119,
-        "updatedAt": "2021-08-14 11:28:34"
     },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
