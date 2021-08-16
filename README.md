@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[esiti](users/463/463509228-vkontakte)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>110</sup> 
 [Морская Свинка](users/147/1474032679114725758-mailru)<sup>1</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>119</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>78</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>70</sup> 
 [MarkusRain](users/109/109935069004582832811-googleplus)<sup>0</sup> 
-[Fenix](users/111/111367585493471720963-google)<sup>17</sup> 
 
 
-_15.08.2021 17:12:39_
+_16.08.2021 12:50:58_
