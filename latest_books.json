@@ -1,4 +1,16 @@
 {
+    "InVK1mt8Pc": {
+        "id": "InVK1mt8Pc",
+        "title": "О мышах и людях",
+        "author": "Стейнбек Джон Эрнст",
+        "notes": "",
+        "createdAt": "2021-08-16 20:00:50",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 292
+        }
+    },
     "f7aNkCk9t3": {
         "id": "f7aNkCk9t3",
         "title": "Грохот костей",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 291
-        }
-    },
-    "DpimtGcq-N": {
-        "id": "DpimtGcq-N",
-        "title": "Творцы заклинаний",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2021-08-08 18:38:34",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 206
         }
     }
 }
