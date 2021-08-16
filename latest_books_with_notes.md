@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Товарищ,На юге ~ [mfevralev](users/140/140966150-vkontakte)<sup>53</sup>
 * На западном фронте без перемен ~ [kissamasya](users/684/68439978-vkontakte)<sup>106</sup>
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>298</sup>
 * Тараканы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup>
@@ -30,7 +31,6 @@
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
 * Тот, кто ловит мотыльков ~ [Chiffi](users/105/105831994080785626680-google)<sup>292</sup>
 * Чужой из теней ~ [Triste](users/517/5175580462988229760-mailru)<sup>28</sup>
-* Морфий ~ [Triste](users/517/5175580462988229760-mailru)<sup>19</sup>
 
 
-_16.08.2021 13:50:31_
+_16.08.2021 14:45:40_
