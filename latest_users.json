@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 106,
+        "updatedAt": "2021-08-16 13:50:31"
+    },
     "463509228-vkontakte": {
         "id": "463509228-vkontakte",
         "nickname": "esiti",
@@ -172,11 +178,5 @@
         "nickname": "develchip",
         "booksCount": 70,
         "updatedAt": "2021-08-07 18:31:07"
-    },
-    "109935069004582832811-googleplus": {
-        "id": "109935069004582832811-googleplus",
-        "nickname": "MarkusRain",
-        "booksCount": 0,
-        "updatedAt": "2021-08-07 16:45:54"
     }
 }
