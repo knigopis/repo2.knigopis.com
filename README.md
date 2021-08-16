@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[esiti](users/463/463509228-vkontakte)<sup>0</sup> 
+[esiti](users/463/463509228-vkontakte)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>110</sup> 
 [Морская Свинка](users/147/1474032679114725758-mailru)<sup>1</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>119</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [MarkusRain](users/109/109935069004582832811-googleplus)<sup>0</sup> 
 
 
-_16.08.2021 12:50:58_
+_16.08.2021 12:53:51_
