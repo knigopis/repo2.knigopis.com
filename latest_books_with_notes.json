@@ -1,4 +1,16 @@
 {
+    "MJgB1j-xY4": {
+        "id": "MJgB1j-xY4",
+        "title": "Время Секонд Хэнд",
+        "author": "Светлана Алексиевич",
+        "notes": "6/10 \"Особый русский путь\" и переживание о распаде совка.",
+        "createdAt": "2021-08-17 11:59:58",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 209
+        }
+    },
     "NP22SEhsi7": {
         "id": "NP22SEhsi7",
         "title": "Последние свидетели, соло для детского голоса.",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 64
-        }
-    },
-    "nUv6bat2ss": {
-        "id": "nUv6bat2ss",
-        "title": "Остров Сокровищ",
-        "author": "Роберт Стивенсон",
-        "notes": "audio",
-        "createdAt": "2021-07-19 14:07:59",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "vitasoft",
-            "booksCount": 41
         }
     }
 }
