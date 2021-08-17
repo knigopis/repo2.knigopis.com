@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>207</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>208</sup>
 ---
 
 ## 2021
+
+### Последние свидетели, соло для детского голоса.
+Светлана Алексиевич
+> [2021-08-14] 6/10 Детские воспоминания переживших оккупацию и вторую мировую.
+
 
 ### Чудный олень вечной охоты
 Светлана Алексиевич

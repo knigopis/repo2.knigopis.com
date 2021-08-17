@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
+    > 6/10 Детские воспоминания переживших оккупацию и вторую мировую.
+
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
     > 6/10 Взаимотношение полов по-советски, обожествление женщины и отсутсвие сексуального воспитания.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Last part of the trilogy, the end of the story.
 
 * Товарищ,На юге ~ [mfevralev](users/140/140966150-vkontakte)<sup>53</sup>
-    > Про казаков в ВОВ
 
 * На западном фронте без перемен ~ [kissamasya](users/684/68439978-vkontakte)<sup>106</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Путешествие по видеоирам ~ [Garka](users/115/115753719718250012620-google)<sup>291</sup>
 
-* Легенда о маленьком буксире ~ [Vladasbook](users/221/221759364-yandex)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>102</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>206</sup> 
 
 
-_17.08.2021 11:57:12_
+_17.08.2021 11:58:34_
