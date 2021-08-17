@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 102,
+        "updatedAt": "2021-08-17 06:48:27"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "neokchan",
         "booksCount": 63,
         "updatedAt": "2021-08-08 10:53:37"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 78,
-        "updatedAt": "2021-08-07 20:37:48"
     }
 }

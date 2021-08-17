@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>102</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>120</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>53</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vladasbook](users/221/221759364-yandex)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>206</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>63</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>78</sup> 
 
 
-_16.08.2021 20:00:50_
+_17.08.2021 06:48:27_
