@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>206</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>207</sup>
 ---
 
 ## 2021
+
+### Чудный олень вечной охоты
+Светлана Алексиевич
+> [2021-08-13] 6/10 Взаимотношение полов по-советски, обожествление женщины и отсутсвие сексуального воспитания.
+
 
 ### MaddAddam
 Margaret Atwood

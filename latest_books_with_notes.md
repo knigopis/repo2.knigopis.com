@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
 * MaddAddam ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>206</sup>
 * Товарищ,На юге ~ [mfevralev](users/140/140966150-vkontakte)<sup>53</sup>
 * На западном фронте без перемен ~ [kissamasya](users/684/68439978-vkontakte)<sup>106</sup>
@@ -30,7 +31,6 @@
 * Фантомная боль ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>64</sup>
 * Остров Сокровищ ~ [vitasoft](users/474/47446642-vkontakte)<sup>41</sup>
 * Мужская логика 8-го Марта (рассказ) ~ [Chiffi](users/105/105831994080785626680-google)<sup>293</sup>
-* Тот, кто ловит мотыльков ~ [Chiffi](users/105/105831994080785626680-google)<sup>292</sup>
 
 
-_17.08.2021 11:55:44_
+_17.08.2021 11:57:12_
