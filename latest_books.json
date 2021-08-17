@@ -1,4 +1,16 @@
 {
+    "1zVigSy-_E": {
+        "id": "1zVigSy-_E",
+        "title": "Лакомый кусочек",
+        "author": "Маргарет Этвуд",
+        "notes": "7/10 Незамужняя девушка и ее соседка ищут свой жизненный путь.",
+        "createdAt": "2021-08-17 12:00:54",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 210
+        }
+    },
     "MJgB1j-xY4": {
         "id": "MJgB1j-xY4",
         "title": "Время Секонд Хэнд",
@@ -345,18 +357,6 @@
             "id": "954200493-yandex",
             "nickname": "ktfya",
             "booksCount": 1
-        }
-    },
-    "spJsbRezd5": {
-        "id": "spJsbRezd5",
-        "title": "Щоденник Майдану та вiйни",
-        "author": "Андрей Курков",
-        "notes": "",
-        "createdAt": "2021-08-09 09:08:01",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 109
         }
     }
 }

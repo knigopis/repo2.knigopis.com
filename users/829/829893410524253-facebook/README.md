@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>209</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>210</sup>
 ---
 
 ## 2021
+
+### Лакомый кусочек
+Маргарет Этвуд
+> [2021-08-17] 7/10 Незамужняя девушка и ее соседка ищут свой жизненный путь.
+
 
 ### Время Секонд Хэнд
 Светлана Алексиевич

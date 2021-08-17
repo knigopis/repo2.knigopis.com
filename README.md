@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лакомый кусочек ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup>
+    > 7/10 Незамужняя девушка и ее соседка ищут свой жизненный путь.
+
 * Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
     > 6/10 "Особый русский путь" и переживание о распаде совка.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Детские воспоминания переживших оккупацию и вторую мировую.
 
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
-    > 6/10 Взаимотношение полов по-советски, обожествление женщины и отсутсвие сексуального воспитания.
 
 * MaddAddam ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>206</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тридцать девять ступеней ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup>
 
-* Сказки дядюшки Римуса ~ [Vladasbook](users/221/221759364-yandex)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>102</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>206</sup> 
 
 
-_17.08.2021 11:59:58_
+_17.08.2021 12:00:54_
