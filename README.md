@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>152</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
 [](users/113/113255936223461038506-google)<sup>0</sup> 
 [МагоГиз](users/106/106082567795743405861-google)<sup>0</sup> 
-[Vladasbook](users/221/221759364-yandex)<sup>6</sup> 
 
 
-_18.08.2021 11:06:14_
+_18.08.2021 11:55:42_

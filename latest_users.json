@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 215,
+        "updatedAt": "2021-08-18 11:55:42"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "МагоГиз",
         "booksCount": 0,
         "updatedAt": "2021-08-10 04:37:30"
-    },
-    "221759364-yandex": {
-        "id": "221759364-yandex",
-        "nickname": "Vladasbook",
-        "booksCount": 6,
-        "updatedAt": "2021-08-09 07:42:51"
     }
 }
