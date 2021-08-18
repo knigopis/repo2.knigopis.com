@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 51,
+        "updatedAt": "2021-08-18 11:06:14"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "Vladasbook",
         "booksCount": 6,
         "updatedAt": "2021-08-09 07:42:51"
-    },
-    "118049897850017649660-googleplus": {
-        "id": "118049897850017649660-googleplus",
-        "nickname": "Sky",
-        "booksCount": 206,
-        "updatedAt": "2021-08-08 18:38:34"
     }
 }
