@@ -1,4 +1,10 @@
 {
+    "44461886-yandex": {
+        "id": "44461886-yandex",
+        "nickname": "dromoman2008",
+        "booksCount": 55,
+        "updatedAt": "2021-08-19 18:27:13"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "ktfya",
         "booksCount": 1,
         "updatedAt": "2021-08-10 20:40:27"
-    },
-    "113255936223461038506-google": {
-        "id": "113255936223461038506-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-08-10 14:50:00"
     }
 }

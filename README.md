@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Охранитель серия 7 книг ~ [dromoman2008](users/444/44461886-yandex)<sup>55</sup>
+    > Альтернативка
+    > Автор не знает о "времени" которое описывает. Автор зануда,
+    > Оценка 3-
+
 * Больше, чем просто красивая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup>
     > Довольно неплохое чтиво для периодического перепрочтения, чтобы не забывать эти непреложные истины.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 7/10 Незамужняя девушка и ее соседка ищут свой жизненный путь.
 
 * Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
-    > 6/10 "Особый русский путь" и переживание о распаде совка.
 
 * Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>298</sup>
 
-* Тараканы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dromoman2008](users/444/44461886-yandex)<sup>55</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/371/371631802-vkontakte)<sup>0</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
-[](users/113/113255936223461038506-google)<sup>0</sup> 
 
 
-_19.08.2021 11:31:30_
+_19.08.2021 18:27:13_
