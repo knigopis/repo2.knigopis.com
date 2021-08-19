@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Алхимик (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>56</sup>
 * Охранитель серия 7 книг ~ [dromoman2008](users/444/44461886-yandex)<sup>55</sup>
 * Больше, чем просто красивая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup>
 * Лакомый кусочек ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup>
@@ -30,7 +31,6 @@
 * Вихорь-Атаман ~ [mfevralev](users/140/140966150-vkontakte)<sup>52</sup>
 * Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
 * Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
-* Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
 
 
-_19.08.2021 18:27:13_
+_19.08.2021 18:30:37_

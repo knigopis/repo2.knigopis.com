@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Алхимик (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>56</sup>
+    > Боевая фантастика
+    > Автор женщина. Логика в произведения отсутствует, хотя сюжет и в чем то и интересен. Но читать без логики проблематично для мужского здоровья....
+    > Оценка 3
+
 * Охранитель серия 7 книг ~ [dromoman2008](users/444/44461886-yandex)<sup>55</sup>
     > Альтернативка
     > Автор не знает о "времени" которое описывает. Автор зануда,
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Довольно неплохое чтиво для периодического перепрочтения, чтобы не забывать эти непреложные истины.
 
 * Лакомый кусочек ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup>
-    > 7/10 Незамужняя девушка и ее соседка ищут свой жизненный путь.
 
 * Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * На западном фронте без перемен ~ [kissamasya](users/684/68439978-vkontakte)<sup>106</sup>
 
-* Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>298</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>55</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
 
 
-_19.08.2021 18:27:13_
+_19.08.2021 18:30:37_
