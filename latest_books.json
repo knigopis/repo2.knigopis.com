@@ -1,4 +1,16 @@
 {
+    "KbdsvoEcCC": {
+        "id": "KbdsvoEcCC",
+        "title": "Больше, чем просто красивая",
+        "author": "Кара Кинг",
+        "notes": "Довольно неплохое чтиво для периодического перепрочтения, чтобы не забывать эти непреложные истины.",
+        "createdAt": "2021-08-19 11:31:30",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 18
+        }
+    },
     "3VLdAqawXG": {
         "id": "3VLdAqawXG",
         "title": "Игра в молчанку",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 43
-        }
-    },
-    "egjPSx3oI2": {
-        "id": "egjPSx3oI2",
-        "title": "Лгунья",
-        "author": "Гошен",
-        "notes": "",
-        "createdAt": "2021-08-11 17:12:16",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 97
         }
     }
 }

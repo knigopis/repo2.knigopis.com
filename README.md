@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Больше, чем просто красивая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup>
+    > Довольно неплохое чтиво для периодического перепрочтения, чтобы не забывать эти непреложные истины.
+
 * Лакомый кусочек ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup>
     > 7/10 Незамужняя девушка и ее соседка ищут свой жизненный путь.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 "Особый русский путь" и переживание о распаде совка.
 
 * Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
-    > 6/10 Детские воспоминания переживших оккупацию и вторую мировую.
 
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тараканы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup>
 
-* Тридцать девять ступеней ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>152</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
 [](users/113/113255936223461038506-google)<sup>0</sup> 
-[МагоГиз](users/106/106082567795743405861-google)<sup>0</sup> 
 
 
-_18.08.2021 11:55:42_
+_19.08.2021 11:31:30_

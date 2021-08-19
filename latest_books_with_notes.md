@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Больше, чем просто красивая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup>
 * Лакомый кусочек ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup>
 * Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
 * Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
@@ -30,7 +31,6 @@
 * Орикс і Деркач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>202</sup>
 * Доктор Сон ~ [sonics](users/588/5880221-vkontakte)<sup>64</sup>
 * Черный пудель, рыжий кот, или свадьба с препятствиями ~ [Chiffi](users/105/105831994080785626680-google)<sup>295</sup>
-* Знак истинного пути ~ [Chiffi](users/105/105831994080785626680-google)<sup>294</sup>
 
 
-_17.08.2021 12:00:54_
+_19.08.2021 11:31:30_
