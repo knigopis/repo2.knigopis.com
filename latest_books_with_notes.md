@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Господин маг (серия ?книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>60</sup>
 * Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
 * Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
 * Мир Сценариста Шут из Бергхейма (Компиляция 1-3) ~ [dromoman2008](users/444/44461886-yandex)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
-* Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
 
 
-_19.08.2021 18:40:15_
+_19.08.2021 18:43:15_

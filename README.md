@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Господин маг (серия ?книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>60</sup>
+    > Героическая фантастика
+    > Открылся магический талант. Обучение в академии. ГГ - такой беспринципный - прожжённый жизнью мещанин. Крутится по жизни как может.
+    > Оценка 4+
+
 * Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
     > Альтернативка
     > У Санфирова - на 90% книги интересные
@@ -16,9 +21,6 @@ Do not use pull requests to make changes here.
     > Оценка 3-
 
 * Мир Сценариста Шут из Бергхейма (Компиляция 1-3) ~ [dromoman2008](users/444/44461886-yandex)<sup>57</sup>
-    > Литrpg
-    > Не мое, не пошло, занудно не интересно
-    > Оценка 2
 
 * Алхимик (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>56</sup>
 
@@ -32,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
 
-* Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>59</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>60</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
 
 
-_19.08.2021 18:40:15_
+_19.08.2021 18:43:15_
