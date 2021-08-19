@@ -1,4 +1,16 @@
 {
+    "8CoaNyzD0i": {
+        "id": "8CoaNyzD0i",
+        "title": "Вторая жизнь",
+        "author": "Санфиров Александр",
+        "notes": "Альтернативка\nУ Санфирова - на 90% книги интересные\nОценка 5-",
+        "createdAt": "2021-08-19 18:40:15",
+        "user": {
+            "id": "44461886-yandex",
+            "nickname": "dromoman2008",
+            "booksCount": 59
+        }
+    },
     "IHYtf9bjra": {
         "id": "IHYtf9bjra",
         "title": "Аристократ (серия 4 книги)",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 17
-        }
-    },
-    "IB9Po23f3v": {
-        "id": "IB9Po23f3v",
-        "title": "Вихорь-Атаман",
-        "author": "Михаил Астапенко",
-        "notes": "Хорошая про Платова",
-        "createdAt": "2021-07-25 10:51:03",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 52
         }
     }
 }

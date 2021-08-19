@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
+    > Альтернативка
+    > У Санфирова - на 90% книги интересные
+    > Оценка 5-
+
 * Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
     > Боевая фантастика, попаданец в тело семнадцатилетнего аристократа
     > Автор женщина, с отсутствием логики - не дочитал, хотя сюжет по началу и понравился......
@@ -16,9 +21,6 @@ Do not use pull requests to make changes here.
     > Оценка 2
 
 * Алхимик (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>56</sup>
-    > Боевая фантастика
-    > Автор женщина. Логика в произведения отсутствует, хотя сюжет и в чем то и интересен. Но читать без логики проблематично для мужского здоровья....
-    > Оценка 3
 
 * Охранитель серия 7 книг ~ [dromoman2008](users/444/44461886-yandex)<sup>55</sup>
 
@@ -32,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
 
-* MaddAddam ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>206</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dromoman2008](users/444/44461886-yandex)<sup>58</sup> 
+[dromoman2008](users/444/44461886-yandex)<sup>59</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ktfya](users/954/954200493-yandex)<sup>1</sup> 
 
 
-_19.08.2021 18:38:40_
+_19.08.2021 18:40:15_
