@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
 * Мир Сценариста Шут из Бергхейма (Компиляция 1-3) ~ [dromoman2008](users/444/44461886-yandex)<sup>57</sup>
 * Алхимик (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>56</sup>
 * Охранитель серия 7 книг ~ [dromoman2008](users/444/44461886-yandex)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
 * Накопительный эффект ~ [albina_untiring](users/257/2579695-vkontakte)<sup>17</sup>
 * Вихорь-Атаман ~ [mfevralev](users/140/140966150-vkontakte)<sup>52</sup>
-* Пока течет река ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>203</sup>
 
 
-_19.08.2021 18:34:52_
+_19.08.2021 18:38:40_
