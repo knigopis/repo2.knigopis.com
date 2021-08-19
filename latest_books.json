@@ -1,4 +1,16 @@
 {
+    "mTjMGc1jFV": {
+        "id": "mTjMGc1jFV",
+        "title": "Психология лжи",
+        "author": "Пол Экман",
+        "notes": "",
+        "createdAt": "2021-08-19 21:24:15",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 99
+        }
+    },
     "28jAddm3ya": {
         "id": "28jAddm3ya",
         "title": "Узнай лжеца по выражению лица",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 151
-        }
-    },
-    "sgxImx8Lzf": {
-        "id": "sgxImx8Lzf",
-        "title": "1984",
-        "author": "Д.Оруэлл",
-        "notes": "",
-        "createdAt": "2021-08-13 12:07:08",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 30
         }
     }
 }

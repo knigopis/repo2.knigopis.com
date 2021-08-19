@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[eva](users/111/111656270551033014778-google)<sup>98</sup> 
+[eva](users/111/111656270551033014778-google)<sup>99</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>60</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
 
 
-_19.08.2021 21:24:07_
+_19.08.2021 21:24:15_
