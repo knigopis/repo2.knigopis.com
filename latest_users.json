@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "Evermind",
+        "booksCount": 58,
+        "updatedAt": "2021-08-19 20:49:06"
+    },
     "44461886-yandex": {
         "id": "44461886-yandex",
         "nickname": "dromoman2008",
@@ -172,11 +178,5 @@
         "nickname": "Дмитрий Витальевич",
         "booksCount": 0,
         "updatedAt": "2021-08-11 09:45:01"
-    },
-    "954200493-yandex": {
-        "id": "954200493-yandex",
-        "nickname": "ktfya",
-        "booksCount": 1,
-        "updatedAt": "2021-08-10 20:40:27"
     }
 }

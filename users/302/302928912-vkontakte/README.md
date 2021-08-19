@@ -1,7 +1,11 @@
-# List of books read by Evermind<sup>57</sup>
+# List of books read by Evermind<sup>58</sup>
 ---
 
 ## 2021
+
+Алексей  Комов
+> [2021-08-19] Шляпа
+
 
 ### Цель: процесс непрерывного совершенствования
 Элияху Голдратт

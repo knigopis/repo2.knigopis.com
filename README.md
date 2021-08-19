@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Evermind](users/302/302928912-vkontakte)<sup>58</sup>
+    > Шляпа
+
 * Господин маг (серия ?книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>60</sup>
     > Героическая фантастика
     > Открылся магический талант. Обучение в академии. ГГ - такой беспринципный - прожжённый жизнью мещанин. Крутится по жизни как может.
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > Оценка 5-
 
 * Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
-    > Боевая фантастика, попаданец в тело семнадцатилетнего аристократа
-    > Автор женщина, с отсутствием логики - не дочитал, хотя сюжет по началу и понравился......
-    > Оценка 3-
 
 * Мир Сценариста Шут из Бергхейма (Компиляция 1-3) ~ [dromoman2008](users/444/44461886-yandex)<sup>57</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
 
-* Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>60</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
@@ -68,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>16</sup> 
 [](users/371/371631802-vkontakte)<sup>0</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
-[ktfya](users/954/954200493-yandex)<sup>1</sup> 
 
 
-_19.08.2021 18:43:15_
+_19.08.2021 20:49:06_

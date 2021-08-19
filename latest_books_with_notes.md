@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Evermind](users/302/302928912-vkontakte)<sup>58</sup>
 * Господин маг (серия ?книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>60</sup>
 * Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
 * Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Грозовой перевал ~ [vitasoft](users/474/47446642-vkontakte)<sup>42</sup>
 * Бывшие. Книга о том, как класть на тех, кто хотел класть на тебя ~ [Rina](users/102/102857111133378678801-google)<sup>5</sup>
 * Год потопа ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>205</sup>
-* Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>204</sup>
 
 
-_19.08.2021 18:43:15_
+_19.08.2021 20:49:06_
