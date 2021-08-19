@@ -1,4 +1,10 @@
 {
+    "111656270551033014778-google": {
+        "id": "111656270551033014778-google",
+        "nickname": "eva",
+        "booksCount": 98,
+        "updatedAt": "2021-08-19 21:24:07"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "Evermind",
@@ -154,12 +160,6 @@
         "nickname": "Альберт Сысоев",
         "booksCount": 43,
         "updatedAt": "2021-08-12 06:08:42"
-    },
-    "111656270551033014778-google": {
-        "id": "111656270551033014778-google",
-        "nickname": "eva",
-        "booksCount": 97,
-        "updatedAt": "2021-08-11 17:12:16"
     },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
