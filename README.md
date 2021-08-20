@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как писать книги ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup>
+    > audio
+
 *  ~ [Evermind](users/302/302928912-vkontakte)<sup>58</sup>
     > Шляпа
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Оценка 4+
 
 * Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
-    > Альтернативка
-    > У Санфирова - на 90% книги интересные
-    > Оценка 5-
 
 * Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Лакомый кусочек ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup>
 
-* Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>121</sup> 
 [eva](users/111/111656270551033014778-google)<sup>99</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
@@ -63,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>298</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup> 
 [](users/112/112028192141409506684-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>16</sup> 
 [](users/371/371631802-vkontakte)<sup>0</sup> 
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
 
 
-_20.08.2021 11:28:22_
+_20.08.2021 22:23:58_

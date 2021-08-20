@@ -1,4 +1,16 @@
 {
+    "d6cuxYYEuh": {
+        "id": "d6cuxYYEuh",
+        "title": "Как писать книги",
+        "author": "Стивен Кинг",
+        "notes": "audio",
+        "createdAt": "2021-08-20 22:23:58",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 44
+        }
+    },
     "RA21wVwVZj": {
         "id": "RA21wVwVZj",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "102857111133378678801-google",
             "nickname": "Rina",
             "booksCount": 5
-        }
-    },
-    "zSUuRlsCXn": {
-        "id": "zSUuRlsCXn",
-        "title": "Год потопа",
-        "author": "Маргарет Этвуд",
-        "notes": "10/10 Беззумный Аддам 2. Секта Божих Садовников (ветроградарей) запускает конец света.",
-        "createdAt": "2021-07-27 16:00:02",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 205
         }
     }
 }
