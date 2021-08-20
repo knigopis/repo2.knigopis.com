@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>120</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>121</sup>
 ---
 
 ## 2021
+
+### Дюна
+Фрэнк Герберт
+> [2021-08-20] 
+
 
 ### Грохот костей
 Роберт Говард

@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>121</sup> 
 [eva](users/111/111656270551033014778-google)<sup>99</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>60</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>102</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>120</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>53</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>106</sup> 
 [esiti](users/463/463509228-vkontakte)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий Витальевич](users/116/116650782618177766821-google)<sup>0</sup> 
 
 
-_19.08.2021 21:24:15_
+_20.08.2021 11:28:22_

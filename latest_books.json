@@ -1,4 +1,16 @@
 {
+    "BwNALil2q3": {
+        "id": "BwNALil2q3",
+        "title": "Дюна",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2021-08-20 11:28:22",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 121
+        }
+    },
     "mTjMGc1jFV": {
         "id": "mTjMGc1jFV",
         "title": "Психология лжи",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 11
-        }
-    },
-    "jBuJyzhX9p": {
-        "id": "jBuJyzhX9p",
-        "title": "Трейдинг в чайнике",
-        "author": "BigDaddy205",
-        "notes": "",
-        "createdAt": "2021-08-13 15:56:14",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 151
         }
     }
 }
