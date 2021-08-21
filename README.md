@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Feodor](users/117/117130485334126869740-google)<sup>0</sup> 
 [irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>121</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup> 
 [](users/112/112028192141409506684-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>16</sup> 
-[](users/371/371631802-vkontakte)<sup>0</sup> 
 
 
-_21.08.2021 09:05:53_
+_21.08.2021 16:56:44_
