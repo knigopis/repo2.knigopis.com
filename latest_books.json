@@ -1,4 +1,16 @@
 {
+    "ekK3V9F7J0": {
+        "id": "ekK3V9F7J0",
+        "title": "Феофан Затворник письма",
+        "author": "Феофан Затворник",
+        "notes": "Должно быть присутствие как духовной, душевной, так и телесной жизни. Иначе жизнь становится невыносимой",
+        "createdAt": "2021-08-21 17:01:28",
+        "user": {
+            "id": "117130485334126869740-google",
+            "nickname": "Feodor",
+            "booksCount": 1
+        }
+    },
     "d6cuxYYEuh": {
         "id": "d6cuxYYEuh",
         "title": "Как писать книги",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 119
-        }
-    },
-    "YPSRYFGDcA": {
-        "id": "YPSRYFGDcA",
-        "title": "Переплет",
-        "author": "Бриджет Коллинз",
-        "notes": "",
-        "createdAt": "2021-08-14 11:22:10",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 65
         }
     }
 }
