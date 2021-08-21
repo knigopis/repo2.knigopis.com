@@ -1,4 +1,10 @@
 {
+    "150508923-vkontakte": {
+        "id": "150508923-vkontakte",
+        "nickname": "irienfroz",
+        "booksCount": 0,
+        "updatedAt": "2021-08-21 09:05:53"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-08-11 09:48:39"
-    },
-    "116650782618177766821-google": {
-        "id": "116650782618177766821-google",
-        "nickname": "Дмитрий Витальевич",
-        "booksCount": 0,
-        "updatedAt": "2021-08-11 09:45:01"
     }
 }
