@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>100</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>101</sup>
 ---
 
 ## 2021
+
+### Взлом маркетинга
+Фил Барден
+> [2021-08-22] 
+
 
 ### Ваша Темность (1часть)
 Катерина Каз

@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 101,
+        "updatedAt": "2021-08-22 19:19:45"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Askaliya",
         "booksCount": 17,
         "updatedAt": "2021-08-12 21:01:19"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 242,
-        "updatedAt": "2021-08-12 13:15:51"
     }
 }
