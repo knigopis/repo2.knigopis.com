@@ -1,4 +1,16 @@
 {
+    "xdfbatLuu7": {
+        "id": "xdfbatLuu7",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-08-22 15:36:57",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 208
+        }
+    },
     "XywjePTn5E": {
         "id": "XywjePTn5E",
         "title": "Детская книга",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 106
-        }
-    },
-    "lE1jq9rei3": {
-        "id": "lE1jq9rei3",
-        "title": "Выйди из зоны комфорта. Измени свою жизнь. 21 метод повышения личной эффективности",
-        "author": "Брайан Трейси",
-        "notes": "",
-        "createdAt": "2021-08-16 12:53:51",
-        "user": {
-            "id": "463509228-vkontakte",
-            "nickname": "esiti",
-            "booksCount": 1
         }
     }
 }
