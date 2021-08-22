@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 207,
+        "updatedAt": "2021-08-22 15:36:53"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 242,
         "updatedAt": "2021-08-12 13:15:51"
-    },
-    "112028192141409506684-google": {
-        "id": "112028192141409506684-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-08-12 12:39:44"
     }
 }

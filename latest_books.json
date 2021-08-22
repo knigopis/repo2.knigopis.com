@@ -1,4 +1,16 @@
 {
+    "XywjePTn5E": {
+        "id": "XywjePTn5E",
+        "title": "Детская книга",
+        "author": "Антония Байетт",
+        "notes": "",
+        "createdAt": "2021-08-22 15:36:53",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 207
+        }
+    },
     "_tWhWl6Szn": {
         "id": "_tWhWl6Szn",
         "title": "Предсказуемая иррациональность",
@@ -345,18 +357,6 @@
             "id": "463509228-vkontakte",
             "nickname": "esiti",
             "booksCount": 1
-        }
-    },
-    "cpjKftcNtR": {
-        "id": "cpjKftcNtR",
-        "title": "Записки террориста (в хорошем смысле слова)",
-        "author": "Виталий Африка",
-        "notes": "",
-        "createdAt": "2021-08-15 17:12:39",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 110
         }
     }
 }

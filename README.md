@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>207</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>79</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>299</sup> 
 [Feodor](users/117/117130485334126869740-google)<sup>1</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>873</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>17</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup> 
-[](users/112/112028192141409506684-google)<sup>0</sup> 
 
 
-_21.08.2021 23:14:20_
+_22.08.2021 15:36:53_
