@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116587059105826857287-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>101</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>208</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>79</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>30</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>873</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>17</sup> 
 
 
-_22.08.2021 19:19:45_
+_23.08.2021 02:58:00_
