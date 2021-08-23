@@ -1,4 +1,10 @@
 {
+    "677089247-yandex": {
+        "id": "677089247-yandex",
+        "nickname": "vkanaljin",
+        "booksCount": 0,
+        "updatedAt": "2021-08-23 21:01:28"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "Пу_тем",
         "booksCount": 31,
         "updatedAt": "2021-08-13 10:55:36"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 873,
-        "updatedAt": "2021-08-13 09:01:33"
     }
 }
