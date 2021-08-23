@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>122</sup> 
 [](users/116/116587059105826857287-google)<sup>2</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>101</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>208</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Feodor](users/117/117130485334126869740-google)<sup>1</sup> 
 [irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>121</sup> 
 [eva](users/111/111656270551033014778-google)<sup>99</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>60</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>873</sup> 
 
 
-_23.08.2021 03:15:57_
+_23.08.2021 05:20:50_

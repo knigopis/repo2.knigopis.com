@@ -1,4 +1,16 @@
 {
+    "M6XKeVfAk1": {
+        "id": "M6XKeVfAk1",
+        "title": "Джек из тени",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2021-08-23 05:20:50",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 122
+        }
+    },
     "kN81qYtfvK": {
         "id": "kN81qYtfvK",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 102
-        }
-    },
-    "InVK1mt8Pc": {
-        "id": "InVK1mt8Pc",
-        "title": "О мышах и людях",
-        "author": "Стейнбек Джон Эрнст",
-        "notes": "",
-        "createdAt": "2021-08-16 20:00:50",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 292
         }
     }
 }
