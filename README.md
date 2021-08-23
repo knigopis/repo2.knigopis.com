@@ -46,7 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/116/116587059105826857287-google)<sup>1</sup> 
+[](users/116/116587059105826857287-google)<sup>2</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>101</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>208</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>79</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>873</sup> 
 
 
-_23.08.2021 03:15:40_
+_23.08.2021 03:15:57_
