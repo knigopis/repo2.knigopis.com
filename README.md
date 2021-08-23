@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>153</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>122</sup> 
 [](users/116/116587059105826857287-google)<sup>2</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>101</sup> 
@@ -61,7 +62,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>152</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>102</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>873</sup> 
 
 
-_23.08.2021 05:20:50_
+_23.08.2021 14:36:41_
