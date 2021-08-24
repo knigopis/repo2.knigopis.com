@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 243,
+        "updatedAt": "2021-08-24 18:19:38"
+    },
     "677089247-yandex": {
         "id": "677089247-yandex",
         "nickname": "vkanaljin",
@@ -172,11 +178,5 @@
         "nickname": "Triste",
         "booksCount": 30,
         "updatedAt": "2021-08-13 12:07:08"
-    },
-    "3448154788585127-facebook": {
-        "id": "3448154788585127-facebook",
-        "nickname": "Пу_тем",
-        "booksCount": 31,
-        "updatedAt": "2021-08-13 10:55:36"
     }
 }
