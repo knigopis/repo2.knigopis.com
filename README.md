@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>50</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>243</sup> 
 [vkanaljin](users/677/677089247-yandex)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>153</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [](users/651/651537773-vkontakte)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>11</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>30</sup> 
 
 
-_24.08.2021 18:19:38_
+_24.08.2021 20:59:35_

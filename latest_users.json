@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 50,
+        "updatedAt": "2021-08-24 20:59:35"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "tumturumk",
         "booksCount": 11,
         "updatedAt": "2021-08-13 20:18:38"
-    },
-    "5175580462988229760-mailru": {
-        "id": "5175580462988229760-mailru",
-        "nickname": "Triste",
-        "booksCount": 30,
-        "updatedAt": "2021-08-13 12:07:08"
     }
 }
