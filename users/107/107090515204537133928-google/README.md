@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>122</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>123</sup>
 ---
 
 ## 2021
+
+### Ди,охотник на вампиров
+Хидэюки Кикути
+> [2021-08-25] 2021.01.16
+
 
 ### Джек из тени
 Роджер Желязны

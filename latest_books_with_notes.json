@@ -1,4 +1,16 @@
 {
+    "YvogEWrIVo": {
+        "id": "YvogEWrIVo",
+        "title": "Ди,охотник на вампиров",
+        "author": "Хидэюки Кикути",
+        "notes": "2021.01.16",
+        "createdAt": "2021-08-25 12:15:11",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 123
+        }
+    },
     "_tWhWl6Szn": {
         "id": "_tWhWl6Szn",
         "title": "Предсказуемая иррациональность",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 296
-        }
-    },
-    "l_fpItNniW": {
-        "id": "l_fpItNniW",
-        "title": "Роли, которые играет женщина",
-        "author": "Анна Кссо",
-        "notes": "110с.",
-        "createdAt": "2021-07-31 19:55:10",
-        "user": {
-            "id": "102857111133378678801-google",
-            "nickname": "Rina",
-            "booksCount": 6
         }
     }
 }
