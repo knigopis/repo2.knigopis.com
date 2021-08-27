@@ -1,7 +1,12 @@
-# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>63</sup>
+# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>64</sup>
 ---
 
 ## 2021
+
+### Изо дня в день главный герой хочет пленить меня.
+Qing Duan 青 端
+> [2021-08-27] ОБОЖАЮ
+
 
 ### Злодей для злодейки
 Юлия Бум
