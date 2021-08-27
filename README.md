@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[v1nil.ru](users/787/787891495-yandex)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>123</sup> 
 [](users/153/1537586159620888-facebook)<sup>50</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>243</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Морская Свинка](users/147/1474032679114725758-mailru)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 [](users/651/651537773-vkontakte)<sup>0</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>11</sup> 
 
 
-_25.08.2021 12:15:11_
+_27.08.2021 02:44:34_
