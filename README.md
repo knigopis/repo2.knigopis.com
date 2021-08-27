@@ -46,8 +46,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>124</sup> 
 [v1nil.ru](users/787/787891495-yandex)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>123</sup> 
 [](users/153/1537586159620888-facebook)<sup>50</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>243</sup> 
 [vkanaljin](users/677/677089247-yandex)<sup>0</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/651/651537773-vkontakte)<sup>0</sup> 
 
 
-_27.08.2021 02:44:34_
+_27.08.2021 11:57:36_
