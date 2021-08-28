@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dahyun](users/115/115492089732162065423-google)<sup>0</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>64</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>124</sup> 
 [v1nil.ru](users/787/787891495-yandex)<sup>0</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [esiti](users/463/463509228-vkontakte)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>110</sup> 
 [Морская Свинка](users/147/1474032679114725758-mailru)<sup>1</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>65</sup> 
 
 
-_27.08.2021 20:48:56_
+_28.08.2021 06:59:47_
