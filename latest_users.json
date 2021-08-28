@@ -1,4 +1,10 @@
 {
+    "115492089732162065423-google": {
+        "id": "115492089732162065423-google",
+        "nickname": "Dahyun",
+        "booksCount": 0,
+        "updatedAt": "2021-08-28 06:59:47"
+    },
     "113179958976964886996-google": {
         "id": "113179958976964886996-google",
         "nickname": "neokchan",
@@ -172,11 +178,5 @@
         "nickname": "Морская Свинка",
         "booksCount": 1,
         "updatedAt": "2021-08-14 12:43:00"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 65,
-        "updatedAt": "2021-08-14 11:22:10"
     }
 }
