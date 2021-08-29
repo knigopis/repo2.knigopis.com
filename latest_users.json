@@ -1,4 +1,10 @@
 {
+    "20044939-vkontakte": {
+        "id": "20044939-vkontakte",
+        "nickname": "nastasianastasia",
+        "booksCount": 0,
+        "updatedAt": "2021-08-29 09:09:43"
+    },
     "101935307881070680619-google": {
         "id": "101935307881070680619-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 106,
         "updatedAt": "2021-08-16 13:50:31"
-    },
-    "463509228-vkontakte": {
-        "id": "463509228-vkontakte",
-        "nickname": "esiti",
-        "booksCount": 1,
-        "updatedAt": "2021-08-16 12:53:51"
     }
 }
