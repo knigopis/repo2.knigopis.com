@@ -1,4 +1,10 @@
 {
+    "283490946-yandex": {
+        "id": "283490946-yandex",
+        "nickname": "kuf-mko",
+        "booksCount": 0,
+        "updatedAt": "2021-08-29 11:03:14"
+    },
     "6628575-vkontakte": {
         "id": "6628575-vkontakte",
         "nickname": "masuhorukov",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 292,
         "updatedAt": "2021-08-16 20:00:50"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 53,
-        "updatedAt": "2021-08-16 14:45:40"
     }
 }
