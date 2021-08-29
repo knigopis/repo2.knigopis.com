@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101935307881070680619-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>300</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>65</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>53</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>106</sup> 
 [esiti](users/463/463509228-vkontakte)<sup>1</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>110</sup> 
 
 
-_29.08.2021 06:41:39_
+_29.08.2021 07:05:24_
