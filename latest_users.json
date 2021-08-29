@@ -1,4 +1,10 @@
 {
+    "1911114012383714-facebook": {
+        "id": "1911114012383714-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-08-29 12:07:25"
+    },
     "283490946-yandex": {
         "id": "283490946-yandex",
         "nickname": "kuf-mko",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 102,
         "updatedAt": "2021-08-17 06:48:27"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 292,
-        "updatedAt": "2021-08-16 20:00:50"
     }
 }
