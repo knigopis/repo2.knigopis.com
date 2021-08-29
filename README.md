@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
 [masuhorukov](users/662/6628575-vkontakte)<sup>0</sup> 
 [nastasianastasia](users/200/20044939-vkontakte)<sup>0</sup> 
 [](users/101/101935307881070680619-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>102</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>53</sup> 
 
 
-_29.08.2021 09:12:04_
+_29.08.2021 11:03:14_
