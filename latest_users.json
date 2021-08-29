@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tumturumk",
+        "booksCount": 12,
+        "updatedAt": "2021-08-29 06:41:39"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "danyluk62",
         "booksCount": 110,
         "updatedAt": "2021-08-15 17:12:39"
-    },
-    "1474032679114725758-mailru": {
-        "id": "1474032679114725758-mailru",
-        "nickname": "Морская Свинка",
-        "booksCount": 1,
-        "updatedAt": "2021-08-14 12:43:00"
     }
 }

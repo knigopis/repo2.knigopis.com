@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>300</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>65</sup> 
 [Dahyun](users/115/115492089732162065423-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>106</sup> 
 [esiti](users/463/463509228-vkontakte)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>110</sup> 
-[Морская Свинка](users/147/1474032679114725758-mailru)<sup>1</sup> 
 
 
-_29.08.2021 06:09:24_
+_29.08.2021 06:41:39_
