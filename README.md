@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
+[kuf-mko](users/283/283490946-yandex)<sup>1</sup> 
 [masuhorukov](users/662/6628575-vkontakte)<sup>0</sup> 
 [nastasianastasia](users/200/20044939-vkontakte)<sup>0</sup> 
 [](users/101/101935307881070680619-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
 
 
-_29.08.2021 11:03:14_
+_29.08.2021 11:07:11_
