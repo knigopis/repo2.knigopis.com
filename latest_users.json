@@ -1,4 +1,10 @@
 {
+    "101935307881070680619-google": {
+        "id": "101935307881070680619-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-08-29 07:05:24"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tumturumk",
@@ -172,11 +178,5 @@
         "nickname": "esiti",
         "booksCount": 1,
         "updatedAt": "2021-08-16 12:53:51"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 110,
-        "updatedAt": "2021-08-15 17:12:39"
     }
 }
