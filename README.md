@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[masuhorukov](users/662/6628575-vkontakte)<sup>0</sup> 
 [nastasianastasia](users/200/20044939-vkontakte)<sup>0</sup> 
 [](users/101/101935307881070680619-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>12</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>102</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>292</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>53</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>106</sup> 
 
 
-_29.08.2021 09:09:44_
+_29.08.2021 09:12:04_
