@@ -1,4 +1,16 @@
 {
+    "nCVMh8A5qQ": {
+        "id": "nCVMh8A5qQ",
+        "title": "Нью-Йоркская трилогия",
+        "author": "Пол Остер",
+        "notes": "",
+        "createdAt": "2021-08-30 14:16:06",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ..",
+            "booksCount": 154
+        }
+    },
     "6PCQPRMg03": {
         "id": "6PCQPRMg03",
         "title": "У меня нет рта но, а я хочу кричать",
@@ -345,18 +357,6 @@
             "id": "44461886-yandex",
             "nickname": "dromoman2008",
             "booksCount": 58
-        }
-    },
-    "nXu-XAHx4f": {
-        "id": "nXu-XAHx4f",
-        "title": "Мир Сценариста Шут из Бергхейма (Компиляция 1-3)",
-        "author": "Погуляй Юрий Александрович",
-        "notes": "Литrpg\nНе мое, не пошло, занудно не интересно\nОценка 2",
-        "createdAt": "2021-08-19 18:34:52",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 57
         }
     }
 }
