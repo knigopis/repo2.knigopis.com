@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 125,
+        "updatedAt": "2021-08-30 06:28:39"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -58,12 +64,6 @@
         "nickname": "Dahyun",
         "booksCount": 0,
         "updatedAt": "2021-08-28 06:59:47"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 124,
-        "updatedAt": "2021-08-27 11:57:36"
     },
     "787891495-yandex": {
         "id": "787891495-yandex",
