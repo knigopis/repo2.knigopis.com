@@ -1,12 +1,7 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>126</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>125</sup>
 ---
 
 ## 2021
-
-### У меня нет рта но, а я хочу кричать
-Харлан Эллисон
-> [2021-08-30] 
-
 
 ### У меня нет рта но, а я хочу кричать
 Харлан Эллисон
