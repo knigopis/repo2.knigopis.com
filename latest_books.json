@@ -1,4 +1,16 @@
 {
+    "zJ7gqvMvT1": {
+        "id": "zJ7gqvMvT1",
+        "title": "Белое безмолвие",
+        "author": "Сара Лотц",
+        "notes": "",
+        "createdAt": "2021-09-01 06:13:03",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 244
+        }
+    },
     "p4eW1cmOVQ": {
         "id": "p4eW1cmOVQ",
         "title": "Темная сторона души",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "Evermind",
             "booksCount": 58
-        }
-    },
-    "4cN2q8CnJh": {
-        "id": "4cN2q8CnJh",
-        "title": "Господин маг (серия ?книг)",
-        "author": "Смекалин Дмитрий Олегович",
-        "notes": "Героическая фантастика\nОткрылся магический талант. Обучение в академии. ГГ - такой беспринципный - прожжённый жизнью мещанин. Крутится по жизни как может.\nОценка 4+",
-        "createdAt": "2021-08-19 18:43:15",
-        "user": {
-            "id": "44461886-yandex",
-            "nickname": "dromoman2008",
-            "booksCount": 60
         }
     }
 }
