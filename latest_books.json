@@ -1,4 +1,16 @@
 {
+    "xKnJPMo3IG": {
+        "id": "xKnJPMo3IG",
+        "title": "На Слайд-Инн-Роуд",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-09-02 21:00:51",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 245
+        }
+    },
     "4DQQdGMTd9": {
         "id": "4DQQdGMTd9",
         "title": "Водоворот чужих желаний",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 99
-        }
-    },
-    "28jAddm3ya": {
-        "id": "28jAddm3ya",
-        "title": "Узнай лжеца по выражению лица",
-        "author": "Пол Экман",
-        "notes": "",
-        "createdAt": "2021-08-19 21:24:07",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 98
         }
     }
 }
