@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>126</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>127</sup>
 ---
 
 ## 2021
+
+### Мёртвые души
+Николай Гоголь
+> [2021-09-03] 
+
 
 ### Закон лесника
 Дмитрий Силлов
