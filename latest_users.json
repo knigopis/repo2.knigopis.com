@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 17,
+        "updatedAt": "2021-09-03 11:08:25"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 51,
         "updatedAt": "2021-08-18 11:06:14"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 210,
-        "updatedAt": "2021-08-17 12:00:54"
     }
 }

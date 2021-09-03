@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>16</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>17</sup>
 ---
 
 ## 2021
+
+### Звезда короля
+Ольга Валентеева
+> [2021-09-03] 
+
 
 ### Зов пустоты
 Ольга Валентеева
