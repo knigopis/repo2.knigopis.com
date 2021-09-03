@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>111</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>303</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>129</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dromoman2008](users/444/44461886-yandex)<sup>60</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
 
 
-_03.09.2021 16:25:31_
+_03.09.2021 18:36:17_
