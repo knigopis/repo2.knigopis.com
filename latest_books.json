@@ -1,4 +1,16 @@
 {
+    "vfebzERtC1": {
+        "id": "vfebzERtC1",
+        "title": "Черепа среди звезд",
+        "author": "Роберт Говард",
+        "notes": "",
+        "createdAt": "2021-09-03 10:58:25",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 128
+        }
+    },
     "svlWQoC_nm": {
         "id": "svlWQoC_nm",
         "title": "Мёртвые души",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 44
-        }
-    },
-    "BwNALil2q3": {
-        "id": "BwNALil2q3",
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "notes": "",
-        "createdAt": "2021-08-20 11:28:22",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 121
         }
     }
 }

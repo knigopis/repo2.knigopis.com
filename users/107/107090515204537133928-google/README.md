@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>127</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>128</sup>
 ---
 
 ## 2021
+
+### Черепа среди звезд
+Роберт Говард
+> [2021-09-03] 
+
 
 ### Мёртвые души
 Николай Гоголь
