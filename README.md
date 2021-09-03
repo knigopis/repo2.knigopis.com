@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
+    > Илюшин и Бабкин 6. с ее амбициями и его способностями,
+
 * Водоворот чужих желаний ~ [Chiffi](users/105/105831994080785626680-google)<sup>302</sup>
     > Илюшин и Бабкин 5. страдальчески посмотрел на Эмму Григорьевну, но главного бухгалтера такими взглядами было не прошибить.
     > 	— Не смотрите на меня, как пес, забывший, где закопал любимую косточку.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Илюшин и Бабкин 4. Перечитываю. Знакомство Маши и Сергея.
 
 * Путешествия во времени. История ~ [Garka](users/115/115753719718250012620-google)<sup>293</sup>
-    > Видимо не совсем верно я аннотацию к книге поняла. Книга об истории путешествий во времени в литературе и кинематографе. От Уэллса  до современного Доктора Кто. Никаких научных теорий и объяснений (ну разве что вскользь), в конце автор уходит в философию.
 
 * Остров сбывшейся мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>300</sup>
 
@@ -27,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>299</sup>
 
-* Как писать книги ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>303</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>129</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>245</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>302</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>154</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>293</sup> 
 [](users/191/1911114012383714-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>51</sup> 
 
 
-_03.09.2021 11:42:36_
+_03.09.2021 16:25:31_
