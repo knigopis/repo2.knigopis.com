@@ -1,4 +1,16 @@
 {
+    "eRrQjgoZZv": {
+        "id": "eRrQjgoZZv",
+        "title": "Сага о Форсайтах",
+        "author": "Джон Голсуорси",
+        "notes": "7/10",
+        "createdAt": "2021-09-03 23:00:11",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 149
+        }
+    },
     "BUVW41Ka85": {
         "id": "BUVW41Ka85",
         "title": "Ополченский романс",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 101
-        }
-    },
-    "xdfbatLuu7": {
-        "id": "xdfbatLuu7",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-08-22 15:36:57",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 208
         }
     }
 }

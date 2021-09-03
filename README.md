@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
+    > 7/10
+
 * Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
     > Илюшин и Бабкин 6. с ее амбициями и его способностями,
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > 	— Не смотрите на меня, как пес, забывший, где закопал любимую косточку.
 
 * Темная сторона души ~ [Chiffi](users/105/105831994080785626680-google)<sup>301</sup>
-    > Илюшин и Бабкин 4. Перечитываю. Знакомство Маши и Сергея.
 
 * Путешествия во времени. История ~ [Garka](users/115/115753719718250012620-google)<sup>293</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Предсказуемая иррациональность ~ [Rainbow](users/109/109787328219839805802-google)<sup>79</sup>
 
-* Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>299</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>111</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>303</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>129</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
 [dromoman2008](users/444/44461886-yandex)<sup>60</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>18</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>215</sup> 
 
 
-_03.09.2021 18:36:17_
+_03.09.2021 23:00:11_

@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 149,
+        "updatedAt": "2021-09-03 23:00:11"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 18,
         "updatedAt": "2021-08-19 11:31:30"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 215,
-        "updatedAt": "2021-08-18 11:55:42"
     }
 }
