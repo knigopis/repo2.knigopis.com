@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 356,
+        "updatedAt": "2021-09-04 17:12:08"
+    },
     "115727566151095005266-google": {
         "id": "115727566151095005266-google",
         "nickname": "книжный сомелье",
@@ -172,11 +178,5 @@
         "nickname": "Evermind",
         "booksCount": 58,
         "updatedAt": "2021-08-19 20:49:06"
-    },
-    "44461886-yandex": {
-        "id": "44461886-yandex",
-        "nickname": "dromoman2008",
-        "booksCount": 60,
-        "updatedAt": "2021-08-19 18:43:15"
     }
 }
