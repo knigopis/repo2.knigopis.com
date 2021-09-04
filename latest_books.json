@@ -1,4 +1,16 @@
 {
+    "s-aJt0deew": {
+        "id": "s-aJt0deew",
+        "title": "Овечья шкура",
+        "author": "Елена Топильская",
+        "notes": "",
+        "createdAt": "2021-09-04 17:15:20",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 363
+        }
+    },
     "isS2UJndge": {
         "id": "isS2UJndge",
         "title": "Роковая роль",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 124
-        }
-    },
-    "YvogEWrIVo": {
-        "id": "YvogEWrIVo",
-        "title": "Ди,охотник на вампиров",
-        "author": "Хидэюки Кикути",
-        "notes": "2021.01.16",
-        "createdAt": "2021-08-25 12:15:11",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 123
         }
     }
 }
