@@ -1,4 +1,16 @@
 {
+    "4kcN7ClQp2": {
+        "id": "4kcN7ClQp2",
+        "title": "Героев не убивают",
+        "author": "Елена Топильская",
+        "notes": "",
+        "createdAt": "2021-09-04 17:13:53",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 360
+        }
+    },
     "W35_0O3dRk": {
         "id": "W35_0O3dRk",
         "title": "Ход с дамы пик",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 243
-        }
-    },
-    "bhCgrEC__l": {
-        "id": "bhCgrEC__l",
-        "title": "Бездна Челленджера",
-        "author": "Нил Шустерман",
-        "notes": "",
-        "createdAt": "2021-08-23 14:36:41",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 153
         }
     }
 }
