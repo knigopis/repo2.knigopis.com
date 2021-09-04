@@ -1,4 +1,10 @@
 {
+    "115727566151095005266-google": {
+        "id": "115727566151095005266-google",
+        "nickname": "книжный сомелье",
+        "booksCount": 0,
+        "updatedAt": "2021-09-04 14:30:45"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "dromoman2008",
         "booksCount": 60,
         "updatedAt": "2021-08-19 18:43:15"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 18,
-        "updatedAt": "2021-08-19 11:31:30"
     }
 }
