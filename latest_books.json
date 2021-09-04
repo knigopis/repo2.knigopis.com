@@ -1,4 +1,16 @@
 {
+    "GXljqQzAil": {
+        "id": "GXljqQzAil",
+        "title": "Белое, чёрное, алое (Мягкая лапа смерти)",
+        "author": "Елена Топильская",
+        "notes": "",
+        "createdAt": "2021-09-04 17:13:08",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 358
+        }
+    },
     "FII063YndK": {
         "id": "FII063YndK",
         "title": "Помни о смерти",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 122
-        }
-    },
-    "kN81qYtfvK": {
-        "id": "kN81qYtfvK",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Роулинг Джоан",
-        "notes": "1 из 7",
-        "createdAt": "2021-08-23 03:15:57",
-        "user": {
-            "id": "116587059105826857287-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }

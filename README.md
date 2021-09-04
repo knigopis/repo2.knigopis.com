@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>357</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>358</sup> 
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>111</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
 
 
-_04.09.2021 17:12:39_
+_04.09.2021 17:13:08_
