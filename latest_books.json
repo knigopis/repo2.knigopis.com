@@ -1,4 +1,16 @@
 {
+    "isS2UJndge": {
+        "id": "isS2UJndge",
+        "title": "Роковая роль",
+        "author": "Елена Топильская",
+        "notes": "",
+        "createdAt": "2021-09-04 17:15:00",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 362
+        }
+    },
     "bFo_6XDRqY": {
         "id": "bFo_6XDRqY",
         "title": "Ловушка для блондинов",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 123
-        }
-    },
-    "meY93cGcHp": {
-        "id": "meY93cGcHp",
-        "title": "Особа королевских ролей",
-        "author": "Д. Донцова",
-        "notes": "",
-        "createdAt": "2021-08-24 20:59:35",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 50
         }
     }
 }
