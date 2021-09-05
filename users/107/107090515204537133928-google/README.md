@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>129</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>130</sup>
 ---
 
 ## 2021
+
+### 1408
+Стивен Кинг
+> [2021-09-05] 
+
 
 ### Десница судьбы
 Роберт Говард

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>130</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>111</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>303</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>129</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>245</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
 
 
-_05.09.2021 12:11:30_
+_05.09.2021 15:47:56_
