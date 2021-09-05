@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Feodor](users/117/117130485334126869740-google)<sup>1</sup> 
 [irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup> 
-[eva](users/111/111656270551033014778-google)<sup>99</sup> 
 
 
-_05.09.2021 03:47:24_
+_05.09.2021 04:10:52_
