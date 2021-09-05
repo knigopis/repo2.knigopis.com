@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
 * Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
 * Водоворот чужих желаний ~ [Chiffi](users/105/105831994080785626680-google)<sup>302</sup>
@@ -30,7 +31,6 @@
 * На западном фронте без перемен ~ [kissamasya](users/684/68439978-vkontakte)<sup>106</sup>
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>298</sup>
 * Тараканы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>242</sup>
-* Тридцать девять ступеней ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>43</sup>
 
 
-_03.09.2021 23:00:11_
+_05.09.2021 12:11:30_

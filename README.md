@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
+    > 9/10 Служанка-иммигрантка отбывает пожизненное наказание за убийство свего хазяина и его любовницы, ее невиновность пытаются доказать сочуваствующие.
+
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
     > 7/10
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Илюшин и Бабкин 6. с ее амбициями и его способностями,
 
 * Водоворот чужих желаний ~ [Chiffi](users/105/105831994080785626680-google)<sup>302</sup>
-    > Илюшин и Бабкин 5. страдальчески посмотрел на Эмму Григорьевну, но главного бухгалтера такими взглядами было не прошибить.
-    > 	— Не смотрите на меня, как пес, забывший, где закопал любимую косточку.
 
 * Темная сторона души ~ [Chiffi](users/105/105831994080785626680-google)<sup>301</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ди,охотник на вампиров ~ [Naricev](users/107/107090515204537133928-google)<sup>123</sup>
 
-* Предсказуемая иррациональность ~ [Rainbow](users/109/109787328219839805802-google)<sup>79</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>79</sup> 
 [Feodor](users/117/117130485334126869740-google)<sup>1</sup> 
 [irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup> 
 
 
-_05.09.2021 04:10:52_
+_05.09.2021 12:11:30_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>210</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>211</sup>
 ---
 
 ## 2021
+
+### Она же Грэйc
+Маргарет Этвуд
+> [2021-08-23] 9/10 Служанка-иммигрантка отбывает пожизненное наказание за убийство свего хазяина и его любовницы, ее невиновность пытаются доказать сочуваствующие.
+
 
 ### Лакомый кусочек
 Маргарет Этвуд
