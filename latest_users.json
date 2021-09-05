@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 32,
+        "updatedAt": "2021-09-05 03:47:24"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "eva",
         "booksCount": 99,
         "updatedAt": "2021-08-19 21:24:15"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "Evermind",
-        "booksCount": 58,
-        "updatedAt": "2021-08-19 20:49:06"
     }
 }

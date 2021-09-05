@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup> 
 [eva](users/111/111656270551033014778-google)<sup>99</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>58</sup> 
 
 
-_04.09.2021 17:16:37_
+_05.09.2021 03:47:24_
