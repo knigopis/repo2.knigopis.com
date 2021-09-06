@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>131</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>132</sup>
 ---
 
 ## 2021
+
+### Багровые тени
+Роберт Говард
+> [2021-09-06] 
+
 
 ### Люди без тел
 Куртка Воннегут

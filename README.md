@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>131</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
 
 
-_06.09.2021 05:28:37_
+_06.09.2021 10:45:32_
