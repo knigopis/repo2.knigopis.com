@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 103,
+        "updatedAt": "2021-09-06 21:32:59"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Feodor",
         "booksCount": 1,
         "updatedAt": "2021-08-21 17:01:28"
-    },
-    "150508923-vkontakte": {
-        "id": "150508923-vkontakte",
-        "nickname": "irienfroz",
-        "booksCount": 0,
-        "updatedAt": "2021-08-21 09:05:53"
     }
 }

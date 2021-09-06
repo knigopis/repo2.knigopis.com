@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>103</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>208</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>79</sup> 
 [Feodor](users/117/117130485334126869740-google)<sup>1</sup> 
-[irienfroz](users/150/150508923-vkontakte)<sup>0</sup> 
 
 
-_06.09.2021 10:45:32_
+_06.09.2021 21:32:59_

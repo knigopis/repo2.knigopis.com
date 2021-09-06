@@ -1,4 +1,16 @@
 {
+    "d_3Zw0UXh2": {
+        "id": "d_3Zw0UXh2",
+        "title": "TRANSHUMANISM INC.",
+        "author": "В. Пелевин",
+        "notes": "",
+        "createdAt": "2021-09-06 21:32:59",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 103
+        }
+    },
     "toPim4c6eN": {
         "id": "toPim4c6eN",
         "title": "Багровые тени",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 301
-        }
-    },
-    "jSTbi5Qdy2": {
-        "id": "jSTbi5Qdy2",
-        "title": "Закон лесника",
-        "author": "Дмитрий Силлов",
-        "notes": "",
-        "createdAt": "2021-08-31 05:05:14",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 126
         }
     }
 }
