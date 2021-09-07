@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
+    > жена должна знать, что главный в доме всегда мужчина… Женщина, которая главной делается, становится как бешеная кобыла: куда понесет – сама не знает. И окружающих потопчет, и сама сдуру башку о ближайшее дерево размолотит.
+
 * Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
     > 9/10 Служанка-иммигрантка отбывает пожизненное наказание за убийство свего хазяина и его любовницы, ее невиновность пытаются доказать сочуваствующие.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
-    > Илюшин и Бабкин 6. с ее амбициями и его способностями,
 
 * Водоворот чужих желаний ~ [Chiffi](users/105/105831994080785626680-google)<sup>302</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Изо дня в день главный герой хочет пленить меня. ~ [neokchan](users/113/113179958976964886996-google)<sup>64</sup>
 
-* Ди,охотник на вампиров ~ [Naricev](users/107/107090515204537133928-google)<sup>123</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>304</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>103</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>132</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>111</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>303</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>245</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>79</sup> 
 
 
-_07.09.2021 06:59:25_
+_07.09.2021 17:24:50_
