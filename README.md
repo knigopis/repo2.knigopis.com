@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>112</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>304</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>103</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>111</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>245</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>79</sup> 
 
 
-_07.09.2021 17:24:50_
+_08.09.2021 04:44:05_

@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>111</sup>
+# List of books read by danyluk62<sup>112</sup>
 ---
 
 ## 2021
+
+### Всё, что должно разрешится...
+Захар Прилепин
+> [2021-09] 
+
 
 ### Ополченский романс
 Захар Прилепин
