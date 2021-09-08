@@ -1,4 +1,16 @@
 {
+    "q2Tc8XqCsA": {
+        "id": "q2Tc8XqCsA",
+        "title": "Witcher: Blood of Elves",
+        "author": "Andrzej Sapkowski",
+        "notes": "",
+        "createdAt": "2021-09-08 16:53:19",
+        "user": {
+            "id": "56925427-vkontakte",
+            "nickname": "dhdrn",
+            "booksCount": 1
+        }
+    },
     "MF-qcQGdPN": {
         "id": "MF-qcQGdPN",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 128
-        }
-    },
-    "svlWQoC_nm": {
-        "id": "svlWQoC_nm",
-        "title": "Мёртвые души",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2021-09-03 06:33:13",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 127
         }
     }
 }
