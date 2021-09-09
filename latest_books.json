@@ -1,4 +1,16 @@
 {
+    "jd84bcoZpI": {
+        "id": "jd84bcoZpI",
+        "title": "Секреты общения. Магия слов.",
+        "author": "Джеймс Борг",
+        "notes": "",
+        "createdAt": "2021-09-09 18:11:43",
+        "user": {
+            "id": "110108278789076439525-google",
+            "nickname": null,
+            "booksCount": 9
+        }
+    },
     "xsJauNk019": {
         "id": "xsJauNk019",
         "title": "Бизнес без MBA",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 359
-        }
-    },
-    "GXljqQzAil": {
-        "id": "GXljqQzAil",
-        "title": "Белое, чёрное, алое (Мягкая лапа смерти)",
-        "author": "Елена Топильская",
-        "notes": "",
-        "createdAt": "2021-09-04 17:13:08",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 358
         }
     }
 }
