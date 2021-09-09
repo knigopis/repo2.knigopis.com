@@ -1,4 +1,16 @@
 {
+    "jc_KBe37-w": {
+        "id": "jc_KBe37-w",
+        "title": "Правила жизни и бизнеса. Том 2",
+        "author": "Игорь Манн",
+        "notes": "",
+        "createdAt": "2021-09-09 18:02:17",
+        "user": {
+            "id": "110108278789076439525-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "7rWc-_fpN7": {
         "id": "7rWc-_fpN7",
         "title": "Стратегия мышления богатых и бедных",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 303
-        }
-    },
-    "_5ER44-6xR": {
-        "id": "_5ER44-6xR",
-        "title": "Десница судьбы",
-        "author": "Роберт Говард",
-        "notes": "",
-        "createdAt": "2021-09-03 11:42:36",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 129
         }
     }
 }
