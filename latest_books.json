@@ -1,4 +1,16 @@
 {
+    "VqFjUxyuz1": {
+        "id": "VqFjUxyuz1",
+        "title": "Детское питание в большом городе",
+        "author": "Регина Доктор",
+        "notes": "",
+        "createdAt": "2021-09-09 18:03:43",
+        "user": {
+            "id": "110108278789076439525-google",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "jc_KBe37-w": {
         "id": "jc_KBe37-w",
         "title": "Правила жизни и бизнеса. Том 2",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 111
-        }
-    },
-    "MI_uCIw8Il": {
-        "id": "MI_uCIw8Il",
-        "title": "Рыцарь нашего времени",
-        "author": "Михалкова Елена",
-        "notes": "Илюшин и Бабкин 6. с ее амбициями и его способностями,",
-        "createdAt": "2021-09-03 16:25:31",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 303
         }
     }
 }
