@@ -1,4 +1,16 @@
 {
+    "d1yG0hxm3p": {
+        "id": "d1yG0hxm3p",
+        "title": "Множественные источники дохода",
+        "author": "Роберт Аллен",
+        "notes": "",
+        "createdAt": "2021-09-09 17:58:04",
+        "user": {
+            "id": "110108278789076439525-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "xEbnzosgEB": {
         "id": "xEbnzosgEB",
         "title": "Пистолет-пулемет МП-38,МП-40",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 18
-        }
-    },
-    "NymwjsQvM5": {
-        "id": "NymwjsQvM5",
-        "title": "Звезда короля",
-        "author": "Ольга Валентеева",
-        "notes": "",
-        "createdAt": "2021-09-03 11:08:25",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 17
         }
     }
 }

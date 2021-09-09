@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/110/110108278789076439525-google)<sup>0</sup> 
+[](users/110/110108278789076439525-google)<sup>1</sup> 
 [k_smo](users/206/206848287-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>133</sup> 
 [dhdrn](users/569/56925427-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116587059105826857287-google)<sup>2</sup> 
 
 
-_09.09.2021 17:43:54_
+_09.09.2021 17:58:04_
