@@ -1,4 +1,16 @@
 {
+    "nwyFmrxrqt": {
+        "id": "nwyFmrxrqt",
+        "title": "Будь тем, кому всегда говорят Да. Чёрная книга убеждения",
+        "author": "Стив Мартин, Роберт Б. Чалдини",
+        "notes": "",
+        "createdAt": "2021-09-09 18:08:01",
+        "user": {
+            "id": "110108278789076439525-google",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "17yQPW_v8l": {
         "id": "17yQPW_v8l",
         "title": "Бизнес против правил. Как Андрей Трубников создал Natura Siberica",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 356
-        }
-    },
-    "eRrQjgoZZv": {
-        "id": "eRrQjgoZZv",
-        "title": "Сага о Форсайтах",
-        "author": "Джон Голсуорси",
-        "notes": "7/10",
-        "createdAt": "2021-09-03 23:00:11",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 149
         }
     }
 }
