@@ -1,4 +1,16 @@
 {
+    "17yQPW_v8l": {
+        "id": "17yQPW_v8l",
+        "title": "Бизнес против правил. Как Андрей Трубников создал Natura Siberica",
+        "author": "Алексей Беляков",
+        "notes": "",
+        "createdAt": "2021-09-09 18:06:05",
+        "user": {
+            "id": "110108278789076439525-google",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "VqFjUxyuz1": {
         "id": "VqFjUxyuz1",
         "title": "Детское питание в большом городе",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 149
-        }
-    },
-    "BUVW41Ka85": {
-        "id": "BUVW41Ka85",
-        "title": "Ополченский романс",
-        "author": "Захар Прилепин",
-        "notes": "",
-        "createdAt": "2021-09-03 18:36:17",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 111
         }
     }
 }
