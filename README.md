@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>246</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>134</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>413</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>245</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>293</sup> 
 [](users/191/1911114012383714-facebook)<sup>0</sup> 
 [kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>50</sup> 
 
 
-_10.09.2021 09:44:32_
+_10.09.2021 19:09:49_
