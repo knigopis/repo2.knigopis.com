@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 169,
+        "updatedAt": "2021-09-10 09:20:01"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 50,
         "updatedAt": "2021-08-24 20:59:35"
-    },
-    "677089247-yandex": {
-        "id": "677089247-yandex",
-        "nickname": "vkanaljin",
-        "booksCount": 0,
-        "updatedAt": "2021-08-23 21:01:28"
     }
 }
