@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 413,
+        "updatedAt": "2021-09-10 04:24:19"
+    },
     "110108278789076439525-google": {
         "id": "110108278789076439525-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "vkanaljin",
         "booksCount": 0,
         "updatedAt": "2021-08-23 21:01:28"
-    },
-    "116587059105826857287-google": {
-        "id": "116587059105826857287-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2021-08-23 03:15:57"
     }
 }
