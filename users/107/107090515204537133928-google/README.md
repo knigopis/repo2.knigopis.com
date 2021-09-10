@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>133</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>134</sup>
 ---
 
 ## 2021
+
+### Все звуки страха
+Харлан Эллисон
+> [2021-09-10] 
+
 
 ### Пистолет-пулемет МП-38,МП-40
 Коллектив Авторов

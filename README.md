@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>134</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>413</sup> 
 [](users/110/110108278789076439525-google)<sup>10</sup> 
 [k_smo](users/206/206848287-vkontakte)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>133</sup> 
 [dhdrn](users/569/56925427-vkontakte)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>155</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>112</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>50</sup> 
 
 
-_10.09.2021 09:20:01_
+_10.09.2021 09:44:32_
