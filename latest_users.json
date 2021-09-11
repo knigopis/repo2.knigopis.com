@@ -1,4 +1,10 @@
 {
+    "2629981519752358408-mailru": {
+        "id": "2629981519752358408-mailru",
+        "nickname": "xatia kupatadze",
+        "booksCount": 0,
+        "updatedAt": "2021-09-11 19:20:05"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "v1nil.ru",
         "booksCount": 0,
         "updatedAt": "2021-08-27 02:44:33"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 50,
-        "updatedAt": "2021-08-24 20:59:35"
     }
 }
