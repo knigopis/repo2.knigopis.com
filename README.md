@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[xatia kupatadze](users/262/2629981519752358408-mailru)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>246</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>134</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neokchan](users/113/113179958976964886996-google)<sup>65</sup> 
 [Dahyun](users/115/115492089732162065423-google)<sup>0</sup> 
 [v1nil.ru](users/787/787891495-yandex)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>50</sup> 
 
 
-_10.09.2021 19:09:49_
+_11.09.2021 19:20:06_
