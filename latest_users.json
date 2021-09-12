@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 181,
+        "updatedAt": "2021-09-12 15:43:51"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "neokchan",
         "booksCount": 65,
         "updatedAt": "2021-08-28 23:17:35"
-    },
-    "115492089732162065423-google": {
-        "id": "115492089732162065423-google",
-        "nickname": "Dahyun",
-        "booksCount": 0,
-        "updatedAt": "2021-08-28 06:59:47"
     }
 }

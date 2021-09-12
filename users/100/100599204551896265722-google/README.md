@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>180</sup>
+# Список прочитанных книг пользователя exulted<sup>181</sup>
 ---
 
 ## 2021
+
+### Sir George Buchanan
+My Mission to Russia and Other Diplomatic Memories
+> [2021-08-20] 
+
 
 ### Matrix Energetics
 Richard Bartlett, DC, ND
