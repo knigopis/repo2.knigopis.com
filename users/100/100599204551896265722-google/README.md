@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>181</sup>
+# Список прочитанных книг пользователя exulted<sup>182</sup>
 ---
 
 ## 2021
+
+### Отцы и дети
+Тургенев А.С.
+> [2021-09-12] 
+
 
 ### Sir George Buchanan
 My Mission to Russia and Other Diplomatic Memories
