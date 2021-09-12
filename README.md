@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>102</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>183</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>874</sup> 
 [xatia kupatadze](users/262/2629981519752358408-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nastasianastasia](users/200/20044939-vkontakte)<sup>0</sup> 
 [](users/101/101935307881070680619-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>12</sup> 
-[neokchan](users/113/113179958976964886996-google)<sup>65</sup> 
 
 
-_12.09.2021 15:52:25_
+_12.09.2021 18:12:49_

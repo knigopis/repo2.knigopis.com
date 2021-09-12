@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>101</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>102</sup>
 ---
 
 ## 2021
+
+### Клод Леви-Стросс
+Структурная Антропология
+> [2021-09-09] 
+
 
 ### Взлом маркетинга
 Фил Барден
