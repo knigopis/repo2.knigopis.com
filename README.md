@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>102</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>183</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>874</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [masuhorukov](users/662/6628575-vkontakte)<sup>0</sup> 
 [nastasianastasia](users/200/20044939-vkontakte)<sup>0</sup> 
 [](users/101/101935307881070680619-google)<sup>0</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>12</sup> 
 
 
-_12.09.2021 18:12:49_
+_12.09.2021 21:13:06_
