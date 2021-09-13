@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>209</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup> 
 [Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>102</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/191/1911114012383714-facebook)<sup>0</sup> 
 [kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
 [masuhorukov](users/662/6628575-vkontakte)<sup>0</sup> 
-[nastasianastasia](users/200/20044939-vkontakte)<sup>0</sup> 
 
 
-_13.09.2021 04:07:01_
+_13.09.2021 09:49:57_

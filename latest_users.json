@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 209,
+        "updatedAt": "2021-09-13 09:49:57"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "masuhorukov",
         "booksCount": 0,
         "updatedAt": "2021-08-29 09:12:04"
-    },
-    "20044939-vkontakte": {
-        "id": "20044939-vkontakte",
-        "nickname": "nastasianastasia",
-        "booksCount": 0,
-        "updatedAt": "2021-08-29 09:09:43"
     }
 }
