@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
 * Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
 * Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
@@ -30,7 +31,6 @@
 * MaddAddam ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>206</sup>
 * Товарищ,На юге ~ [mfevralev](users/140/140966150-vkontakte)<sup>53</sup>
 * На западном фронте без перемен ~ [kissamasya](users/684/68439978-vkontakte)<sup>106</sup>
-* Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>298</sup>
 
 
-_07.09.2021 17:24:50_
+_13.09.2021 04:07:01_

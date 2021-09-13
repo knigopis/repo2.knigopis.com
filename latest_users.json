@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 45,
+        "updatedAt": "2021-09-13 04:07:01"
+    },
     "111710291773782685376-google": {
         "id": "111710291773782685376-google",
         "nickname": "Akvilion",
@@ -172,11 +178,5 @@
         "nickname": "nastasianastasia",
         "booksCount": 0,
         "updatedAt": "2021-08-29 09:09:43"
-    },
-    "101935307881070680619-google": {
-        "id": "101935307881070680619-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-08-29 07:05:24"
     }
 }

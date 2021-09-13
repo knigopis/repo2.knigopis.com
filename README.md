@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
+    > audio
+
 * Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
     > жена должна знать, что главный в доме всегда мужчина… Женщина, которая главной делается, становится как бешеная кобыла: куда понесет – сама не знает. И окружающих потопчет, и сама сдуру башку о ближайшее дерево размолотит.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Служанка-иммигрантка отбывает пожизненное наказание за убийство свего хазяина и его любовницы, ее невиновность пытаются доказать сочуваствующие.
 
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
-    > 7/10
 
 * Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Читатель и Главный герой обязательно должны по-настоящему влюбиться ~ [neokchan](users/113/113179958976964886996-google)<sup>65</sup>
 
-* Изо дня в день главный герой хочет пленить меня. ~ [neokchan](users/113/113179958976964886996-google)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup> 
 [Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>102</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>183</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
 [masuhorukov](users/662/6628575-vkontakte)<sup>0</sup> 
 [nastasianastasia](users/200/20044939-vkontakte)<sup>0</sup> 
-[](users/101/101935307881070680619-google)<sup>0</sup> 
 
 
-_12.09.2021 21:13:06_
+_13.09.2021 04:07:01_
