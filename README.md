@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
+    > Скучно
+
 * Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > жена должна знать, что главный в доме всегда мужчина… Женщина, которая главной делается, становится как бешеная кобыла: куда понесет – сама не знает. И окружающих потопчет, и сама сдуру башку о ближайшее дерево размолотит.
 
 * Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
-    > 9/10 Служанка-иммигрантка отбывает пожизненное наказание за убийство свего хазяина и его любовницы, ее невиновность пытаются доказать сочуваствующие.
 
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Остров сбывшейся мечты ~ [Chiffi](users/105/105831994080785626680-google)<sup>300</sup>
 
-* Читатель и Главный герой обязательно должны по-настоящему влюбиться ~ [neokchan](users/113/113179958976964886996-google)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>184</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>209</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>293</sup> 
 [](users/191/1911114012383714-facebook)<sup>0</sup> 
 [kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
-[masuhorukov](users/662/6628575-vkontakte)<sup>0</sup> 
 
 
-_13.09.2021 21:04:57_
+_13.09.2021 21:46:20_

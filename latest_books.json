@@ -1,4 +1,16 @@
 {
+    "MxPomrreqY": {
+        "id": "MxPomrreqY",
+        "title": "Hygge. Секрет датского счастья",
+        "author": "Викинг Майк",
+        "notes": "Скучно",
+        "createdAt": "2021-09-13 21:46:20",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 19
+        }
+    },
     "sl-xLIzZns": {
         "id": "sl-xLIzZns",
         "title": "Becoming Supernatural",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 103
-        }
-    },
-    "toPim4c6eN": {
-        "id": "toPim4c6eN",
-        "title": "Багровые тени",
-        "author": "Роберт Говард",
-        "notes": "",
-        "createdAt": "2021-09-06 10:45:32",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 132
         }
     }
 }
