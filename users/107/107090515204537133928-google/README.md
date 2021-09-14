@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>134</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>135</sup>
 ---
 
 ## 2021
+
+### Остров страха
+Уильям Сэмброт
+> [2021-09-14] 
+
 
 ### Все звуки страха
 Харлан Эллисон

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>135</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>184</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>874</sup> 
 [xatia kupatadze](users/262/2629981519752358408-mailru)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>134</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>413</sup> 
 [](users/110/110108278789076439525-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
 
 
-_14.09.2021 16:24:55_
+_14.09.2021 17:34:53_
