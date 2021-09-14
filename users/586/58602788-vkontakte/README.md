@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>65</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>66</sup>
 ---
 
 ## 2021
+
+### Власть несбывшегося
+Макс Фрай
+> [2021-09] 
+
 
 ### Переплет
 Бриджет Коллинз

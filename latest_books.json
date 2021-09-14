@@ -1,4 +1,16 @@
 {
+    "RAfxOgihMU": {
+        "id": "RAfxOgihMU",
+        "title": "Власть несбывшегося",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2021-09-14 19:07:19",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 66
+        }
+    },
     "XeISzNPksB": {
         "id": "XeISzNPksB",
         "title": "Остров страха",
@@ -345,18 +357,6 @@
             "id": "56925427-vkontakte",
             "nickname": "dhdrn",
             "booksCount": 1
-        }
-    },
-    "MF-qcQGdPN": {
-        "id": "MF-qcQGdPN",
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2021-09-08 16:01:27",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ..",
-            "booksCount": 155
         }
     }
 }

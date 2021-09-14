@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 66,
+        "updatedAt": "2021-09-14 19:07:19"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-08-29 12:07:25"
-    },
-    "283490946-yandex": {
-        "id": "283490946-yandex",
-        "nickname": "kuf-mko",
-        "booksCount": 0,
-        "updatedAt": "2021-08-29 11:47:13"
     }
 }
