@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
 * Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
 * Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
 * Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
 * Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
 * Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
-* MaddAddam ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>206</sup>
 
 
-_14.09.2021 13:20:23_
+_14.09.2021 16:23:57_
