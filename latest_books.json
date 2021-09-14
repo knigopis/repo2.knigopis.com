@@ -1,4 +1,16 @@
 {
+    "8Spd5nH6jF": {
+        "id": "8Spd5nH6jF",
+        "title": "Нечисть в метро",
+        "author": "Афонин Владислав",
+        "notes": "Старуха в параллельной реальности в метро.",
+        "createdAt": "2021-09-14 13:20:23",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 247
+        }
+    },
     "MxPomrreqY": {
         "id": "MxPomrreqY",
         "title": "Hygge. Секрет датского счастья",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 82
-        }
-    },
-    "d_3Zw0UXh2": {
-        "id": "d_3Zw0UXh2",
-        "title": "TRANSHUMANISM INC.",
-        "author": "В. Пелевин",
-        "notes": "",
-        "createdAt": "2021-09-06 21:32:59",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 103
         }
     }
 }
