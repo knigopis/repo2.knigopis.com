@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
+    > Про вора, пытающегося украсть картину.
+
 * Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
     > Про расстройство личности маленькой девочки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Старуха в параллельной реальности в метро.
 
 * Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
-    > Скучно
 
 * Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Водоворот чужих желаний ~ [Chiffi](users/105/105831994080785626680-google)<sup>302</sup>
 
-* Темная сторона души ~ [Chiffi](users/105/105831994080785626680-google)<sup>301</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>184</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>209</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kuf-mko](users/283/283490946-yandex)<sup>0</sup> 
 
 
-_14.09.2021 16:23:57_
+_14.09.2021 16:24:55_

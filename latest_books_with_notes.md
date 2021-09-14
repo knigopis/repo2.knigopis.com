@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
 * Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
 * Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
 * Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
@@ -30,7 +31,6 @@
 * Лакомый кусочек ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>210</sup>
 * Время Секонд Хэнд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>209</sup>
 * Последние свидетели, соло для детского голоса. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>208</sup>
-* Чудный олень вечной охоты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>207</sup>
 
 
-_14.09.2021 16:23:57_
+_14.09.2021 16:24:55_
