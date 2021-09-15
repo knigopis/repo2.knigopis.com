@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>136</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>135</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>184</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/191/1911114012383714-facebook)<sup>0</sup> 
 
 
-_14.09.2021 19:07:19_
+_15.09.2021 11:20:02_
