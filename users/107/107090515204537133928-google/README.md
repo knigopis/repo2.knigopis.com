@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>137</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>138</sup>
 ---
 
 ## 2021
+
+### Слейд
+Стивен Кинг
+> [2021-09-16] 
+
 
 ### Вольво-скандинавская легенда
 Сергей Бутман, Рената Литвинова
