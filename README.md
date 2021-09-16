@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vibobukh](users/109/109844475830298727911-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>139</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>293</sup> 
-[](users/191/1911114012383714-facebook)<sup>0</sup> 
 
 
-_16.09.2021 08:23:46_
+_16.09.2021 09:58:34_
