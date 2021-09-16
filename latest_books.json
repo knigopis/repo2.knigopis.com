@@ -1,4 +1,16 @@
 {
+    "EisyFyTos3": {
+        "id": "EisyFyTos3",
+        "title": "Бельшникель",
+        "author": "Дж.Ф. Гонсалез",
+        "notes": "",
+        "createdAt": "2021-09-16 08:23:46",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 139
+        }
+    },
     "n95-QX5JdS": {
         "id": "n95-QX5JdS",
         "title": "Слейд",
@@ -345,18 +357,6 @@
             "id": "110108278789076439525-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "7rWc-_fpN7": {
-        "id": "7rWc-_fpN7",
-        "title": "Стратегия мышления богатых и бедных",
-        "author": "Саидмурод Давлатов",
-        "notes": "",
-        "createdAt": "2021-09-09 18:01:11",
-        "user": {
-            "id": "110108278789076439525-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
