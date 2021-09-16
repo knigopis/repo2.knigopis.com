@@ -1,4 +1,16 @@
 {
+    "VTLjF5uzK6": {
+        "id": "VTLjF5uzK6",
+        "title": "Академия и Империя",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2021-09-16 19:21:48",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 167
+        }
+    },
     "38HAoBtZDV": {
         "id": "38HAoBtZDV",
         "title": "Основание",
@@ -345,18 +357,6 @@
             "id": "110108278789076439525-google",
             "nickname": null,
             "booksCount": 8
-        }
-    },
-    "HnqIlJwSCd": {
-        "id": "HnqIlJwSCd",
-        "title": "Достаток : управляй деньгами, чтобы они не управляли тобой.",
-        "author": "Радислав Гандапас",
-        "notes": "",
-        "createdAt": "2021-09-09 18:09:05",
-        "user": {
-            "id": "110108278789076439525-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }
