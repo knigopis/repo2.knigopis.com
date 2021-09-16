@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>875</sup> 
 [vibobukh](users/109/109844475830298727911-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>139</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup> 
 [Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>102</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>874</sup> 
 [xatia kupatadze](users/262/2629981519752358408-mailru)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>413</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>293</sup> 
 
 
-_16.09.2021 09:58:34_
+_16.09.2021 12:55:33_
