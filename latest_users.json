@@ -1,4 +1,10 @@
 {
+    "109844475830298727911-google": {
+        "id": "109844475830298727911-google",
+        "nickname": "vibobukh",
+        "booksCount": 0,
+        "updatedAt": "2021-09-16 09:58:34"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 293,
         "updatedAt": "2021-08-29 15:14:35"
-    },
-    "1911114012383714-facebook": {
-        "id": "1911114012383714-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-08-29 12:07:25"
     }
 }
