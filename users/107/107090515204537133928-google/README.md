@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>136</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>137</sup>
 ---
 
 ## 2021
+
+### Вольво-скандинавская легенда
+Сергей Бутман, Рената Литвинова
+> [2021-09-16] 
+
 
 ### Мастер и Маргарита
 Михаил Булгаков
