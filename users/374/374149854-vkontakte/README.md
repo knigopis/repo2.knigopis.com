@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>112</sup>
+# List of books read by danyluk62<sup>113</sup>
 ---
 
 ## 2021
+
+### Как писать книги
+Стивен Кинг
+> [2021-09] 
+
 
 ### Всё, что должно разрешится...
 Захар Прилепин

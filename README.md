@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>113</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>167</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>875</sup> 
 [vibobukh](users/109/109844475830298727911-google)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [k_smo](users/206/206848287-vkontakte)<sup>0</sup> 
 [dhdrn](users/569/56925427-vkontakte)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>155</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>112</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>304</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>103</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
 
 
-_16.09.2021 19:21:48_
+_17.09.2021 04:11:48_
