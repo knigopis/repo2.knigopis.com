@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>103</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>113</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>167</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>18</sup> 
 
 
-_17.09.2021 06:26:14_
+_17.09.2021 07:41:07_
