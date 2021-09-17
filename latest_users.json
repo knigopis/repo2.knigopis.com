@@ -1,4 +1,10 @@
 {
+    "113179958976964886996-google": {
+        "id": "113179958976964886996-google",
+        "nickname": "neokchan",
+        "booksCount": 66,
+        "updatedAt": "2021-09-17 18:07:29"
+    },
     "111415970638883668399-google": {
         "id": "111415970638883668399-google",
         "nickname": "thelamon",
@@ -172,11 +178,5 @@
         "nickname": "книжный сомелье",
         "booksCount": 0,
         "updatedAt": "2021-09-04 14:30:45"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 149,
-        "updatedAt": "2021-09-03 23:00:11"
     }
 }

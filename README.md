@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
+    > ОБОЖАЮ
+
 * Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
     > Про вора, пытающегося украсть картину.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Про расстройство личности маленькой девочки.
 
 * Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
-    > Старуха в параллельной реальности в метро.
 
 * Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
 
-* Водоворот чужих желаний ~ [Chiffi](users/105/105831994080785626680-google)<sup>302</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[neokchan](users/113/113179958976964886996-google)<sup>66</sup> 
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>103</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>113</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
 [книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>149</sup> 
 
 
-_17.09.2021 07:41:07_
+_17.09.2021 18:07:29_

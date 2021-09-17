@@ -1,4 +1,16 @@
 {
+    "Xy9e4TzwC6": {
+        "id": "Xy9e4TzwC6",
+        "title": "Генерал любит собирать маленькие красные цветы",
+        "author": "困成熊猫",
+        "notes": "ОБОЖАЮ",
+        "createdAt": "2021-09-17 18:07:29",
+        "user": {
+            "id": "113179958976964886996-google",
+            "nickname": "neokchan",
+            "booksCount": 66
+        }
+    },
     "sjx-BO4FPn": {
         "id": "sjx-BO4FPn",
         "title": "Древнее общество",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 413
-        }
-    },
-    "PWzu19X-VG": {
-        "id": "PWzu19X-VG",
-        "title": "Искусство жить просто. Как избавиться от лишнего и обогатить свою жизнь",
-        "author": "Доминик Лоро",
-        "notes": "",
-        "createdAt": "2021-09-09 18:19:21",
-        "user": {
-            "id": "110108278789076439525-google",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }
