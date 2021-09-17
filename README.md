@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
+    > Очень понравилась эта книга. Она запомнилась как та, что привила мне любовь к чтению. Удивительно как действия в книге напоминают нашу реальность.
+
 * Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
     > ОБОЖАЮ
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Про вора, пытающегося украсть картину.
 
 * Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
-    > Про расстройство личности маленькой девочки.
 
 * Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
 
-* Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>80</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>66</sup> 
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>103</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
-[книжный сомелье](users/115/115727566151095005266-google)<sup>0</sup> 
 
 
-_17.09.2021 18:07:29_
+_17.09.2021 19:22:43_
