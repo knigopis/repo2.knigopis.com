@@ -1,4 +1,16 @@
 {
+    "sjx-BO4FPn": {
+        "id": "sjx-BO4FPn",
+        "title": "Древнее общество",
+        "author": "Л.Морган",
+        "notes": "",
+        "createdAt": "2021-09-17 06:26:14",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 103
+        }
+    },
     "q-q5H70OT2": {
         "id": "q-q5H70OT2",
         "title": "Как писать книги",
@@ -345,18 +357,6 @@
             "id": "110108278789076439525-google",
             "nickname": null,
             "booksCount": 10
-        }
-    },
-    "jd84bcoZpI": {
-        "id": "jd84bcoZpI",
-        "title": "Секреты общения. Магия слов.",
-        "author": "Джеймс Борг",
-        "notes": "",
-        "createdAt": "2021-09-09 18:11:43",
-        "user": {
-            "id": "110108278789076439525-google",
-            "nickname": null,
-            "booksCount": 9
         }
     }
 }

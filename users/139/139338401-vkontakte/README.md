@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>102</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>103</sup>
 ---
 
 ## 2021
+
+### Древнее общество
+Л.Морган
+> [2021-09-16] 
+
 
 ### Клод Леви-Стросс
 Структурная Антропология
