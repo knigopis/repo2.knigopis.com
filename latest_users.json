@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 104,
+        "updatedAt": "2021-09-18 21:54:58"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "Evermind",
@@ -22,12 +28,6 @@
         "nickname": "thelamon",
         "booksCount": 0,
         "updatedAt": "2021-09-17 07:41:07"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 103,
-        "updatedAt": "2021-09-17 06:26:14"
     },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",

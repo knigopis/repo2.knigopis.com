@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>103</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>104</sup>
 ---
 
 ## 2021
+
+### Мертвые души
+Николай Гоголь
+> [2021-09-19] 
+
 
 ### Древнее общество
 Л.Морган
