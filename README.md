@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
+    > средненько, но прикольно
+
 * 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
     > Очень понравилась эта книга. Она запомнилась как та, что привила мне любовь к чтению. Удивительно как действия в книге напоминают нашу реальность.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ОБОЖАЮ
 
 * Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
-    > Про вора, пытающегося украсть картину.
 
 * Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
 
-* Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>80</sup> 
-[neokchan](users/113/113179958976964886996-google)<sup>66</sup> 
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>103</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>113</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
 
 
-_17.09.2021 19:22:43_
+_18.09.2021 11:32:47_
