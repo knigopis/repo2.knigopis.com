@@ -1,7 +1,11 @@
-# List of books read by Evermind<sup>58</sup>
+# List of books read by Evermind<sup>59</sup>
 ---
 
 ## 2021
+
+Диалоги о медитации
+> [2021-09-18] 
+
 
 ### Артист
 Алексей  Комов

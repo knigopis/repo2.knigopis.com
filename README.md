@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>80</sup> 
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>32</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>366</sup> 
 
 
-_18.09.2021 11:32:47_
+_18.09.2021 20:56:47_
