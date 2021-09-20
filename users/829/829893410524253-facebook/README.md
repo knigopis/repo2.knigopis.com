@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>211</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>212</sup>
 ---
 
 ## 2021
+
+### 100 великих угроз цивилизации
+А.С. Бернадцкий
+> [2021-09-19] 5/10 Банально представлены основные проблемы человечества с перекручеными фактами и имперским взглядом.
+
 
 ### Она же Грэйc
 Маргарет Этвуд

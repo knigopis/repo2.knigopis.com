@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
+    > 5/10 Банально представлены основные проблемы человечества с перекручеными фактами и имперским взглядом.
+
 * Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
     > средненько, но прикольно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень понравилась эта книга. Она запомнилась как та, что привила мне любовь к чтению. Удивительно как действия в книге напоминают нашу реальность.
 
 * Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
-    > ОБОЖАЮ
 
 * Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
 
-* Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>140</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>104</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>304</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>103</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 
 
-_20.09.2021 08:48:09_
+_20.09.2021 14:46:50_

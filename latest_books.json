@@ -1,4 +1,16 @@
 {
+    "vZtq8Wn7nv": {
+        "id": "vZtq8Wn7nv",
+        "title": "100 великих угроз цивилизации",
+        "author": "А.С. Бернадцкий",
+        "notes": "5/10 Банально представлены основные проблемы человечества с перекручеными фактами и имперским взглядом.",
+        "createdAt": "2021-09-20 14:46:50",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 212
+        }
+    },
     "vqLhxb5MRu": {
         "id": "vqLhxb5MRu",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 182
-        }
-    },
-    "dBKukEZuhz": {
-        "id": "dBKukEZuhz",
-        "title": "Sir George Buchanan",
-        "author": "My Mission to Russia and Other Diplomatic Memories",
-        "notes": "",
-        "createdAt": "2021-09-12 15:43:51",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 181
         }
     }
 }
