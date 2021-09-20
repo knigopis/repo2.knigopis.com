@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>140</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>155</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>304</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>103</sup> 
 
 
-_20.09.2021 16:26:20_
+_20.09.2021 21:52:55_

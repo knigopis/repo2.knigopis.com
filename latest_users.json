@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 51,
+        "updatedAt": "2021-09-20 21:52:55"
+    },
     "104589481690203844799-googleplus": {
         "id": "104589481690203844799-googleplus",
         "nickname": "Argus",
@@ -172,11 +178,5 @@
         "nickname": "Euphoria",
         "booksCount": 82,
         "updatedAt": "2021-09-07 06:59:25"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 103,
-        "updatedAt": "2021-09-06 21:32:59"
     }
 }
