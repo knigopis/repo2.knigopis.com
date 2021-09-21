@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
+    > робот. — Человек в первую очередь — член общества, а уж потом индивидуум. И независимо от того, обречет ли себя общество на уничтожение или нет, вы должны оставаться с ним.
+
 * 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
     > 5/10 Банально представлены основные проблемы человечества с перекручеными фактами и имперским взглядом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > средненько, но прикольно
 
 * 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
-    > Очень понравилась эта книга. Она запомнилась как та, что привила мне любовь к чтению. Удивительно как действия в книге напоминают нашу реальность.
 
 * Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
 
-* Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>305</sup> 
 [](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [k_smo](users/206/206848287-vkontakte)<sup>0</sup> 
 [dhdrn](users/569/56925427-vkontakte)<sup>1</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>155</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>304</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
 
 
-_20.09.2021 21:52:55_
+_21.09.2021 17:51:49_
