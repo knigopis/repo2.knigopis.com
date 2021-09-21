@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
 * Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
 * 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
 * Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
 * Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
 * Мир Сценариста Шут из Бергхейма (Компиляция 1-3) ~ [dromoman2008](users/444/44461886-yandex)<sup>57</sup>
-* Алхимик (серия из 6 книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>56</sup>
 
 
-_21.09.2021 17:51:49_
+_21.09.2021 20:41:39_

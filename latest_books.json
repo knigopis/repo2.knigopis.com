@@ -1,4 +1,16 @@
 {
+    "4GkH6IZf2f": {
+        "id": "4GkH6IZf2f",
+        "title": "Восход солнца",
+        "author": "Маргарет Этвуд",
+        "notes": "7/10  Художница думает о смерти и рисует   портрпты мужчин",
+        "createdAt": "2021-09-21 20:41:39",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 213
+        }
+    },
     "OR833EScIA": {
         "id": "OR833EScIA",
         "title": "Тигр! Тигр!",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 45
-        }
-    },
-    "8D3HxIpCdh": {
-        "id": "8D3HxIpCdh",
-        "title": "Клод Леви-Стросс",
-        "author": "Структурная Антропология",
-        "notes": "",
-        "createdAt": "2021-09-12 18:12:49",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 102
         }
     }
 }

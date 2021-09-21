@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
+    > 7/10  Художница думает о смерти и рисует   портрпты мужчин
+
 * Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
     > робот. — Человек в первую очередь — член общества, а уж потом индивидуум. И независимо от того, обречет ли себя общество на уничтожение или нет, вы должны оставаться с ним.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Банально представлены основные проблемы человечества с перекручеными фактами и имперским взглядом.
 
 * Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
-    > средненько, но прикольно
 
 * 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
 
-* Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>305</sup> 
 [](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>140</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
 
 
-_21.09.2021 17:51:49_
+_21.09.2021 20:41:39_
