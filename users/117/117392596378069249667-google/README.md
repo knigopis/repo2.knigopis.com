@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>103</sup>
+# List of books read by 4apa<sup>104</sup>
 ---
 
 ## 2021
+
+### Негласный союз астрофизики и армии. На службе у войны
+Нил Деграс Тайсон
+> [2021-09-22] 
+
 
 ### TRANSHUMANISM INC.
 В. Пелевин
