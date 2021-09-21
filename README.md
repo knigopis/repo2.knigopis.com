@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
+    > 9/10 Перед вбивством лорда відбувається  жарт з перевдяганням, співпадіння?
+
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
     > 7/10  Художница думает о смерти и рисует   портрпты мужчин
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > робот. — Человек в первую очередь — член общества, а уж потом индивидуум. И независимо от того, обречет ли себя общество на уничтожение или нет, вы должны оставаться с ним.
 
 * 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
-    > 5/10 Банально представлены основные проблемы человечества с перекручеными фактами и имперским взглядом.
 
 * Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
 
-* Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>305</sup> 
 [](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>82</sup> 
 
 
-_21.09.2021 20:41:39_
+_21.09.2021 20:43:24_

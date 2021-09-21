@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>213</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>214</sup>
 ---
 
 ## 2021
+
+### Смерть лорда Еджвера
+Аґата Крісті
+> [2021-09-22] 9/10 Перед вбивством лорда відбувається  жарт з перевдяганням, співпадіння?
+
 
 ### 100 великих угроз цивилизации
 А.С. Бернадцкий
