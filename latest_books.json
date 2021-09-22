@@ -1,4 +1,16 @@
 {
+    "lgwzmlL-Cp": {
+        "id": "lgwzmlL-Cp",
+        "title": "Эксперт Джона Старка",
+        "author": "Роберт Ирвин Говард",
+        "notes": "",
+        "createdAt": "2021-09-22 12:07:36",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 143
+        }
+    },
     "OVussZKs5_": {
         "id": "OVussZKs5_",
         "title": "Гербер Уэст реаниматор",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 248
-        }
-    },
-    "8Spd5nH6jF": {
-        "id": "8Spd5nH6jF",
-        "title": "Нечисть в метро",
-        "author": "Афонин Владислав",
-        "notes": "Старуха в параллельной реальности в метро.",
-        "createdAt": "2021-09-14 13:20:23",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 247
         }
     }
 }

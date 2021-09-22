@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>142</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>143</sup>
 ---
 
 ## 2021
+
+### Эксперт Джона Старка
+Роберт Ирвин Говард
+> [2021-09-22] 
+
 
 ### Гербер Уэст реаниматор
 Говард Филипс Лавкрафт
