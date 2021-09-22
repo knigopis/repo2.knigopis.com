@@ -1,4 +1,16 @@
 {
+    "OVussZKs5_": {
+        "id": "OVussZKs5_",
+        "title": "Гербер Уэст реаниматор",
+        "author": "Говард Филипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2021-09-22 09:18:49",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 142
+        }
+    },
     "zGWjbDzmOK": {
         "id": "zGWjbDzmOK",
         "title": "Изгоняющий дьявола",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 247
-        }
-    },
-    "MxPomrreqY": {
-        "id": "MxPomrreqY",
-        "title": "Hygge. Секрет датского счастья",
-        "author": "Викинг Майк",
-        "notes": "Скучно",
-        "createdAt": "2021-09-13 21:46:20",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 19
         }
     }
 }
