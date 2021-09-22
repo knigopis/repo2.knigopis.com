@@ -1,4 +1,16 @@
 {
+    "tgXsvxQNKU": {
+        "id": "tgXsvxQNKU",
+        "title": "Добробати",
+        "author": "Катерина Гладка, Дмитро Громакоа та iн.",
+        "notes": "",
+        "createdAt": "2021-09-22 21:14:29",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 114
+        }
+    },
     "PThCjJhPCI": {
         "id": "PThCjJhPCI",
         "title": "Второе Основание",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 66
-        }
-    },
-    "XeISzNPksB": {
-        "id": "XeISzNPksB",
-        "title": "Остров страха",
-        "author": "Уильям Сэмброт",
-        "notes": "",
-        "createdAt": "2021-09-14 17:34:53",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 135
         }
     }
 }
