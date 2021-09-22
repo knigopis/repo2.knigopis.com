@@ -1,4 +1,16 @@
 {
+    "PThCjJhPCI": {
+        "id": "PThCjJhPCI",
+        "title": "Второе Основание",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2021-09-22 21:04:10",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 168
+        }
+    },
     "icJLZLb6NX": {
         "id": "icJLZLb6NX",
         "title": "Банши",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 135
-        }
-    },
-    "tM7NGcYQ8X": {
-        "id": "tM7NGcYQ8X",
-        "title": "Зря ты туда полез!",
-        "author": "Неизвестно",
-        "notes": "Про вора, пытающегося украсть картину.",
-        "createdAt": "2021-09-14 16:24:55",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 249
         }
     }
 }
