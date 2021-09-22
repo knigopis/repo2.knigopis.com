@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>140</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>141</sup>
 ---
 
 ## 2021
+
+### Изгоняющий дьявола
+Уильям Питер Блэтти
+> [2021-09-22] 
+
 
 ### На дне
 Максим Горький

@@ -1,4 +1,16 @@
 {
+    "zGWjbDzmOK": {
+        "id": "zGWjbDzmOK",
+        "title": "Изгоняющий дьявола",
+        "author": "Уильям Питер Блэтти",
+        "notes": "",
+        "createdAt": "2021-09-22 06:39:53",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 141
+        }
+    },
     "4lZaT_PgbG": {
         "id": "4lZaT_PgbG",
         "title": "Негласный союз астрофизики и армии. На службе у войны",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 19
-        }
-    },
-    "sl-xLIzZns": {
-        "id": "sl-xLIzZns",
-        "title": "Becoming Supernatural",
-        "author": "Joe Dispenza",
-        "notes": "",
-        "createdAt": "2021-09-13 21:04:57",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 184
         }
     }
 }
