@@ -1,4 +1,10 @@
 {
+    "585beafacefdc531-liveid": {
+        "id": "585beafacefdc531-liveid",
+        "nickname": "Bishop",
+        "booksCount": 0,
+        "updatedAt": "2021-09-23 17:28:49"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 10,
         "updatedAt": "2021-09-09 18:19:21"
-    },
-    "206848287-vkontakte": {
-        "id": "206848287-vkontakte",
-        "nickname": "k_smo",
-        "booksCount": 0,
-        "updatedAt": "2021-09-09 10:03:28"
     }
 }
