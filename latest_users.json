@@ -1,4 +1,10 @@
 {
+    "108667673949731191831-google": {
+        "id": "108667673949731191831-google",
+        "nickname": "Katerina Sl.",
+        "booksCount": 0,
+        "updatedAt": "2021-09-23 04:07:46"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "dhdrn",
         "booksCount": 1,
         "updatedAt": "2021-09-08 16:53:19"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ..",
-        "booksCount": 155,
-        "updatedAt": "2021-09-08 16:01:27"
     }
 }
