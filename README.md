@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>145</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>83</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>114</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>144</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>104</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>305</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [k_smo](users/206/206848287-vkontakte)<sup>0</sup> 
 
 
-_23.09.2021 08:47:12_
+_23.09.2021 10:41:22_
