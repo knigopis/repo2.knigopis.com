@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>145</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>146</sup>
 ---
 
 ## 2021
+
+### Схождение на ринг
+Роберт Ирвин Говард
+> [2021-09-23] 
+
 
 ### Враг
 Эрих Мария Ремарк

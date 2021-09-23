@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>146</sup> 
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>105</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>145</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>83</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>114</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110108278789076439525-google)<sup>10</sup> 
 
 
-_23.09.2021 17:28:49_
+_23.09.2021 18:07:24_
