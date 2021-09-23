@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 83,
+        "updatedAt": "2021-09-23 08:47:12"
+    },
     "108667673949731191831-google": {
         "id": "108667673949731191831-google",
         "nickname": "Katerina Sl.",
@@ -172,11 +178,5 @@
         "nickname": "k_smo",
         "booksCount": 0,
         "updatedAt": "2021-09-09 10:03:28"
-    },
-    "56925427-vkontakte": {
-        "id": "56925427-vkontakte",
-        "nickname": "dhdrn",
-        "booksCount": 1,
-        "updatedAt": "2021-09-08 16:53:19"
     }
 }
