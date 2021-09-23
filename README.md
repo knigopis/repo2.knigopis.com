@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>876</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>146</sup> 
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>105</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>80</sup> 
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>875</sup> 
 [vibobukh](users/109/109844475830298727911-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110108278789076439525-google)<sup>10</sup> 
 
 
-_23.09.2021 18:07:24_
+_23.09.2021 20:53:57_
