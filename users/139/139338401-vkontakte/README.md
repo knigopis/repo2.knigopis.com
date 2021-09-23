@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>104</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>105</sup>
 ---
 
 ## 2021
+
+### Культурная конфигурация
+Кребер
+> [2021-09-23] 
+
 
 ### Мертвые души
 Николай Гоголь

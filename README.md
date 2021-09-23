@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>105</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>145</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>83</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>104</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>80</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [k_smo](users/206/206848287-vkontakte)<sup>0</sup> 
 
 
-_23.09.2021 15:06:17_
+_23.09.2021 16:20:15_

@@ -1,4 +1,16 @@
 {
+    "OrzO0GE3bd": {
+        "id": "OrzO0GE3bd",
+        "title": "Культурная конфигурация",
+        "author": "Кребер",
+        "notes": "",
+        "createdAt": "2021-09-23 16:20:15",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 105
+        }
+    },
     "Mq7m3ty3_f": {
         "id": "Mq7m3ty3_f",
         "title": "Осиная фабрика",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 875
-        }
-    },
-    "EisyFyTos3": {
-        "id": "EisyFyTos3",
-        "title": "Бельшникель",
-        "author": "Дж.Ф. Гонсалез",
-        "notes": "",
-        "createdAt": "2021-09-16 08:23:46",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 139
         }
     }
 }
