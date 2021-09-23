@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
 * Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
@@ -30,7 +31,6 @@
 *  ~ [Evermind](users/302/302928912-vkontakte)<sup>58</sup>
 * Господин маг (серия ?книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>60</sup>
 * Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
-* Аристократ (серия 4 книги) ~ [dromoman2008](users/444/44461886-yandex)<sup>58</sup>
 
 
-_21.09.2021 20:43:24_
+_23.09.2021 15:06:17_

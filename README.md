@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
+    > audio
+
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
     > 9/10 Перед вбивством лорда відбувається  жарт з перевдяганням, співпадіння?
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10  Художница думает о смерти и рисует   портрпты мужчин
 
 * Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
-    > робот. — Человек в первую очередь — член общества, а уж потом индивидуум. И независимо от того, обречет ли себя общество на уничтожение или нет, вы должны оставаться с ним.
 
 * 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
 
-* Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>145</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>83</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>184</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>209</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup> 
 [Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 [xatia kupatadze](users/262/2629981519752358408-mailru)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [k_smo](users/206/206848287-vkontakte)<sup>0</sup> 
 
 
-_23.09.2021 10:41:22_
+_23.09.2021 15:06:17_

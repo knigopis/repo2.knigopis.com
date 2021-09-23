@@ -1,4 +1,16 @@
 {
+    "Mq7m3ty3_f": {
+        "id": "Mq7m3ty3_f",
+        "title": "Осиная фабрика",
+        "author": "Иэн Бэнкс",
+        "notes": "audio",
+        "createdAt": "2021-09-23 15:06:17",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 46
+        }
+    },
     "ZV0veX57-V": {
         "id": "ZV0veX57-V",
         "title": "Враг",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 139
-        }
-    },
-    "n95-QX5JdS": {
-        "id": "n95-QX5JdS",
-        "title": "Слейд",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-09-16 06:55:36",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 138
         }
     }
 }
