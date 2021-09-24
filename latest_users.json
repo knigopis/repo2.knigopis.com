@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 81,
+        "updatedAt": "2021-09-24 12:48:45"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -106,12 +112,6 @@
         "nickname": "neokchan",
         "booksCount": 67,
         "updatedAt": "2021-09-18 11:32:47"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 80,
-        "updatedAt": "2021-09-17 19:22:43"
     },
     "111415970638883668399-google": {
         "id": "111415970638883668399-google",
