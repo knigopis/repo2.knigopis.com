@@ -1,4 +1,16 @@
 {
+    "B6gPhr7_BE": {
+        "id": "B6gPhr7_BE",
+        "title": "5 языков любви",
+        "author": "Гэри Чепмен",
+        "notes": "",
+        "createdAt": "2021-09-24 21:04:56",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 80
+        }
+    },
     "eHvQJO0H_h": {
         "id": "eHvQJO0H_h",
         "title": "Дорогой несбывшихся снов",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 66
-        }
-    },
-    "sjx-BO4FPn": {
-        "id": "sjx-BO4FPn",
-        "title": "Древнее общество",
-        "author": "Л.Морган",
-        "notes": "",
-        "createdAt": "2021-09-17 06:26:14",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 103
         }
     }
 }

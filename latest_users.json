@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 80,
+        "updatedAt": "2021-09-24 21:04:56"
+    },
     "100404933895137497570-google": {
         "id": "100404933895137497570-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Akvilion",
         "booksCount": 0,
         "updatedAt": "2021-09-12 21:13:05"
-    },
-    "2629981519752358408-mailru": {
-        "id": "2629981519752358408-mailru",
-        "nickname": "xatia kupatadze",
-        "booksCount": 0,
-        "updatedAt": "2021-09-11 19:20:05"
     }
 }
