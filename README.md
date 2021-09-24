@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/100/100404933895137497570-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>34</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>81</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>52</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>209</sup> 
 [Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 [xatia kupatadze](users/262/2629981519752358408-mailru)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
 
 
-_24.09.2021 19:16:01_
+_24.09.2021 21:03:51_
