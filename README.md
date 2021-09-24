@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>876</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>146</sup> 
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [xatia kupatadze](users/262/2629981519752358408-mailru)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>169</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>413</sup> 
-[](users/110/110108278789076439525-google)<sup>10</sup> 
 
 
-_23.09.2021 20:53:57_
+_24.09.2021 03:04:11_
