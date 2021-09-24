@@ -1,4 +1,16 @@
 {
+    "kwpNCtG4Vq": {
+        "id": "kwpNCtG4Vq",
+        "title": "Путь настоящего мужчины",
+        "author": "Дэйда Дэвид",
+        "notes": "",
+        "createdAt": "2021-09-24 21:10:19",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 85
+        }
+    },
     "LrjK-cmMaf": {
         "id": "LrjK-cmMaf",
         "title": "Флешбек",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 140
-        }
-    },
-    "n2AyMvuDaS": {
-        "id": "n2AyMvuDaS",
-        "title": "Мертвые души",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2021-09-18 21:54:58",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 104
         }
     }
 }
