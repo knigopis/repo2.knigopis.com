@@ -1,4 +1,10 @@
 {
+    "100404933895137497570-google": {
+        "id": "100404933895137497570-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-09-24 21:03:51"
+    },
     "3448154788585127-facebook": {
         "id": "3448154788585127-facebook",
         "nickname": "Пу_тем",
@@ -172,11 +178,5 @@
         "nickname": "xatia kupatadze",
         "booksCount": 0,
         "updatedAt": "2021-09-11 19:20:05"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 169,
-        "updatedAt": "2021-09-10 09:20:01"
     }
 }
