@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
@@ -30,7 +31,6 @@
 * Как писать книги ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup>
 *  ~ [Evermind](users/302/302928912-vkontakte)<sup>58</sup>
 * Господин маг (серия ?книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>60</sup>
-* Вторая жизнь ~ [dromoman2008](users/444/44461886-yandex)<sup>59</sup>
 
 
-_23.09.2021 15:06:17_
+_25.09.2021 23:22:18_

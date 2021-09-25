@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
+    > Мне надоел до безумия. Ни слова о действительности
+
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Перед вбивством лорда відбувається  жарт з перевдяганням, співпадіння?
 
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
-    > 7/10  Художница думает о смерти и рисует   портрпты мужчин
 
 * Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
 
-* Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>82</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>85</sup> 
 [](users/100/100404933895137497570-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>34</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>81</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>876</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 
 
-_24.09.2021 21:10:19_
+_25.09.2021 23:22:18_
