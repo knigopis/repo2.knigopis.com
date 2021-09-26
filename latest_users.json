@@ -1,4 +1,10 @@
 {
+    "3707684412667781-facebook": {
+        "id": "3707684412667781-facebook",
+        "nickname": "Мария ",
+        "booksCount": 0,
+        "updatedAt": "2021-09-26 14:56:17"
+    },
     "106107989792957993574-google": {
         "id": "106107989792957993574-google",
         "nickname": "Мирослава",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 19,
         "updatedAt": "2021-09-13 21:46:20"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 184,
-        "updatedAt": "2021-09-13 21:04:57"
     }
 }
