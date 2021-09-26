@@ -1,4 +1,10 @@
 {
+    "106107989792957993574-google": {
+        "id": "106107989792957993574-google",
+        "nickname": "Мирослава",
+        "booksCount": 0,
+        "updatedAt": "2021-09-26 14:40:31"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 184,
         "updatedAt": "2021-09-13 21:04:57"
-    },
-    "118049897850017649660-googleplus": {
-        "id": "118049897850017649660-googleplus",
-        "nickname": "Sky",
-        "booksCount": 209,
-        "updatedAt": "2021-09-13 09:49:57"
     }
 }
