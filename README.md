@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>294</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>184</sup> 
 
 
-_26.09.2021 14:40:32_
+_26.09.2021 14:56:17_
