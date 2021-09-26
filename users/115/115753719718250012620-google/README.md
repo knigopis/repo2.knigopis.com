@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>293</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>294</sup>
 ---
 
 ## 2021
+
+### Sony. Сделано в Японии
+Акио Морита
+> [2021-09-25] 
+
 
 ### Путешествия во времени. История
 Джеймс Глик

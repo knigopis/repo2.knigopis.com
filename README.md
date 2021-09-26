@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>294</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>82</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>85</sup> 
 [](users/100/100404933895137497570-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>184</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>209</sup> 
-[Akvilion](users/111/111710291773782685376-google)<sup>0</sup> 
 
 
-_25.09.2021 23:22:18_
+_26.09.2021 05:18:10_
