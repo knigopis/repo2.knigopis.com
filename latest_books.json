@@ -1,4 +1,16 @@
 {
+    "94ZUDTFaJy": {
+        "id": "94ZUDTFaJy",
+        "title": "Філософія впевненості в собі",
+        "author": "Шарль Пепен",
+        "notes": "",
+        "createdAt": "2021-09-27 13:45:13",
+        "user": {
+            "id": "106107989792957993574-google",
+            "nickname": "Мирослава",
+            "booksCount": 12
+        }
+    },
     "te_PzNgkNo": {
         "id": "te_PzNgkNo",
         "title": "Всадник без головы",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 83
-        }
-    },
-    "CP4zp4EGpb": {
-        "id": "CP4zp4EGpb",
-        "title": "Война и мир",
-        "author": "Л. Н. Толстой",
-        "notes": "",
-        "createdAt": "2021-09-23 04:08:43",
-        "user": {
-            "id": "108667673949731191831-google",
-            "nickname": "Katerina Sl.",
-            "booksCount": 1
         }
     }
 }
