@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
@@ -30,7 +31,6 @@
 * Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>299</sup>
 * Как писать книги ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>44</sup>
 *  ~ [Evermind](users/302/302928912-vkontakte)<sup>58</sup>
-* Господин маг (серия ?книг) ~ [dromoman2008](users/444/44461886-yandex)<sup>60</sup>
 
 
-_25.09.2021 23:22:18_
+_27.09.2021 19:29:50_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
+    > Очень интересная книга, читается почти на одном дыхании. Рассказывает множество разных фактов про христианство и масонство.
+
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
     > Мне надоел до безумия. Ни слова о действительности
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
-    > 9/10 Перед вбивством лорда відбувається  жарт з перевдяганням, співпадіння?
 
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
 
-* Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>20</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>294</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vibobukh](users/109/109844475830298727911-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>19</sup> 
 
 
-_27.09.2021 13:57:42_
+_27.09.2021 19:29:50_
