@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мирослава](users/106/106107989792957993574-google)<sup>21</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>147</sup> 
 [eva](users/111/111656270551033014778-google)<sup>104</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
-[Мирослава](users/106/106107989792957993574-google)<sup>20</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>294</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>82</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 
 
-_28.09.2021 09:28:35_
+_28.09.2021 10:29:14_
