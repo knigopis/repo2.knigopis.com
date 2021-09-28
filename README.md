@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
+    > Кайф
+
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
     > Очень интересная книга, читается почти на одном дыхании. Рассказывает множество разных фактов про христианство и масонство.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мне надоел до безумия. Ни слова о действительности
 
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
-    > audio
 
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
 
-* Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[eva](users/111/111656270551033014778-google)<sup>103</sup> 
+[eva](users/111/111656270551033014778-google)<sup>104</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>20</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 
 
-_28.09.2021 08:05:52_
+_28.09.2021 08:06:14_
