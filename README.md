@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[eva](users/111/111656270551033014778-google)<sup>100</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>20</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 [vibobukh](users/109/109844475830298727911-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup> 
 
 
-_27.09.2021 19:29:50_
+_28.09.2021 08:04:05_
