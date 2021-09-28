@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
+    > 2021.01.26
+
 * Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
     > Кайф
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень интересная книга, читается почти на одном дыхании. Рассказывает множество разных фактов про христианство и масонство.
 
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
-    > Мне надоел до безумия. Ни слова о действительности
 
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
 
-* 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>147</sup> 
 [eva](users/111/111656270551033014778-google)<sup>104</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>20</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>34</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>876</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>146</sup> 
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>105</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 
 
-_28.09.2021 08:06:14_
+_28.09.2021 09:28:35_

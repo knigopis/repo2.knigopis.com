@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>146</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>147</sup>
 ---
 
 ## 2021
+
+### Фауст
+Иоганн Вольфганг Гете
+> [2021-09-28] 2021.01.26
+
 
 ### Схождение на ринг
 Роберт Ирвин Говард
