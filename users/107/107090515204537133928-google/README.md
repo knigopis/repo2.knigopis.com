@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>147</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>148</sup>
 ---
 
 ## 2021
+
+### Голос в ночи
+Уильям Хоуп Ходжсон
+> [2021-09-29] 
+
 
 ### Фауст
 Иоганн Вольфганг Гете
