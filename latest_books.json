@@ -1,4 +1,16 @@
 {
+    "qzMTk7IGpx": {
+        "id": "qzMTk7IGpx",
+        "title": "Донбасс в огне. Хроника нелбъявленной войны. Апрель-сентябрь 2014",
+        "author": "Виктор Северский",
+        "notes": "",
+        "createdAt": "2021-09-29 09:32:03",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 115
+        }
+    },
     "VT7XEKfKyX": {
         "id": "VT7XEKfKyX",
         "title": "Диагностика кармы. Чистая карма Книга 2",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "Мирослава",
             "booksCount": 11
-        }
-    },
-    "1y0MvwbMCm": {
-        "id": "1y0MvwbMCm",
-        "title": "Стівен Р. Кові",
-        "author": "7 Звичок Надзвичайно Ефективних Людей",
-        "notes": "",
-        "createdAt": "2021-09-27 13:43:29",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "Мирослава",
-            "booksCount": 10
         }
     }
 }
