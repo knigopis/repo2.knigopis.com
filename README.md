@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ущелье дьявола ~ [Euphoria](users/106/106304994652616315178-google)<sup>84</sup>
+    > Самуил Гельб, Юлиус и Христина в центре событий. Печальный исход книги.
+
 * Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
     > 2021.01.26
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кайф
 
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
-    > Очень интересная книга, читается почти на одном дыхании. Рассказывает множество разных фактов про христианство и масонство.
 
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
 
-* Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>148</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>105</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>27</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>105</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>83</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>114</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 
 
-_29.09.2021 06:26:21_
+_29.09.2021 07:25:01_
