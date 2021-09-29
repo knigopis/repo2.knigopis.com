@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>149</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>148</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>105</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>27</sup> 
 [eva](users/111/111656270551033014778-google)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>66</sup> 
 
 
-_29.09.2021 07:25:01_
+_29.09.2021 07:50:07_
