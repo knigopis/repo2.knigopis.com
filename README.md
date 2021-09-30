@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тот, кто живёт в колодце ~ [Chiffi](users/105/105831994080785626680-google)<sup>306</sup>
+    > Интересно, но чересчур много мистики. И конец, как будто не дописали несколько страниц. Буду ждать продолжения
+
 * Ущелье дьявола ~ [Euphoria](users/106/106304994652616315178-google)<sup>84</sup>
     > Самуил Гельб, Юлиус и Христина в центре событий. Печальный исход книги.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 2021.01.26
 
 * Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
-    > Кайф
 
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
 
-* 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>306</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>151</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>305</sup> 
 [](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 
 
-_30.09.2021 09:38:46_
+_30.09.2021 15:47:23_
