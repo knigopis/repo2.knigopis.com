@@ -1,4 +1,10 @@
 {
+    "387592938-vkontakte": {
+        "id": "387592938-vkontakte",
+        "nickname": "artem malafeev",
+        "booksCount": 0,
+        "updatedAt": "2021-09-30 07:28:34"
+    },
     "111656270551033014778-google": {
         "id": "111656270551033014778-google",
         "nickname": "eva",
@@ -172,11 +178,5 @@
         "nickname": "thelamon",
         "booksCount": 0,
         "updatedAt": "2021-09-17 07:41:07"
-    },
-    "109844475830298727911-google": {
-        "id": "109844475830298727911-google",
-        "nickname": "vibobukh",
-        "booksCount": 0,
-        "updatedAt": "2021-09-16 09:58:34"
     }
 }
