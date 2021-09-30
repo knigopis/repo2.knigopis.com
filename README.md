@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>151</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>150</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>115</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 
 
-_30.09.2021 07:28:34_
+_30.09.2021 09:38:46_
