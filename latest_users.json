@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 106,
+        "updatedAt": "2021-09-30 21:42:16"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -124,12 +130,6 @@
         "nickname": "Bishop",
         "booksCount": 0,
         "updatedAt": "2021-09-23 17:28:49"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 105,
-        "updatedAt": "2021-09-23 16:20:15"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",

@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>105</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>106</sup>
 ---
 
 ## 2021
+
+### Хризантема и меч
+Рут Бенедикт
+> [2021-09-30] 
+
 
 ### Культурная конфигурация
 Кребер
