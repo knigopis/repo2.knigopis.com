@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>307</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>151</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
-[thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 
 
-_30.09.2021 15:47:45_
+_30.09.2021 17:26:11_
