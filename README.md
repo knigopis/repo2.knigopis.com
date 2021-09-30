@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>150</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>115</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
-[vibobukh](users/109/109844475830298727911-google)<sup>0</sup> 
 
 
-_29.09.2021 20:47:48_
+_30.09.2021 07:28:34_
