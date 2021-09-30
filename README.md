@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тора (пять книг) ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup>
+    > 4/10 Длинный и запутанный текст.
+
 * Секретное досье 8. Память камея ~ [Chiffi](users/105/105831994080785626680-google)<sup>307</sup>
     > Достаточное неплохое продолжение сери. Новые лица. Хорошо что не было Саши и Войтеха.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересно, но чересчур много мистики. И конец, как будто не дописали несколько страниц. Буду ждать продолжения
 
 * Ущелье дьявола ~ [Euphoria](users/106/106304994652616315178-google)<sup>84</sup>
-    > Самуил Гельб, Юлиус и Христина в центре событий. Печальный исход книги.
 
 * Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
 
-* Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup> 
 [Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>307</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>151</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup> 
 [](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
 
 
-_30.09.2021 17:26:11_
+_30.09.2021 20:21:26_

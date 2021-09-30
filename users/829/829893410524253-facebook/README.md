@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>214</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>215</sup>
 ---
 
 ## 2021
+
+### Тора (пять книг)
+Коллектив авторов/Фольклор
+> [2021-09-30] 4/10 Длинный и запутанный текст.
+
 
 ### Смерть лорда Еджвера
 Аґата Крісті
