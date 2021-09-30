@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Секретное досье 8. Память камея ~ [Chiffi](users/105/105831994080785626680-google)<sup>307</sup>
+    > Достаточное неплохое продолжение сери. Новые лица. Хорошо что не было Саши и Войтеха.
+
 * Тот, кто живёт в колодце ~ [Chiffi](users/105/105831994080785626680-google)<sup>306</sup>
     > Интересно, но чересчур много мистики. И конец, как будто не дописали несколько страниц. Буду ждать продолжения
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Самуил Гельб, Юлиус и Христина в центре событий. Печальный исход книги.
 
 * Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
-    > 2021.01.26
 
 * Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
 
-* Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>306</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>307</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>151</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thelamon](users/111/111415970638883668399-google)<sup>0</sup> 
 
 
-_30.09.2021 15:47:23_
+_30.09.2021 15:47:45_
