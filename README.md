@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110108278789076439525-google)<sup>11</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>106</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup> 
 [Argus](users/104/104589481690203844799-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
-[neokchan](users/113/113179958976964886996-google)<sup>67</sup> 
 
 
-_30.09.2021 21:42:16_
+_01.10.2021 06:28:02_

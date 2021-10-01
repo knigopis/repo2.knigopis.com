@@ -1,4 +1,16 @@
 {
+    "djwcWPCexT": {
+        "id": "djwcWPCexT",
+        "title": "В партнерстве с ребёнком",
+        "author": "Росс Грин",
+        "notes": "",
+        "createdAt": "2021-10-01 06:28:02",
+        "user": {
+            "id": "110108278789076439525-google",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "9csggwmfCo": {
         "id": "9csggwmfCo",
         "title": "Хризантема и меч",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "Мирослава",
             "booksCount": 19
-        }
-    },
-    "fUTuhOs8s6": {
-        "id": "fUTuhOs8s6",
-        "title": "Самотність у мережі",
-        "author": "Януш Леон Вишневський",
-        "notes": "",
-        "createdAt": "2021-09-27 13:54:56",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "Мирослава",
-            "booksCount": 18
         }
     }
 }

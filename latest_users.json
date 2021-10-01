@@ -1,4 +1,10 @@
 {
+    "110108278789076439525-google": {
+        "id": "110108278789076439525-google",
+        "nickname": null,
+        "booksCount": 11,
+        "updatedAt": "2021-10-01 06:28:02"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -172,11 +178,5 @@
         "nickname": "Evermind",
         "booksCount": 59,
         "updatedAt": "2021-09-18 20:56:47"
-    },
-    "113179958976964886996-google": {
-        "id": "113179958976964886996-google",
-        "nickname": "neokchan",
-        "booksCount": 67,
-        "updatedAt": "2021-09-18 11:32:47"
     }
 }
