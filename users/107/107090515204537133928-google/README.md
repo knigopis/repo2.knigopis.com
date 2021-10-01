@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>151</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>152</sup>
 ---
 
 ## 2021
+
+### Размышления о религии
+Марк Твен
+> [2021-10-01] 
+
 
 ### Побег из Шоушенка
 Стивен Кинг
