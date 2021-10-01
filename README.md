@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 [](users/110/110108278789076439525-google)<sup>10</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>106</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>105</sup> 
-[Мирослава](users/106/106107989792957993574-google)<sup>27</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>294</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 
 
-_01.10.2021 06:28:10_
+_01.10.2021 14:32:09_
