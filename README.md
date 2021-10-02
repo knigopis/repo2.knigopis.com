@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>877</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>152</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>308</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100404933895137497570-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>34</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>52</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>876</sup> 
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 
 
-_01.10.2021 18:09:26_
+_02.10.2021 12:21:23_
