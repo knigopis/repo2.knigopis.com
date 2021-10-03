@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>52</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>309</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>878</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>152</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
-[](users/153/1537586159620888-facebook)<sup>51</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 
 
-_03.10.2021 10:35:29_
+_03.10.2021 19:25:35_
