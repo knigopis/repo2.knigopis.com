@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>877</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>878</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>152</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>308</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 
 
-_02.10.2021 12:21:23_
+_03.10.2021 10:23:54_
