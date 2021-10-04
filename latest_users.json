@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 19,
+        "updatedAt": "2021-10-04 06:09:47"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Argus",
         "booksCount": 0,
         "updatedAt": "2021-09-20 16:26:20"
-    },
-    "113848823251983069565-google": {
-        "id": "113848823251983069565-google",
-        "nickname": "Morgana",
-        "booksCount": 0,
-        "updatedAt": "2021-09-19 08:31:19"
     }
 }
