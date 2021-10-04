@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 170,
+        "updatedAt": "2021-10-04 02:30:22"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Morgana",
         "booksCount": 0,
         "updatedAt": "2021-09-19 08:31:19"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "Evermind",
-        "booksCount": 59,
-        "updatedAt": "2021-09-18 20:56:47"
     }
 }

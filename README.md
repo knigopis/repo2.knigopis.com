@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>170</sup> 
 [](users/153/1537586159620888-facebook)<sup>52</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>309</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>878</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
 [Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 [Morgana](users/113/113848823251983069565-google)<sup>0</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>59</sup> 
 
 
-_03.10.2021 19:25:35_
+_04.10.2021 02:30:22_
