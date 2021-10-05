@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Алексей](users/524/524909550-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>879</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>19</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>170</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
-[Argus](users/104/104589481690203844799-googleplus)<sup>0</sup> 
 
 
-_04.10.2021 18:52:29_
+_05.10.2021 22:42:24_
