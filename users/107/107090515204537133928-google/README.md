@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>152</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>153</sup>
 ---
 
 ## 2021
+
+### Зеленая миля
+Стивен Кинг
+> [2021-10-07] 
+
 
 ### Размышления о религии
 Марк Твен
