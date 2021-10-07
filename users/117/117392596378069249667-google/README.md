@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>105</sup>
+# List of books read by 4apa<sup>106</sup>
 ---
 
 ## 2021
+
+### Блуждающая Земля
+Лю Цысинь
+> [2021-10-07] 
+
 
 ### Оттепель. События
 С. Чупринин
