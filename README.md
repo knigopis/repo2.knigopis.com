@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
+    > Бабкин и Илюшин 9. Перечитываю. Хорошо описан маньяк
+
 * Улыбка пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>309</sup>
     > Илюшин и Бабкин 9. «Они смотрят друг на друга, А должны смотреть в одну сторону». «Но тогда кто-то один обязательно станет таращиться в затылок другому!» — в запальчивости возразила я, и она рассмеялась: «Бедная девочка… Им ведь не обязательно поворачивать голову направо или налево, правда? Они могут стоять рядом и смотреть вперед. Но для этого нужно, чтобы они были похожими».
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Илюшин и Бабкин 8. Большинство людей, если не давать им времени на размышления, принимают верные решения».
 
 * Тора (пять книг) ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup>
-    > 4/10 Длинный и запутанный текст.
 
 * Секретное досье 8. Память камея ~ [Chiffi](users/105/105831994080785626680-google)<sup>307</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
 
-* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>310</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>106</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>153</sup> 
 [](users/153/1537586159620888-facebook)<sup>53</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>879</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>19</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>170</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>309</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 [](users/110/110108278789076439525-google)<sup>10</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>106</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
 
 
-_07.10.2021 06:51:50_
+_07.10.2021 16:09:26_
