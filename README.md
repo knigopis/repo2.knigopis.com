@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>311</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>106</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>153</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup> 
 [Katerina Sl.](users/108/108667673949731191831-google)<sup>1</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>168</sup> 
 
 
-_07.10.2021 16:12:03_
+_07.10.2021 16:41:16_
