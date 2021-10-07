@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>310</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>311</sup>
 ---
 
 ## 2021
+
+### Манускрипт дьявола
+Михалкова Елена
+> [2021-10-10] 
+
 
 ### Дудочка крысолова
 Михалкова Елена
