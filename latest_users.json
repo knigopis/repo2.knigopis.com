@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 150,
+        "updatedAt": "2021-10-08 22:23:34"
+    },
     "111979096949326447879-google": {
         "id": "111979096949326447879-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Bishop",
         "booksCount": 0,
         "updatedAt": "2021-09-23 17:28:49"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 46,
-        "updatedAt": "2021-09-23 15:06:17"
     }
 }

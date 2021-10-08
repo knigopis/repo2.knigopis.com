@@ -1,4 +1,16 @@
 {
+    "sDW3IIf2O3": {
+        "id": "sDW3IIf2O3",
+        "title": "Скрытые мотивы",
+        "author": "Анджела Ахола",
+        "notes": "",
+        "createdAt": "2021-10-08 22:23:34",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 150
+        }
+    },
     "NUO2b3REgw": {
         "id": "NUO2b3REgw",
         "title": "Манускрипт дьявола",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 105
-        }
-    },
-    "AA_G8Qfcj2": {
-        "id": "AA_G8Qfcj2",
-        "title": "Зимняя шапка",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2021-09-28 14:33:53",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "Мирослава",
-            "booksCount": 27
         }
     }
 }
