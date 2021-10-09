@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>107</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>150</sup> 
 [](users/111/111979096949326447879-google)<sup>0</sup> 
 [endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>311</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>106</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>153</sup> 
 [](users/153/1537586159620888-facebook)<sup>53</sup> 
 [Алексей](users/524/524909550-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 
 
-_08.10.2021 22:23:34_
+_09.10.2021 14:36:12_

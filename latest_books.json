@@ -1,4 +1,16 @@
 {
+    "1M1F8w3H3k": {
+        "id": "1M1F8w3H3k",
+        "title": "Полдень XXII век",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:36:12",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 107
+        }
+    },
     "sDW3IIf2O3": {
         "id": "sDW3IIf2O3",
         "title": "Скрытые мотивы",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 148
-        }
-    },
-    "cFleTo45y9": {
-        "id": "cFleTo45y9",
-        "title": "Оттепель. События",
-        "author": "С. Чупринин",
-        "notes": "",
-        "createdAt": "2021-09-29 06:16:18",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 105
         }
     }
 }
