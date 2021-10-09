@@ -1,4 +1,16 @@
 {
+    "ESjxGUxOzQ": {
+        "id": "ESjxGUxOzQ",
+        "title": "Пикник на обочине",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:44:14",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 119
+        }
+    },
     "R7-btdaFF_": {
         "id": "R7-btdaFF_",
         "title": "Малыш",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "Мирослава",
             "booksCount": 28
-        }
-    },
-    "djwcWPCexT": {
-        "id": "djwcWPCexT",
-        "title": "В партнерстве с ребёнком",
-        "author": "Росс Грин",
-        "notes": "",
-        "createdAt": "2021-10-01 06:28:02",
-        "user": {
-            "id": "110108278789076439525-google",
-            "nickname": null,
-            "booksCount": 11
         }
     }
 }
