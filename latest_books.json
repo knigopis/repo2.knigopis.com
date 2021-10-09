@@ -1,4 +1,16 @@
 {
+    "DYSN7i4_GV": {
+        "id": "DYSN7i4_GV",
+        "title": "Стажёры",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:37:23",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 108
+        }
+    },
     "1M1F8w3H3k": {
         "id": "1M1F8w3H3k",
         "title": "Полдень XXII век",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 84
-        }
-    },
-    "0NNjmMegQS": {
-        "id": "0NNjmMegQS",
-        "title": "Голос в ночи",
-        "author": "Уильям Хоуп Ходжсон",
-        "notes": "",
-        "createdAt": "2021-09-29 06:26:21",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 148
         }
     }
 }
