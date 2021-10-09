@@ -1,4 +1,16 @@
 {
+    "I8WDPn_-v1": {
+        "id": "I8WDPn_-v1",
+        "title": "Парень из преисподней",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:44:40",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 120
+        }
+    },
     "ESjxGUxOzQ": {
         "id": "ESjxGUxOzQ",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 308
-        }
-    },
-    "9I-BlZHg9L": {
-        "id": "9I-BlZHg9L",
-        "title": "Купи собі той довбаний букет",
-        "author": "Тара Шустер",
-        "notes": "",
-        "createdAt": "2021-10-01 14:32:09",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "Мирослава",
-            "booksCount": 28
         }
     }
 }
