@@ -1,4 +1,16 @@
 {
+    "7xzg_rQG4c": {
+        "id": "7xzg_rQG4c",
+        "title": "Трудно быть богом",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:40:02",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 111
+        }
+    },
     "b343oRr9z-": {
         "id": "b343oRr9z-",
         "title": "Далекая Радуга",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 115
-        }
-    },
-    "VT7XEKfKyX": {
-        "id": "VT7XEKfKyX",
-        "title": "Диагностика кармы. Чистая карма Книга 2",
-        "author": "Лазарев С.Н.",
-        "notes": "",
-        "createdAt": "2021-09-29 08:34:12",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 185
         }
     }
 }
