@@ -1,4 +1,16 @@
 {
+    "hzu-V40I-P": {
+        "id": "hzu-V40I-P",
+        "title": "Волны гасят ветер",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:46:04",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 123
+        }
+    },
     "CQqOJL_zMl": {
         "id": "CQqOJL_zMl",
         "title": "Повесть о дружбе и недружбе",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 878
-        }
-    },
-    "JDu0eq_x9l": {
-        "id": "JDu0eq_x9l",
-        "title": "Дело о бархатных когтях",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2021-10-02 12:21:23",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 877
         }
     }
 }
