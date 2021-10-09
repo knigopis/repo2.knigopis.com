@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[4apa](users/117/117392596378069249667-google)<sup>123</sup> 
+[4apa](users/117/117392596378069249667-google)<sup>124</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>150</sup> 
 [](users/111/111979096949326447879-google)<sup>0</sup> 
 [endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 
 
-_09.10.2021 14:46:04_
+_09.10.2021 14:46:27_

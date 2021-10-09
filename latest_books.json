@@ -1,4 +1,16 @@
 {
+    "XXGARrotGU": {
+        "id": "XXGARrotGU",
+        "title": "Жук в муравейнике",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:46:27",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 124
+        }
+    },
     "hzu-V40I-P": {
         "id": "hzu-V40I-P",
         "title": "Волны гасят ветер",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 309
-        }
-    },
-    "ZjDeejQunY": {
-        "id": "ZjDeejQunY",
-        "title": "Дело обиженной девушки",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2021-10-03 10:23:54",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 878
         }
     }
 }
