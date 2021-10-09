@@ -1,4 +1,16 @@
 {
+    "3KHZW6QCUa": {
+        "id": "3KHZW6QCUa",
+        "title": "Хищные вещи века",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:41:03",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 113
+        }
+    },
     "XpbKuL5uKT": {
         "id": "XpbKuL5uKT",
         "title": "Понедельник начинается в субботу",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 105
-        }
-    },
-    "9XBS2y0z7c": {
-        "id": "9XBS2y0z7c",
-        "title": "За пределами бури",
-        "author": "Уильям Хоуп Ходжсон",
-        "notes": "",
-        "createdAt": "2021-09-29 15:42:31",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 150
         }
     }
 }
