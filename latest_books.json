@@ -1,4 +1,28 @@
 {
+    "WnmIC1v1qC": {
+        "id": "WnmIC1v1qC",
+        "title": "Отель У погибшего альпиниста",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:43:18",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 120
+        }
+    },
+    "EiXKZxMBDb": {
+        "id": "EiXKZxMBDb",
+        "title": "Отель \"У погибшего альпиниста\"",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:42:53",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 119
+        }
+    },
     "xjU3Z0hXJ0": {
         "id": "xjU3Z0hXJ0",
         "title": "Обитаемый остров",
@@ -333,30 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 106
-        }
-    },
-    "4C_q0K25TG": {
-        "id": "4C_q0K25TG",
-        "title": "Тора (пять книг)",
-        "author": "Коллектив авторов/Фольклор",
-        "notes": "4/10 Длинный и запутанный текст.",
-        "createdAt": "2021-09-30 20:21:26",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 215
-        }
-    },
-    "YZYXNAY7Ha": {
-        "id": "YZYXNAY7Ha",
-        "title": "Секретное досье 8. Память камея",
-        "author": "Обухова Лена",
-        "notes": "Достаточное неплохое продолжение сери. Новые лица. Хорошо что не было Саши и Войтеха.",
-        "createdAt": "2021-09-30 15:47:45",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 307
         }
     }
 }
