@@ -1,4 +1,16 @@
 {
+    "XpbKuL5uKT": {
+        "id": "XpbKuL5uKT",
+        "title": "Понедельник начинается в субботу",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2021-10-09 14:40:37",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 112
+        }
+    },
     "7xzg_rQG4c": {
         "id": "7xzg_rQG4c",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 150
-        }
-    },
-    "qzMTk7IGpx": {
-        "id": "qzMTk7IGpx",
-        "title": "Донбасс в огне. Хроника нелбъявленной войны. Апрель-сентябрь 2014",
-        "author": "Виктор Северский",
-        "notes": "",
-        "createdAt": "2021-09-29 09:32:03",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 115
         }
     }
 }
