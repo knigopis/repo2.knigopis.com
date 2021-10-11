@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
+    > Бабкин и Илюшин 12. для умного человека лучшее развлечение – это наблюдение за другими людьми.
+
 * Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
     > Бабкин и Илюшин 9. Перечитываю. Хорошо описан маньяк
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Илюшин и Бабкин 9. «Они смотрят друг на друга, А должны смотреть в одну сторону». «Но тогда кто-то один обязательно станет таращиться в затылок другому!» — в запальчивости возразила я, и она рассмеялась: «Бедная девочка… Им ведь не обязательно поворачивать голову направо или налево, правда? Они могут стоять рядом и смотреть вперед. Но для этого нужно, чтобы они были похожими».
 
 * Танцы марионеток ~ [Chiffi](users/105/105831994080785626680-google)<sup>308</sup>
-    > Илюшин и Бабкин 8. Большинство людей, если не давать им времени на размышления, принимают верные решения».
 
 * Тора (пять книг) ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
 
-* Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>125</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>150</sup> 
 [](users/111/111979096949326447879-google)<sup>0</sup> 
 [endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>311</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>153</sup> 
 [](users/153/1537586159620888-facebook)<sup>53</sup> 
 [Алексей](users/524/524909550-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 
 
-_09.10.2021 14:46:49_
+_11.10.2021 18:40:39_
