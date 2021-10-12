@@ -1,4 +1,16 @@
 {
+    "g2f2LY9G23": {
+        "id": "g2f2LY9G23",
+        "title": "Дело любопытной невесты",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2021-10-12 15:23:07",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 881
+        }
+    },
     "-eG7rLej6Y": {
         "id": "-eG7rLej6Y",
         "title": "Дело о воющей собаке",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 879
-        }
-    },
-    "46RudOmP4u": {
-        "id": "46RudOmP4u",
-        "title": "Ведьма для короля",
-        "author": "Ольга Истомина",
-        "notes": "",
-        "createdAt": "2021-10-04 06:09:47",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 19
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>880</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>881</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>125</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>150</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 
 
-_12.10.2021 15:22:20_
+_12.10.2021 15:23:07_
