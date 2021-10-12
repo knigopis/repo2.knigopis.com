@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>116</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>171</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>882</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>115</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bishop](users/585/585beafacefdc531-liveid)<sup>0</sup> 
 
 
-_12.10.2021 19:09:00_
+_12.10.2021 19:57:04_
