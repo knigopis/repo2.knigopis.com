@@ -1,4 +1,10 @@
 {
+    "6759993668976819705-mailru": {
+        "id": "6759993668976819705-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-10-14 05:47:07"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Пу_тем",
         "booksCount": 34,
         "updatedAt": "2021-09-24 19:16:01"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 52,
-        "updatedAt": "2021-09-24 03:04:11"
     }
 }
