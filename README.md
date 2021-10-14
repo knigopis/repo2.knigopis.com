@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/675/6759993668976819705-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>883</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>116</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>116</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>85</sup> 
 [](users/100/100404933895137497570-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>34</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>52</sup> 
 
 
-_13.10.2021 17:36:47_
+_14.10.2021 05:47:08_
