@@ -1,4 +1,16 @@
 {
+    "h_cNgn0-tZ": {
+        "id": "h_cNgn0-tZ",
+        "title": "Ведьмак",
+        "author": "Сапковский",
+        "notes": "",
+        "createdAt": "2021-10-14 05:47:35",
+        "user": {
+            "id": "6759993668976819705-mailru",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "4i3X-EBS7G": {
         "id": "4i3X-EBS7G",
         "title": "Дело о кошке смотрителя",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 150
-        }
-    },
-    "NUO2b3REgw": {
-        "id": "NUO2b3REgw",
-        "title": "Манускрипт дьявола",
-        "author": "Михалкова Елена",
-        "notes": "",
-        "createdAt": "2021-10-07 16:12:03",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 311
         }
     }
 }
