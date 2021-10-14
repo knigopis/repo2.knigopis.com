@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
+    > Вроде и детская, но местами очень глубокая книга. В конце грустная.
+
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
     > Бабкин и Илюшин 12. для умного человека лучшее развлечение – это наблюдение за другими людьми.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бабкин и Илюшин 9. Перечитываю. Хорошо описан маньяк
 
 * Улыбка пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>309</sup>
-    > Илюшин и Бабкин 9. «Они смотрят друг на друга, А должны смотреть в одну сторону». «Но тогда кто-то один обязательно станет таращиться в затылок другому!» — в запальчивости возразила я, и она рассмеялась: «Бедная девочка… Им ведь не обязательно поворачивать голову направо или налево, правда? Они могут стоять рядом и смотреть вперед. Но для этого нужно, чтобы они были похожими».
 
 * Танцы марионеток ~ [Chiffi](users/105/105831994080785626680-google)<sup>308</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
 
-* Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>295</sup> 
 [](users/675/6759993668976819705-mailru)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>883</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>116</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>294</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>82</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>85</sup> 
 [](users/100/100404933895137497570-google)<sup>0</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>34</sup> 
 
 
-_14.10.2021 05:47:35_
+_14.10.2021 17:20:25_
