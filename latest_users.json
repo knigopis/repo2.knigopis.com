@@ -1,4 +1,10 @@
 {
+    "378919644-vkontakte": {
+        "id": "378919644-vkontakte",
+        "nickname": "julievern",
+        "booksCount": 0,
+        "updatedAt": "2021-10-14 21:15:42"
+    },
     "3207576862804245-facebook": {
         "id": "3207576862804245-facebook",
         "nickname": "Сказочник",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 85,
         "updatedAt": "2021-09-24 21:10:19"
-    },
-    "100404933895137497570-google": {
-        "id": "100404933895137497570-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-09-24 21:03:51"
     }
 }
