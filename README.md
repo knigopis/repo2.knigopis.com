@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>884</sup> 
 [](users/110/110108278789076439525-google)<sup>11</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>85</sup> 
 
 
-_15.10.2021 19:40:44_
+_15.10.2021 21:42:55_
