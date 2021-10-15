@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>83</sup> 
 [julievern](users/378/378919644-vkontakte)<sup>0</sup> 
 [Сказочник](users/320/3207576862804245-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>295</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 [Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>82</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>85</sup> 
 
 
-_14.10.2021 21:15:43_
+_15.10.2021 15:25:02_
