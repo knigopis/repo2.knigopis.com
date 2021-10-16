@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>151</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>885</sup> 
 [ArtemOlegovich111](users/141/1416013121-yandex)<sup>0</sup> 
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>171</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>125</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>150</sup> 
 [](users/111/111979096949326447879-google)<sup>0</sup> 
 [endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>153</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
 
 
-_16.10.2021 15:40:44_
+_16.10.2021 19:20:57_
