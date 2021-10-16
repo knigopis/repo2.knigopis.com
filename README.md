@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>151</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>885</sup> 
 [ArtemOlegovich111](users/141/1416013121-yandex)<sup>0</sup> 
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 [](users/110/110108278789076439525-google)<sup>11</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>83</sup> 
 [julievern](users/378/378919644-vkontakte)<sup>0</sup> 
 [Сказочник](users/320/3207576862804245-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>295</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 
 
-_16.10.2021 21:07:46_
+_16.10.2021 22:47:31_
