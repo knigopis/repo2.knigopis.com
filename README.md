@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ArtemOlegovich111](users/141/1416013121-yandex)<sup>0</sup> 
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>884</sup> 
 [](users/110/110108278789076439525-google)<sup>11</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>91</sup> 
-[Мария ](users/370/3707684412667781-facebook)<sup>0</sup> 
 
 
-_15.10.2021 21:42:55_
+_16.10.2021 12:23:59_
