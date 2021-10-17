@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>295</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>296</sup>
 ---
 
 ## 2021
+
+### Прерванная жизнь
+Сюзанна Кейсен
+> [2021-10-17] 
+
 
 ### Шляпа, полная неба
 Пратчетт, Терри

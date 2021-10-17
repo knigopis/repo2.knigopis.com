@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>887</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110108278789076439525-google)<sup>11</sup> 
 [julievern](users/378/378919644-vkontakte)<sup>0</sup> 
 [Сказочник](users/320/3207576862804245-facebook)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>295</sup> 
 [](users/675/6759993668976819705-mailru)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>116</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>116</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 
 
-_17.10.2021 15:51:29_
+_17.10.2021 15:51:52_
