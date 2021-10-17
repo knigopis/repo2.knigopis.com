@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>886</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>887</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 
 
-_17.10.2021 15:19:55_
+_17.10.2021 15:51:29_
