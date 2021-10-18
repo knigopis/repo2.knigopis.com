@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>888</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>172</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>887</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 
 
-_18.10.2021 17:31:21_
+_18.10.2021 18:05:10_
