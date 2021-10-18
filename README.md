@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>887</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>84</sup> 
 
 
-_17.10.2021 15:51:52_
+_18.10.2021 08:55:12_
