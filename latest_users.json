@@ -1,4 +1,10 @@
 {
+    "55867477-vkontakte": {
+        "id": "55867477-vkontakte",
+        "nickname": "kirillvotix",
+        "booksCount": 0,
+        "updatedAt": "2021-10-18 08:55:11"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 185,
         "updatedAt": "2021-09-29 08:34:12"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 84,
-        "updatedAt": "2021-09-29 07:25:01"
     }
 }
