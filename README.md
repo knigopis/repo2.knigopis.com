@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>172</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>887</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/675/6759993668976819705-mailru)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>116</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>116</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>171</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>125</sup> 
 [](users/111/111979096949326447879-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 
 
-_18.10.2021 08:55:12_
+_18.10.2021 17:31:21_
