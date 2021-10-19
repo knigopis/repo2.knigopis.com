@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
 * Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
@@ -30,7 +31,6 @@
 * Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
 * Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
-* Рыцарь нашего времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>303</sup>
 
 
-_14.10.2021 17:20:25_
+_19.10.2021 14:30:51_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
+    > 3/10 Мальопис. Діч. Нічьо не понятно, темні кольори, цицьки.
+
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
     > Вроде и детская, но местами очень глубокая книга. В конце грустная.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бабкин и Илюшин 12. для умного человека лучшее развлечение – это наблюдение за другими людьми.
 
 * Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
-    > Бабкин и Илюшин 9. Перечитываю. Хорошо описан маньяк
 
 * Улыбка пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>309</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ущелье дьявола ~ [Euphoria](users/106/106304994652616315178-google)<sup>84</sup>
 
-* Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup> 
 [](users/153/1537586159620888-facebook)<sup>54</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>888</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>172</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>19</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>106</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup> 
 [Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 
 
-_18.10.2021 20:44:33_
+_19.10.2021 14:30:51_

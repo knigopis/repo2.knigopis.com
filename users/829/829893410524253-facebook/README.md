@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>215</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>216</sup>
 ---
 
 ## 2021
+
+### Характерник
+Олексій Чорний, Дарця Зіронька
+> [2021-10-19] 3/10 Мальопис. Діч. Нічьо не понятно, темні кольори, цицьки.
+
 
 ### Тора (пять книг)
 Коллектив авторов/Фольклор
