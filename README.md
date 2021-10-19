@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>889</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup> 
 [](users/153/1537586159620888-facebook)<sup>54</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>888</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>172</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 
 
-_19.10.2021 14:30:51_
+_19.10.2021 19:40:09_
