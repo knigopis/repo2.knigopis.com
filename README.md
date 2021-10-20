@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>889</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>890</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup> 
 [](users/153/1537586159620888-facebook)<sup>54</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>172</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 
 
-_19.10.2021 19:40:09_
+_20.10.2021 15:08:30_
