@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sanya-sin2012](users/181/181853639-yandex)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>890</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>105</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 
 
-_21.10.2021 00:03:42_
+_21.10.2021 16:42:54_
