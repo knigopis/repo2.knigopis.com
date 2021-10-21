@@ -1,4 +1,16 @@
 {
+    "gdxwlb9W9k": {
+        "id": "gdxwlb9W9k",
+        "title": "Прогулка Самый простой источник радости и смысла",
+        "author": "Эрлинг Кагге",
+        "notes": "",
+        "createdAt": "2021-10-21 16:47:39",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 217
+        }
+    },
     "cgmNJZMbZO": {
         "id": "cgmNJZMbZO",
         "title": "Кельтские мифы От Короля Артура и Дейрдре до фейри и друидов",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 125
-        }
-    },
-    "XXGARrotGU": {
-        "id": "XXGARrotGU",
-        "title": "Жук в муравейнике",
-        "author": "Стругацкие",
-        "notes": "",
-        "createdAt": "2021-10-09 14:46:27",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 124
         }
     }
 }
