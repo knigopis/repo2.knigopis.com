@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>216</sup> 
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>890</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>106</sup> 
 [Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 [artem malafeev](users/387/387592938-vkontakte)<sup>0</sup> 
-[eva](users/111/111656270551033014778-google)<sup>105</sup> 
 
 
-_21.10.2021 16:44:30_
+_21.10.2021 16:46:03_

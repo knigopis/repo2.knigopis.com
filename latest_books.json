@@ -1,4 +1,16 @@
 {
+    "cgmNJZMbZO": {
+        "id": "cgmNJZMbZO",
+        "title": "Кельтские мифы От Короля Артура и Дейрдре до фейри и друидов",
+        "author": "Миранда Олдхаус-Грин",
+        "notes": "",
+        "createdAt": "2021-10-21 16:46:03",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 216
+        }
+    },
     "xNjUsJjOuF": {
         "id": "xNjUsJjOuF",
         "title": "Кельтские мифы От Короля Артура и Дейрдре до фейри и друидов",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 124
-        }
-    },
-    "hzu-V40I-P": {
-        "id": "hzu-V40I-P",
-        "title": "Волны гасят ветер",
-        "author": "Стругацкие",
-        "notes": "",
-        "createdAt": "2021-10-09 14:46:04",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 123
         }
     }
 }

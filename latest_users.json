@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 216,
+        "updatedAt": "2021-10-21 16:46:03"
+    },
     "181853639-yandex": {
         "id": "181853639-yandex",
         "nickname": "sanya-sin2012",
@@ -172,11 +178,5 @@
         "nickname": "artem malafeev",
         "booksCount": 0,
         "updatedAt": "2021-09-30 07:28:34"
-    },
-    "111656270551033014778-google": {
-        "id": "111656270551033014778-google",
-        "nickname": "eva",
-        "booksCount": 105,
-        "updatedAt": "2021-09-29 20:47:48"
     }
 }
