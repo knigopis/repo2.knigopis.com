@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
+    > Мне надоел до безумия. Ни слова о действительности
+
 * Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
     > 3/10 Мальопис. Діч. Нічьо не понятно, темні кольори, цицьки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вроде и детская, но местами очень глубокая книга. В конце грустная.
 
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
-    > Бабкин и Илюшин 12. для умного человека лучшее развлечение – это наблюдение за другими людьми.
 
 * Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тот, кто живёт в колодце ~ [Chiffi](users/105/105831994080785626680-google)<sup>306</sup>
 
-* Ущелье дьявола ~ [Euphoria](users/106/106304994652616315178-google)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rainbow](users/109/109787328219839805802-google)<sup>83</sup> 
+[Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>890</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup> 
 [](users/153/1537586159620888-facebook)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>185</sup> 
 
 
-_21.10.2021 00:03:08_
+_21.10.2021 00:03:42_

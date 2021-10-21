@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
 * Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
@@ -14,7 +15,6 @@
 * Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
 * Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
-* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>82</sup>
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
@@ -33,4 +33,4 @@
 * Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
 
 
-_19.10.2021 14:30:51_
+_21.10.2021 00:03:42_
