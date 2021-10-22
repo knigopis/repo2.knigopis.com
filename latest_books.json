@@ -1,4 +1,16 @@
 {
+    "UgwPAstzEx": {
+        "id": "UgwPAstzEx",
+        "title": "Бог как иллюзия",
+        "author": "Ричард Докинз",
+        "notes": "",
+        "createdAt": "2021-10-22 08:14:22",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 76
+        }
+    },
     "gdxwlb9W9k": {
         "id": "gdxwlb9W9k",
         "title": "Прогулка Самый простой источник радости и смысла",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 312
-        }
-    },
-    "0otyKCTp68": {
-        "id": "0otyKCTp68",
-        "title": "Град обреченный",
-        "author": "Стругацкие",
-        "notes": "",
-        "createdAt": "2021-10-09 14:46:49",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 125
         }
     }
 }

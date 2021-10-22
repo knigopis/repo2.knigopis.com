@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 76,
+        "updatedAt": "2021-10-22 08:14:22"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Argus",
         "booksCount": 0,
         "updatedAt": "2021-09-30 17:26:11"
-    },
-    "387592938-vkontakte": {
-        "id": "387592938-vkontakte",
-        "nickname": "artem malafeev",
-        "booksCount": 0,
-        "updatedAt": "2021-09-30 07:28:34"
     }
 }
