@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>19</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>20</sup>
 ---
 
 ## 2021
+
+### Невеста для князя
+Ольга Истомина
+> [2021-10-23] 
+
 
 ### Ведьма для короля
 Ольга Истомина

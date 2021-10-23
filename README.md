@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>76</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>153</sup> 
 [Алексей](users/524/524909550-vkontakte)<sup>0</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>19</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>106</sup> 
 [Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 
 
-_22.10.2021 08:14:22_
+_23.10.2021 13:31:10_

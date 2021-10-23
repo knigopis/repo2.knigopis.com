@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 20,
+        "updatedAt": "2021-10-23 13:31:10"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -154,12 +160,6 @@
         "nickname": "Алексей",
         "booksCount": 0,
         "updatedAt": "2021-10-05 22:42:23"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 19,
-        "updatedAt": "2021-10-04 06:09:47"
     },
     "106107989792957993574-google": {
         "id": "106107989792957993574-google",
