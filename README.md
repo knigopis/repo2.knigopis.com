@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>0</sup> 
+[Cr_RONIN](users/112/112090473416384685204-google)<sup>1</sup> 
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>891</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 
 
-_23.10.2021 20:22:32_
+_23.10.2021 20:45:25_
