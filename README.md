@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>891</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>76</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Алексей](users/524/524909550-vkontakte)<sup>0</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>106</sup> 
-[Argus](users/104/104589481690203844799-google)<sup>0</sup> 
 
 
-_23.10.2021 17:37:32_
+_23.10.2021 19:55:19_
