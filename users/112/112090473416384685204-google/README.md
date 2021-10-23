@@ -1,7 +1,12 @@
-# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>1</sup>
+# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>2</sup>
 ---
 
 ## 2021
+
+### О дивный новый мир
+Олдос Хаксли
+> [2021-10-23] 
+
 
 ### Сидхартха
 Герман Гессе

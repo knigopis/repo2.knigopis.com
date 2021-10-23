@@ -1,4 +1,16 @@
 {
+    "xCHxk9WgdT": {
+        "id": "xCHxk9WgdT",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2021-10-23 20:46:20",
+        "user": {
+            "id": "112090473416384685204-google",
+            "nickname": "Cr_RONIN",
+            "booksCount": 2
+        }
+    },
     "eBq9KEmYzf": {
         "id": "eBq9KEmYzf",
         "title": "Сидхартха",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 171
-        }
-    },
-    "z3eQb_-gVn": {
-        "id": "z3eQb_-gVn",
-        "title": "Дело о фальшивом глазе",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2021-10-12 15:23:43",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 882
         }
     }
 }
