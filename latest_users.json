@@ -1,4 +1,10 @@
 {
+    "112090473416384685204-google": {
+        "id": "112090473416384685204-google",
+        "nickname": "Cr_RONIN",
+        "booksCount": 0,
+        "updatedAt": "2021-10-23 20:22:32"
+    },
     "171983710-vkontakte": {
         "id": "171983710-vkontakte",
         "nickname": "steponyx",
@@ -172,11 +178,5 @@
         "nickname": "Мирослава",
         "booksCount": 28,
         "updatedAt": "2021-10-01 14:32:09"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 106,
-        "updatedAt": "2021-09-30 21:42:16"
     }
 }
