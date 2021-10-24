@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>216</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>217</sup>
 ---
 
 ## 2021
+
+### Ось іде людина
+Александр Ґранах
+> [2021-10-21] 7/10 Автобіографія актора з маленького єврейского містечка.
+
 
 ### Характерник
 Олексій Чорний, Дарця Зіронька

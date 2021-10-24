@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
 * Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
@@ -30,7 +31,6 @@
 * Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
 * Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
 * Она же Грэйc ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>211</sup>
-* Сага о Форсайтах ~ [anvonamore](users/595/5957175-vkontakte)<sup>149</sup>
 
 
-_21.10.2021 00:03:42_
+_24.10.2021 18:52:53_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
+    > 7/10 Автобіографія актора з маленького єврейского містечка.
+
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
     > Мне надоел до безумия. Ни слова о действительности
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3/10 Мальопис. Діч. Нічьо не понятно, темні кольори, цицьки.
 
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
-    > Вроде и детская, но местами очень глубокая книга. В конце грустная.
 
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Секретное досье 8. Память камея ~ [Chiffi](users/105/105831994080785626680-google)<sup>307</sup>
 
-* Тот, кто живёт в колодце ~ [Chiffi](users/105/105831994080785626680-google)<sup>306</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>2</sup> 
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>891</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup> 
 [](users/153/1537586159620888-facebook)<sup>54</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>172</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 
 
-_23.10.2021 20:46:20_
+_24.10.2021 18:52:53_
