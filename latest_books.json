@@ -1,4 +1,16 @@
 {
+    "MpAwArNTl3": {
+        "id": "MpAwArNTl3",
+        "title": "Гвенди и её шкатулка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-10-24 23:37:39",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 250
+        }
+    },
     "DEoXcRLTiH": {
         "id": "DEoXcRLTiH",
         "title": "Ось іде людина",
@@ -344,18 +356,6 @@
         "user": {
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
-            "booksCount": 116
-        }
-    },
-    "Ao06CKVVvb": {
-        "id": "Ao06CKVVvb",
-        "title": "Тайная война. Во главе безопасности ДНР",
-        "author": "Андрей Пинчук",
-        "notes": "",
-        "createdAt": "2021-10-12 19:57:04",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
             "booksCount": 116
         }
     }

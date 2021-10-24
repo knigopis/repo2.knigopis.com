@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>2</sup> 
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>153</sup> 
 [Алексей](users/524/524909550-vkontakte)<sup>0</sup> 
-[Мирослава](users/106/106107989792957993574-google)<sup>28</sup> 
 
 
-_24.10.2021 18:52:53_
+_24.10.2021 23:37:39_
