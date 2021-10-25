@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=2429115410558517)<sup>17</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=2429115410558517)<sup>18</sup>
 ---
 
 ## 2021
@@ -21,6 +21,11 @@
 ### В Стране невыученных уроков
 Лия Гераскина
 > [2021-07-25] 
+
+
+### Приключения Чиполлино
+Джанни Родари
+> [2021-07] 
 
 
 ### Приключения Уле-Александра

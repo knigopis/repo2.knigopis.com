@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/242/2429115410558517-facebook)<sup>18</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>210</sup> 
-[](users/242/2429115410558517-facebook)<sup>17</sup> 
 [](users/101/101113826695860472422-google)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111979096949326447879-google)<sup>0</sup> 
 
 
-_25.10.2021 11:09:32_
+_25.10.2021 16:40:38_
