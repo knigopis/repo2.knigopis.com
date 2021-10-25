@@ -1,4 +1,16 @@
 {
+    "TCuFCc1P3I": {
+        "id": "TCuFCc1P3I",
+        "title": "Рассказы",
+        "author": "Николай Носов",
+        "notes": "",
+        "createdAt": "2021-10-25 08:57:56",
+        "user": {
+            "id": "2429115410558517-facebook",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "ayCpL0Dad6": {
         "id": "ayCpL0Dad6",
         "title": "Алиса в Зазеркалье",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 84
-        }
-    },
-    "gjtf_NSZnl": {
-        "id": "gjtf_NSZnl",
-        "title": "Ампир В",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2021-10-16 19:20:57",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 151
         }
     }
 }

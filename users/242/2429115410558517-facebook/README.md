@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=2429115410558517)<sup>6</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=2429115410558517)<sup>7</sup>
 ---
 
 ## 2021
@@ -29,6 +29,11 @@
 ### Незнайка в Солнечном городе
 Николай Носов
 > [2020-06-25] 
+
+
+### Рассказы
+Николай Носов
+> [2020-05-25] 
 
 
 ### Как собрать автомобиль
