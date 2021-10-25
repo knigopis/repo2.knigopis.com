@@ -1,4 +1,16 @@
 {
+    "S8evFmyHwf": {
+        "id": "S8evFmyHwf",
+        "title": "Крокодил Гена и его друзья",
+        "author": "Эдуард Успенский",
+        "notes": "",
+        "createdAt": "2021-10-25 16:45:46",
+        "user": {
+            "id": "2429115410558517-facebook",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "i20h8R5GfH": {
         "id": "i20h8R5GfH",
         "title": "Малыш Николя и его друзья",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 20
-        }
-    },
-    "UgwPAstzEx": {
-        "id": "UgwPAstzEx",
-        "title": "Бог как иллюзия",
-        "author": "Ричард Докинз",
-        "notes": "",
-        "createdAt": "2021-10-22 08:14:22",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 76
         }
     }
 }
