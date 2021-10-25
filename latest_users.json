@@ -1,4 +1,10 @@
 {
+    "2429115410558517-facebook": {
+        "id": "2429115410558517-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-10-25 08:37:16"
+    },
     "101113826695860472422-google": {
         "id": "101113826695860472422-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "endoscopist",
         "booksCount": 0,
         "updatedAt": "2021-10-07 16:41:15"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 153,
-        "updatedAt": "2021-10-07 06:50:44"
     }
 }
