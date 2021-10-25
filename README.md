@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>210</sup> 
 [](users/242/2429115410558517-facebook)<sup>17</sup> 
 [](users/101/101113826695860472422-google)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>125</sup> 
 [](users/111/111979096949326447879-google)<sup>0</sup> 
-[endoscopist](users/399/399394571-vkontakte)<sup>0</sup> 
 
 
-_25.10.2021 09:02:02_
+_25.10.2021 11:09:32_

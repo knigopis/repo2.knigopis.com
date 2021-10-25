@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 210,
+        "updatedAt": "2021-10-25 11:09:32"
+    },
     "2429115410558517-facebook": {
         "id": "2429115410558517-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-10-07 17:00:06"
-    },
-    "399394571-vkontakte": {
-        "id": "399394571-vkontakte",
-        "nickname": "endoscopist",
-        "booksCount": 0,
-        "updatedAt": "2021-10-07 16:41:15"
     }
 }
