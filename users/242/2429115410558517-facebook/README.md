@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=2429115410558517)<sup>8</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=2429115410558517)<sup>9</sup>
 ---
 
 ## 2021
@@ -6,6 +6,11 @@
 ### В Стране невыученных уроков
 Лия Гераскина
 > [2021-07-25] 
+
+
+### Чарли и шоколадная фабрика
+Роальд Даль
+> [2021-06-25] 
 
 
 ### Алиса в Зазеркалье
