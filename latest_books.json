@@ -1,4 +1,16 @@
 {
+    "XbHGezfFIZ": {
+        "id": "XbHGezfFIZ",
+        "title": "Фаворит 1",
+        "author": "Валентин Пикуль",
+        "notes": "",
+        "createdAt": "2021-10-25 08:34:37",
+        "user": {
+            "id": "101113826695860472422-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "qgvglZ8OYz": {
         "id": "qgvglZ8OYz",
         "title": "Sapiens.Краткая история человечества",
@@ -345,18 +357,6 @@
             "id": "6759993668976819705-mailru",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "4i3X-EBS7G": {
-        "id": "4i3X-EBS7G",
-        "title": "Дело о кошке смотрителя",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2021-10-13 17:36:47",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 883
         }
     }
 }

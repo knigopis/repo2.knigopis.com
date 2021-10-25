@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/101113826695860472422/)<sup>1</sup>
+# List of books read by [](https://plus.google.com/u/0/101113826695860472422/)<sup>2</sup>
 ---
 
 ## 2021
+
+### Фаворит 1
+Валентин Пикуль
+> [2021-10-25] 
+
 
 ### Sapiens.Краткая история человечества
 Юваль Ной
