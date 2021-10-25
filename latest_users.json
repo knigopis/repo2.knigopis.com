@@ -1,4 +1,10 @@
 {
+    "64251996-vkontakte": {
+        "id": "64251996-vkontakte",
+        "nickname": "~ARHANGEL~",
+        "booksCount": 64,
+        "updatedAt": "2021-10-25 16:55:31"
+    },
     "2429115410558517-facebook": {
         "id": "2429115410558517-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 125,
         "updatedAt": "2021-10-09 14:46:49"
-    },
-    "111979096949326447879-google": {
-        "id": "111979096949326447879-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-10-07 17:00:06"
     }
 }
