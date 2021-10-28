@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>106</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>107</sup>
 ---
 
 ## 2021
+
+### Диалектика просвещения
+Хоркхаймер,Адорно
+> [2021-10-28] 
+
 
 ### Хризантема и меч
 Рут Бенедикт

@@ -1,4 +1,16 @@
 {
+    "FnpP_LhS79": {
+        "id": "FnpP_LhS79",
+        "title": "Диалектика просвещения",
+        "author": "Хоркхаймер,Адорно",
+        "notes": "",
+        "createdAt": "2021-10-28 17:46:32",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 107
+        }
+    },
     "FNM4wyjdLq": {
         "id": "FNM4wyjdLq",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "101113826695860472422-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "MpAwArNTl3": {
-        "id": "MpAwArNTl3",
-        "title": "Гвенди и её шкатулка",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-10-24 23:37:39",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 250
         }
     }
 }

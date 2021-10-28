@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>53</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>893</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>126</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Сказочник](users/320/3207576862804245-facebook)<sup>0</sup> 
 [](users/675/6759993668976819705-mailru)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>116</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>116</sup> 
 
 
-_28.10.2021 15:49:11_
+_28.10.2021 17:46:32_
