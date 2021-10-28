@@ -1,4 +1,10 @@
 {
+    "4558179214240383-facebook": {
+        "id": "4558179214240383-facebook",
+        "nickname": "elena.boo",
+        "booksCount": 0,
+        "updatedAt": "2021-10-28 22:34:08"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2021-10-14 05:47:35"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 116,
-        "updatedAt": "2021-10-13 11:12:57"
     }
 }
