@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>892</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>126</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup> 
 [](users/242/2429115410558517-facebook)<sup>21</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>2</sup> 
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>891</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>76</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
 
 
-_25.10.2021 19:10:06_
+_28.10.2021 12:34:08_
