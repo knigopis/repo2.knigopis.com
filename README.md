@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>53</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>893</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>126</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/675/6759993668976819705-mailru)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>116</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>116</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>312</sup> 
 
 
-_28.10.2021 12:34:50_
+_28.10.2021 15:49:11_
