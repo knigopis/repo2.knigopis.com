@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 186,
+        "updatedAt": "2021-10-29 15:28:04"
+    },
     "4558179214240383-facebook": {
         "id": "4558179214240383-facebook",
         "nickname": "elena.boo",
@@ -172,11 +178,5 @@
         "nickname": "Сказочник",
         "booksCount": 0,
         "updatedAt": "2021-10-14 20:23:01"
-    },
-    "6759993668976819705-mailru": {
-        "id": "6759993668976819705-mailru",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2021-10-14 05:47:35"
     }
 }

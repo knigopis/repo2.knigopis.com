@@ -1,4 +1,16 @@
 {
+    "6Y1RmXS7Lz": {
+        "id": "6Y1RmXS7Lz",
+        "title": "The Sympathizer",
+        "author": "Viet Thanh Nguyen",
+        "notes": "",
+        "createdAt": "2021-10-29 15:28:04",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 186
+        }
+    },
     "FnpP_LhS79": {
         "id": "FnpP_LhS79",
         "title": "Диалектика просвещения",
@@ -345,18 +357,6 @@
             "id": "101113826695860472422-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "qgvglZ8OYz": {
-        "id": "qgvglZ8OYz",
-        "title": "Sapiens.Краткая история человечества",
-        "author": "Юваль Ной",
-        "notes": "",
-        "createdAt": "2021-10-25 08:33:12",
-        "user": {
-            "id": "101113826695860472422-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

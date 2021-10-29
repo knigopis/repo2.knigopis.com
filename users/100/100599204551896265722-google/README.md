@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>185</sup>
+# Список прочитанных книг пользователя exulted<sup>186</sup>
 ---
 
 ## 2021
+
+### The Sympathizer
+Viet Thanh Nguyen
+> [2021-10-22] 
+
 
 ### Becoming Supernatural
 Joe Dispenza
