@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>186</sup>
+# Список прочитанных книг пользователя exulted<sup>187</sup>
 ---
 
 ## 2021
+
+### The Devil's Pleasure Palace: The Cult of Critical Theory and the Subversion of the West
+Michael Walsh
+> [2021-10-29] 
+
 
 ### The Sympathizer
 Viet Thanh Nguyen
