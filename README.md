@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>187</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>188</sup> 
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>53</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Сказочник](users/320/3207576862804245-facebook)<sup>0</sup> 
 
 
-_29.10.2021 15:28:33_
+_29.10.2021 15:30:24_
