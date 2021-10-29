@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
 * Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
 * Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
@@ -30,7 +31,6 @@
 * Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
 * Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
 * Сто лет одиночества ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>45</sup>
-* Призрак в кривом зеркале ~ [Chiffi](users/105/105831994080785626680-google)<sup>304</sup>
 
 
-_25.10.2021 16:55:31_
+_29.10.2021 18:39:02_

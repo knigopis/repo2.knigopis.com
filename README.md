@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
+    > Людей выдает не то, что они говорят, а как говорят.
+
 * Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
     > Отчаянье называют последним и главным инструментом дьявола, он использует его против самых стойких, когда предыдущие методы – гордыня, ревность, ненависть – бессильны.
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 7/10 Автобіографія актора з маленького єврейского містечка.
 
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
-    > Мне надоел до безумия. Ни слова о действительности
 
 * Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Танцы марионеток ~ [Chiffi](users/105/105831994080785626680-google)<sup>308</sup>
 
-* Тора (пять книг) ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>313</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>188</sup> 
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 [](users/110/110108278789076439525-google)<sup>11</sup> 
 [julievern](users/378/378919644-vkontakte)<sup>0</sup> 
-[Сказочник](users/320/3207576862804245-facebook)<sup>0</sup> 
 
 
-_29.10.2021 15:30:24_
+_29.10.2021 18:39:02_

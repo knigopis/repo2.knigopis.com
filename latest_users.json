@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 313,
+        "updatedAt": "2021-10-29 18:39:02"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "julievern",
         "booksCount": 0,
         "updatedAt": "2021-10-14 21:15:42"
-    },
-    "3207576862804245-facebook": {
-        "id": "3207576862804245-facebook",
-        "nickname": "Сказочник",
-        "booksCount": 0,
-        "updatedAt": "2021-10-14 20:23:01"
     }
 }
