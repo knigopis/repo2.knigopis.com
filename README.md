@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>173</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>189</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>313</sup> 
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [](users/153/1537586159620888-facebook)<sup>54</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>172</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [julievern](users/378/378919644-vkontakte)<sup>0</sup> 
 
 
-_30.10.2021 08:55:11_
+_30.10.2021 17:49:39_
