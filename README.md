@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>211</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>894</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>173</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>189</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>126</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup> 
 [](users/242/2429115410558517-facebook)<sup>21</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>210</sup> 
 [](users/101/101113826695860472422-google)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [julievern](users/378/378919644-vkontakte)<sup>0</sup> 
 
 
-_30.10.2021 19:06:49_
+_30.10.2021 20:08:24_
