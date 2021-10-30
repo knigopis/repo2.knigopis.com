@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>188</sup>
+# Список прочитанных книг пользователя exulted<sup>189</sup>
 ---
 
 ## 2021
@@ -41,6 +41,11 @@ Joe Dispenza
 ### Sir George Buchanan
 My Mission to Russia and Other Diplomatic Memories
 > [2021-08-20] 
+
+
+### Company Grade. Memoir of an Angry Skipper
+Henry ‘Rocky’ Colavita
+> [2021-07-26] 
 
 
 ### Matrix Energetics
