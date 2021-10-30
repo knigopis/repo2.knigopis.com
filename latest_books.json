@@ -1,4 +1,16 @@
 {
+    "1aB1hl1CB4": {
+        "id": "1aB1hl1CB4",
+        "title": "Евангелие от палача",
+        "author": "Георгий и Аркадий Вайнеры",
+        "notes": "",
+        "createdAt": "2021-10-30 19:06:49",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 894
+        }
+    },
     "dPrmXeCoRe": {
         "id": "dPrmXeCoRe",
         "title": "Тук-тук, сердце! Как подружиться с самым неутомимым органом и что будет, если этого не сделать",
@@ -345,18 +357,6 @@
             "id": "2429115410558517-facebook",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "OWW56SG6uT": {
-        "id": "OWW56SG6uT",
-        "title": "Алиса в Стране чудес",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2021-10-25 08:57:14",
-        "user": {
-            "id": "2429115410558517-facebook",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }
