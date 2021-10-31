@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 127,
+        "updatedAt": "2021-10-31 15:47:48"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -64,12 +70,6 @@
         "nickname": "Beaviska",
         "booksCount": 53,
         "updatedAt": "2021-10-28 15:49:11"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 126,
-        "updatedAt": "2021-10-25 19:10:06"
     },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",

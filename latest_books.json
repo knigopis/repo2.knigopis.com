@@ -1,4 +1,16 @@
 {
+    "3HAmpRNCNO": {
+        "id": "3HAmpRNCNO",
+        "title": "Оправдание Острова",
+        "author": "Е. Водолазкин",
+        "notes": "",
+        "createdAt": "2021-10-31 15:47:48",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 127
+        }
+    },
     "hWOhbTJhMV": {
         "id": "hWOhbTJhMV",
         "title": "Кицур Шулхан Арух",
@@ -345,18 +357,6 @@
             "id": "2429115410558517-facebook",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "pnTSMEZUHD": {
-        "id": "pnTSMEZUHD",
-        "title": "Капитан Сорви-голова",
-        "author": "Валерий Медведев",
-        "notes": "",
-        "createdAt": "2021-10-25 08:58:09",
-        "user": {
-            "id": "2429115410558517-facebook",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
