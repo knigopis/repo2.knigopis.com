@@ -1,4 +1,10 @@
 {
+    "108555122591492235889-google": {
+        "id": "108555122591492235889-google",
+        "nickname": "ArtShp",
+        "booksCount": 0,
+        "updatedAt": "2021-10-31 09:00:13"
+    },
     "483675196-vkontakte": {
         "id": "483675196-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "wineday",
         "booksCount": 0,
         "updatedAt": "2021-10-15 21:42:55"
-    },
-    "110108278789076439525-google": {
-        "id": "110108278789076439525-google",
-        "nickname": null,
-        "booksCount": 11,
-        "updatedAt": "2021-10-15 17:09:56"
     }
 }
