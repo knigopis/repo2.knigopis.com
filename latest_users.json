@@ -1,4 +1,10 @@
 {
+    "483675196-vkontakte": {
+        "id": "483675196-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-10-31 04:06:36"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 11,
         "updatedAt": "2021-10-15 17:09:56"
-    },
-    "378919644-vkontakte": {
-        "id": "378919644-vkontakte",
-        "nickname": "julievern",
-        "booksCount": 0,
-        "updatedAt": "2021-10-14 21:15:42"
     }
 }
