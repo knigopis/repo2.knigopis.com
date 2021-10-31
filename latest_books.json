@@ -1,4 +1,16 @@
 {
+    "hWOhbTJhMV": {
+        "id": "hWOhbTJhMV",
+        "title": "Кицур Шулхан Арух",
+        "author": "Шломо Ганзфрид",
+        "notes": "4/10 Свод предписаний и ограничений для евреев.",
+        "createdAt": "2021-10-31 09:35:06",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 218
+        }
+    },
     "QyPDxqDfq2": {
         "id": "QyPDxqDfq2",
         "title": "Дамы и господа",
@@ -345,18 +357,6 @@
             "id": "2429115410558517-facebook",
             "nickname": null,
             "booksCount": 8
-        }
-    },
-    "TCuFCc1P3I": {
-        "id": "TCuFCc1P3I",
-        "title": "Рассказы",
-        "author": "Николай Носов",
-        "notes": "",
-        "createdAt": "2021-10-25 08:57:56",
-        "user": {
-            "id": "2429115410558517-facebook",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }

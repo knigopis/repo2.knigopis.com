@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
+    > 4/10 Свод предписаний и ограничений для евреев.
+
 * Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
     > Людей выдает не то, что они говорят, а как говорят.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Друг предполагает, что каждый получает испытания, исходя из возраста души. Зрелой душе, пусть и в молодом теле, дается способность тоньше чувствовать мир и сидеть в первых рядах, откуда лучше видно и плохое, и хорошее. Так душа полнее проживает этот мир и по возможности его исправляет. Пишет вдохновляющую песню, печет вкусный хлеб, лечит захворавших людей и делится любовью с тем, кто в нее не верил.
 
 * Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
-    > 7/10 Автобіографія актора з маленького єврейского містечка.
 
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Улыбка пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>309</sup>
 
-* Танцы марионеток ~ [Chiffi](users/105/105831994080785626680-google)<sup>308</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup> 
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
 [](users/483/483675196-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>211</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/242/2429115410558517-facebook)<sup>21</sup> 
 [](users/101/101113826695860472422-google)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>2</sup> 
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 
 
-_31.10.2021 09:00:13_
+_31.10.2021 09:35:06_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>217</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>218</sup>
 ---
 
 ## 2021
+
+### Кицур Шулхан Арух
+Шломо Ганзфрид
+> [2021-10-31] 4/10 Свод предписаний и ограничений для евреев.
+
 
 ### Ось іде людина
 Александр Ґранах
