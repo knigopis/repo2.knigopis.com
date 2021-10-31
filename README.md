@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/483/483675196-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>211</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>894</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>173</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtemOlegovich111](users/141/1416013121-yandex)<sup>0</sup> 
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 [](users/110/110108278789076439525-google)<sup>11</sup> 
-[julievern](users/378/378919644-vkontakte)<sup>0</sup> 
 
 
-_30.10.2021 20:08:24_
+_31.10.2021 04:06:36_
