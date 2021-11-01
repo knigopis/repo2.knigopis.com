@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>55</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>127</sup> 
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
-[](users/153/1537586159620888-facebook)<sup>54</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 
 
-_01.11.2021 07:48:40_
+_01.11.2021 23:14:30_
