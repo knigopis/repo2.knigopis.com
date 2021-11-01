@@ -1,4 +1,16 @@
 {
+    "EjUz9vuzVN": {
+        "id": "EjUz9vuzVN",
+        "title": "Взрослые дети алкоголиков",
+        "author": "Дженет Дж. Войтиц",
+        "notes": "5/10 Проблемы дисфункиональной семьи",
+        "createdAt": "2021-11-01 07:48:40",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 219
+        }
+    },
     "hWOhbTJhMV": {
         "id": "hWOhbTJhMV",
         "title": "Кицур Шулхан Арух",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 247
-        }
-    },
-    "MxPomrreqY": {
-        "id": "MxPomrreqY",
-        "title": "Hygge. Секрет датского счастья",
-        "author": "Викинг Майк",
-        "notes": "Скучно",
-        "createdAt": "2021-09-13 21:46:20",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 19
         }
     }
 }

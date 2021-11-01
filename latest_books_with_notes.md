@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Взрослые дети алкоголиков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup>
 * Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
 * Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
 * Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
 * Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
 * Нечисть в метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>247</sup>
-* Hygge. Секрет датского счастья ~ [albina_untiring](users/257/2579695-vkontakte)<sup>19</sup>
 
 
-_31.10.2021 09:35:06_
+_01.11.2021 07:48:40_

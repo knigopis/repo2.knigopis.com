@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>218</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>219</sup>
 ---
 
 ## 2021
+
+### Взрослые дети алкоголиков
+Дженет Дж. Войтиц
+> [2021-11-01] 5/10 Проблемы дисфункиональной семьи
+
 
 ### Кицур Шулхан Арух
 Шломо Ганзфрид
