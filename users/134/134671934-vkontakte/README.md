@@ -1,4 +1,4 @@
-# List of books read by [slava_kite](http://vk.com/id134671934)<sup>4</sup>
+# List of books read by [slava_kite](http://vk.com/id134671934)<sup>5</sup>
 ---
 
 ## 2021
@@ -16,6 +16,10 @@
 ### Морские волки
 Франк Вольфганг
 > [2021-11-01] 
+
+
+### Красное колесо
+Солженицын
 
 
 ### В круге первом

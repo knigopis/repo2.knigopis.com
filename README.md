@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[slava_kite](users/134/134671934-vkontakte)<sup>4</sup> 
+[slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup> 
 [](users/153/1537586159620888-facebook)<sup>55</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtemOlegovich111](users/141/1416013121-yandex)<sup>0</sup> 
 
 
-_02.11.2021 23:58:03_
+_02.11.2021 23:58:27_
