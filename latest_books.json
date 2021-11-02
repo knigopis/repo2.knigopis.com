@@ -1,4 +1,16 @@
 {
+    "Ot3xNS7J62": {
+        "id": "Ot3xNS7J62",
+        "title": "Архипелаг ГУЛАГ",
+        "author": "Солженицын",
+        "notes": "",
+        "createdAt": "2021-11-02 23:57:35",
+        "user": {
+            "id": "134671934-vkontakte",
+            "nickname": "slava_kite",
+            "booksCount": 3
+        }
+    },
     "toznOcjDbC": {
         "id": "toznOcjDbC",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "2429115410558517-facebook",
             "nickname": null,
             "booksCount": 15
-        }
-    },
-    "oYbn2oir0q": {
-        "id": "oYbn2oir0q",
-        "title": "Папа, мама, бабушка и 8 детей",
-        "author": "Анне-Катрина Вестли",
-        "notes": "",
-        "createdAt": "2021-10-25 08:59:16",
-        "user": {
-            "id": "2429115410558517-facebook",
-            "nickname": null,
-            "booksCount": 14
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [slava_kite](http://vk.com/id134671934)<sup>2</sup>
+# List of books read by [slava_kite](http://vk.com/id134671934)<sup>3</sup>
 ---
 
 ## 2021
+
+### Архипелаг ГУЛАГ
+Солженицын
+> [2021-11-03] 
+
 
 ### Черновик
 Лукьяненко
