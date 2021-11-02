@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
+    > Так! равнодушное забвенье
+    > За гробом ожидает нас.
+    > Врагов, друзей, любовниц глас
+    > Вдруг молкнет. Про одно именье
+    > Наследников сердитый хор
+    > Заводит непристойный спор.
+
 * Взрослые дети алкоголиков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup>
     > 5/10 Проблемы дисфункиональной семьи
 
@@ -12,7 +20,6 @@ Do not use pull requests to make changes here.
     > 4/10 Свод предписаний и ограничений для евреев.
 
 * Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
-    > Людей выдает не то, что они говорят, а как говорят.
 
 * Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
 
@@ -26,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
 
-* Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup> 
 [](users/153/1537586159620888-facebook)<sup>55</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>127</sup> 
@@ -40,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/483/483675196-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>211</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>894</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>173</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>189</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>313</sup> 
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
@@ -65,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wineday](users/109/109177413698288038104-google)<sup>0</sup> 
 
 
-_01.11.2021 23:14:30_
+_02.11.2021 22:05:22_
