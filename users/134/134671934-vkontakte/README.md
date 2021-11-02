@@ -1,7 +1,12 @@
-# List of books read by [slava_kite](http://vk.com/id134671934)<sup>1</sup>
+# List of books read by [slava_kite](http://vk.com/id134671934)<sup>2</sup>
 ---
 
 ## 2021
+
+### Черновик
+Лукьяненко
+> [2021-11-03] 
+
 
 ### Морские волки
 Франк Вольфганг
