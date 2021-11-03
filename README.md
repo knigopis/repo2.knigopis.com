@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup> 
 [](users/153/1537586159620888-facebook)<sup>55</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>151</sup> 
-[ArtemOlegovich111](users/141/1416013121-yandex)<sup>0</sup> 
 
 
-_02.11.2021 23:58:27_
+_03.11.2021 12:06:49_
