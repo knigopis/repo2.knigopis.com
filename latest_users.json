@@ -1,4 +1,10 @@
 {
+    "4394066-vkontakte": {
+        "id": "4394066-vkontakte",
+        "nickname": "marinefed",
+        "booksCount": 0,
+        "updatedAt": "2021-11-03 12:06:49"
+    },
     "134671934-vkontakte": {
         "id": "134671934-vkontakte",
         "nickname": "slava_kite",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 151,
         "updatedAt": "2021-10-16 19:20:57"
-    },
-    "1416013121-yandex": {
-        "id": "1416013121-yandex",
-        "nickname": "ArtemOlegovich111",
-        "booksCount": 0,
-        "updatedAt": "2021-10-16 12:23:58"
     }
 }
