@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мне кажется, я идиот ~ [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup>
+    > Не то, что я ожидала, просто много небольших рассказов об эффектах, которым подвержен мозг
+
 * Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
     > Читать каждой женщине
 
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Заводит непристойный спор.
 
 * Взрослые дети алкоголиков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup>
-    > 5/10 Проблемы дисфункиональной семьи
 
 * Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
 
@@ -31,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
 
-* Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[albina_untiring](users/257/2579695-vkontakte)<sup>20</sup> 
+[albina_untiring](users/257/2579695-vkontakte)<sup>21</sup> 
 [marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
 
 
-_04.11.2021 09:42:05_
+_04.11.2021 09:45:57_

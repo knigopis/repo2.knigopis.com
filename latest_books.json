@@ -1,4 +1,16 @@
 {
+    "9ol9Ixb7QR": {
+        "id": "9ol9Ixb7QR",
+        "title": "Мне кажется, я идиот",
+        "author": "Йохен Май, Даниэль Реттиг",
+        "notes": "Не то, что я ожидала, просто много небольших рассказов об эффектах, которым подвержен мозг",
+        "createdAt": "2021-11-04 09:45:57",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 21
+        }
+    },
     "0m45QfDCII": {
         "id": "0m45QfDCII",
         "title": "Любить.Считать",
@@ -345,18 +357,6 @@
             "id": "2429115410558517-facebook",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "sdzXZSMT99": {
-        "id": "sdzXZSMT99",
-        "title": "Ведьмы за границей",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2021-10-25 11:09:32",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 210
         }
     }
 }
