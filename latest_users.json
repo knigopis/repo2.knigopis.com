@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 117,
+        "updatedAt": "2021-11-04 17:32:00"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 296,
         "updatedAt": "2021-10-17 15:51:52"
-    },
-    "104718659356468650159-google": {
-        "id": "104718659356468650159-google",
-        "nickname": "viks",
-        "booksCount": 0,
-        "updatedAt": "2021-10-16 21:07:46"
     }
 }
