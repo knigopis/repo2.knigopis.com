@@ -1,4 +1,16 @@
 {
+    "pjC74fTi2z": {
+        "id": "pjC74fTi2z",
+        "title": "Фауст",
+        "author": "Иоганн Гёте",
+        "notes": "",
+        "createdAt": "2021-11-04 23:29:00",
+        "user": {
+            "id": "112090473416384685204-google",
+            "nickname": "Cr_RONIN",
+            "booksCount": 3
+        }
+    },
     "dbJ7C1XsG2": {
         "id": "dbJ7C1XsG2",
         "title": "Hygge. Секрет датского счастья",
@@ -345,18 +357,6 @@
             "id": "2429115410558517-facebook",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "i20h8R5GfH": {
-        "id": "i20h8R5GfH",
-        "title": "Малыш Николя и его друзья",
-        "author": "Рене Госинни, Жан-Жак Сампэ",
-        "notes": "",
-        "createdAt": "2021-10-25 16:44:07",
-        "user": {
-            "id": "2429115410558517-facebook",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }

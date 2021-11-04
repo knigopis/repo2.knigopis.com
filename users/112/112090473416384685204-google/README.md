@@ -1,7 +1,12 @@
-# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>2</sup>
+# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>3</sup>
 ---
 
 ## 2021
+
+### Фауст
+Иоганн Гёте
+> [2021-11-03] 
+
 
 ### О дивный новый мир
 Олдос Хаксли
