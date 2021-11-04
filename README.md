@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
+[albina_untiring](users/257/2579695-vkontakte)<sup>21</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>117</sup> 
 [marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 
 
-_04.11.2021 19:38:54_
+_04.11.2021 19:39:46_
