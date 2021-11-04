@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
 * Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
 * Взрослые дети алкоголиков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup>
 * Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
@@ -30,7 +31,6 @@
 * 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
 * Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
 * Зря ты туда полез! ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>249</sup>
-* Здесь кто-нибудь есть? ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>248</sup>
 
 
-_02.11.2021 22:05:22_
+_04.11.2021 09:42:05_

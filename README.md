@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
+    > Читать каждой женщине
+
 * Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
     > Так! равнодушное забвенье
     > За гробом ожидает нас.
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > 5/10 Проблемы дисфункиональной семьи
 
 * Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
-    > 4/10 Свод предписаний и ограничений для евреев.
 
 * Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
 
-* Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>20</sup> 
 [marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 [viks](users/104/104718659356468650159-google)<sup>0</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>151</sup> 
 
 
-_03.11.2021 12:06:49_
+_04.11.2021 09:42:05_

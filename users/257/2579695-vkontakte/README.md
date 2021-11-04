@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>19</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>20</sup>
 ---
 
 ## 2021
+
+### Любить.Считать
+Светлана Шишкина
+> [2021-11-03] Читать каждой женщине
+
 
 ### Hygge. Секрет датского счастья
 Викинг Майк
