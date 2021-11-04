@@ -1,4 +1,16 @@
 {
+    "dbJ7C1XsG2": {
+        "id": "dbJ7C1XsG2",
+        "title": "Hygge. Секрет датского счастья",
+        "author": "Викинг Майк",
+        "notes": "",
+        "createdAt": "2021-11-04 19:38:54",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 22
+        }
+    },
     "_B4PbqI7JC": {
         "id": "_B4PbqI7JC",
         "title": "Как перестать беспокоиться и начал жить",
@@ -345,18 +357,6 @@
             "id": "2429115410558517-facebook",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "O4RMJwqRvA": {
-        "id": "O4RMJwqRvA",
-        "title": "Неандертальский мальчик",
-        "author": "Лучано Мальмузи",
-        "notes": "",
-        "createdAt": "2021-10-25 16:41:49",
-        "user": {
-            "id": "2429115410558517-facebook",
-            "nickname": null,
-            "booksCount": 19
         }
     }
 }
