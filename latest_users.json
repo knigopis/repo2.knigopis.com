@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 327,
+        "updatedAt": "2021-11-05 19:48:31"
+    },
     "112090473416384685204-google": {
         "id": "112090473416384685204-google",
         "nickname": "Cr_RONIN",
@@ -172,11 +178,5 @@
         "nickname": "kirillvotix",
         "booksCount": 0,
         "updatedAt": "2021-10-18 08:55:11"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 296,
-        "updatedAt": "2021-10-17 15:51:52"
     }
 }

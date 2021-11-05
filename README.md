@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>327</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>3</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>117</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>84</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>296</sup> 
 
 
-_04.11.2021 23:29:00_
+_05.11.2021 19:48:31_
