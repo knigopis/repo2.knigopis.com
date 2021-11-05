@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lala](users/761/76187635-vkontakte)<sup>327</sup> 
+[Lala](users/761/76187635-vkontakte)<sup>328</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>3</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>117</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 
 
-_05.11.2021 19:48:31_
+_05.11.2021 19:48:43_
