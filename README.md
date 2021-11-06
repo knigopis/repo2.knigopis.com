@@ -38,8 +38,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>896</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>895</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>328</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>3</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 
 
-_06.11.2021 14:00:50_
+_06.11.2021 17:40:37_
