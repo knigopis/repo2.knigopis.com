@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>218</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>895</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>328</sup> 
@@ -65,9 +66,8 @@ _More notes [here](latest_books_with_notes.md)._
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>76</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 
 
-_06.11.2021 12:47:35_
+_06.11.2021 14:00:39_

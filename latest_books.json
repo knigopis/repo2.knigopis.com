@@ -1,4 +1,16 @@
 {
+    "w9T0dSx3Yu": {
+        "id": "w9T0dSx3Yu",
+        "title": "Золотой Храм",
+        "author": "Юкио Мисима",
+        "notes": "",
+        "createdAt": "2021-11-06 14:00:39",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 218
+        }
+    },
     "GgiJSVUxoE": {
         "id": "GgiJSVUxoE",
         "title": "Дело о призрачном муже",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 53
-        }
-    },
-    "6XjELBVM0x": {
-        "id": "6XjELBVM0x",
-        "title": "Дело о молчаливом партнере",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2021-10-28 12:34:50",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 893
         }
     }
 }
