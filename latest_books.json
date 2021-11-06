@@ -1,4 +1,16 @@
 {
+    "GgiJSVUxoE": {
+        "id": "GgiJSVUxoE",
+        "title": "Дело о призрачном муже",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2021-11-06 12:47:35",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 895
+        }
+    },
     "yv9-UUGbRw": {
         "id": "yv9-UUGbRw",
         "title": "Легенда о Данко",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 893
-        }
-    },
-    "UOpZSRBZLn": {
-        "id": "UOpZSRBZLn",
-        "title": "Дело о крючке с наживкой",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2021-10-28 12:34:08",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 892
         }
     }
 }
