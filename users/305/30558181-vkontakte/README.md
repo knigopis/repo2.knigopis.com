@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>218</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>217</sup>
 ---
 
 ## 2021
@@ -86,8 +86,6 @@
 ### Wabi Sabi. Японские секреты истинного счастья в неидеальном мире
 Бет Кемптон
 > [2021-01-20] 
-
-
 
 
 
