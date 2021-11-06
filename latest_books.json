@@ -1,4 +1,16 @@
 {
+    "26UHs47QFI": {
+        "id": "26UHs47QFI",
+        "title": "Маскарад",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2021-11-06 19:27:03",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 212
+        }
+    },
     "zkR7w5WayB": {
         "id": "zkR7w5WayB",
         "title": "Ночной цирк",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 186
-        }
-    },
-    "FnpP_LhS79": {
-        "id": "FnpP_LhS79",
-        "title": "Диалектика просвещения",
-        "author": "Хоркхаймер,Адорно",
-        "notes": "",
-        "createdAt": "2021-10-28 17:46:32",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 107
         }
     }
 }

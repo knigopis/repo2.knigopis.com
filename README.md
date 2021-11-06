@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>212</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>896</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>127</sup> 
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
 [](users/483/483675196-vkontakte)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>211</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>189</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>313</sup> 
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 
 
-_06.11.2021 17:40:37_
+_06.11.2021 19:27:03_
