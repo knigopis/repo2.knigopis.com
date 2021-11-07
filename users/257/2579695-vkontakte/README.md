@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>21</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>22</sup>
 ---
 
 ## 2021
+
+### Прощайте, вещи!
+Фумио Сасаки
+> [2021-11-07] Счастье=50% генетика+10%окружение+40% наши действия
+
 
 ### Любить.Считать
 Светлана Шишкина

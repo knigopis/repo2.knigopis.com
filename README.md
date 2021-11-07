@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
+    > Счастье=50% генетика+10%окружение+40% наши действия
+
 * Мне кажется, я идиот ~ [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup>
     > Не то, что я ожидала, просто много небольших рассказов об эффектах, которым подвержен мозг
 
@@ -12,12 +15,6 @@ Do not use pull requests to make changes here.
     > Читать каждой женщине
 
 * Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
-    > Так! равнодушное забвенье
-    > За гробом ожидает нас.
-    > Врагов, друзей, любовниц глас
-    > Вдруг молкнет. Про одно именье
-    > Наследников сердитый хор
-    > Заводит непристойный спор.
 
 * Взрослые дети алкоголиков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup>
 
@@ -31,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
 
-* Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>118</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>212</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>896</sup> 
@@ -45,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>328</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>3</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>21</sup> 
 [marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup> 
@@ -70,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 
 
-_07.11.2021 12:31:16_
+_07.11.2021 16:23:53_

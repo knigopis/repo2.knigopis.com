@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
 * Мне кажется, я идиот ~ [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup>
 * Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
 * Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
@@ -30,7 +31,6 @@
 * 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
 * Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
 * 451° по Фаренгейту ~ [Rainbow](users/109/109787328219839805802-google)<sup>80</sup>
-* Генерал любит собирать маленькие красные цветы ~ [neokchan](users/113/113179958976964886996-google)<sup>66</sup>
 
 
-_04.11.2021 09:45:57_
+_07.11.2021 16:23:53_

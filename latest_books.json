@@ -1,4 +1,16 @@
 {
+    "J8fKYYpHYP": {
+        "id": "J8fKYYpHYP",
+        "title": "Прощайте, вещи!",
+        "author": "Фумио Сасаки",
+        "notes": "Счастье=50% генетика+10%окружение+40% наши действия",
+        "createdAt": "2021-11-07 16:23:53",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 22
+        }
+    },
     "ZshzvAGo7u": {
         "id": "ZshzvAGo7u",
         "title": "Стрелков и другие",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 188
-        }
-    },
-    "u_3oSu1ddZ": {
-        "id": "u_3oSu1ddZ",
-        "title": "The Devil's Pleasure Palace: The Cult of Critical Theory and the Subversion of the West",
-        "author": "Michael Walsh",
-        "notes": "",
-        "createdAt": "2021-10-29 15:28:33",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 187
         }
     }
 }
