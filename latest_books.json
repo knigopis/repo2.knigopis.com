@@ -1,4 +1,16 @@
 {
+    "cxlcSoOfY9": {
+        "id": "cxlcSoOfY9",
+        "title": "Остров одиноких мужчин",
+        "author": "Хосе Леон Санчес",
+        "notes": "",
+        "createdAt": "2021-11-07 22:01:41",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 56
+        }
+    },
     "J8fKYYpHYP": {
         "id": "J8fKYYpHYP",
         "title": "Прощайте, вещи!",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 313
-        }
-    },
-    "aMC1Sgx_Z2": {
-        "id": "aMC1Sgx_Z2",
-        "title": "Диагностика кармы. Любовь Книга 3",
-        "author": "Лазарев С.Н.",
-        "notes": "",
-        "createdAt": "2021-10-29 15:30:24",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 188
         }
     }
 }

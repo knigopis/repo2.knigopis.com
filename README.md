@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>118</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>212</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup> 
-[](users/153/1537586159620888-facebook)<sup>55</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>127</sup> 
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kirillvotix](users/558/55867477-vkontakte)<sup>0</sup> 
 
 
-_07.11.2021 16:23:53_
+_07.11.2021 22:01:41_
