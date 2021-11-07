@@ -1,4 +1,16 @@
 {
+    "ZshzvAGo7u": {
+        "id": "ZshzvAGo7u",
+        "title": "Стрелков и другие",
+        "author": "Сергей Кургинян",
+        "notes": "",
+        "createdAt": "2021-11-07 12:31:16",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 118
+        }
+    },
     "26UHs47QFI": {
         "id": "26UHs47QFI",
         "title": "Маскарад",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 187
-        }
-    },
-    "6Y1RmXS7Lz": {
-        "id": "6Y1RmXS7Lz",
-        "title": "The Sympathizer",
-        "author": "Viet Thanh Nguyen",
-        "notes": "",
-        "createdAt": "2021-10-29 15:28:04",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 186
         }
     }
 }
