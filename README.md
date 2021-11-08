@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[neokchan](users/113/113179958976964886996-google)<sup>68</sup> 
+[neokchan](users/113/113179958976964886996-google)<sup>69</sup> 
 [](users/153/1537586159620888-facebook)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>118</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 
 
-_08.11.2021 10:49:33_
+_08.11.2021 11:05:06_
