@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 152,
+        "updatedAt": "2021-11-08 18:57:23"
+    },
     "113179958976964886996-google": {
         "id": "113179958976964886996-google",
         "nickname": "neokchan",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 76,
         "updatedAt": "2021-10-22 08:14:22"
-    },
-    "181853639-yandex": {
-        "id": "181853639-yandex",
-        "nickname": "sanya-sin2012",
-        "booksCount": 1,
-        "updatedAt": "2021-10-21 16:44:30"
     }
 }

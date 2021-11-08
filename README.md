@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>152</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>70</sup> 
 [](users/153/1537586159620888-facebook)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>76</sup> 
-[sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 
 
-_08.11.2021 15:36:06_
+_08.11.2021 18:57:23_

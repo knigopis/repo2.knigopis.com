@@ -1,4 +1,16 @@
 {
+    "wQPF01BCt-": {
+        "id": "wQPF01BCt-",
+        "title": "Учение дона Хуана. Путь знания индейцев",
+        "author": "Карлос Кастанеда",
+        "notes": "",
+        "createdAt": "2021-11-08 18:57:23",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 152
+        }
+    },
     "CN17zvU8CZ": {
         "id": "CN17zvU8CZ",
         "title": "Донор",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 211
-        }
-    },
-    "1aB1hl1CB4": {
-        "id": "1aB1hl1CB4",
-        "title": "Евангелие от палача",
-        "author": "Георгий и Аркадий Вайнеры",
-        "notes": "",
-        "createdAt": "2021-10-30 19:06:49",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 894
         }
     }
 }
