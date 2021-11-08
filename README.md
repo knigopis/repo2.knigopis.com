@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
+    > достаточно любопытно.
+
 * Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
     > Счастье=50% генетика+10%окружение+40% наши действия
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не то, что я ожидала, просто много небольших рассказов об эффектах, которым подвержен мозг
 
 * Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
-    > Читать каждой женщине
 
 * Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
 
-* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[neokchan](users/113/113179958976964886996-google)<sup>69</sup> 
+[neokchan](users/113/113179958976964886996-google)<sup>70</sup> 
 [](users/153/1537586159620888-facebook)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>118</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sanya-sin2012](users/181/181853639-yandex)<sup>1</sup> 
 
 
-_08.11.2021 11:05:06_
+_08.11.2021 15:36:06_
