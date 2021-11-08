@@ -1,7 +1,12 @@
-# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>67</sup>
+# List of books read by [neokchan](https://plus.google.com/u/0/113179958976964886996/)<sup>68</sup>
 ---
 
 ## 2021
+
+### Зелёный - цвет счастья
+Адель Грейс
+> [2021-11-08] 
+
 
 ### Возродиться вместе с заклятым врагом в день свадьбы
 林知落

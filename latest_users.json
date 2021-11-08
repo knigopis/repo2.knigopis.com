@@ -1,4 +1,10 @@
 {
+    "113179958976964886996-google": {
+        "id": "113179958976964886996-google",
+        "nickname": "neokchan",
+        "booksCount": 68,
+        "updatedAt": "2021-11-08 10:49:33"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "sanya-sin2012",
         "booksCount": 1,
         "updatedAt": "2021-10-21 16:44:30"
-    },
-    "55867477-vkontakte": {
-        "id": "55867477-vkontakte",
-        "nickname": "kirillvotix",
-        "booksCount": 0,
-        "updatedAt": "2021-10-18 08:55:11"
     }
 }
