@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gray7wand](users/110/110080946273609412257-google)<sup>9</sup> 
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>898</sup> 
 [](users/101/101368518035734751027-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup> 
 [](users/242/2429115410558517-facebook)<sup>21</sup> 
 [](users/101/101113826695860472422-google)<sup>2</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
 
 
-_09.11.2021 19:58:11_
+_09.11.2021 23:01:43_
