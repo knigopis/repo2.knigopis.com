@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>897</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>898</sup> 
 [](users/101/101368518035734751027-google)<sup>1</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>29</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>152</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
 
 
-_09.11.2021 09:59:51_
+_09.11.2021 19:54:16_
