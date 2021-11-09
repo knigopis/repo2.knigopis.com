@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>9</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>10</sup>
 ---
 
 ## 2021
+
+### Моя Вампирская Система (Новелла)
+Jksmanga
+> [2021-10] Том 1-4
+
 
 ### Поднятие уровня в одиночку (Новелла)
 Chugong Jang Sung-lak

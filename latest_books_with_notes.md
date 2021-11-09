@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
 * Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
 * Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
 * Мне кажется, я идиот ~ [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
 * Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
 * 100 великих угроз цивилизации ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>212</sup>
-* Возродиться вместе с заклятым врагом в день свадьбы ~ [neokchan](users/113/113179958976964886996-google)<sup>67</sup>
 
 
-_08.11.2021 15:36:06_
+_09.11.2021 23:04:04_

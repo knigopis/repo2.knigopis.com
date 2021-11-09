@@ -1,4 +1,16 @@
 {
+    "pcxU2wdfIA": {
+        "id": "pcxU2wdfIA",
+        "title": "Моя Вампирская Система (Новелла)",
+        "author": "Jksmanga",
+        "notes": "Том 1-4",
+        "createdAt": "2021-11-09 23:04:04",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 10
+        }
+    },
     "AqPm_VEgjC": {
         "id": "AqPm_VEgjC",
         "title": "Поднятие уровня в одиночку (Новелла)",
@@ -345,18 +357,6 @@
             "id": "134671934-vkontakte",
             "nickname": "slava_kite",
             "booksCount": 2
-        }
-    },
-    "YSqm_0-E05": {
-        "id": "YSqm_0-E05",
-        "title": "Морские волки",
-        "author": "Франк Вольфганг",
-        "notes": "",
-        "createdAt": "2021-11-02 23:31:58",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 1
         }
     }
 }

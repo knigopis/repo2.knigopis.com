@@ -1,4 +1,16 @@
 {
+    "pcxU2wdfIA": {
+        "id": "pcxU2wdfIA",
+        "title": "Моя Вампирская Система (Новелла)",
+        "author": "Jksmanga",
+        "notes": "Том 1-4",
+        "createdAt": "2021-11-09 23:04:04",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 10
+        }
+    },
     "CN17zvU8CZ": {
         "id": "CN17zvU8CZ",
         "title": "Донор",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 212
-        }
-    },
-    "sl41kLA_tc": {
-        "id": "sl41kLA_tc",
-        "title": "Возродиться вместе с заклятым врагом в день свадьбы",
-        "author": "林知落",
-        "notes": "средненько, но прикольно",
-        "createdAt": "2021-09-18 11:32:47",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 67
         }
     }
 }

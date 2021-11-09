@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
+    > Том 1-4
+
 * Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
     > достаточно любопытно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Счастье=50% генетика+10%окружение+40% наши действия
 
 * Мне кажется, я идиот ~ [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup>
-    > Не то, что я ожидала, просто много небольших рассказов об эффектах, которым подвержен мозг
 
 * Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
 
-* Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gray7wand](users/110/110080946273609412257-google)<sup>9</sup> 
+[gray7wand](users/110/110080946273609412257-google)<sup>10</sup> 
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>898</sup> 
 [](users/101/101368518035734751027-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101113826695860472422-google)<sup>2</sup> 
 
 
-_09.11.2021 23:01:43_
+_09.11.2021 23:04:04_
