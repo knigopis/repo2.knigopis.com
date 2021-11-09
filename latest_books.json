@@ -1,4 +1,16 @@
 {
+    "hphmjnqAf3": {
+        "id": "hphmjnqAf3",
+        "title": "Секрети спокою \"лінивої мами\"",
+        "author": "Анна Бикова",
+        "notes": "",
+        "createdAt": "2021-11-09 00:00:12",
+        "user": {
+            "id": "106107989792957993574-google",
+            "nickname": "Мирослава",
+            "booksCount": 30
+        }
+    },
     "wQPF01BCt-": {
         "id": "wQPF01BCt-",
         "title": "Учение дона Хуана. Путь знания индейцев",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 218
-        }
-    },
-    "QyPDxqDfq2": {
-        "id": "QyPDxqDfq2",
-        "title": "Дамы и господа",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2021-10-30 20:08:24",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 211
         }
     }
 }

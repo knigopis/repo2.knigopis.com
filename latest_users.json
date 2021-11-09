@@ -1,4 +1,10 @@
 {
+    "106107989792957993574-google": {
+        "id": "106107989792957993574-google",
+        "nickname": "Мирослава",
+        "booksCount": 30,
+        "updatedAt": "2021-11-09 00:00:12"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 20,
         "updatedAt": "2021-10-23 13:31:10"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 76,
-        "updatedAt": "2021-10-22 08:14:22"
     }
 }
