@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101368518035734751027-google)<sup>0</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>29</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>152</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101113826695860472422-google)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
 [steponyx](users/171/171983710-vkontakte)<sup>0</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>20</sup> 
 
 
-_09.11.2021 00:00:26_
+_09.11.2021 09:57:53_
