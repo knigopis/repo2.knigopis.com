@@ -1,4 +1,16 @@
 {
+    "Yxmg2vl31j": {
+        "id": "Yxmg2vl31j",
+        "title": "Астрологический гид для разбитых сердец",
+        "author": "Сильвия Зукка",
+        "notes": "",
+        "createdAt": "2021-11-09 09:59:51",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 897
+        }
+    },
     "ZXtnBAPxjz": {
         "id": "ZXtnBAPxjz",
         "title": "исчезнувшая",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 219
-        }
-    },
-    "3HAmpRNCNO": {
-        "id": "3HAmpRNCNO",
-        "title": "Оправдание Острова",
-        "author": "Е. Водолазкин",
-        "notes": "",
-        "createdAt": "2021-10-31 15:47:48",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 127
         }
     }
 }
