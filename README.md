@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Серый Пешеход](users/102/102909613832307653776-google)<sup>0</sup> 
+[Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>898</sup> 
 [](users/101/101368518035734751027-google)<sup>1</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>29</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>250</sup> 
 
 
-_09.11.2021 19:57:29_
+_09.11.2021 19:58:11_
