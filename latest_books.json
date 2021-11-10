@@ -1,4 +1,16 @@
 {
+    "6XHa6n9qbD": {
+        "id": "6XHa6n9qbD",
+        "title": "Икс",
+        "author": "Д. Быков",
+        "notes": "",
+        "createdAt": "2021-11-10 06:42:39",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 128
+        }
+    },
     "pcxU2wdfIA": {
         "id": "pcxU2wdfIA",
         "title": "Моя Вампирская Система (Новелла)",
@@ -345,18 +357,6 @@
             "id": "134671934-vkontakte",
             "nickname": "slava_kite",
             "booksCount": 3
-        }
-    },
-    "toznOcjDbC": {
-        "id": "toznOcjDbC",
-        "title": "Черновик",
-        "author": "Лукьяненко",
-        "notes": "",
-        "createdAt": "2021-11-02 23:46:30",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 2
         }
     }
 }
