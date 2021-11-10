@@ -1,4 +1,10 @@
 {
+    "194080517-yandex": {
+        "id": "194080517-yandex",
+        "nickname": "PSVasilyev",
+        "booksCount": 0,
+        "updatedAt": "2021-11-10 10:31:54"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 21,
         "updatedAt": "2021-10-25 16:45:46"
-    },
-    "101113826695860472422-google": {
-        "id": "101113826695860472422-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2021-10-25 08:34:37"
     }
 }
