@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
+    > Отличная книга. Очень грустно, что с 1939г в сознании людей так ничего и не поменялось, так и готовы работать почти за даром и не способны отстаивать достойную оплату своего труда.
+
 * Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
     > Том 1-4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > достаточно любопытно.
 
 * Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
-    > Счастье=50% генетика+10%окружение+40% наши действия
 
 * Мне кажется, я идиот ~ [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
 
-* Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>297</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 [PSVasilyev](users/194/194080517-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>128</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>53</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup> 
 
 
-_11.11.2021 01:09:09_
+_11.11.2021 09:19:47_

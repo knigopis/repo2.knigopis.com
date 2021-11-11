@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 297,
+        "updatedAt": "2021-11-11 09:19:47"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ..",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 53,
         "updatedAt": "2021-10-28 15:49:11"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 64,
-        "updatedAt": "2021-10-25 16:55:31"
     }
 }
