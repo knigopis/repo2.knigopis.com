@@ -1,4 +1,16 @@
 {
+    "xLy-BdbZzq": {
+        "id": "xLy-BdbZzq",
+        "title": "Carpe jugulum",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2021-11-11 10:28:53",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 213
+        }
+    },
     "3CNB3MP7k1": {
         "id": "3CNB3MP7k1",
         "title": "Гроздья гнева",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 20
-        }
-    },
-    "-WdPGUDaTh": {
-        "id": "-WdPGUDaTh",
-        "title": "Красное колесо",
-        "author": "Солженицын",
-        "notes": "",
-        "createdAt": "2021-11-02 23:58:27",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 5
         }
     }
 }
