@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>155</sup>
+# List of books read by [GvenVivar ..](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>156</sup>
 ---
 
 ## 2021
+
+### Куджо
+Стивен Кинг
+> [2021-11-11] 
+
 
 ### Мы
 Евгений Замятин
