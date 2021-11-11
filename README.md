@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
+    > Все они одинаковые, эти взрослые. И вовсе не сыновья, не дочери-подростки – иные. Мы не иные, мы просто молодые. Это теперешние взрослые не такие, как раньше: изо всех сил стремятся доказать, что еще молоды, примазываются, пытаются жить нашей жизнью. Глупо, безнадежно. Не могут они быть такими, как мы. Мы не хотим этого. Мы не хотим, чтобы они одевались, как мы, говорили, как мы, жили теми же интересами. Взрослые до того бездарно нам подражают – невозможно относиться к ним с уважением.
+
 * Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
     > Отличная книга. Очень грустно, что с 1939г в сознании людей так ничего и не поменялось, так и готовы работать почти за даром и не способны отстаивать достойную оплату своего труда.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Том 1-4
 
 * Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
-    > достаточно любопытно.
 
 * Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
 
-* Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>314</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>175</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>213</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>297</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
 [](users/483/483675196-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>189</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>313</sup> 
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>53</sup> 
 
 
-_11.11.2021 17:50:12_
+_11.11.2021 21:16:13_

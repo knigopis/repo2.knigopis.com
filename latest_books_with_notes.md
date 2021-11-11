@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
 * Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
 * Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
 * Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
@@ -30,7 +31,6 @@
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
 * Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
-* Тигр! Тигр! ~ [Chiffi](users/105/105831994080785626680-google)<sup>305</sup>
 
 
-_11.11.2021 09:19:47_
+_11.11.2021 21:16:13_
