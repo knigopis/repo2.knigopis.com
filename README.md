@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>314</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>175</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>213</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>189</sup> 
 [elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>53</sup> 
 
 
-_11.11.2021 21:16:13_
+_12.11.2021 08:58:59_

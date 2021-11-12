@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 154,
+        "updatedAt": "2021-11-12 08:58:59"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 107,
         "updatedAt": "2021-10-28 17:46:32"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 53,
-        "updatedAt": "2021-10-28 15:49:11"
     }
 }

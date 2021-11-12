@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>153</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>154</sup>
 ---
 
 ## 2021
+
+### Нужные вещи
+Стивен Кинг
+> [2021-11-12] 
+
 
 ### Зеленая миля
 Стивен Кинг

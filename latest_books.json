@@ -1,4 +1,16 @@
 {
+    "OpmuWW59u1": {
+        "id": "OpmuWW59u1",
+        "title": "Нужные вещи",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-11-12 08:58:59",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 154
+        }
+    },
     "c6mw1ZvKfr": {
         "id": "c6mw1ZvKfr",
         "title": "Коллекционер",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 22
-        }
-    },
-    "_B4PbqI7JC": {
-        "id": "_B4PbqI7JC",
-        "title": "Как перестать беспокоиться и начал жить",
-        "author": "Дейл Карнеги",
-        "notes": "",
-        "createdAt": "2021-11-04 17:32:00",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 117
         }
     }
 }
