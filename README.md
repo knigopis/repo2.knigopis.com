@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>899</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>900</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>314</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>175</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
 
 
-_12.11.2021 18:40:45_
+_13.11.2021 20:22:37_
