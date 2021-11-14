@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>10</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>11</sup>
 ---
 
 ## 2021
+
+### Маг, поедающий книги
+McEnroe
+> [2021-11-14] 
+
 
 ### Моя Вампирская Система (Новелла)
 Jksmanga

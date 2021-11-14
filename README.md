@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gray7wand](users/110/110080946273609412257-google)<sup>11</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>900</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>314</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 [PSVasilyev](users/194/194080517-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>128</sup> 
-[gray7wand](users/110/110080946273609412257-google)<sup>10</sup> 
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 [](users/101/101368518035734751027-google)<sup>1</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>29</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>107</sup> 
 
 
-_13.11.2021 20:22:37_
+_14.11.2021 18:05:30_
