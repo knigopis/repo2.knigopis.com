@@ -1,4 +1,10 @@
 {
+    "110108278789076439525-google": {
+        "id": "110108278789076439525-google",
+        "nickname": null,
+        "booksCount": 12,
+        "updatedAt": "2021-11-17 16:34:42"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 189,
         "updatedAt": "2021-10-30 08:55:11"
-    },
-    "4558179214240383-facebook": {
-        "id": "4558179214240383-facebook",
-        "nickname": "elena.boo",
-        "booksCount": 0,
-        "updatedAt": "2021-10-28 22:34:08"
     }
 }

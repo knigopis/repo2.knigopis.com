@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110108278789076439525-google)<sup>12</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>215</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>901</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
 [](users/483/483675196-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>189</sup> 
-[elena.boo](users/455/4558179214240383-facebook)<sup>0</sup> 
 
 
-_17.11.2021 13:56:45_
+_17.11.2021 16:34:42_
