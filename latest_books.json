@@ -1,4 +1,16 @@
 {
+    "SEhF9tkiTb": {
+        "id": "SEhF9tkiTb",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "audio",
+        "createdAt": "2021-11-17 13:56:45",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 47
+        }
+    },
     "Pg9e2OCqBl": {
         "id": "Pg9e2OCqBl",
         "title": "Марина",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 896
-        }
-    },
-    "w9T0dSx3Yu": {
-        "id": "w9T0dSx3Yu",
-        "title": "Золотой Храм",
-        "author": "Юкио Мисима",
-        "notes": "",
-        "createdAt": "2021-11-06 14:00:39",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 218
         }
     }
 }

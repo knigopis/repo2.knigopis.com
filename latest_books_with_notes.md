@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Джейн Эйр ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup>
 * Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
 * Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
 * Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 * Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
-* Восход солнца ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>213</sup>
 
 
-_11.11.2021 21:16:13_
+_17.11.2021 13:56:45_

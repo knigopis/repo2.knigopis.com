@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 47,
+        "updatedAt": "2021-11-17 13:56:45"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "elena.boo",
         "booksCount": 0,
         "updatedAt": "2021-10-28 22:34:08"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 107,
-        "updatedAt": "2021-10-28 17:46:32"
     }
 }
