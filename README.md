@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/596/596975933-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>129</sup> 
 [](users/110/110108278789076439525-google)<sup>12</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup> 
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
 [](users/483/483675196-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>189</sup> 
 
 
-_18.11.2021 14:46:33_
+_18.11.2021 16:46:49_
