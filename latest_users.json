@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 176,
+        "updatedAt": "2021-11-18 19:53:29"
+    },
     "596975933-vkontakte": {
         "id": "596975933-vkontakte",
         "nickname": null,
@@ -52,12 +58,6 @@
         "nickname": "Chiffi",
         "booksCount": 314,
         "updatedAt": "2021-11-11 21:16:13"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 175,
-        "updatedAt": "2021-11-11 17:50:12"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

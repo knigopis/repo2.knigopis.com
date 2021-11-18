@@ -1,4 +1,16 @@
 {
+    "3H-BIrHJa8": {
+        "id": "3H-BIrHJa8",
+        "title": "Не навреди",
+        "author": "Генри Марш",
+        "notes": "",
+        "createdAt": "2021-11-18 19:53:29",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 176
+        }
+    },
     "mTupEbwLaG": {
         "id": "mTupEbwLaG",
         "title": "Июнь",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 22
-        }
-    },
-    "ZshzvAGo7u": {
-        "id": "ZshzvAGo7u",
-        "title": "Стрелков и другие",
-        "author": "Сергей Кургинян",
-        "notes": "",
-        "createdAt": "2021-11-07 12:31:16",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 118
         }
     }
 }
