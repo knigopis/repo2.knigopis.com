@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[BogdanSolovsky](users/104/104067068494287499191-google)<sup>0</sup> 
+[BogdanSolovsky](users/104/104067068494287499191-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>176</sup> 
 [](users/596/596975933-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
 
 
-_19.11.2021 16:39:06_
+_19.11.2021 17:03:35_
