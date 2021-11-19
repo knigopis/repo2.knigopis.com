@@ -1,4 +1,10 @@
 {
+    "104067068494287499191-google": {
+        "id": "104067068494287499191-google",
+        "nickname": "BogdanSolovsky",
+        "booksCount": 0,
+        "updatedAt": "2021-11-19 16:39:06"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "ArtShp",
         "booksCount": 0,
         "updatedAt": "2021-10-31 09:00:13"
-    },
-    "483675196-vkontakte": {
-        "id": "483675196-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-10-31 04:06:36"
     }
 }
