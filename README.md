@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Azathordus](users/104/104067068494287499191-google)<sup>1</sup> 
+[Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>130</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>190</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>315</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup> 
 
 
-_20.11.2021 19:11:49_
+_20.11.2021 19:11:53_
