@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Текущие мрак. Летис 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>315</sup>
 * Джейн Эйр ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup>
 * Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
 * Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
@@ -30,7 +31,6 @@
 * Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
 * Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
-* Смерть лорда Еджвера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>214</sup>
 
 
-_17.11.2021 13:56:45_
+_20.11.2021 06:42:44_
