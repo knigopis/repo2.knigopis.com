@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>190</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>315</sup> 
 [BogdanSolovsky](users/104/104067068494287499191-google)<sup>4</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>176</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup> 
-[ArtShp](users/108/108555122591492235889-google)<sup>0</sup> 
 
 
-_20.11.2021 06:42:44_
+_20.11.2021 08:06:12_

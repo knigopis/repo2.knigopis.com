@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>189</sup>
+# Список прочитанных книг пользователя exulted<sup>190</sup>
 ---
 
 ## 2021
+
+### SOG The Secret Wars of America's Commandos in Vietnam
+John L. Plaster
+> [2021-11-15] 
+
 
 ### The Devil's Pleasure Palace: The Cult of Critical Theory and the Subversion of the West
 Michael Walsh
