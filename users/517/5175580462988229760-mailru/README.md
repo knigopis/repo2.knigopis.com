@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>34</sup>
+# List of books read by Triste<sup>35</sup>
 ---
 
 ## 2021
+
+### Гранатовый браслет
+Александр Куприн
+> [2021-11-21] 
+
 
 ### Кому на Руси жить хорошо
 > [2021-11-21] 
