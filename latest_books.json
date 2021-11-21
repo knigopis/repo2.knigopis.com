@@ -1,4 +1,16 @@
 {
+    "6Xiv9mOuGx": {
+        "id": "6Xiv9mOuGx",
+        "title": "Гигиена",
+        "author": "Людмила Петрушевская",
+        "notes": "",
+        "createdAt": "2021-11-21 19:42:31",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 37
+        }
+    },
     "wYhSN0vuV8": {
         "id": "wYhSN0vuV8",
         "title": "Нехоженная дорога",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 900
-        }
-    },
-    "7oY9AVrKoS": {
-        "id": "7oY9AVrKoS",
-        "title": "Самовольная отлучка",
-        "author": "Генрих Бёлль",
-        "notes": "",
-        "createdAt": "2021-11-12 18:40:45",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 899
         }
     }
 }
