@@ -1,7 +1,11 @@
-# List of books read by Triste<sup>31</sup>
+# List of books read by Triste<sup>32</sup>
 ---
 
 ## 2021
+
+### Толстый Тонкий
+> [2021-11-21] 
+
 
 ### Джазовые портреты
 Харуки Мураками
