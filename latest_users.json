@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 31,
+        "updatedAt": "2021-11-21 19:40:09"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "marinefed",
         "booksCount": 0,
         "updatedAt": "2021-11-03 12:06:49"
-    },
-    "134671934-vkontakte": {
-        "id": "134671934-vkontakte",
-        "nickname": "slava_kite",
-        "booksCount": 5,
-        "updatedAt": "2021-11-02 23:58:27"
     }
 }
