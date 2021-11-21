@@ -1,7 +1,11 @@
-# List of books read by Triste<sup>33</sup>
+# List of books read by Triste<sup>34</sup>
 ---
 
 ## 2021
+
+### Кому на Руси жить хорошо
+> [2021-11-21] 
+
 
 ### Каштанка
 > [2021-11-21] 
