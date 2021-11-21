@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>35</sup>
+# List of books read by Triste<sup>36</sup>
 ---
 
 ## 2021
+
+### Нехоженная дорога
+Нагибин Юрий Маркович
+> [2021-11-21] 
+
 
 ### Гранатовый браслет
 Александр Куприн
