@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
 * Текущие мрак. Летис 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>315</sup>
 * Джейн Эйр ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup>
 * Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
@@ -30,7 +31,6 @@
 * Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
 * Чистый понедельник ~ [eva](users/111/111656270551033014778-google)<sup>104</sup>
 * Код да Винчи ~ [aktoty](users/275/275766107-vkontakte)<sup>91</sup>
-* Осиная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>46</sup>
 
 
-_20.11.2021 06:42:44_
+_21.11.2021 19:47:46_

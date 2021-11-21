@@ -1,4 +1,16 @@
 {
+    "m5P9azAQVY": {
+        "id": "m5P9azAQVY",
+        "title": "Легкое Дыхание",
+        "author": "И. А. Бунин",
+        "notes": "Что-то отталкивающее есть в сюжете.",
+        "createdAt": "2021-11-21 19:47:46",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 43
+        }
+    },
     "LU6aEavD66": {
         "id": "LU6aEavD66",
         "title": "Текущие мрак. Летис 5",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 91
-        }
-    },
-    "Mq7m3ty3_f": {
-        "id": "Mq7m3ty3_f",
-        "title": "Осиная фабрика",
-        "author": "Иэн Бэнкс",
-        "notes": "audio",
-        "createdAt": "2021-09-23 15:06:17",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 46
         }
     }
 }
