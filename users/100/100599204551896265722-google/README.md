@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>190</sup>
+# Список прочитанных книг пользователя exulted<sup>191</sup>
 ---
 
 ## 2021
+
+### Русский в Англии: Самоучитель по беллетристике
+Акунин Борис
+> [2021-11-20] 
+
 
 ### SOG The Secret Wars of America's Commandos in Vietnam
 John L. Plaster
