@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>38</sup>
+# List of books read by Triste<sup>39</sup>
 ---
 
 ## 2021
+
+### Голова профессора Доуля
+А. Р. Беляев
+> [2021-11-21] 
+
 
 ### Господин из Сан-Франциско
 > [2021-11-21] 
