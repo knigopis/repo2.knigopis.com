@@ -1,4 +1,16 @@
 {
+    "2NmHPjLbZJ": {
+        "id": "2NmHPjLbZJ",
+        "title": "Господин из Сан-Франциско",
+        "author": "",
+        "notes": "",
+        "createdAt": "2021-11-21 19:42:41",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 38
+        }
+    },
     "6Xiv9mOuGx": {
         "id": "6Xiv9mOuGx",
         "title": "Гигиена",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 11
-        }
-    },
-    "eAhyfxfnwq": {
-        "id": "eAhyfxfnwq",
-        "title": "Год в Провансе",
-        "author": "Питера Мейл",
-        "notes": "",
-        "createdAt": "2021-11-13 20:22:37",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 900
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by Triste<sup>37</sup>
+# List of books read by Triste<sup>38</sup>
 ---
 
 ## 2021
+
+### Господин из Сан-Франциско
+> [2021-11-21] 
+
 
 ### Гигиена
 Людмила Петрушевская
