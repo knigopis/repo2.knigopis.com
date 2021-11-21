@@ -1,7 +1,12 @@
-# List of books read by [just_nyuta](https://www.facebook.com/profile.php?id=10208134766271560)<sup>1</sup>
+# List of books read by [just_nyuta](https://www.facebook.com/profile.php?id=10208134766271560)<sup>2</sup>
 ---
 
 ## 2021
+
+### 365 советов на первый год жизни вашего ребенка
+Евгений Комаровский
+> [2021-10] Много повторов, но не в целом неплохо
+
 
 ### Ініціація
 Люко Дашвар
