@@ -1,7 +1,12 @@
-# List of books read by [just_nyuta](https://www.facebook.com/profile.php?id=10208134766271560)<sup>4</sup>
+# List of books read by [just_nyuta](https://www.facebook.com/profile.php?id=10208134766271560)<sup>5</sup>
 ---
 
 ## 2021
+
+### Кіра й таємниця бублика
+Бодо Шефер
+> [2021-11] Перша частина сподобалася більше. Але і тут є слушні ідеї
+
 
 ### Ініціація
 Люко Дашвар
