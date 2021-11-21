@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[just_nyuta](users/102/10208134766271560-facebook)<sup>3</sup> 
+[just_nyuta](users/102/10208134766271560-facebook)<sup>4</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>130</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [slava_kite](users/134/134671934-vkontakte)<sup>5</sup> 
 
 
-_21.11.2021 12:29:18_
+_21.11.2021 12:32:16_
