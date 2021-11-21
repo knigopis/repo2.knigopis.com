@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>39</sup>
+# List of books read by Triste<sup>40</sup>
 ---
 
 ## 2021
+
+### Случай из практики
+Чехов
+> [2021-11-21] 
+
 
 ### Голова профессора Доуля
 А. Р. Беляев
