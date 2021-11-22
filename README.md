@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
+    > 7/10 Після смерті відомого письменника його вдову починає тероризувати божевільний фанат.
+
 * Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
     > Что-то отталкивающее есть в сюжете.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > — Ни одно поле не может быть плодородным вечно. Время пшеницы проходит, и начинают расти лишь сорняки. Из года в год. Из века в век. Тысячелетие за тысячелетием. Они все больше, все выше, все опаснее, и их яд проникает в саму ткань бытия.
 
 * Джейн Эйр ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup>
-    > audio
 
 * Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мне кажется, я идиот ~ [albina_untiring](users/257/2579695-vkontakte)<sup>21</sup>
 
-* Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>902</sup> 
 [abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
 [mystifizierer](users/102/102801145163683583073-google)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>118</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>328</sup> 
 
 
-_22.11.2021 16:55:52_
+_22.11.2021 21:12:03_

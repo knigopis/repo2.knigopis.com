@@ -1,4 +1,16 @@
 {
+    "gRdoDsczVG": {
+        "id": "gRdoDsczVG",
+        "title": "Історія Ліззі",
+        "author": "Стівен Кінг",
+        "notes": "7/10 Після смерті відомого письменника його вдову починає тероризувати божевільний фанат.",
+        "createdAt": "2021-11-22 21:12:03",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 220
+        }
+    },
     "hiEJtGllRZ": {
         "id": "hiEJtGllRZ",
         "title": "Затоваренная бочкотара",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 39
-        }
-    },
-    "2NmHPjLbZJ": {
-        "id": "2NmHPjLbZJ",
-        "title": "Господин из Сан-Франциско",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-11-21 19:42:41",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 38
         }
     }
 }

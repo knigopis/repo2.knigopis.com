@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>219</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>220</sup>
 ---
 
 ## 2021
+
+### Історія Ліззі
+Стівен Кінг
+> [2021-11-21] 7/10 Після смерті відомого письменника його вдову починає тероризувати божевільний фанат.
+
 
 ### Взрослые дети алкоголиков
 Дженет Дж. Войтиц
