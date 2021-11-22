@@ -1,4 +1,16 @@
 {
+    "IlpiSEmn0d": {
+        "id": "IlpiSEmn0d",
+        "title": "Зеркало идей",
+        "author": "Мишель Турнье",
+        "notes": "",
+        "createdAt": "2021-11-22 07:07:06",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 17
+        }
+    },
     "2pE5B-Bppr": {
         "id": "2pE5B-Bppr",
         "title": "Пятница, или Тихоокеанский лимб",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 31
-        }
-    },
-    "-V0S3yigh8": {
-        "id": "-V0S3yigh8",
-        "title": "Русский в Англии: Самоучитель по беллетристике",
-        "author": "Акунин Борис",
-        "notes": "",
-        "createdAt": "2021-11-21 19:32:38",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 191
         }
     }
 }
