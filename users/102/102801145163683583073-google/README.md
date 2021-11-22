@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>8</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>9</sup>
 ---
 
 ## 2021
@@ -41,6 +41,10 @@
 
 
 ## 2012
+
+### Мастер и Маргарита
+Михаил Булгаков
+
 
 ### Преступление и наказание
 Федор Достоевский
