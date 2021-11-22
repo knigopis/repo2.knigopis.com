@@ -1,4 +1,16 @@
 {
+    "wNjCi-X1db": {
+        "id": "wNjCi-X1db",
+        "title": "Каспар, Мельхиор и Бальтазар",
+        "author": "Мишель Турнье",
+        "notes": "",
+        "createdAt": "2021-11-22 07:04:59",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 13
+        }
+    },
     "rGyHqXdcIU": {
         "id": "rGyHqXdcIU",
         "title": "Метеоры",
@@ -345,18 +357,6 @@
             "id": "10208134766271560-facebook",
             "nickname": "just_nyuta",
             "booksCount": 3
-        }
-    },
-    "HiiSDWGlBs": {
-        "id": "HiiSDWGlBs",
-        "title": "365 советов на первый год жизни вашего ребенка",
-        "author": "Евгений Комаровский",
-        "notes": "Много повторов, но не в целом неплохо",
-        "createdAt": "2021-11-21 12:20:55",
-        "user": {
-            "id": "10208134766271560-facebook",
-            "nickname": "just_nyuta",
-            "booksCount": 2
         }
     }
 }
