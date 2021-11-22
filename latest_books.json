@@ -1,4 +1,16 @@
 {
+    "_1MF8gClmW": {
+        "id": "_1MF8gClmW",
+        "title": "Ладья Харона",
+        "author": "Паскаль Киньяр",
+        "notes": "",
+        "createdAt": "2021-11-22 07:07:26",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 18
+        }
+    },
     "IlpiSEmn0d": {
         "id": "IlpiSEmn0d",
         "title": "Зеркало идей",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 32
-        }
-    },
-    "KqPA6TLSXU": {
-        "id": "KqPA6TLSXU",
-        "title": "Братья",
-        "author": "Бунин",
-        "notes": "",
-        "createdAt": "2021-11-21 19:40:09",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 31
         }
     }
 }
