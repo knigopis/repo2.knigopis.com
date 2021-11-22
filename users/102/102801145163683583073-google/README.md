@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>15</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>16</sup>
 ---
 
 ## 2021
@@ -30,6 +30,10 @@
 
 
 ## 2016
+
+### Пятница, или Тихоокеанский лимб
+Мишель Турнье
+
 
 ### Жиль и Жанна
 Мишель Турнье
