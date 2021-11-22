@@ -1,4 +1,16 @@
 {
+    "7T6awOnt9d": {
+        "id": "7T6awOnt9d",
+        "title": "Американская оккупация",
+        "author": "Паскаль Киньяр",
+        "notes": "",
+        "createdAt": "2021-11-22 07:08:19",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 20
+        }
+    },
     "1FgIOxKG7G": {
         "id": "1FgIOxKG7G",
         "title": "CARUS или Тот, кто дорог своим друзьям",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 34
-        }
-    },
-    "cgW7e1kOef": {
-        "id": "cgW7e1kOef",
-        "title": "Каштанка",
-        "author": "",
-        "notes": "",
-        "createdAt": "2021-11-21 19:40:29",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 33
         }
     }
 }
