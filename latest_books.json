@@ -1,4 +1,16 @@
 {
+    "6WJ7Lph353": {
+        "id": "6WJ7Lph353",
+        "title": "Сериал как искусство. Лекции-путеводитель.",
+        "author": "Евгений Жаринов",
+        "notes": "",
+        "createdAt": "2021-11-22 07:09:37",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 22
+        }
+    },
     "0WlfSUm0CV": {
         "id": "0WlfSUm0CV",
         "title": "Записки на табличках Апронении Авиции",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 36
-        }
-    },
-    "kYK75tKpEi": {
-        "id": "kYK75tKpEi",
-        "title": "Гранатовый браслет",
-        "author": "Александр Куприн",
-        "notes": "",
-        "createdAt": "2021-11-21 19:40:37",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 35
         }
     }
 }

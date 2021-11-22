@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>21</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>22</sup>
 ---
 
 ## 2021
@@ -26,6 +26,13 @@
 ### 1984
 Джордж Оруэлл
 > [2018-10] 
+
+
+
+## 2017
+
+### Сериал как искусство. Лекции-путеводитель.
+Евгений Жаринов
 
 
 
