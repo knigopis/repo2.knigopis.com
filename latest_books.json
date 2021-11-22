@@ -1,4 +1,16 @@
 {
+    "Ofoa-wVqLv": {
+        "id": "Ofoa-wVqLv",
+        "title": "Улисс",
+        "author": "Джеймс Джойс",
+        "notes": "",
+        "createdAt": "2021-11-22 03:34:43",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 2
+        }
+    },
     "mnEgy1c1rG": {
         "id": "mnEgy1c1rG",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 176
-        }
-    },
-    "mTupEbwLaG": {
-        "id": "mTupEbwLaG",
-        "title": "Июнь",
-        "author": "Д. Быков",
-        "notes": "",
-        "createdAt": "2021-11-18 14:46:33",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 129
         }
     }
 }
