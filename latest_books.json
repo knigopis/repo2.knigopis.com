@@ -1,4 +1,16 @@
 {
+    "NyzdJgHm-R": {
+        "id": "NyzdJgHm-R",
+        "title": "Нация и сталь.",
+        "author": "Евгений Жаринов",
+        "notes": "",
+        "createdAt": "2021-11-22 07:10:47",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 23
+        }
+    },
     "6WJ7Lph353": {
         "id": "6WJ7Lph353",
         "title": "Сериал как искусство. Лекции-путеводитель.",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 37
-        }
-    },
-    "wYhSN0vuV8": {
-        "id": "wYhSN0vuV8",
-        "title": "Нехоженная дорога",
-        "author": "Нагибин Юрий Маркович",
-        "notes": "",
-        "createdAt": "2021-11-21 19:42:26",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 36
         }
     }
 }
