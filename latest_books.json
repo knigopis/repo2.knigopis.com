@@ -1,4 +1,16 @@
 {
+    "5g95nHqKDk": {
+        "id": "5g95nHqKDk",
+        "title": "Дублинцы",
+        "author": "Джеймс Джойс",
+        "notes": "",
+        "createdAt": "2021-11-22 03:35:11",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 3
+        }
+    },
     "Ofoa-wVqLv": {
         "id": "Ofoa-wVqLv",
         "title": "Улисс",
@@ -345,18 +357,6 @@
             "id": "104067068494287499191-google",
             "nickname": "BogdanSolovsky",
             "booksCount": 1
-        }
-    },
-    "3H-BIrHJa8": {
-        "id": "3H-BIrHJa8",
-        "title": "Не навреди",
-        "author": "Генри Марш",
-        "notes": "",
-        "createdAt": "2021-11-18 19:53:29",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 176
         }
     }
 }
