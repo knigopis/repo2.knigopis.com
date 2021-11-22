@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mystifizierer](users/102/102801145163683583073-google)<sup>0</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>191</sup> 
 [just_nyuta](users/102/10208134766271560-facebook)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>328</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>3</sup> 
-[marinefed](users/439/4394066-vkontakte)<sup>0</sup> 
 
 
-_21.11.2021 19:47:46_
+_22.11.2021 01:34:42_
