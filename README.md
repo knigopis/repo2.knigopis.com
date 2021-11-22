@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
 [mystifizierer](users/102/102801145163683583073-google)<sup>23</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>191</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>328</sup> 
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>3</sup> 
 
 
-_22.11.2021 07:10:47_
+_22.11.2021 08:28:28_
