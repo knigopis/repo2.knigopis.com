@@ -1,4 +1,10 @@
 {
+    "106946380615100909302-google": {
+        "id": "106946380615100909302-google",
+        "nickname": "abu maryam",
+        "booksCount": 0,
+        "updatedAt": "2021-11-22 08:28:28"
+    },
     "102801145163683583073-google": {
         "id": "102801145163683583073-google",
         "nickname": "mystifizierer",
@@ -172,11 +178,5 @@
         "nickname": "Lala",
         "booksCount": 328,
         "updatedAt": "2021-11-05 19:48:43"
-    },
-    "112090473416384685204-google": {
-        "id": "112090473416384685204-google",
-        "nickname": "Cr_RONIN",
-        "booksCount": 3,
-        "updatedAt": "2021-11-04 23:29:00"
     }
 }
