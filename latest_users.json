@@ -1,4 +1,10 @@
 {
+    "102801145163683583073-google": {
+        "id": "102801145163683583073-google",
+        "nickname": "mystifizierer",
+        "booksCount": 0,
+        "updatedAt": "2021-11-22 01:34:42"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": "Cr_RONIN",
         "booksCount": 3,
         "updatedAt": "2021-11-04 23:29:00"
-    },
-    "4394066-vkontakte": {
-        "id": "4394066-vkontakte",
-        "nickname": "marinefed",
-        "booksCount": 0,
-        "updatedAt": "2021-11-03 12:06:49"
     }
 }
