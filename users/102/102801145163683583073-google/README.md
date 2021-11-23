@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>38</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>39</sup>
 ---
 
 ## 2021
@@ -11,6 +11,13 @@
 ### Улисс
 Джеймс Джойс
 > [2021-02] 
+
+
+
+## 2020
+
+### Узорный покров (The Painted Veil) ENG
+Уильям Сомерсет Моэм
 
 
 
