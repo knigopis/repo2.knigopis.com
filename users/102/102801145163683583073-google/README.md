@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>42</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>43</sup>
 ---
 
 ## 2021
@@ -111,6 +111,10 @@
 
 
 ## 2015
+
+### Игры, в которые играют люди. Психология человеческих взаимоотношений
+Эрик Берн
+
 
 ### Взлет и падение Третьего Рейха
 Уильям Ширер
