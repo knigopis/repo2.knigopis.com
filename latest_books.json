@@ -1,4 +1,16 @@
 {
+    "1MHqJ00Yol": {
+        "id": "1MHqJ00Yol",
+        "title": "Собор Парижской Богоматери",
+        "author": "Виктор Мари Гюго",
+        "notes": "",
+        "createdAt": "2021-11-23 12:18:46",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 34
+        }
+    },
     "qhvKslwKRK": {
         "id": "qhvKslwKRK",
         "title": "Отверженные",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 8
-        }
-    },
-    "C4sJRfAmzq": {
-        "id": "C4sJRfAmzq",
-        "title": "Идиот",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2021-11-22 07:00:45",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 7
         }
     }
 }
