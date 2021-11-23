@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>27</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>28</sup>
 ---
 
 ## 2021
@@ -139,6 +139,10 @@
 
 
 ## 2008
+
+### Как говорить с кем угодно когда угодно
+Дейл Карнеги
+
 
 ### Чайка по имени Джонатан Ливингстон
 Ричард Бах

@@ -1,4 +1,16 @@
 {
+    "69nyJN0aXM": {
+        "id": "69nyJN0aXM",
+        "title": "Как говорить с кем угодно когда угодно",
+        "author": "Дейл Карнеги",
+        "notes": "",
+        "createdAt": "2021-11-23 12:13:11",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 28
+        }
+    },
     "AgT8GseVZ1": {
         "id": "AgT8GseVZ1",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 2
-        }
-    },
-    "mnEgy1c1rG": {
-        "id": "mnEgy1c1rG",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2021-11-22 01:41:45",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 1
         }
     }
 }
