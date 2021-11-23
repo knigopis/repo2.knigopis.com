@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>36</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>37</sup>
 ---
 
 ## 2021
@@ -49,6 +49,10 @@
 
 
 ## 2016
+
+### Забыть Палермо
+Эдмонда Шарль-Ру
+
 
 ### Улица тёмных лавок
 Патрик Модиано
