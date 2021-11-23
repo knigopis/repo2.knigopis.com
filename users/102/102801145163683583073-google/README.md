@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>34</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>35</sup>
 ---
 
 ## 2021
@@ -30,6 +30,10 @@
 
 
 ## 2017
+
+### Вся жизнь впереди / La vie devant soi
+Эмиль Ажар
+
 
 ### Последнее желание
 Анджей Сапковский
