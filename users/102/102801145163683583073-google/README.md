@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>43</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>44</sup>
 ---
 
 ## 2021
@@ -111,6 +111,10 @@
 
 
 ## 2015
+
+### Люди, которые играют в игры
+Эрик Берн
+
 
 ### Игры, в которые играют люди. Психология человеческих взаимоотношений
 Эрик Берн

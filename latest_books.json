@@ -1,4 +1,16 @@
 {
+    "ViXLDiQ3Bz": {
+        "id": "ViXLDiQ3Bz",
+        "title": "Люди, которые играют в игры",
+        "author": "Эрик Берн",
+        "notes": "",
+        "createdAt": "2021-11-23 12:42:03",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 44
+        }
+    },
     "f21A6LJoJX": {
         "id": "f21A6LJoJX",
         "title": "Игры, в которые играют люди. Психология человеческих взаимоотношений",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 18
-        }
-    },
-    "IlpiSEmn0d": {
-        "id": "IlpiSEmn0d",
-        "title": "Зеркало идей",
-        "author": "Мишель Турнье",
-        "notes": "",
-        "createdAt": "2021-11-22 07:07:06",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 17
         }
     }
 }
