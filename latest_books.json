@@ -1,4 +1,16 @@
 {
+    "Hdvuj5ZtwE": {
+        "id": "Hdvuj5ZtwE",
+        "title": "Милые кости (The Lovely Bones) ENG",
+        "author": "Элис Сиболд",
+        "notes": "",
+        "createdAt": "2021-11-23 12:30:27",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 40
+        }
+    },
     "jP5nHBhxBt": {
         "id": "jP5nHBhxBt",
         "title": "Узорный покров (The Painted Veil) ENG",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 14
-        }
-    },
-    "wNjCi-X1db": {
-        "id": "wNjCi-X1db",
-        "title": "Каспар, Мельхиор и Бальтазар",
-        "author": "Мишель Турнье",
-        "notes": "",
-        "createdAt": "2021-11-22 07:04:59",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 13
         }
     }
 }
