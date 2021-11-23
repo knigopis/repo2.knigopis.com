@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>25</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>26</sup>
 ---
 
 ## 2021
@@ -30,6 +30,10 @@
 
 
 ## 2017
+
+### Последнее желание
+Анджей Сапковский
+
 
 ### Нация и сталь.
 Евгений Жаринов
