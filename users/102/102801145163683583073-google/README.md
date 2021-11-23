@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>28</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>29</sup>
 ---
 
 ## 2021
@@ -88,6 +88,10 @@
 
 
 ## 2014
+
+### Франкенштейн
+Мери Шелли
+
 
 ### Так говорил Заратустра
 Фридрих Ницше
