@@ -1,4 +1,4 @@
-# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>40</sup>
+# List of books read by [mystifizierer](https://plus.google.com/u/0/102801145163683583073/)<sup>41</sup>
 ---
 
 ## 2021
@@ -203,6 +203,10 @@
 
 
 ## 2002
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Приключения Карандаша и Самоделкина
 Дружков Ю.
