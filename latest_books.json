@@ -1,4 +1,16 @@
 {
+    "qhvKslwKRK": {
+        "id": "qhvKslwKRK",
+        "title": "Отверженные",
+        "author": "Виктор Мари Гюго",
+        "notes": "",
+        "createdAt": "2021-11-23 12:18:24",
+        "user": {
+            "id": "102801145163683583073-google",
+            "nickname": "mystifizierer",
+            "booksCount": 33
+        }
+    },
     "AWKgFAxhvB": {
         "id": "AWKgFAxhvB",
         "title": "Игра в бисер",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 7
-        }
-    },
-    "FpvGsR-gP_": {
-        "id": "FpvGsR-gP_",
-        "title": "Так говорил Заратустра",
-        "author": "Фридрих Ницше",
-        "notes": "",
-        "createdAt": "2021-11-22 06:59:23",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 6
         }
     }
 }
