@@ -1,4 +1,10 @@
 {
+    "104280383205648022265-google": {
+        "id": "104280383205648022265-google",
+        "nickname": "Werwolf",
+        "booksCount": 0,
+        "updatedAt": "2021-11-24 09:21:01"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 217,
         "updatedAt": "2021-11-06 14:00:50"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 85,
-        "updatedAt": "2021-11-05 21:16:00"
     }
 }
