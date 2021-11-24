@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>155</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>904</sup> 
 [mystifizierer](users/102/102801145163683583073-google)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>118</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>85</sup> 
 
 
-_24.11.2021 09:08:19_
+_24.11.2021 09:21:01_
