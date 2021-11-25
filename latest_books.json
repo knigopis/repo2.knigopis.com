@@ -1,4 +1,16 @@
 {
+    "nF3GS01YRC": {
+        "id": "nF3GS01YRC",
+        "title": "Отдаленные послелствия. Том 1.",
+        "author": "А. Маринина",
+        "notes": "",
+        "createdAt": "2021-11-25 00:36:22",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 57
+        }
+    },
     "31-CdH-gt-": {
         "id": "31-CdH-gt-",
         "title": "Ловец снов",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 21
-        }
-    },
-    "7T6awOnt9d": {
-        "id": "7T6awOnt9d",
-        "title": "Американская оккупация",
-        "author": "Паскаль Киньяр",
-        "notes": "",
-        "createdAt": "2021-11-22 07:08:19",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 20
         }
     }
 }
