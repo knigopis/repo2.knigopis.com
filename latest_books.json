@@ -1,4 +1,16 @@
 {
+    "uen3SvRBtQ": {
+        "id": "uen3SvRBtQ",
+        "title": "Старик и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2021-11-25 17:09:10",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 44
+        }
+    },
     "mh60xuwxAp": {
         "id": "mh60xuwxAp",
         "title": "Отдаленные последствия. Том 2.",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 23
-        }
-    },
-    "6WJ7Lph353": {
-        "id": "6WJ7Lph353",
-        "title": "Сериал как искусство. Лекции-путеводитель.",
-        "author": "Евгений Жаринов",
-        "notes": "",
-        "createdAt": "2021-11-22 07:09:37",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 22
         }
     }
 }

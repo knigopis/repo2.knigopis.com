@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>44</sup> 
 [](users/153/1537586159620888-facebook)<sup>58</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>155</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mystifizierer](users/102/102801145163683583073-google)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup> 
 [abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>191</sup> 
 [just_nyuta](users/102/10208134766271560-facebook)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 
 
-_25.11.2021 00:36:49_
+_25.11.2021 17:09:10_
