@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 156,
+        "updatedAt": "2021-11-26 08:40:42"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -16,12 +22,6 @@
         "nickname": "Werwolf",
         "booksCount": 0,
         "updatedAt": "2021-11-24 09:21:01"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 155,
-        "updatedAt": "2021-11-24 09:08:19"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",

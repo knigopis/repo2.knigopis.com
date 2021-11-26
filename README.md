@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>156</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>44</sup> 
 [](users/153/1537586159620888-facebook)<sup>58</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>155</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>904</sup> 
 [mystifizierer](users/102/102801145163683583073-google)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 
 
-_25.11.2021 17:09:10_
+_26.11.2021 08:40:42_

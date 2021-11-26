@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>155</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>156</sup>
 ---
 
 ## 2021
+
+### Ванна Фуччи жив здоров и передаёт всем привет из ада
+Дэн Симмрнс
+> [2021-11-26] 
+
 
 ### Ловец снов
 Стивен Кинг
