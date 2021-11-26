@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>156</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>157</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>44</sup> 
 [](users/153/1537586159620888-facebook)<sup>58</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>217</sup> 
 
 
-_26.11.2021 08:40:42_
+_26.11.2021 10:39:54_
