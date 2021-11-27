@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>220</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>221</sup>
 ---
 
 ## 2021
+
+### Жінка у вікні
+Е. Дж. Фінн
+> [2021-11-27] 9/10 Захоплюючий трилер. Жінка з агорафобією бачить у ввкно як вбивають її  сусідку, але їй ніхто не вірить.
+
 
 ### Історія Ліззі
 Стівен Кінг
