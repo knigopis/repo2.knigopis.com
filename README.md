@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/640/640645950464440-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup> 
 [](users/109/109292212120320834370-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>157</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>152</sup> 
 [neokchan](users/113/113179958976964886996-google)<sup>70</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>118</sup> 
 
 
-_27.11.2021 18:39:26_
+_28.11.2021 10:15:36_
