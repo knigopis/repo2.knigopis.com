@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[shikamaruo_onara](users/569/569209044-vkontakte)<sup>1</sup> 
+[shikamaruo_onara](users/569/569209044-vkontakte)<sup>2</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>45</sup> 
 [](users/640/640645950464440-facebook)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [neokchan](users/113/113179958976964886996-google)<sup>70</sup> 
 
 
-_28.11.2021 20:58:14_
+_28.11.2021 20:59:16_

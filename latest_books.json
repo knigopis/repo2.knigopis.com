@@ -1,4 +1,16 @@
 {
+    "Gh9tatEGaa": {
+        "id": "Gh9tatEGaa",
+        "title": "Призрак оперы",
+        "author": "Гастон Леру",
+        "notes": "",
+        "createdAt": "2021-11-28 20:59:16",
+        "user": {
+            "id": "569209044-vkontakte",
+            "nickname": "shikamaruo_onara",
+            "booksCount": 2
+        }
+    },
     "tggwo91XO0": {
         "id": "tggwo91XO0",
         "title": "Девятая жизнь Луи Дракса",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 27
-        }
-    },
-    "Yr07sjDZ4G": {
-        "id": "Yr07sjDZ4G",
-        "title": "Последнее желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2021-11-23 12:12:21",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 26
         }
     }
 }
