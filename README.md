@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
+    > Формалистическая статья.
+
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
     > 9/10 Захоплюючий трилер. Жінка з агорафобією бачить у ввкно як вбивають її  сусідку, але їй ніхто не вірить.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Після смерті відомого письменника його вдову починає тероризувати божевільний фанат.
 
 * Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
-    > Что-то отталкивающее есть в сюжете.
 
 * Текущие мрак. Летис 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>315</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
 
-* Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>45</sup> 
 [](users/640/640645950464440-facebook)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup> 
 [](users/109/109292212120320834370-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>157</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>44</sup> 
 [](users/153/1537586159620888-facebook)<sup>58</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>904</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup> 
 
 
-_28.11.2021 10:17:28_
+_28.11.2021 16:47:28_

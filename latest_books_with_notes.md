@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
 * Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
 * Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
@@ -30,7 +31,6 @@
 * Секретное досье 8. Память камея ~ [Chiffi](users/105/105831994080785626680-google)<sup>307</sup>
 * Тот, кто живёт в колодце ~ [Chiffi](users/105/105831994080785626680-google)<sup>306</sup>
 * Ущелье дьявола ~ [Euphoria](users/106/106304994652616315178-google)<sup>84</sup>
-* Фауст ~ [Naricev](users/107/107090515204537133928-google)<sup>147</sup>
 
 
-_27.11.2021 18:39:26_
+_28.11.2021 16:47:28_
