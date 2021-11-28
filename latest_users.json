@@ -1,4 +1,10 @@
 {
+    "569209044-vkontakte": {
+        "id": "569209044-vkontakte",
+        "nickname": "shikamaruo_onara",
+        "booksCount": 0,
+        "updatedAt": "2021-11-28 20:56:17"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": "neokchan",
         "booksCount": 70,
         "updatedAt": "2021-11-08 15:36:06"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 22,
-        "updatedAt": "2021-11-07 16:23:53"
     }
 }
