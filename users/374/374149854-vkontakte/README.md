@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>118</sup>
+# List of books read by danyluk62<sup>119</sup>
 ---
 
 ## 2021
+
+### Обратная сторона
+Админ RSOTM
+> [2021-11] 
+
 
 ### Стрелков и другие
 Сергей Кургинян
