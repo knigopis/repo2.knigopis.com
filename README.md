@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>21</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>119</sup> 
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [PSVasilyev](users/194/194080517-yandex)<sup>0</sup> 
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 [](users/101/101368518035734751027-google)<sup>1</sup> 
-[Мирослава](users/106/106107989792957993574-google)<sup>29</sup> 
 
 
-_29.11.2021 11:09:47_
+_29.11.2021 21:41:54_
