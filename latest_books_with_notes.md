@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
 * Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
 * Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
@@ -30,7 +31,6 @@
 * Тора (пять книг) ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup>
 * Секретное досье 8. Память камея ~ [Chiffi](users/105/105831994080785626680-google)<sup>307</sup>
 * Тот, кто живёт в колодце ~ [Chiffi](users/105/105831994080785626680-google)<sup>306</sup>
-* Ущелье дьявола ~ [Euphoria](users/106/106304994652616315178-google)<sup>84</sup>
 
 
-_28.11.2021 16:47:28_
+_30.11.2021 20:32:37_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
+    > Люди охотнее подчиняются и даже помогают, когда расположены к тебе. Может, они не пойдут за тобой, но хотя бы не ударят в спину....ценят правила. Если ты соблюдаешь их в мелочах, в том, что им привычно, – они проще примут тебя.
+
 * Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
     > Формалистическая статья.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Захоплюючий трилер. Жінка з агорафобією бачить у ввкно як вбивають її  сусідку, але їй ніхто не вірить.
 
 * Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
-    > 7/10 Після смерті відомого письменника його вдову починає тероризувати божевільний фанат.
 
 * Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
 
-* Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>316</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>131</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>21</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [just_nyuta](users/102/10208134766271560-facebook)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>315</sup> 
 [](users/596/596975933-vkontakte)<sup>0</sup> 
 [](users/110/110108278789076439525-google)<sup>12</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>1</sup> 
 
 
-_30.11.2021 16:14:09_
+_30.11.2021 20:32:37_
