@@ -1,4 +1,16 @@
 {
+    "6wT9kn4u0J": {
+        "id": "6wT9kn4u0J",
+        "title": "Д. Быков",
+        "author": "Истребитель",
+        "notes": "",
+        "createdAt": "2021-11-30 16:14:09",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 131
+        }
+    },
     "VwzCn02n5R": {
         "id": "VwzCn02n5R",
         "title": "Господь - мой брокер",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 32
-        }
-    },
-    "DMCTCjCKkm": {
-        "id": "DMCTCjCKkm",
-        "title": "Герман Гессе",
-        "author": "Сиддхартха",
-        "notes": "",
-        "createdAt": "2021-11-23 12:15:43",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 31
         }
     }
 }
