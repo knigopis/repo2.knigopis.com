@@ -1,4 +1,16 @@
 {
+    "wLa-I4eUz6": {
+        "id": "wLa-I4eUz6",
+        "title": "Наномашина (Новелла)",
+        "author": "Hanjung Wolya",
+        "notes": "",
+        "createdAt": "2021-12-01 12:10:01",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 12
+        }
+    },
     "q3HUSc6NE2": {
         "id": "q3HUSc6NE2",
         "title": "49 штат",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 35
-        }
-    },
-    "1MHqJ00Yol": {
-        "id": "1MHqJ00Yol",
-        "title": "Собор Парижской Богоматери",
-        "author": "Виктор Мари Гюго",
-        "notes": "",
-        "createdAt": "2021-11-23 12:18:46",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 34
         }
     }
 }

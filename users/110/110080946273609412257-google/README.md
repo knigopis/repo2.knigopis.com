@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>11</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>12</sup>
 ---
 
 ## 2021
+
+### Наномашина (Новелла)
+Hanjung Wolya
+> [2021-12-01] 
+
 
 ### Маг, поедающий книги
 McEnroe
