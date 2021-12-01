@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>221</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>222</sup>
 ---
 
 ## 2021
+
+### Букова земля
+Марія Матіос
+> [2021-12-01] 7/10 роман-панорама довжиною у 225 років з епілогом-обрамлпнням зі Станиці Лвганської.
+
 
 ### Жінка у вікні
 Е. Дж. Фінн

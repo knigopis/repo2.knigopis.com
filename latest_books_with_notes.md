@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
 * Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
 * Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
@@ -30,7 +31,6 @@
 * Танцы марионеток ~ [Chiffi](users/105/105831994080785626680-google)<sup>308</sup>
 * Тора (пять книг) ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>215</sup>
 * Секретное досье 8. Память камея ~ [Chiffi](users/105/105831994080785626680-google)<sup>307</sup>
-* Тот, кто живёт в колодце ~ [Chiffi](users/105/105831994080785626680-google)<sup>306</sup>
 
 
-_30.11.2021 20:32:37_
+_01.12.2021 21:25:53_

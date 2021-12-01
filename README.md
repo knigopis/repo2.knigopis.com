@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
+    > 7/10 роман-панорама довжиною у 225 років з епілогом-обрамлпнням зі Станиці Лвганської.
+
 * Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
     > Люди охотнее подчиняются и даже помогают, когда расположены к тебе. Может, они не пойдут за тобой, но хотя бы не ударят в спину....ценят правила. Если ты соблюдаешь их в мелочах, в том, что им привычно, – они проще примут тебя.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Формалистическая статья.
 
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
-    > 9/10 Захоплюючий трилер. Жінка з агорафобією бачить у ввкно як вбивають її  сусідку, але їй ніхто не вірить.
 
 * Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
 
-* Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>316</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>45</sup> 
 [](users/640/640645950464440-facebook)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup> 
 [](users/109/109292212120320834370-google)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>58</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>1</sup> 
 
 
-_01.12.2021 12:10:01_
+_01.12.2021 21:25:53_
