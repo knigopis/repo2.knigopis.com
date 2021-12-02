@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Пу_тем](users/344/3448154788585127-facebook)<sup>35</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>158</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 [PSVasilyev](users/194/194080517-yandex)<sup>0</sup> 
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
-[](users/101/101368518035734751027-google)<sup>1</sup> 
 
 
-_01.12.2021 21:25:53_
+_02.12.2021 03:23:20_
