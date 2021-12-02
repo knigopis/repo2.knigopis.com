@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>21</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>22</sup>
 ---
 
 ## 2021
+
+### Королевство на грани нервного срыва
+Надежда Первухина
+> [2021-12-02] 
+
 
 ### Принцесса с дурной репутацией
 Надежда Первухина

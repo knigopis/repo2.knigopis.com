@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>22</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>217</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>316</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>131</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>21</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>119</sup> 
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>45</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 
 
-_02.12.2021 20:13:48_
+_02.12.2021 21:21:42_
