@@ -1,4 +1,16 @@
 {
+    "5eGnqBbYhe": {
+        "id": "5eGnqBbYhe",
+        "title": "Біблія",
+        "author": "Пер. Івана Огієнка",
+        "notes": "4/10 Історії, що стали підґрунтям європейської та світової культури.",
+        "createdAt": "2021-12-02 22:10:21",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 224
+        }
+    },
     "EbIWm5b5V-": {
         "id": "EbIWm5b5V-",
         "title": "Тринадцатая сказка",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 308
-        }
-    },
-    "4C_q0K25TG": {
-        "id": "4C_q0K25TG",
-        "title": "Тора (пять книг)",
-        "author": "Коллектив авторов/Фольклор",
-        "notes": "4/10 Длинный и запутанный текст.",
-        "createdAt": "2021-09-30 20:21:26",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 215
         }
     }
 }

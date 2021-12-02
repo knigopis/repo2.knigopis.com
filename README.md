@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
+    > 4/10 Історії, що стали підґрунтям європейської та світової культури.
+
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
     > 10/10 дом с привидениями, фамильные секреты, никому не известная биография писательницы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 роман-панорама довжиною у 225 років з епілогом-обрамлпнням зі Станиці Лвганської.
 
 * Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
-    > Люди охотнее подчиняются и даже помогают, когда расположены к тебе. Может, они не пойдут за тобой, но хотя бы не ударят в спину....ценят правила. Если ты соблюдаешь их в мелочах, в том, что им привычно, – они проще примут тебя.
 
 * Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Джейн Эйр ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup>
 
-* Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>22</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>217</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 
 
-_02.12.2021 22:06:01_
+_02.12.2021 22:10:21_

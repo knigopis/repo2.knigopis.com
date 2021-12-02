@@ -1,4 +1,16 @@
 {
+    "5eGnqBbYhe": {
+        "id": "5eGnqBbYhe",
+        "title": "Біблія",
+        "author": "Пер. Івана Огієнка",
+        "notes": "4/10 Історії, що стали підґрунтям європейської та світової культури.",
+        "createdAt": "2021-12-02 22:10:21",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 224
+        }
+    },
     "EbIWm5b5V-": {
         "id": "EbIWm5b5V-",
         "title": "Тринадцатая сказка",
@@ -345,18 +357,6 @@
             "id": "102801145163683583073-google",
             "nickname": "mystifizierer",
             "booksCount": 43
-        }
-    },
-    "SZnXfFXkUQ": {
-        "id": "SZnXfFXkUQ",
-        "title": "Взлет и падение Третьего Рейха",
-        "author": "Уильям Ширер",
-        "notes": "",
-        "createdAt": "2021-11-23 12:40:16",
-        "user": {
-            "id": "102801145163683583073-google",
-            "nickname": "mystifizierer",
-            "booksCount": 42
         }
     }
 }
