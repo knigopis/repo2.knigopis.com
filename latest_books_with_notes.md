@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
 * Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
 * Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
@@ -30,7 +31,6 @@
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
 * Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
 * Улыбка пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>309</sup>
-* Танцы марионеток ~ [Chiffi](users/105/105831994080785626680-google)<sup>308</sup>
 
 
-_02.12.2021 22:10:21_
+_02.12.2021 22:22:01_
