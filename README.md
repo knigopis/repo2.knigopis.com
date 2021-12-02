@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
+    > 10/10 дом с привидениями, фамильные секреты, никому не известная биография писательницы.
+
 * Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
     > 7/10 роман-панорама довжиною у 225 років з епілогом-обрамлпнням зі Станиці Лвганської.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Люди охотнее подчиняются и даже помогают, когда расположены к тебе. Может, они не пойдут за тобой, но хотя бы не ударят в спину....ценят правила. Если ты соблюдаешь их в мелочах, в том, что им привычно, – они проще примут тебя.
 
 * Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
-    > Формалистическая статья.
 
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Коллекционер ~ [Chiffi](users/105/105831994080785626680-google)<sup>314</sup>
 
-* Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>22</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>217</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>316</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 
 
-_02.12.2021 21:21:42_
+_02.12.2021 22:06:01_
