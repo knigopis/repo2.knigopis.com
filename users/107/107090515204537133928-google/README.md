@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>159</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>160</sup>
 ---
 
 ## 2021
+
+### Врата чудовищ
+Уильям Хоуп
+> [2021-12-03] 
+
 
 ### Ночные гости
 Теодор Стаджон
