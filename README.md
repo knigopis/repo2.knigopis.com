@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
+    > paper
+
 * Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
     > 7/10 Кривава помста матері за сина, вбитого поліцаями під час Другої світової.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4/10 Історії, що стали підґрунтям європейської та світової культури.
 
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
-    > 10/10 дом с привидениями, фамильные секреты, никому не известная биография писательницы.
 
 * Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
 
-* Текущие мрак. Летис 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>315</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>161</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
 [](users/596/596975933-vkontakte)<sup>0</sup> 
 [](users/110/110108278789076439525-google)<sup>12</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>47</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>297</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 [PSVasilyev](users/194/194080517-yandex)<sup>0</sup> 
 
 
-_03.12.2021 10:05:43_
+_03.12.2021 19:31:56_

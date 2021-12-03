@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
 * Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
 * Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
@@ -30,7 +31,6 @@
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
 * Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
 * Дудочка крысолова ~ [Chiffi](users/105/105831994080785626680-google)<sup>310</sup>
-* Улыбка пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>309</sup>
 
 
-_02.12.2021 22:22:01_
+_03.12.2021 19:31:56_

@@ -1,4 +1,16 @@
 {
+    "GSPWSzUik5": {
+        "id": "GSPWSzUik5",
+        "title": "Хоббит, или Туда и обратно",
+        "author": "Джон Р. Р. Толкин",
+        "notes": "paper",
+        "createdAt": "2021-12-03 19:31:56",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 48
+        }
+    },
     "OH2qRT1VL-": {
         "id": "OH2qRT1VL-",
         "title": "Татуировщик из Освенцима",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 156
-        }
-    },
-    "uen3SvRBtQ": {
-        "id": "uen3SvRBtQ",
-        "title": "Старик и море",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2021-11-25 17:09:10",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 44
         }
     }
 }
