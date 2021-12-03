@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>117</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>118</sup>
 ---
 
 ## 2021
+
+### Татуировщик из Освенцима
+Хезер Моррис
+> [2021-12-02] 
+
 
 ### Страна радости
 Стивен Кинг

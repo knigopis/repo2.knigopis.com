@@ -1,4 +1,16 @@
 {
+    "OH2qRT1VL-": {
+        "id": "OH2qRT1VL-",
+        "title": "Татуировщик из Освенцима",
+        "author": "Хезер Моррис",
+        "notes": "",
+        "createdAt": "2021-12-03 10:05:43",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 118
+        }
+    },
     "QSLZZMqyDr": {
         "id": "QSLZZMqyDr",
         "title": "Страна радости",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 44
-        }
-    },
-    "mh60xuwxAp": {
-        "id": "mh60xuwxAp",
-        "title": "Отдаленные последствия. Том 2.",
-        "author": "А. Маринина",
-        "notes": "",
-        "createdAt": "2021-11-25 00:36:49",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 58
         }
     }
 }
