@@ -1,4 +1,10 @@
 {
+    "113482047499020131819-google": {
+        "id": "113482047499020131819-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-12-03 23:23:22"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ..",
         "booksCount": 156,
         "updatedAt": "2021-11-11 01:09:09"
-    },
-    "194080517-yandex": {
-        "id": "194080517-yandex",
-        "nickname": "PSVasilyev",
-        "booksCount": 0,
-        "updatedAt": "2021-11-10 10:31:54"
     }
 }
