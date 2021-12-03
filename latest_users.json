@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 117,
+        "updatedAt": "2021-12-03 10:05:03"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "PSVasilyev",
         "booksCount": 0,
         "updatedAt": "2021-11-10 10:31:54"
-    },
-    "102909613832307653776-google": {
-        "id": "102909613832307653776-google",
-        "nickname": "Серый Пешеход",
-        "booksCount": 1,
-        "updatedAt": "2021-11-09 19:58:11"
     }
 }

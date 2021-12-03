@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>117</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>161</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>297</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 [PSVasilyev](users/194/194080517-yandex)<sup>0</sup> 
-[Серый Пешеход](users/102/102909613832307653776-google)<sup>1</sup> 
 
 
-_03.12.2021 09:47:12_
+_03.12.2021 10:05:03_

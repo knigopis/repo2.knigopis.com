@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>116</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>117</sup>
 ---
 
 ## 2021
+
+### Страна радости
+Стивен Кинг
+> [2021-11-09] 
+
 
 ### Краем глаза
 Дин Кунц
