@@ -1,4 +1,16 @@
 {
+    "WBX0GHq2BX": {
+        "id": "WBX0GHq2BX",
+        "title": "Музей восковых фигур",
+        "author": "Альфред Беррейдж",
+        "notes": "",
+        "createdAt": "2021-12-03 09:47:12",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 161
+        }
+    },
     "XyG-VAd5dx": {
         "id": "XyG-VAd5dx",
         "title": "Врата чудовищ",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 57
-        }
-    },
-    "31-CdH-gt-": {
-        "id": "31-CdH-gt-",
-        "title": "Ловец снов",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-11-24 09:08:19",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 155
         }
     }
 }
