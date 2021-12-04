@@ -1,4 +1,16 @@
 {
+    "37Zl8CAvND": {
+        "id": "37Zl8CAvND",
+        "title": "Серые волки, серое море. Боевой путь U 124",
+        "author": "Гейзевэй Э",
+        "notes": "",
+        "createdAt": "2021-12-04 23:10:52",
+        "user": {
+            "id": "134671934-vkontakte",
+            "nickname": "slava_kite",
+            "booksCount": 6
+        }
+    },
     "-yX67wIxMf": {
         "id": "-yX67wIxMf",
         "title": "В стенах Эрикса",
@@ -345,18 +357,6 @@
             "id": "569209044-vkontakte",
             "nickname": "shikamaruo_onara",
             "booksCount": 1
-        }
-    },
-    "tUGl4LNePW": {
-        "id": "tUGl4LNePW",
-        "title": "Как сделана \"Шинель\" Гоголя",
-        "author": "Б. М. Эйхенбаум",
-        "notes": "Формалистическая статья.",
-        "createdAt": "2021-11-28 16:47:28",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 45
         }
     }
 }

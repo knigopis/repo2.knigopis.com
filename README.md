@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slava_kite](users/134/134671934-vkontakte)<sup>6</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>162</sup> 
 [](users/153/1537586159620888-facebook)<sup>59</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>298</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
 [](users/596/596975933-vkontakte)<sup>0</sup> 
 [](users/110/110108278789076439525-google)<sup>12</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 
 
-_04.12.2021 12:54:22_
+_04.12.2021 23:10:52_

@@ -1,4 +1,10 @@
 {
+    "134671934-vkontakte": {
+        "id": "134671934-vkontakte",
+        "nickname": "slava_kite",
+        "booksCount": 6,
+        "updatedAt": "2021-12-04 23:10:52"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 12,
         "updatedAt": "2021-11-17 16:34:42"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ..",
-        "booksCount": 156,
-        "updatedAt": "2021-11-11 01:09:09"
     }
 }

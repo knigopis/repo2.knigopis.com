@@ -1,7 +1,12 @@
-# List of books read by [slava_kite](http://vk.com/id134671934)<sup>5</sup>
+# List of books read by [slava_kite](http://vk.com/id134671934)<sup>6</sup>
 ---
 
 ## 2021
+
+### Серые волки, серое море. Боевой путь U 124
+Гейзевэй Э
+> [2021-12-05] 
+
 
 ### Архипелаг ГУЛАГ
 Солженицын
