@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
+    > Классический английский детектив. Написан в форме отчётов действующих лиц. Местами затянуто, но интересно. Леди Глайд подбешивала с первых страниц.
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>317</sup>
     > агрессия спонтанна и не обязательно должна иметь внешнюю причину, что она легко адресуется как раз тому, кто тебе дорог или тому, кто вообще ни в чем не виноват.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > paper
 
 * Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
-    > 7/10 Кривава помста матері за сина, вбитого поліцаями під час Другої світової.
 
 * Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
 
-* Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>298</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>317</sup> 
 [](users/113/113482047499020131819-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
 [](users/596/596975933-vkontakte)<sup>0</sup> 
 [](users/110/110108278789076439525-google)<sup>12</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>297</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 
 
-_04.12.2021 08:25:27_
+_04.12.2021 09:19:30_

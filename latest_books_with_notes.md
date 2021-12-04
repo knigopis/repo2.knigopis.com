@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>317</sup>
 * Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
 * Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
@@ -30,7 +31,6 @@
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
 * Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
 * Шляпа, полная неба ~ [Garka](users/115/115753719718250012620-google)<sup>295</sup>
-* Золушка и дракон ~ [Chiffi](users/105/105831994080785626680-google)<sup>312</sup>
 
 
-_04.12.2021 08:25:27_
+_04.12.2021 09:19:30_
