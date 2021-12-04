@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>317</sup>
+    > агрессия спонтанна и не обязательно должна иметь внешнюю причину, что она легко адресуется как раз тому, кто тебе дорог или тому, кто вообще ни в чем не виноват.
+
 * Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
     > paper
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Кривава помста матері за сина, вбитого поліцаями під час Другої світової.
 
 * Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
-    > 4/10 Історії, що стали підґрунтям європейської та світової культури.
 
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
 
-* Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>317</sup> 
 [](users/113/113482047499020131819-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>217</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>316</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>131</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>119</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 
 
-_03.12.2021 23:23:22_
+_04.12.2021 08:25:27_
