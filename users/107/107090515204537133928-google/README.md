@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>161</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>162</sup>
 ---
 
 ## 2021
+
+### В стенах Эрикса
+Говард Филлипс Лавкрафт
+> [2021-12-04] 
+
 
 ### Музей восковых фигур
 Альфред Беррейдж
