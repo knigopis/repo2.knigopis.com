@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>59</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>298</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>317</sup> 
 [](users/113/113482047499020131819-google)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>45</sup> 
 [](users/640/640645950464440-facebook)<sup>1</sup> 
 [](users/109/109292212120320834370-google)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>58</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>904</sup> 
 [mystifizierer](users/102/102801145163683583073-google)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>156</sup> 
 
 
-_04.12.2021 09:19:30_
+_04.12.2021 11:50:47_
