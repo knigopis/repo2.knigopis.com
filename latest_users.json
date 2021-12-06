@@ -1,4 +1,10 @@
 {
+    "82783120-yandex": {
+        "id": "82783120-yandex",
+        "nickname": "moshkinilya",
+        "booksCount": 0,
+        "updatedAt": "2021-12-06 15:26:01"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-11-18 16:46:49"
-    },
-    "110108278789076439525-google": {
-        "id": "110108278789076439525-google",
-        "nickname": null,
-        "booksCount": 12,
-        "updatedAt": "2021-11-17 16:34:42"
     }
 }
