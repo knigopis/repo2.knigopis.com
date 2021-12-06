@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>162</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>163</sup>
 ---
 
 ## 2021
+
+### Крысолов
+Александр Грин
+> [2021-12-06] 
+
 
 ### В стенах Эрикса
 Говард Филлипс Лавкрафт

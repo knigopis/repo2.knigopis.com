@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>163</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>7</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>162</sup> 
 [](users/153/1537586159620888-facebook)<sup>59</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>298</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>317</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110108278789076439525-google)<sup>12</sup> 
 
 
-_06.12.2021 01:31:16_
+_06.12.2021 13:31:11_
