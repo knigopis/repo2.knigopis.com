@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/100/100447278595804083446-google)<sup>0</sup> 
 [moshkinilya](users/827/82783120-yandex)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>132</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>163</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [just_nyuta](users/102/10208134766271560-facebook)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
-[](users/596/596975933-vkontakte)<sup>0</sup> 
 
 
-_06.12.2021 15:27:13_
+_06.12.2021 19:47:14_
