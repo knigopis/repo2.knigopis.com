@@ -1,4 +1,16 @@
 {
+    "S8tkZHBppp": {
+        "id": "S8tkZHBppp",
+        "title": "Немецкие субмарины в бою, Воспоминания",
+        "author": "Йохан Бреннеке",
+        "notes": "",
+        "createdAt": "2021-12-06 01:31:16",
+        "user": {
+            "id": "134671934-vkontakte",
+            "nickname": "slava_kite",
+            "booksCount": 7
+        }
+    },
     "37Zl8CAvND": {
         "id": "37Zl8CAvND",
         "title": "Серые волки, серое море. Боевой путь U 124",
@@ -345,18 +357,6 @@
             "id": "569209044-vkontakte",
             "nickname": "shikamaruo_onara",
             "booksCount": 2
-        }
-    },
-    "tggwo91XO0": {
-        "id": "tggwo91XO0",
-        "title": "Девятая жизнь Луи Дракса",
-        "author": "Лиз Дженсен",
-        "notes": "",
-        "createdAt": "2021-11-28 20:58:14",
-        "user": {
-            "id": "569209044-vkontakte",
-            "nickname": "shikamaruo_onara",
-            "booksCount": 1
         }
     }
 }
