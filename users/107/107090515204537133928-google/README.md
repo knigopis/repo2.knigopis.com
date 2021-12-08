@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>163</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>164</sup>
 ---
 
 ## 2021
+
+### Брошенное судно
+Уильям Хоуп Ходжсон
+> [2021-12-08] 
+
 
 ### Крысолов
 Александр Грин

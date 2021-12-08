@@ -1,4 +1,16 @@
 {
+    "3mR6RTlYKw": {
+        "id": "3mR6RTlYKw",
+        "title": "Брошенное судно",
+        "author": "Уильям Хоуп Ходжсон",
+        "notes": "",
+        "createdAt": "2021-12-08 15:15:48",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 164
+        }
+    },
     "wzHsU6Usou": {
         "id": "wzHsU6Usou",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "Мирослава",
             "booksCount": 30
-        }
-    },
-    "t6Ar2_pg-T": {
-        "id": "t6Ar2_pg-T",
-        "title": "Принцесса с дурной репутацией",
-        "author": "Надежда Первухина",
-        "notes": "",
-        "createdAt": "2021-11-29 11:09:47",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 21
         }
     }
 }

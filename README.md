@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>164</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>318</sup> 
 [](users/100/100447278595804083446-google)<sup>0</sup> 
 [moshkinilya](users/827/82783120-yandex)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>132</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>163</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>7</sup> 
 [](users/153/1537586159620888-facebook)<sup>59</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>298</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
 
 
-_06.12.2021 19:59:49_
+_08.12.2021 15:15:48_
