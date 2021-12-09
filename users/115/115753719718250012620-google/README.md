@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>298</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>299</sup>
 ---
 
 ## 2021
+
+### Каждой твари — по паре  Секс ради выживания
+Джадсон Оливия
+> [2021-12-09] 
+
 
 ### Женщина в белом
 Коллинз,  Уилки
