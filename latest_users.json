@@ -1,4 +1,10 @@
 {
+    "150371197-vkontakte": {
+        "id": "150371197-vkontakte",
+        "nickname": "ilgizzzk",
+        "booksCount": 0,
+        "updatedAt": "2021-12-09 18:08:43"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 177,
         "updatedAt": "2021-11-20 19:40:56"
-    },
-    "104067068494287499191-google": {
-        "id": "104067068494287499191-google",
-        "nickname": "Azathordus",
-        "booksCount": 0,
-        "updatedAt": "2021-11-20 19:11:53"
     }
 }
