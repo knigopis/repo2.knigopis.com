@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ilgizzzk](users/150/150371197-vkontakte)<sup>0</sup> 
+[ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>299</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>165</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>318</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 
 
-_09.12.2021 18:08:44_
+_09.12.2021 18:09:39_
