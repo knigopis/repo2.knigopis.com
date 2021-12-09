@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>164</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>165</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>318</sup> 
 [](users/100/100447278595804083446-google)<sup>0</sup> 
 [moshkinilya](users/827/82783120-yandex)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Azathordus](users/104/104067068494287499191-google)<sup>0</sup> 
 
 
-_08.12.2021 15:15:48_
+_09.12.2021 14:01:43_
