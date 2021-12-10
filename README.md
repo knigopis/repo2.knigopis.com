@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>192</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>166</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>218</sup> 
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
@@ -61,9 +62,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>904</sup> 
 [mystifizierer](users/102/102801145163683583073-google)<sup>44</sup> 
 [abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>191</sup> 
 [just_nyuta](users/102/10208134766271560-facebook)<sup>5</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 
 
-_10.12.2021 06:52:34_
+_10.12.2021 07:31:05_

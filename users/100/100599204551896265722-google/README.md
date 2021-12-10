@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>191</sup>
+# Список прочитанных книг пользователя exulted<sup>192</sup>
 ---
 
 ## 2021
+
+### Pandemia: How Coronavirus Hysteria Took Over Our Government, Rights, and Lives
+Alex Berenson
+> [2021-12-10] 
+
 
 ### Русский в Англии: Самоучитель по беллетристике
 Акунин Борис
