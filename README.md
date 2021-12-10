@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>168</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>169</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>218</sup> 
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 
 
-_10.12.2021 09:20:58_
+_10.12.2021 11:02:53_

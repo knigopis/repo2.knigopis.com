@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>168</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>169</sup>
 ---
 
 ## 2021
+
+### В склепе
+Говард Филлипс Лавкрафт
+> [2021-12-10] 
+
 
 ### Возвращение
 Лорд Дансени
