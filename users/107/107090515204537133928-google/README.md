@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>167</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>168</sup>
 ---
 
 ## 2021
+
+### Возвращение
+Лорд Дансени
+> [2021-12-10] 
+
 
 ### Потустороннее
 Говард Филлипс Лавкрафт
