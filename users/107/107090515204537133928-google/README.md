@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>169</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>170</sup>
 ---
 
 ## 2021
+
+### Медленная охота
+ДжонР.Литл
+> [2021-12-10] 
+
 
 ### В склепе
 Говард Филлипс Лавкрафт
