@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>166</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>167</sup>
 ---
 
 ## 2021
+
+### Потусторонние
+Говард Филлипс Лавкрафт
+> [2021-12-10] 
+
 
 ### Артур Джермин
 Говард Филлипс Лавкрафт
