@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>165</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>166</sup>
 ---
 
 ## 2021
+
+### Артур Джермин
+Говард Филлипс Лавкрафт
+> [2021-12-10] 
+
 
 ### Морская невеста
 Уильям Хоуп Ходжсон
