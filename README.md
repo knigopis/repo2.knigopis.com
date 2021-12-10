@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>60</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>170</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>218</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [moshkinilya](users/827/82783120-yandex)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>132</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>7</sup> 
-[](users/153/1537586159620888-facebook)<sup>59</sup> 
 [](users/113/113482047499020131819-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 
 
-_10.12.2021 11:03:07_
+_10.12.2021 23:55:05_
