@@ -1,4 +1,16 @@
 {
+    "9jB0FIx_SK": {
+        "id": "9jB0FIx_SK",
+        "title": "Звёздная сыпь",
+        "author": "Булгаков",
+        "notes": "скептицизм и глупость",
+        "createdAt": "2021-12-11 15:52:45",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 46
+        }
+    },
     "wzHsU6Usou": {
         "id": "wzHsU6Usou",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 216
-        }
-    },
-    "dwIJ_ViqGE": {
-        "id": "dwIJ_ViqGE",
-        "title": "Шляпа, полная неба",
-        "author": "Пратчетт, Терри",
-        "notes": "Вроде и детская, но местами очень глубокая книга. В конце грустная.",
-        "createdAt": "2021-10-14 17:20:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 295
         }
     }
 }

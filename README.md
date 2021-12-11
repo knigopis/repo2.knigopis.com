@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
+    > скептицизм и глупость
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
     > девиз «Осторожность не повредит!» превратился в отчаянный супердевиз «Осторожность, помноженная на осторожность!». Мы теперь возвели этот супердевиз в ранг безусловного принципа.
     > это верный признак растерянности. Это есть оборона.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Классический английский детектив. Написан в форме отчётов действующих лиц. Местами затянуто, но интересно. Леди Глайд подбешивала с первых страниц.
 
 * Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
-    > paper
 
 * Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
 
-* Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>46</sup> 
 [](users/153/1537586159620888-facebook)<sup>60</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>170</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>119</sup> 
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>45</sup> 
 [](users/640/640645950464440-facebook)<sup>1</sup> 
 [](users/109/109292212120320834370-google)<sup>0</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 
 
-_10.12.2021 23:55:05_
+_11.12.2021 15:52:45_
