@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Triste](users/517/5175580462988229760-mailru)<sup>46</sup> 
+[Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 [](users/153/1537586159620888-facebook)<sup>60</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>170</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 
 
-_11.12.2021 15:52:45_
+_11.12.2021 15:53:08_
