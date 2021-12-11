@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>225</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>226</sup>
 ---
 
 ## 2021
+
+### Мадам Оракул
+Маргарет Этвуд
+> [2021-12-12] 8/10 Известная писательница решает убежать от своих проблем.
+
 
 ### Тринадцатая сказка
 Диана Сеттерфилд

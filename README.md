@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
+    > 8/10 Известная писательница решает убежать от своих проблем.
+
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
     > скептицизм и глупость
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > это верный признак растерянности. Это есть оборона.
 
 * Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
-    > Классический английский детектив. Написан в форме отчётов действующих лиц. Местами затянуто, но интересно. Леди Глайд подбешивала с первых страниц.
 
 * Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
 
-* Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 [](users/153/1537586159620888-facebook)<sup>60</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>170</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113482047499020131819-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>22</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>177</sup> 
 
 
-_11.12.2021 15:53:08_
+_11.12.2021 23:31:18_

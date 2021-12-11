@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
 * Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
@@ -30,7 +31,6 @@
 * Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
 * Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
 * Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
-* Характерник ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>216</sup>
 
 
-_11.12.2021 15:52:45_
+_11.12.2021 23:31:18_

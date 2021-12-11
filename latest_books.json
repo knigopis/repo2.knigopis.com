@@ -1,4 +1,16 @@
 {
+    "NB0uf-ArZe": {
+        "id": "NB0uf-ArZe",
+        "title": "Мадам Оракул",
+        "author": "Маргарет Этвуд",
+        "notes": "8/10 Известная писательница решает убежать от своих проблем.",
+        "createdAt": "2021-12-11 23:31:18",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 226
+        }
+    },
     "DeVM2dz7ZU": {
         "id": "DeVM2dz7ZU",
         "title": "Гамлет",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 159
-        }
-    },
-    "FvvlzzM-fi": {
-        "id": "FvvlzzM-fi",
-        "title": "Українська ведетта",
-        "author": "Анатолій Дімаров",
-        "notes": "7/10 Кривава помста матері за сина, вбитого поліцаями під час Другої світової.",
-        "createdAt": "2021-12-02 22:22:01",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 225
         }
     }
 }
