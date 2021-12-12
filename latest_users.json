@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 18,
+        "updatedAt": "2021-12-12 22:15:24"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "just_nyuta",
         "booksCount": 5,
         "updatedAt": "2021-11-21 12:34:58"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 177,
-        "updatedAt": "2021-11-20 19:40:56"
     }
 }
