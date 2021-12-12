@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>120</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>121</sup>
 ---
 
 ## 2021
+
+### Сиддхартха
+Герман Гессе
+> [2021-12-12] 10/10
+
 
 ### Вторая жизнь Уве
 Фредрик Бакман

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
 * Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
@@ -30,7 +31,6 @@
 * Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
 * Когда я вернусь, будь дома ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>64</sup>
 * Ось іде людина ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>217</sup>
-* Мартин Иден ~ [Rainbow](users/109/109787328219839805802-google)<sup>84</sup>
 
 
-_11.12.2021 23:31:18_
+_12.12.2021 23:13:18_

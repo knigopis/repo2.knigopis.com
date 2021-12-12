@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
+    > 10/10
+
 * Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
     > 8/10 Известная писательница решает убежать от своих проблем.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > скептицизм и глупость
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
-    > девиз «Осторожность не повредит!» превратился в отчаянный супердевиз «Осторожность, помноженная на осторожность!». Мы теперь возвели этот супердевиз в ранг безусловного принципа.
-    > это верный признак растерянности. Это есть оборона.
 
 * Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
 
-* Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>904</sup> 
 [mystifizierer](users/102/102801145163683583073-google)<sup>44</sup> 
 [abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
-[just_nyuta](users/102/10208134766271560-facebook)<sup>5</sup> 
 
 
-_12.12.2021 22:15:24_
+_12.12.2021 23:13:18_

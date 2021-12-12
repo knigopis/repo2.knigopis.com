@@ -1,4 +1,16 @@
 {
+    "9XDF6kdS2t": {
+        "id": "9XDF6kdS2t",
+        "title": "Сиддхартха",
+        "author": "Герман Гессе",
+        "notes": "10/10",
+        "createdAt": "2021-12-12 23:13:18",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 121
+        }
+    },
     "NB0uf-ArZe": {
         "id": "NB0uf-ArZe",
         "title": "Мадам Оракул",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 217
-        }
-    },
-    "ypDo_pjCPw": {
-        "id": "ypDo_pjCPw",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "Мне надоел до безумия. Ни слова о действительности",
-        "createdAt": "2021-10-21 00:03:42",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 84
         }
     }
 }
