@@ -20,6 +20,9 @@ Miran Lipovača
 ### `12` Совершенный код
 Стив Макконнелл
 
+### `12` Индивидуум-ство
+Лена Буркова
+
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
 
@@ -31,39 +34,39 @@ Linus Torvalds, David Diamond
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
 
-### `4` Атлант расправил плечи
-Айн Рэнд
-
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Joel on Software
-Joel Spolsky
-
-### `1` Портной из Панамы
-Джон Ле Карре
+### `4` Атлант расправил плечи
+Айн Рэнд
 
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
 
+### `1` Портной из Панамы
+Джон Ле Карре
+
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
 
-### `` Agile Estimating and Planning
-Mike Cohn
+### `1` Joel on Software
+Joel Spolsky
 
-### `` Грокаем алгоритмы
-
-### `` Искусство программирования
-Дональд Кнут
-
-### `` Qe
+### `` Permanent Record
+Edward Snowden
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Permanent Record
-Edward Snowden
+### `` Agile Estimating and Planning
+Mike Cohn
+
+### `` Qe
+
+### `` Искусство программирования
+Дональд Кнут
+
+### `` Грокаем алгоритмы
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
