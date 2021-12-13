@@ -59,8 +59,8 @@ Joel Spolsky
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
-### `` Три товарища
-Эрих Мария Ремарк
+### `` Permanent Record
+Edward Snowden
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
@@ -98,14 +98,12 @@ Mike Cohn
 
 ### `` Qe
 
-### `` Permanent Record
-Edward Snowden
-
-### `` The Hacker Playbook: Practical Guide To Penetration Testing
-Peter Kim
-> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` Super Intelligence
+
+### `` Как измерить что угодно
 
 ### `` Effective Kotlin
 
@@ -125,8 +123,8 @@ Peter Kim
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Герой нашего времени
+Михаил Лермонтов
 
 ### `` Formalized Music
 Янис Ксенакис
@@ -135,11 +133,16 @@ Satoshi Nakamoto
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
-### `` Как измерить что угодно
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` The Hacker Playbook: Practical Guide To Penetration Testing
+Peter Kim
+> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+
+### `` Все свободны
+Михаил Зыгарь
 
