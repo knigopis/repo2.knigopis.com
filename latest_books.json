@@ -1,4 +1,16 @@
 {
+    "opo7BD-VO7": {
+        "id": "opo7BD-VO7",
+        "title": "Смерть Хэлпина Фрейзера",
+        "author": "Бирс Амброз",
+        "notes": "",
+        "createdAt": "2021-12-13 06:00:25",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 171
+        }
+    },
     "9XDF6kdS2t": {
         "id": "9XDF6kdS2t",
         "title": "Сиддхартха",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 117
-        }
-    },
-    "WBX0GHq2BX": {
-        "id": "WBX0GHq2BX",
-        "title": "Музей восковых фигур",
-        "author": "Альфред Беррейдж",
-        "notes": "",
-        "createdAt": "2021-12-03 09:47:12",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 161
         }
     }
 }

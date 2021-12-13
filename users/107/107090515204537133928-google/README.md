@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>170</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>171</sup>
 ---
 
 ## 2021
+
+### Смерть Хэлпина Фрейзера
+Бирс Амброз
+> [2021-12-13] 
+
 
 ### Медленная охота
 ДжонР.Литл

@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>171</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 [](users/153/1537586159620888-facebook)<sup>60</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>170</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>218</sup> 
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
 
 
-_12.12.2021 23:13:18_
+_13.12.2021 06:00:25_
