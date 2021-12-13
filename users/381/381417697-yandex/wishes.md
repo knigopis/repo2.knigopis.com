@@ -14,14 +14,17 @@ Miran Lipovača
 ### `23` Тайм-драйв
 Глеб Архангельский
 
+### `21` Невероятные происшествия в женской камере №3
+Кира Ярмыш
+
 ### `20` Слово живое и мертвое
 Нора Галь
 
-### `12` Совершенный код
-Стив Макконнелл
-
 ### `12` Индивидуум-ство
 Лена Буркова
+
+### `12` Совершенный код
+Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -34,17 +37,14 @@ Linus Torvalds, David Diamond
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
 
-### `4` Паттерны проектирования
-Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
-
 ### `4` Атлант расправил плечи
 Айн Рэнд
 
+### `4` Паттерны проектирования
+Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
+
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
-
-### `1` Портной из Панамы
-Джон Ле Карре
 
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
@@ -52,42 +52,15 @@ Gayle Laakmann McDowell
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Permanent Record
-Edward Snowden
+### `1` Портной из Панамы
+Джон Ле Карре
+
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` Три товарища
 Эрих Мария Ремарк
-
-### `` Agile Estimating and Planning
-Mike Cohn
-
-### `` Qe
-
-### `` Искусство программирования
-Дональд Кнут
-
-### `` Грокаем алгоритмы
-
-### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-Dafydd Stuttard, Marcus Pinto
-> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
-
-### `` Hdhd
-
-### `` Науки об искусственном
-> Когда-то читал эту книгу давно, но не помню, дочитал или нет
-
-### `` Effective Kotlin
-
-### `` Герой нашего времени
-Михаил Лермонтов
-
-### `` Set Theory
-Мильтон Бэббит
-> 1992
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
@@ -100,43 +73,73 @@ Eric S. Raymond
 ### `` Братья Карамазовы
 Фёдор Достоевский
 
+### `` Науки об искусственном
+> Когда-то читал эту книгу давно, но не помню, дочитал или нет
+
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` Hdhd
+
+### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+Dafydd Stuttard, Marcus Pinto
+> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
 ### `` A Briefer History of Time
 Stephen Hawking
 
+### `` Agile Estimating and Planning
+Mike Cohn
+
 ### `` Свой среди чужих
 
-### `` Super Intelligence
+### `` Искусство программирования
+Дональд Кнут
 
-### `` Как измерить что угодно
+### `` Qe
 
-### `` Мертвые души
-Николай Гоголь
-
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+### `` Permanent Record
+Edward Snowden
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
+### `` Super Intelligence
 
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+### `` Effective Kotlin
+
+### `` Грокаем алгоритмы
+
+### `` Set Theory
+Мильтон Бэббит
+> 1992
+
+### `` Мертвые души
+Николай Гоголь
+
+### `` Тонкое искусство пофигизма
+
+### `` Не рычите на собаку
+
+### `` Thinking, Fast and Slow
+Daniel Kahneman
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Formalized Music
 Янис Ксенакис
 > 1963
 
-### `` Не рычите на собаку
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
-### `` Тонкое искусство пофигизма
+### `` Как измерить что угодно
 
-### `` Thinking, Fast and Slow
-Daniel Kahneman
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` Герой нашего времени
+Михаил Лермонтов
 
