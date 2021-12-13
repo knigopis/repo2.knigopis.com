@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
+    > 6/10 Легенди Карпат, замків, ватажки козаків, Львову та Крима.
+
 * Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
     > 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Известная писательница решает убежать от своих проблем.
 
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
-    > скептицизм и глупость
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
 
-* Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>171</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 [](users/153/1537586159620888-facebook)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
 
 
-_13.12.2021 06:00:25_
+_13.12.2021 08:25:58_
