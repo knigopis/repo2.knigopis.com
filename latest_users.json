@@ -1,4 +1,10 @@
 {
+    "103707808693711714462-google": {
+        "id": "103707808693711714462-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-12-14 12:32:53"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "mystifizierer",
         "booksCount": 44,
         "updatedAt": "2021-11-23 12:42:03"
-    },
-    "106946380615100909302-google": {
-        "id": "106946380615100909302-google",
-        "nickname": "abu maryam",
-        "booksCount": 0,
-        "updatedAt": "2021-11-22 08:28:28"
     }
 }
