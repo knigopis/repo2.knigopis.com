@@ -1,4 +1,10 @@
 {
+    "108890810412612634449-google": {
+        "id": "108890810412612634449-google",
+        "nickname": "bitter.mary",
+        "booksCount": 0,
+        "updatedAt": "2021-12-14 17:31:33"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 904,
         "updatedAt": "2021-11-23 16:22:28"
-    },
-    "102801145163683583073-google": {
-        "id": "102801145163683583073-google",
-        "nickname": "mystifizierer",
-        "booksCount": 44,
-        "updatedAt": "2021-11-23 12:42:03"
     }
 }
