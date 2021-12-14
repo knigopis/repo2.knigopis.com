@@ -1,4 +1,16 @@
 {
+    "l4CLgJeaUI": {
+        "id": "l4CLgJeaUI",
+        "title": "Люби себя, словно от этого зависит твоя жизнь",
+        "author": "Камал Равикант",
+        "notes": "5,5/10\nНе хватает конкретики.",
+        "createdAt": "2021-12-14 17:33:37",
+        "user": {
+            "id": "108890810412612634449-google",
+            "nickname": "bitter.mary",
+            "booksCount": 1
+        }
+    },
     "6I3J-gOxUH": {
         "id": "6I3J-gOxUH",
         "title": "Оно приходит из зеркала",
@@ -345,18 +357,6 @@
             "id": "134671934-vkontakte",
             "nickname": "slava_kite",
             "booksCount": 6
-        }
-    },
-    "-yX67wIxMf": {
-        "id": "-yX67wIxMf",
-        "title": "В стенах Эрикса",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2021-12-04 12:54:22",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 162
         }
     }
 }
