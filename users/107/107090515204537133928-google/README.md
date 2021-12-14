@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>174</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>175</sup>
 ---
 
 ## 2021
+
+### Оно приходит из зеркала
+Александр Кондратов
+> [2021-12-14] 
+
 
 ### Приведение в инженерном замке
 Николай Лесков

@@ -1,4 +1,16 @@
 {
+    "6I3J-gOxUH": {
+        "id": "6I3J-gOxUH",
+        "title": "Оно приходит из зеркала",
+        "author": "Александр Кондратов",
+        "notes": "",
+        "createdAt": "2021-12-14 14:12:36",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 175
+        }
+    },
     "DWrcthtUaD": {
         "id": "DWrcthtUaD",
         "title": "Приведение в инженерном замке",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 162
-        }
-    },
-    "71tpqot8vH": {
-        "id": "71tpqot8vH",
-        "title": "Если бы все было иначе",
-        "author": "Сара Эверетт",
-        "notes": "",
-        "createdAt": "2021-12-04 11:50:47",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 59
         }
     }
 }
