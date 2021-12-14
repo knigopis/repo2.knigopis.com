@@ -1,4 +1,16 @@
 {
+    "Shiosa_X-3": {
+        "id": "Shiosa_X-3",
+        "title": "Кладбище домашних животных",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-12-14 17:34:21",
+        "user": {
+            "id": "108890810412612634449-google",
+            "nickname": "bitter.mary",
+            "booksCount": 2
+        }
+    },
     "l4CLgJeaUI": {
         "id": "l4CLgJeaUI",
         "title": "Люби себя, словно от этого зависит твоя жизнь",
@@ -345,18 +357,6 @@
             "id": "134671934-vkontakte",
             "nickname": "slava_kite",
             "booksCount": 7
-        }
-    },
-    "37Zl8CAvND": {
-        "id": "37Zl8CAvND",
-        "title": "Серые волки, серое море. Боевой путь U 124",
-        "author": "Гейзевэй Э",
-        "notes": "",
-        "createdAt": "2021-12-04 23:10:52",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 6
         }
     }
 }

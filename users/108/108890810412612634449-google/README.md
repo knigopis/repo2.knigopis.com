@@ -1,4 +1,4 @@
-# List of books read by [bitter.mary](https://plus.google.com/u/0/108890810412612634449/)<sup>1</sup>
+# List of books read by [bitter.mary](https://plus.google.com/u/0/108890810412612634449/)<sup>2</sup>
 ---
 
 ## 2021
@@ -7,6 +7,11 @@
 Камал Равикант
 > [2021-11-10] 5,5/10
 > Не хватает конкретики.
+
+
+### Кладбище домашних животных
+Стивен Кинг
+> [2021-02] 
 
 
 
