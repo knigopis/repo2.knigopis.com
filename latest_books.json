@@ -1,4 +1,16 @@
 {
+    "tcl6_MFtbK": {
+        "id": "tcl6_MFtbK",
+        "title": "Малефициум",
+        "author": "Винсент О Торн",
+        "notes": "",
+        "createdAt": "2021-12-14 07:18:55",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 172
+        }
+    },
     "5_ZICaLmIz": {
         "id": "5_ZICaLmIz",
         "title": "Таємнича Україна. Загадки, міфи та легенди.",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 48
-        }
-    },
-    "OH2qRT1VL-": {
-        "id": "OH2qRT1VL-",
-        "title": "Татуировщик из Освенцима",
-        "author": "Хезер Моррис",
-        "notes": "",
-        "createdAt": "2021-12-03 10:05:43",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 118
         }
     }
 }

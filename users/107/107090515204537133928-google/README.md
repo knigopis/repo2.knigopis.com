@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>171</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>172</sup>
 ---
 
 ## 2021
+
+### Малефициум
+Винсент О Торн
+> [2021-12-14] 
+
 
 ### Смерть Хэлпина Фрейзера
 Бирс Амброз

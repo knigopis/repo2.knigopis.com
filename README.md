@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>172</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>171</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abu maryam](users/106/106946380615100909302-google)<sup>0</sup> 
 
 
-_13.12.2021 08:25:58_
+_14.12.2021 07:18:55_
