@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>172</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>173</sup>
 ---
 
 ## 2021
+
+### Мутация
+Герберт В. Франке
+> [2021-12-14] 
+
 
 ### Малефициум
 Винсент О Торн
