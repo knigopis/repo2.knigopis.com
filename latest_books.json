@@ -1,4 +1,16 @@
 {
+    "YfY7LayDNW": {
+        "id": "YfY7LayDNW",
+        "title": "Кэрри",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2021-12-14 17:34:50",
+        "user": {
+            "id": "108890810412612634449-google",
+            "nickname": "bitter.mary",
+            "booksCount": 3
+        }
+    },
     "Shiosa_X-3": {
         "id": "Shiosa_X-3",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 163
-        }
-    },
-    "S8tkZHBppp": {
-        "id": "S8tkZHBppp",
-        "title": "Немецкие субмарины в бою, Воспоминания",
-        "author": "Йохан Бреннеке",
-        "notes": "",
-        "createdAt": "2021-12-06 01:31:16",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 7
         }
     }
 }
