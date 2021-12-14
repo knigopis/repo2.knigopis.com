@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bitter.mary](users/108/108890810412612634449-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>175</sup> 
 [](users/103/103707808693711714462-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109292212120320834370-google)<sup>0</sup> 
 [Werwolf](users/104/104280383205648022265-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>904</sup> 
-[mystifizierer](users/102/102801145163683583073-google)<sup>44</sup> 
 
 
-_14.12.2021 14:12:36_
+_14.12.2021 17:31:34_
