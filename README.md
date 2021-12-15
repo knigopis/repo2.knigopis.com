@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
+    > 10/10 Опір загарбникам у Донецьку
+
 * Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
     > 6/10 Легенди Карпат, замків, ватажки козаків, Львову та Крима.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
-    > 8/10 Известная писательница решает убежать от своих проблем.
 
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
 
-* Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>1</sup> 
 [bishop_gena](users/223/223133377-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>23</sup> 
 [bitter.mary](users/108/108890810412612634449-google)<sup>4</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>175</sup> 
 [](users/103/103707808693711714462-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109292212120320834370-google)<sup>0</sup> 
 
 
-_15.12.2021 10:50:50_
+_15.12.2021 16:22:44_

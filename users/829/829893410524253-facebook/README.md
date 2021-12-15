@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>227</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>228</sup>
 ---
 
 ## 2021
+
+### Доця
+Тамара Горіха-Зерня
+> [2021-12-15] 10/10 Опір загарбникам у Донецьку
+
 
 ### Таємнича Україна. Загадки, міфи та легенди.
 Марина Довженко
