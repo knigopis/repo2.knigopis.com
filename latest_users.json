@@ -1,4 +1,10 @@
 {
+    "142331349-vkontakte": {
+        "id": "142331349-vkontakte",
+        "nickname": "Солнышко",
+        "booksCount": 0,
+        "updatedAt": "2021-12-15 10:49:34"
+    },
     "223133377-vkontakte": {
         "id": "223133377-vkontakte",
         "nickname": "bishop_gena",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-11-27 13:44:25"
-    },
-    "104280383205648022265-google": {
-        "id": "104280383205648022265-google",
-        "nickname": "Werwolf",
-        "booksCount": 0,
-        "updatedAt": "2021-11-24 09:21:01"
     }
 }
