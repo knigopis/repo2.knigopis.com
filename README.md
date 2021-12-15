@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Солнышко](users/142/142331349-vkontakte)<sup>0</sup> 
+[Солнышко](users/142/142331349-vkontakte)<sup>1</sup> 
 [bishop_gena](users/223/223133377-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>23</sup> 
 [bitter.mary](users/108/108890810412612634449-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109292212120320834370-google)<sup>0</sup> 
 
 
-_15.12.2021 10:49:34_
+_15.12.2021 10:50:50_
