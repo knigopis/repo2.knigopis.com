@@ -1,7 +1,12 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>169</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>170</sup>
 ---
 
 ## 2021
+
+### Основание и Земля
+Айзек Азимов
+> [2021-12-16] 
+
 
 ### Край Основания
 Айзек Азимов
