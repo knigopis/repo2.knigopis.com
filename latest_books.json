@@ -1,4 +1,16 @@
 {
+    "0z4rsujaBx": {
+        "id": "0z4rsujaBx",
+        "title": "Ночь в Лиссабоне",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2021-12-16 23:36:41",
+        "user": {
+            "id": "112090473416384685204-google",
+            "nickname": "Cr_RONIN",
+            "booksCount": 5
+        }
+    },
     "YgFnsRT2eS": {
         "id": "YgFnsRT2eS",
         "title": "Дом, в котором",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 167
-        }
-    },
-    "NtgyRuM3NX": {
-        "id": "NtgyRuM3NX",
-        "title": "Pandemia: How Coronavirus Hysteria Took Over Our Government, Rights, and Lives",
-        "author": "Alex Berenson",
-        "notes": "",
-        "createdAt": "2021-12-10 07:31:05",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 192
         }
     }
 }
