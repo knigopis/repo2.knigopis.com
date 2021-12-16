@@ -1,4 +1,10 @@
 {
+    "112090473416384685204-google": {
+        "id": "112090473416384685204-google",
+        "nickname": "Cr_RONIN",
+        "booksCount": 4,
+        "updatedAt": "2021-12-16 23:34:25"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "shikamaruo_onara",
         "booksCount": 3,
         "updatedAt": "2021-11-28 21:01:24"
-    },
-    "640645950464440-facebook": {
-        "id": "640645950464440-facebook",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2021-11-28 10:17:28"
     }
 }
