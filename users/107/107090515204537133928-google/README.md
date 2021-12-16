@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>175</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>176</sup>
 ---
 
 ## 2021
+
+### Засекреченое тунгуский метеорит
+Михаил Стинский
+> [2021-12-16] 
+
 
 ### Оно приходит из зеркала
 Александр Кондратов
