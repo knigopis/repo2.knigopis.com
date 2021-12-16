@@ -1,7 +1,12 @@
-# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>5</sup>
+# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>6</sup>
 ---
 
 ## 2021
+
+### Гарри Поттер и философский камень
+Джоан Роулинг
+> [2021-12-15] 
+
 
 ### Ночь в Лиссабоне
 Эрих Мария Ремарк
