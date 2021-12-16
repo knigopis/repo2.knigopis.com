@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
 * Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
 * Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
 * Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
@@ -30,7 +31,6 @@
 * Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
 * Взрослые дети алкоголиков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup>
 * Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
-* Коллекционео ~ [Chiffi](users/105/105831994080785626680-google)<sup>313</sup>
 
 
-_15.12.2021 16:22:44_
+_16.12.2021 03:37:22_

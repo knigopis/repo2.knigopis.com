@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
+    > audio
+
 * Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
     > 10/10 Опір загарбникам у Донецьку
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Легенди Карпат, замків, ватажки козаків, Львову та Крима.
 
 * Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
-    > 10/10
 
 * Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
 
-* Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>1</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>132</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>7</sup> 
 [](users/113/113482047499020131819-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/640/640645950464440-facebook)<sup>1</sup> 
 
 
-_16.12.2021 00:29:41_
+_16.12.2021 03:37:22_
