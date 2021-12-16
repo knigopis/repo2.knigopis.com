@@ -1,4 +1,10 @@
 {
+    "105866022348292919948-google": {
+        "id": "105866022348292919948-google",
+        "nickname": "Chandravadana",
+        "booksCount": 169,
+        "updatedAt": "2021-12-16 00:28:58"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2021-11-28 10:17:28"
-    },
-    "109292212120320834370-google": {
-        "id": "109292212120320834370-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-11-27 13:44:25"
     }
 }

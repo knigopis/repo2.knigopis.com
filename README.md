@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chandravadana](users/105/105866022348292919948-google)<sup>169</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>1</sup> 
 [bishop_gena](users/223/223133377-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>119</sup> 
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 [](users/640/640645950464440-facebook)<sup>1</sup> 
-[](users/109/109292212120320834370-google)<sup>0</sup> 
 
 
-_15.12.2021 16:22:44_
+_16.12.2021 00:28:58_
