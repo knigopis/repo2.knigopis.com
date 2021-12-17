@@ -1,4 +1,16 @@
 {
+    "4AH1kt2ylc": {
+        "id": "4AH1kt2ylc",
+        "title": "Бог лезвий",
+        "author": "Джо Р. Лансдейл",
+        "notes": "",
+        "createdAt": "2021-12-17 10:36:27",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 180
+        }
+    },
     "o_PTwBAKW8": {
         "id": "o_PTwBAKW8",
         "title": "Всего один концерт",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 46
-        }
-    },
-    "5-5Zq90fXr": {
-        "id": "5-5Zq90fXr",
-        "title": "Сделай мужика из мудака",
-        "author": "Сергей Хохлов",
-        "notes": "",
-        "createdAt": "2021-12-10 23:55:05",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 60
         }
     }
 }
