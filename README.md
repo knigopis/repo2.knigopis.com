@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>120</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>182</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>6</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>119</sup> 
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_17.12.2021 13:11:46_
+_17.12.2021 17:46:38_

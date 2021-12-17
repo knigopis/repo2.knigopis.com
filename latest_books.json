@@ -1,4 +1,16 @@
 {
+    "MAmaKWhxQL": {
+        "id": "MAmaKWhxQL",
+        "title": "Війна, якої не було. Хроніка Іловайської трагедії. Частина перша",
+        "author": "Роман Зіненко",
+        "notes": "",
+        "createdAt": "2021-12-17 17:46:38",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 120
+        }
+    },
     "TVBbWIjVUZ": {
         "id": "TVBbWIjVUZ",
         "title": "Дагон",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 121
-        }
-    },
-    "LXc4UaImD-": {
-        "id": "LXc4UaImD-",
-        "title": "Академия",
-        "author": "Азимов",
-        "notes": "",
-        "createdAt": "2021-12-12 22:15:24",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 18
         }
     }
 }
