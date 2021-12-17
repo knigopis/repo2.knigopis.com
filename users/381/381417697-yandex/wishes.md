@@ -8,11 +8,11 @@
 Уолтер Гратцер
 > Об ученых и их открытиях
 
+### `42` Индивидуум-ство
+Лена Буркова
+
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
-
-### `35` Индивидуум-ство
-Лена Буркова
 
 ### `23` Тайм-драйв
 Глеб Архангельский
@@ -37,11 +37,17 @@ Linus Torvalds, David Diamond
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
 
+### `4` Атлант расправил плечи
+Айн Рэнд
+
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `4` Атлант расправил плечи
-Айн Рэнд
+### `1` Портной из Панамы
+Джон Ле Карре
+
+### `1` Joel on Software
+Joel Spolsky
 
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
@@ -49,48 +55,42 @@ Randall Munroe
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
 
-### `1` Joel on Software
-Joel Spolsky
+### `` Искусство программирования
+Дональд Кнут
 
-### `1` Портной из Панамы
-Джон Ле Карре
+### `` Qe
 
-### `` Permanent Record
-Edward Snowden
-
-### `` Три товарища
-Эрих Мария Ремарк
-
-### `` Effective Kotlin
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Agile Estimating and Planning
 Mike Cohn
 
-### `` Qe
+### `` Три товарища
+Эрих Мария Ремарк
 
-### `` Искусство программирования
-Дональд Кнут
-
-### `` Set Theory
-Мильтон Бэббит
-> 1992
+### `` Permanent Record
+Edward Snowden
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
-### `` Hdhd
+### `` Effective Kotlin
 
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
 
 ### `` Грокаем алгоритмы
 
+### `` Set Theory
+Мильтон Бэббит
+> 1992
+
 ### `` Все свободны
 Михаил Зыгарь
 
-### `` Мертвые души
-Николай Гоголь
+### `` Тонкое искусство пофигизма
 
 ### `` Super Intelligence
 
@@ -119,7 +119,7 @@ Stephen Hawking
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 
-### `` Тонкое искусство пофигизма
+### `` Не рычите на собаку
 
 ### `` Как измерить что угодно
 
@@ -142,8 +142,6 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
-
-### `` Не рычите на собаку
 
 ### `` Formalized Music
 Янис Ксенакис
