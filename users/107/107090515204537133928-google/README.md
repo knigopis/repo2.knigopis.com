@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>177</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>178</sup>
 ---
 
 ## 2021
+
+### Храм
+Говард Филлипс Лавкрафт
+> [2021-12-17] 
+
 
 ### Подарок
 Антон Чехов
