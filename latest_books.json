@@ -1,4 +1,16 @@
 {
+    "oUiQtShj57": {
+        "id": "oUiQtShj57",
+        "title": "Первая невеста чернокнижника",
+        "author": "Марина Ефиминюк",
+        "notes": "",
+        "createdAt": "2021-12-17 18:59:07",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 24
+        }
+    },
     "MAmaKWhxQL": {
         "id": "MAmaKWhxQL",
         "title": "Війна, якої не було. Хроніка Іловайської трагедії. Частина перша",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 171
-        }
-    },
-    "9XDF6kdS2t": {
-        "id": "9XDF6kdS2t",
-        "title": "Сиддхартха",
-        "author": "Герман Гессе",
-        "notes": "10/10",
-        "createdAt": "2021-12-12 23:13:18",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 121
         }
     }
 }

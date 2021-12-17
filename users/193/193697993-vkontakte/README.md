@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>23</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>24</sup>
 ---
 
 ## 2021
+
+### Первая невеста чернокнижника
+Марина Ефиминюк
+> [2021-12-17] 
+
 
 ### Неидеальная Чарли Тэйр
 Марина Ефиминюк
