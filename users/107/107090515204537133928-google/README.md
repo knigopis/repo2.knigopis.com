@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>178</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>179</sup>
 ---
 
 ## 2021
+
+### Всего один концерт
+Айзек Азимов
+> [2021-12-17] 
+
 
 ### Храм
 Говард Филлипс Лавкрафт
