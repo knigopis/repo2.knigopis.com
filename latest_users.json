@@ -1,4 +1,10 @@
 {
+    "142331349-vkontakte": {
+        "id": "142331349-vkontakte",
+        "nickname": "Солнышко",
+        "booksCount": 2,
+        "updatedAt": "2021-12-17 04:45:57"
+    },
     "112090473416384685204-google": {
         "id": "112090473416384685204-google",
         "nickname": "Cr_RONIN",
@@ -28,12 +34,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 228,
         "updatedAt": "2021-12-15 16:22:44"
-    },
-    "142331349-vkontakte": {
-        "id": "142331349-vkontakte",
-        "nickname": "Солнышко",
-        "booksCount": 1,
-        "updatedAt": "2021-12-15 10:50:50"
     },
     "223133377-vkontakte": {
         "id": "223133377-vkontakte",

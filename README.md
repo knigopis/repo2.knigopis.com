@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Солнышко](users/142/142331349-vkontakte)<sup>2</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>6</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>177</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup> 
-[Солнышко](users/142/142331349-vkontakte)<sup>1</sup> 
 [bishop_gena](users/223/223133377-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>23</sup> 
 [bitter.mary](users/108/108890810412612634449-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_16.12.2021 23:37:28_
+_17.12.2021 04:45:57_
