@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>180</sup> 
-[Солнышко](users/142/142331349-vkontakte)<sup>2</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>6</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_17.12.2021 10:36:27_
+_17.12.2021 12:30:06_
