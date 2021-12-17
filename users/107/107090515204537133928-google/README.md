@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>180</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>181</sup>
 ---
 
 ## 2021
+
+### Убивающие взглядом
+Дин Кунц
+> [2021-12-17] 
+
 
 ### Бог лезвий
 Джо Р. Лансдейл
