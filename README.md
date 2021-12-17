@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[butercupa](users/193/193697993-vkontakte)<sup>24</sup> 
+[butercupa](users/193/193697993-vkontakte)<sup>25</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>120</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>182</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_17.12.2021 18:59:07_
+_17.12.2021 19:00:28_
