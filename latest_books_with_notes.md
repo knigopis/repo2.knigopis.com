@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Завтрак у Тиффани ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup>
 * Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
 * Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
 * Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
@@ -30,7 +31,6 @@
 * Любить.Считать ~ [albina_untiring](users/257/2579695-vkontakte)<sup>20</sup>
 * Евгений Онегин ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>174</sup>
 * Взрослые дети алкоголиков ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>219</sup>
-* Кицур Шулхан Арух ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>218</sup>
 
 
-_16.12.2021 03:37:22_
+_18.12.2021 15:04:24_

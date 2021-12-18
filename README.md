@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Завтрак у Тиффани ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup>
+    > надеюсь у Лулу все хорошо
+
 * Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Опір загарбникам у Донецьку
 
 * Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
-    > 6/10 Легенди Карпат, замків, ватажки козаків, Львову та Крима.
 
 * Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
 
-* Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>25</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>120</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>182</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>6</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_17.12.2021 19:00:28_
+_18.12.2021 15:04:24_

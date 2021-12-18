@@ -1,7 +1,12 @@
-# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>6</sup>
+# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>7</sup>
 ---
 
 ## 2021
+
+### Завтрак у Тиффани
+Трумен Капоте
+> [2021-12-18] надеюсь у Лулу все хорошо
+
 
 ### Гарри Поттер и философский камень
 Джоан Роулинг
