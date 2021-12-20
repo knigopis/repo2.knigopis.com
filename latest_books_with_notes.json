@@ -1,4 +1,16 @@
 {
+    "SpSS0DqvRk": {
+        "id": "SpSS0DqvRk",
+        "title": "Полный набор: Бог Дракон",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 5",
+        "createdAt": "2021-12-20 12:34:22",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 17
+        }
+    },
     "uCBT59Pmdy": {
         "id": "uCBT59Pmdy",
         "title": "Путь демона: Путь демона",
@@ -345,18 +357,6 @@
             "id": "113179958976964886996-google",
             "nickname": "neokchan",
             "booksCount": 70
-        }
-    },
-    "J8fKYYpHYP": {
-        "id": "J8fKYYpHYP",
-        "title": "Прощайте, вещи!",
-        "author": "Фумио Сасаки",
-        "notes": "Счастье=50% генетика+10%окружение+40% наши действия",
-        "createdAt": "2021-11-07 16:23:53",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 22
         }
     }
 }

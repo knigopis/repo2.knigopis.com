@@ -1,4 +1,16 @@
 {
+    "SpSS0DqvRk": {
+        "id": "SpSS0DqvRk",
+        "title": "Полный набор: Бог Дракон",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 5",
+        "createdAt": "2021-12-20 12:34:22",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 17
+        }
+    },
     "uCBT59Pmdy": {
         "id": "uCBT59Pmdy",
         "title": "Путь демона: Путь демона",
@@ -345,18 +357,6 @@
             "id": "108890810412612634449-google",
             "nickname": "bitter.mary",
             "booksCount": 4
-        }
-    },
-    "YfY7LayDNW": {
-        "id": "YfY7LayDNW",
-        "title": "Кэрри",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-12-14 17:34:50",
-        "user": {
-            "id": "108890810412612634449-google",
-            "nickname": "bitter.mary",
-            "booksCount": 3
         }
     }
 }

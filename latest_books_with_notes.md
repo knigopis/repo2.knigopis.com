@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Полный набор: Бог Дракон ~ [gray7wand](users/110/110080946273609412257-google)<sup>17</sup>
 * Путь демона: Путь демона ~ [gray7wand](users/110/110080946273609412257-google)<sup>16</sup>
 * Путь демона: Стезя чародея ~ [gray7wand](users/110/110080946273609412257-google)<sup>15</sup>
 * Путь демона: Тропа волшебника ~ [gray7wand](users/110/110080946273609412257-google)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Гроздья гнева ~ [Garka](users/115/115753719718250012620-google)<sup>297</sup>
 * Моя Вампирская Система (Новелла) ~ [gray7wand](users/110/110080946273609412257-google)<sup>10</sup>
 * Донор ~ [neokchan](users/113/113179958976964886996-google)<sup>70</sup>
-* Прощайте, вещи! ~ [albina_untiring](users/257/2579695-vkontakte)<sup>22</sup>
 
 
-_20.12.2021 12:32:04_
+_20.12.2021 12:34:22_
