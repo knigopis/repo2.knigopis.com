@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>184</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>185</sup>
 ---
 
 ## 2021
+
+### Подвал миссис Хафбугер
+Лоуренс Конноли
+> [2021-12-20] 
+
 
 ### Эксгумация
 Говард Филлипс Лавкрафт
