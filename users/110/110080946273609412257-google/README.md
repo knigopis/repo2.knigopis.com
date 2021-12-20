@@ -1,4 +1,4 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>19</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>20</sup>
 ---
 
 ## 2021
@@ -79,6 +79,11 @@ Chugong Jang Sung-lak
 ### Другой мир: Попаданец
 Иван Городецкий
 > [2020-06-21] 8/10
+
+
+### Полный набор: Магия Фиора
+Милослав Князев
+> Номер книги в серии: 8
 
 
 

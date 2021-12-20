@@ -1,4 +1,16 @@
 {
+    "XMvowHn7h6": {
+        "id": "XMvowHn7h6",
+        "title": "Полный набор: Магия Фиора",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 8",
+        "createdAt": "2021-12-20 12:36:10",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 20
+        }
+    },
     "0q-fH1T1xl": {
         "id": "0q-fH1T1xl",
         "title": "Полный набор: Возвращение домой",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 228
-        }
-    },
-    "UGG703KWQR": {
-        "id": "UGG703KWQR",
-        "title": "Лайфхак на каждый день",
-        "author": "Игорь Манн",
-        "notes": "Отличная книга ,  ищу продолжение",
-        "createdAt": "2021-12-15 10:50:50",
-        "user": {
-            "id": "142331349-vkontakte",
-            "nickname": "Солнышко",
-            "booksCount": 1
         }
     }
 }
