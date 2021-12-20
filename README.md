@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>25</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>120</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100447278595804083446-google)<sup>0</sup> 
 [moshkinilya](users/827/82783120-yandex)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>132</sup> 
-[slava_kite](users/134/134671934-vkontakte)<sup>7</sup> 
 [](users/113/113482047499020131819-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_18.12.2021 15:04:24_
+_20.12.2021 00:46:36_

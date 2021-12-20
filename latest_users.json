@@ -1,4 +1,10 @@
 {
+    "134671934-vkontakte": {
+        "id": "134671934-vkontakte",
+        "nickname": "slava_kite",
+        "booksCount": 8,
+        "updatedAt": "2021-12-20 00:46:36"
+    },
     "112090473416384685204-google": {
         "id": "112090473416384685204-google",
         "nickname": "Cr_RONIN",
@@ -136,12 +142,6 @@
         "nickname": "4apa",
         "booksCount": 132,
         "updatedAt": "2021-12-06 14:45:30"
-    },
-    "134671934-vkontakte": {
-        "id": "134671934-vkontakte",
-        "nickname": "slava_kite",
-        "booksCount": 7,
-        "updatedAt": "2021-12-06 01:31:16"
     },
     "113482047499020131819-google": {
         "id": "113482047499020131819-google",
