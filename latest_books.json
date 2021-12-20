@@ -1,4 +1,16 @@
 {
+    "DjmdqbbXd9": {
+        "id": "DjmdqbbXd9",
+        "title": "Полный набор: Империя",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 6",
+        "createdAt": "2021-12-20 12:34:56",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 18
+        }
+    },
     "SpSS0DqvRk": {
         "id": "SpSS0DqvRk",
         "title": "Полный набор: Бог Дракон",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 23
-        }
-    },
-    "QUd6R99uBu": {
-        "id": "QUd6R99uBu",
-        "title": "Скетч на завтрак. Сотня способов добавить в жизнь творчества, даже если времени нет совсем",
-        "author": "Дэнни Грегори",
-        "notes": "",
-        "createdAt": "2021-12-14 17:36:24",
-        "user": {
-            "id": "108890810412612634449-google",
-            "nickname": "bitter.mary",
-            "booksCount": 4
         }
     }
 }

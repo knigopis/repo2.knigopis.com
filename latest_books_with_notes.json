@@ -1,4 +1,16 @@
 {
+    "DjmdqbbXd9": {
+        "id": "DjmdqbbXd9",
+        "title": "Полный набор: Империя",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 6",
+        "createdAt": "2021-12-20 12:34:56",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 18
+        }
+    },
     "SpSS0DqvRk": {
         "id": "SpSS0DqvRk",
         "title": "Полный набор: Бог Дракон",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 10
-        }
-    },
-    "CN17zvU8CZ": {
-        "id": "CN17zvU8CZ",
-        "title": "Донор",
-        "author": "Сэнди Линн",
-        "notes": "достаточно любопытно.",
-        "createdAt": "2021-11-08 15:36:06",
-        "user": {
-            "id": "113179958976964886996-google",
-            "nickname": "neokchan",
-            "booksCount": 70
         }
     }
 }
