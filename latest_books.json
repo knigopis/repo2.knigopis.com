@@ -1,4 +1,16 @@
 {
+    "yj5c_u-d6h": {
+        "id": "yj5c_u-d6h",
+        "title": "Путь демона: Стезя чародея",
+        "author": "Алексей Глушановский",
+        "notes": "Номер книги в серии: 3",
+        "createdAt": "2021-12-20 12:31:43",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 15
+        }
+    },
     "DXENeGJ_9H": {
         "id": "DXENeGJ_9H",
         "title": "Путь демона: Тропа волшебника",
@@ -345,18 +357,6 @@
             "id": "108890810412612634449-google",
             "nickname": "bitter.mary",
             "booksCount": 2
-        }
-    },
-    "l4CLgJeaUI": {
-        "id": "l4CLgJeaUI",
-        "title": "Люби себя, словно от этого зависит твоя жизнь",
-        "author": "Камал Равикант",
-        "notes": "5,5/10\nНе хватает конкретики.",
-        "createdAt": "2021-12-14 17:33:37",
-        "user": {
-            "id": "108890810412612634449-google",
-            "nickname": "bitter.mary",
-            "booksCount": 1
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путь демона: Стезя чародея ~ [gray7wand](users/110/110080946273609412257-google)<sup>15</sup>
+    > Номер книги в серии: 3
+
 * Путь демона: Тропа волшебника ~ [gray7wand](users/110/110080946273609412257-google)<sup>14</sup>
     > Номер книги в серии: 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Номер книги в серии: 1
 
 * Завтрак у Тиффани ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup>
-    > надеюсь у Лулу все хорошо
 
 * Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gray7wand](users/110/110080946273609412257-google)<sup>14</sup> 
+[gray7wand](users/110/110080946273609412257-google)<sup>15</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>183</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_20.12.2021 12:31:07_
+_20.12.2021 12:31:43_
