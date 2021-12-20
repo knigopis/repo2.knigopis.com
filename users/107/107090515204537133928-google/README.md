@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>182</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>183</sup>
 ---
 
 ## 2021
+
+### Идиот
+Фёдор Михайлович Достоевский
+> [2021-12-20] 
+
 
 ### Дагон
 Говард Филлипс Лавкрафт
