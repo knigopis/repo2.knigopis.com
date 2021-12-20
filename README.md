@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путь демона: Дорога в маги ~ [gray7wand](users/110/110080946273609412257-google)<sup>13</sup>
+    > Номер книги в серии: 1
+
 * Завтрак у Тиффани ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup>
     > надеюсь у Лулу все хорошо
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
-    > 10/10 Опір загарбникам у Донецьку
 
 * Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
 
-* Хоббит, или Туда и обратно ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gray7wand](users/110/110080946273609412257-google)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>183</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113482047499020131819-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
-[gray7wand](users/110/110080946273609412257-google)<sup>12</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_20.12.2021 11:32:09_
+_20.12.2021 12:30:03_

@@ -1,4 +1,16 @@
 {
+    "frTBsCPB9V": {
+        "id": "frTBsCPB9V",
+        "title": "Путь демона: Дорога в маги",
+        "author": "Алексей Глушановский",
+        "notes": "Номер книги в серии: 1",
+        "createdAt": "2021-12-20 12:30:03",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 13
+        }
+    },
     "yBBC0bqd1S": {
         "id": "yBBC0bqd1S",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 175
-        }
-    },
-    "DWrcthtUaD": {
-        "id": "DWrcthtUaD",
-        "title": "Приведение в инженерном замке",
-        "author": "Николай Лесков",
-        "notes": "",
-        "createdAt": "2021-12-14 11:04:37",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 174
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>12</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>13</sup>
 ---
 
 ## 2021
@@ -64,6 +64,14 @@ Chugong Jang Sung-lak
 ### Другой мир: Попаданец
 Иван Городецкий
 > [2020-06-21] 8/10
+
+
+
+## 2018
+
+### Путь демона: Дорога в маги
+Алексей Глушановский
+> Номер книги в серии: 1
 
 
 
