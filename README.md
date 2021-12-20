@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Полный набор: Пираты Драконьих островов ~ [gray7wand](users/110/110080946273609412257-google)<sup>21</sup>
+    > Номер книги в серии: 9
+
 * Полный набор: Магия Фиора ~ [gray7wand](users/110/110080946273609412257-google)<sup>20</sup>
     > Номер книги в серии: 8
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Номер книги в серии: 7
 
 * Полный набор: Империя ~ [gray7wand](users/110/110080946273609412257-google)<sup>18</sup>
-    > Номер книги в серии: 6
 
 * Полный набор: Бог Дракон ~ [gray7wand](users/110/110080946273609412257-google)<sup>17</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Завтрак у Тиффани ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup>
 
-* Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gray7wand](users/110/110080946273609412257-google)<sup>20</sup> 
+[gray7wand](users/110/110080946273609412257-google)<sup>21</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>183</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_20.12.2021 12:36:10_
+_20.12.2021 12:37:15_
