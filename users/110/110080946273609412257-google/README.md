@@ -1,4 +1,4 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>13</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>14</sup>
 ---
 
 ## 2021
@@ -68,6 +68,11 @@ Chugong Jang Sung-lak
 
 
 ## 2018
+
+### Путь демона: Тропа волшебника
+Алексей Глушановский
+> Номер книги в серии: 2
+
 
 ### Путь демона: Дорога в маги
 Алексей Глушановский

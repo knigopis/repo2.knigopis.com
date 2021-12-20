@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путь демона: Тропа волшебника ~ [gray7wand](users/110/110080946273609412257-google)<sup>14</sup>
+    > Номер книги в серии: 2
+
 * Путь демона: Дорога в маги ~ [gray7wand](users/110/110080946273609412257-google)<sup>13</sup>
     > Номер книги в серии: 1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > надеюсь у Лулу все хорошо
 
 * Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
-    > audio
 
 * Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
 
-* Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gray7wand](users/110/110080946273609412257-google)<sup>13</sup> 
+[gray7wand](users/110/110080946273609412257-google)<sup>14</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>183</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shikamaruo_onara](users/569/569209044-vkontakte)<sup>3</sup> 
 
 
-_20.12.2021 12:30:03_
+_20.12.2021 12:31:07_

@@ -1,4 +1,16 @@
 {
+    "DXENeGJ_9H": {
+        "id": "DXENeGJ_9H",
+        "title": "Путь демона: Тропа волшебника",
+        "author": "Алексей Глушановский",
+        "notes": "Номер книги в серии: 2",
+        "createdAt": "2021-12-20 12:31:07",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 14
+        }
+    },
     "frTBsCPB9V": {
         "id": "frTBsCPB9V",
         "title": "Путь демона: Дорога в маги",
@@ -345,18 +357,6 @@
             "id": "108890810412612634449-google",
             "nickname": "bitter.mary",
             "booksCount": 1
-        }
-    },
-    "6I3J-gOxUH": {
-        "id": "6I3J-gOxUH",
-        "title": "Оно приходит из зеркала",
-        "author": "Александр Кондратов",
-        "notes": "",
-        "createdAt": "2021-12-14 14:12:36",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 175
         }
     }
 }
