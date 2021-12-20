@@ -1,4 +1,16 @@
 {
+    "0q-fH1T1xl": {
+        "id": "0q-fH1T1xl",
+        "title": "Полный набор: Возвращение домой",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 7",
+        "createdAt": "2021-12-20 12:35:26",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 19
+        }
+    },
     "DjmdqbbXd9": {
         "id": "DjmdqbbXd9",
         "title": "Полный набор: Империя",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 297
-        }
-    },
-    "pcxU2wdfIA": {
-        "id": "pcxU2wdfIA",
-        "title": "Моя Вампирская Система (Новелла)",
-        "author": "Jksmanga",
-        "notes": "Том 1-4",
-        "createdAt": "2021-11-09 23:04:04",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 10
         }
     }
 }

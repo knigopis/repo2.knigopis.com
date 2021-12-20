@@ -1,4 +1,4 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>18</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>19</sup>
 ---
 
 ## 2021
@@ -25,6 +25,11 @@ Chugong Jang Sung-lak
 
 
 ## 2020
+
+### Полный набор: Возвращение домой
+Милослав Князев
+> [2020-08] Номер книги в серии: 7
+
 
 ### Полный набор: Империя
 Милослав Князев

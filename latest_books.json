@@ -1,4 +1,16 @@
 {
+    "0q-fH1T1xl": {
+        "id": "0q-fH1T1xl",
+        "title": "Полный набор: Возвращение домой",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 7",
+        "createdAt": "2021-12-20 12:35:26",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 19
+        }
+    },
     "DjmdqbbXd9": {
         "id": "DjmdqbbXd9",
         "title": "Полный набор: Империя",
@@ -345,18 +357,6 @@
             "id": "142331349-vkontakte",
             "nickname": "Солнышко",
             "booksCount": 1
-        }
-    },
-    "bOFlxwDzRx": {
-        "id": "bOFlxwDzRx",
-        "title": "Неидеальная Чарли Тэйр",
-        "author": "Марина Ефиминюк",
-        "notes": "",
-        "createdAt": "2021-12-14 19:50:20",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 23
         }
     }
 }
