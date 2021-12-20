@@ -1,4 +1,16 @@
 {
+    "uCBT59Pmdy": {
+        "id": "uCBT59Pmdy",
+        "title": "Путь демона: Путь демона",
+        "author": "Алексей Глушановский",
+        "notes": "Номер книги в серии: 4",
+        "createdAt": "2021-12-20 12:32:04",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 16
+        }
+    },
     "yj5c_u-d6h": {
         "id": "yj5c_u-d6h",
         "title": "Путь демона: Стезя чародея",
@@ -345,18 +357,6 @@
             "id": "108890810412612634449-google",
             "nickname": "bitter.mary",
             "booksCount": 3
-        }
-    },
-    "Shiosa_X-3": {
-        "id": "Shiosa_X-3",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2021-12-14 17:34:21",
-        "user": {
-            "id": "108890810412612634449-google",
-            "nickname": "bitter.mary",
-            "booksCount": 2
         }
     }
 }
