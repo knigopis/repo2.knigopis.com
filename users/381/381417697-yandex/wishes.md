@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)
 ---
 
-### `65` Индивидуум-ство
+### `77` Индивидуум-ство
 Лена Буркова
 
 ### `55` Железная пята
