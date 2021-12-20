@@ -1,4 +1,16 @@
 {
+    "Nexnc5h7Ma": {
+        "id": "Nexnc5h7Ma",
+        "title": "Полный набор: Другая сторона",
+        "author": "Милослав Князев",
+        "notes": "Номер книги в серии: 11",
+        "createdAt": "2021-12-20 12:38:16",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 23
+        }
+    },
     "_BScqjslkv": {
         "id": "_BScqjslkv",
         "title": "Полный набор: Наследие древних",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 49
-        }
-    },
-    "ynWNZImaif": {
-        "id": "ynWNZImaif",
-        "title": "Основание и Земля",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2021-12-16 00:29:41",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 170
         }
     }
 }

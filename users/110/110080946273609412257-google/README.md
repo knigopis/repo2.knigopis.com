@@ -1,4 +1,4 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>22</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>23</sup>
 ---
 
 ## 2021
@@ -25,6 +25,11 @@ Chugong Jang Sung-lak
 
 
 ## 2020
+
+### Полный набор: Другая сторона
+Милослав Князев
+> [2020-08] Номер книги в серии: 11
+
 
 ### Полный набор: Наследие древних
 Милослав Князев
