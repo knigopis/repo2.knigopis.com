@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>25</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>26</sup>
 ---
 
 ## 2021
+
+### Институт неблагородных девиц. Глоток свободы
+Екатерина Азарова
+> [2021-12-21] 
+
 
 ### Первая невеста чернокнижника
 Марина Ефиминюк
