@@ -1,9 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)
 ---
 
-### `77` Индивидуум-ство
-Лена Буркова
-
 ### `55` Железная пята
 Джек Лондон
 
@@ -43,6 +40,12 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
+
+### `1` Герой нашего времени
+Михаил Лермонтов
+
 ### `1` Портной из Панамы
 Джон Ле Карре
 
@@ -52,16 +55,10 @@ Joel Spolsky
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
 
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
+### `` Permanent Record
+Edward Snowden
 
-### `` Искусство программирования
-Дональд Кнут
-
-### `` Qe
-
-### `` Мертвые души
-Николай Гоголь
+### `` Effective Kotlin
 
 ### `` Agile Estimating and Planning
 Mike Cohn
@@ -69,28 +66,29 @@ Mike Cohn
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Permanent Record
-Edward Snowden
+### `` Qe
+
+### `` Искусство программирования
+Дональд Кнут
+
+### `` Set Theory
+Мильтон Бэббит
+> 1992
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
-
-### `` Effective Kotlin
 
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
 
 ### `` Грокаем алгоритмы
 
-### `` Set Theory
-Мильтон Бэббит
-> 1992
-
 ### `` Все свободны
 Михаил Зыгарь
 
-### `` Тонкое искусство пофигизма
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Super Intelligence
 
@@ -119,7 +117,7 @@ Stephen Hawking
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 
-### `` Не рычите на собаку
+### `` Тонкое искусство пофигизма
 
 ### `` Как измерить что угодно
 
@@ -137,11 +135,10 @@ Peter Kim
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
-### `` Герой нашего времени
-Михаил Лермонтов
-
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
+
+### `` Не рычите на собаку
 
 ### `` Formalized Music
 Янис Ксенакис
