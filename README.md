@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>187</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>186</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>23</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>30</sup> 
 
 
-_21.12.2021 00:14:26_
+_21.12.2021 09:07:08_

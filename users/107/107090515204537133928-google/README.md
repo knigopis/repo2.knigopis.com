@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>186</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>187</sup>
 ---
 
 ## 2021
+
+### О вреде пьянства
+Айзек Азимов
+> [2021-12-21] 
+
 
 ### Бруклинский проект
 Уильям  Тенн
