@@ -34,31 +34,34 @@ Linus Torvalds, David Diamond
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
 
-### `4` Атлант расправил плечи
-Айн Рэнд
-
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
+### `4` Атлант расправил плечи
+Айн Рэнд
 
 ### `1` Герой нашего времени
 Михаил Лермонтов
 
+### `1` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
+
 ### `1` Портной из Панамы
 Джон Ле Карре
+
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
 
 ### `1` Joel on Software
 Joel Spolsky
 
-### `1` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
+### `1` Практическая политология
+Екатерина Шульман
+
+### `` Effective Kotlin
 
 ### `` Permanent Record
 Edward Snowden
-
-### `` Effective Kotlin
 
 ### `` Agile Estimating and Planning
 Mike Cohn
@@ -99,9 +102,6 @@ Eric S. Raymond
 Владимир Сорокин
 > День опричника
 > Сахарный кремль
-
-### `` Практическая политология
-Екатерина Шульман
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
