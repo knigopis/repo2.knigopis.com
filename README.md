@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>61</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>188</sup> 
 [](users/115/115553403359274237491-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>26</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
-[](users/153/1537586159620888-facebook)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>218</sup> 
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 
 
-_22.12.2021 08:20:30_
+_22.12.2021 12:02:38_
