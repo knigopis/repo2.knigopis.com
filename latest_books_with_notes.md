@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
 * Полный набор: Другая сторона ~ [gray7wand](users/110/110080946273609412257-google)<sup>23</sup>
 * Полный набор: Наследие древних ~ [gray7wand](users/110/110080946273609412257-google)<sup>22</sup>
 * Полный набор: Пираты Драконьих островов ~ [gray7wand](users/110/110080946273609412257-google)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Как сделана "Шинель" Гоголя ~ [Triste](users/517/5175580462988229760-mailru)<sup>45</sup>
 * Жінка у вікні ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>221</sup>
 * Історія Ліззі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>220</sup>
-* Легкое Дыхание ~ [Triste](users/517/5175580462988229760-mailru)<sup>43</sup>
 
 
-_20.12.2021 12:38:16_
+_22.12.2021 22:06:59_

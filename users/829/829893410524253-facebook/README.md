@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>228</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>229</sup>
 ---
 
 ## 2021
+
+### Місяц, облитий дощем
+Вололимир Лис
+> [2021-12-23] 5/10 Збірка ессе, роздумів та записів.
+
 
 ### Доця
 Тамара Горіха-Зерня

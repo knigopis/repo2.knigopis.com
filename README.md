@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
+    > 5/10 Збірка ессе, роздумів та записів.
+
 * Полный набор: Другая сторона ~ [gray7wand](users/110/110080946273609412257-google)<sup>23</sup>
     > Номер книги в серии: 11
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Номер книги в серии: 10
 
 * Полный набор: Пираты Драконьих островов ~ [gray7wand](users/110/110080946273609412257-google)<sup>21</sup>
-    > Номер книги в серии: 9
 
 * Полный набор: Магия Фиора ~ [gray7wand](users/110/110080946273609412257-google)<sup>20</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Путь демона: Стезя чародея ~ [gray7wand](users/110/110080946273609412257-google)<sup>15</sup>
 
-* Путь демона: Тропа волшебника ~ [gray7wand](users/110/110080946273609412257-google)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>61</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>188</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup> 
 [bishop_gena](users/223/223133377-vkontakte)<sup>0</sup> 
 [bitter.mary](users/108/108890810412612634449-google)<sup>4</sup> 
 [](users/103/103707808693711714462-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 
 
-_22.12.2021 14:45:05_
+_22.12.2021 22:06:59_
