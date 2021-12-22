@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>187</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>188</sup>
 ---
 
 ## 2021
+
+### Заключённый 489
+Джо Р.Лансдейл
+> [2021-12-22] 
+
 
 ### О вреде пьянства
 Айзек Азимов

@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>188</sup> 
 [](users/115/115553403359274237491-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>26</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>187</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>23</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 
 
-_21.12.2021 17:52:30_
+_22.12.2021 08:20:30_
