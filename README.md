@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/117/117959961181822956584-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>61</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [moshkinilya](users/827/82783120-yandex)<sup>1</sup> 
 [](users/113/113482047499020131819-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
-[Пу_тем](users/344/3448154788585127-facebook)<sup>36</sup> 
 
 
-_22.12.2021 22:06:59_
+_23.12.2021 02:53:47_
