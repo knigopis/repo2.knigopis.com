@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>188</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>189</sup>
 ---
 
 ## 2021
+
+### Бесконечная чёрная пятница
+Нейт Саузард
+> [2021-12-23] 
+
 
 ### Заключённый 489
 Джо Р.Лансдейл

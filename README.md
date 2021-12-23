@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
 [](users/117/117959961181822956584-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>61</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>188</sup> 
 [](users/115/115553403359274237491-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>26</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
 
 
-_23.12.2021 02:53:47_
+_23.12.2021 07:23:20_
