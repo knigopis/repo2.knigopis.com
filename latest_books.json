@@ -1,4 +1,16 @@
 {
+    "CNxWaaloKG": {
+        "id": "CNxWaaloKG",
+        "title": "Дрянная девчонка в Академии",
+        "author": "Катерина Полянская",
+        "notes": "",
+        "createdAt": "2021-12-24 12:43:59",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 27
+        }
+    },
     "1OuSN6mJKS": {
         "id": "1OuSN6mJKS",
         "title": "Донецко-Криворожская республика: Расстрелянная мечта",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 120
-        }
-    },
-    "TVBbWIjVUZ": {
-        "id": "TVBbWIjVUZ",
-        "title": "Дагон",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2021-12-17 13:11:46",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 182
         }
     }
 }

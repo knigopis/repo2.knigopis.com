@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>26</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>27</sup>
 ---
 
 ## 2021
+
+### Дрянная девчонка в Академии
+Катерина Полянская
+> [2021-12-24] 
+
 
 ### Институт неблагородных девиц. Глоток свободы
 Екатерина Азарова
