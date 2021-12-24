@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Донецко-Криворожская республика: Расстрелянная мечта ~ [danyluk62](users/374/374149854-vkontakte)<sup>121</sup>
+    > С подписью автора!
+
 * Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
     > 5/10 Збірка ессе, роздумів та записів.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Номер книги в серии: 11
 
 * Полный набор: Наследие древних ~ [gray7wand](users/110/110080946273609412257-google)<sup>22</sup>
-    > Номер книги в серии: 10
 
 * Полный набор: Пираты Драконьих островов ~ [gray7wand](users/110/110080946273609412257-google)<sup>21</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Путь демона: Путь демона ~ [gray7wand](users/110/110080946273609412257-google)<sup>16</sup>
 
-* Путь демона: Стезя чародея ~ [gray7wand](users/110/110080946273609412257-google)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>121</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
 [](users/117/117959961181822956584-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gray7wand](users/110/110080946273609412257-google)<sup>23</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>120</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>118</sup> 
 
 
-_23.12.2021 07:23:20_
+_24.12.2021 11:27:31_

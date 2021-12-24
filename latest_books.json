@@ -1,4 +1,16 @@
 {
+    "1OuSN6mJKS": {
+        "id": "1OuSN6mJKS",
+        "title": "Донецко-Криворожская республика: Расстрелянная мечта",
+        "author": "Владимир Корнилов",
+        "notes": "С подписью автора!",
+        "createdAt": "2021-12-24 11:27:31",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 121
+        }
+    },
     "9NNpafVki8": {
         "id": "9NNpafVki8",
         "title": "Бесконечная чёрная пятница",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 182
-        }
-    },
-    "9EASuDcbzb": {
-        "id": "9EASuDcbzb",
-        "title": "Убивающие взглядом",
-        "author": "Дин Кунц",
-        "notes": "",
-        "createdAt": "2021-12-17 12:48:01",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 181
         }
     }
 }
