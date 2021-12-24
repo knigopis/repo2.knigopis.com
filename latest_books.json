@@ -1,4 +1,16 @@
 {
+    "MowvCKU_mf": {
+        "id": "MowvCKU_mf",
+        "title": "Модицина",
+        "author": "Никита Жуков",
+        "notes": "",
+        "createdAt": "2021-12-24 16:54:03",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 108
+        }
+    },
     "CNxWaaloKG": {
         "id": "CNxWaaloKG",
         "title": "Дрянная девчонка в Академии",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 24
-        }
-    },
-    "MAmaKWhxQL": {
-        "id": "MAmaKWhxQL",
-        "title": "Війна, якої не було. Хроніка Іловайської трагедії. Частина перша",
-        "author": "Роман Зіненко",
-        "notes": "",
-        "createdAt": "2021-12-17 17:46:38",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 120
         }
     }
 }

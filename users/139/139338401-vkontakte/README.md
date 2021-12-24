@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>107</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>108</sup>
 ---
 
 ## 2021
+
+### Модицина
+Никита Жуков
+> [2021-12-24] 
+
 
 ### Диалектика просвещения
 Хоркхаймер,Адорно
