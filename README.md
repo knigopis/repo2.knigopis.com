@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>178</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>108</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>27</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>121</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>318</sup> 
 [](users/100/100447278595804083446-google)<sup>0</sup> 
 [moshkinilya](users/827/82783120-yandex)<sup>1</sup> 
-[](users/113/113482047499020131819-google)<sup>0</sup> 
 
 
-_24.12.2021 16:54:03_
+_24.12.2021 22:21:52_
