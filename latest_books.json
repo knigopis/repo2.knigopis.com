@@ -1,4 +1,16 @@
 {
+    "BdI-EkYRb-": {
+        "id": "BdI-EkYRb-",
+        "title": "Последний эльф",
+        "author": "Мари де Сильвана",
+        "notes": "",
+        "createdAt": "2021-12-25 14:53:04",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 219
+        }
+    },
     "ucmsimaOhp": {
         "id": "ucmsimaOhp",
         "title": "Картежник и бретер, игрок и дуэлянт",
@@ -345,18 +357,6 @@
             "id": "112090473416384685204-google",
             "nickname": "Cr_RONIN",
             "booksCount": 7
-        }
-    },
-    "AEB15PIevd": {
-        "id": "AEB15PIevd",
-        "title": "Скандал в Институте благородных девиц",
-        "author": "Марина Ефиминюк",
-        "notes": "",
-        "createdAt": "2021-12-17 19:00:28",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 25
         }
     }
 }
