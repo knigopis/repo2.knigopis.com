@@ -1,4 +1,16 @@
 {
+    "ff9kGJqQvX": {
+        "id": "ff9kGJqQvX",
+        "title": "Маленькая книга икигай",
+        "author": "Кен Моги",
+        "notes": "",
+        "createdAt": "2021-12-26 10:37:09",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 220
+        }
+    },
     "49Mv8jCQgz": {
         "id": "49Mv8jCQgz",
         "title": "С ума сойти! Путеводитель по психическим расстройствам для жителя большого города",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 13
-        }
-    },
-    "yBBC0bqd1S": {
-        "id": "yBBC0bqd1S",
-        "title": "Идиот",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2021-12-20 11:32:09",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 183
         }
     }
 }
