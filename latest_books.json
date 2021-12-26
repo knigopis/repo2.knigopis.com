@@ -1,4 +1,16 @@
 {
+    "49Mv8jCQgz": {
+        "id": "49Mv8jCQgz",
+        "title": "С ума сойти! Путеводитель по психическим расстройствам для жителя большого города",
+        "author": "Дарья Варламова",
+        "notes": "",
+        "createdAt": "2021-12-26 10:36:38",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 219
+        }
+    },
     "ISELiCmLIk": {
         "id": "ISELiCmLIk",
         "title": "В своём уме",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 183
-        }
-    },
-    "CMNbHg_riC": {
-        "id": "CMNbHg_riC",
-        "title": "Карманный линкор Адмирал Шеер",
-        "author": "Йоханн Бреннеке",
-        "notes": "",
-        "createdAt": "2021-12-20 00:46:36",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 8
         }
     }
 }
