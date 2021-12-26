@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 218,
+        "updatedAt": "2021-12-26 10:35:51"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-12-06 19:47:14"
-    },
-    "82783120-yandex": {
-        "id": "82783120-yandex",
-        "nickname": "moshkinilya",
-        "booksCount": 1,
-        "updatedAt": "2021-12-06 15:27:13"
     }
 }
