@@ -1,4 +1,16 @@
 {
+    "S679o7-2Pu": {
+        "id": "S679o7-2Pu",
+        "title": "Грон: Обреченный на бой",
+        "author": "Злотников Роман",
+        "notes": "",
+        "createdAt": "2021-12-26 16:21:58",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 24
+        }
+    },
     "HwXavPSsnM": {
         "id": "HwXavPSsnM",
         "title": "Век тревожности",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 15
-        }
-    },
-    "DXENeGJ_9H": {
-        "id": "DXENeGJ_9H",
-        "title": "Путь демона: Тропа волшебника",
-        "author": "Алексей Глушановский",
-        "notes": "Номер книги в серии: 2",
-        "createdAt": "2021-12-20 12:31:07",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 14
         }
     }
 }

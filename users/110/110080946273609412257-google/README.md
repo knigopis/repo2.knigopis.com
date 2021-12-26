@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>23</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>24</sup>
 ---
 
 ## 2021
+
+### Грон: Обреченный на бой
+Злотников Роман
+> [2021-12-26] 
+
 
 ### Наномашина (Новелла)
 Hanjung Wolya
