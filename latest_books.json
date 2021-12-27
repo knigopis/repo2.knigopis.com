@@ -1,4 +1,16 @@
 {
+    "dd3bRW6AYa": {
+        "id": "dd3bRW6AYa",
+        "title": "Тень ветра",
+        "author": "Карлос Сафон",
+        "notes": "",
+        "createdAt": "2021-12-27 13:14:59",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 15
+        }
+    },
     "VRJaQf54FX": {
         "id": "VRJaQf54FX",
         "title": "Расстояние между мной и черешневым деревом",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 61
-        }
-    },
-    "EFiZ_kdeD6": {
-        "id": "EFiZ_kdeD6",
-        "title": "Заключённый 489",
-        "author": "Джо Р.Лансдейл",
-        "notes": "",
-        "createdAt": "2021-12-22 08:20:30",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 188
         }
     }
 }
