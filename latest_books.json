@@ -1,4 +1,16 @@
 {
+    "lGI0ktRKck": {
+        "id": "lGI0ktRKck",
+        "title": "Тревожные люди",
+        "author": "Фредерик Бакман",
+        "notes": "",
+        "createdAt": "2021-12-27 10:24:45",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 4
+        }
+    },
     "MOknBnmHSw": {
         "id": "MOknBnmHSw",
         "title": "Думаю, как все закончить",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 19
-        }
-    },
-    "DjmdqbbXd9": {
-        "id": "DjmdqbbXd9",
-        "title": "Полный набор: Империя",
-        "author": "Милослав Князев",
-        "notes": "Номер книги в серии: 6",
-        "createdAt": "2021-12-20 12:34:56",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 18
         }
     }
 }
