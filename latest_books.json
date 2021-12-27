@@ -1,4 +1,16 @@
 {
+    "HzTAt2F1zE": {
+        "id": "HzTAt2F1zE",
+        "title": "Морские звезды",
+        "author": "Питер Уоттс",
+        "notes": "",
+        "createdAt": "2021-12-27 13:29:39",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 29
+        }
+    },
     "KsBW8Ok6Gf": {
         "id": "KsBW8Ok6Gf",
         "title": "Крампус, повелитель Йоля",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 1
-        }
-    },
-    "S679o7-2Pu": {
-        "id": "S679o7-2Pu",
-        "title": "Грон: Обреченный на бой",
-        "author": "Злотников Роман",
-        "notes": "",
-        "createdAt": "2021-12-26 16:21:58",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 24
         }
     }
 }
