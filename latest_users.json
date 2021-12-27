@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "Evermind",
+        "booksCount": 60,
+        "updatedAt": "2021-12-27 19:50:37"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "ilgizzzk",
         "booksCount": 1,
         "updatedAt": "2021-12-09 18:09:39"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 318,
-        "updatedAt": "2021-12-06 19:59:49"
     }
 }

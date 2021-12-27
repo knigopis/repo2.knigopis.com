@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
+    > Книга о конченом наркомане который преодолел зависимость и стал преуспевающим бизнесменом. Очень занятная история.
+
 * Американские боги ~ [Garka](users/115/115753719718250012620-google)<sup>300</sup>
     > Гейман как всегда великолепен. Боги, оставшиеся без веры в них и без жертвоприношений теряют силы, практически вымирают. В отчаянной попытке выжить готовы на всё.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > С подписью автора!
 
 * Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
-    > 5/10 Збірка ессе, роздумів та записів.
 
 * Полный набор: Другая сторона ~ [gray7wand](users/110/110080946273609412257-google)<sup>23</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Империя ~ [gray7wand](users/110/110080946273609412257-google)<sup>18</sup>
 
-* Полный набор: Бог Дракон ~ [gray7wand](users/110/110080946273609412257-google)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>60</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>300</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>51</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>122</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>318</sup> 
 
 
-_27.12.2021 18:06:57_
+_27.12.2021 19:50:37_

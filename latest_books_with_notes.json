@@ -1,4 +1,16 @@
 {
+    "zeLMDIOZkW": {
+        "id": "zeLMDIOZkW",
+        "title": "Я забыл умереть",
+        "author": "Халил Рафати",
+        "notes": "Книга о конченом наркомане который преодолел зависимость и стал преуспевающим бизнесменом. Очень занятная история.",
+        "createdAt": "2021-12-27 19:50:37",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "Evermind",
+            "booksCount": 60
+        }
+    },
     "k4yczHnPXg": {
         "id": "k4yczHnPXg",
         "title": "Американские боги",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 316
-        }
-    },
-    "tUGl4LNePW": {
-        "id": "tUGl4LNePW",
-        "title": "Как сделана \"Шинель\" Гоголя",
-        "author": "Б. М. Эйхенбаум",
-        "notes": "Формалистическая статья.",
-        "createdAt": "2021-11-28 16:47:28",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 45
         }
     }
 }
