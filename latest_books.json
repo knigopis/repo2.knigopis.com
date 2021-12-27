@@ -1,4 +1,16 @@
 {
+    "dRkFzPvzAB": {
+        "id": "dRkFzPvzAB",
+        "title": "Фактотум",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2021-12-27 13:26:30",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 24
+        }
+    },
     "gzCZ3TX2yY": {
         "id": "gzCZ3TX2yY",
         "title": "Работа горя",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 218
-        }
-    },
-    "BdI-EkYRb-": {
-        "id": "BdI-EkYRb-",
-        "title": "Последний эльф",
-        "author": "Мари де Сильвана",
-        "notes": "",
-        "createdAt": "2021-12-25 14:53:04",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 219
         }
     }
 }
