@@ -1,4 +1,16 @@
 {
+    "3EAlk5AH6R": {
+        "id": "3EAlk5AH6R",
+        "title": "Каждый умирает в одиночку",
+        "author": "Ганс Фаллада",
+        "notes": "",
+        "createdAt": "2021-12-27 12:18:57",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 7
+        }
+    },
     "52K-UCnoub": {
         "id": "52K-UCnoub",
         "title": "Баллада о змеях и певчих птицах",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 23
-        }
-    },
-    "_BScqjslkv": {
-        "id": "_BScqjslkv",
-        "title": "Полный набор: Наследие древних",
-        "author": "Милослав Князев",
-        "notes": "Номер книги в серии: 10",
-        "createdAt": "2021-12-20 12:37:40",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 22
         }
     }
 }

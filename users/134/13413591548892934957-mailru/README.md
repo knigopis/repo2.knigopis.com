@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>6</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>7</sup>
 ---
 
 ## 2021
@@ -34,6 +34,11 @@
 ### Баллада о змеях и певчих птицах
 Сьюзен Коллинз
 > [2020-11-01] 
+
+
+### Каждый умирает в одиночку
+Ганс Фаллада
+> [2020-10-01] 
 
 
 
