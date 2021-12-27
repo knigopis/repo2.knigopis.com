@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>27</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>28</sup>
 ---
 
 ## 2021
@@ -139,6 +139,14 @@
 ### Бойцовский клуб
 Чак Паланик
 > [2020-02-01] 
+
+
+
+## 2019
+
+### Крампус, повелитель Йоля
+Джеральд Бром
+> [2019-12-01] 
 
 
 
