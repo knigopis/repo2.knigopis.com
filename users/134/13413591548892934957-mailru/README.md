@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>52</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>53</sup>
 ---
 
 ## 2021
@@ -262,6 +262,11 @@
 ### Убить пересмешника
 Харпер Ли
 > [2019-05-01] 
+
+
+### Дары Пандоры
+М.Р. Кэри
+> [2019-04-01] 
 
 
 ### Репортаж с петлей на шее
