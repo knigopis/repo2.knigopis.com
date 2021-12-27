@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>47</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>48</sup>
 ---
 
 ## 2021
@@ -242,6 +242,11 @@
 ### Ведьмак. Кровь эльфов.
 Анджей Сапковский
 > [2019-08-01] 
+
+
+### Море-океан
+Алессандро Барикко
+> [2019-07-01] 
 
 
 
