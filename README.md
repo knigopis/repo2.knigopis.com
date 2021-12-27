@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Американские боги ~ [Garka](users/115/115753719718250012620-google)<sup>300</sup>
+    > Гейман как всегда великолепен. Боги, оставшиеся без веры в них и без жертвоприношений теряют силы, практически вымирают. В отчаянной попытке выжить готовы на всё.
+
 * Донецко-Криворожская республика: Расстрелянная мечта ~ [danyluk62](users/374/374149854-vkontakte)<sup>121</sup>
     > С подписью автора!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Збірка ессе, роздумів та записів.
 
 * Полный набор: Другая сторона ~ [gray7wand](users/110/110080946273609412257-google)<sup>23</sup>
-    > Номер книги в серии: 11
 
 * Полный набор: Наследие древних ~ [gray7wand](users/110/110080946273609412257-google)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Бог Дракон ~ [gray7wand](users/110/110080946273609412257-google)<sup>17</sup>
 
-* Путь демона: Путь демона ~ [gray7wand](users/110/110080946273609412257-google)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>300</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>51</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>122</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>24</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>299</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>318</sup> 
 
 
-_27.12.2021 15:26:47_
+_27.12.2021 18:06:57_
