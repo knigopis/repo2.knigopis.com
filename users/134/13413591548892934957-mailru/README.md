@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>45</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>46</sup>
 ---
 
 ## 2021
@@ -227,6 +227,11 @@
 ### Ведьмак. Владычица озера.
 Анджей Сапковский
 > [2019-09-01] 
+
+
+### Ведьмак. Меч Предназначения.
+Анджей Сапковский
+> [2019-08-01] 
 
 
 ### Ведьмак. Кровь эльфов.
