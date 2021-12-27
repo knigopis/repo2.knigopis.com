@@ -1,4 +1,16 @@
 {
+    "RCZZtY5FfJ": {
+        "id": "RCZZtY5FfJ",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2021-12-27 12:59:04",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 13
+        }
+    },
     "-LXK5YyzB7": {
         "id": "-LXK5YyzB7",
         "title": "Время колоть лёд",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 26
-        }
-    },
-    "x7h6yOrI5L": {
-        "id": "x7h6yOrI5L",
-        "title": "О вреде пьянства",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2021-12-21 09:07:08",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 187
         }
     }
 }

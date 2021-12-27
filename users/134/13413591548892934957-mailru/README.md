@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>12</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>13</sup>
 ---
 
 ## 2021
@@ -64,6 +64,11 @@
 ### Удушье
 Чак Паланик
 > [2020-07-01] 
+
+
+### О дивный новый мир
+Олдос Хаксли
+> [2020-06-01] 
 
 
 
