@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>38</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>39</sup>
 ---
 
 ## 2021
@@ -172,6 +172,11 @@
 ### Вратарь и море
 Мария Парр
 > [2019-11-01] 
+
+
+### Тьма в полдень
+Юрий Слепухин
+> [2019-10-01] 
 
 
 ### Человек в высоком замке
