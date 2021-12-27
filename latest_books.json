@@ -1,4 +1,16 @@
 {
+    "HkLMLmpLAH": {
+        "id": "HkLMLmpLAH",
+        "title": "Возлюби ближнего своего",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2021-12-27 13:15:33",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 16
+        }
+    },
     "dd3bRW6AYa": {
         "id": "dd3bRW6AYa",
         "title": "Тень ветра",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 133
-        }
-    },
-    "8UvQbgm3Jh": {
-        "id": "8UvQbgm3Jh",
-        "title": "Смертельные воспоминания",
-        "author": "Анжела Марсонс",
-        "notes": "",
-        "createdAt": "2021-12-22 12:02:38",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 61
         }
     }
 }
