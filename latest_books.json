@@ -1,4 +1,16 @@
 {
+    "dZZE7kTQI8": {
+        "id": "dZZE7kTQI8",
+        "title": "Аут",
+        "author": "Нацуо Кирино",
+        "notes": "",
+        "createdAt": "2021-12-27 13:27:04",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 25
+        }
+    },
     "dRkFzPvzAB": {
         "id": "dRkFzPvzAB",
         "title": "Фактотум",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 219
-        }
-    },
-    "ISELiCmLIk": {
-        "id": "ISELiCmLIk",
-        "title": "В своём уме",
-        "author": "Дарья Варламова",
-        "notes": "",
-        "createdAt": "2021-12-26 10:35:51",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 218
         }
     }
 }
