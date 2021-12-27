@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>31</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>32</sup>
 ---
 
 ## 2021
@@ -157,6 +157,11 @@
 ### Крампус, повелитель Йоля
 Джеральд Бром
 > [2019-12-01] 
+
+
+### Мизери
+Стивен Кинг
+> [2019-11-01] 
 
 
 ### Вратарь и море
