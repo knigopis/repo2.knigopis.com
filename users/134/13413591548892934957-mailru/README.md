@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>7</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>8</sup>
 ---
 
 ## 2021
@@ -39,6 +39,11 @@
 ### Каждый умирает в одиночку
 Ганс Фаллада
 > [2020-10-01] 
+
+
+### Голая пионерка
+Михаил Кононов
+> [2020-09-01] 
 
 
 
