@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>26</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>27</sup>
 ---
 
 ## 2021
@@ -134,6 +134,11 @@
 ### Аут
 Нацуо Кирино
 > [2020-03-01] 
+
+
+### Бойцовский клуб
+Чак Паланик
+> [2020-02-01] 
 
 
 
