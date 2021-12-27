@@ -1,4 +1,16 @@
 {
+    "VBu1x0okhk": {
+        "id": "VBu1x0okhk",
+        "title": "Клуб любителей книг и пирогов из картофельных очистков",
+        "author": "Энни Берроуз",
+        "notes": "",
+        "createdAt": "2021-12-27 13:19:36",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 19
+        }
+    },
     "2Lu98VAaHK": {
         "id": "2Lu98VAaHK",
         "title": "Немой",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 121
-        }
-    },
-    "9NNpafVki8": {
-        "id": "9NNpafVki8",
-        "title": "Бесконечная чёрная пятница",
-        "author": "Нейт Саузард",
-        "notes": "",
-        "createdAt": "2021-12-23 07:23:19",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 189
         }
     }
 }
