@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>49</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>50</sup>
 ---
 
 ## 2021
@@ -242,6 +242,11 @@
 ### Ведьмак. Кровь эльфов.
 Анджей Сапковский
 > [2019-08-01] 
+
+
+### Лебединая дорога
+Мария Семёнова
+> [2019-07-01] 
 
 
 ### Покинутые небеса
