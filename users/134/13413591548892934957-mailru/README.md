@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>22</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>23</sup>
 ---
 
 ## 2021
+
+### Работа горя
+Вера Полозкова
+> [2021-11-01] 
+
 
 ### По ком звонит колокол
 Эрнест Хемингуэй

@@ -1,4 +1,16 @@
 {
+    "gzCZ3TX2yY": {
+        "id": "gzCZ3TX2yY",
+        "title": "Работа горя",
+        "author": "Вера Полозкова",
+        "notes": "",
+        "createdAt": "2021-12-27 13:25:54",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 23
+        }
+    },
     "wp775S3abK": {
         "id": "wp775S3abK",
         "title": "Послемрак",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 219
-        }
-    },
-    "ucmsimaOhp": {
-        "id": "ucmsimaOhp",
-        "title": "Картежник и бретер, игрок и дуэлянт",
-        "author": "Борис Львович Васильев",
-        "notes": "",
-        "createdAt": "2021-12-24 22:21:52",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 178
         }
     }
 }
