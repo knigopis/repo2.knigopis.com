@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>42</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>41</sup>
 ---
 
 ## 2021
@@ -210,11 +210,6 @@
 
 
 ### Ведьмак. Владычица озера.
-Анджей Сапковский
-> [2019-09-01] 
-
-
-### Ведьмак. Владычица озера. Дорога без возврата.
 Анджей Сапковский
 > [2019-09-01] 
 
