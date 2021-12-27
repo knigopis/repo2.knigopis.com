@@ -1,4 +1,16 @@
 {
+    "AEBvRTdiQb": {
+        "id": "AEBvRTdiQb",
+        "title": "Красный смех",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2021-12-27 13:24:14",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 20
+        }
+    },
     "VBu1x0okhk": {
         "id": "VBu1x0okhk",
         "title": "Клуб любителей книг и пирогов из картофельных очистков",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 27
-        }
-    },
-    "1OuSN6mJKS": {
-        "id": "1OuSN6mJKS",
-        "title": "Донецко-Криворожская республика: Расстрелянная мечта",
-        "author": "Владимир Корнилов",
-        "notes": "С подписью автора!",
-        "createdAt": "2021-12-24 11:27:31",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 121
         }
     }
 }
