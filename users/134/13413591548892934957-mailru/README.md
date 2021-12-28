@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>75</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>76</sup>
 ---
 
 ## 2021
@@ -385,6 +385,11 @@
 ### Нет
 Линор Горалик, Сергей Кузнецов
 > [2018-07-01] 
+
+
+### Консолидация
+Джефф Вандермеер
+> [2018-06-01] 
 
 
 

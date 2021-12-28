@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shellena](users/134/13413591548892934957-mailru)<sup>75</sup> 
+[Shellena](users/134/13413591548892934957-mailru)<sup>76</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>37</sup> 
 [Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 
 
-_28.12.2021 18:53:10_
+_28.12.2021 18:53:42_
