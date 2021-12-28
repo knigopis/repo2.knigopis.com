@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>229</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>230</sup>
 ---
 
 ## 2021
+
+### Тотальний опір
+Ганс фон Дах
+> [2021-12-27] 7/10 Посібник з ведення партизанської війни на окупованих територіях.
+
 
 ### Місяць, облитий дощем
 Вололимир Лис

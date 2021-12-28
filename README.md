@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
+    > 7/10 Посібник з ведення партизанської війни на окупованих територіях.
+
 * Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
     > Книга о конченом наркомане который преодолел зависимость и стал преуспевающим бизнесменом. Очень занятная история.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Гейман как всегда великолепен. Боги, оставшиеся без веры в них и без жертвоприношений теряют силы, практически вымирают. В отчаянной попытке выжить готовы на всё.
 
 * Донецко-Криворожская республика: Расстрелянная мечта ~ [danyluk62](users/374/374149854-vkontakte)<sup>121</sup>
-    > С подписью автора!
 
 * Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Возвращение домой ~ [gray7wand](users/110/110080946273609412257-google)<sup>19</sup>
 
-* Полный набор: Империя ~ [gray7wand](users/110/110080946273609412257-google)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>71</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>60</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>300</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>27</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
 [](users/117/117959961181822956584-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>61</sup> 
 [](users/115/115553403359274237491-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
 
 
-_28.12.2021 07:11:31_
+_28.12.2021 12:49:53_

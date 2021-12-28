@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
 * Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
 * Американские боги ~ [Garka](users/115/115753719718250012620-google)<sup>300</sup>
 * Донецко-Криворожская республика: Расстрелянная мечта ~ [danyluk62](users/374/374149854-vkontakte)<sup>121</sup>
@@ -30,7 +31,6 @@
 * Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
 * Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
-* Текущие мрак ~ [Chiffi](users/105/105831994080785626680-google)<sup>316</sup>
 
 
-_27.12.2021 19:50:37_
+_28.12.2021 12:49:53_
