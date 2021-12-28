@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>67</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>68</sup>
 ---
 
 ## 2021
@@ -340,6 +340,11 @@
 ### И вдруг никого не стало
 Изабель Отисье
 > [2018-09-01] 
+
+
+### Дальше жить
+Наринэ Абгарян
+> [2018-08-01] 
 
 
 ### Вафельное сердце
