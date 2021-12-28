@@ -1,4 +1,10 @@
 {
+    "1736709556538182-facebook": {
+        "id": "1736709556538182-facebook",
+        "nickname": "Mrbueno",
+        "booksCount": 0,
+        "updatedAt": "2021-12-28 12:52:47"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 192,
         "updatedAt": "2021-12-10 07:31:05"
-    },
-    "150371197-vkontakte": {
-        "id": "150371197-vkontakte",
-        "nickname": "ilgizzzk",
-        "booksCount": 1,
-        "updatedAt": "2021-12-09 18:09:39"
     }
 }
