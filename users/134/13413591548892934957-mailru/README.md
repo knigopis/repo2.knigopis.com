@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>69</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>70</sup>
 ---
 
 ## 2021
@@ -340,6 +340,11 @@
 ### И вдруг никого не стало
 Изабель Отисье
 > [2018-09-01] 
+
+
+### Неуютная ферма
+Стелла Гиббонс
+> [2018-08-01] 
 
 
 ### Почтамт
