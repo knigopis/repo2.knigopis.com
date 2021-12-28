@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>74</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>75</sup>
 ---
 
 ## 2021
@@ -365,6 +365,11 @@
 ### Вафельное сердце
 Мария Парр
 > [2018-08-01] 
+
+
+### Долой огуречного короля
+Кристина Нёстлингер
+> [2018-07-01] 
 
 
 ### Ассимиляция
