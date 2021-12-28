@@ -1,4 +1,16 @@
 {
+    "By96IF_2C2": {
+        "id": "By96IF_2C2",
+        "title": "Ассимиляция",
+        "author": "Джефф Вандермеер",
+        "notes": "",
+        "createdAt": "2021-12-28 18:52:20",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 74
+        }
+    },
     "FNOaBy4C8V": {
         "id": "FNOaBy4C8V",
         "title": "Играющая в го",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 49
-        }
-    },
-    "FgIWH1tWgw": {
-        "id": "FgIWH1tWgw",
-        "title": "Море-океан",
-        "author": "Алессандро Барикко",
-        "notes": "",
-        "createdAt": "2021-12-27 15:24:58",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 48
         }
     }
 }
