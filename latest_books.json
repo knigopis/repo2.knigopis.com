@@ -1,4 +1,16 @@
 {
+    "FNOaBy4C8V": {
+        "id": "FNOaBy4C8V",
+        "title": "Играющая в го",
+        "author": "Шань Са",
+        "notes": "",
+        "createdAt": "2021-12-28 18:51:40",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 73
+        }
+    },
     "wcDHH3S3Xy": {
         "id": "wcDHH3S3Xy",
         "title": "Нет",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 48
-        }
-    },
-    "_pfG-WDfB_": {
-        "id": "_pfG-WDfB_",
-        "title": "Ведьмак. Последнее желание.",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2021-12-27 15:24:21",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 47
         }
     }
 }
