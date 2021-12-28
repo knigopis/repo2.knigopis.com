@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>54</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>55</sup>
 ---
 
 ## 2021
@@ -277,6 +277,11 @@
 ### Случайному гостю
 Алексей Гедеонов
 > [2019-02-01] 
+
+
+### Vita Nostra
+Марина и Сергей Дяченко
+> [2019-01-01] 
 
 
 
