@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>59</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>60</sup>
 ---
 
 ## 2021
@@ -305,6 +305,11 @@
 ### Рождество в домике Петсона
 Свен Нурдквист
 > [2018-12-01] 
+
+
+### Памяти Каталонии
+Джордж Оруэлл
+> [2018-11-01] 
 
 
 
