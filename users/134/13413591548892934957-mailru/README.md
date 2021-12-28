@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>57</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>58</sup>
 ---
 
 ## 2021
@@ -286,6 +286,11 @@
 
 
 ## 2018
+
+### Яма
+Александр Куприн
+> [2018-12-01] 
+
 
 ### Пусть танцуют белые медведи
 Ульф Старк
