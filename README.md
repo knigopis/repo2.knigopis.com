@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>71</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>192</sup> 
-[ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
 
 
-_28.12.2021 12:49:53_
+_28.12.2021 12:52:47_
