@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>62</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>63</sup>
 ---
 
 ## 2021
@@ -320,6 +320,11 @@
 ### Памяти Каталонии
 Джордж Оруэлл
 > [2018-11-01] 
+
+
+### И вдруг никого не стало
+Изабель Отисье
+> [2018-09-01] 
 
 
 
