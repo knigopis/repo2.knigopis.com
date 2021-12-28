@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shellena](users/134/13413591548892934957-mailru)<sup>70</sup> 
+[Shellena](users/134/13413591548892934957-mailru)<sup>71</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>60</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>300</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>122</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ilgizzzk](users/150/150371197-vkontakte)<sup>1</sup> 
 
 
-_28.12.2021 07:10:50_
+_28.12.2021 07:11:31_
