@@ -1,4 +1,10 @@
 {
+    "3448154788585127-facebook": {
+        "id": "3448154788585127-facebook",
+        "nickname": "Пу_тем",
+        "booksCount": 37,
+        "updatedAt": "2021-12-28 12:53:53"
+    },
     "1736709556538182-facebook": {
         "id": "1736709556538182-facebook",
         "nickname": "Mrbueno",
@@ -172,11 +178,5 @@
         "nickname": "Triste",
         "booksCount": 47,
         "updatedAt": "2021-12-11 15:53:08"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 192,
-        "updatedAt": "2021-12-10 07:31:05"
     }
 }
