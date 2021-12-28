@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>53</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>54</sup>
 ---
 
 ## 2021
@@ -272,6 +272,11 @@
 ### Репортаж с петлей на шее
 Юлиус Фучик
 > [2019-04-01] 
+
+
+### Случайному гостю
+Алексей Гедеонов
+> [2019-02-01] 
 
 
 
