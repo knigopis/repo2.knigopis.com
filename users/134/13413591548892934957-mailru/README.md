@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>71</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>72</sup>
 ---
 
 ## 2021
@@ -365,6 +365,11 @@
 ### Вафельное сердце
 Мария Парр
 > [2018-08-01] 
+
+
+### Нет
+Линор Горалик, Сергей Кузнецов
+> [2018-07-01] 
 
 
 
