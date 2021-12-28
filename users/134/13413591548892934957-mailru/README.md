@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>64</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>65</sup>
 ---
 
 ## 2021
@@ -320,6 +320,11 @@
 ### Памяти Каталонии
 Джордж Оруэлл
 > [2018-11-01] 
+
+
+### Девушка в переводе
+Джин Квок
+> [2018-09-01] 
 
 
 ### Убежище 3/9
