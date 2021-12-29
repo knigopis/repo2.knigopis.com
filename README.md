@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* голова полная призраков ~ [](users/101/101368518035734751027-google)<sup>2</sup>
+    > 0/10
+
 * Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
     > 7/10 Посібник з ведення партизанської війни на окупованих територіях.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга о конченом наркомане который преодолел зависимость и стал преуспевающим бизнесменом. Очень занятная история.
 
 * Американские боги ~ [Garka](users/115/115753719718250012620-google)<sup>300</sup>
-    > Гейман как всегда великолепен. Боги, оставшиеся без веры в них и без жертвоприношений теряют силы, практически вымирают. В отчаянной попытке выжить готовы на всё.
 
 * Донецко-Криворожская республика: Расстрелянная мечта ~ [danyluk62](users/374/374149854-vkontakte)<sup>121</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Магия Фиора ~ [gray7wand](users/110/110080946273609412257-google)<sup>20</sup>
 
-* Полный набор: Возвращение домой ~ [gray7wand](users/110/110080946273609412257-google)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101368518035734751027-google)<sup>2</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>77</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>37</sup> 
 [Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103707808693711714462-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>47</sup> 
 
 
-_28.12.2021 18:54:02_
+_29.12.2021 05:07:34_

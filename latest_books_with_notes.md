@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* голова полная призраков ~ [](users/101/101368518035734751027-google)<sup>2</sup>
 * Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
 * Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
 * Американские боги ~ [Garka](users/115/115753719718250012620-google)<sup>300</sup>
@@ -30,7 +31,6 @@
 * Українська ведетта ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>225</sup>
 * Біблія ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>224</sup>
 * Тринадцатая сказка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>223</sup>
-* Букова земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>222</sup>
 
 
-_28.12.2021 12:49:53_
+_29.12.2021 05:07:34_
