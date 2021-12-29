@@ -1,4 +1,16 @@
 {
+    "CabMiiSTLx": {
+        "id": "CabMiiSTLx",
+        "title": "Таємна опора",
+        "author": "Людмила Петрановська",
+        "notes": "",
+        "createdAt": "2021-12-29 16:44:51",
+        "user": {
+            "id": "106107989792957993574-google",
+            "nickname": "Мирослава",
+            "booksCount": 31
+        }
+    },
     "sZtcU_-W4d": {
         "id": "sZtcU_-W4d",
         "title": "голова полная призраков",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 52
-        }
-    },
-    "zeLMDIOZkW": {
-        "id": "zeLMDIOZkW",
-        "title": "Я забыл умереть",
-        "author": "Халил Рафати",
-        "notes": "Книга о конченом наркомане который преодолел зависимость и стал преуспевающим бизнесменом. Очень занятная история.",
-        "createdAt": "2021-12-27 19:50:37",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "Evermind",
-            "booksCount": 60
         }
     }
 }

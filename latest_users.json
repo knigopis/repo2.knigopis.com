@@ -1,4 +1,10 @@
 {
+    "106107989792957993574-google": {
+        "id": "106107989792957993574-google",
+        "nickname": "Мирослава",
+        "booksCount": 31,
+        "updatedAt": "2021-12-29 16:44:51"
+    },
     "101368518035734751027-google": {
         "id": "101368518035734751027-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 121,
         "updatedAt": "2021-12-12 23:13:18"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 18,
-        "updatedAt": "2021-12-12 22:15:24"
     }
 }

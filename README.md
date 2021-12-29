@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мирослава](users/106/106107989792957993574-google)<sup>31</sup> 
 [](users/101/101368518035734751027-google)<sup>2</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>77</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>37</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bitter.mary](users/108/108890810412612634449-google)<sup>4</sup> 
 [](users/103/103707808693711714462-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>18</sup> 
 
 
-_29.12.2021 05:07:34_
+_29.12.2021 16:44:51_
