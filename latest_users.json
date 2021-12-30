@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 123,
+        "updatedAt": "2021-12-30 21:23:57"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -52,12 +58,6 @@
         "nickname": "Garka",
         "booksCount": 300,
         "updatedAt": "2021-12-27 18:06:57"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 122,
-        "updatedAt": "2021-12-27 10:41:18"
     },
     "110080946273609412257-google": {
         "id": "110080946273609412257-google",

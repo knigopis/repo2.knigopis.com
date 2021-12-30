@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>122</sup>
+# List of books read by danyluk62<sup>123</sup>
 ---
 
 ## 2021
+
+### Война на Донбассе
+Василий Пихорович
+> [2021-12] 
+
 
 ### Последняя Патриотическая
 Артур Черный
