@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Грон: Смертельный удар ~ [gray7wand](users/110/110080946273609412257-google)<sup>25</sup>
+    > Номер книги в серии: 2
+
 * голова полная призраков ~ [](users/101/101368518035734751027-google)<sup>2</sup>
     > 0/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Посібник з ведення партизанської війни на окупованих територіях.
 
 * Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
-    > Книга о конченом наркомане который преодолел зависимость и стал преуспевающим бизнесменом. Очень занятная история.
 
 * Американские боги ~ [Garka](users/115/115753719718250012620-google)<sup>300</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Пираты Драконьих островов ~ [gray7wand](users/110/110080946273609412257-google)<sup>21</sup>
 
-* Полный набор: Магия Фиора ~ [gray7wand](users/110/110080946273609412257-google)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>123</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>107</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>31</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>60</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>300</sup> 
-[gray7wand](users/110/110080946273609412257-google)<sup>24</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>221</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>178</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103707808693711714462-google)<sup>0</sup> 
 
 
-_30.12.2021 21:23:57_
+_30.12.2021 21:30:00_
