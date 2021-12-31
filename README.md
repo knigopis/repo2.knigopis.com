@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110586684065969128396-google)<sup>0</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>123</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>107</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
 [bishop_gena](users/223/223133377-vkontakte)<sup>0</sup> 
 [bitter.mary](users/108/108890810412612634449-google)<sup>4</sup> 
-[](users/103/103707808693711714462-google)<sup>0</sup> 
 
 
-_30.12.2021 21:30:00_
+_31.12.2021 21:12:19_
