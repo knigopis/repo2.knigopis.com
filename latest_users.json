@@ -1,4 +1,10 @@
 {
+    "110586684065969128396-google": {
+        "id": "110586684065969128396-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2021-12-31 21:12:19"
+    },
     "110080946273609412257-google": {
         "id": "110080946273609412257-google",
         "nickname": "gray7wand",
@@ -172,11 +178,5 @@
         "nickname": "bitter.mary",
         "booksCount": 4,
         "updatedAt": "2021-12-14 17:36:24"
-    },
-    "103707808693711714462-google": {
-        "id": "103707808693711714462-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2021-12-14 12:32:53"
     }
 }
