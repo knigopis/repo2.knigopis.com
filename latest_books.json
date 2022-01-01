@@ -1,4 +1,16 @@
 {
+    "tIVLFjm-PP": {
+        "id": "tIVLFjm-PP",
+        "title": "Аннигиляция",
+        "author": "Джефф Вандермеер",
+        "notes": "",
+        "createdAt": "2022-01-01 21:15:23",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 78
+        }
+    },
     "hhcFWQz7eF": {
         "id": "hhcFWQz7eF",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 63
-        }
-    },
-    "w8llcE01Hn": {
-        "id": "w8llcE01Hn",
-        "title": "Я уеду жить в \"Свитер\"",
-        "author": "Анна Никольская",
-        "notes": "",
-        "createdAt": "2021-12-28 06:30:52",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 62
         }
     }
 }

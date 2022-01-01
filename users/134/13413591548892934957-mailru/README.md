@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>77</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>78</sup>
 ---
 
 ## 2021
@@ -395,6 +395,11 @@
 ### Консолидация
 Джефф Вандермеер
 > [2018-06-01] 
+
+
+### Аннигиляция
+Джефф Вандермеер
+> [2018-05-01] 
 
 
 
