@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>86</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>87</sup>
 ---
 
 ## 2021
@@ -425,6 +425,11 @@
 ### Манюня
 Наринэ Абгарян
 > [2018-04-01] 
+
+
+### Рассказ Служанки
+Маргарет Этвуд
+> [2018-03-01] 
 
 
 ### Королева Бедлама
