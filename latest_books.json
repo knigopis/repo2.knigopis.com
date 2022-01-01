@@ -1,4 +1,16 @@
 {
+    "p6BC32YomW": {
+        "id": "p6BC32YomW",
+        "title": "Дом, в котором",
+        "author": "Мариам Петросян",
+        "notes": "",
+        "createdAt": "2022-01-01 21:22:27",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 92
+        }
+    },
     "14RQwnTVWk": {
         "id": "14RQwnTVWk",
         "title": "Ветер сквозь замочную скважину",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 75
-        }
-    },
-    "By96IF_2C2": {
-        "id": "By96IF_2C2",
-        "title": "Ассимиляция",
-        "author": "Джефф Вандермеер",
-        "notes": "",
-        "createdAt": "2021-12-28 18:52:20",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 74
         }
     }
 }
