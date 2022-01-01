@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>89</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>90</sup>
 ---
 
 ## 2021
@@ -450,6 +450,11 @@
 ### Продажное королевство
 Ли Бардуго
 > [2018-03-01] 
+
+
+### Половина жёлтого солнца
+Чимаманда Нгози
+> [2018-02-01] 
 
 
 ### Я должна рассказать
