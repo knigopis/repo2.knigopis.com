@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>82</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>83</sup>
 ---
 
 ## 2021
@@ -420,6 +420,11 @@
 ### Аннигиляция
 Джефф Вандермеер
 > [2018-05-01] 
+
+
+### Манюня
+Наринэ Абгарян
+> [2018-04-01] 
 
 
 
