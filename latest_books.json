@@ -1,4 +1,16 @@
 {
+    "DbsIrguic_": {
+        "id": "DbsIrguic_",
+        "title": "Рассечение Стоуна",
+        "author": "Абрахам Вергезе",
+        "notes": "",
+        "createdAt": "2022-01-01 21:20:08",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 88
+        }
+    },
     "Intaq4d_hd": {
         "id": "Intaq4d_hd",
         "title": "Рассказ Служанки",
@@ -345,18 +357,6 @@
             "id": "3448154788585127-facebook",
             "nickname": "Пу_тем",
             "booksCount": 37
-        }
-    },
-    "MHQS3IVYug": {
-        "id": "MHQS3IVYug",
-        "title": "Тотальний опір",
-        "author": "Ганс фон Дах",
-        "notes": "7/10 Посібник з ведення партизанської війни на окупованих територіях.",
-        "createdAt": "2021-12-28 12:49:53",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 230
         }
     }
 }
