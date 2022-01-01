@@ -1,5 +1,12 @@
-# List of books read by Triste<sup>47</sup>
+# List of books read by Triste<sup>48</sup>
 ---
+
+## 2022
+
+### Шуточка
+А. П. Чехов
+
+
 
 ## 2021
 

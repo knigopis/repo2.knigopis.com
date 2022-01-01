@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 48,
+        "updatedAt": "2022-01-01 14:57:41"
+    },
     "110586684065969128396-google": {
         "id": "110586684065969128396-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "bishop_gena",
         "booksCount": 0,
         "updatedAt": "2021-12-15 08:54:57"
-    },
-    "108890810412612634449-google": {
-        "id": "108890810412612634449-google",
-        "nickname": "bitter.mary",
-        "booksCount": 4,
-        "updatedAt": "2021-12-14 17:36:24"
     }
 }

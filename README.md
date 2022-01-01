@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>48</sup> 
 [](users/110/110586684065969128396-google)<sup>0</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>123</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>170</sup> 
 [bishop_gena](users/223/223133377-vkontakte)<sup>0</sup> 
-[bitter.mary](users/108/108890810412612634449-google)<sup>4</sup> 
 
 
-_31.12.2021 21:12:19_
+_01.01.2022 14:57:42_
