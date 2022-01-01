@@ -1,4 +1,10 @@
 {
+    "111656270551033014778-google": {
+        "id": "111656270551033014778-google",
+        "nickname": "eva",
+        "booksCount": 106,
+        "updatedAt": "2022-01-01 21:00:06"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": "Chandravadana",
         "booksCount": 170,
         "updatedAt": "2021-12-16 00:29:41"
-    },
-    "223133377-vkontakte": {
-        "id": "223133377-vkontakte",
-        "nickname": "bishop_gena",
-        "booksCount": 0,
-        "updatedAt": "2021-12-15 08:54:57"
     }
 }
