@@ -1,4 +1,16 @@
 {
+    "_wihtUEsbd": {
+        "id": "_wihtUEsbd",
+        "title": "Продажное королевство",
+        "author": "Ли Бардуго",
+        "notes": "",
+        "createdAt": "2022-01-01 21:18:10",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 84
+        }
+    },
     "7UQH37Ewq6": {
         "id": "7UQH37Ewq6",
         "title": "Манюня",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 69
-        }
-    },
-    "jT1MGK7eSY": {
-        "id": "jT1MGK7eSY",
-        "title": "Дальше жить",
-        "author": "Наринэ Абгарян",
-        "notes": "",
-        "createdAt": "2021-12-28 06:34:02",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 68
         }
     }
 }
