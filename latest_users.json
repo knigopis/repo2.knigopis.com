@@ -1,4 +1,10 @@
 {
+    "2434302110035411-facebook": {
+        "id": "2434302110035411-facebook",
+        "nickname": "lascara",
+        "booksCount": 0,
+        "updatedAt": "2022-01-02 20:01:22"
+    },
     "4722569524524943-facebook": {
         "id": "4722569524524943-facebook",
         "nickname": "VODOLEJ",
@@ -172,11 +178,5 @@
         "nickname": "Солнышко",
         "booksCount": 3,
         "updatedAt": "2021-12-17 12:30:06"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 49,
-        "updatedAt": "2021-12-16 03:37:22"
     }
 }
