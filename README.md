@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lascara](users/243/2434302110035411-facebook)<sup>0</sup> 
 [VODOLEJ](users/472/4722569524524943-facebook)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>92</sup> 
 [eva](users/111/111656270551033014778-google)<sup>110</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
 [Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup> 
 
 
-_02.01.2022 10:46:26_
+_02.01.2022 20:01:23_
