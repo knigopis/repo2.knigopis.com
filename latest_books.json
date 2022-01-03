@@ -1,4 +1,16 @@
 {
+    "keVOJ6ik1A": {
+        "id": "keVOJ6ik1A",
+        "title": "Лучше подавать холодным",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2022-01-03 08:58:03",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 96
+        }
+    },
     "jdgmjZSHfw": {
         "id": "jdgmjZSHfw",
         "title": "Первый закон. Кровь и железо.",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 48
-        }
-    },
-    "UUxe1D8MML": {
-        "id": "UUxe1D8MML",
-        "title": "Грон: Смертельный удар",
-        "author": "Злотников Роман",
-        "notes": "Номер книги в серии: 2",
-        "createdAt": "2021-12-30 21:30:00",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 25
         }
     }
 }
