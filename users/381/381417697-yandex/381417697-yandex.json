@@ -5,7 +5,7 @@
     "photo": "https://avatars.yandex.net/get-yapic/0/0-0/islands-retina-50",
     "profile": "http://www.knigopis.com/#/me/books?u=381417697-yandex",
     "identity": "http://openid.yandex.ru/knigopis/",
-    "booksCount": 53,
+    "booksCount": 54,
     "subscriptions": {
         "9142387-vkontakte": 72,
         "2352103981-twitter": 36,
@@ -90,5 +90,5 @@
         "13413591548892934957-mailru": 2
     },
     "createdAt": "2016-04-30 02:41:33",
-    "updatedAt": "2021-12-27 07:20:20"
+    "updatedAt": "2022-01-03 03:23:45"
 }

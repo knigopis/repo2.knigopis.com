@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 54,
+        "updatedAt": "2022-01-03 03:23:45"
+    },
     "2434302110035411-facebook": {
         "id": "2434302110035411-facebook",
         "nickname": "lascara",
@@ -154,12 +160,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-12-21 17:52:30"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 53,
-        "updatedAt": "2021-12-21 00:14:26"
     },
     "134671934-vkontakte": {
         "id": "134671934-vkontakte",
