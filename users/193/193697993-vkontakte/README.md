@@ -1,5 +1,13 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>27</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>28</sup>
 ---
+
+## 2022
+
+### Академия попаданцев
+Мария Боталова, Екатерина Флат
+> [2022-01-03] 
+
+
 
 ## 2021
 
