@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>94</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>95</sup>
 ---
 
 ## 2021
@@ -474,6 +474,11 @@
 
 
 ## 2017
+
+### Первый закон. Кровь и железо.
+Джо Аберкромби
+> [2017-08-01] 
+
 
 ### Первый закон. Прежде, чем их повесят.
 Джо Аберкромби

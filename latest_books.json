@@ -1,4 +1,16 @@
 {
+    "jdgmjZSHfw": {
+        "id": "jdgmjZSHfw",
+        "title": "Первый закон. Кровь и железо.",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2022-01-03 08:57:36",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 95
+        }
+    },
     "ugqOPg3fj9": {
         "id": "ugqOPg3fj9",
         "title": "Первый закон. Прежде, чем их повесят.",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 25
-        }
-    },
-    "XcOTLRJo9C": {
-        "id": "XcOTLRJo9C",
-        "title": "Война на Донбассе",
-        "author": "Василий Пихорович",
-        "notes": "",
-        "createdAt": "2021-12-30 21:23:57",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 123
         }
     }
 }
