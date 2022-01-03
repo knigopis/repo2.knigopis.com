@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
+    > Аўдыёкніга.
+    > Не даслухала да канца, бо пасля ідзе пра практыку медытацыі. Цікавая кніга, але расцягнута шмат і шмат чаго дзіўнага і не зразумелага.
+    > 5,5/10
+
 * Ближний Восток. История десяти тысячелетий ~ [Garka](users/115/115753719718250012620-google)<sup>301</sup>
     > Кратко и интересно рассказана история Месопотамии с 8500 г до н. э и по 60-е годи XX века.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Номер книги в серии: 2
 
 * голова полная призраков ~ [](users/101/101368518035734751027-google)<sup>2</sup>
-    > 0/10
 
 * Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Другая сторона ~ [gray7wand](users/110/110080946273609412257-google)<sup>23</sup>
 
-* Полный набор: Наследие древних ~ [gray7wand](users/110/110080946273609412257-google)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bitter.mary](users/108/108890810412612634449-google)<sup>5</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>53</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>103</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>301</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>61</sup> 
 [](users/115/115553403359274237491-google)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup> 
 
 
-_03.01.2022 12:19:15_
+_03.01.2022 12:19:53_

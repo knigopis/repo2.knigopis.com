@@ -1,4 +1,10 @@
 {
+    "108890810412612634449-google": {
+        "id": "108890810412612634449-google",
+        "nickname": "bitter.mary",
+        "booksCount": 5,
+        "updatedAt": "2022-01-03 12:19:53"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "slava_kite",
         "booksCount": 8,
         "updatedAt": "2021-12-20 00:46:36"
-    },
-    "112090473416384685204-google": {
-        "id": "112090473416384685204-google",
-        "nickname": "Cr_RONIN",
-        "booksCount": 7,
-        "updatedAt": "2021-12-18 15:04:24"
     }
 }
