@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>100</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>101</sup>
 ---
 
 ## 2021
@@ -503,6 +503,11 @@
 ### Моя рыба будет жить
 Рут Озеки
 > [2017-07-01] 
+
+
+### Жнецы страданий
+Екатерина Казакова
+> [2017-06-01] 
 
 
 ### Наследники скорби
