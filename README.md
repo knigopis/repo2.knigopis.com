@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>905</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>28</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>64</sup> 
 [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>133</sup> 
 [](users/153/1537586159620888-facebook)<sup>61</sup> 
 [](users/115/115553403359274237491-google)<sup>0</sup> 
-[slava_kite](users/134/134671934-vkontakte)<sup>8</sup> 
 
 
-_03.01.2022 13:41:07_
+_03.01.2022 19:33:52_
