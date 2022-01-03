@@ -1,4 +1,10 @@
 {
+    "109746193906459706720-google": {
+        "id": "109746193906459706720-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-01-03 09:17:58"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "Cr_RONIN",
         "booksCount": 7,
         "updatedAt": "2021-12-18 15:04:24"
-    },
-    "142331349-vkontakte": {
-        "id": "142331349-vkontakte",
-        "nickname": "Солнышко",
-        "booksCount": 3,
-        "updatedAt": "2021-12-17 12:30:06"
     }
 }
