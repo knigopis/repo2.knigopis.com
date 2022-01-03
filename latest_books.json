@@ -1,4 +1,16 @@
 {
+    "gn6vbhWgpE": {
+        "id": "gn6vbhWgpE",
+        "title": "Шерлок Холмс",
+        "author": "Конан Дойл",
+        "notes": "",
+        "createdAt": "2022-01-03 11:04:05",
+        "user": {
+            "id": "109746193906459706720-google",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "D_fE47fJHY": {
         "id": "D_fE47fJHY",
         "title": "Заживо в темноте",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 85
-        }
-    },
-    "_wihtUEsbd": {
-        "id": "_wihtUEsbd",
-        "title": "Продажное королевство",
-        "author": "Ли Бардуго",
-        "notes": "",
-        "createdAt": "2022-01-01 21:18:10",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 84
         }
     }
 }
