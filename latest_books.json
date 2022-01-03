@@ -1,4 +1,16 @@
 {
+    "ugqOPg3fj9": {
+        "id": "ugqOPg3fj9",
+        "title": "Первый закон. Прежде, чем их повесят.",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2022-01-03 08:57:03",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 94
+        }
+    },
     "b_MpHX6VoT": {
         "id": "b_MpHX6VoT",
         "title": "Первый закон. Последний довод королей.",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 123
-        }
-    },
-    "f2aFgELTMH": {
-        "id": "f2aFgELTMH",
-        "title": "Граф Монте-Кристо",
-        "author": "А.Дюма",
-        "notes": "",
-        "createdAt": "2021-12-29 19:21:30",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 107
         }
     }
 }
