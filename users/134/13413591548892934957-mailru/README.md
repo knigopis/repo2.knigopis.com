@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>107</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>108</sup>
 ---
 
 ## 2021
@@ -548,6 +548,11 @@
 ### Хижина дяди Тома
 Гирриет Бичер-Стоу
 > [2017-04-01] 
+
+
+### Оскар и розовая дама
+Эрик-Эмманюэль Шмитт
+> [2017-02-01] 
 
 
 
