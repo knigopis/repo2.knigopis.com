@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ближний Восток. История десяти тысячелетий ~ [Garka](users/115/115753719718250012620-google)<sup>301</sup>
+    > Кратко и интересно рассказана история Месопотамии с 8500 г до н. э и по 60-е годи XX века.
+
 * Грон: Смертельный удар ~ [gray7wand](users/110/110080946273609412257-google)<sup>25</sup>
     > Номер книги в серии: 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 0/10
 
 * Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
-    > 7/10 Посібник з ведення партизанської війни на окупованих територіях.
 
 * Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Наследие древних ~ [gray7wand](users/110/110080946273609412257-google)<sup>22</sup>
 
-* Полный набор: Пираты Драконьих островов ~ [gray7wand](users/110/110080946273609412257-google)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>301</sup> 
 [lascara](users/243/2434302110035411-facebook)<sup>3</sup> 
 [me](users/381/381417697-yandex)<sup>54</sup> 
 [VODOLEJ](users/472/4722569524524943-facebook)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>60</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>300</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>221</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>178</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Солнышко](users/142/142331349-vkontakte)<sup>3</sup> 
 
 
-_03.01.2022 07:44:01_
+_03.01.2022 07:57:55_
