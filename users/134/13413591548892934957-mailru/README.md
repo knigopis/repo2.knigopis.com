@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>96</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>97</sup>
 ---
 
 ## 2021
@@ -474,6 +474,11 @@
 
 
 ## 2017
+
+### Зулали
+Наринэ Абгарян
+> [2017-08-01] 
+
 
 ### Лучше подавать холодным
 Джо Аберкромби
