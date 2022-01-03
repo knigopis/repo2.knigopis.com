@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/109746193906459706720/)<sup>14</sup>
+# List of books read by [](https://plus.google.com/u/0/109746193906459706720/)<sup>13</sup>
 ---
 
 ## 2021
@@ -36,10 +36,6 @@
 ### Дивергент
 Рот
 > [2021-01] 
-
-
-### Мой (не) любимый дракон
-Валерия Чернованова
 
 
 
