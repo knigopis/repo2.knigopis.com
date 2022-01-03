@@ -1,4 +1,16 @@
 {
+    "b_MpHX6VoT": {
+        "id": "b_MpHX6VoT",
+        "title": "Первый закон. Последний довод королей.",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2022-01-03 08:56:32",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 93
+        }
+    },
     "ux4IiQEHE9": {
         "id": "ux4IiQEHE9",
         "title": "Ближний Восток. История десяти тысячелетий",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 107
-        }
-    },
-    "CabMiiSTLx": {
-        "id": "CabMiiSTLx",
-        "title": "Таємна опора",
-        "author": "Людмила Петрановська",
-        "notes": "",
-        "createdAt": "2021-12-29 16:44:51",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "Мирослава",
-            "booksCount": 31
         }
     }
 }

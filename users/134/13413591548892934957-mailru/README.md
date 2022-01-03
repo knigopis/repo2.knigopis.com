@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>92</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>93</sup>
 ---
 
 ## 2021
@@ -470,6 +470,14 @@
 ### Я должна рассказать
 Мария Рольникайте
 > [2018-02-01] 
+
+
+
+## 2017
+
+### Первый закон. Последний довод королей.
+Джо Аберкромби
+> [2017-08-01] 
 
 
 
