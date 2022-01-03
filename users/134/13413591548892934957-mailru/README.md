@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>97</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>98</sup>
 ---
 
 ## 2021
@@ -498,6 +498,11 @@
 ### Первый закон. Последний довод королей.
 Джо Аберкромби
 > [2017-08-01] 
+
+
+### Моя рыба будет жить
+Рут Озеки
+> [2017-07-01] 
 
 
 
