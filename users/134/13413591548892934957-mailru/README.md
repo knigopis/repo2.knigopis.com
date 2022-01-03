@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>106</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>107</sup>
 ---
 
 ## 2021
@@ -21,6 +21,11 @@
 ### Думаю, как все закончить
 Иэн Рэйд
 > [2021-02-01] 
+
+
+### Высокое разрешение
+Вера Полозкова
+> [2021-01-01] 
 
 
 
