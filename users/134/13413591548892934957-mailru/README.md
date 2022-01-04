@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>115</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>116</sup>
 ---
 
 ## 2021
@@ -582,6 +582,11 @@
 
 
 ## 2016
+
+### Щелкунчик и Мышиный Король
+Эрнст Гофман
+> [2016-12-01] 
+
 
 ### Вонгозеро
 Яна Вагнер
