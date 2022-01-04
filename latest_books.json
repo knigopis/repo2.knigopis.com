@@ -1,4 +1,16 @@
 {
+    "XLPwGsSANF": {
+        "id": "XLPwGsSANF",
+        "title": "Невеста стального принца. Книга вторая",
+        "author": "Чернованова",
+        "notes": "",
+        "createdAt": "2022-01-04 07:44:42",
+        "user": {
+            "id": "109746193906459706720-google",
+            "nickname": "Феня Котовна",
+            "booksCount": 82
+        }
+    },
     "db4Z9DvO5v": {
         "id": "db4Z9DvO5v",
         "title": "Невеста стального принца",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 28
-        }
-    },
-    "n4VaLF-9Vu": {
-        "id": "n4VaLF-9Vu",
-        "title": "Магия Вооружает. #5",
-        "author": "Эндрюс",
-        "notes": "",
-        "createdAt": "2022-01-03 13:35:05",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 64
         }
     }
 }
