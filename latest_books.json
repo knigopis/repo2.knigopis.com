@@ -1,4 +1,16 @@
 {
+    "-JnWrdqy8Y": {
+        "id": "-JnWrdqy8Y",
+        "title": "Орудия Смерти. Город праха. #2",
+        "author": "Клэр",
+        "notes": "",
+        "createdAt": "2022-01-04 09:50:47",
+        "user": {
+            "id": "109746193906459706720-google",
+            "nickname": "Феня Котовна",
+            "booksCount": 89
+        }
+    },
     "4GdD7XO64-": {
         "id": "4GdD7XO64-",
         "title": "Орудия Смерти. Город Костей. #1",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 109
-        }
-    },
-    "6djNJ_8gow": {
-        "id": "6djNJ_8gow",
-        "title": "Оскар и розовая дама",
-        "author": "Эрик-Эмманюэль Шмитт",
-        "notes": "",
-        "createdAt": "2022-01-03 20:17:52",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 108
         }
     }
 }
