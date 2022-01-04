@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
+    > 8/10 Кожень покупець отримує що бажає, але за все треба платити.
+
 * Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
     > Аўдыёкніга.
     > Не даслухала да канца, бо пасля ідзе пра практыку медытацыі. Цікавая кніга, але расцягнута шмат і шмат чаго дзіўнага і не зразумелага.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Кратко и интересно рассказана история Месопотамии с 8500 г до н. э и по 60-е годи XX века.
 
 * Грон: Смертельный удар ~ [gray7wand](users/110/110080946273609412257-google)<sup>25</sup>
-    > Номер книги в серии: 2
 
 * голова полная призраков ~ [](users/101/101368518035734751027-google)<sup>2</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
 
-* Полный набор: Другая сторона ~ [gray7wand](users/110/110080946273609412257-google)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup> 
 [Lara_Dmitriv](users/100/100083934374435157506-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>127</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>124</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>2</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>37</sup> 
 [Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>60</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>221</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>61</sup> 
 
 
-_04.01.2022 19:00:25_
+_04.01.2022 20:27:34_

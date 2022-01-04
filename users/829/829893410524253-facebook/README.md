@@ -1,5 +1,13 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>230</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>231</sup>
 ---
+
+## 2022
+
+### Необхідні речі.
+Стівен Кінг
+> [2022-01-03] 8/10 Кожень покупець отримує що бажає, але за все треба платити.
+
+
 
 ## 2021
 
