@@ -1,4 +1,10 @@
 {
+    "854259041-yandex": {
+        "id": "854259041-yandex",
+        "nickname": "kaveshhi",
+        "booksCount": 0,
+        "updatedAt": "2022-01-05 08:15:55"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 133,
         "updatedAt": "2021-12-22 14:45:05"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 61,
-        "updatedAt": "2021-12-22 12:02:38"
     }
 }
