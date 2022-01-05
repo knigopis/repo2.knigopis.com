@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 153,
+        "updatedAt": "2022-01-05 23:46:51"
+    },
     "2434302110035411-facebook": {
         "id": "2434302110035411-facebook",
         "nickname": "lascara",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-12-23 02:53:46"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 133,
-        "updatedAt": "2021-12-22 14:45:05"
     }
 }

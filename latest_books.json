@@ -1,4 +1,16 @@
 {
+    "mc6gdIJjaT": {
+        "id": "mc6gdIJjaT",
+        "title": "Содом и Гоморра",
+        "author": "Марсель Пруст",
+        "notes": "",
+        "createdAt": "2022-01-05 23:46:51",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 153
+        }
+    },
     "RK2XfP_eln": {
         "id": "RK2XfP_eln",
         "title": "Книжный дозор",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 114
-        }
-    },
-    "Sbyrrxlw2e": {
-        "id": "Sbyrrxlw2e",
-        "title": "Академия магических секретов. Расправить крылья\n\n. #3",
-        "author": "Федотовская",
-        "notes": "",
-        "createdAt": "2022-01-04 12:39:17",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 113
         }
     }
 }
