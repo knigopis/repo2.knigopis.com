@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kaveshhi](users/854/854259041-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup> 
 [Lara_Dmitriv](users/100/100083934374435157506-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>127</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
 [](users/117/117959961181822956584-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>133</sup> 
-[](users/153/1537586159620888-facebook)<sup>61</sup> 
 
 
-_04.01.2022 20:27:34_
+_05.01.2022 08:15:55_
