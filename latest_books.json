@@ -1,4 +1,16 @@
 {
+    "RK2XfP_eln": {
+        "id": "RK2XfP_eln",
+        "title": "Книжный дозор",
+        "author": "Аркадий Шушпанов",
+        "notes": "",
+        "createdAt": "2022-01-05 16:24:34",
+        "user": {
+            "id": "2434302110035411-facebook",
+            "nickname": "lascara",
+            "booksCount": 4
+        }
+    },
     "-Fqb7aGJKc": {
         "id": "-Fqb7aGJKc",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 113
-        }
-    },
-    "-PcdUoMy-R": {
-        "id": "-PcdUoMy-R",
-        "title": "Академия магических секретов. Раскрыть тайны. #2",
-        "author": "Федотовская",
-        "notes": "#2",
-        "createdAt": "2022-01-04 12:38:26",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 112
         }
     }
 }
