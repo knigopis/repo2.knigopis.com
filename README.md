@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>193</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>194</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>143</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>153</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
 
 
-_06.01.2022 10:46:21_
+_06.01.2022 10:47:13_
