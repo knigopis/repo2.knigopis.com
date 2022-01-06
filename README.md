@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>128</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>153</sup> 
 [lascara](users/243/2434302110035411-facebook)<sup>4</sup> 
 [kaveshhi](users/854/854259041-yandex)<sup>1</sup> 
 [Lara_Dmitriv](users/100/100083934374435157506-google)<sup>0</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>127</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>124</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>905</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>28</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/117/117959961181822956584-google)<sup>0</sup> 
 
 
-_06.01.2022 00:27:04_
+_06.01.2022 10:22:02_
