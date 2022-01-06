@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>157</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>50</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>194</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>143</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>178</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>108</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
 
 
-_06.01.2022 13:21:36_
+_06.01.2022 15:05:17_
