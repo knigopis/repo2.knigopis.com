@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
 * Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
 * Ближний Восток. История десяти тысячелетий ~ [Garka](users/115/115753719718250012620-google)<sup>301</sup>
@@ -30,7 +31,6 @@
 * Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
-* Женщина в белом ~ [Garka](users/115/115753719718250012620-google)<sup>298</sup>
 
 
-_04.01.2022 20:27:34_
+_06.01.2022 00:27:04_

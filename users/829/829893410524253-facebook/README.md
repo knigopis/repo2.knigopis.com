@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>231</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>232</sup>
 ---
 
 ## 2022
+
+### Вонгозеро
+Яна Вагнер
+> [2022-01-06] 10/10 Група людей намагається проїхати, через інфіковані міста до безлюдного озера.
+
 
 ### Необхідні речі.
 Стівен Кінг

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
+    > 10/10 Група людей намагається проїхати, через інфіковані міста до безлюдного озера.
+
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
     > 8/10 Кожень покупець отримує що бажає, але за все треба платити.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 5,5/10
 
 * Ближний Восток. История десяти тысячелетий ~ [Garka](users/115/115753719718250012620-google)<sup>301</sup>
-    > Кратко и интересно рассказана история Месопотамии с 8500 г до н. э и по 60-е годи XX века.
 
 * Грон: Смертельный удар ~ [gray7wand](users/110/110080946273609412257-google)<sup>25</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Донецко-Криворожская республика: Расстрелянная мечта ~ [danyluk62](users/374/374149854-vkontakte)<sup>121</sup>
 
-* Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>153</sup> 
 [lascara](users/243/2434302110035411-facebook)<sup>4</sup> 
 [kaveshhi](users/854/854259041-yandex)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup> 
 [Lara_Dmitriv](users/100/100083934374435157506-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>127</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>124</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/117/117959961181822956584-google)<sup>0</sup> 
 
 
-_05.01.2022 23:46:51_
+_06.01.2022 00:27:04_
