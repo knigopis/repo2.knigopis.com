@@ -1,5 +1,13 @@
-# List of books read by Evermind<sup>60</sup>
+# List of books read by Evermind<sup>61</sup>
 ---
+
+## 2022
+
+### Маленький принц
+Антуана де Сент-Экзюпери
+> [2022-01-06] Перечитал. Всё так же глубоко.
+
+
 
 ## 2021
 

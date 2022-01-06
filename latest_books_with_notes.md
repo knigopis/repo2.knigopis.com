@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маленький принц ~ [Evermind](users/302/302928912-vkontakte)<sup>61</sup>
 * Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
 * Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
@@ -30,7 +31,6 @@
 * Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
 * Мадам Оракул ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>226</sup>
 * Звёздная сыпь ~ [Triste](users/517/5175580462988229760-mailru)<sup>46</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>318</sup>
 
 
-_06.01.2022 00:27:04_
+_06.01.2022 23:01:31_
