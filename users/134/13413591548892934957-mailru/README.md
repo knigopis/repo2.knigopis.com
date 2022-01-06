@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>131</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>132</sup>
 ---
 
 ## 2021
@@ -651,6 +651,11 @@
 ### Ностальгия
 Тэффи
 > [2016-10-01] 
+
+
+### Песнь Сюзанны
+Стивен Кинг
+> [2016-09-01] 
 
 
 ### Темная башня

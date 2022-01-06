@@ -1,4 +1,16 @@
 {
+    "GNP6Jnz16P": {
+        "id": "GNP6Jnz16P",
+        "title": "Песнь Сюзанны",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-01-06 10:23:43",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 132
+        }
+    },
     "1wOoGutHks": {
         "id": "1wOoGutHks",
         "title": "Темная башня",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 120
-        }
-    },
-    "6s6DX3MnSq": {
-        "id": "6s6DX3MnSq",
-        "title": "Умоляй, ведьма-2",
-        "author": "Сильвия Лайм",
-        "notes": "",
-        "createdAt": "2022-01-04 13:06:12",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 119
         }
     }
 }
