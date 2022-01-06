@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>129</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>130</sup>
 ---
 
 ## 2021
@@ -651,6 +651,11 @@
 ### Ностальгия
 Тэффи
 > [2016-10-01] 
+
+
+### Стихи разных лет
+Вера Полозкова
+> [2016-09-01] 
 
 
 ### Скала
