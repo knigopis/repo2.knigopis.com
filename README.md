@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>193</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>143</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>153</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>178</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>108</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
-[](users/117/117959961181822956584-google)<sup>0</sup> 
 
 
-_06.01.2022 10:28:50_
+_06.01.2022 10:46:21_
