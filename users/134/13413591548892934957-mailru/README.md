@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>139</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>140</sup>
 ---
 
 ## 2021
@@ -696,6 +696,11 @@
 ### Волки Кальи
 Стивен Кинг
 > [2016-08-01] 
+
+
+### Где-то под Гроссето
+Марина Степнова
+> [2016-07-01] 
 
 
 ### Последний эльф
