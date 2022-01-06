@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>136</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>137</sup>
 ---
 
 ## 2021
@@ -696,6 +696,11 @@
 ### Волки Кальи
 Стивен Кинг
 > [2016-08-01] 
+
+
+### Извлечение троих
+Стивен Кинг
+> [2016-07-01] 
 
 
 
