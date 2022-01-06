@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>141</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>142</sup>
 ---
 
 ## 2021
@@ -696,6 +696,11 @@
 ### Волки Кальи
 Стивен Кинг
 > [2016-08-01] 
+
+
+### Война и мир
+Лев Толстой
+> [2016-07-01] 
 
 
 ### Долгий, долгий сон
