@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>50</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>194</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>143</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>54</sup> 
 [VODOLEJ](users/472/4722569524524943-facebook)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>110</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>49</sup> 
 [](users/110/110586684065969128396-google)<sup>0</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>123</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>189</sup> 
 
 
-_06.01.2022 10:47:13_
+_06.01.2022 13:21:36_

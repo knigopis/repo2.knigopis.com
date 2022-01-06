@@ -1,7 +1,11 @@
-# List of books read by Triste<sup>49</sup>
+# List of books read by Triste<sup>50</sup>
 ---
 
 ## 2022
+
+### Чёрный человек
+С. А. Есенин
+
 
 ### Володя
 А. П. Чехов
