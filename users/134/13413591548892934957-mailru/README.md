@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>145</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>146</sup>
 ---
 
 ## 2021
@@ -731,6 +731,11 @@
 ### Макбет
 Шекспир
 > [2016-06-01] 
+
+
+### Жареные зелёные помидоры в кафе "Полустанок"
+Фэнни Флэгг
+> [2016-05-01] 
 
 
 ### Львы Аль-Рассана
