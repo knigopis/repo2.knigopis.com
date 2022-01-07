@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>124</sup>
+# List of books read by danyluk62<sup>125</sup>
 ---
 
 ## 2022
+
+### Война
+Владлен Татарский
+> [2022-01] 
+
 
 ### Как воюют на Донбассе
 Владислав Шурыгин

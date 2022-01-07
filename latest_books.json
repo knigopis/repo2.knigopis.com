@@ -1,4 +1,16 @@
 {
+    "uZCpramAsV": {
+        "id": "uZCpramAsV",
+        "title": "Война",
+        "author": "Владлен Татарский",
+        "notes": "",
+        "createdAt": "2022-01-07 21:05:00",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 125
+        }
+    },
     "nCwPAtBcI9": {
         "id": "nCwPAtBcI9",
         "title": "Как воюют на Донбассе",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 23
-        }
-    },
-    "80_Qs-wqAB": {
-        "id": "80_Qs-wqAB",
-        "title": "Маленький принц",
-        "author": "Антуана де Сент-Экзюпери",
-        "notes": "Перечитал. Всё так же глубоко.",
-        "createdAt": "2022-01-06 23:01:31",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "Evermind",
-            "booksCount": 61
         }
     }
 }
