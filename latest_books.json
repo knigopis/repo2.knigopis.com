@@ -1,4 +1,16 @@
 {
+    "3sNv2Hzwva": {
+        "id": "3sNv2Hzwva",
+        "title": "Вспышка молнии за горой",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2022-01-07 18:53:49",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 156
+        }
+    },
     "mGk1sIQq6Z": {
         "id": "mGk1sIQq6Z",
         "title": "Война миров",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 135
-        }
-    },
-    "GWFIhKvmSY": {
-        "id": "GWFIhKvmSY",
-        "title": "Колдун и Кристалл",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2022-01-06 10:24:26",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 134
         }
     }
 }

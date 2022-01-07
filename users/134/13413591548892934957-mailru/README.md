@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>155</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>156</sup>
 ---
 
 ## 2021
@@ -746,6 +746,11 @@
 ### И аз воздам
 Надежда Попова
 > [2016-05-01] 
+
+
+### Вспышка молнии за горой
+Чарльз Буковски
+> [2016-04-01] 
 
 
 ### Война миров
