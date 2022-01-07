@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 15 мифов и правда о Донецко-Криворожской Республике ~ [danyluk62](users/374/374149854-vkontakte)<sup>126</sup>
+    > Статья
+
 * Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
     > 7/10 Приключения на корабле и в экваториальной Африке.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Стрьомний мальопис із якого складно зрозуміти сюжет, у мрачних тонах.
 
 * Общество анонимных кофеголиков ~ [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup>
-    > Не то, что я ожидала, это книга о свиданиях с иностранцами
 
 * 15 секретов управления временем ~ [albina_untiring](users/257/2579695-vkontakte)<sup>23</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Ближний Восток. История десяти тысячелетий ~ [Garka](users/115/115753719718250012620-google)<sup>301</sup>
 
-* Грон: Смертельный удар ~ [gray7wand](users/110/110080946273609412257-google)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>126</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>125</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>125</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>167</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
 
 
-_07.01.2022 21:20:30_
+_07.01.2022 23:39:20_
