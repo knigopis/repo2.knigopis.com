@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>151</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>152</sup>
 ---
 
 ## 2021
@@ -746,6 +746,11 @@
 ### И аз воздам
 Надежда Попова
 > [2016-05-01] 
+
+
+### Спутники. Санитарный поезд
+Вера Панова
+> [2016-04-01] 
 
 
 ### Я пережила Освенцим
