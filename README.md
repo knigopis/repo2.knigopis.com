@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 15 секретов управления временем ~ [albina_untiring](users/257/2579695-vkontakte)<sup>23</sup>
+    > Есть пара интересных мыслей
+
 * Маленький принц ~ [Evermind](users/302/302928912-vkontakte)<sup>61</sup>
     > Перечитал. Всё так же глубоко.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Група людей намагається проїхати, через інфіковані міста до безлюдного озера.
 
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
-    > 8/10 Кожень покупець отримує що бажає, але за все треба платити.
 
 * Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
 
-* Американские боги ~ [Garka](users/115/115753719718250012620-google)<sup>300</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>23</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>157</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>221</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>178</sup> 
 
 
-_06.01.2022 23:01:31_
+_07.01.2022 11:18:39_
