@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
 * Гамлет ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup>
 * Общество анонимных кофеголиков ~ [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup>
 * 15 секретов управления временем ~ [albina_untiring](users/257/2579695-vkontakte)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Завтрак у Тиффани ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup>
 * Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
 * Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
-* Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
 
 
-_07.01.2022 19:22:44_
+_07.01.2022 21:20:30_

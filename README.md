@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
+    > 7/10 Приключения на корабле и в экваториальной Африке.
+
 * Гамлет ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup>
     > 5/10 Стрьомний мальопис із якого складно зрозуміти сюжет, у мрачних тонах.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не то, что я ожидала, это книга о свиданиях с иностранцами
 
 * 15 секретов управления временем ~ [albina_untiring](users/257/2579695-vkontakte)<sup>23</sup>
-    > Есть пара интересных мыслей
 
 * Маленький принц ~ [Evermind](users/302/302928912-vkontakte)<sup>61</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Грон: Смертельный удар ~ [gray7wand](users/110/110080946273609412257-google)<sup>25</sup>
 
-* голова полная призраков ~ [](users/101/101368518035734751027-google)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>125</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>125</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>167</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
 
 
-_07.01.2022 21:05:00_
+_07.01.2022 21:20:30_

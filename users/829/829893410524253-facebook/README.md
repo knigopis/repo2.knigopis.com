@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>233</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>234</sup>
 ---
 
 ## 2022
+
+### Пятнадцатилетний капитан
+Жюль Верн
+> [2022-01-07] 7/10 Приключения на корабле и в экваториальной Африке.
+
 
 ### Гамлет
 Вільям Шекспір (комікс)
