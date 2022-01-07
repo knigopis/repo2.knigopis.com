@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>23</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>24</sup>
 ---
 
 ## 2022
+
+### Общество анонимных кофеголиков
+Ольга Дыняк
+> [2022-01-05] Не то, что я ожидала, это книга о свиданиях с иностранцами
+
 
 ### 15 секретов управления временем
 Кевин Круз

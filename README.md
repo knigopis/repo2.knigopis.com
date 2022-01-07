@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Общество анонимных кофеголиков ~ [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup>
+    > Не то, что я ожидала, это книга о свиданиях с иностранцами
+
 * 15 секретов управления временем ~ [albina_untiring](users/257/2579695-vkontakte)<sup>23</sup>
     > Есть пара интересных мыслей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перечитал. Всё так же глубоко.
 
 * Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
-    > 10/10 Група людей намагається проїхати, через інфіковані міста до безлюдного озера.
 
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
 
-* Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[albina_untiring](users/257/2579695-vkontakte)<sup>23</sup> 
+[albina_untiring](users/257/2579695-vkontakte)<sup>24</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>157</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>219</sup> 
 
 
-_07.01.2022 11:18:39_
+_07.01.2022 11:20:09_
