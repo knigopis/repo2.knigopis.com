@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>232</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>233</sup>
 ---
 
 ## 2022
+
+### Гамлет
+Вільям Шекспір (комікс)
+> [2022-01-07] 5/10 Стрьомний мальопис із якого складно зрозуміти сюжет, у мрачних тонах.
+
 
 ### Вонгозеро
 Яна Вагнер

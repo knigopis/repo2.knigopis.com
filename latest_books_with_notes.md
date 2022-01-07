@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гамлет ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup>
 * Общество анонимных кофеголиков ~ [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup>
 * 15 секретов управления временем ~ [albina_untiring](users/257/2579695-vkontakte)<sup>23</sup>
 * Маленький принц ~ [Evermind](users/302/302928912-vkontakte)<sup>61</sup>
@@ -30,7 +31,6 @@
 * Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
 * Доця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>228</sup>
 * Таємнича Україна. Загадки, міфи та легенди. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>227</sup>
-* Сиддхартха ~ [Apprentice ](users/528/52821952-vkontakte)<sup>121</sup>
 
 
-_07.01.2022 11:20:09_
+_07.01.2022 19:22:44_
