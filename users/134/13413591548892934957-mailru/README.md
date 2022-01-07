@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>147</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>148</sup>
 ---
 
 ## 2021
@@ -746,6 +746,11 @@
 ### И аз воздам
 Надежда Попова
 > [2016-05-01] 
+
+
+### Люди, которые всегда со мной
+Наринэ Абгарян
+> [2016-04-01] 
 
 
 ### Убик
