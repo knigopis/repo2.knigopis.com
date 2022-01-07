@@ -1,4 +1,10 @@
 {
+    "109746193906459706720-google": {
+        "id": "109746193906459706720-google",
+        "nickname": "Феня Котовна",
+        "booksCount": 125,
+        "updatedAt": "2022-01-07 20:35:14"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -70,12 +76,6 @@
         "nickname": "Lara_Dmitriv",
         "booksCount": 0,
         "updatedAt": "2022-01-04 19:00:24"
-    },
-    "109746193906459706720-google": {
-        "id": "109746193906459706720-google",
-        "nickname": "Феня Котовна",
-        "booksCount": 124,
-        "updatedAt": "2022-01-04 14:04:39"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
