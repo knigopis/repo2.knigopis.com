@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>162</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>163</sup>
 ---
 
 ## 2021
@@ -811,6 +811,11 @@
 ### Кукушка
 Дмитрий Скирюк
 > [2016-02-01] 
+
+
+### Жестокие игры
+Мэгги Стивотер
+> [2016-01-01] 
 
 
 ### Гордость и предубеждение и зомби
