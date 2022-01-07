@@ -1,4 +1,16 @@
 {
+    "TRiEm6Nuq8": {
+        "id": "TRiEm6Nuq8",
+        "title": "Страна Рождества",
+        "author": "Джо Хилл",
+        "notes": "",
+        "createdAt": "2022-01-07 18:58:46",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 167
+        }
+    },
     "OUb0ZY__z0": {
         "id": "OUb0ZY__z0",
         "title": "Охотники",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 50
-        }
-    },
-    "wZzmwk8L4u": {
-        "id": "wZzmwk8L4u",
-        "title": "Build a Better Brain",
-        "author": "Peter Hollins",
-        "notes": "",
-        "createdAt": "2022-01-06 10:47:13",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 194
         }
     }
 }
