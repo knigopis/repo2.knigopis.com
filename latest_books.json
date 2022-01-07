@@ -1,4 +1,16 @@
 {
+    "rp03MxIYBc": {
+        "id": "rp03MxIYBc",
+        "title": "Львы Аль-Рассана",
+        "author": "Гай Кэй",
+        "notes": "",
+        "createdAt": "2022-01-07 18:46:41",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 145
+        }
+    },
     "BYwylP_MNm": {
         "id": "BYwylP_MNm",
         "title": "И аз воздам",
@@ -345,18 +357,6 @@
             "id": "854259041-yandex",
             "nickname": "kaveshhi",
             "booksCount": 1
-        }
-    },
-    "NnLXppIeX7": {
-        "id": "NnLXppIeX7",
-        "title": "Необхідні речі.",
-        "author": "Стівен Кінг",
-        "notes": "8/10 Кожень покупець отримує що бажає, але за все треба платити.",
-        "createdAt": "2022-01-04 20:27:34",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 231
         }
     }
 }
