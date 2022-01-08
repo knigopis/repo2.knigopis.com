@@ -1,9 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)
 ---
 
-### `99` Гиперболоид инженера Гарина
-Алексей Толстой
-
 ### `55` Железная пята
 Джек Лондон
 
@@ -43,20 +40,20 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Все свободны
-Михаил Зыгарь
-
-### `1` Герой нашего времени
-Михаил Лермонтов
-
-### `1` Портной из Панамы
-Джон Ле Карре
-
 ### `1` Joel on Software
 Joel Spolsky
 
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
+
+### `1` Портной из Панамы
+Джон Ле Карре
+
+### `1` Герой нашего времени
+Михаил Лермонтов
+
+### `1` Все свободны
+Михаил Зыгарь
 
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
@@ -135,6 +132,10 @@ Daniel Kahneman
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
+
+### `` Путин. Война
+Борис Немцов
+> Copied from danyluk62
 
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
