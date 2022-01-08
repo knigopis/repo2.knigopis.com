@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>127</sup> 
 [Hanuna](users/115/115534016831115941868-google)<sup>0</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>126</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>125</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>167</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>221</sup> 
 
 
-_08.01.2022 10:03:24_
+_08.01.2022 18:32:15_
