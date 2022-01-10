@@ -34,26 +34,26 @@ Linus Torvalds, David Diamond
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
 
-### `4` Атлант расправил плечи
-Айн Рэнд
-
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Joel on Software
-Joel Spolsky
-
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
-
-### `1` Портной из Панамы
-Джон Ле Карре
+### `4` Атлант расправил плечи
+Айн Рэнд
 
 ### `1` Герой нашего времени
 Михаил Лермонтов
 
 ### `1` Все свободны
 Михаил Зыгарь
+
+### `1` Портной из Панамы
+Джон Ле Карре
+
+### `1` Joel on Software
+Joel Spolsky
+
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
 
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
@@ -65,8 +65,8 @@ Gayle Laakmann McDowell
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
-### `` Permanent Record
-Edward Snowden
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
@@ -76,26 +76,27 @@ Eric S. Raymond
 > День опричника
 > Сахарный кремль
 
+### `` Дом, в котором
+Мариам Петросян
+> Copied from Shellena
+
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
-
-### `` Братья Карамазовы
-Фёдор Достоевский
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
-### `` Повелитель мух
-Уильям Голдинг
+### `` Братья Карамазовы
+Фёдор Достоевский
 
 ### `` Asdf
 
 ### `` Agile Estimating and Planning
 Mike Cohn
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` Повелитель мух
+Уильям Голдинг
 
 ### `` Искусство программирования
 Дональд Кнут
@@ -103,14 +104,13 @@ Stephen Hawking
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Свой среди чужих
-
-### `` The Hacker Playbook: Practical Guide To Penetration Testing
-Peter Kim
-> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+### `` Permanent Record
+Edward Snowden
 
 ### `` Effective Kotlin
 Marcin Moskala
+
+### `` Как измерить что угодно
 
 ### `` Грокаем алгоритмы
 
@@ -128,24 +128,28 @@ Marcin Moskala
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
 
-### `` Super Intelligence
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
-### `` Путин. Война
-Борис Немцов
-> Copied from danyluk62
-
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
-
-### `` Как измерить что угодно
-
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
+### `` Свой среди чужих
 
 ### `` Formalized Music
 Янис Ксенакис
 > 1963
+
+### `` Super Intelligence
+
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` The Hacker Playbook: Practical Guide To Penetration Testing
+Peter Kim
+> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+
+### `` Путин. Война
+Борис Немцов
+> Copied from danyluk62
 
