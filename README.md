@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup> 
 [Victoria Telechuk](users/117/117396356938980769291-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>906</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>31</sup> 
 [](users/101/101368518035734751027-google)<sup>2</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>37</sup> 
-[Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
 
 
-_10.01.2022 16:03:42_
+_10.01.2022 20:42:14_
