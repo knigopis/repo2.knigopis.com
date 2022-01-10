@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria Telechuk](users/117/117396356938980769291-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>906</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>127</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>2</sup> 
 [Пу_тем](users/344/3448154788585127-facebook)<sup>37</sup> 
 [Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>221</sup> 
 
 
-_09.01.2022 20:55:52_
+_10.01.2022 09:28:33_
