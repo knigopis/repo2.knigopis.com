@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoria Telechuk](users/117/117396356938980769291-google)<sup>0</sup> 
+[Victoria Telechuk](users/117/117396356938980769291-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>906</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>127</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mrbueno](users/173/1736709556538182-facebook)<sup>0</sup> 
 
 
-_10.01.2022 09:28:33_
+_10.01.2022 09:29:39_
