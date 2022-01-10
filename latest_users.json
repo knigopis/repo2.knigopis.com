@@ -1,4 +1,10 @@
 {
+    "112090473416384685204-google": {
+        "id": "112090473416384685204-google",
+        "nickname": "Cr_RONIN",
+        "booksCount": 8,
+        "updatedAt": "2022-01-10 21:20:47"
+    },
     "301206266-vkontakte": {
         "id": "301206266-vkontakte",
         "nickname": "mneo_stiller",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2021-12-29 05:07:34"
-    },
-    "3448154788585127-facebook": {
-        "id": "3448154788585127-facebook",
-        "nickname": "Пу_тем",
-        "booksCount": 37,
-        "updatedAt": "2021-12-28 12:53:53"
     }
 }
