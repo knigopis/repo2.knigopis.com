@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>234</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>235</sup>
 ---
 
 ## 2022
+
+### Живые люди
+Яна Вагнер
+> [2022-01-10] 10/10 Вонгозеро-2. Мало добраться до безопасного места, нужно еще пережить зиму.
+
 
 ### Пятнадцатилетний капитан
 Жюль Верн

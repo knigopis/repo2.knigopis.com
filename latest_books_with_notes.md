@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Живые люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup>
 * 15 мифов и правда о Донецко-Криворожской Республике ~ [danyluk62](users/374/374149854-vkontakte)<sup>126</sup>
 * Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
 * Гамлет ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup>
@@ -30,7 +31,6 @@
 * Путь демона: Тропа волшебника ~ [gray7wand](users/110/110080946273609412257-google)<sup>14</sup>
 * Путь демона: Дорога в маги ~ [gray7wand](users/110/110080946273609412257-google)<sup>13</sup>
 * Завтрак у Тиффани ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>7</sup>
-* Лорна Дун ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>49</sup>
 
 
-_07.01.2022 23:39:20_
+_10.01.2022 16:03:42_
