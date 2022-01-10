@@ -1,4 +1,10 @@
 {
+    "117396356938980769291-google": {
+        "id": "117396356938980769291-google",
+        "nickname": "Victoria Telechuk",
+        "booksCount": 0,
+        "updatedAt": "2022-01-10 09:28:33"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Mrbueno",
         "booksCount": 0,
         "updatedAt": "2021-12-28 12:52:47"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 221,
-        "updatedAt": "2021-12-26 10:37:40"
     }
 }
