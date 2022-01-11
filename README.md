@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>126</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>190</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110586684065969128396-google)<sup>0</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>107</sup> 
-[Мирослава](users/106/106107989792957993574-google)<sup>31</sup> 
 
 
-_11.01.2022 18:39:42_
+_11.01.2022 20:18:04_
