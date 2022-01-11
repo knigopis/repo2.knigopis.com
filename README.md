@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>190</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>8</sup> 
 [mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>107</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>31</sup> 
-[](users/101/101368518035734751027-google)<sup>2</sup> 
 
 
-_10.01.2022 21:20:47_
+_11.01.2022 09:12:17_

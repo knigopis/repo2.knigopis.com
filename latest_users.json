@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 190,
+        "updatedAt": "2022-01-11 09:12:17"
+    },
     "112090473416384685204-google": {
         "id": "112090473416384685204-google",
         "nickname": "Cr_RONIN",
@@ -172,11 +178,5 @@
         "nickname": "Мирослава",
         "booksCount": 31,
         "updatedAt": "2021-12-29 16:44:51"
-    },
-    "101368518035734751027-google": {
-        "id": "101368518035734751027-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2021-12-29 05:07:34"
     }
 }

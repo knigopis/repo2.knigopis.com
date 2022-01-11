@@ -1,5 +1,13 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>189</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>190</sup>
 ---
+
+## 2022
+
+### Меч предназначения
+Анджей Сапковский
+> [2022-01-11] 
+
+
 
 ## 2021
 
