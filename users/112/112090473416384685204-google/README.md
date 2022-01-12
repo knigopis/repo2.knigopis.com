@@ -1,7 +1,12 @@
-# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>8</sup>
+# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>9</sup>
 ---
 
 ## 2022
+
+### Портрет
+Николай Гоголь
+> [2022-01-12] 
+
 
 ### гарри Поттер и тайная комната
 Джоан Роулинг
