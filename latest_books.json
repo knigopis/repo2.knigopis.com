@@ -1,4 +1,16 @@
 {
+    "0Pl-8I4Ec0": {
+        "id": "0Pl-8I4Ec0",
+        "title": "",
+        "author": "довлатов",
+        "notes": "",
+        "createdAt": "2022-01-12 22:24:34",
+        "user": {
+            "id": "117521442574974529909-google",
+            "nickname": "yo",
+            "booksCount": 1
+        }
+    },
     "v-jZuSr4z7": {
         "id": "v-jZuSr4z7",
         "title": "Академия Равновесия. Рожденная светом. #1",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 160
-        }
-    },
-    "p92PcPlEGq": {
-        "id": "p92PcPlEGq",
-        "title": "Голос ночной птицы",
-        "author": "Роберт Маккаммон",
-        "notes": "",
-        "createdAt": "2022-01-07 18:54:59",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 159
         }
     }
 }
