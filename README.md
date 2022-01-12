@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Исповедь боевика. Откровения добровольца ~ [danyluk62](users/374/374149854-vkontakte)<sup>129</sup>
+    > Честный рассказ российского добровольца о своей службе в бригаде «Призрак» (г. Алчевск) и участии в боевых действиях в составе 1-го Славянского Батальона в селе Никишино. Приехав на Донбасс по зову сердца, автор разочаровывается от увиденного, о чем он и повествует в книге.
+
 * Массовые нарушения прав человека в ходе конфликта на Украине. 2013-2014 ~ [danyluk62](users/374/374149854-vkontakte)<sup>128</sup>
     > Антология насилия времен Евромайдана и войны на востоке Украины. Более тысячи задокументированных случаев преступлений против личности, нарушений прав и свобод с ноября 2013 г. по декабрь 2014 г.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Вонгозеро-2. Мало добраться до безопасного места, нужно еще пережить зиму.
 
 * 15 мифов и правда о Донецко-Криворожской Республике ~ [danyluk62](users/374/374149854-vkontakte)<sup>126</sup>
-    > Статья
 
 * Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
 
-* Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>129</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>29</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>134</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>128</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>9</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>302</sup> 
 [ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
 
 
-_12.01.2022 09:03:51_
+_12.01.2022 12:10:54_
