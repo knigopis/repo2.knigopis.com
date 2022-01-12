@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>134</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>128</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>9</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>302</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eva](users/111/111656270551033014778-google)<sup>110</sup> 
 [](users/110/110586684065969128396-google)<sup>0</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>25</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>107</sup> 
 
 
-_12.01.2022 06:09:41_
+_12.01.2022 07:45:06_

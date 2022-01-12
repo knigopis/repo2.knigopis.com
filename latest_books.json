@@ -1,4 +1,16 @@
 {
+    "3S2yKGJ4Qy": {
+        "id": "3S2yKGJ4Qy",
+        "title": "В черной дыре такое творится",
+        "author": "У. Вальтер",
+        "notes": "",
+        "createdAt": "2022-01-12 07:45:06",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 134
+        }
+    },
     "J-eKLMkhAv": {
         "id": "J-eKLMkhAv",
         "title": "Массовые нарушения прав человека в ходе конфликта на Украине. 2013-2014",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 156
-        }
-    },
-    "mGk1sIQq6Z": {
-        "id": "mGk1sIQq6Z",
-        "title": "Война миров",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2022-01-07 18:53:15",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 155
         }
     }
 }

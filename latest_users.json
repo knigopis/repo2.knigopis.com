@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 134,
+        "updatedAt": "2022-01-12 07:45:06"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "gray7wand",
         "booksCount": 25,
         "updatedAt": "2021-12-30 21:30:00"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 107,
-        "updatedAt": "2021-12-29 19:21:30"
     }
 }
