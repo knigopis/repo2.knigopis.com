@@ -1,4 +1,10 @@
 {
+    "117521442574974529909-google": {
+        "id": "117521442574974529909-google",
+        "nickname": "yo",
+        "booksCount": 0,
+        "updatedAt": "2022-01-12 22:24:18"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2021-12-31 21:12:19"
-    },
-    "110080946273609412257-google": {
-        "id": "110080946273609412257-google",
-        "nickname": "gray7wand",
-        "booksCount": 25,
-        "updatedAt": "2021-12-30 21:30:00"
     }
 }
