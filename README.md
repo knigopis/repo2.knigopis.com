@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Массовые нарушения прав человека в ходе конфликта на Украине. 2013-2014 ~ [danyluk62](users/374/374149854-vkontakte)<sup>128</sup>
+    > Антология насилия времен Евромайдана и войны на востоке Украины. Более тысячи задокументированных случаев преступлений против личности, нарушений прав и свобод с ноября 2013 г. по декабрь 2014 г.
+
 * Живые люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup>
     > 10/10 Вонгозеро-2. Мало добраться до безопасного места, нужно еще пережить зиму.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Статья
 
 * Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
-    > 7/10 Приключения на корабле и в экваториальной Африке.
 
 * Гамлет ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
 
-* Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>128</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>9</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>302</sup> 
 [ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria Telechuk](users/117/117396356938980769291-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>906</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>127</sup> 
 [Hanuna](users/115/115534016831115941868-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>107</sup> 
 
 
-_12.01.2022 01:03:12_
+_12.01.2022 06:09:41_
