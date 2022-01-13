@@ -1,4 +1,16 @@
 {
+    "jO_qHUOi8t": {
+        "id": "jO_qHUOi8t",
+        "title": "Институт идеальных жен",
+        "author": "Ольга Куно, Екатерина Каблукова",
+        "notes": "",
+        "createdAt": "2022-01-13 12:36:19",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 30
+        }
+    },
     "SdCKnFi1P2": {
         "id": "SdCKnFi1P2",
         "title": "Академия Равновесия. Охота на Феникса. #2",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 162
-        }
-    },
-    "ZBT_6ML9Hg": {
-        "id": "ZBT_6ML9Hg",
-        "title": "Стая",
-        "author": "Ольга Григорьева",
-        "notes": "",
-        "createdAt": "2022-01-07 18:55:38",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 161
         }
     }
 }
