@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>190</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>191</sup>
 ---
 
 ## 2022
+
+### Голод
+Кнут Гамсун
+> [2022-01-14] 
+
 
 ### Меч предназначения
 Анджей Сапковский
