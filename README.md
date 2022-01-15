@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 [](users/106/106221599511620619431-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>130</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup> 
 [me](users/381/381417697-yandex)<sup>54</sup> 
 [VODOLEJ](users/472/4722569524524943-facebook)<sup>0</sup> 
-[eva](users/111/111656270551033014778-google)<sup>110</sup> 
 
 
-_14.01.2022 08:47:38_
+_15.01.2022 08:22:15_
