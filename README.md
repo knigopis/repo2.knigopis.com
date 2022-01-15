@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/686/68639652-vkontakte)<sup>0</sup> 
 [mica](users/103/103163807632858423947-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kaveshhi](users/854/854259041-yandex)<sup>1</sup> 
 [Lara_Dmitriv](users/100/100083934374435157506-google)<sup>0</sup> 
 [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup> 
-[me](users/381/381417697-yandex)<sup>54</sup> 
 
 
-_15.01.2022 17:22:31_
+_15.01.2022 21:04:19_
