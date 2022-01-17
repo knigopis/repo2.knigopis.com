@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>25</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>26</sup>
 ---
 
 ## 2022
+
+### Достаточно хорошая
+Кэрил Макбрайд
+> [2022-01-16] все точно
+
 
 ### Общество анонимных кофеголиков
 Ольга Дыняк
