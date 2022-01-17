@@ -1,4 +1,16 @@
 {
+    "6izbjABvp6": {
+        "id": "6izbjABvp6",
+        "title": "Адептка",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2022-01-17 09:57:20",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 33
+        }
+    },
     "hSJ106IiJg": {
         "id": "hSJ106IiJg",
         "title": "Александра Лисина",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 234
-        }
-    },
-    "uZCpramAsV": {
-        "id": "uZCpramAsV",
-        "title": "Война",
-        "author": "Владлен Татарский",
-        "notes": "",
-        "createdAt": "2022-01-07 21:05:00",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 125
         }
     }
 }

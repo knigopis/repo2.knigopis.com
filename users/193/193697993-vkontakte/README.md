@@ -1,4 +1,4 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>32</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>33</sup>
 ---
 
 ## 2022
@@ -11,6 +11,11 @@
 ### Магиня
 Александра Лисина
 > [2022-01-16] 
+
+
+### Адептка
+Александра Лисина
+> [2022-01-13] 
 
 
 ### Институт идеальных жен
