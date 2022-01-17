@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>30</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>31</sup>
 ---
 
 ## 2022
+
+### Александра Лисина
+Ученица боевого мага
+> [2022-01-17] 
+
 
 ### Институт идеальных жен
 Ольга Куно, Екатерина Каблукова

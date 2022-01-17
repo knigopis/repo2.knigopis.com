@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 31,
+        "updatedAt": "2022-01-17 09:55:22"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -46,12 +52,6 @@
         "nickname": "Janet",
         "booksCount": 907,
         "updatedAt": "2022-01-13 18:25:27"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 30,
-        "updatedAt": "2022-01-13 12:36:19"
     },
     "117521442574974529909-google": {
         "id": "117521442574974529909-google",
