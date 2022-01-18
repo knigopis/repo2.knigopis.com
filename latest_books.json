@@ -1,4 +1,16 @@
 {
+    "YlXNBKDV2J": {
+        "id": "YlXNBKDV2J",
+        "title": "Паскаль Бруно",
+        "author": "Дюма",
+        "notes": "",
+        "createdAt": "2022-01-18 14:44:31",
+        "user": {
+            "id": "118248226132797004598-google",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "r6crOGwgho": {
         "id": "r6crOGwgho",
         "title": "Правая рука кавалера де Жиака",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 129
-        }
-    },
-    "FiWuEkwRoh": {
-        "id": "FiWuEkwRoh",
-        "title": "Позвольте представиться, Маргарита Васильевна – попаданка!",
-        "author": "Татьяна Бродских",
-        "notes": "",
-        "createdAt": "2022-01-12 09:03:51",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 29
         }
     }
 }
