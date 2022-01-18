@@ -1,4 +1,10 @@
 {
+    "118248226132797004598-google": {
+        "id": "118248226132797004598-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-01-18 03:31:08"
+    },
     "388959681521597-facebook": {
         "id": "388959681521597-facebook",
         "nickname": "O",
@@ -172,11 +178,5 @@
         "nickname": "kaveshhi",
         "booksCount": 1,
         "updatedAt": "2022-01-05 08:17:08"
-    },
-    "100083934374435157506-google": {
-        "id": "100083934374435157506-google",
-        "nickname": "Lara_Dmitriv",
-        "booksCount": 0,
-        "updatedAt": "2022-01-04 19:00:24"
     }
 }
