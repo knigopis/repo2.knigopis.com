@@ -1,4 +1,16 @@
 {
+    "BDcpmfiRId": {
+        "id": "BDcpmfiRId",
+        "title": "Двенадцать",
+        "author": "Драйзер",
+        "notes": "",
+        "createdAt": "2022-01-18 03:31:49",
+        "user": {
+            "id": "118248226132797004598-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "0pQv0WoNcg": {
         "id": "0pQv0WoNcg",
         "title": "Мой лучший враг",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 906
-        }
-    },
-    "fHNB9DIU_t": {
-        "id": "fHNB9DIU_t",
-        "title": "Закат Кёнигсберга",
-        "author": "Михаэль Вик",
-        "notes": "",
-        "createdAt": "2022-01-09 14:28:54",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 168
         }
     }
 }
