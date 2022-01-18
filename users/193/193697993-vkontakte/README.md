@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>33</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>34</sup>
 ---
 
 ## 2022
+
+### Беглянка
+Александра Лисина
+> [2022-01-18] 
+
 
 ### Ученица боевого мага
 Александра Лисина
