@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 62,
+        "updatedAt": "2022-01-18 22:14:47"
+    },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "lascara",
         "booksCount": 4,
         "updatedAt": "2022-01-05 16:24:34"
-    },
-    "854259041-yandex": {
-        "id": "854259041-yandex",
-        "nickname": "kaveshhi",
-        "booksCount": 1,
-        "updatedAt": "2022-01-05 08:17:08"
     }
 }

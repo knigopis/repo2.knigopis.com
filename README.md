@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>62</sup> 
 [](users/118/118248226132797004598-google)<sup>13</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>34</sup> 
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>194</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>153</sup> 
 [lascara](users/243/2434302110035411-facebook)<sup>4</sup> 
-[kaveshhi](users/854/854259041-yandex)<sup>1</sup> 
 
 
-_18.01.2022 19:15:34_
+_18.01.2022 22:14:47_
