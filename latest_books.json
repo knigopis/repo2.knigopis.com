@@ -1,4 +1,16 @@
 {
+    "r6crOGwgho": {
+        "id": "r6crOGwgho",
+        "title": "Правая рука кавалера де Жиака",
+        "author": "Дюма",
+        "notes": "",
+        "createdAt": "2022-01-18 14:44:14",
+        "user": {
+            "id": "118248226132797004598-google",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "S7JOFDQ82C": {
         "id": "S7JOFDQ82C",
         "title": "Маскарад",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 29
-        }
-    },
-    "3S2yKGJ4Qy": {
-        "id": "3S2yKGJ4Qy",
-        "title": "В черной дыре такое творится",
-        "author": "У. Вальтер",
-        "notes": "",
-        "createdAt": "2022-01-12 07:45:06",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 134
         }
     }
 }
