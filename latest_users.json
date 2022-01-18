@@ -1,4 +1,10 @@
 {
+    "388959681521597-facebook": {
+        "id": "388959681521597-facebook",
+        "nickname": "O",
+        "booksCount": 0,
+        "updatedAt": "2022-01-18 03:29:25"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "Lara_Dmitriv",
         "booksCount": 0,
         "updatedAt": "2022-01-04 19:00:24"
-    },
-    "108890810412612634449-google": {
-        "id": "108890810412612634449-google",
-        "nickname": "bitter.mary",
-        "booksCount": 5,
-        "updatedAt": "2022-01-03 12:19:53"
     }
 }
