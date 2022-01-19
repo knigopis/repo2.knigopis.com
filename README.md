@@ -36,8 +36,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118248226132797004598-google)<sup>14</sup> 
 [](users/153/1537586159620888-facebook)<sup>62</sup> 
-[](users/118/118248226132797004598-google)<sup>13</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>34</sup> 
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lascara](users/243/2434302110035411-facebook)<sup>4</sup> 
 
 
-_18.01.2022 22:14:47_
+_19.01.2022 00:52:46_
