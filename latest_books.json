@@ -1,4 +1,16 @@
 {
+    "8rxc4s5kYf": {
+        "id": "8rxc4s5kYf",
+        "title": "Египтяне. От древней цивилизации до наших дней",
+        "author": "Азимов, Айзек",
+        "notes": "",
+        "createdAt": "2022-01-19 14:34:10",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 303
+        }
+    },
     "P_PLmxXkNg": {
         "id": "P_PLmxXkNg",
         "title": "Провидица",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 130
-        }
-    },
-    "KZne0bjIcQ": {
-        "id": "KZne0bjIcQ",
-        "title": "120 дней содома или школа разврата",
-        "author": "Донасьен Альфонс Франсуа Же Сад",
-        "notes": "",
-        "createdAt": "2022-01-15 08:22:15",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tumturumk",
-            "booksCount": 13
         }
     }
 }
