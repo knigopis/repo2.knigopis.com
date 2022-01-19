@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
+    > 5*5
+
 * Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
     > 5*
     > Иден Рейм - высокомерный хам, достававший меня в академии последние четыре года. Худший из испорченной элиты, среди которой я учусь по ошибке. Вряд ли в мире есть человек, которого я возненавижу больше.
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > все точно
 
 * Невеста на службе ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>131</sup>
-    > Наследника Ригарийского престола хотят убить, и старшего сержанта Службы имперской безопасности Рэйю Адальстан просят выяснить, кем являются заговорщики. Но как подобраться близко к принцу и не выдать себя? Естественно, лучший способ – стать его невестой. Но сделать это можно только приняв участие в Отборе невест. Преступники, состязание и единственная в жизни любовь изменят и Рэйю и ее судьбу.
 
 * Гений коммуникаций ~ [danyluk62](users/374/374149854-vkontakte)<sup>131</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Массовые нарушения прав человека в ходе конфликта на Украине. 2013-2014 ~ [danyluk62](users/374/374149854-vkontakte)<sup>128</sup>
 
-* Живые люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup> 
 [](users/118/118248226132797004598-google)<sup>16</sup> 
 [](users/153/1537586159620888-facebook)<sup>62</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>34</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
 [mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup> 
-[Victoria Telechuk](users/117/117396356938980769291-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
 [Hanuna](users/115/115534016831115941868-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lascara](users/243/2434302110035411-facebook)<sup>4</sup> 
 
 
-_19.01.2022 00:53:49_
+_19.01.2022 08:23:58_
