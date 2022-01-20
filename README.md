@@ -36,8 +36,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>36</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>303</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>35</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>908</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup> 
 [](users/118/118248226132797004598-google)<sup>16</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lascara](users/243/2434302110035411-facebook)<sup>4</sup> 
 
 
-_19.01.2022 14:34:10_
+_20.01.2022 11:04:20_

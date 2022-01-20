@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>35</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>36</sup>
 ---
 
 ## 2022
+
+### Герцогиня. Выбор императора
+Галина Долгова
+> [2022-01-20] 
+
 
 ### Провидица
 Александра Лисина
