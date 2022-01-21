@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>78</sup>
+# List of books read by inna.besprozvannykh<sup>79</sup>
 ---
 
 ## 2022
+
+### Исчезновение Стефани Мейлер
+Жоэльь Диккер
+> [2022-01] 10
+
 
 ### Твой второй мозг-кишечник
 Божена кропка
