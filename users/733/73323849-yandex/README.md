@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>79</sup>
+# List of books read by inna.besprozvannykh<sup>80</sup>
 ---
 
 ## 2022
@@ -24,6 +24,10 @@
 ### Бог как иллюзия
 Ричард Докинз
 > [2021-10-21] 10
+
+
+### Манифест великого тренера: Как стать из хорошего спортсмена великим человеком
+Тим Гровер
 
 
 

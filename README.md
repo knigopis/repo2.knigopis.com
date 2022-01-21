@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>79</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>36</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>303</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>194</sup> 
 
 
-_21.01.2022 07:51:32_
+_21.01.2022 07:53:29_
