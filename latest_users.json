@@ -1,4 +1,10 @@
 {
+    "1533293040-yandex": {
+        "id": "1533293040-yandex",
+        "nickname": "besprozvannykh.inna@gmail.com",
+        "booksCount": 0,
+        "updatedAt": "2022-01-21 07:46:02"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 153,
         "updatedAt": "2022-01-05 23:46:51"
-    },
-    "2434302110035411-facebook": {
-        "id": "2434302110035411-facebook",
-        "nickname": "lascara",
-        "booksCount": 4,
-        "updatedAt": "2022-01-05 16:24:34"
     }
 }
