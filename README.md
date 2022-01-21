@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>77</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>36</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>303</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>157</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>50</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>194</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>153</sup> 
 
 
-_21.01.2022 07:46:03_
+_21.01.2022 07:48:53_

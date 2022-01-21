@@ -1,5 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>76</sup>
+# List of books read by inna.besprozvannykh<sup>77</sup>
 ---
+
+## 2022
+
+Джордж Р. Р. Мартин
+> [2022-01] 9
+
+
 
 ## 2021
 
