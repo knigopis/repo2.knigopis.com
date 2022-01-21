@@ -1,4 +1,16 @@
 {
+    "PJySGT3tLL": {
+        "id": "PJySGT3tLL",
+        "title": "Дело о кривой свече",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-01-21 14:15:39",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 909
+        }
+    },
     "nSlhWqRKUz": {
         "id": "nSlhWqRKUz",
         "title": "Манифест великого тренера: Как стать из хорошего спортсмена великим человеком",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 26
-        }
-    },
-    "GkC4oduF5C": {
-        "id": "GkC4oduF5C",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-01-17 12:04:07",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 25
         }
     }
 }

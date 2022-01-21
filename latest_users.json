@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 909,
+        "updatedAt": "2022-01-21 14:15:39"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -22,12 +28,6 @@
         "nickname": "Garka",
         "booksCount": 303,
         "updatedAt": "2022-01-19 14:34:10"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 908,
-        "updatedAt": "2022-01-19 11:47:22"
     },
     "117396356938980769291-google": {
         "id": "117396356938980769291-google",
