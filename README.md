@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>37</sup> 
 [](users/118/118248226132797004598-google)<sup>17</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>135</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>157</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>50</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>194</sup> 
 
 
-_21.01.2022 19:02:42_
+_21.01.2022 19:19:34_
