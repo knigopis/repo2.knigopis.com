@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>77</sup>
+# List of books read by inna.besprozvannykh<sup>78</sup>
 ---
 
 ## 2022
+
+### Твой второй мозг-кишечник
+Божена кропка
+> [2022-01] 
+
 
 ### Игра престолов
 Джордж Р. Р. Мартин
