@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>36</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>37</sup>
 ---
 
 ## 2022
+
+### Герцогиня. Право крови
+Галина Долгова
+> [2022-01-21] 
+
 
 ### Герцогиня. Выбор императора
 Галина Долгова

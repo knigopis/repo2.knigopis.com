@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 37,
+        "updatedAt": "2022-01-21 19:02:42"
+    },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",
         "nickname": null,
@@ -28,12 +34,6 @@
         "nickname": "besprozvannykh.inna@gmail.com",
         "booksCount": 0,
         "updatedAt": "2022-01-21 07:46:02"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 36,
-        "updatedAt": "2022-01-20 11:04:20"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
