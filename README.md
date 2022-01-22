@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>14</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Hanuna](users/115/115534016831115941868-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>157</sup> 
 
 
-_22.01.2022 06:45:03_
+_22.01.2022 08:24:52_
