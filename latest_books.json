@@ -1,4 +1,16 @@
 {
+    "Yk3XNb1pVz": {
+        "id": "Yk3XNb1pVz",
+        "title": "Вы, конечно, шутите, Мистер Фейнман",
+        "author": "Ричард Фейнман",
+        "notes": "",
+        "createdAt": "2022-01-22 18:17:31",
+        "user": {
+            "id": "103163807632858423947-google",
+            "nickname": "mica",
+            "booksCount": 1
+        }
+    },
     "aUr0ftOKQw": {
         "id": "aUr0ftOKQw",
         "title": "Магия мечтает",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 34
-        }
-    },
-    "RSJPVwckLr": {
-        "id": "RSJPVwckLr",
-        "title": "Оливер твист",
-        "author": "Диккенс",
-        "notes": "",
-        "createdAt": "2022-01-18 03:34:45",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }

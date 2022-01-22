@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mica](users/103/103163807632858423947-google)<sup>1</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>133</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>910</sup> 
 [Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>131</sup> 
 [](users/686/68639652-vkontakte)<sup>0</sup> 
-[mica](users/103/103163807632858423947-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>13</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 [](users/106/106221599511620619431-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 
 
-_22.01.2022 10:55:59_
+_22.01.2022 18:17:31_

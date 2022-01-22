@@ -1,4 +1,10 @@
 {
+    "103163807632858423947-google": {
+        "id": "103163807632858423947-google",
+        "nickname": "mica",
+        "booksCount": 1,
+        "updatedAt": "2022-01-22 18:17:31"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -106,12 +112,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-01-15 21:04:18"
-    },
-    "103163807632858423947-google": {
-        "id": "103163807632858423947-google",
-        "nickname": "mica",
-        "booksCount": 0,
-        "updatedAt": "2022-01-15 17:22:31"
     },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
