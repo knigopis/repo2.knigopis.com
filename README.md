@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>910</sup> 
 [Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>14</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>37</sup> 
 [](users/118/118248226132797004598-google)<sup>17</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>135</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>909</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>303</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 
 
-_22.01.2022 08:24:52_
+_22.01.2022 10:30:40_
