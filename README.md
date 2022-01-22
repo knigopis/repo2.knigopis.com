@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[tumturumk](users/135/135685382-vkontakte)<sup>15</sup> 
+[tumturumk](users/135/135685382-vkontakte)<sup>14</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>38</sup> 
 [mica](users/103/103163807632858423947-google)<sup>1</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>133</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 
 
-_22.01.2022 22:00:42_
+_22.01.2022 22:00:58_
