@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
+    > 5*5
+
 * Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
     > 5*5
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > А потом давний враг отпустит меня, и мы забудем друг друга как страшный сон. Ведь правда?
 
 * Достаточно хорошая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup>
-    > все точно
 
 * Невеста на службе ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>131</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Исповедь боевика. Откровения добровольца ~ [danyluk62](users/374/374149854-vkontakte)<sup>129</sup>
 
-* Массовые нарушения прав человека в ходе конфликта на Украине. 2013-2014 ~ [danyluk62](users/374/374149854-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>10</sup> 
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>37</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>303</sup> 
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup> 
 [](users/153/1537586159620888-facebook)<sup>62</sup> 
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>50</sup> 
 
 
-_22.01.2022 00:18:59_
+_22.01.2022 04:39:23_

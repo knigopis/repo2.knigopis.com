@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
 * Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
 * Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
 * Достаточно хорошая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Донецко-Криворожская республика: Расстрелянная мечта ~ [danyluk62](users/374/374149854-vkontakte)<sup>121</sup>
 * Місяц, облитий дощем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>229</sup>
 * Полный набор: Другая сторона ~ [gray7wand](users/110/110080946273609412257-google)<sup>23</sup>
-* Полный набор: Наследие древних ~ [gray7wand](users/110/110080946273609412257-google)<sup>22</sup>
 
 
-_19.01.2022 08:23:58_
+_22.01.2022 04:39:23_

@@ -1,4 +1,4 @@
-# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>2</sup>
+# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>3</sup>
 ---
 
 ## 2022
@@ -11,6 +11,10 @@
 ### Confessions Of A Karaoke Queen
 Kingsley Ella
 > [2022-01-07] 4*5
+
+
+Дэвид Кесслер « Еще кусочек! Как взять под контроль зверский аппетит и перестать постоянно думать о том, что пожевать»
+> [2022-01] 5*5
 
 
 
