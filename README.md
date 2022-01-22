@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Самый богатый человек в Вавилоне ~ [Len4e91](users/254/254448176-yandex)<sup>14</sup>
+    > Доступно описаны основные принципы обращения с деньгами. Читать легко и интересно.
+
 *  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
     > 5*5
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > 5*5
 
 * Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
-    > 5*
-    > Иден Рейм - высокомерный хам, достававший меня в академии последние четыре года. Худший из испорченной элиты, среди которой я учусь по ошибке. Вряд ли в мире есть человек, которого я возненавижу больше.
-    > Но в надежде спасти разбитое сердце я заключила с ним сделку. Мне нужно лишь ненадолго притвориться его избранницей, чтобы вернуть того, кого я действительно люблю.
-    > А потом давний враг отпустит меня, и мы забудем друг друга как страшный сон. Ведь правда?
 
 * Достаточно хорошая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup>
 
@@ -29,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия Равновесия. Рожденная светом. #1 ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>127</sup>
 
-* Исповедь боевика. Откровения добровольца ~ [danyluk62](users/374/374149854-vkontakte)<sup>129</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>14</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>10</sup> 
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
@@ -65,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>157</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>50</sup> 
 
 
-_22.01.2022 04:39:23_
+_22.01.2022 06:45:03_

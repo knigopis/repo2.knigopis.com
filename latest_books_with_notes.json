@@ -1,4 +1,16 @@
 {
+    "maMs1htZ0g": {
+        "id": "maMs1htZ0g",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Джордж Клейсон",
+        "notes": "Доступно описаны основные принципы обращения с деньгами. Читать легко и интересно.",
+        "createdAt": "2022-01-22 06:45:03",
+        "user": {
+            "id": "254448176-yandex",
+            "nickname": "Len4e91",
+            "booksCount": 14
+        }
+    },
     "RM3SXBQTCs": {
         "id": "RM3SXBQTCs",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 229
-        }
-    },
-    "Nexnc5h7Ma": {
-        "id": "Nexnc5h7Ma",
-        "title": "Полный набор: Другая сторона",
-        "author": "Милослав Князев",
-        "notes": "Номер книги в серии: 11",
-        "createdAt": "2021-12-20 12:38:16",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 23
         }
     }
 }
