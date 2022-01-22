@@ -1,7 +1,12 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>13</sup>
+# List of books read by [tumturumk](http://vk.com/id135685382)<sup>14</sup>
 ---
 
 ## 2022
+
+### Сказать жизни "да"
+Виктор Франкл
+> [2022-01-22] 
+
 
 ### 120 дней содома или школа разврата
 Донасьен Альфонс Франсуа Же Сад
