@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Cr_RONIN](users/112/112090473416384685204-google)<sup>10</sup> 
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>37</sup> 
 [](users/118/118248226132797004598-google)<sup>17</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 [](users/106/106221599511620619431-google)<sup>0</sup> 
 [yo](users/117/117521442574974529909-google)<sup>1</sup> 
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>9</sup> 
 [ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
 [mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>50</sup> 
 
 
-_21.01.2022 19:19:34_
+_22.01.2022 00:18:59_
