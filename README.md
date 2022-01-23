@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темные церемонии. Тайный город ~ [Chiffi](users/105/105831994080785626680-google)<sup>319</sup>
+    > Опыт всегда голосует за разум. А юность – за эмоции. Опыт напоминает о том, что жизнь длинна и нет смысла мостить её дорогу ошибками. Но у юности всегда есть правда.
+
 * Властелин колец. Хранители кольца. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup>
     > paper
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Доступно описаны основные принципы обращения с деньгами. Читать легко и интересно.
 
 *  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
-    > 5*5
 
 * Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Аналiз бойових дiй в районi Iловайська пiсля вторгнення росiйських вiйськ 24-29 серпня 2014 року ~ [danyluk62](users/374/374149854-vkontakte)<sup>130</sup>
 
-* Ведьма для дракона. Академия 4 лун ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>130</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>319</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup> 
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
-[Hanuna](users/115/115534016831115941868-google)<sup>0</sup> 
 
 
-_23.01.2022 17:09:18_
+_23.01.2022 17:49:48_
