@@ -1,4 +1,10 @@
 {
+    "110093761859864893303-google": {
+        "id": "110093761859864893303-google",
+        "nickname": "SVTrojan",
+        "booksCount": 0,
+        "updatedAt": "2022-01-23 14:54:19"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tumturumk",
@@ -172,11 +178,5 @@
         "nickname": "Evermind",
         "booksCount": 61,
         "updatedAt": "2022-01-06 23:01:31"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 54,
-        "updatedAt": "2022-01-06 18:12:29"
     }
 }
