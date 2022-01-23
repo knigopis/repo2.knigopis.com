@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>911</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>319</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
 [mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
 
 
-_23.01.2022 21:01:04_
+_23.01.2022 23:41:03_
