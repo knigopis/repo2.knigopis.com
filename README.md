@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин колец. Хранители кольца. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup>
+    > paper
+
 * Самый богатый человек в Вавилоне ~ [Len4e91](users/254/254448176-yandex)<sup>14</sup>
     > Доступно описаны основные принципы обращения с деньгами. Читать легко и интересно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5*5
 
 * Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
-    > 5*5
 
 * Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ведьма для дракона. Академия 4 лун ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>130</sup>
 
-* Академия Равновесия. Рожденная светом. #1 ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>127</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup> 
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>15</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>134</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
 [Hanuna](users/115/115534016831115941868-google)<sup>0</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
 
 
-_23.01.2022 14:54:20_
+_23.01.2022 17:09:18_
