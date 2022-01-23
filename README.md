@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>15</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>134</sup> 
 [](users/118/118248226132797004598-google)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>168</sup> 
 [Hanuna](users/115/115534016831115941868-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>61</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>54</sup> 
 
 
-_23.01.2022 10:52:54_
+_23.01.2022 14:54:20_
