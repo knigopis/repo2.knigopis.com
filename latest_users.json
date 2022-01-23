@@ -1,4 +1,10 @@
 {
+    "196970139-vkontakte": {
+        "id": "196970139-vkontakte",
+        "nickname": "LeraMilova",
+        "booksCount": 0,
+        "updatedAt": "2022-01-23 23:41:03"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 235,
         "updatedAt": "2022-01-10 16:03:42"
-    },
-    "13413591548892934957-mailru": {
-        "id": "13413591548892934957-mailru",
-        "nickname": "Shellena",
-        "booksCount": 168,
-        "updatedAt": "2022-01-09 14:28:54"
     }
 }
