@@ -1,5 +1,13 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>178</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>179</sup>
 ---
+
+## 2022
+
+### Геральт
+Анджей Сапковский
+> [2022-01-24] 
+
+
 
 ## 2021
 
