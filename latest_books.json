@@ -1,4 +1,16 @@
 {
+    "KFcIAQJZv0": {
+        "id": "KFcIAQJZv0",
+        "title": "Властелин колец. Братство кольца.",
+        "author": "Джон Толкин",
+        "notes": "",
+        "createdAt": "2022-01-24 16:15:22",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 192
+        }
+    },
     "2UJs0mYoFE": {
         "id": "2UJs0mYoFE",
         "title": "Мальвиль",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 15
-        }
-    },
-    "i-98NmSjUm": {
-        "id": "i-98NmSjUm",
-        "title": "Магия дарит",
-        "author": "Илона Эндрюс",
-        "notes": "",
-        "createdAt": "2022-01-23 07:12:29",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 134
         }
     }
 }
