@@ -1,4 +1,16 @@
 {
+    "2cXqeuX4iR": {
+        "id": "2cXqeuX4iR",
+        "title": "Рождество с неудачниками",
+        "author": "Джон Гришэм",
+        "notes": "",
+        "createdAt": "2022-01-24 16:11:20",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 184
+        }
+    },
     "ZCKFBCkU_5": {
         "id": "ZCKFBCkU_5",
         "title": "Безмолвная земля",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 910
-        }
-    },
-    "maMs1htZ0g": {
-        "id": "maMs1htZ0g",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Джордж Клейсон",
-        "notes": "Доступно описаны основные принципы обращения с деньгами. Читать легко и интересно.",
-        "createdAt": "2022-01-22 06:45:03",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 14
         }
     }
 }
