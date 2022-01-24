@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>187</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>188</sup>
 ---
 
 ## 2022
@@ -867,6 +867,11 @@
 ### Рождество с неудачниками
 Джон Гришэм
 > [2015-12-09] 
+
+
+### Герой нашего времени
+Михаил Лермонтов
+> [2015-12-05] 
 
 
 ### Безмолвная земля
