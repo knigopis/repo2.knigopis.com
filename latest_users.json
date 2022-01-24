@@ -1,4 +1,10 @@
 {
+    "13413591548892934957-mailru": {
+        "id": "13413591548892934957-mailru",
+        "nickname": "Shellena",
+        "booksCount": 169,
+        "updatedAt": "2022-01-24 15:59:52"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "ronnieo147",
         "booksCount": 0,
         "updatedAt": "2022-01-11 20:18:04"
-    },
-    "301206266-vkontakte": {
-        "id": "301206266-vkontakte",
-        "nickname": "mneo_stiller",
-        "booksCount": 0,
-        "updatedAt": "2022-01-10 20:42:14"
     }
 }

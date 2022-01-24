@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>169</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>39</sup> 
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106221599511620619431-google)<sup>0</sup> 
 [yo](users/117/117521442574974529909-google)<sup>1</sup> 
 [ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
-[mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 
 
-_24.01.2022 11:45:12_
+_24.01.2022 15:59:52_

@@ -1,4 +1,16 @@
 {
+    "I959uXHl1M": {
+        "id": "I959uXHl1M",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2022-01-24 15:59:52",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 169
+        }
+    },
     "C890Vb75dA": {
         "id": "C890Vb75dA",
         "title": "Воровка с того света",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 77
-        }
-    },
-    "ZCygeB-N3W": {
-        "id": "ZCygeB-N3W",
-        "title": "Герцогиня. Выбор императора",
-        "author": "Галина Долгова",
-        "notes": "",
-        "createdAt": "2022-01-20 11:04:20",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 36
         }
     }
 }
