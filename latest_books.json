@@ -1,4 +1,16 @@
 {
+    "wflq_JGVmf": {
+        "id": "wflq_JGVmf",
+        "title": "Прощай, оружие!",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2022-01-24 16:13:33",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 189
+        }
+    },
     "2pCsq09BWv": {
         "id": "2pCsq09BWv",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 15
-        }
-    },
-    "Nrdga-TOt3": {
-        "id": "Nrdga-TOt3",
-        "title": "Сказать жизни \"да\"",
-        "author": "Виктор Франкл",
-        "notes": "",
-        "createdAt": "2022-01-22 21:57:40",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tumturumk",
-            "booksCount": 14
         }
     }
 }

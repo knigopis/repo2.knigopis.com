@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>188</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>189</sup>
 ---
 
 ## 2022
@@ -947,6 +947,11 @@
 ### Гарри Поттер и философский камень
 Джоан Роулинг
 > [2015-12-01] 
+
+
+### Прощай, оружие!
+Эрнест Хемингуэй
+> [2015-11-11] 
 
 
 ### Лунный камень
