@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>135</sup>
+# List of books read by 4apa<sup>136</sup>
 ---
 
 ## 2022
+
+### Гарвардский некромант
+А. Панчин
+> [2022-01-25] 
+
 
 ### Ярче тысячи солнц
 Р. Юнг
