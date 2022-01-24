@@ -1,4 +1,16 @@
 {
+    "bLVvjBPKIj": {
+        "id": "bLVvjBPKIj",
+        "title": "Берсерк",
+        "author": "Ольга Григорьева",
+        "notes": "",
+        "createdAt": "2022-01-24 19:02:27",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 202
+        }
+    },
     "geigNOAny2": {
         "id": "geigNOAny2",
         "title": "Анна Ахматова. Избранное.",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 173
-        }
-    },
-    "OFpABfUmVP": {
-        "id": "OFpABfUmVP",
-        "title": "Гарри Поттер и кубок огня",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2022-01-24 16:01:18",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 172
         }
     }
 }
