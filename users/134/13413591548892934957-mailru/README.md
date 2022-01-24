@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>195</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>196</sup>
 ---
 
 ## 2022
+
+### Рай где-то рядом
+Фэнни Флэгг
+> [2022-01-24] 
+
 
 ### Закат Кёнигсберга
 Михаэль Вик
