@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>175</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>176</sup>
 ---
 
 ## 2022
@@ -867,6 +867,11 @@
 ### Рождественская шкатулка
 Ричард Пол Эванс
 > [2015-12-02] 
+
+
+### Гарри Поттер и дары смерти
+Джоан Роулинг
+> [2015-12-01] 
 
 
 ### Гарри Поттер и Принц-полукровка
