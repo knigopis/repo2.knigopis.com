@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>39</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>135</sup> 
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>15</sup> 
 [](users/118/118248226132797004598-google)<sup>18</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>38</sup> 
 [mica](users/103/103163807632858423947-google)<sup>1</sup> 
 [Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mneo_stiller](users/301/301206266-vkontakte)<sup>0</sup> 
 
 
-_24.01.2022 06:30:39_
+_24.01.2022 08:47:01_
