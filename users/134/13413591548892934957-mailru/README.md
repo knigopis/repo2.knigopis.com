@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>192</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>193</sup>
 ---
 
 ## 2022
@@ -977,6 +977,11 @@
 ### Тихий Дон
 Михаил Шолохов
 > [2015-11-02] 
+
+
+### Властелин колец. Две крепости.
+Джон Толкин
+> [2015-11-01] 
 
 
 ### Гарри Поттер и дары смерти
