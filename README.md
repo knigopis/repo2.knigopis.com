@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
+    > 5*5
+
 * Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
     > Я никогда не была хорошей девочкой, поэтому глупо спрашивать у мироздания и Бога «За что мне все это?»
     > Я, обворовывая честных и не очень граждан, подозревала, что после смерти не окажусь в раю. Но другой мир? Другое тело и наглый, самовлюбленный заказчик? Вы что серьезно? Уж лучше бы ад, там хотя бы не нужно рисковать только что обретенной жизнью ради магического артефакта, назначение которого для меня тайна. И в аду уж точно никто не захочет разбить мне сердце.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Опыт всегда голосует за разум. А юность – за эмоции. Опыт напоминает о том, что жизнь длинна и нет смысла мостить её дорогу ошибками. Но у юности всегда есть правда.
 
 * Властелин колец. Хранители кольца. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup>
-    > paper
 
 * Самый богатый человек в Вавилоне ~ [Len4e91](users/254/254448176-yandex)<sup>14</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Невеста на службе ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>131</sup>
 
-* Гений коммуникаций ~ [danyluk62](users/374/374149854-vkontakte)<sup>131</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>182</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>39</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mica](users/103/103163807632858423947-google)<sup>1</sup> 
 [Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>14</sup> 
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>10</sup> 
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>135</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ronnieo147](users/101/101533407065565467270-google)<sup>0</sup> 
 
 
-_24.01.2022 16:09:27_
+_24.01.2022 16:09:38_

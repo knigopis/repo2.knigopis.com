@@ -1,7 +1,12 @@
-# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>3</sup>
+# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>4</sup>
 ---
 
 ## 2022
+
+### Summer in Provence
+Lucy Coleman
+> [2022-01-23] 5*5
+
 
 ### Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже
 Дженнифер Л Скотт

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
 * Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
 * Темные церемонии. Тайный город ~ [Chiffi](users/105/105831994080785626680-google)<sup>319</sup>
 * Властелин колец. Хранители кольца. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Грон: Смертельный удар ~ [gray7wand](users/110/110080946273609412257-google)<sup>25</sup>
 * голова полная призраков ~ [](users/101/101368518035734751027-google)<sup>2</sup>
 * Тотальний опір ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>230</sup>
-* Я забыл умереть ~ [Evermind](users/302/302928912-vkontakte)<sup>60</sup>
 
 
-_24.01.2022 11:45:12_
+_24.01.2022 16:09:38_
