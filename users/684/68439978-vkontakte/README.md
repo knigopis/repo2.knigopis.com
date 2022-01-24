@@ -1,5 +1,13 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>107</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>108</sup>
 ---
+
+## 2022
+
+### Гамлет
+У.Шекспир
+> [2022-01-24] 
+
+
 
 ## 2021
 

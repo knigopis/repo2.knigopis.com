@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 108,
+        "updatedAt": "2022-01-24 16:54:19"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "yo",
         "booksCount": 1,
         "updatedAt": "2022-01-12 22:24:34"
-    },
-    "101533407065565467270-google": {
-        "id": "101533407065565467270-google",
-        "nickname": "ronnieo147",
-        "booksCount": 0,
-        "updatedAt": "2022-01-11 20:18:04"
     }
 }
