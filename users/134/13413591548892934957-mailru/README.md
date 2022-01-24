@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>186</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>187</sup>
 ---
 
 ## 2022
@@ -942,6 +942,11 @@
 ### Гарри Поттер и философский камень
 Джоан Роулинг
 > [2015-12-01] 
+
+
+### Лунный камень
+Уилки Коллинз
+> [2015-11-09] 
 
 
 ### Тихий Дон
