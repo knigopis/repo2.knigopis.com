@@ -1,4 +1,16 @@
 {
+    "-sNTA9mn3e": {
+        "id": "-sNTA9mn3e",
+        "title": "Властелин колец. Возвращение короля",
+        "author": "Джон Толкин",
+        "notes": "",
+        "createdAt": "2022-01-24 16:16:08",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 194
+        }
+    },
     "F25VLCqPMA": {
         "id": "F25VLCqPMA",
         "title": "Властелин колец. Две крепости.",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 319
-        }
-    },
-    "l2kcswm7T2": {
-        "id": "l2kcswm7T2",
-        "title": "Властелин колец. Хранители кольца.",
-        "author": "Джон Р. Р. Толкин",
-        "notes": "paper",
-        "createdAt": "2022-01-23 17:09:18",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 50
         }
     }
 }
