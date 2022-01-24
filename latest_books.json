@@ -1,4 +1,16 @@
 {
+    "2UJs0mYoFE": {
+        "id": "2UJs0mYoFE",
+        "title": "Мальвиль",
+        "author": "Роберт Мерль",
+        "notes": "",
+        "createdAt": "2022-01-24 16:14:40",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 191
+        }
+    },
     "bGvt3iYvuQ": {
         "id": "bGvt3iYvuQ",
         "title": "Апокалиптическая фантастика",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 134
-        }
-    },
-    "xt49ZIOymj": {
-        "id": "xt49ZIOymj",
-        "title": "Дама с камелиями",
-        "author": "Дюма",
-        "notes": "",
-        "createdAt": "2022-01-22 23:46:11",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 18
         }
     }
 }
