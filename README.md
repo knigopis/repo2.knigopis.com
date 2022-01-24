@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[eva](users/111/111656270551033014778-google)<sup>111</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>195</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/686/68639652-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 [](users/106/106221599511620619431-google)<sup>0</sup> 
-[yo](users/117/117521442574974529909-google)<sup>1</sup> 
 
 
-_24.01.2022 16:54:19_
+_24.01.2022 18:16:02_
