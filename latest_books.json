@@ -1,4 +1,16 @@
 {
+    "bGvt3iYvuQ": {
+        "id": "bGvt3iYvuQ",
+        "title": "Апокалиптическая фантастика",
+        "author": "Антология",
+        "notes": "",
+        "createdAt": "2022-01-24 16:14:13",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 190
+        }
+    },
     "wflq_JGVmf": {
         "id": "wflq_JGVmf",
         "title": "Прощай, оружие!",
@@ -345,18 +357,6 @@
             "id": "118248226132797004598-google",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "F7uLaHDWOf": {
-        "id": "F7uLaHDWOf",
-        "title": "Письма смерти",
-        "author": "Чжоу Хаохуэй",
-        "notes": "",
-        "createdAt": "2022-01-22 22:00:42",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tumturumk",
-            "booksCount": 15
         }
     }
 }
