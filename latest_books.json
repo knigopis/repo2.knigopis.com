@@ -1,4 +1,16 @@
 {
+    "aLjZ6Y4LXw": {
+        "id": "aLjZ6Y4LXw",
+        "title": "Сказки Барда Бидля",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2022-01-24 16:03:28",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 177
+        }
+    },
     "RYKZ8ZWemR": {
         "id": "RYKZ8ZWemR",
         "title": "Гарри Поттер и дары смерти",
@@ -345,18 +357,6 @@
             "id": "112090473416384685204-google",
             "nickname": "Cr_RONIN",
             "booksCount": 10
-        }
-    },
-    "W9o4pQ_yA1": {
-        "id": "W9o4pQ_yA1",
-        "title": "Герцогиня. Право крови",
-        "author": "Галина Долгова",
-        "notes": "",
-        "createdAt": "2022-01-21 19:02:42",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 37
         }
     }
 }
