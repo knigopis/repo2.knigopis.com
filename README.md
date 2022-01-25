@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>40</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>220</sup> 
 [](users/118/118248226132797004598-google)<sup>19</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>136</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>39</sup> 
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>911</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 
 
-_25.01.2022 06:55:28_
+_25.01.2022 09:42:46_

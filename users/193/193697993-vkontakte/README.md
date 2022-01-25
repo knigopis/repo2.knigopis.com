@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>39</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>40</sup>
 ---
 
 ## 2022
+
+### Императрица
+Лара Ингвар
+> [2022-01-25] 
+
 
 ### На пути к трону
 Лара Ингвар
