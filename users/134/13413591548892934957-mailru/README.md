@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>207</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>208</sup>
 ---
 
 ## 2022
@@ -1042,6 +1042,11 @@
 ### Противостояние
 Стивен Кинг
 > [2015-07-01] 
+
+
+### Цена познания
+Юрий Алкин
+> [2015-06-02] 
 
 
 ### Нераздельные
