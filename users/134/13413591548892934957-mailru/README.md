@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>217</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>218</sup>
 ---
 
 ## 2022
@@ -1092,6 +1092,11 @@
 ### Призраки ночи
 Сборник
 > [2015-04-02] 
+
+
+### Город богов
+Брендон Сандерсон
+> [2015-04-01] 
 
 
 ### Драконовы сны
