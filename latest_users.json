@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 304,
+        "updatedAt": "2022-01-25 15:03:47"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -136,12 +142,6 @@
         "nickname": "besprozvannykh.inna@gmail.com",
         "booksCount": 0,
         "updatedAt": "2022-01-21 07:46:02"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 303,
-        "updatedAt": "2022-01-19 14:34:10"
     },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",

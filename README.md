@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
+    > Милая сказочка с динамичным сюжетом.
+
 * Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
     > Хорошая работа. Яркая внешность. Свидание с красивым мужчиной.
     > Всё это исчезло, когда я открыла глаза в новом мире.
@@ -16,8 +19,6 @@ Do not use pull requests to make changes here.
     > 5*5
 
 * Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
-    > Я никогда не была хорошей девочкой, поэтому глупо спрашивать у мироздания и Бога «За что мне все это?»
-    > Я, обворовывая честных и не очень граждан, подозревала, что после смерти не окажусь в раю. Но другой мир? Другое тело и наглый, самовлюбленный заказчик? Вы что серьезно? Уж лучше бы ад, там хотя бы не нужно рисковать только что обретенной жизнью ради магического артефакта, назначение которого для меня тайна. И в аду уж точно никто не захочет разбить мне сердце.
 
 * Темные церемонии. Тайный город ~ [Chiffi](users/105/105831994080785626680-google)<sup>319</sup>
 
@@ -31,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
 
-* Достаточно хорошая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>304</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>40</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>220</sup> 
@@ -61,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>303</sup> 
 [](users/153/1537586159620888-facebook)<sup>62</sup> 
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup> 
@@ -70,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 
 
-_25.01.2022 11:18:29_
+_25.01.2022 15:03:47_

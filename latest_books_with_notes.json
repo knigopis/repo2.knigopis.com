@@ -1,4 +1,16 @@
 {
+    "Mj8fq9SA5Q": {
+        "id": "Mj8fq9SA5Q",
+        "title": "Звездная пыль",
+        "author": "Гейман, Нил",
+        "notes": "Милая сказочка с динамичным сюжетом.",
+        "createdAt": "2022-01-25 15:03:47",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 304
+        }
+    },
     "cE3fHhZQ21": {
         "id": "cE3fHhZQ21",
         "title": "Чужой Отбор, или Охота на Мечту",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 25
-        }
-    },
-    "sZtcU_-W4d": {
-        "id": "sZtcU_-W4d",
-        "title": "голова полная призраков",
-        "author": "не помню",
-        "notes": "0/10",
-        "createdAt": "2021-12-29 05:07:34",
-        "user": {
-            "id": "101368518035734751027-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
