@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>204</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>205</sup>
 ---
 
 ## 2022
@@ -1037,6 +1037,11 @@
 ### Волкодав
 Мария Семёнова
 > [2015-08-01] 
+
+
+### Противостояние
+Стивен Кинг
+> [2015-07-01] 
 
 
 ### Гарри Поттер и дары смерти
