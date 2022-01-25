@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>210</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>211</sup>
 ---
 
 ## 2022
@@ -1067,6 +1067,11 @@
 ### Z значит Захария
 Роберт О'Брайен
 > [2015-06-01] 
+
+
+### Жизнь и судьба
+Василий Гроссман
+> [2015-05-05] 
 
 
 ### Гарри Поттер и дары смерти
