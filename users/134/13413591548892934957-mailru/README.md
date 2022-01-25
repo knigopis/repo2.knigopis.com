@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>213</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>214</sup>
 ---
 
 ## 2022
@@ -1087,6 +1087,14 @@
 ### Гарри Поттер и дары смерти
 Джоан Роулинг
 > [2015-01-01] 
+
+
+
+## 2012
+
+### Звезда
+Эммануил Казакевич
+> [2012-05-01] 
 
 
 
