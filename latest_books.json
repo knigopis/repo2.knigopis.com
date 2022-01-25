@@ -1,4 +1,16 @@
 {
+    "z-l3gbl20o": {
+        "id": "z-l3gbl20o",
+        "title": "Звездопад",
+        "author": "Виктор Астафьев",
+        "notes": "",
+        "createdAt": "2022-01-25 06:52:09",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 213
+        }
+    },
     "eR429Lt13U": {
         "id": "eR429Lt13U",
         "title": "Марсианские хроники",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 191
-        }
-    },
-    "bGvt3iYvuQ": {
-        "id": "bGvt3iYvuQ",
-        "title": "Апокалиптическая фантастика",
-        "author": "Антология",
-        "notes": "",
-        "createdAt": "2022-01-24 16:14:13",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 190
         }
     }
 }
