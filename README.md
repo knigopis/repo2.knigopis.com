@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
+    > 5*5
+
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
     > Милая сказочка с динамичным сюжетом.
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Здесь каждая из соперниц подготовлена лучше. Отвергнутый жених хозяйки тела не сдался и превращает мою жизнь в ад. Хорошо, что я дитя иного века: мы ещё посмотрим, кто кого.
 
 * Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
-    > 5*5
 
 * Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
 
-* Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>304</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>40</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>179</sup> 
 [eva](users/111/111656270551033014778-google)<sup>113</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup> 
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>911</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 
 
-_25.01.2022 15:03:47_
+_25.01.2022 15:14:48_

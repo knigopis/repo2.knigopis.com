@@ -1,4 +1,16 @@
 {
+    "LYOz_tWFiO": {
+        "id": "LYOz_tWFiO",
+        "title": "The Holiday Swap",
+        "author": "Maggie Knox",
+        "notes": "5*5",
+        "createdAt": "2022-01-25 15:14:48",
+        "user": {
+            "id": "117396356938980769291-google",
+            "nickname": "Victoriaperfectum",
+            "booksCount": 5
+        }
+    },
     "Mj8fq9SA5Q": {
         "id": "Mj8fq9SA5Q",
         "title": "Звездная пыль",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 301
-        }
-    },
-    "UUxe1D8MML": {
-        "id": "UUxe1D8MML",
-        "title": "Грон: Смертельный удар",
-        "author": "Злотников Роман",
-        "notes": "Номер книги в серии: 2",
-        "createdAt": "2021-12-30 21:30:00",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 25
         }
     }
 }

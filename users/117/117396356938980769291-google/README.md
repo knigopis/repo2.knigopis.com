@@ -1,7 +1,12 @@
-# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>4</sup>
+# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>5</sup>
 ---
 
 ## 2022
+
+### The Holiday Swap
+Maggie Knox
+> [2022-01-25] 5*5
+
 
 ### Summer in Provence
 Lucy Coleman
