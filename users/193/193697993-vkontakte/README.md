@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>40</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>41</sup>
 ---
 
 ## 2022
+
+### Академия трёх сил
+Анна Мичи
+> [2022-01-26] 
+
 
 ### Императрица
 Лара Ингвар
