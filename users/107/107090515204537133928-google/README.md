@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>191</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>192</sup>
 ---
 
 ## 2022
+
+### Эмпайр В
+Виктор Пелевин
+> [2022-01-26] 
+
 
 ### Голод
 Кнут Гамсун

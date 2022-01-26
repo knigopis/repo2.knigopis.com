@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>192</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>41</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>138</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>131</sup> 
 [](users/686/68639652-vkontakte)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>191</sup> 
 
 
-_26.01.2022 13:12:16_
+_26.01.2022 14:00:59_
