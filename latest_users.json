@@ -1,4 +1,10 @@
 {
+    "112596494931263806964-google": {
+        "id": "112596494931263806964-google",
+        "nickname": "RubyLogan",
+        "booksCount": 0,
+        "updatedAt": "2022-01-27 10:07:00"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 26,
         "updatedAt": "2022-01-17 12:04:58"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 131,
-        "updatedAt": "2022-01-16 13:58:29"
     }
 }
