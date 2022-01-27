@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>50</sup>
+# List of books read by Triste<sup>51</sup>
 ---
 
 ## 2022
@@ -199,6 +199,10 @@
 
 
 ## 2019
+
+### Поллианна
+Элинор Портер
+
 
 ### Лики времени
 Александр Прасол

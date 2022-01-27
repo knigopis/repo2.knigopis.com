@@ -1,4 +1,16 @@
 {
+    "21X3J1SA5u": {
+        "id": "21X3J1SA5u",
+        "title": "Поллианна",
+        "author": "Элинор Портер",
+        "notes": "",
+        "createdAt": "2022-01-27 06:17:49",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 51
+        }
+    },
     "o6LMfOEily": {
         "id": "o6LMfOEily",
         "title": "Эмпайр В",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 202
-        }
-    },
-    "geigNOAny2": {
-        "id": "geigNOAny2",
-        "title": "Анна Ахматова. Избранное.",
-        "author": "Анна Ахматова",
-        "notes": "",
-        "createdAt": "2022-01-24 19:02:05",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 201
         }
     }
 }

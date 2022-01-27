@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 51,
+        "updatedAt": "2022-01-27 06:17:49"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "danyluk62",
         "booksCount": 131,
         "updatedAt": "2022-01-16 13:58:29"
-    },
-    "68639652-vkontakte": {
-        "id": "68639652-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-01-15 21:04:18"
     }
 }

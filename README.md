@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>192</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>41</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>138</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>131</sup> 
-[](users/686/68639652-vkontakte)<sup>0</sup> 
 
 
-_26.01.2022 14:00:59_
+_27.01.2022 06:17:49_
