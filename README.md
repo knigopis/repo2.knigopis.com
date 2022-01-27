@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[RubyLogan](users/112/112596494931263806964-google)<sup>0</sup> 
+[RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>192</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>41</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup> 
 
 
-_27.01.2022 10:07:01_
+_27.01.2022 10:07:45_
