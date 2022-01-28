@@ -1,4 +1,16 @@
 {
+    "E6Px46VzLc": {
+        "id": "E6Px46VzLc",
+        "title": "Сумасшедший учёный",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2022-01-28 12:36:42",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 193
+        }
+    },
     "SL_z7o9-AA": {
         "id": "SL_z7o9-AA",
         "title": "Верный и заботливый муж",
@@ -345,18 +357,6 @@
             "id": "118248226132797004598-google",
             "nickname": null,
             "booksCount": 19
-        }
-    },
-    "71NNSQk65c": {
-        "id": "71NNSQk65c",
-        "title": "Гарвардский некромант",
-        "author": "А. Панчин",
-        "notes": "",
-        "createdAt": "2022-01-24 22:57:57",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 136
         }
     }
 }
