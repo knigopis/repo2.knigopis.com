@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>193</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>194</sup>
 ---
 
 ## 2022
+
+### Алая цитадель
+Роберт Ирвин Говард
+> [2022-01-28] 
+
 
 ### Сумасшедший учёный
 Айзек Азимов
