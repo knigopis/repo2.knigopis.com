@@ -71,8 +71,8 @@ Gayle Laakmann McDowell
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
-### `` Permanent Record
-Edward Snowden
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
@@ -112,14 +112,14 @@ Mike Cohn
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` Permanent Record
+Edward Snowden
+
+### `` Свой среди чужих
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
-
-### `` Свой среди чужих
 
 ### `` Effective Kotlin
 Marcin Moskala
@@ -136,6 +136,8 @@ Marcin Moskala
 ### `` Тонкое искусство пофигизма
 
 ### `` Не рычите на собаку
+
+### `` Воспитание сердцем
 
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
