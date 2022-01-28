@@ -79,6 +79,9 @@ Eric S. Raymond
 > День опричника
 > Сахарный кремль
 
+### `` Великий Гэтсби
+Скотт Фицджеральд
+
 ### `` Дом, в котором
 Мариам Петросян
 > Copied from Shellena
@@ -135,11 +138,11 @@ Daniel Kahneman
 
 ### `` Свой среди чужих
 
-### `` Formalized Music
-Янис Ксенакис
-> 1963
-
 ### `` Super Intelligence
+
+### `` Путин. Война
+Борис Немцов
+> Copied from danyluk62
 
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
@@ -154,7 +157,7 @@ Satoshi Nakamoto
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
-### `` Путин. Война
-Борис Немцов
-> Copied from danyluk62
+### `` Formalized Music
+Янис Ксенакис
+> 1963
 
