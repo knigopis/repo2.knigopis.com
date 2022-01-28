@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>63</sup> 
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>192</sup> 
@@ -64,9 +65,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>62</sup> 
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup> 
 
 
-_27.01.2022 10:07:45_
+_28.01.2022 02:04:29_
