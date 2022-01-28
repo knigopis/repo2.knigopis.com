@@ -11,6 +11,9 @@
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
 
+### `30` 100 лет одиночества
+Габриэль Маркес
+
 ### `25` Невероятные происшествия в женской камере №3
 Кира Ярмыш
 
@@ -40,20 +43,20 @@ Randall Munroe
 ### `4` Атлант расправил плечи
 Айн Рэнд
 
-### `1` Все свободны
-Михаил Зыгарь
-
-### `1` Герой нашего времени
-Михаил Лермонтов
-
-### `1` Портной из Панамы
-Джон Ле Карре
-
 ### `1` Joel on Software
 Joel Spolsky
 
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
+
+### `1` Портной из Панамы
+Джон Ле Карре
+
+### `1` Герой нашего времени
+Михаил Лермонтов
+
+### `1` Все свободны
+Михаил Зыгарь
 
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
@@ -61,7 +64,9 @@ Gayle Laakmann McDowell
 ### `1` Практическая политология
 Екатерина Шульман
 
-### `` Как измерить что угодно
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` Повелитель мух
 Уильям Голдинг
@@ -104,12 +109,13 @@ Mike Cohn
 ### `` Permanent Record
 Edward Snowden
 
+### `` A Briefer History of Time
+Stephen Hawking
+
+### `` Как измерить что угодно
+
 ### `` Effective Kotlin
 Marcin Moskala
-
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` Грокаем алгоритмы
 
@@ -127,19 +133,19 @@ Jon Erickson
 ### `` Thinking, Fast and Slow
 Daniel Kahneman
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` Свой среди чужих
 
 ### `` Formalized Music
 Янис Ксенакис
 > 1963
 
-### `` Свой среди чужих
+### `` Super Intelligence
 
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
-### `` Super Intelligence
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
@@ -147,9 +153,6 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
 
 ### `` Путин. Война
 Борис Немцов
