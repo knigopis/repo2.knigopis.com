@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>229</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>230</sup>
 ---
 
 ## 2022
@@ -1152,6 +1152,11 @@
 ### Книга Страшного Суда
 Конни Уиллис
 > [2015-03-01] 
+
+
+### Долгая прогулка
+Стивен Кинг
+> [2015-02-04] 
 
 
 ### Рыцари сорока островов
