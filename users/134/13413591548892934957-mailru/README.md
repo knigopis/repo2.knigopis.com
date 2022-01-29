@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>239</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>240</sup>
 ---
 
 ## 2022
@@ -1205,6 +1205,11 @@
 ### Дочь дыма и костей
 Лэйни Тейлор
 > [2014-12-08] 
+
+
+### Маленькая хозяйка большого дома
+Джек Лондон
+> [2014-12-07] 
 
 
 ### Дни крови и света
