@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>231</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>232</sup>
 ---
 
 ## 2022
@@ -1172,6 +1172,11 @@
 ### Квентин Дорвард
 Вальтер Скотт
 > [2015-02-01] 
+
+
+### Ночной шторм
+Юхан Теорин
+> [2015-01-01] 
 
 
 ### Гарри Поттер и дары смерти
