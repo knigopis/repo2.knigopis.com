@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>220</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>219</sup>
 ---
 
 ## 2022
@@ -906,11 +906,6 @@
 
 ### Аэропорт
 Артур Хейли
-> [2015-12-01] 
-
-
-### Гарри Поттер и Принц-полукровка
-Джоан Роулинг
 > [2015-12-01] 
 
 
