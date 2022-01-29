@@ -1,4 +1,16 @@
 {
+    "V0OZf6vPmX": {
+        "id": "V0OZf6vPmX",
+        "title": "Дни крови и света",
+        "author": "Лэйни Тейлор",
+        "notes": "",
+        "createdAt": "2022-01-29 22:17:09",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 238
+        }
+    },
     "agMPcBfuDo": {
         "id": "agMPcBfuDo",
         "title": "Лес повешенных лисиц",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 41
-        }
-    },
-    "PnKTIrTN5t": {
-        "id": "PnKTIrTN5t",
-        "title": "Чужой отбор, или Охота на Мечту #2",
-        "author": "Елена Шторм",
-        "notes": "",
-        "createdAt": "2022-01-25 19:35:43",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 138
         }
     }
 }
