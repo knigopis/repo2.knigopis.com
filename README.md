@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
+    > 6/10 Канзасские школьницы изучают Холокост.
+
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
     > 5*5
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Милая сказочка с динамичным сюжетом.
 
 * Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
-    > Хорошая работа. Яркая внешность. Свидание с красивым мужчиной.
-    > Всё это исчезло, когда я открыла глаза в новом мире.
-    > Теперь я в теле бедной аристократки, которую иначе как бледной молью не назовёшь. У неё пять серых платьев в гардеробе, злые родственники и грубый, пугающий жених, от которого она сбежала.
-    > А ещё - особый дар, которым хотят завладеть и другие мужчины. Не спрашивая её согласия. И мой единственный шанс вернуться домой - найти для неё приличного мужа на странном отборе женихов и невест!
-    > Здесь каждая из соперниц подготовлена лучше. Отвергнутый жених хозяйки тела не сдался и превращает мою жизнь в ад. Хорошо, что я дитя иного века: мы ещё посмотрим, кто кого.
 
 * Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
 
-* Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>240</sup> 
 [](users/118/118248226132797004598-google)<sup>21</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>195</sup> 
@@ -66,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>26</sup> 
 
 
-_29.01.2022 22:18:31_
+_29.01.2022 22:22:04_

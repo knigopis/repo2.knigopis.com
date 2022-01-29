@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>235</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>236</sup>
 ---
 
 ## 2022
+
+### Храброе сердце Ирены Сендлер
+Джек Майер
+> [2022-01-30] 6/10 Канзасские школьницы изучают Холокост.
+
 
 ### Живые люди
 Яна Вагнер

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
 * Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
@@ -30,7 +31,6 @@
 * Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
 * Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
-* Ближний Восток. История десяти тысячелетий ~ [Garka](users/115/115753719718250012620-google)<sup>301</sup>
 
 
-_25.01.2022 15:14:48_
+_29.01.2022 22:22:04_
