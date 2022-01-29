@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>238</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>239</sup>
 ---
 
 ## 2022
@@ -1200,6 +1200,11 @@
 ### Лес повешенных лисиц
 Арто Паасилинна
 > [2014-12-09] 
+
+
+### Дочь дыма и костей
+Лэйни Тейлор
+> [2014-12-08] 
 
 
 ### Дни крови и света

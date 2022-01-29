@@ -1,4 +1,16 @@
 {
+    "5w9uDatCFL": {
+        "id": "5w9uDatCFL",
+        "title": "Дочь дыма и костей",
+        "author": "Лэйни Тейлор",
+        "notes": "",
+        "createdAt": "2022-01-29 22:18:02",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 239
+        }
+    },
     "V0OZf6vPmX": {
         "id": "V0OZf6vPmX",
         "title": "Дни крови и света",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 192
-        }
-    },
-    "KRK2N3cy1K": {
-        "id": "KRK2N3cy1K",
-        "title": "Академия трёх сил",
-        "author": "Анна Мичи",
-        "notes": "",
-        "createdAt": "2022-01-26 13:12:16",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 41
         }
     }
 }
