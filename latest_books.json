@@ -1,4 +1,16 @@
 {
+    "c2_ArpRJEY": {
+        "id": "c2_ArpRJEY",
+        "title": "Серебристый луч надежды",
+        "author": "Мэтью Квик",
+        "notes": "",
+        "createdAt": "2022-01-29 22:04:13",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 221
+        }
+    },
     "Pl7FkavJED": {
         "id": "Pl7FkavJED",
         "title": "Книга Страшного Суда",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 209
-        }
-    },
-    "67FcmWcTX5": {
-        "id": "67FcmWcTX5",
-        "title": "Цена познания",
-        "author": "Юрий Алкин",
-        "notes": "",
-        "createdAt": "2022-01-25 06:49:46",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 208
         }
     }
 }
