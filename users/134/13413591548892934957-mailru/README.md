@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>236</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>237</sup>
 ---
 
 ## 2022
@@ -1196,6 +1196,11 @@
 
 
 ## 2014
+
+### Лес повешенных лисиц
+Арто Паасилинна
+> [2014-12-09] 
+
 
 ### Рождественское чудо мистера Туми
 Сьюзан Войцеховски
