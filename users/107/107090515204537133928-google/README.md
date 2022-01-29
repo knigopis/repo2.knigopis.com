@@ -1,12 +1,7 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>196</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>195</sup>
 ---
 
 ## 2022
-
-### Пигмей
-Чак Паланик
-> [2022-01-29] 
-
 
 ### Пигмей
 Чак Паланик
