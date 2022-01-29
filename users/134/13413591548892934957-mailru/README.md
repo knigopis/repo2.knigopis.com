@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>227</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>228</sup>
 ---
 
 ## 2022
@@ -1152,6 +1152,11 @@
 ### Книга Страшного Суда
 Конни Уиллис
 > [2015-03-01] 
+
+
+### Квентин Дорвард
+Вальтер Скотт
+> [2015-02-01] 
 
 
 ### Гарри Поттер и дары смерти
