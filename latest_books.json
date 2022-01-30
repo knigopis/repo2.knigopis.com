@@ -1,4 +1,16 @@
 {
+    "88Eef-MoAt": {
+        "id": "88Eef-MoAt",
+        "title": "Корона полуночи",
+        "author": "Сарп Дж. Маас",
+        "notes": "",
+        "createdAt": "2022-01-30 07:35:10",
+        "user": {
+            "id": "109746193906459706720-google",
+            "nickname": "Феня Котовна",
+            "booksCount": 140
+        }
+    },
     "FnVppxV_uM": {
         "id": "FnVppxV_uM",
         "title": "Kишkи",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 193
-        }
-    },
-    "SL_z7o9-AA": {
-        "id": "SL_z7o9-AA",
-        "title": "Верный и заботливый муж",
-        "author": "Сатья",
-        "notes": "",
-        "createdAt": "2022-01-28 02:04:29",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 63
         }
     }
 }
