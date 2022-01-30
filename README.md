@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mari](users/990/9903107-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>197</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>140</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>16</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
-[O](users/388/388959681521597-facebook)<sup>0</sup> 
 
 
-_30.01.2022 13:00:48_
+_30.01.2022 13:48:44_
