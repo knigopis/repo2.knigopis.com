@@ -1,4 +1,10 @@
 {
+    "9903107-vkontakte": {
+        "id": "9903107-vkontakte",
+        "nickname": "Mari",
+        "booksCount": 0,
+        "updatedAt": "2022-01-30 13:48:44"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "besprozvannykh.inna@gmail.com",
         "booksCount": 0,
         "updatedAt": "2022-01-21 07:46:02"
-    },
-    "388959681521597-facebook": {
-        "id": "388959681521597-facebook",
-        "nickname": "O",
-        "booksCount": 0,
-        "updatedAt": "2022-01-18 03:29:25"
     }
 }
