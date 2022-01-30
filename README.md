@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>196</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>140</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>16</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>240</sup> 
 [](users/118/118248226132797004598-google)<sup>21</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>195</sup> 
 [](users/153/1537586159620888-facebook)<sup>63</sup> 
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
 
 
-_30.01.2022 07:35:10_
+_30.01.2022 12:08:32_
