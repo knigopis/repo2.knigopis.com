@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>16</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>240</sup> 
 [](users/118/118248226132797004598-google)<sup>21</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>319</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup> 
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>15</sup> 
 [mica](users/103/103163807632858423947-google)<sup>1</sup> 
 [Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [O](users/388/388959681521597-facebook)<sup>0</sup> 
 
 
-_29.01.2022 22:22:04_
+_30.01.2022 06:54:24_
