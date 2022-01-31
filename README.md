@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
+    > 4*5
+
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
     > 6/10 Канзасские школьницы изучают Холокост.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5*5
 
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
-    > Милая сказочка с динамичным сюжетом.
 
 * Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Самый богатый человек в Вавилоне ~ [Len4e91](users/254/254448176-yandex)<sup>14</sup>
 
-*  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>17</sup> 
 [Mari](users/990/9903107-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>197</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>41</sup> 
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>304</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>136</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>179</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 
 
-_30.01.2022 17:03:05_
+_31.01.2022 10:52:17_

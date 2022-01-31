@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
@@ -30,7 +31,6 @@
 * Маленький принц ~ [Evermind](users/302/302928912-vkontakte)<sup>61</sup>
 * Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
 * Необхідні речі. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>231</sup>
-* Сила подсознания. Как изменить жизнь за 4 недели ~ [bitter.mary](users/108/108890810412612634449-google)<sup>5</sup>
 
 
-_29.01.2022 22:22:04_
+_31.01.2022 10:52:17_

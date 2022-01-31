@@ -1,4 +1,16 @@
 {
+    "XJJ1pNktCf": {
+        "id": "XJJ1pNktCf",
+        "title": "Осознанность",
+        "author": "Раджниш Ошо",
+        "notes": "4*5",
+        "createdAt": "2022-01-31 10:52:17",
+        "user": {
+            "id": "117396356938980769291-google",
+            "nickname": "Victoriaperfectum",
+            "booksCount": 6
+        }
+    },
     "yMbBOZ3xhW": {
         "id": "yMbBOZ3xhW",
         "title": "Храброе сердце Ирены Сендлер",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 231
-        }
-    },
-    "qdhlUsGG4s": {
-        "id": "qdhlUsGG4s",
-        "title": "Сила подсознания. Как изменить жизнь за 4 недели",
-        "author": "Джо Диспенза",
-        "notes": "Аўдыёкніга.\nНе даслухала да канца, бо пасля ідзе пра практыку медытацыі. Цікавая кніга, але расцягнута шмат і шмат чаго дзіўнага і не зразумелага.\n5,5/10",
-        "createdAt": "2022-01-03 12:19:53",
-        "user": {
-            "id": "108890810412612634449-google",
-            "nickname": "bitter.mary",
-            "booksCount": 5
         }
     }
 }

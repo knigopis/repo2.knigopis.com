@@ -1,7 +1,12 @@
-# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>5</sup>
+# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>6</sup>
 ---
 
 ## 2022
+
+### Осознанность
+Раджниш Ошо
+> [2022-01-30] 4*5
+
 
 ### The Holiday Swap
 Maggie Knox

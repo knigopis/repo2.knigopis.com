@@ -1,4 +1,16 @@
 {
+    "XJJ1pNktCf": {
+        "id": "XJJ1pNktCf",
+        "title": "Осознанность",
+        "author": "Раджниш Ошо",
+        "notes": "4*5",
+        "createdAt": "2022-01-31 10:52:17",
+        "user": {
+            "id": "117396356938980769291-google",
+            "nickname": "Victoriaperfectum",
+            "booksCount": 6
+        }
+    },
     "3sjflAWew5": {
         "id": "3sjflAWew5",
         "title": "Колыбель для кошки",
@@ -345,18 +357,6 @@
             "id": "118248226132797004598-google",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "52Ve2vJegC": {
-        "id": "52Ve2vJegC",
-        "title": "Пигмей",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2022-01-29 16:29:07",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 196
         }
     }
 }
