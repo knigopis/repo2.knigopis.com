@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>305</sup>
+* Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
     > Шикарно
 
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>305</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>306</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>17</sup> 
 [Mari](users/990/9903107-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 
 
-_31.01.2022 17:19:34_
+_31.01.2022 17:23:13_

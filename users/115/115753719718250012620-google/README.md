@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>305</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>306</sup>
 ---
 
 ## 2022
+
+### Ведьмак. Последнее желание
+Сапковский Анджей
+> [2022-01-31] Шикарно
+
 
 ### Звездная пыль
 Гейман, Нил

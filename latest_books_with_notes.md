@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>305</sup>
+* Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
@@ -33,4 +33,4 @@
 * Вонгозеро ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>232</sup>
 
 
-_31.01.2022 17:19:34_
+_31.01.2022 17:23:13_
