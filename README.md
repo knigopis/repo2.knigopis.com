@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>305</sup>
+    > Шикарно
+
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
     > 4*5
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Канзасские школьницы изучают Холокост.
 
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
-    > 5*5
 
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Властелин колец. Хранители кольца. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup>
 
-* Самый богатый человек в Вавилоне ~ [Len4e91](users/254/254448176-yandex)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>305</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>17</sup> 
 [Mari](users/990/9903107-vkontakte)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>41</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>304</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>136</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>179</sup> 
 [eva](users/111/111656270551033014778-google)<sup>113</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [besprozvannykh.inna@gmail.com](users/153/1533293040-yandex)<sup>0</sup> 
 
 
-_31.01.2022 10:52:17_
+_31.01.2022 17:19:34_

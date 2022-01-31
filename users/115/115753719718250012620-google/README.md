@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>304</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>305</sup>
 ---
 
 ## 2022
@@ -1067,6 +1067,11 @@
 
 
 ## Other years
+
+### Ведьмак. Последнее желание
+Сапковский Анджей
+> Шикарно
+
 
 ### Множественные умы Билли Миллигана
 Дэниел Киз
