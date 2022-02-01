@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>253</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>254</sup>
 ---
 
 ## 2022
@@ -1265,6 +1265,11 @@
 ### Ночь без конца
 Алистер Маклин
 > [2014-11-01] 
+
+
+### Подстрочник. Жизнь Лилианны Лунгиной
+Олег Дорман
+> [2014-10-05] 
 
 
 ### Канун всех святых
