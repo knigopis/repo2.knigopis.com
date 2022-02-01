@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>284</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>285</sup>
 ---
 
 ## 2022
@@ -1440,6 +1440,11 @@
 ### Возлюби ближнего своего
 Эрих Мария Ремарк
 > [2014-05-01] 
+
+
+### Испытание огнем
+Джеймс Дэшнер
+> [2014-04-04] 
 
 
 ### Лекарство от смерти
