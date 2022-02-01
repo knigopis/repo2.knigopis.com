@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>271</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>272</sup>
 ---
 
 ## 2022
@@ -1370,6 +1370,11 @@
 ### Анна Каренина
 Лев Толстой
 > [2014-07-02] 
+
+
+### Год крысы
+Ольга Громыко
+> [2014-07-01] 
 
 
 ### Долгое падение
