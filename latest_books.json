@@ -1,4 +1,16 @@
 {
+    "NKKseY__8H": {
+        "id": "NKKseY__8H",
+        "title": "Гарри Джеймс Поттер-Эванс-Веррес и Методы Рационального Мышления",
+        "author": "Элиезер Юдковский",
+        "notes": "",
+        "createdAt": "2022-02-01 12:56:12",
+        "user": {
+            "id": "104513622258012193866-google",
+            "nickname": "Helly_Droid",
+            "booksCount": 1
+        }
+    },
     "PhPx2YjdTq": {
         "id": "PhPx2YjdTq",
         "title": "Прислуга",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 264
-        }
-    },
-    "Y_wRoW2KMN": {
-        "id": "Y_wRoW2KMN",
-        "title": "Хорошо быть тихоней",
-        "author": "Стивен Чбоски",
-        "notes": "",
-        "createdAt": "2022-02-01 06:21:58",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 263
         }
     }
 }
