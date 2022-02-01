@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>264</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>265</sup>
 ---
 
 ## 2022
@@ -1330,6 +1330,11 @@
 ### Океан в конце дороги
 Нил Гейман
 > [2014-08-05] 
+
+
+### Бегущий человек
+Ричард Бахман
+> [2014-08-01] 
 
 
 ### Белорские хроники
