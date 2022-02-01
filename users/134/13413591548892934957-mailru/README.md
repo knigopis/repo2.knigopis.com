@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>274</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>275</sup>
 ---
 
 ## 2022
@@ -1385,6 +1385,11 @@
 ### Дракула
 Брэм Стокер
 > [2014-07-01] 
+
+
+### Маленький принц
+Антуан Сент-Экзюпери
+> [2014-06-06] 
 
 
 ### Спин
