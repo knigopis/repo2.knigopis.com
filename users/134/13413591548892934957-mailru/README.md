@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>252</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>253</sup>
 ---
 
 ## 2022
@@ -1285,6 +1285,11 @@
 ### Двенадцать стульев
 Илья Ильф
 > [2014-10-02] 
+
+
+### Generation "П"
+Виктор Пелевин
+> [2014-10-01] 
 
 
 
