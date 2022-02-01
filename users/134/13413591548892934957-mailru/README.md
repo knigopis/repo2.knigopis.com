@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>288</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>289</sup>
 ---
 
 ## 2022
@@ -1440,6 +1440,11 @@
 ### Возлюби ближнего своего
 Эрих Мария Ремарк
 > [2014-05-01] 
+
+
+### Рыцарь на золотом коне
+Диана Уинн Джонс
+> [2014-04-09] 
 
 
 ### Генезис 2075
