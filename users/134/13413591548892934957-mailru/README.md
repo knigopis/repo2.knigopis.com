@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>247</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>248</sup>
 ---
 
 ## 2022
@@ -1250,6 +1250,11 @@
 ### Никогде
 Нил Гейман
 > [2014-11-02] 
+
+
+### Над кукушкиным гнездом
+Кен Кизи
+> [2014-11-01] 
 
 
 ### Беглецы
