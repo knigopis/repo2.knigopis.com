@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>254</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>255</sup>
 ---
 
 ## 2022
@@ -1295,6 +1295,11 @@
 ### Generation "П"
 Виктор Пелевин
 > [2014-10-01] 
+
+
+### Валькирия
+Мария Семенова
+> [2014-09-01] 
 
 
 
