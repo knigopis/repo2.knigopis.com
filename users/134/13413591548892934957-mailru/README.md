@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>293</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>294</sup>
 ---
 
 ## 2022
@@ -1480,6 +1480,11 @@
 ### Лекарство от смерти
 Джеймс Дэшнер
 > [2014-04-04] 
+
+
+### Правила секса
+Брет Эллис
+> [2014-04-03] 
 
 
 ### Век чудес
