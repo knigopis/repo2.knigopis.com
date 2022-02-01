@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>278</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>279</sup>
 ---
 
 ## 2022
@@ -1415,6 +1415,11 @@
 ### В стране уходящей натуры
 Пол Остер
 > [2014-05-05] 
+
+
+### Возлюби ближнего своего
+Эрих Мария Ремарк
+> [2014-05-01] 
 
 
 
