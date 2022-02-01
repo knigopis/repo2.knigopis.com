@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>245</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>246</sup>
 ---
 
 ## 2022
@@ -1225,6 +1225,11 @@
 ### Рождественские каникулы
 Сомерсет Моэм
 > [2014-12-01] 
+
+
+### Разделённые
+Нил Шустерман
+> [2014-11-08] 
 
 
 ### Оборванные струны
