@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>257</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>258</sup>
 ---
 
 ## 2022
@@ -1300,6 +1300,11 @@
 ### Бабий Яр
 Анатолий Кузнецов
 > [2014-09-08] 
+
+
+### Осенний лис
+Дмитрий Скирюк
+> [2014-09-02] 
 
 
 ### Тринадцатая сказка
