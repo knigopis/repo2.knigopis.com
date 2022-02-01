@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>276</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>277</sup>
 ---
 
 ## 2022
@@ -1400,6 +1400,11 @@
 ### Спин
 Роберт Уинсон
 > [2014-06-06] 
+
+
+### Блаженны мёртвые
+Йон Линдквист
+> [2014-06-02] 
 
 
 ### Завтрак у Тиффани
