@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>286</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>287</sup>
 ---
 
 ## 2022
@@ -1440,6 +1440,11 @@
 ### Возлюби ближнего своего
 Эрих Мария Ремарк
 > [2014-05-01] 
+
+
+### Blackout
+Мира Грант
+> [2014-04-04] 
 
 
 ### Бегущий в лабиринте

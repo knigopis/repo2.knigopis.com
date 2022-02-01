@@ -1,4 +1,16 @@
 {
+    "xkW6J3PTOI": {
+        "id": "xkW6J3PTOI",
+        "title": "Blackout",
+        "author": "Мира Грант",
+        "notes": "",
+        "createdAt": "2022-02-01 06:46:08",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 287
+        }
+    },
     "kqBhATDO4z": {
         "id": "kqBhATDO4z",
         "title": "Бегущий в лабиринте",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 258
-        }
-    },
-    "fNnCwklPOM": {
-        "id": "fNnCwklPOM",
-        "title": "Бабий Яр",
-        "author": "Анатолий Кузнецов",
-        "notes": "",
-        "createdAt": "2022-02-01 06:19:36",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 257
         }
     }
 }
