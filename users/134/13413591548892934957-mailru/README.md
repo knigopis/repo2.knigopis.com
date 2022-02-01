@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>256</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>257</sup>
 ---
 
 ## 2022
@@ -1295,6 +1295,11 @@
 ### Generation "П"
 Виктор Пелевин
 > [2014-10-01] 
+
+
+### Бабий Яр
+Анатолий Кузнецов
+> [2014-09-08] 
 
 
 ### Тринадцатая сказка
