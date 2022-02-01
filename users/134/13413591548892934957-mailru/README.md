@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>301</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>302</sup>
 ---
 
 ## 2022
@@ -1530,6 +1530,11 @@
 ### Прислуга
 Кэтрин Стокетт
 > [2014-03-01] 
+
+
+### Кладбище домашних животных
+Стивен Кинг
+> [2014-02-02] 
 
 
 
