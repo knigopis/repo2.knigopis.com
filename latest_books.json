@@ -1,4 +1,16 @@
 {
+    "gMDGXQb3j_": {
+        "id": "gMDGXQb3j_",
+        "title": "Природа зверя",
+        "author": "Надежда Попова",
+        "notes": "",
+        "createdAt": "2022-02-01 06:36:20",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 268
+        }
+    },
     "QjoKX3GK-I": {
         "id": "QjoKX3GK-I",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 306
-        }
-    },
-    "XJJ1pNktCf": {
-        "id": "XJJ1pNktCf",
-        "title": "Осознанность",
-        "author": "Раджниш Ошо",
-        "notes": "4*5",
-        "createdAt": "2022-01-31 10:52:17",
-        "user": {
-            "id": "117396356938980769291-google",
-            "nickname": "Victoriaperfectum",
-            "booksCount": 6
         }
     }
 }
