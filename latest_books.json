@@ -1,4 +1,16 @@
 {
+    "uOfxQGGBg3": {
+        "id": "uOfxQGGBg3",
+        "title": "Ночь в Лиссабоне",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2022-02-01 15:25:00",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 297
+        }
+    },
     "3lV7m0n9CL": {
         "id": "3lV7m0n9CL",
         "title": "Искупление",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 269
-        }
-    },
-    "gMDGXQb3j_": {
-        "id": "gMDGXQb3j_",
-        "title": "Природа зверя",
-        "author": "Надежда Попова",
-        "notes": "",
-        "createdAt": "2022-02-01 06:36:20",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 268
         }
     }
 }
