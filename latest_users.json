@@ -1,4 +1,10 @@
 {
+    "104513622258012193866-google": {
+        "id": "104513622258012193866-google",
+        "nickname": "Helly_Droid",
+        "booksCount": 0,
+        "updatedAt": "2022-02-01 12:51:46"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 80,
         "updatedAt": "2022-01-21 07:53:29"
-    },
-    "1533293040-yandex": {
-        "id": "1533293040-yandex",
-        "nickname": "besprozvannykh.inna@gmail.com",
-        "booksCount": 0,
-        "updatedAt": "2022-01-21 07:46:02"
     }
 }
