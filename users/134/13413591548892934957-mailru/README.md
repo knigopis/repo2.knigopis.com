@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>281</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>282</sup>
 ---
 
 ## 2022
@@ -1410,6 +1410,11 @@
 ### Завтрак у Тиффани
 Трумен Капоте
 > [2014-06-01] 
+
+
+### У войны не женское лицо
+Светлана Алексиевич
+> [2014-05-05] 
 
 
 ### Мир без конца
