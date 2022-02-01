@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>297</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>298</sup>
 ---
 
 ## 2022
@@ -1485,6 +1485,11 @@
 ### Правила секса
 Брет Эллис
 > [2014-04-03] 
+
+
+### Королевская битва
+Косюн Таками
+> [2014-03-03] 
 
 
 ### Ночь в Лиссабоне
