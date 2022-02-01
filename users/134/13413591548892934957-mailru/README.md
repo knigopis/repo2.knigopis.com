@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>269</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>270</sup>
 ---
 
 ## 2022
@@ -1365,6 +1365,11 @@
 ### Природа зверя
 Надежда Попова
 > [2014-07-05] 
+
+
+### Анна Каренина
+Лев Толстой
+> [2014-07-02] 
 
 
 ### Дракула
