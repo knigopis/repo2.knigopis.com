@@ -1,4 +1,16 @@
 {
+    "eb4IH2p6oB": {
+        "id": "eb4IH2p6oB",
+        "title": "Собор Парижской Богоматери",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2022-02-02 11:42:11",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 322
+        }
+    },
     "WjWL4nx332": {
         "id": "WjWL4nx332",
         "title": "Королева Марго",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 293
-        }
-    },
-    "NKKseY__8H": {
-        "id": "NKKseY__8H",
-        "title": "Гарри Джеймс Поттер-Эванс-Веррес и Методы Рационального Мышления",
-        "author": "Элиезер Юдковский",
-        "notes": "",
-        "createdAt": "2022-02-01 12:56:12",
-        "user": {
-            "id": "104513622258012193866-google",
-            "nickname": "Helly_Droid",
-            "booksCount": 1
         }
     }
 }
