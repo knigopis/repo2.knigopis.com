@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>306</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>307</sup>
 ---
 
 ## 2022
@@ -1540,6 +1540,11 @@
 ### Кладбище домашних животных
 Стивен Кинг
 > [2014-02-02] 
+
+
+### Наследство рода Болейн
+Филиппа Грегори
+> [2014-02-01] 
 
 
 ### Вечера на хуторе близ Диканьки
