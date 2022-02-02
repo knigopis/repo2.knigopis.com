@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>327</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>328</sup>
 ---
 
 ## 2022
@@ -1658,6 +1658,11 @@
 ### Надвигается беда
 Рэй Бредбэри
 > [2013-09-03] 
+
+
+### Открытки с того света
+Франко Арминио
+> [2013-09-02] 
 
 
 ### Еще одна из рода Болейн
