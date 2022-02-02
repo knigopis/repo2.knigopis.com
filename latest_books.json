@@ -1,4 +1,16 @@
 {
+    "yX8EK_0o-C": {
+        "id": "yX8EK_0o-C",
+        "title": "Воздушный замок",
+        "author": "Диана Уинн Джонс",
+        "notes": "",
+        "createdAt": "2022-02-02 11:33:46",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 303
+        }
+    },
     "8AuHYep9-r": {
         "id": "8AuHYep9-r",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 275
-        }
-    },
-    "Lu_DRlvALb": {
-        "id": "Lu_DRlvALb",
-        "title": "Спин",
-        "author": "Роберт Уинсон",
-        "notes": "",
-        "createdAt": "2022-02-01 06:39:04",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 274
         }
     }
 }
