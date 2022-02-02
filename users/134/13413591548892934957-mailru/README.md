@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>304</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>305</sup>
 ---
 
 ## 2022
@@ -1535,6 +1535,11 @@
 ### Кладбище домашних животных
 Стивен Кинг
 > [2014-02-02] 
+
+
+### Вечера на хуторе близ Диканьки
+Николай Гоголь
+> [2014-02-01] 
 
 
 ### Тристан и Изольда
