@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>322</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>323</sup>
 ---
 
 ## 2022
@@ -1628,6 +1628,11 @@
 ### 1984
 Джордж Оруэлл
 > [2013-11-01] 
+
+
+### Вонгозеро
+Яна Вагнер
+> [2013-10-01] 
 
 
 ### Собор Парижской Богоматери
