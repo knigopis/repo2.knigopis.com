@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[emelindani](users/374/374393550-vkontakte)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>335</sup> 
 [Helly_Droid](users/104/104513622258012193866-google)<sup>1</sup> 
 [](users/118/118248226132797004598-google)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>14</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>10</sup> 
 [Kasatka](users/116/116127233176802148960-google)<sup>0</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>80</sup> 
 
 
-_02.02.2022 11:48:21_
+_02.02.2022 20:13:51_
