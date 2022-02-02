@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>329</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>330</sup>
 ---
 
 ## 2022
@@ -1668,6 +1668,11 @@
 ### Открытки с того света
 Франко Арминио
 > [2013-09-02] 
+
+
+### Идиот
+Федор Достоевский
+> [2013-09-01] 
 
 
 ### Еще одна из рода Болейн
