@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>355</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>356</sup>
 ---
 
 ## 2022
@@ -1783,6 +1783,11 @@
 ### Кому на Руси жить хорошо
 Николай Некрасов
 > [2013-05-01] 
+
+
+### Гордость и предубеждение
+Джейн Остин
+> [2013-04-05] 
 
 
 ### Отверженные
