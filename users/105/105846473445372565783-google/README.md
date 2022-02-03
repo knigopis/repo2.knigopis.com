@@ -5,7 +5,6 @@
 
 ### Nawałnica mieczy
 George R.R Martin
-> [2021-02-03] 
 
 
 ### Starcie królów
