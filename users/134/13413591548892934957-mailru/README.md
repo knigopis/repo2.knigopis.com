@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>338</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>339</sup>
 ---
 
 ## 2022
@@ -1678,6 +1678,11 @@
 ### Еще одна из рода Болейн
 Филиппа Грегори
 > [2013-09-01] 
+
+
+### Опасные связи
+Шодерло де Лакло
+> [2013-08-01] 
 
 
 ### Лолита
