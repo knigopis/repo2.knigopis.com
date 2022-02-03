@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>360</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>361</sup>
 ---
 
 ## 2022
@@ -1813,6 +1813,11 @@
 ### Каникулы
 Рэй Брэдбери
 > [2013-04-01] 
+
+
+### Тепло наших тел
+Айзек Марион
+> [2013-03-01] 
 
 
 ### 451 по Фаренгейту
