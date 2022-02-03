@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>409</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>410</sup>
 ---
 
 ## 2022
@@ -2056,6 +2056,11 @@
 ### Стезя смерти
 Надежда Попова
 > [2012-03-01] 
+
+
+### Мастер и Маргарита
+Михаил Булгаков
+> [2012-02-02] 
 
 
 ### Ловец человеков
