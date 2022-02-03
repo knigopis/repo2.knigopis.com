@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>369</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>370</sup>
 ---
 
 ## 2022
@@ -1868,6 +1868,11 @@
 ### Город стекла
 Кассандра Клэр
 > [2013-02-02] 
+
+
+### Город праха
+Кассандра Клэр
+> [2013-02-01] 
 
 
 ### Город падших ангелов
