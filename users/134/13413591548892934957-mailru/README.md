@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>387</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>388</sup>
 ---
 
 ## 2022
@@ -1961,6 +1961,11 @@
 ### Игра престолов
 Джордж Мартин
 > [2012-10-10] 
+
+
+### Звенит слава в Киеве
+Елена Озерецкая
+> [2012-10-01] 
 
 
 ### Обитатели холмов
