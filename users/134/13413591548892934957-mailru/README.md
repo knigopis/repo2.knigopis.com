@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>379</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>380</sup>
 ---
 
 ## 2022
@@ -1923,6 +1923,14 @@
 ### Враг
 Эрих Мария Ремарк
 > [2013-01-01] 
+
+
+
+## 2012
+
+### Утверждение правды
+Надежда Попова
+> [2012-12-01] 
 
 
 
