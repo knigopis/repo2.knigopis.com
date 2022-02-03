@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>410</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>411</sup>
 ---
 
 ## 2022
@@ -2080,6 +2080,11 @@
 
 
 ## 2011
+
+### Мертвые души
+Николай Гоголь
+> [2011-01-02] 
+
 
 ### Преступление и наказание
 Федор Достоевский
