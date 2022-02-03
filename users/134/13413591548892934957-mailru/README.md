@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>389</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>390</sup>
 ---
 
 ## 2022
@@ -1966,6 +1966,11 @@
 ### Пятнадцатилетний капитан
 Жюль Верн
 > [2012-10-08] 
+
+
+### Триумфальная арка
+Эрих Мария Ремарк
+> [2012-10-02] 
 
 
 ### Звенит слава в Киеве
