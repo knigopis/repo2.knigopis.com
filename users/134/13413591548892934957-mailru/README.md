@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>372</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>373</sup>
 ---
 
 ## 2022
@@ -1838,6 +1838,11 @@
 ### Портрет Дориана Грея
 Оскар Уальд
 > [2013-03-02] 
+
+
+### Старик, который читал любовные романы
+Луис Сепульведа
+> [2013-03-01] 
 
 
 ### Город потерянных душ
