@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>401</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>402</sup>
 ---
 
 ## 2022
@@ -2036,6 +2036,11 @@
 ### Ведущий в погибель
 Надежда Попова
 > [2012-05-01] 
+
+
+### Черный обелиск
+Эрих Мария Ремарк
+> [2012-04-01] 
 
 
 
