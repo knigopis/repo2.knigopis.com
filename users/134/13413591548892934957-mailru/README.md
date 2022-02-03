@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>374</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>375</sup>
 ---
 
 ## 2022
@@ -1868,6 +1868,11 @@
 ### Милые кости
 Элис Сиболд
 > [2013-03-01] 
+
+
+### Гостья
+Стефани Майер
+> [2013-02-02] 
 
 
 ### Вспоминая моих грустных шлюх
