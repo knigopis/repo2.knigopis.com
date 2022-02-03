@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>22</sup>
+# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>23</sup>
 ---
 
 ## 2022
+
+### Отверженные
+Гюго
+> [2022-02-03] 
+
 
 ### Крошка Доррит
 Диккенс
