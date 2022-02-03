@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>344</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>345</sup>
 ---
 
 ## 2022
@@ -1728,6 +1728,11 @@
 ### Хроники Нарнии. Последняя битва
 Клайв С. Льюис
 > [2013-08-01] 
+
+
+### Книжный вор
+Маркус Зусак
+> [2013-07-02] 
 
 
 ### Ребекка
