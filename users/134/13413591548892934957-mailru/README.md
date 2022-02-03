@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>385</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>386</sup>
 ---
 
 ## 2022
@@ -1956,6 +1956,11 @@
 ### Буря мячей
 Джордж Мартин
 > [2012-11-02] 
+
+
+### Игра престолов
+Джордж Мартин
+> [2012-10-10] 
 
 
 
