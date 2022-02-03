@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>350</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>351</sup>
 ---
 
 ## 2022
@@ -1778,6 +1778,11 @@
 ### Девяносто третий год
 Виктор Гюго
 > [2013-06-01] 
+
+
+### Кому на Руси жить хорошо
+Николай Некрасов
+> [2013-05-01] 
 
 
 
