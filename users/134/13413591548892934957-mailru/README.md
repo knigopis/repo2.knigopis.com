@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>375</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>376</sup>
 ---
 
 ## 2022
@@ -1838,6 +1838,11 @@
 ### Портрет Дориана Грея
 Оскар Уальд
 > [2013-03-02] 
+
+
+### Маскарад лжецов
+Карен Мейтленд
+> [2013-03-01] 
 
 
 ### Старик, который читал любовные романы
