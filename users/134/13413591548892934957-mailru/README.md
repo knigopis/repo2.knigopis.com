@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>347</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>348</sup>
 ---
 
 ## 2022
@@ -1758,6 +1758,11 @@
 ### Конь и его мальчик
 Клайв С. Льюис
 > [2013-07-01] 
+
+
+### А зори здесь тихие...
+Борис Васильев
+> [2013-06-01] 
 
 
 ### Девяносто третий год
