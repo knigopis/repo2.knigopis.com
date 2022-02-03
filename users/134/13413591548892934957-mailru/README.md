@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>371</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>372</sup>
 ---
 
 ## 2022
@@ -1863,6 +1863,11 @@
 ### Милые кости
 Элис Сиболд
 > [2013-03-01] 
+
+
+### Вспоминая моих грустных шлюх
+Габриэль Гарсия Маркес
+> [2013-02-02] 
 
 
 ### Город стекла
