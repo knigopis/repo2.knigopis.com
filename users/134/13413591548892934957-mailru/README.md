@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>381</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>382</sup>
 ---
 
 ## 2022
@@ -1927,6 +1927,11 @@
 
 
 ## 2012
+
+### Парфюмер
+Патрик Зюскинд
+> [2012-12-02] 
+
 
 ### Танец с драконами
 Джордж Мартин
