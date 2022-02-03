@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/732/73253763-yandex)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>23</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
 [](users/112/112196802816046333273-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
 [mica](users/103/103163807632858423947-google)<sup>1</sup> 
 [Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
-[Len4e91](users/254/254448176-yandex)<sup>14</sup> 
 
 
-_03.02.2022 20:12:27_
+_03.02.2022 23:52:38_
