@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>365</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>366</sup>
 ---
 
 ## 2022
@@ -1833,6 +1833,11 @@
 ### Монахиня
 Дени Дидро
 > [2013-03-03] 
+
+
+### Портрет Дориана Грея
+Оскар Уальд
+> [2013-03-02] 
 
 
 ### Тепло наших тел
