@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>356</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>357</sup>
 ---
 
 ## 2022
@@ -1793,6 +1793,11 @@
 ### Отверженные
 Виктор Гюго
 > [2013-04-04] 
+
+
+### Призрак оперы
+Гастон Леру
+> [2013-04-01] 
 
 
 ### Апрельское колдовство
