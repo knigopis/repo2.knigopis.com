@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>368</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>369</sup>
 ---
 
 ## 2022
@@ -1863,6 +1863,11 @@
 ### Милые кости
 Элис Сиболд
 > [2013-03-01] 
+
+
+### Город стекла
+Кассандра Клэр
+> [2013-02-02] 
 
 
 ### Город падших ангелов
