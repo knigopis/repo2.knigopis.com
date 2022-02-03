@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>399</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>400</sup>
 ---
 
 ## 2022
@@ -2021,6 +2021,11 @@
 ### Три товарища
 Эрих Мария Ремарк
 > [2012-07-02] 
+
+
+### Унесённые ветром
+Маргарет Митчелл
+> [2012-05-01] 
 
 
 ### Ведущий в погибель
