@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>382</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>383</sup>
 ---
 
 ## 2022
@@ -1927,6 +1927,11 @@
 
 
 ## 2012
+
+### Пир стервятников
+Джордж Мартин
+> [2012-12-08] 
+
 
 ### Парфюмер
 Патрик Зюскинд
