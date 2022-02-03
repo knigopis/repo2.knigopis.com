@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>197</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>198</sup>
 ---
 
 ## 2022
+
+### Капитаны песка
+Жоржи Амаду
+> [2022-02-03] 
+
 
 ### Ты свистни, тебя не заставлю долго ждать
 Монтегю Родс Джеймс
