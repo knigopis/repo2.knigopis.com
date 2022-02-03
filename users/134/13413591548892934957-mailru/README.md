@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>396</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>397</sup>
 ---
 
 ## 2022
@@ -2011,6 +2011,11 @@
 ### Возвращение
 Эрих Мария Ремарк
 > [2012-08-02] 
+
+
+### Три товарища
+Эрих Мария Ремарк
+> [2012-07-02] 
 
 
 
