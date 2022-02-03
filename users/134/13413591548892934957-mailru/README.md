@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>383</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>384</sup>
 ---
 
 ## 2022
@@ -1946,6 +1946,11 @@
 ### Утверждение правды
 Надежда Попова
 > [2012-12-01] 
+
+
+### Буря мячей
+Джордж Мартин
+> [2012-11-02] 
 
 
 
