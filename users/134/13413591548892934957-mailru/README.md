@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>405</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>406</sup>
 ---
 
 ## 2022
@@ -2041,6 +2041,11 @@
 ### Черный обелиск
 Эрих Мария Ремарк
 > [2012-04-01] 
+
+
+### Завтра была война
+Борис Васильев
+> [2012-03-02] 
 
 
 ### Стезя смерти
