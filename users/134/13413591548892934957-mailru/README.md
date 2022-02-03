@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>406</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>407</sup>
 ---
 
 ## 2022
@@ -2061,6 +2061,11 @@
 ### Сожженная заживо
 Суад
 > [2012-02-01] 
+
+
+### Возлюби ближнего своего
+Эрих Мария Ремарк
+> [2012-01-01] 
 
 
 
