@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>402</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>403</sup>
 ---
 
 ## 2022
@@ -2041,6 +2041,11 @@
 ### Черный обелиск
 Эрих Мария Ремарк
 > [2012-04-01] 
+
+
+### Стезя смерти
+Надежда Попова
+> [2012-03-01] 
 
 
 
