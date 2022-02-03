@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>364</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>365</sup>
 ---
 
 ## 2022
@@ -1823,6 +1823,11 @@
 ### Голодные игры
 Сьюзен Коллинз
 > [2013-03-08] 
+
+
+### Шоколад
+Джоан Харрис
+> [2013-03-05] 
 
 
 ### Монахиня
