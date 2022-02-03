@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>395</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>396</sup>
 ---
 
 ## 2022
@@ -1996,6 +1996,11 @@
 ### Таинственный рыцарь
 Джордж Мартин
 > [2012-09-02] 
+
+
+### Собака Баскервилей
+Артур Конан Дойль
+> [2012-08-07] 
 
 
 ### Межевой рыцарь
