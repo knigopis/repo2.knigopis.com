@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>407</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>408</sup>
 ---
 
 ## 2022
@@ -2036,6 +2036,11 @@
 ### Ведущий в погибель
 Надежда Попова
 > [2012-05-01] 
+
+
+### Как писать книги
+Стивен Кинг
+> [2012-04-02] 
 
 
 ### Черный обелиск

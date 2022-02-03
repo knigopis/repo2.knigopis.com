@@ -1,4 +1,16 @@
 {
+    "Q3XkxEafG2": {
+        "id": "Q3XkxEafG2",
+        "title": "Как писать книги",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-03 19:25:37",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 408
+        }
+    },
     "avo5eyO_Vv": {
         "id": "avo5eyO_Vv",
         "title": "Возлюби ближнего своего",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 379
-        }
-    },
-    "DLfWEUC6zm": {
-        "id": "DLfWEUC6zm",
-        "title": "Враг",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2022-02-03 15:52:43",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 378
         }
     }
 }
