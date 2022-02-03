@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>343</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>344</sup>
 ---
 
 ## 2022
@@ -1733,6 +1733,11 @@
 ### Ребекка
 Дафна Дюморье
 > [2013-07-02] 
+
+
+### Книжный вор
+Маркус Зусак
+> [2013-07-01] 
 
 
 ### Кэрри
