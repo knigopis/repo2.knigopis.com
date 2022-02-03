@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>348</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>349</sup>
 ---
 
 ## 2022
@@ -1758,6 +1758,11 @@
 ### Конь и его мальчик
 Клайв С. Льюис
 > [2013-07-01] 
+
+
+### Собачье сердце
+Михаил Булгаков
+> [2013-06-01] 
 
 
 ### А зори здесь тихие...
