@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>380</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>381</sup>
 ---
 
 ## 2022
@@ -1927,6 +1927,11 @@
 
 
 ## 2012
+
+### Танец с драконами
+Джордж Мартин
+> [2012-12-02] 
+
 
 ### Утверждение правды
 Надежда Попова
