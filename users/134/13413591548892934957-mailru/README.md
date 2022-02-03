@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>351</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>352</sup>
 ---
 
 ## 2022
@@ -1783,6 +1783,11 @@
 ### Кому на Руси жить хорошо
 Николай Некрасов
 > [2013-05-01] 
+
+
+### Отверженные
+Виктор Гюго
+> [2013-04-04] 
 
 
 
