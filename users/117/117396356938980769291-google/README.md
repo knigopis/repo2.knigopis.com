@@ -1,7 +1,12 @@
-# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>6</sup>
+# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>7</sup>
 ---
 
 ## 2022
+
+### Преодоление гордыни
+Сергей Лазарев
+> [2022-02-01] 
+
 
 ### Осознанность
 Раджниш Ошо
