@@ -1,4 +1,10 @@
 {
+    "548816179-vkontakte": {
+        "id": "548816179-vkontakte",
+        "nickname": "likoliko18",
+        "booksCount": 0,
+        "updatedAt": "2022-02-04 10:41:42"
+    },
     "73253763-yandex": {
         "id": "73253763-yandex",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "mica",
         "booksCount": 1,
         "updatedAt": "2022-01-22 18:17:31"
-    },
-    "3648522-vkontakte": {
-        "id": "3648522-vkontakte",
-        "nickname": "Oksi",
-        "booksCount": 0,
-        "updatedAt": "2022-01-22 08:24:52"
     }
 }
