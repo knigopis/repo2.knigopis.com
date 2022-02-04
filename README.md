@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
+    > audio
+
 * Академия истинной магии ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup>
     > Мечтать о поступлении в Академию? Бесполезно. Обойти родную сестру? Невероятно! Стать причиной ненависти своей семьи, потому что бастарда предпочли законной наследнице? Забавно! Уважаемый Совет Магов, да вы настоящие волшебники! Только почему не предупредили, что к счастливой доле адептки прилагается еще и жених, который искренне меня ненавидит? Ну ничего, я исправлю это досадное недоразумение и получу свободу. А моя "неправильная" магия обязательно поможет!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Шикарно
 
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
-    > 4*5
 
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
 
-* Темные церемонии. Тайный город ~ [Chiffi](users/105/105831994080785626680-google)<sup>319</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup> 
 [likoliko18](users/548/548816179-vkontakte)<sup>0</sup> 
 [](users/732/73253763-yandex)<sup>0</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>911</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>319</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup> 
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
 [mica](users/103/103163807632858423947-google)<sup>1</sup> 
 
 
-_04.02.2022 11:43:37_
+_04.02.2022 17:37:15_

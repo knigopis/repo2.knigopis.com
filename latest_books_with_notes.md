@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
 * Академия истинной магии ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup>
 * Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Гамлет ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup>
 * Общество анонимных кофеголиков ~ [albina_untiring](users/257/2579695-vkontakte)<sup>24</sup>
 * 15 секретов управления временем ~ [albina_untiring](users/257/2579695-vkontakte)<sup>23</sup>
-* Маленький принц ~ [Evermind](users/302/302928912-vkontakte)<sup>61</sup>
 
 
-_04.02.2022 11:43:37_
+_04.02.2022 17:37:15_
