@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[likoliko18](users/548/548816179-vkontakte)<sup>0</sup> 
 [](users/732/73253763-yandex)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>23</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup> 
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
 [mica](users/103/103163807632858423947-google)<sup>1</sup> 
-[Oksi](users/364/3648522-vkontakte)<sup>0</sup> 
 
 
-_03.02.2022 23:52:38_
+_04.02.2022 10:41:43_
