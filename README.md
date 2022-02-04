@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116776822404079644648-google)<sup>0</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>7</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>911</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>319</sup> 
 [SVTrojan](users/110/110093761859864893303-google)<sup>0</sup> 
-[mica](users/103/103163807632858423947-google)<sup>1</sup> 
 
 
-_04.02.2022 18:13:44_
+_04.02.2022 20:43:57_
