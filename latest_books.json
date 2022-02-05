@@ -1,4 +1,16 @@
 {
+    "gAB-37YNIl": {
+        "id": "gAB-37YNIl",
+        "title": "Иоланда, дочь чёрного корсара",
+        "author": "Эмилио Сальгари",
+        "notes": "",
+        "createdAt": "2022-02-05 14:39:09",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": null,
+            "booksCount": 27
+        }
+    },
     "F8e1A1GGHo": {
         "id": "F8e1A1GGHo",
         "title": "Чёрный корсар",
@@ -345,18 +357,6 @@
             "id": "86968033-vkontakte",
             "nickname": "Veydar",
             "booksCount": 1
-        }
-    },
-    "Xf1hU4Lnei": {
-        "id": "Xf1hU4Lnei",
-        "title": "Преодоление гордыни",
-        "author": "Сергей Лазарев",
-        "notes": "",
-        "createdAt": "2022-02-04 18:13:44",
-        "user": {
-            "id": "117396356938980769291-google",
-            "nickname": "Victoriaperfectum",
-            "booksCount": 7
         }
     }
 }

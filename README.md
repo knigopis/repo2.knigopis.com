@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/128/128917939-vkontakte)<sup>26</sup> 
+[](users/128/128917939-vkontakte)<sup>27</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>42</sup> 
 [](users/112/112324157790597450843-google)<sup>1</sup> 
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 
 
-_05.02.2022 14:38:29_
+_05.02.2022 14:39:09_
