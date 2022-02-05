@@ -1,4 +1,16 @@
 {
+    "F8e1A1GGHo": {
+        "id": "F8e1A1GGHo",
+        "title": "Чёрный корсар",
+        "author": "Эмилио Сальгари",
+        "notes": "",
+        "createdAt": "2022-02-05 14:38:29",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": null,
+            "booksCount": 26
+        }
+    },
     "zKMWsdtMGf": {
         "id": "zKMWsdtMGf",
         "title": "Гарри Поттер и Философский камень",
@@ -345,18 +357,6 @@
             "id": "117396356938980769291-google",
             "nickname": "Victoriaperfectum",
             "booksCount": 7
-        }
-    },
-    "5LV-G3OSsT": {
-        "id": "5LV-G3OSsT",
-        "title": "Вдали от обезумевшей толпы",
-        "author": "Томас Харди",
-        "notes": "audio",
-        "createdAt": "2022-02-04 17:37:15",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 51
         }
     }
 }
