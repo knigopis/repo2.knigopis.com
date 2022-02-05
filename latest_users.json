@@ -1,4 +1,10 @@
 {
+    "86968033-vkontakte": {
+        "id": "86968033-vkontakte",
+        "nickname": "Veydar",
+        "booksCount": 0,
+        "updatedAt": "2022-02-05 06:33:20"
+    },
     "116776822404079644648-google": {
         "id": "116776822404079644648-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 319,
         "updatedAt": "2022-01-23 17:49:48"
-    },
-    "110093761859864893303-google": {
-        "id": "110093761859864893303-google",
-        "nickname": "SVTrojan",
-        "booksCount": 0,
-        "updatedAt": "2022-01-23 14:54:19"
     }
 }
