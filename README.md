@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Veydar](users/869/86968033-vkontakte)<sup>0</sup> 
+[Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 [](users/116/116776822404079644648-google)<sup>0</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>7</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>319</sup> 
 
 
-_05.02.2022 06:33:20_
+_05.02.2022 06:41:38_
