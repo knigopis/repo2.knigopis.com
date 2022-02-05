@@ -1,4 +1,16 @@
 {
+    "lThrcK3wsW": {
+        "id": "lThrcK3wsW",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2022-02-05 15:01:49",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": null,
+            "booksCount": 37
+        }
+    },
     "G2SINNctow": {
         "id": "G2SINNctow",
         "title": "Казни дьявольского акра. Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": null,
             "booksCount": 8
-        }
-    },
-    "FLiXU7Urat": {
-        "id": "FLiXU7Urat",
-        "title": "Ангелы и демоны",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2022-02-05 14:20:41",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }
