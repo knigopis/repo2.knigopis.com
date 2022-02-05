@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трое в лодке, не считая собаки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup>
+    > audio
+
 * Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мечтать о поступлении в Академию? Бесполезно. Обойти родную сестру? Невероятно! Стать причиной ненависти своей семьи, потому что бастарда предпочли законной наследнице? Забавно! Уважаемый Совет Магов, да вы настоящие волшебники! Только почему не предупредили, что к счастливой доле адептки прилагается еще и жених, который искренне меня ненавидит? Ну ничего, я исправлю это досадное недоразумение и получу свободу. А моя "неправильная" магия обязательно поможет!
 
 * Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
-    > Шикарно
 
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
 
-* Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup> 
 [](users/128/128917939-vkontakte)<sup>58</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>42</sup> 
 [](users/112/112324157790597450843-google)<sup>1</sup> 
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 [](users/116/116776822404079644648-google)<sup>0</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>7</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup> 
 [likoliko18](users/548/548816179-vkontakte)<sup>0</sup> 
 [](users/732/73253763-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 
 
-_05.02.2022 15:47:47_
+_05.02.2022 19:38:09_
