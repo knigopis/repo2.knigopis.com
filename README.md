@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>42</sup> 
 [](users/112/112324157790597450843-google)<sup>1</sup> 
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 [](users/116/116776822404079644648-google)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>63</sup> 
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>41</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>136</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>179</sup> 
 [eva](users/111/111656270551033014778-google)<sup>113</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>911</sup> 
 
 
-_05.02.2022 10:49:20_
+_05.02.2022 12:36:57_

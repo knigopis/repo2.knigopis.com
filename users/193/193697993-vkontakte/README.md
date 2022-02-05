@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>41</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>42</sup>
 ---
 
 ## 2022
+
+### Как найти королеву Академии?
+Анна Одувалова
+> [2022-02-05] 
+
 
 ### Академия трёх сил
 Анна Мичи
