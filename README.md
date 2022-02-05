@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112324157790597450843-google)<sup>0</sup> 
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 [](users/116/116776822404079644648-google)<sup>0</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>911</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>319</sup> 
 
 
-_05.02.2022 06:41:38_
+_05.02.2022 10:48:11_
