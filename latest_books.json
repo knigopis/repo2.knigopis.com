@@ -1,4 +1,16 @@
 {
+    "mu5pS1RjPG": {
+        "id": "mu5pS1RjPG",
+        "title": "Вокруг света за 80 дней",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2022-02-05 14:29:31",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "7w7Gr9TREU": {
         "id": "7w7Gr9TREU",
         "title": "Избранные произведения",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 407
-        }
-    },
-    "UCPYxCyJHI": {
-        "id": "UCPYxCyJHI",
-        "title": "Завтра была война",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2022-02-03 19:24:09",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 406
         }
     }
 }
