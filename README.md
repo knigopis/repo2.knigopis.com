@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/128/128917939-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>42</sup> 
 [](users/112/112324157790597450843-google)<sup>1</sup> 
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
 [LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>911</sup> 
 
 
-_05.02.2022 12:36:57_
+_05.02.2022 14:00:34_
