@@ -1,4 +1,16 @@
 {
+    "mBgqKWP0aC": {
+        "id": "mBgqKWP0aC",
+        "title": "Приключения Тома Сойера",
+        "author": "Марк Твен",
+        "notes": "",
+        "createdAt": "2022-02-05 14:26:50",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "tITWvMtJSH": {
         "id": "tITWvMtJSH",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 404
-        }
-    },
-    "KbM5d_WJeN": {
-        "id": "KbM5d_WJeN",
-        "title": "Стезя смерти",
-        "author": "Надежда Попова",
-        "notes": "",
-        "createdAt": "2022-02-03 19:22:32",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 403
         }
     }
 }
