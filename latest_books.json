@@ -1,4 +1,16 @@
 {
+    "7w7Gr9TREU": {
+        "id": "7w7Gr9TREU",
+        "title": "Избранные произведения",
+        "author": "Михаил Зощенко",
+        "notes": "",
+        "createdAt": "2022-02-05 14:28:33",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "hMNZho4DWw": {
         "id": "hMNZho4DWw",
         "title": "Белый клык",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 406
-        }
-    },
-    "O9DzimxMN-": {
-        "id": "O9DzimxMN-",
-        "title": "Ловец человеков",
-        "author": "Надежда Попова",
-        "notes": "",
-        "createdAt": "2022-02-03 19:23:36",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 405
         }
     }
 }
