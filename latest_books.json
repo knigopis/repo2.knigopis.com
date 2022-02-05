@@ -1,4 +1,16 @@
 {
+    "Anfn7fMmZx": {
+        "id": "Anfn7fMmZx",
+        "title": "20 тысяч лье под водой",
+        "author": "Жуль Верн",
+        "notes": "",
+        "createdAt": "2022-02-05 14:30:34",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "mu5pS1RjPG": {
         "id": "mu5pS1RjPG",
         "title": "Вокруг света за 80 дней",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 408
-        }
-    },
-    "avo5eyO_Vv": {
-        "id": "avo5eyO_Vv",
-        "title": "Возлюби ближнего своего",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2022-02-03 19:24:37",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 407
         }
     }
 }
