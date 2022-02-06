@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mex2010](users/165/165757300-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>43</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>196</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>179</sup> 
 [eva](users/111/111656270551033014778-google)<sup>113</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
-[Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
 
 
-_06.02.2022 18:38:51_
+_06.02.2022 20:33:51_
