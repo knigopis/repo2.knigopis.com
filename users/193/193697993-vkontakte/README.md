@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>42</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>43</sup>
 ---
 
 ## 2022
+
+### Как стать королевой Академии?
+Анна Одувалова
+> [2022-02-06] 
+
 
 ### Как найти королеву Академии?
 Анна Одувалова
