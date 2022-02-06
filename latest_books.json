@@ -1,4 +1,16 @@
 {
+    "X1tfFj662k": {
+        "id": "X1tfFj662k",
+        "title": "Ездовой гном",
+        "author": "",
+        "notes": "",
+        "createdAt": "2022-02-06 20:38:35",
+        "user": {
+            "id": "165757300-vkontakte",
+            "nickname": "mex2010",
+            "booksCount": 1
+        }
+    },
     "_oAqfWoXfp": {
         "id": "_oAqfWoXfp",
         "title": "У меня нет рта, а я хочу кричать.",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": null,
             "booksCount": 37
-        }
-    },
-    "G2SINNctow": {
-        "id": "G2SINNctow",
-        "title": "Казни дьявольского акра. Дом странных детей",
-        "author": "Ренсом Риггз",
-        "notes": "Как порадовал конец. Битва наполняла эмоциями \nИстория длившиеся 6,5 лет закончилась",
-        "createdAt": "2022-02-05 14:51:20",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": null,
-            "booksCount": 36
         }
     }
 }
