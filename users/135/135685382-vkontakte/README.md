@@ -1,7 +1,12 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>17</sup>
+# List of books read by [tumturumk](http://vk.com/id135685382)<sup>18</sup>
 ---
 
 ## 2022
+
+### У меня нет рта, а я хочу кричать.
+Харлан Эллисон
+> [2022-02-06] 
+
 
 ### Колыбель для кошки
 Купи Воннегут
