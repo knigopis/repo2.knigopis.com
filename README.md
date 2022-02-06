@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>196</sup> 
 [](users/118/118248226132797004598-google)<sup>24</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112324157790597450843-google)<sup>1</sup> 
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 [](users/116/116776822404079644648-google)<sup>0</sup> 
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>7</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup> 
 [likoliko18](users/548/548816179-vkontakte)<sup>0</sup> 
 [](users/732/73253763-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
 
 
-_06.02.2022 11:34:20_
+_06.02.2022 15:26:23_
