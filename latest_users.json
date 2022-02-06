@@ -1,4 +1,10 @@
 {
+    "165757300-vkontakte": {
+        "id": "165757300-vkontakte",
+        "nickname": "mex2010",
+        "booksCount": 0,
+        "updatedAt": "2022-02-06 20:33:51"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 108,
         "updatedAt": "2022-01-24 16:54:19"
-    },
-    "115304758208163915085-google": {
-        "id": "115304758208163915085-google",
-        "nickname": "Gooddoram",
-        "booksCount": 3,
-        "updatedAt": "2022-01-24 03:37:31"
     }
 }
