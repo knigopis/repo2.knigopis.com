@@ -1,4 +1,10 @@
 {
+    "118248226132797004598-google": {
+        "id": "118248226132797004598-google",
+        "nickname": null,
+        "booksCount": 25,
+        "updatedAt": "2022-02-06 22:03:52"
+    },
     "165757300-vkontakte": {
         "id": "165757300-vkontakte",
         "nickname": "mex2010",
@@ -28,12 +34,6 @@
         "nickname": "exulted",
         "booksCount": 196,
         "updatedAt": "2022-02-06 11:34:20"
-    },
-    "118248226132797004598-google": {
-        "id": "118248226132797004598-google",
-        "nickname": null,
-        "booksCount": 24,
-        "updatedAt": "2022-02-06 01:16:49"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
