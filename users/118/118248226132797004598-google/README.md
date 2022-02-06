@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>25</sup>
+# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>26</sup>
 ---
 
 ## 2022
+
+### Гобсек
+Бальзак
+> [2022-02-07] 
+
 
 ### Шагреневая кожа
 Бальзак
