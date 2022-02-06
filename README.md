@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>195</sup> 
 [](users/118/118248226132797004598-google)<sup>24</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup> 
 [](users/128/128917939-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eva](users/111/111656270551033014778-google)<sup>113</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
 [Gooddoram](users/115/115304758208163915085-google)<sup>3</sup> 
-[LeraMilova](users/196/196970139-vkontakte)<sup>0</sup> 
 
 
-_06.02.2022 01:16:49_
+_06.02.2022 11:34:02_

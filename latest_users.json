@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 195,
+        "updatedAt": "2022-02-06 11:34:02"
+    },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Gooddoram",
         "booksCount": 3,
         "updatedAt": "2022-01-24 03:37:31"
-    },
-    "196970139-vkontakte": {
-        "id": "196970139-vkontakte",
-        "nickname": "LeraMilova",
-        "booksCount": 0,
-        "updatedAt": "2022-01-23 23:41:03"
     }
 }
