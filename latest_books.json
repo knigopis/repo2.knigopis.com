@@ -1,4 +1,16 @@
 {
+    "euo4lGIXux": {
+        "id": "euo4lGIXux",
+        "title": "Отец Горио",
+        "author": "Бальзак",
+        "notes": "",
+        "createdAt": "2022-02-06 01:16:49",
+        "user": {
+            "id": "118248226132797004598-google",
+            "nickname": null,
+            "booksCount": 24
+        }
+    },
     "VcizanSzEq": {
         "id": "VcizanSzEq",
         "title": "Трое в лодке, не считая собаки",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": null,
             "booksCount": 31
-        }
-    },
-    "XIX86Yq2g3": {
-        "id": "XIX86Yq2g3",
-        "title": "Поколение справедливости",
-        "author": "Ив Престон",
-        "notes": "На одном дыхании",
-        "createdAt": "2022-02-05 14:42:52",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": null,
-            "booksCount": 30
         }
     }
 }
