@@ -1,4 +1,10 @@
 {
+    "5187751214622773-facebook": {
+        "id": "5187751214622773-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-02-07 21:23:18"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tumturumk",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 136,
         "updatedAt": "2022-01-24 22:57:57"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 179,
-        "updatedAt": "2022-01-24 19:05:47"
     }
 }
