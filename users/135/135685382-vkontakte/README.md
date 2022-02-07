@@ -1,7 +1,12 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>18</sup>
+# List of books read by [tumturumk](http://vk.com/id135685382)<sup>19</sup>
 ---
 
 ## 2022
+
+### Маленький принц
+Антуан Сент Де Экзюпери
+> [2022-02-07] 
+
 
 ### У меня нет рта, а я хочу кричать.
 Харлан Эллисон
