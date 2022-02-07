@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/100/100571611092013018122-google)<sup>0</sup> 
 [](users/105/105846473445372565783-google)<sup>7</sup> 
 [](users/118/118248226132797004598-google)<sup>26</sup> 
 [mex2010](users/165/165757300-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>136</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>179</sup> 
 [eva](users/111/111656270551033014778-google)<sup>113</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
 
 
-_07.02.2022 01:06:42_
+_07.02.2022 07:32:14_
