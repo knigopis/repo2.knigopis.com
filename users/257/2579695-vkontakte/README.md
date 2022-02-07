@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>26</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>27</sup>
 ---
 
 ## 2022
+
+### Стань себе родителем: как исцелить своего внутреннего ребенка
+Чжен Йен Кан
+> [2022-02-07] просто и легко читается, все по делу
+
 
 ### Достаточно хорошая
 Кэрил Макбрайд

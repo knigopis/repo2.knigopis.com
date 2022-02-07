@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стань себе родителем: как исцелить своего внутреннего ребенка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup>
+    > просто и легко читается, все по делу
+
 * Трое в лодке, не считая собаки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Академия истинной магии ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup>
-    > Мечтать о поступлении в Академию? Бесполезно. Обойти родную сестру? Невероятно! Стать причиной ненависти своей семьи, потому что бастарда предпочли законной наследнице? Забавно! Уважаемый Совет Магов, да вы настоящие волшебники! Только почему не предупредили, что к счастливой доле адептки прилагается еще и жених, который искренне меня ненавидит? Ну ничего, я исправлю это досадное недоразумение и получу свободу. А моя "неправильная" магия обязательно поможет!
 
 * Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
 
-* Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>27</sup> 
 [](users/100/100571611092013018122-google)<sup>0</sup> 
 [](users/105/105846473445372565783-google)<sup>7</sup> 
 [](users/118/118248226132797004598-google)<sup>26</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>136</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>179</sup> 
-[eva](users/111/111656270551033014778-google)<sup>113</sup> 
 
 
-_07.02.2022 07:32:14_
+_07.02.2022 12:14:28_
