@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105846473445372565783-google)<sup>5</sup> 
 [](users/118/118248226132797004598-google)<sup>26</sup> 
 [mex2010](users/165/165757300-vkontakte)<sup>1</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>18</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/732/73253763-yandex)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
 [](users/112/112196802816046333273-google)<sup>0</sup> 
-[](users/105/105846473445372565783-google)<sup>4</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>198</sup> 
 [emelindani](users/374/374393550-vkontakte)<sup>0</sup> 
 [Helly_Droid](users/104/104513622258012193866-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>108</sup> 
 
 
-_06.02.2022 23:44:18_
+_07.02.2022 01:05:53_
