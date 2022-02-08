@@ -1,7 +1,12 @@
-# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>8</sup>
+# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>9</sup>
 ---
 
 ## 2022
+
+### The Body Book
+Cameron Diaz
+> [2022-02-06] 
+
 
 ### Olive Kitteridge
 Elizabeth Strout
