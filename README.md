@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Танечка ~ [tumturumk](users/135/135685382-vkontakte)<sup>22</sup>
+    > Пёсика жалко. 7/10
+
 * Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
     > 6/10 история о выживании религиозного еврея в совке.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > просто и легко читается, все по делу
 
 * Трое в лодке, не считая собаки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup>
-    > audio
 
 * Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
 
-* Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[tumturumk](users/135/135685382-vkontakte)<sup>21</sup> 
+[tumturumk](users/135/135685382-vkontakte)<sup>22</sup> 
 [koshkina_mamka](users/300/300774210513744-facebook)<sup>2</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>9</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 
 
-_08.02.2022 14:54:58_
+_08.02.2022 21:19:39_

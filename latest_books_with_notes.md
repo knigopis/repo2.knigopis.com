@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Танечка ~ [tumturumk](users/135/135685382-vkontakte)<sup>22</sup>
 * Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
 * Стань себе родителем: как исцелить своего внутреннего ребенка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup>
 * Трое в лодке, не считая собаки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Массовые нарушения прав человека в ходе конфликта на Украине. 2013-2014 ~ [danyluk62](users/374/374149854-vkontakte)<sup>128</sup>
 * Живые люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup>
 * 15 мифов и правда о Донецко-Криворожской Республике ~ [danyluk62](users/374/374149854-vkontakte)<sup>126</sup>
-* Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
 
 
-_08.02.2022 06:36:38_
+_08.02.2022 21:19:39_
