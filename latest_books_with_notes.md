@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
 * Стань себе родителем: как исцелить своего внутреннего ребенка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup>
 * Трое в лодке, не считая собаки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup>
 * Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
@@ -30,7 +31,6 @@
 * Живые люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup>
 * 15 мифов и правда о Донецко-Криворожской Республике ~ [danyluk62](users/374/374149854-vkontakte)<sup>126</sup>
 * Пятнадцатилетний капитан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>234</sup>
-* Гамлет ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>233</sup>
 
 
-_07.02.2022 12:14:28_
+_08.02.2022 06:36:38_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>236</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>237</sup>
 ---
 
 ## 2022
+
+### Чтобы ты остался евреем
+Рав Ицхак Зильбер
+> [2022-02-08] 6/10 история о выживании религиозного еврея в совке.
+
 
 ### Храброе сердце Ирены Сендлер
 Джек Майер

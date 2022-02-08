@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
+    > 6/10 история о выживании религиозного еврея в совке.
+
 * Стань себе родителем: как исцелить своего внутреннего ребенка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup>
     > просто и легко читается, все по делу
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
-    > audio
 
 * Академия истинной магии ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
 
-* Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup> 
 [](users/118/118248226132797004598-google)<sup>27</sup> 
 [](users/518/5187751214622773-facebook)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>20</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Helly_Droid](users/104/104513622258012193866-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>306</sup> 
 [Mari](users/990/9903107-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup> 
 [](users/153/1537586159620888-facebook)<sup>63</sup> 
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>136</sup> 
 
 
-_07.02.2022 22:08:36_
+_08.02.2022 06:36:38_
