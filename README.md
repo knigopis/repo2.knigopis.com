@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>21</sup> 
 [koshkina_mamka](users/300/300774210513744-facebook)<sup>2</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>9</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup> 
 [](users/118/118248226132797004598-google)<sup>27</sup> 
 [](users/518/5187751214622773-facebook)<sup>0</sup> 
-[tumturumk](users/135/135685382-vkontakte)<sup>20</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup> 
 [](users/100/100571611092013018122-google)<sup>0</sup> 
 [](users/105/105846473445372565783-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 
 
-_08.02.2022 12:45:40_
+_08.02.2022 14:54:58_
