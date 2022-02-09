@@ -1,4 +1,16 @@
 {
+    "Zzg975IXKd": {
+        "id": "Zzg975IXKd",
+        "title": "7 шагов к стабильной самооценке",
+        "author": "Литвак Борис Михайлович",
+        "notes": "",
+        "createdAt": "2022-02-09 19:33:43",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 23
+        }
+    },
     "xFACwgq3nz": {
         "id": "xFACwgq3nz",
         "title": "Танечка",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": null,
             "booksCount": 53
-        }
-    },
-    "BG-8IJtJr8": {
-        "id": "BG-8IJtJr8",
-        "title": "Дом в котором",
-        "author": "Мариам Петросян",
-        "notes": "Подарок 3х книг от Артура Серебрякова (глава клана UTMTLL).\nНевероятная история, вроде простая,а вроде нет",
-        "createdAt": "2022-02-05 15:24:02",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": null,
-            "booksCount": 52
         }
     }
 }

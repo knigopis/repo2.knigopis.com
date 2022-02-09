@@ -1,7 +1,12 @@
-# List of books read by [tumturumk](http://vk.com/id135685382)<sup>22</sup>
+# List of books read by [tututu](http://vk.com/id135685382)<sup>23</sup>
 ---
 
 ## 2022
+
+### 7 шагов к стабильной самооценке
+Литвак Борис Михайлович
+> [2022-02-09] 
+
 
 ### Танечка
 Андрей Неклюдов
