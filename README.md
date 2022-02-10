@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
+[Euphoria](users/106/106304994652616315178-google)<sup>87</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>44</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>23</sup> 
 [koshkina_mamka](users/300/300774210513744-facebook)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
 
 
-_10.02.2022 11:59:07_
+_10.02.2022 11:59:53_
