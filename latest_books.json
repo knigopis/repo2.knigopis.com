@@ -1,4 +1,16 @@
 {
+    "1NlyqCCIGs": {
+        "id": "1NlyqCCIGs",
+        "title": "Ядовитая",
+        "author": "Анна Одувалова",
+        "notes": "",
+        "createdAt": "2022-02-10 08:06:30",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 44
+        }
+    },
     "Zzg975IXKd": {
         "id": "Zzg975IXKd",
         "title": "7 шагов к стабильной самооценке",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": null,
             "booksCount": 54
-        }
-    },
-    "TPICPfp0H1": {
-        "id": "TPICPfp0H1",
-        "title": "Друзья, больше,чем просто сериал",
-        "author": "Келси Миллер",
-        "notes": "",
-        "createdAt": "2022-02-05 15:36:35",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": null,
-            "booksCount": 53
         }
     }
 }

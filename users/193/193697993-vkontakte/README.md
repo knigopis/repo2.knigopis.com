@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>43</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>44</sup>
 ---
 
 ## 2022
+
+### Ядовитая
+Анна Одувалова
+> [2022-02-10] 
+
 
 ### Как стать королевой Академии?
 Анна Одувалова
