@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 85,
+        "updatedAt": "2022-02-10 11:57:43"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": "RubyLogan",
         "booksCount": 1,
         "updatedAt": "2022-01-27 10:07:45"
-    },
-    "5175580462988229760-mailru": {
-        "id": "5175580462988229760-mailru",
-        "nickname": "Triste",
-        "booksCount": 51,
-        "updatedAt": "2022-01-27 06:17:49"
     }
 }

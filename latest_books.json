@@ -1,4 +1,16 @@
 {
+    "euFJ3p05AY": {
+        "id": "euFJ3p05AY",
+        "title": "Тысяча и один призрак",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2022-02-10 11:57:43",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 85
+        }
+    },
     "1NlyqCCIGs": {
         "id": "1NlyqCCIGs",
         "title": "Ядовитая",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": null,
             "booksCount": 55
-        }
-    },
-    "d_frsnG04K": {
-        "id": "d_frsnG04K",
-        "title": "Куриный бульон для души 101 вдохновляющая история",
-        "author": "Эми Ньюмарк",
-        "notes": "",
-        "createdAt": "2022-02-05 15:43:02",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": null,
-            "booksCount": 54
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>85</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>44</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>23</sup> 
 [koshkina_mamka](users/300/300774210513744-facebook)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mari](users/990/9903107-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>63</sup> 
 [RubyLogan](users/112/112596494931263806964-google)<sup>1</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>51</sup> 
 
 
-_10.02.2022 08:06:30_
+_10.02.2022 11:57:43_
