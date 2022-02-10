@@ -1,4 +1,16 @@
 {
+    "MMd8qg9r2d": {
+        "id": "MMd8qg9r2d",
+        "title": "Дорогой Джон",
+        "author": "Николас Спаркс",
+        "notes": "",
+        "createdAt": "2022-02-10 11:59:07",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 86
+        }
+    },
     "euFJ3p05AY": {
         "id": "euFJ3p05AY",
         "title": "Тысяча и один призрак",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": null,
             "booksCount": 56
-        }
-    },
-    "lpEEURB7Qx": {
-        "id": "lpEEURB7Qx",
-        "title": "Зов кукушки",
-        "author": "Роберт Гэлбрейт",
-        "notes": "",
-        "createdAt": "2022-02-05 15:46:19",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": null,
-            "booksCount": 55
         }
     }
 }
