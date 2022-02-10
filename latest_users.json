@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 180,
+        "updatedAt": "2022-02-10 14:05:48"
+    },
     "1474026082-yandex": {
         "id": "1474026082-yandex",
         "nickname": "muzyha",
@@ -172,11 +178,5 @@
         "nickname": "Mari",
         "booksCount": 0,
         "updatedAt": "2022-01-30 13:48:44"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 63,
-        "updatedAt": "2022-01-28 02:04:29"
     }
 }

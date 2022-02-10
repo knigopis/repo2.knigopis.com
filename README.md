@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>180</sup> 
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Helly_Droid](users/104/104513622258012193866-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>306</sup> 
 [Mari](users/990/9903107-vkontakte)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>63</sup> 
 
 
-_10.02.2022 13:33:17_
+_10.02.2022 14:05:48_

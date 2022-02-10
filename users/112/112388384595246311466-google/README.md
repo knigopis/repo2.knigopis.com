@@ -1,7 +1,12 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>179</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>180</sup>
 ---
 
 ## 2022
+
+### Цири
+Анджей Сапковский
+> [2022-02-10] 
+
 
 ### Геральт
 Анджей Сапковский
