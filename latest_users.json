@@ -1,4 +1,10 @@
 {
+    "1474026082-yandex": {
+        "id": "1474026082-yandex",
+        "nickname": "muzyha",
+        "booksCount": 0,
+        "updatedAt": "2022-02-10 13:33:17"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 63,
         "updatedAt": "2022-01-28 02:04:29"
-    },
-    "112596494931263806964-google": {
-        "id": "112596494931263806964-google",
-        "nickname": "RubyLogan",
-        "booksCount": 1,
-        "updatedAt": "2022-01-27 10:07:45"
     }
 }
