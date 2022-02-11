@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>44</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>45</sup>
 ---
 
 ## 2022
+
+### Дерзкая
+Анна Одувалова
+> [2022-02-12] 
+
 
 ### Ядовитая
 Анна Одувалова
