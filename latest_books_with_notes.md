@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Великая грешница или черница по неволи ~ [mfevralev](users/140/140966150-vkontakte)<sup>55</sup>
 * Служба Донских казаков выпуск 11 ~ [mfevralev](users/140/140966150-vkontakte)<sup>54</sup>
 * Танечка ~ [tumturumk](users/135/135685382-vkontakte)<sup>22</sup>
 * Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
@@ -30,7 +31,6 @@
 * Академия Равновесия. Рожденная светом. #1 ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>127</sup>
 * Исповедь боевика. Откровения добровольца ~ [danyluk62](users/374/374149854-vkontakte)<sup>129</sup>
 * Массовые нарушения прав человека в ходе конфликта на Украине. 2013-2014 ~ [danyluk62](users/374/374149854-vkontakte)<sup>128</sup>
-* Живые люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>235</sup>
 
 
-_11.02.2022 12:00:37_
+_11.02.2022 12:02:25_

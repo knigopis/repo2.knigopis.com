@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Великая грешница или черница по неволи ~ [mfevralev](users/140/140966150-vkontakte)<sup>55</sup>
+    > Роман не о чем.
+
 * Служба Донских казаков выпуск 11 ~ [mfevralev](users/140/140966150-vkontakte)<sup>54</sup>
     > Дело о поголовном походе донских казаков-стр 77 именной полк Ивана Пантелеева 27.сентября 1787 г хорунжий станицы Терновской Исай Февралев-3 лошади и пара пистолей.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Пёсика жалко. 7/10
 
 * Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
-    > 6/10 история о выживании религиозного еврея в совке.
 
 * Стань себе родителем: как исцелить своего внутреннего ребенка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
 
-* Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mfevralev](users/140/140966150-vkontakte)<sup>54</sup> 
+[mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>912</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>180</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [emelindani](users/374/374393550-vkontakte)<sup>0</sup> 
 
 
-_11.02.2022 12:00:37_
+_11.02.2022 12:02:25_
