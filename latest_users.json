@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 54,
+        "updatedAt": "2022-02-11 12:00:37"
+    },
     "118345575217167707584-google": {
         "id": "118345575217167707584-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "emelindani",
         "booksCount": 0,
         "updatedAt": "2022-02-02 20:13:51"
-    },
-    "104513622258012193866-google": {
-        "id": "104513622258012193866-google",
-        "nickname": "Helly_Droid",
-        "booksCount": 1,
-        "updatedAt": "2022-02-01 12:56:12"
     }
 }

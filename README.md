@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Служба Донских казаков выпуск 11 ~ [mfevralev](users/140/140966150-vkontakte)<sup>54</sup>
+    > Дело о поголовном походе донских казаков-стр 77 именной полк Ивана Пантелеева 27.сентября 1787 г хорунжий станицы Терновской Исай Февралев-3 лошади и пара пистолей.
+
 * Танечка ~ [tumturumk](users/135/135685382-vkontakte)<sup>22</sup>
     > Пёсика жалко. 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 история о выживании религиозного еврея в совке.
 
 * Стань себе родителем: как исцелить своего внутреннего ребенка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup>
-    > просто и легко читается, все по делу
 
 * Трое в лодке, не считая собаки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 
-* The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>54</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>912</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>180</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112196802816046333273-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>198</sup> 
 [emelindani](users/374/374393550-vkontakte)<sup>0</sup> 
-[Helly_Droid](users/104/104513622258012193866-google)<sup>1</sup> 
 
 
-_11.02.2022 09:21:11_
+_11.02.2022 12:00:37_
