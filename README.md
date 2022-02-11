@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118345575217167707584-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>912</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>180</sup> 
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>198</sup> 
 [emelindani](users/374/374393550-vkontakte)<sup>0</sup> 
 [Helly_Droid](users/104/104513622258012193866-google)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>306</sup> 
 
 
-_10.02.2022 22:06:06_
+_11.02.2022 09:21:11_
