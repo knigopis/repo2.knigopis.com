@@ -1,4 +1,16 @@
 {
+    "-mkfF9YnvW": {
+        "id": "-mkfF9YnvW",
+        "title": "Темная башня: Бесплодные земли",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:13:28",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "PRZmzMDpIt": {
         "id": "PRZmzMDpIt",
         "title": "Темная башня: Извлечение Троих",
@@ -345,18 +357,6 @@
             "id": "118248226132797004598-google",
             "nickname": null,
             "booksCount": 25
-        }
-    },
-    "X1tfFj662k": {
-        "id": "X1tfFj662k",
-        "title": "Ездовой гном",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-02-06 20:38:35",
-        "user": {
-            "id": "165757300-vkontakte",
-            "nickname": "mex2010",
-            "booksCount": 1
         }
     }
 }
