@@ -1,4 +1,16 @@
 {
+    "8ykjNBFooC": {
+        "id": "8ykjNBFooC",
+        "title": "Люди зимы",
+        "author": "Дженифер Макмахон",
+        "notes": "",
+        "createdAt": "2022-02-12 21:22:55",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "v5ZFONFE2H": {
         "id": "v5ZFONFE2H",
         "title": "Молчание",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 85
-        }
-    },
-    "1NlyqCCIGs": {
-        "id": "1NlyqCCIGs",
-        "title": "Ядовитая",
-        "author": "Анна Одувалова",
-        "notes": "",
-        "createdAt": "2022-02-10 08:06:30",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 44
         }
     }
 }
