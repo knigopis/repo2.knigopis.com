@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>24</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>45</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>180</sup> 
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>23</sup> 
 [koshkina_mamka](users/300/300774210513744-facebook)<sup>2</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>9</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [emelindani](users/374/374393550-vkontakte)<sup>0</sup> 
 
 
-_11.02.2022 23:05:01_
+_12.02.2022 09:36:46_
