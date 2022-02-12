@@ -1,4 +1,16 @@
 {
+    "IzWwjl6ViS": {
+        "id": "IzWwjl6ViS",
+        "title": "Темная башня: Стрелок",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:12:07",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "pDIEIB9TOq": {
         "id": "pDIEIB9TOq",
         "title": "Мертвая зона",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 18
-        }
-    },
-    "yXpHoQPfOz": {
-        "id": "yXpHoQPfOz",
-        "title": "Как стать королевой Академии?",
-        "author": "Анна Одувалова",
-        "notes": "",
-        "createdAt": "2022-02-06 18:38:51",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 43
         }
     }
 }
