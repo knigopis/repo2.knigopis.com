@@ -1,4 +1,16 @@
 {
+    "v5ZFONFE2H": {
+        "id": "v5ZFONFE2H",
+        "title": "Молчание",
+        "author": "Дженифер Макмахон",
+        "notes": "",
+        "createdAt": "2022-02-12 21:22:29",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "68XQ_sx0_0": {
         "id": "68XQ_sx0_0",
         "title": "Неадекват",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 44
-        }
-    },
-    "Zzg975IXKd": {
-        "id": "Zzg975IXKd",
-        "title": "7 шагов к стабильной самооценке",
-        "author": "Литвак Борис Михайлович",
-        "notes": "",
-        "createdAt": "2022-02-09 19:33:43",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
-            "booksCount": 23
         }
     }
 }
