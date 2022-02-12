@@ -1,4 +1,16 @@
 {
+    "PRZmzMDpIt": {
+        "id": "PRZmzMDpIt",
+        "title": "Темная башня: Извлечение Троих",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:12:50",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "IzWwjl6ViS": {
         "id": "IzWwjl6ViS",
         "title": "Темная башня: Стрелок",
@@ -345,18 +357,6 @@
             "id": "165757300-vkontakte",
             "nickname": "mex2010",
             "booksCount": 1
-        }
-    },
-    "_oAqfWoXfp": {
-        "id": "_oAqfWoXfp",
-        "title": "У меня нет рта, а я хочу кричать.",
-        "author": "Харлан Эллисон",
-        "notes": "",
-        "createdAt": "2022-02-06 20:37:06",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tumturumk",
-            "booksCount": 18
         }
     }
 }
