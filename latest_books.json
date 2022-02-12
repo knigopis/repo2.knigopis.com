@@ -1,4 +1,16 @@
 {
+    "w4Au-q8DQU": {
+        "id": "w4Au-q8DQU",
+        "title": "Долгая прогулка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:18:59",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "yGu7raMEoo": {
         "id": "yGu7raMEoo",
         "title": "Дорожные работы",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 237
-        }
-    },
-    "-MZXbanzER": {
-        "id": "-MZXbanzER",
-        "title": "Озорные рассказы",
-        "author": "Бальзак",
-        "notes": "",
-        "createdAt": "2022-02-07 22:08:36",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 27
         }
     }
 }
