@@ -1,4 +1,16 @@
 {
+    "FHh1ubjyrb": {
+        "id": "FHh1ubjyrb",
+        "title": "Темная башня",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:16:54",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 9
+        }
+    },
     "Tt5oCFRIcJ": {
         "id": "Tt5oCFRIcJ",
         "title": "Темная башня: Волки Кальи",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 27
-        }
-    },
-    "qVafw0_p6C": {
-        "id": "qVafw0_p6C",
-        "title": "Republika smoka",
-        "author": "Rebecca F. Kuang",
-        "notes": "",
-        "createdAt": "2022-02-07 01:06:42",
-        "user": {
-            "id": "105846473445372565783-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }
