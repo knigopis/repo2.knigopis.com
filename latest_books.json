@@ -1,4 +1,16 @@
 {
+    "vzHGsWUe_a": {
+        "id": "vzHGsWUe_a",
+        "title": "Под куполом",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:19:19",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 14
+        }
+    },
     "w4Au-q8DQU": {
         "id": "w4Au-q8DQU",
         "title": "Долгая прогулка",
@@ -345,18 +357,6 @@
             "id": "117396356938980769291-google",
             "nickname": "Victoriaperfectum",
             "booksCount": 9
-        }
-    },
-    "aSRQwnJVKy": {
-        "id": "aSRQwnJVKy",
-        "title": "Чтобы ты остался евреем",
-        "author": "Рав Ицхак Зильбер",
-        "notes": "6/10 история о выживании религиозного еврея в совке.",
-        "createdAt": "2022-02-08 06:36:38",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 237
         }
     }
 }
