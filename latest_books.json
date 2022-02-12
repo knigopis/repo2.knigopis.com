@@ -1,4 +1,16 @@
 {
+    "4mYpHK7wY-": {
+        "id": "4mYpHK7wY-",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:20:18",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "sl85QL4KGY": {
         "id": "sl85QL4KGY",
         "title": "11/22/63",
@@ -345,18 +357,6 @@
             "id": "300774210513744-facebook",
             "nickname": "koshkina_mamka",
             "booksCount": 2
-        }
-    },
-    "mALKRdxVBB": {
-        "id": "mALKRdxVBB",
-        "title": "Маги без времени",
-        "author": "Лукьяненко",
-        "notes": "Супер. Проглотила за один день. Книга про то, что за магию нужно платить - теми же годами своей жизни. Путешествия по магическому миру, изменённые твари (ребёнок+животное). Рекомендую к перечитыванию",
-        "createdAt": "2022-02-08 12:42:44",
-        "user": {
-            "id": "300774210513744-facebook",
-            "nickname": "koshkina_mamka",
-            "booksCount": 1
         }
     }
 }
