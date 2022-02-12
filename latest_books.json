@@ -1,4 +1,16 @@
 {
+    "LWliANsKt5": {
+        "id": "LWliANsKt5",
+        "title": "Смиренные сестры Элурии",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-02-12 21:17:26",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "FHh1ubjyrb": {
         "id": "FHh1ubjyrb",
         "title": "Темная башня",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 19
-        }
-    },
-    "v36-2dUN26": {
-        "id": "v36-2dUN26",
-        "title": "Стань себе родителем: как исцелить своего внутреннего ребенка",
-        "author": "Чжен Йен Кан",
-        "notes": "просто и легко читается, все по делу",
-        "createdAt": "2022-02-07 12:14:28",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 27
         }
     }
 }
