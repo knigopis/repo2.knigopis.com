@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/864/86487125-vkontakte)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>199</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>24</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>45</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/732/73253763-yandex)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
 [](users/112/112196802816046333273-google)<sup>0</sup> 
-[emelindani](users/374/374393550-vkontakte)<sup>0</sup> 
 
 
-_12.02.2022 12:44:23_
+_12.02.2022 21:10:41_
