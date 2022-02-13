@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>241</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>242</sup>
 ---
 
 ## 2022
+
+### Безодня
+Влад Сорд
+> [2022-02-13] 8/10 Мілітарі-горор, збірка оповідань.
+
 
 ### Безодня
 Влад Сорд
