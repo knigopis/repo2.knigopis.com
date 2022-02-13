@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 64,
+        "updatedAt": "2022-02-13 00:51:14"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Shellena",
         "booksCount": 413,
         "updatedAt": "2022-02-03 19:27:59"
-    },
-    "112196802816046333273-google": {
-        "id": "112196802816046333273-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-02-03 17:43:07"
     }
 }
