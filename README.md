@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Безодня ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
+* Безодня ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
     > 8/10 Мілітарі-горор, збірка оповідань.
 
 * Пять невест ректора ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>142</sup>
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>142</sup> 
 [](users/153/1537586159620888-facebook)<sup>64</sup> 
 [](users/864/86487125-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
 
 
-_13.02.2022 08:22:35_
+_13.02.2022 08:22:40_
