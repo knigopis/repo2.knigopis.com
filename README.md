@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>252</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>142</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 [](users/116/116776822404079644648-google)<sup>0</sup> 
 [likoliko18](users/548/548816179-vkontakte)<sup>0</sup> 
-[](users/732/73253763-yandex)<sup>0</sup> 
 
 
-_13.02.2022 08:56:57_
+_13.02.2022 15:04:01_

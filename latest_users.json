@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 109,
+        "updatedAt": "2022-02-13 15:04:01"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "likoliko18",
         "booksCount": 0,
         "updatedAt": "2022-02-04 10:41:42"
-    },
-    "73253763-yandex": {
-        "id": "73253763-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-02-03 23:52:38"
     }
 }
