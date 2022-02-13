@@ -1,4 +1,16 @@
 {
+    "lNVCU1Md03": {
+        "id": "lNVCU1Md03",
+        "title": "Юлиан отступник",
+        "author": "Дмитрий Мережковский",
+        "notes": "",
+        "createdAt": "2022-02-13 15:49:06",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 117
+        }
+    },
     "HRpjndRrCj": {
         "id": "HRpjndRrCj",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "PRZmzMDpIt": {
-        "id": "PRZmzMDpIt",
-        "title": "Темная башня: Извлечение Троих",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2022-02-12 21:12:50",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
