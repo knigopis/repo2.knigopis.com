@@ -1,4 +1,16 @@
 {
+    "AoLi7EIGMU": {
+        "id": "AoLi7EIGMU",
+        "title": "Вирус. 2 сезон",
+        "author": "Даниель Оберг",
+        "notes": "",
+        "createdAt": "2022-02-13 08:56:57",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 252
+        }
+    },
     "napImfkLWB": {
         "id": "napImfkLWB",
         "title": "Вирус. 1 сезон",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 24
-        }
-    },
-    "Z4By6UHsYE": {
-        "id": "Z4By6UHsYE",
-        "title": "Дерзкая",
-        "author": "Анна Одувалова",
-        "notes": "",
-        "createdAt": "2022-02-11 23:05:01",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 45
         }
     }
 }
