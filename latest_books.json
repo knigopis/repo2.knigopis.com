@@ -1,4 +1,16 @@
 {
+    "napImfkLWB": {
+        "id": "napImfkLWB",
+        "title": "Вирус. 1 сезон",
+        "author": "Даниель Оберг",
+        "notes": "",
+        "createdAt": "2022-02-13 08:56:34",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 251
+        }
+    },
     "I-wLrS7RBG": {
         "id": "I-wLrS7RBG",
         "title": "Безодня",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 45
-        }
-    },
-    "xbp5S5jNly": {
-        "id": "xbp5S5jNly",
-        "title": "Великая грешница или черница по неволи",
-        "author": "Валерий Замыслов",
-        "notes": "Роман не о чем.",
-        "createdAt": "2022-02-11 12:02:25",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 55
         }
     }
 }

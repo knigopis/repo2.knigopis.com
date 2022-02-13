@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 251,
+        "updatedAt": "2022-02-13 08:56:34"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-02-03 23:52:38"
-    },
-    "13413591548892934957-mailru": {
-        "id": "13413591548892934957-mailru",
-        "nickname": "Shellena",
-        "booksCount": 413,
-        "updatedAt": "2022-02-03 19:27:59"
     }
 }
