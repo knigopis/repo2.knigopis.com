@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>45</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>46</sup>
 ---
 
 ## 2022
+
+### Пропавшая принцесса
+Ольга Пашнина
+> [2022-02-14] 
+
 
 ### Дерзкая
 Анна Одувалова
