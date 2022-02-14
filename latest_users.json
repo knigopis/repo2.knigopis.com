@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 53,
+        "updatedAt": "2022-02-14 06:23:49"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Veydar",
         "booksCount": 1,
         "updatedAt": "2022-02-05 06:41:38"
-    },
-    "116776822404079644648-google": {
-        "id": "116776822404079644648-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-02-04 20:43:57"
     }
 }
