@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>54</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>53</sup>
 ---
 
 ## 2021
@@ -24,11 +24,6 @@
 ### Посторонний
 Альбер Камю
 > [2019-06-21] 
-
-
-### Овод
-Этель Лилиан Войнич
-> [2019-06-18] 
 
 
 ### 97 этюдов для программистов
