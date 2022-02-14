@@ -1,4 +1,16 @@
 {
+    "ehYDOUMl-o": {
+        "id": "ehYDOUMl-o",
+        "title": "Принцесса без короны. Отбор не по правилам",
+        "author": "Лариса Петровичева",
+        "notes": "",
+        "createdAt": "2022-02-14 21:02:51",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 47
+        }
+    },
     "YTCJiSdN7t": {
         "id": "YTCJiSdN7t",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": null,
             "booksCount": 7
-        }
-    },
-    "_Tz9Qh-Sm6": {
-        "id": "_Tz9Qh-Sm6",
-        "title": "Темная башня: Ветер сквозь замочную скважину",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2022-02-12 21:15:06",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>46</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>47</sup>
 ---
 
 ## 2022
+
+### Принцесса без короны. Отбор не по правилам
+Лариса Петровичева
+> [2022-02-15] 
+
 
 ### Пропавшая принцесса
 Ольга Пашнина

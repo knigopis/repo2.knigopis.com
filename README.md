@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>47</sup> 
 [](users/118/118248226132797004598-google)<sup>28</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>46</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup> 
 [eva](users/111/111656270551033014778-google)<sup>117</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 
 
-_14.02.2022 16:35:41_
+_14.02.2022 21:02:51_
