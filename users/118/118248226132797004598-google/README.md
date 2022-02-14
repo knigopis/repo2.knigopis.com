@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>27</sup>
+# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>28</sup>
 ---
 
 ## 2022
+
+### Война и мир
+Толстой
+> [2022-02-14] 
+
 
 ### Озорные рассказы
 Бальзак

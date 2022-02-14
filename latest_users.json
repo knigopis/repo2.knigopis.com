@@ -1,4 +1,10 @@
 {
+    "118248226132797004598-google": {
+        "id": "118248226132797004598-google",
+        "nickname": null,
+        "booksCount": 28,
+        "updatedAt": "2022-02-14 16:35:41"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -112,12 +118,6 @@
         "nickname": "Victoriaperfectum",
         "booksCount": 9,
         "updatedAt": "2022-02-08 06:52:20"
-    },
-    "118248226132797004598-google": {
-        "id": "118248226132797004598-google",
-        "nickname": null,
-        "booksCount": 27,
-        "updatedAt": "2022-02-07 22:08:36"
     },
     "5187751214622773-facebook": {
         "id": "5187751214622773-facebook",
