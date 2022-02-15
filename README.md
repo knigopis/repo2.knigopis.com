@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>433</sup> 
 [pria](users/128/128917939-vkontakte)<sup>59</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>47</sup> 
 [](users/118/118248226132797004598-google)<sup>28</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>196</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup> 
 [](users/112/112324157790597450843-google)<sup>1</sup> 
-[Veydar](users/869/86968033-vkontakte)<sup>1</sup> 
 
 
-_15.02.2022 03:45:54_
+_15.02.2022 16:40:25_
