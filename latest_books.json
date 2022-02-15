@@ -1,4 +1,16 @@
 {
+    "opmKmTLpQ-": {
+        "id": "opmKmTLpQ-",
+        "title": "Убийство в восточном экспрессе",
+        "author": "Кристи, Агата",
+        "notes": "",
+        "createdAt": "2022-02-15 16:45:26",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 434
+        }
+    },
     "xTDlJ2CLwc": {
         "id": "xTDlJ2CLwc",
         "title": "Коллекция поцелуев",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "Tt5oCFRIcJ": {
-        "id": "Tt5oCFRIcJ",
-        "title": "Темная башня: Волки Кальи",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2022-02-12 21:16:20",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
