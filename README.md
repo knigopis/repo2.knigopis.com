@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>436</sup> 
 [pria](users/128/128917939-vkontakte)<sup>59</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>47</sup> 
 [](users/118/118248226132797004598-google)<sup>28</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup> 
 [eva](users/111/111656270551033014778-google)<sup>117</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>252</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112324157790597450843-google)<sup>1</sup> 
 
 
-_15.02.2022 16:54:55_
+_15.02.2022 17:13:02_
