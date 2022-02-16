@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 48,
+        "updatedAt": "2022-02-16 20:42:02"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tututu",
@@ -22,12 +28,6 @@
         "nickname": "pria",
         "booksCount": 59,
         "updatedAt": "2022-02-15 03:45:54"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 47,
-        "updatedAt": "2022-02-14 21:02:51"
     },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",

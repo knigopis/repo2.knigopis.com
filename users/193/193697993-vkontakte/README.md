@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>47</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>48</sup>
 ---
 
 ## 2022
+
+### Магиня для эмиссара
+Надежда Кузьмина
+> [2022-02-16] 
+
 
 ### Принцесса без короны. Отбор не по правилам
 Лариса Петровичева
