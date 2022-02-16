@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tututu",
+        "booksCount": 25,
+        "updatedAt": "2022-02-16 20:24:52"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -76,12 +82,6 @@
         "nickname": "Naricev",
         "booksCount": 199,
         "updatedAt": "2022-02-12 12:44:23"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tututu",
-        "booksCount": 24,
-        "updatedAt": "2022-02-12 09:36:46"
     },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
