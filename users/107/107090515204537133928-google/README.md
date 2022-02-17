@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>199</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>200</sup>
 ---
 
 ## 2022
+
+### Дикие карты
+Джордж Мартин
+> [2022-02-17] 
+
 
 ### Двенадцатый койка
 Дин Кунц
