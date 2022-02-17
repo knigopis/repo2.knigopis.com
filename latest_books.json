@@ -1,4 +1,16 @@
 {
+    "0oFOjO9k-_": {
+        "id": "0oFOjO9k-_",
+        "title": "Код ожиріння. Секрети втрати ваги",
+        "author": "Джейсон Фанг",
+        "notes": "",
+        "createdAt": "2022-02-17 21:43:26",
+        "user": {
+            "id": "106107989792957993574-google",
+            "nickname": "Мирослава",
+            "booksCount": 32
+        }
+    },
     "J-0n-vbS3f": {
         "id": "J-0n-vbS3f",
         "title": "Собор Парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "68XQ_sx0_0": {
-        "id": "68XQ_sx0_0",
-        "title": "Неадекват",
-        "author": "Александр Варго",
-        "notes": "",
-        "createdAt": "2022-02-12 21:21:56",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": null,
-            "booksCount": 19
         }
     }
 }

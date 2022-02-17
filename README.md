@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мирослава](users/106/106107989792957993574-google)<sup>32</sup> 
 [](users/118/118248226132797004598-google)<sup>29</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>200</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mex2010](users/165/165757300-vkontakte)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>196</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup> 
-[](users/112/112324157790597450843-google)<sup>1</sup> 
 
 
-_17.02.2022 16:36:03_
+_17.02.2022 21:43:26_
