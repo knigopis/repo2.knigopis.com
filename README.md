@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108355317006178724444-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>49</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>913</sup> 
 [](users/115/115471111502048563149-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup> 
 [](users/100/100571611092013018122-google)<sup>0</sup> 
 [](users/105/105846473445372565783-google)<sup>7</sup> 
-[mex2010](users/165/165757300-vkontakte)<sup>1</sup> 
 
 
-_18.02.2022 19:22:23_
+_18.02.2022 19:37:17_
