@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>913</sup> 
 [](users/115/115471111502048563149-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>137</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/864/86487125-vkontakte)<sup>23</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>912</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>180</sup> 
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mex2010](users/165/165757300-vkontakte)<sup>1</sup> 
 
 
-_18.02.2022 16:38:29_
+_18.02.2022 18:29:16_
