@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115471111502048563149-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>137</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
 [](users/118/118248226132797004598-google)<sup>29</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100571611092013018122-google)<sup>0</sup> 
 [](users/105/105846473445372565783-google)<sup>7</sup> 
 [mex2010](users/165/165757300-vkontakte)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>196</sup> 
 
 
-_18.02.2022 07:28:49_
+_18.02.2022 16:38:29_
