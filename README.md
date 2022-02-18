@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>49</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>913</sup> 
 [](users/115/115471111502048563149-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>137</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118248226132797004598-google)<sup>29</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>200</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>48</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>25</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>238</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mex2010](users/165/165757300-vkontakte)<sup>1</sup> 
 
 
-_18.02.2022 18:29:16_
+_18.02.2022 19:22:23_

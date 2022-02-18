@@ -1,4 +1,16 @@
 {
+    "pJHhA8PPXE": {
+        "id": "pJHhA8PPXE",
+        "title": "Пара не пара — парень не парень",
+        "author": "Надежда Кузьмина",
+        "notes": "",
+        "createdAt": "2022-02-18 19:22:23",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 49
+        }
+    },
     "vO5wvcgOZs": {
         "id": "vO5wvcgOZs",
         "title": "Никогде",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 64
-        }
-    },
-    "MFolCzS7X9": {
-        "id": "MFolCzS7X9",
-        "title": "Лёгкий способ бросить курить",
-        "author": "Аллен Карр",
-        "notes": "",
-        "createdAt": "2022-02-12 21:24:09",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": null,
-            "booksCount": 23
         }
     }
 }
