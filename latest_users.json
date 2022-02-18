@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 137,
+        "updatedAt": "2022-02-18 07:28:49"
+    },
     "106107989792957993574-google": {
         "id": "106107989792957993574-google",
         "nickname": "Мирослава",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 196,
         "updatedAt": "2022-02-06 11:34:20"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 52,
-        "updatedAt": "2022-02-05 19:38:09"
     }
 }

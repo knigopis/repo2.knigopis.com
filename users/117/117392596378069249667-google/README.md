@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>136</sup>
+# List of books read by 4apa<sup>137</sup>
 ---
 
 ## 2022
+
+### Новая карта мира
+Д. Ергин
+> [2022-02-18] 
+
 
 ### Гарвардский некромант
 А. Панчин
