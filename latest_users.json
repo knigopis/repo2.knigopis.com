@@ -1,4 +1,10 @@
 {
+    "108355317006178724444-google": {
+        "id": "108355317006178724444-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-02-18 19:37:17"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 7,
         "updatedAt": "2022-02-07 01:06:42"
-    },
-    "165757300-vkontakte": {
-        "id": "165757300-vkontakte",
-        "nickname": "mex2010",
-        "booksCount": 1,
-        "updatedAt": "2022-02-06 20:38:35"
     }
 }
