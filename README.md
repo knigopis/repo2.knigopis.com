@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 [](users/118/118248226132797004598-google)<sup>30</sup> 
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>49</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/518/5187751214622773-facebook)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup> 
 [](users/100/100571611092013018122-google)<sup>0</sup> 
-[](users/105/105846473445372565783-google)<sup>7</sup> 
 
 
-_18.02.2022 20:24:55_
+_18.02.2022 22:33:25_
