@@ -1,4 +1,16 @@
 {
+    "AyGqTdAgoJ": {
+        "id": "AyGqTdAgoJ",
+        "title": "Внушение на расстоянии",
+        "author": "Васильев Л.Л.",
+        "notes": "",
+        "createdAt": "2022-02-19 11:19:37",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 197
+        }
+    },
     "W2XP9ozwO5": {
         "id": "W2XP9ozwO5",
         "title": "Манон Леско",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 109
-        }
-    },
-    "AoLi7EIGMU": {
-        "id": "AoLi7EIGMU",
-        "title": "Вирус. 2 сезон",
-        "author": "Даниель Оберг",
-        "notes": "",
-        "createdAt": "2022-02-13 08:56:57",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 252
         }
     }
 }

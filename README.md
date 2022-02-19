@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>197</sup> 
 [](users/118/118248226132797004598-google)<sup>31</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 [](users/108/108355317006178724444-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>9</sup> 
 [](users/518/5187751214622773-facebook)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup> 
-[](users/100/100571611092013018122-google)<sup>0</sup> 
 
 
-_19.02.2022 01:07:02_
+_19.02.2022 11:19:37_

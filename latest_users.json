@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 197,
+        "updatedAt": "2022-02-19 11:19:37"
+    },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 27,
         "updatedAt": "2022-02-07 12:14:28"
-    },
-    "100571611092013018122-google": {
-        "id": "100571611092013018122-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-02-07 07:32:13"
     }
 }
