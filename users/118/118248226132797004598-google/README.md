@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>30</sup>
+# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>31</sup>
 ---
 
 ## 2022
+
+### Манон Леско
+Прево
+> [2022-02-19] 
+
 
 ### Опасные связи
 Лакло

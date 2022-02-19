@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118248226132797004598-google)<sup>31</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
-[](users/118/118248226132797004598-google)<sup>30</sup> 
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>49</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>913</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100571611092013018122-google)<sup>0</sup> 
 
 
-_18.02.2022 22:33:25_
+_19.02.2022 01:07:02_
