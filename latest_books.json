@@ -1,4 +1,16 @@
 {
+    "VPgqGtlPR0": {
+        "id": "VPgqGtlPR0",
+        "title": "Человек неведимка",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2022-02-19 18:41:21",
+        "user": {
+            "id": "104714960785244441663-google",
+            "nickname": "x",
+            "booksCount": 8
+        }
+    },
     "5cb0W0U0on": {
         "id": "5cb0W0U0on",
         "title": "Ты светишься в лунную ночь",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 47
-        }
-    },
-    "YTCJiSdN7t": {
-        "id": "YTCJiSdN7t",
-        "title": "Война и мир",
-        "author": "Толстой",
-        "notes": "",
-        "createdAt": "2022-02-14 16:35:41",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 28
         }
     }
 }
