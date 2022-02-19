@@ -1,4 +1,16 @@
 {
+    "UPD6pUxz8S": {
+        "id": "UPD6pUxz8S",
+        "title": "Закатное солнце",
+        "author": "Осаму Дадзай",
+        "notes": "",
+        "createdAt": "2022-02-19 18:23:32",
+        "user": {
+            "id": "104714960785244441663-google",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "oD8Xn8_yw_": {
         "id": "oD8Xn8_yw_",
         "title": "Понедельник начинается в субботу",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 46
-        }
-    },
-    "vqSmZrKA1Y": {
-        "id": "vqSmZrKA1Y",
-        "title": "Безодня",
-        "author": "Влад Сорд",
-        "notes": "8/10 Мілітарі-горрор, збірка оповідань.",
-        "createdAt": "2022-02-13 18:16:02",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 245
         }
     }
 }
