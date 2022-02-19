@@ -20,6 +20,9 @@ Miran Lipovača
 ### `30` 100 лет одиночества
 Габриэль Маркес
 
+### `25` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
 ### `23` Тайм-драйв
 Глеб Архангельский
 
@@ -46,23 +49,23 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Герой нашего времени
-Михаил Лермонтов
-
-### `1` Все свободны
-Михаил Зыгарь
-
 ### `1` Портной из Панамы
 Джон Ле Карре
 
 ### `1` Joel on Software
 Joel Spolsky
 
+### `1` Овод
+Этель Лилиан Войнич
+
+### `1` Герой нашего времени
+Михаил Лермонтов
+
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
 
-### `1` Овод
-Этель Лилиан Войнич
+### `1` Все свободны
+Михаил Зыгарь
 
 ### `1` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
@@ -74,8 +77,8 @@ Gayle Laakmann McDowell
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` Permanent Record
+Edward Snowden
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
@@ -115,14 +118,13 @@ Mike Cohn
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Permanent Record
-Edward Snowden
+### `` A Briefer History of Time
+Stephen Hawking
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
 
 ### `` Свой среди чужих
-
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` Effective Kotlin
 Marcin Moskala
@@ -147,8 +149,7 @@ Daniel Kahneman
 
 ### `` Super Intelligence
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Как измерить что угодно
 
 ### `` Путин. Война
 Борис Немцов
@@ -157,10 +158,9 @@ Satoshi Nakamoto
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
-### `` Как измерить что угодно
-
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` Formalized Music
 Янис Ксенакис
