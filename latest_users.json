@@ -1,4 +1,10 @@
 {
+    "104714960785244441663-google": {
+        "id": "104714960785244441663-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-02-19 18:15:05"
+    },
     "104796862760252606871-google": {
         "id": "104796862760252606871-google",
         "nickname": "Lo.wecane",
@@ -172,11 +178,5 @@
         "nickname": "Victoriaperfectum",
         "booksCount": 9,
         "updatedAt": "2022-02-08 06:52:20"
-    },
-    "5187751214622773-facebook": {
-        "id": "5187751214622773-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-02-07 21:23:18"
     }
 }
