@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>65</sup> 
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 [Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>197</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eva](users/111/111656270551033014778-google)<sup>117</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>252</sup> 
-[](users/153/1537586159620888-facebook)<sup>64</sup> 
 [](users/864/86487125-vkontakte)<sup>23</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>9</sup> 
 
 
-_19.02.2022 18:41:21_
+_19.02.2022 21:40:43_
