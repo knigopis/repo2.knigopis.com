@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>238</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>239</sup>
 ---
 
 ## 2022
+
+### Спустошення Диявольського Акра. Дім дивних дітей
+Ренсом Ріґґз
+> [2022-02-20] 8/10 Остання частина пригод дивних. Завершальна битва.
+
 
 ### Безодня
 Влад Сорд
