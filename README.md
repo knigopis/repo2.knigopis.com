@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>181</sup> 
 [](users/153/1537586159620888-facebook)<sup>65</sup> 
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
 [koshkina_mamka](users/300/300774210513744-facebook)<sup>2</sup> 
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>9</sup> 
 
 
-_19.02.2022 22:28:38_
+_20.02.2022 08:04:09_
