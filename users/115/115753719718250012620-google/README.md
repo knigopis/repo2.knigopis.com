@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>307</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>308</sup>
 ---
 
 ## 2022
+
+### Ведьмак. Кровь эльфов
+Сапковский Анджей
+> [2022-02-20] 
+
 
 ### Ведьмак. Последнее желание
 Сапковский Анджей
