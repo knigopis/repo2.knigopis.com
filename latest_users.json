@@ -1,4 +1,10 @@
 {
+    "421114755-vkontakte": {
+        "id": "421114755-vkontakte",
+        "nickname": "denys_pwnz",
+        "booksCount": 0,
+        "updatedAt": "2022-02-20 08:04:09"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "koshkina_mamka",
         "booksCount": 2,
         "updatedAt": "2022-02-08 12:45:40"
-    },
-    "117396356938980769291-google": {
-        "id": "117396356938980769291-google",
-        "nickname": "Victoriaperfectum",
-        "booksCount": 9,
-        "updatedAt": "2022-02-08 06:52:20"
     }
 }
