@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>307</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>914</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup> 
 [eva](users/111/111656270551033014778-google)<sup>118</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118345575217167707584-google)<sup>0</sup> 
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
-[koshkina_mamka](users/300/300774210513744-facebook)<sup>2</sup> 
 
 
-_20.02.2022 15:44:56_
+_20.02.2022 16:59:59_

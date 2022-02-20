@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 307,
+        "updatedAt": "2022-02-20 16:59:59"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Euphoria",
         "booksCount": 86,
         "updatedAt": "2022-02-10 12:00:12"
-    },
-    "300774210513744-facebook": {
-        "id": "300774210513744-facebook",
-        "nickname": "koshkina_mamka",
-        "booksCount": 2,
-        "updatedAt": "2022-02-08 12:45:40"
     }
 }
