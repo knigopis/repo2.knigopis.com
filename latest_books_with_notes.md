@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
 * Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
 * Академия Невест. Последний отбор ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup>
@@ -30,7 +31,6 @@
 *  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
 * Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
 * Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
-* Достаточно хорошая ~ [albina_untiring](users/257/2579695-vkontakte)<sup>26</sup>
 
 
-_21.02.2022 14:21:54_
+_21.02.2022 17:26:25_

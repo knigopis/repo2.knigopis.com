@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>239</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>240</sup>
 ---
 
 ## 2022
+
+### Пегий пес, бегущий краем моря
+Чингиз Айтматов
+> [2022-02-21] 7/10 Класик літератури Киргизстану. Повісті про нелегке життя в аулах.
+
 
 ### Спустошення Диявольського Акра. Дім дивних дітей
 Ренсом Ріґґз
