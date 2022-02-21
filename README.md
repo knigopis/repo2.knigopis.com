@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
+    > Чародей пришёл за ребёнком.
+
 * Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
     > 8/10 Остання частина пригод дивних. Завершальна битва.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга вторая.
 
 * Академия Невест ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>143</sup>
-    > Все юные девы мечтают здесь оказаться. Но Академия Невест открывает двери только для тех, у кого есть метка избранницы шиага. Все они невесты, каждая предназначена одному из шиагов – представителей таинственной и могущественной расы теней. Вот только Эвелин не о том мечтала. Уж точно не занять место погибшей невесты. Ну ничего, она готова поспорить с судьбой! Академия Невест еще не видела столь неприлежной студентки. И внезапно вспыхнувшие чувства не должны помешать. Нельзя поддаваться, ведь не все так просто…
 
 * Коллекция поцелуев ~ [pria](users/128/128917939-vkontakte)<sup>59</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Танечка ~ [tumturumk](users/135/135685382-vkontakte)<sup>22</sup>
 
-* Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>201</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>308</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>914</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>59</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>252</sup> 
 [](users/864/86487125-vkontakte)<sup>23</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
 
 
-_21.02.2022 12:49:52_
+_21.02.2022 14:21:54_
