@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>200</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>201</sup>
 ---
 
 ## 2022
+
+### Василий Тёркин
+Александр Твардовский
+> [2022-02-21] 
+
 
 ### Дикие карты
 Джордж Мартин

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>201</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>308</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>914</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115471111502048563149-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>137</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>200</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>25</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
 
 
-_20.02.2022 17:00:53_
+_21.02.2022 12:49:52_
