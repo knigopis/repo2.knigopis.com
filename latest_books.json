@@ -1,4 +1,16 @@
 {
+    "o8AD8zWCy-": {
+        "id": "o8AD8zWCy-",
+        "title": "Пророк",
+        "author": "Роберт Стивен Райн",
+        "notes": "",
+        "createdAt": "2022-02-22 08:18:28",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 202
+        }
+    },
     "NFU4qfFnon": {
         "id": "NFU4qfFnon",
         "title": "Неточка Незванова",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "Мирослава",
             "booksCount": 32
-        }
-    },
-    "J-0n-vbS3f": {
-        "id": "J-0n-vbS3f",
-        "title": "Собор Парижской Богоматери",
-        "author": "Гюго",
-        "notes": "",
-        "createdAt": "2022-02-17 16:36:03",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 29
         }
     }
 }

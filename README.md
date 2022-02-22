@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>202</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>182</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>145</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>201</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>308</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>914</sup> 
 [eva](users/111/111656270551033014778-google)<sup>118</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
 
 
-_21.02.2022 21:20:10_
+_22.02.2022 08:18:28_

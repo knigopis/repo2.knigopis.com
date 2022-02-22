@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>201</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>202</sup>
 ---
 
 ## 2022
+
+### Пророк
+Роберт Стивен Райн
+> [2022-02-22] 
+
 
 ### Василий Тёркин
 Александр Твардовский
