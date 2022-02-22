@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>49</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>50</sup>
 ---
 
 ## 2022
+
+### Изгои академии Даркстоун
+Анастасия Медведева
+> [2022-02-23] 
+
 
 ### Пара не пара — парень не парень
 Надежда Кузьмина
