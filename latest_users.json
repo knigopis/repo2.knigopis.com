@@ -1,4 +1,10 @@
 {
+    "108602903446726240227-google": {
+        "id": "108602903446726240227-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-02-22 15:19:25"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "muzyha",
         "booksCount": 0,
         "updatedAt": "2022-02-10 13:33:17"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 86,
-        "updatedAt": "2022-02-10 12:00:12"
     }
 }
