@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
 * Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
@@ -30,7 +31,6 @@
 * Самый богатый человек в Вавилоне ~ [Len4e91](users/254/254448176-yandex)<sup>14</sup>
 *  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
 * Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
-* Мой лучший враг ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>132</sup>
 
 
-_21.02.2022 17:26:25_
+_22.02.2022 11:42:06_

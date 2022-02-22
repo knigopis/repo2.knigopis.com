@@ -1,4 +1,16 @@
 {
+    "L1O6ceCcdX": {
+        "id": "L1O6ceCcdX",
+        "title": "Красный экран",
+        "author": "Стивен Кинг",
+        "notes": "О чём-то, что меняет женщин и они начинают \"пилить\" мужей.",
+        "createdAt": "2022-02-22 11:42:06",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 254
+        }
+    },
     "o8AD8zWCy-": {
         "id": "o8AD8zWCy-",
         "title": "Пророк",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "Мирослава",
             "booksCount": 33
-        }
-    },
-    "0oFOjO9k-_": {
-        "id": "0oFOjO9k-_",
-        "title": "Код ожиріння. Секрети втрати ваги",
-        "author": "Джейсон Фанг",
-        "notes": "",
-        "createdAt": "2022-02-17 21:43:26",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "Мирослава",
-            "booksCount": 32
         }
     }
 }

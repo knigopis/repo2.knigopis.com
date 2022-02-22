@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
+    > О чём-то, что меняет женщин и они начинают "пилить" мужей.
+
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
     > 7/10 Класик літератури Киргизстану. Повісті про нелегке життя в аулах.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чародей пришёл за ребёнком.
 
 * Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
-    > 8/10 Остання частина пригод дивних. Завершальна битва.
 
 * Академия Невест. Последний отбор ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Великая грешница или черница по неволи ~ [mfevralev](users/140/140966150-vkontakte)<sup>55</sup>
 
-* Служба Донских казаков выпуск 11 ~ [mfevralev](users/140/140966150-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>202</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>182</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>145</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>308</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>914</sup> 
 [eva](users/111/111656270551033014778-google)<sup>118</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
 
 
-_22.02.2022 08:18:28_
+_22.02.2022 11:42:06_
