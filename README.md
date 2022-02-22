@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108602903446726240227-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>202</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>182</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>86</sup> 
 
 
-_22.02.2022 11:42:06_
+_22.02.2022 15:19:25_
