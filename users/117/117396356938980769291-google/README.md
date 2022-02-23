@@ -19,7 +19,7 @@ Elizabeth Strout
 
 
 ### Книга Тишина в эпоху шума. Маленькая книга для большого города
-Эрлинг Кагге  Подробнее: https://www.yakaboo.ua/tishina-v-jepohu-shuma-malen-kaja-kniga-dlja-bol-shogo-goroda.html
+Эрлинг Кагге
 > [2022-02] 3*5
 
 
