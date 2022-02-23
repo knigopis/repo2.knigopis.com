@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
+    > Власть исчезнет только тогда, когда на Земле останется один-единственный человек. И то потому, что собой управлять-то никто не умеет, все предпочитают править другими.
+
 * Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
     > 3*5
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О чём-то, что меняет женщин и они начинают "пилить" мужей.
 
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
-    > 7/10 Класик літератури Киргизстану. Повісті про нелегке життя в аулах.
 
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Безодня ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 
-* Пять невест ректора ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>142</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>320</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>183</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 [](users/118/118248226132797004598-google)<sup>32</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
 [](users/864/86487125-vkontakte)<sup>23</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
-[](users/118/118345575217167707584-google)<sup>0</sup> 
 
 
-_23.02.2022 19:50:30_
+_23.02.2022 20:58:49_
