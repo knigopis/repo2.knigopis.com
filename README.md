@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>320</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>183</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 [](users/118/118248226132797004598-google)<sup>32</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>50</sup> 
 [](users/108/108602903446726240227-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>202</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 
 
-_23.02.2022 20:58:49_
+_23.02.2022 23:14:57_

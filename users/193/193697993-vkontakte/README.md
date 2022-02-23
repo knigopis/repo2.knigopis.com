@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>50</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>51</sup>
 ---
 
 ## 2022
+
+### Леди Ариэлла Уоторби
+Елена Звёздная
+> [2022-02-24] 
+
 
 ### Изгои академии Даркстоун
 Анастасия Медведева
