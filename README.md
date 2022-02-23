@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
+    > 3*5
+
 * Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
     > О чём-то, что меняет женщин и они начинают "пилить" мужей.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Класик літератури Киргизстану. Повісті про нелегке життя в аулах.
 
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
-    > Чародей пришёл за ребёнком.
 
 * Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пять невест ректора ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>142</sup>
 
-* Великая грешница или черница по неволи ~ [mfevralev](users/140/140966150-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 [](users/118/118248226132797004598-google)<sup>32</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>50</sup> 
 [](users/108/108602903446726240227-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/864/86487125-vkontakte)<sup>23</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 [](users/118/118345575217167707584-google)<sup>0</sup> 
-[muzyha](users/147/1474026082-yandex)<sup>0</sup> 
 
 
-_23.02.2022 02:09:18_
+_23.02.2022 18:00:48_

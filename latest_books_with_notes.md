@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
 * Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
@@ -30,7 +31,6 @@
 * Властелин колец. Хранители кольца. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup>
 * Самый богатый человек в Вавилоне ~ [Len4e91](users/254/254448176-yandex)<sup>14</sup>
 *  ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>3</sup>
-* Уроки мадам Шик. 20 секретов стиля, которые я узнала, пока жила в Париже ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>2</sup>
 
 
-_22.02.2022 11:42:06_
+_23.02.2022 18:00:48_

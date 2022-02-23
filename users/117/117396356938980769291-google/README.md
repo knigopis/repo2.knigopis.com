@@ -1,4 +1,4 @@
-# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>9</sup>
+# List of books read by [Victoriaperfectum](https://plus.google.com/u/0/117396356938980769291/)<sup>10</sup>
 ---
 
 ## 2022
@@ -16,6 +16,11 @@ Elizabeth Strout
 ### Преодоление гордыни
 Сергей Лазарев
 > [2022-02-01] 
+
+
+### Книга Тишина в эпоху шума. Маленькая книга для большого города
+Эрлинг Кагге  Подробнее: https://www.yakaboo.ua/tishina-v-jepohu-shuma-malen-kaja-kniga-dlja-bol-shogo-goroda.html
+> [2022-02] 3*5
 
 
 ### Осознанность

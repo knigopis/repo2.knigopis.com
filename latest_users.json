@@ -1,4 +1,10 @@
 {
+    "117396356938980769291-google": {
+        "id": "117396356938980769291-google",
+        "nickname": "Victoriaperfectum",
+        "booksCount": 10,
+        "updatedAt": "2022-02-23 18:00:48"
+    },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-02-11 09:21:11"
-    },
-    "1474026082-yandex": {
-        "id": "1474026082-yandex",
-        "nickname": "muzyha",
-        "booksCount": 0,
-        "updatedAt": "2022-02-10 13:33:17"
     }
 }
