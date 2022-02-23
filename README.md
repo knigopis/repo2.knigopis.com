@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118248226132797004598-google)<sup>32</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>50</sup> 
 [](users/108/108602903446726240227-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 [Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>197</sup> 
-[](users/118/118248226132797004598-google)<sup>31</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 [](users/115/115471111502048563149-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [muzyha](users/147/1474026082-yandex)<sup>0</sup> 
 
 
-_22.02.2022 21:08:14_
+_23.02.2022 02:09:18_

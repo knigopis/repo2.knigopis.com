@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>31</sup>
+# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>32</sup>
 ---
 
 ## 2022
+
+### Париж
+Резерфорд
+> [2022-02-23] 
+
 
 ### Манон Леско
 Прево
