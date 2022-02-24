@@ -1,4 +1,16 @@
 {
+    "FJXhnKzx1I": {
+        "id": "FJXhnKzx1I",
+        "title": "Пятый шаг",
+        "author": "Стивен Кинг",
+        "notes": "Мужчина из АА - убийца.",
+        "createdAt": "2022-02-24 21:46:26",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 255
+        }
+    },
     "i3izBmjGdW": {
         "id": "i3izBmjGdW",
         "title": "Семь дней до Медиго",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 50
-        }
-    },
-    "maMs1htZ0g": {
-        "id": "maMs1htZ0g",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Джордж Клейсон",
-        "notes": "Доступно описаны основные принципы обращения с деньгами. Читать легко и интересно.",
-        "createdAt": "2022-01-22 06:45:03",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 14
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
+    > Мужчина из АА - убийца.
+
 * Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
     > Власть исчезнет только тогда, когда на Земле останется один-единственный человек. И то потому, что собой управлять-то никто не умеет, все предпочитают править другими.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3*5
 
 * Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
-    > О чём-то, что меняет женщин и они начинают "пилить" мужей.
 
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коллекция поцелуев ~ [pria](users/128/128917939-vkontakte)<sup>59</sup>
 
-* Безодня ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup> 
 [](users/153/1537586159620888-facebook)<sup>66</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>320</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 [](users/118/118248226132797004598-google)<sup>32</sup> 
 [](users/108/108602903446726240227-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>202</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>145</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 
 
-_23.02.2022 23:38:59_
+_24.02.2022 21:46:26_
