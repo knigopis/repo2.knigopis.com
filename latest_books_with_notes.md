@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
 * Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
 * Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
 * Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
@@ -30,7 +31,6 @@
 * Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
 * Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
 * Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
-* Темные церемонии. Тайный город ~ [Chiffi](users/105/105831994080785626680-google)<sup>319</sup>
 
 
-_25.02.2022 11:20:07_
+_25.02.2022 13:10:14_
