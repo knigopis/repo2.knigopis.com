@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
 * Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
 * Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
 * Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
 * Воровка с того света ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>136</sup>
 * Темные церемонии. Тайный город ~ [Chiffi](users/105/105831994080785626680-google)<sup>319</sup>
-* Властелин колец. Хранители кольца. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>50</sup>
 
 
-_24.02.2022 21:46:26_
+_25.02.2022 11:20:07_

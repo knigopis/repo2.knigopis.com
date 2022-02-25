@@ -1,4 +1,10 @@
 {
+    "128917939-vkontakte": {
+        "id": "128917939-vkontakte",
+        "nickname": "pria",
+        "booksCount": 60,
+        "updatedAt": "2022-02-25 11:20:07"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -148,12 +154,6 @@
         "nickname": "Elixir",
         "booksCount": 434,
         "updatedAt": "2022-02-15 22:04:46"
-    },
-    "128917939-vkontakte": {
-        "id": "128917939-vkontakte",
-        "nickname": "pria",
-        "booksCount": 59,
-        "updatedAt": "2022-02-15 03:45:54"
     },
     "381417697-yandex": {
         "id": "381417697-yandex",

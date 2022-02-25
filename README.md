@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
+    > Подарок от тайного санты
+
 * Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
     > Мужчина из АА - убийца.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Власть исчезнет только тогда, когда на Земле останется один-единственный человек. И то потому, что собой управлять-то никто не умеет, все предпочитают править другими.
 
 * Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
-    > 3*5
 
 * Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия Невест ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>143</sup>
 
-* Коллекция поцелуев ~ [pria](users/128/128917939-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pria](users/128/128917939-vkontakte)<sup>60</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>52</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup> 
 [](users/153/1537586159620888-facebook)<sup>66</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>25</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
-[pria](users/128/128917939-vkontakte)<sup>59</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
 [](users/864/86487125-vkontakte)<sup>23</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 
 
-_25.02.2022 00:13:43_
+_25.02.2022 11:20:07_

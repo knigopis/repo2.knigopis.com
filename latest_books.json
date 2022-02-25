@@ -1,4 +1,16 @@
 {
+    "Og8Xg0Dw8q": {
+        "id": "Og8Xg0Dw8q",
+        "title": "Дикие",
+        "author": "Родители Пауэр",
+        "notes": "Подарок от тайного санты",
+        "createdAt": "2022-02-25 11:20:07",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": "pria",
+            "booksCount": 60
+        }
+    },
     "ceEGuvHgiS": {
         "id": "ceEGuvHgiS",
         "title": "Елена Звёздная",
@@ -345,18 +357,6 @@
             "id": "104714960785244441663-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "GrnkZJ3--8": {
-        "id": "GrnkZJ3--8",
-        "title": "На Западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2022-02-19 18:17:48",
-        "user": {
-            "id": "104714960785244441663-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
