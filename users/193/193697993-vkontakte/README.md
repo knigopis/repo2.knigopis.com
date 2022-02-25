@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>51</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>52</sup>
 ---
 
 ## 2022
+
+### Елена Звёздная
+Герцогиня оттон Грэйд
+> [2022-02-25] 
+
 
 ### Леди Ариэлла Уоторби
 Елена Звёздная
