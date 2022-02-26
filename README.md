@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>367</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>26</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup> 
 [pria](users/128/128917939-vkontakte)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>53</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
 [](users/864/86487125-vkontakte)<sup>23</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>55</sup> 
 
 
-_26.02.2022 18:33:52_
+_26.02.2022 20:10:06_
