@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
+    > Аудио
+
 * Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
     > Ведь человек — это не свойство характера, а сделанный им выбор.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Подарок от тайного санты
 
 * Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
-    > Мужчина из АА - убийца.
 
 * Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
 
-* Академия Невест. Последний отбор ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>27</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>368</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>26</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup> 
 [pria](users/128/128917939-vkontakte)<sup>60</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>52</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/864/86487125-vkontakte)<sup>23</sup> 
 
 
-_26.02.2022 20:11:10_
+_26.02.2022 20:28:06_

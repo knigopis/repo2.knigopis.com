@@ -1,4 +1,16 @@
 {
+    "5UGjYZvGgb": {
+        "id": "5UGjYZvGgb",
+        "title": "Неточка Незванова",
+        "author": "Фёдор Михайлович Достоевский",
+        "notes": "Аудио",
+        "createdAt": "2022-02-26 20:28:06",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 27
+        }
+    },
     "sRGor5lWDt": {
         "id": "sRGor5lWDt",
         "title": "Красное на красном",
@@ -345,18 +357,6 @@
             "id": "104714960785244441663-google",
             "nickname": "x",
             "booksCount": 8
-        }
-    },
-    "5cb0W0U0on": {
-        "id": "5cb0W0U0on",
-        "title": "Ты светишься в лунную ночь",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-02-19 18:24:31",
-        "user": {
-            "id": "104714960785244441663-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }
