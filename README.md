@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>185</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>27</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>368</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
-[](users/864/86487125-vkontakte)<sup>23</sup> 
 
 
-_26.02.2022 21:22:19_
+_27.02.2022 16:43:49_
