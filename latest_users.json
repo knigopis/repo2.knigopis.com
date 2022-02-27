@@ -1,4 +1,10 @@
 {
+    "10967144-vkontakte": {
+        "id": "10967144-vkontakte",
+        "nickname": "max_tito",
+        "booksCount": 0,
+        "updatedAt": "2022-02-27 16:43:48"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 109,
         "updatedAt": "2022-02-13 15:04:01"
-    },
-    "86487125-vkontakte": {
-        "id": "86487125-vkontakte",
-        "nickname": null,
-        "booksCount": 23,
-        "updatedAt": "2022-02-12 21:24:09"
     }
 }
