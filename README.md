@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
+    > audio
+
 * Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
     > Аудио
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ведь человек — это не свойство характера, а сделанный им выбор.
 
 * Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
-    > Подарок от тайного санты
 
 * Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
 
-* Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>53</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>204</sup> 
 [eva](users/111/111656270551033014778-google)<sup>119</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 [me](users/381/381417697-yandex)<sup>53</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>109</sup> 
 
 
-_28.02.2022 11:46:07_
+_28.02.2022 14:20:43_

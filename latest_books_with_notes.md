@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
 * Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
 * Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
 * Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
@@ -30,7 +31,6 @@
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
 * Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
-* Summer in Provence ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>4</sup>
 
 
-_26.02.2022 20:28:06_
+_28.02.2022 14:20:43_
