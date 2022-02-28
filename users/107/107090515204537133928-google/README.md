@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>202</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>203</sup>
 ---
 
 ## 2022
+
+### Тайная история Украины-Руси
+Олесь Бузина
+> [2022-02-28] 
+
 
 ### Пророк
 Роберт Стивен Райн
