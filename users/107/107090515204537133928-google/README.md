@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>203</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>204</sup>
 ---
 
 ## 2022
+
+### Стремись услышать нет
+Ричард Фентон Андрэа Вольц
+> [2022-02-28] 
+
 
 ### Тайная история Украины-Руси
 Олесь Бузина
