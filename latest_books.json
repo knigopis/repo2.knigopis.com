@@ -1,4 +1,16 @@
 {
+    "hxsdmgwudk": {
+        "id": "hxsdmgwudk",
+        "title": "Хроники научной жизни",
+        "author": "В. Иванов",
+        "notes": "",
+        "createdAt": "2022-02-28 16:14:49",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 138
+        }
+    },
     "r9h2YlThNW": {
         "id": "r9h2YlThNW",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 201
-        }
-    },
-    "GL-Titb9Mg": {
-        "id": "GL-Titb9Mg",
-        "title": "Ведьмак. Кровь эльфов",
-        "author": "Сапковский Анджей",
-        "notes": "",
-        "createdAt": "2022-02-20 17:00:53",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 308
         }
     }
 }

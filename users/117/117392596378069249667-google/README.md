@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>137</sup>
+# List of books read by 4apa<sup>138</sup>
 ---
 
 ## 2022
+
+### Хроники научной жизни
+В. Иванов
+> [2022-02-28] 
+
 
 ### Новая карта мира
 Д. Ергин
