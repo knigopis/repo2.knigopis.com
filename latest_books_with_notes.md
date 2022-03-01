@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
 * Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
 * Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
 * Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
@@ -30,7 +31,6 @@
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
 * Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
-* Чужой Отбор, или Охота на Мечту ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>137</sup>
 
 
-_28.02.2022 14:20:43_
+_01.03.2022 19:52:58_

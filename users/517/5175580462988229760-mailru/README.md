@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>51</sup>
+# List of books read by Triste<sup>52</sup>
 ---
 
 ## 2022
+
+### Идиот
+Достоевский
+> Понравилось.
+
 
 ### Чёрный человек
 С. А. Есенин

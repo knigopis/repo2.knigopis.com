@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
+    > Понравилось.
+
 * Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
-    > Ведь человек — это не свойство характера, а сделанный им выбор.
 
 * Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
 
-* Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>52</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>146</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 [](users/115/115471111502048563149-google)<sup>0</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 
 
-_01.03.2022 16:44:46_
+_01.03.2022 19:52:58_

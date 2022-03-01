@@ -1,4 +1,16 @@
 {
+    "FIhAD73mi2": {
+        "id": "FIhAD73mi2",
+        "title": "Идиот",
+        "author": "Достоевский",
+        "notes": "Понравилось.",
+        "createdAt": "2022-03-01 19:52:58",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 52
+        }
+    },
     "UvooIapyk_": {
         "id": "UvooIapyk_",
         "title": "Ведьмак. Час Презрения",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 202
-        }
-    },
-    "NFU4qfFnon": {
-        "id": "NFU4qfFnon",
-        "title": "Неточка Незванова",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2022-02-21 21:20:10",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 182
         }
     }
 }
