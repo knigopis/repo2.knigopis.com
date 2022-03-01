@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>146</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>186</sup> 
 [eva](users/111/111656270551033014778-google)<sup>120</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115471111502048563149-google)<sup>0</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
-[me](users/381/381417697-yandex)<sup>53</sup> 
 
 
-_01.03.2022 13:27:51_
+_01.03.2022 15:03:11_
