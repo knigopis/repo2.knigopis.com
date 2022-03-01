@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>146</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>186</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118248226132797004598-google)<sup>32</sup> 
 [](users/108/108602903446726240227-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>308</sup> 
 [denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 [Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>434</sup> 
 
 
-_01.03.2022 15:03:11_
+_01.03.2022 16:44:46_
