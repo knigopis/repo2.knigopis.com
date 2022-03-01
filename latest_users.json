@@ -1,4 +1,10 @@
 {
+    "101055787251601973291-google": {
+        "id": "101055787251601973291-google",
+        "nickname": "Inarra",
+        "booksCount": 0,
+        "updatedAt": "2022-03-01 15:03:11"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "Elixir",
         "booksCount": 434,
         "updatedAt": "2022-02-15 22:04:46"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 53,
-        "updatedAt": "2022-02-14 06:23:49"
     }
 }
