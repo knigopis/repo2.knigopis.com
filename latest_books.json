@@ -1,4 +1,16 @@
 {
+    "gKhMsZ1n9n": {
+        "id": "gKhMsZ1n9n",
+        "title": "Сказание об аде и рае, или расторжение брака",
+        "author": "Клайв Стейплз Льюис",
+        "notes": "",
+        "createdAt": "2022-03-02 16:21:51",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 28
+        }
+    },
     "eAmmBsQErb": {
         "id": "eAmmBsQErb",
         "title": "Изменённые 2. Три дня индиго",
@@ -345,18 +357,6 @@
             "id": "117396356938980769291-google",
             "nickname": "Victoriaperfectum",
             "booksCount": 10
-        }
-    },
-    "NHWfgeQUEr": {
-        "id": "NHWfgeQUEr",
-        "title": "Париж",
-        "author": "Резерфорд",
-        "notes": "",
-        "createdAt": "2022-02-23 02:09:17",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 32
         }
     }
 }
