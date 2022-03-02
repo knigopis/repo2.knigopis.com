@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>320</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>321</sup>
 ---
 
 ## 2022
+
+### Изменённые 2. Три дня индиго
+Лукьяненко Сергей
+> [2022-03-03] 
+
 
 ### Изменённые 1. Семь дней до Медиго
 Лукьяненко Сергей

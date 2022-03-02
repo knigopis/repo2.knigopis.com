@@ -1,4 +1,16 @@
 {
+    "eAmmBsQErb": {
+        "id": "eAmmBsQErb",
+        "title": "Изменённые 2. Три дня индиго",
+        "author": "Лукьяненко Сергей",
+        "notes": "",
+        "createdAt": "2022-03-02 13:46:29",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 321
+        }
+    },
     "44tP-WGeso": {
         "id": "44tP-WGeso",
         "title": "Сердце академии магии",
@@ -345,18 +357,6 @@
             "id": "118248226132797004598-google",
             "nickname": null,
             "booksCount": 32
-        }
-    },
-    "pB-TV6JTsI": {
-        "id": "pB-TV6JTsI",
-        "title": "Изгои академии Даркстоун",
-        "author": "Анастасия Медведева",
-        "notes": "",
-        "createdAt": "2022-02-22 21:08:14",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 50
         }
     }
 }
