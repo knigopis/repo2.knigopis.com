@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 369,
+        "updatedAt": "2022-03-02 21:46:32"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tututu",
@@ -82,12 +88,6 @@
         "nickname": "max_tito",
         "booksCount": 0,
         "updatedAt": "2022-02-27 16:43:48"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 368,
-        "updatedAt": "2022-02-26 20:11:10"
     },
     "128917939-vkontakte": {
         "id": "128917939-vkontakte",

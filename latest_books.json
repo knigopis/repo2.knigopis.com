@@ -1,4 +1,16 @@
 {
+    "bn4SRu79ur": {
+        "id": "bn4SRu79ur",
+        "title": "Анна Каренина",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2022-03-02 21:46:32",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 369
+        }
+    },
     "gKhMsZ1n9n": {
         "id": "gKhMsZ1n9n",
         "title": "Сказание об аде и рае, или расторжение брака",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 183
-        }
-    },
-    "rhPcf0XNHD": {
-        "id": "rhPcf0XNHD",
-        "title": "Книга Тишина в эпоху шума. Маленькая книга для большого города",
-        "author": "Эрлинг Кагге  Подробнее: https://www.yakaboo.ua/tishina-v-jepohu-shuma-malen-kaja-kniga-dlja-bol-shogo-goroda.html",
-        "notes": "3*5",
-        "createdAt": "2022-02-23 18:00:48",
-        "user": {
-            "id": "117396356938980769291-google",
-            "nickname": "Victoriaperfectum",
-            "booksCount": 10
         }
     }
 }
