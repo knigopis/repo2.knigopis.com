@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
+    > брошено на большей половине.
+
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
     > Понравилось.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
-    > Аудио
 
 * Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
 
-* Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Triste](users/517/5175580462988229760-mailru)<sup>52</sup> 
+[Triste](users/517/5175580462988229760-mailru)<sup>53</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
 
 
-_02.03.2022 04:41:59_
+_02.03.2022 04:42:42_

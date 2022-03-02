@@ -1,4 +1,16 @@
 {
+    "s7G8HUoEJR": {
+        "id": "s7G8HUoEJR",
+        "title": "Норвежский лес",
+        "author": "Харуки Мураками",
+        "notes": "брошено на большей половине.",
+        "createdAt": "2022-03-02 04:42:42",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 53
+        }
+    },
     "AELAJMAOqU": {
         "id": "AELAJMAOqU",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 254
-        }
-    },
-    "o8AD8zWCy-": {
-        "id": "o8AD8zWCy-",
-        "title": "Пророк",
-        "author": "Роберт Стивен Райн",
-        "notes": "",
-        "createdAt": "2022-02-22 08:18:28",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 202
         }
     }
 }

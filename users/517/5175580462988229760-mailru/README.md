@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>52</sup>
+# List of books read by Triste<sup>53</sup>
 ---
 
 ## 2022
+
+### Норвежский лес
+Харуки Мураками
+> брошено на большей половине.
+
 
 ### Идиот
 Ф.М.Достоевский

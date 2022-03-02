@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
 * Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
 * Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 * The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
-* Звездная пыль ~ [Garka](users/115/115753719718250012620-google)<sup>304</sup>
 
 
-_01.03.2022 19:52:58_
+_02.03.2022 04:42:42_
