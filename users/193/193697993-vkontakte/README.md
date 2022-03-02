@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>53</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>54</sup>
 ---
 
 ## 2022
+
+### Сердце академии магии
+Наталья Владимирова
+> [2022-03-02] 
+
 
 ### С любовью, теща!
 Ольга Валентеева
