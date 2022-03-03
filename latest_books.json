@@ -1,4 +1,16 @@
 {
+    "uDliNr76VA": {
+        "id": "uDliNr76VA",
+        "title": "Второй шанс для попаданки",
+        "author": "Санна Сью",
+        "notes": "",
+        "createdAt": "2022-03-03 08:15:42",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 55
+        }
+    },
     "bn4SRu79ur": {
         "id": "bn4SRu79ur",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 320
-        }
-    },
-    "gHlWsjh14d": {
-        "id": "gHlWsjh14d",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Кэтлин Роулинг",
-        "notes": "",
-        "createdAt": "2022-02-23 19:50:30",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 183
         }
     }
 }
