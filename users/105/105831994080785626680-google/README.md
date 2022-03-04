@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>321</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>322</sup>
 ---
 
 ## 2022
+
+### Изменённые 3. Месяц за рубиконом
+Лукьяненко Сергей
+> [2022-03-05] 
+
 
 ### Изменённые 2. Три дня индиго
 Лукьяненко Сергей
