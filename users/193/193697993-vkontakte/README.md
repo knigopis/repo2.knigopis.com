@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>55</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>56</sup>
 ---
 
 ## 2022
+
+### Второй шанс для Закатной Стражницы
+Елена Петрова
+> [2022-03-04] 
+
 
 ### Второй шанс для попаданки
 Санна Сью
