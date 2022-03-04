@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 220,
+        "updatedAt": "2022-03-04 06:37:42"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-02-18 16:38:29"
-    },
-    "106107989792957993574-google": {
-        "id": "106107989792957993574-google",
-        "nickname": "Мирослава",
-        "booksCount": 33,
-        "updatedAt": "2022-02-17 21:44:52"
     }
 }

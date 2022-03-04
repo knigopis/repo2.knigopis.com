@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>220</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>55</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>369</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 [](users/115/115471111502048563149-google)<sup>0</sup> 
-[Мирослава](users/106/106107989792957993574-google)<sup>33</sup> 
 
 
-_03.03.2022 08:15:42_
+_04.03.2022 06:37:42_
