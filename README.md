@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
+    > Ни одной мысли после прочтения
+
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
     > брошено на большей половине.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Понравилось.
 
 * Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
-    > audio
 
 * Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
 
-* Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>221</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>55</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>369</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>197</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 [](users/108/108355317006178724444-google)<sup>0</sup> 
-[](users/115/115471111502048563149-google)<sup>0</sup> 
 
 
-_04.03.2022 06:40:13_
+_04.03.2022 14:11:25_

@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>27</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>28</sup>
 ---
 
 ## 2022
+
+### Любовь к несовершенству
+Гемин Суним
+> [2022-02-27] Ни одной мысли после прочтения
+
 
 ### Стань себе родителем: как исцелить своего внутреннего ребенка
 Чжен Йен Кан

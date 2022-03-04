@@ -1,4 +1,10 @@
 {
+    "2579695-vkontakte": {
+        "id": "2579695-vkontakte",
+        "nickname": "albina_untiring",
+        "booksCount": 28,
+        "updatedAt": "2022-03-04 14:11:25"
+    },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-02-18 19:37:17"
-    },
-    "115471111502048563149-google": {
-        "id": "115471111502048563149-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-02-18 16:38:29"
     }
 }

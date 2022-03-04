@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
 * Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
 * Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
-* The Holiday Swap ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>5</sup>
 
 
-_02.03.2022 04:42:42_
+_04.03.2022 14:11:25_

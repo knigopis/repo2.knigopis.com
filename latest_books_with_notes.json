@@ -1,4 +1,16 @@
 {
+    "nXrpu7YF1r": {
+        "id": "nXrpu7YF1r",
+        "title": "Любовь к несовершенству",
+        "author": "Гемин Суним",
+        "notes": "Ни одной мысли после прочтения",
+        "createdAt": "2022-03-04 14:11:25",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 28
+        }
+    },
     "s7G8HUoEJR": {
         "id": "s7G8HUoEJR",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 236
-        }
-    },
-    "LYOz_tWFiO": {
-        "id": "LYOz_tWFiO",
-        "title": "The Holiday Swap",
-        "author": "Maggie Knox",
-        "notes": "5*5",
-        "createdAt": "2022-01-25 15:14:48",
-        "user": {
-            "id": "117396356938980769291-google",
-            "nickname": "Victoriaperfectum",
-            "booksCount": 5
         }
     }
 }
