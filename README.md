@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
+    > Короткая книга об очевидных вещах о которых мало задумывались.
+
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
     > Ни одной мысли после прочтения
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > брошено на большей половине.
 
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
-    > Понравилось.
 
 * Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
 
-* Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>29</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>187</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>916</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>221</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>369</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>28</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>53</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 
 
-_05.03.2022 19:06:50_
+_05.03.2022 20:48:57_

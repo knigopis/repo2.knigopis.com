@@ -1,4 +1,16 @@
 {
+    "yzQKDShlAu": {
+        "id": "yzQKDShlAu",
+        "title": "Расширить сознание легально",
+        "author": "Владислав Гайдукевич",
+        "notes": "Короткая книга об очевидных вещах о которых мало задумывались.",
+        "createdAt": "2022-03-05 20:48:57",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 29
+        }
+    },
     "qt9xMTg_80": {
         "id": "qt9xMTg_80",
         "title": "нейромант",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 368
-        }
-    },
-    "tbUF_1tU6C": {
-        "id": "tbUF_1tU6C",
-        "title": "Это было потом",
-        "author": "Маша Рольникайте",
-        "notes": "",
-        "createdAt": "2022-02-26 20:10:06",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 367
         }
     }
 }

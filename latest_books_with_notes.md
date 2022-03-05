@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Академия истинной магии ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup>
 * Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
 * Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
-* Храброе сердце Ирены Сендлер ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>236</sup>
 
 
-_04.03.2022 14:11:25_
+_05.03.2022 20:48:57_

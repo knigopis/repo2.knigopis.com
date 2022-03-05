@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tututu",
+        "booksCount": 29,
+        "updatedAt": "2022-03-05 20:48:57"
+    },
     "111656270551033014778-google": {
         "id": "111656270551033014778-google",
         "nickname": "eva",
@@ -46,12 +52,6 @@
         "nickname": "Йолант",
         "booksCount": 369,
         "updatedAt": "2022-03-02 21:46:32"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tututu",
-        "booksCount": 28,
-        "updatedAt": "2022-03-02 16:21:51"
     },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
