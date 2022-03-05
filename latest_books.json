@@ -1,4 +1,16 @@
 {
+    "7czotr_mzu": {
+        "id": "7czotr_mzu",
+        "title": "Дело о полупроснувшейся жене",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-03-05 15:13:35",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 916
+        }
+    },
     "DqV5VhbYZL": {
         "id": "DqV5VhbYZL",
         "title": "Изменённые 3. Месяц за рубиконом",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 184
-        }
-    },
-    "Og8Xg0Dw8q": {
-        "id": "Og8Xg0Dw8q",
-        "title": "Дикие",
-        "author": "Родители Пауэр",
-        "notes": "Подарок от тайного санты",
-        "createdAt": "2022-02-25 11:20:07",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": "pria",
-            "booksCount": 60
         }
     }
 }
