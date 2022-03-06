@@ -1,7 +1,12 @@
-# List of books read by [tututu](http://vk.com/id135685382)<sup>29</sup>
+# List of books read by [tututu](http://vk.com/id135685382)<sup>30</sup>
 ---
 
 ## 2022
+
+### Не так уж и сложно
+Владислав Гайдукевич
+> [2022-03-06] 
+
 
 ### Расширить сознание легально
 Владислав Гайдукевич
