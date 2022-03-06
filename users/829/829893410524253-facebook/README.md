@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>240</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>241</sup>
 ---
 
 ## 2022
+
+### Космічна одісея 2001
+Артур Кларк
+> [2022-03-07] 10/10 Загадковий моноліт потрапляє на поверхню Землі, його завданням є прискорення еволюції розуму.
+
 
 ### Пегий пес, бегущий краем моря
 Чингиз Айтматов

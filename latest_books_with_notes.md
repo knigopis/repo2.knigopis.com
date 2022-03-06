@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Космічна одісея 2001 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup>
 * Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
 * Мой милый пони ~ [Triste](users/517/5175580462988229760-mailru)<sup>54</sup>
 * Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
@@ -30,7 +31,6 @@
 * Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
 * Стань себе родителем: как исцелить своего внутреннего ребенка ~ [albina_untiring](users/257/2579695-vkontakte)<sup>27</sup>
 * Трое в лодке, не считая собаки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>52</sup>
-* Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
 
 
-_06.03.2022 20:46:43_
+_06.03.2022 22:23:57_

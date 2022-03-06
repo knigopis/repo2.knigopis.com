@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Космічна одісея 2001 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup>
+    > 10/10 Загадковий моноліт потрапляє на поверхню Землі, його завданням є прискорення еволюції розуму.
+
 * Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
     > Воспаряющий мужчина из Касл-рока, где поселились две лесбиянки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > бреад...... скукота....
 
 * Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
-    > Из сборника «Ночная смена».
 
 * Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
 
-* Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>54</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 [](users/118/118248226132797004598-google)<sup>32</sup> 
 [](users/108/108602903446726240227-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup> 
 [denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 [Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 
 
-_06.03.2022 20:46:43_
+_06.03.2022 22:23:57_

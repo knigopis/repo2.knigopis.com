@@ -1,4 +1,16 @@
 {
+    "cAs4q5c_v0": {
+        "id": "cAs4q5c_v0",
+        "title": "Космічна одісея 2001",
+        "author": "Артур Кларк",
+        "notes": "10/10 Загадковий моноліт потрапляє на поверхню Землі, його завданням є прискорення еволюції розуму.",
+        "createdAt": "2022-03-06 22:23:57",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 241
+        }
+    },
     "7A-4b8XFwZ": {
         "id": "7A-4b8XFwZ",
         "title": "Воспарение",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 52
-        }
-    },
-    "5LV-G3OSsT": {
-        "id": "5LV-G3OSsT",
-        "title": "Вдали от обезумевшей толпы",
-        "author": "Томас Харди",
-        "notes": "audio",
-        "createdAt": "2022-02-04 17:37:15",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 51
         }
     }
 }
