@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>53</sup>
+# List of books read by Triste<sup>54</sup>
 ---
 
 ## 2022
+
+### Мой милый пони
+Стивен Кинг
+> бреад...... скукота....
+
 
 ### Норвежский лес
 Харуки Мураками

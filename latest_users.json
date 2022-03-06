@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 54,
+        "updatedAt": "2022-03-06 18:26:50"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -58,12 +64,6 @@
         "nickname": "Йолант",
         "booksCount": 369,
         "updatedAt": "2022-03-02 21:46:32"
-    },
-    "5175580462988229760-mailru": {
-        "id": "5175580462988229760-mailru",
-        "nickname": "Triste",
-        "booksCount": 53,
-        "updatedAt": "2022-03-02 04:42:42"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

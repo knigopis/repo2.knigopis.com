@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мой милый пони ~ [Triste](users/517/5175580462988229760-mailru)<sup>54</sup>
+    > бреад...... скукота....
+
 * Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
     > Из сборника «Ночная смена».
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткая книга об очевидных вещах о которых мало задумывались.
 
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
-    > Ни одной мысли после прочтения
 
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
 
-* Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>54</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>221</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>369</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>53</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 
 
-_06.03.2022 14:02:32_
+_06.03.2022 18:26:50_
