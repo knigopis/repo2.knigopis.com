@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
 * Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Вдали от обезумевшей толпы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>51</sup>
 * Академия истинной магии ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>141</sup>
 * Ведьмак. Последнее желание ~ [Garka](users/115/115753719718250012620-google)<sup>306</sup>
-* Осознанность ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>6</sup>
 
 
-_05.03.2022 20:48:57_
+_06.03.2022 14:02:32_

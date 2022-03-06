@@ -1,4 +1,16 @@
 {
+    "6UixdZP945": {
+        "id": "6UixdZP945",
+        "title": "Я знаю, чего ты хочешь",
+        "author": "Стивен Кинг",
+        "notes": "Из сборника «Ночная смена».",
+        "createdAt": "2022-03-06 14:02:32",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 256
+        }
+    },
     "yzQKDShlAu": {
         "id": "yzQKDShlAu",
         "title": "Расширить сознание легально",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 306
-        }
-    },
-    "XJJ1pNktCf": {
-        "id": "XJJ1pNktCf",
-        "title": "Осознанность",
-        "author": "Раджниш Ошо",
-        "notes": "4*5",
-        "createdAt": "2022-01-31 10:52:17",
-        "user": {
-            "id": "117396356938980769291-google",
-            "nickname": "Victoriaperfectum",
-            "booksCount": 6
         }
     }
 }

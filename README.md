@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
+    > Из сборника «Ночная смена».
+
 * Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
     > Короткая книга об очевидных вещах о которых мало задумывались.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ни одной мысли после прочтения
 
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
-    > брошено на большей половине.
 
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
 
-* Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>187</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>204</sup> 
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>60</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup> 
 [](users/153/1537586159620888-facebook)<sup>66</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 [](users/118/118248226132797004598-google)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 
 
-_06.03.2022 12:48:38_
+_06.03.2022 14:02:32_
