@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
+    > Воспаряющий мужчина из Касл-рока, где поселились две лесбиянки.
+
 * Мой милый пони ~ [Triste](users/517/5175580462988229760-mailru)<sup>54</sup>
     > бреад...... скукота....
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из сборника «Ночная смена».
 
 * Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
-    > Короткая книга об очевидных вещах о которых мало задумывались.
 
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и тайная комната ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>184</sup>
 
-* Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>54</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>187</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108355317006178724444-google)<sup>0</sup> 
 
 
-_06.03.2022 18:26:50_
+_06.03.2022 20:46:43_
