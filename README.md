@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
+    > Лёгкий рассказ про взаимоотношения, переживания людей разной возрастной группы. Имеет место самообман, невыраженные чувства, неразделенная любовь, метания по поиску своего места в жизни. Герои ведут светствую жизнь, но в глубине души многие из них несчастны и уже смирились с таким положением вещей, не ожидая от жизни лучшего.
+
 * Похождения Чичикова или Мёртвые души ~ [Triste](users/517/5175580462988229760-mailru)<sup>55</sup>
     > критическая статья
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Загадковий моноліт потрапляє на поверхню Землі, його завданням є прискорення еволюції розуму.
 
 * Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
-    > Воспаряющий мужчина из Касл-рока, где поселились две лесбиянки.
 
 * Мой милый пони ~ [Triste](users/517/5175580462988229760-mailru)<sup>54</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
 
-* Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>15</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>55</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>197</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
-[](users/108/108355317006178724444-google)<sup>0</sup> 
 
 
-_07.03.2022 11:42:45_
+_07.03.2022 21:02:15_

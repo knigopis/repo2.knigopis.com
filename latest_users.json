@@ -1,4 +1,10 @@
 {
+    "254448176-yandex": {
+        "id": "254448176-yandex",
+        "nickname": "Len4e91",
+        "booksCount": 15,
+        "updatedAt": "2022-03-07 21:02:15"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 55,
         "updatedAt": "2022-02-18 22:33:25"
-    },
-    "108355317006178724444-google": {
-        "id": "108355317006178724444-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-02-18 19:37:17"
     }
 }
