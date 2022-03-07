@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
+    > 10/10 Монолит на Юпитере, новая команда летит исследовать его.
+
 * Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
     > Лёгкий рассказ про взаимоотношения, переживания людей разной возрастной группы. Имеет место самообман, невыраженные чувства, неразделенная любовь, метания по поиску своего места в жизни. Герои ведут светствую жизнь, но в глубине души многие из них несчастны и уже смирились с таким положением вещей, не ожидая от жизни лучшего.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > критическая статья
 
 * Космічна одісея 2001 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup>
-    > 10/10 Загадковий моноліт потрапляє на поверхню Землі, його завданням є прискорення еволюції розуму.
 
 * Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 
-* Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>15</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>55</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 
 
-_07.03.2022 21:02:15_
+_07.03.2022 23:57:36_

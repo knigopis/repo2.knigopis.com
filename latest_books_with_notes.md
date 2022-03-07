@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
 * Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
 * Похождения Чичикова или Мёртвые души ~ [Triste](users/517/5175580462988229760-mailru)<sup>55</sup>
 * Космічна одісея 2001 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup>
@@ -30,7 +31,6 @@
 * Великая грешница или черница по неволи ~ [mfevralev](users/140/140966150-vkontakte)<sup>55</sup>
 * Служба Донских казаков выпуск 11 ~ [mfevralev](users/140/140966150-vkontakte)<sup>54</sup>
 * Танечка ~ [tumturumk](users/135/135685382-vkontakte)<sup>22</sup>
-* Чтобы ты остался евреем ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>237</sup>
 
 
-_07.03.2022 21:02:15_
+_07.03.2022 23:57:36_

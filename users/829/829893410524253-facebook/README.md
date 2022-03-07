@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>241</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>242</sup>
 ---
 
 ## 2022
+
+### 2010: Одиссея два
+Артур Кларк
+> [2022-03-08] 10/10 Монолит на Юпитере, новая команда летит исследовать его.
+
 
 ### Космічна одісея 2001
 Артур Кларк
