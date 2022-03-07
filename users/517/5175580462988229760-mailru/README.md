@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>54</sup>
+# List of books read by Triste<sup>55</sup>
 ---
 
 ## 2022
+
+### Похождения Чичикова или Мёртвые души
+Белинский
+> критическая статья
+
 
 ### Мой милый пони
 Стивен Кинг
