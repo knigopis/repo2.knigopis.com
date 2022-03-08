@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
+    > 8/10 Колишній політв'язень зустрічає свого слідчого.
+
 * 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
     > 10/10 Монолит на Юпитере, новая команда летит исследовать его.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Лёгкий рассказ про взаимоотношения, переживания людей разной возрастной группы. Имеет место самообман, невыраженные чувства, неразделенная любовь, метания по поиску своего места в жизни. Герои ведут светствую жизнь, но в глубине души многие из них несчастны и уже смирились с таким положением вещей, не ожидая от жизни лучшего.
 
 * Похождения Чичикова или Мёртвые души ~ [Triste](users/517/5175580462988229760-mailru)<sup>55</sup>
-    > критическая статья
 
 * Космічна одісея 2001 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
 
-* Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>15</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>55</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 
 
-_07.03.2022 23:57:36_
+_08.03.2022 15:38:37_
