@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105552767299996122433-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>15</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>55</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 [Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>197</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>55</sup> 
 
 
-_08.03.2022 15:38:37_
+_08.03.2022 17:37:17_
