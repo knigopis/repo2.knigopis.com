@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>57</sup> 
 [](users/105/105552767299996122433-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 [Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>197</sup> 
 
 
-_09.03.2022 11:23:11_
+_09.03.2022 12:53:22_

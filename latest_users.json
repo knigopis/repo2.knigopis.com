@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 86,
+        "updatedAt": "2022-03-09 12:53:22"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": "Lo.wecane",
         "booksCount": 0,
         "updatedAt": "2022-02-19 15:25:26"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 197,
-        "updatedAt": "2022-02-19 11:19:37"
     }
 }
