@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[дашец](users/111/111162603959936416596-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>188</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>57</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108602903446726240227-google)<sup>0</sup> 
 [denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
-[Lo.wecane](users/104/104796862760252606871-google)<sup>0</sup> 
 
 
-_09.03.2022 21:41:26_
+_09.03.2022 23:30:05_
