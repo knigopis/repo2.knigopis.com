@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>57</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>58</sup>
 ---
 
 ## 2022
+
+### Практическая психология. Герцог
+Ирина Успенская
+> [2022-03-10] 
+
 
 ### Практическая психология. Конт
 Ирина Успенская
