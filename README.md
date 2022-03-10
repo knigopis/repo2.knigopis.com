@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>370</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>371</sup> 
 [дашец](users/111/111162603959936416596-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>188</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 
 
-_10.03.2022 02:48:53_
+_10.03.2022 02:49:58_
