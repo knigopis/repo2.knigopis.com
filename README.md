@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>370</sup> 
 [дашец](users/111/111162603959936416596-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>188</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>322</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>221</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>369</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [x](users/104/104714960785244441663-google)<sup>8</sup> 
 
 
-_09.03.2022 23:30:05_
+_10.03.2022 02:48:53_
