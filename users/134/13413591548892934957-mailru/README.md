@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>412</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>411</sup>
 ---
 
 ## 2022
@@ -886,11 +886,6 @@
 
 ### Безмолвная земля
 Грэм Джойс
-> [2015-12-03] 
-
-
-### Сказки Барда Бидля
-Джоан Роулинг
 > [2015-12-03] 
 
 
