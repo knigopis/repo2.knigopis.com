@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shellena](users/134/13413591548892934957-mailru)<sup>412</sup> 
+[Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>59</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>917</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>147</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 
 
-_11.03.2022 20:30:16_
+_11.03.2022 20:30:21_
