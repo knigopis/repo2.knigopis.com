@@ -1,4 +1,16 @@
 {
+    "2bF1L9Eefr": {
+        "id": "2bF1L9Eefr",
+        "title": "Дело о заимствованной брюнетке",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-03-11 18:01:46",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 917
+        }
+    },
     "7QEFcnxlVM": {
         "id": "7QEFcnxlVM",
         "title": "Стеклянный трон. Империя бурь",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 28
-        }
-    },
-    "eAmmBsQErb": {
-        "id": "eAmmBsQErb",
-        "title": "Изменённые 2. Три дня индиго",
-        "author": "Лукьяненко Сергей",
-        "notes": "",
-        "createdAt": "2022-03-02 13:46:29",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 321
         }
     }
 }
