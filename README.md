@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
+    > Ильюшин и Бабкин 28
+
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
     > 8/10 Колишній політв'язень зустрічає свого слідчого.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Монолит на Юпитере, новая команда летит исследовать его.
 
 * Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
-    > Лёгкий рассказ про взаимоотношения, переживания людей разной возрастной группы. Имеет место самообман, невыраженные чувства, неразделенная любовь, метания по поиску своего места в жизни. Герои ведут светствую жизнь, но в глубине души многие из них несчастны и уже смирились с таким положением вещей, не ожидая от жизни лучшего.
 
 * Похождения Чичикова или Мёртвые души ~ [Triste](users/517/5175580462988229760-mailru)<sup>55</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
 
-* Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>59</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>917</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>322</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>221</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 
 
-_11.03.2022 20:30:21_
+_11.03.2022 21:43:38_
