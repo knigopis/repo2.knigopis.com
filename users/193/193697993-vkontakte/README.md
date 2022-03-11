@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>58</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>59</sup>
 ---
 
 ## 2022
+
+### Жена на одну ночь
+Алисия Эванс
+> [2022-03-11] 
+
 
 ### Практическая психология. Герцог
 Ирина Успенская
