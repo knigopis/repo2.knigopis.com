@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
+    > Мужчина решил похудеть ради уменьшения холестерина, но его внутренние рабочие были против.
+
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
     > В книге две повести: "Портрет человека невидимки" и "Книга памяти". Первая повесть представлена в виде мемуаров об отце автора. Читать довольно интересно. Вторая повесть похожа на набор слов и случайных цитат от куда попало. 3/5
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ильюшин и Бабкин 28
 
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
-    > 8/10 Колишній політв'язень зустрічає свого слідчого.
 
 * 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мой милый пони ~ [Triste](users/517/5175580462988229760-mailru)<sup>54</sup>
 
-* Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>15</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>55</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118248226132797004598-google)<sup>32</sup> 
 
 
-_12.03.2022 08:33:02_
+_12.03.2022 19:57:00_

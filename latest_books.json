@@ -1,4 +1,16 @@
 {
+    "d4AEEAnAwF": {
+        "id": "d4AEEAnAwF",
+        "title": "Велотренажёр",
+        "author": "Стивен Кинг",
+        "notes": "Мужчина решил похудеть ради уменьшения холестерина, но его внутренние рабочие были против.",
+        "createdAt": "2022-03-12 19:57:00",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 258
+        }
+    },
     "6_OEb-jrXZ": {
         "id": "6_OEb-jrXZ",
         "title": "Измышления одиночества",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-googleplus",
             "nickname": "Sky",
             "booksCount": 221
-        }
-    },
-    "WFGxQt6wpY": {
-        "id": "WFGxQt6wpY",
-        "title": "Первый закон 1. Кровь и железо",
-        "author": "Джо Аберкромби",
-        "notes": "",
-        "createdAt": "2022-03-04 06:37:42",
-        "user": {
-            "id": "118049897850017649660-googleplus",
-            "nickname": "Sky",
-            "booksCount": 220
         }
     }
 }
