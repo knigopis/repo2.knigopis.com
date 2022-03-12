@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
+    > В книге две повести: "Портрет человека невидимки" и "Книга памяти". Первая повесть представлена в виде мемуаров об отце автора. Читать довольно интересно. Вторая повесть похожа на набор слов и случайных цитат от куда попало. 3/5
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
     > Ильюшин и Бабкин 28
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Колишній політв'язень зустрічає свого слідчого.
 
 * 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
-    > 10/10 Монолит на Юпитере, новая команда летит исследовать его.
 
 * Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
 
-* Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>59</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 [](users/118/118248226132797004598-google)<sup>32</sup> 
 [](users/108/108602903446726240227-google)<sup>0</sup> 
-[denys_pwnz](users/421/421114755-vkontakte)<sup>0</sup> 
 
 
-_11.03.2022 21:43:38_
+_12.03.2022 06:55:37_

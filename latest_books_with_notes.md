@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
 * 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
@@ -30,7 +31,6 @@
 * Коллекция поцелуев ~ [pria](users/128/128917939-vkontakte)<sup>59</sup>
 * Безодня ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 * Пять невест ректора ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>142</sup>
-* Великая грешница или черница по неволи ~ [mfevralev](users/140/140966150-vkontakte)<sup>55</sup>
 
 
-_11.03.2022 21:43:38_
+_12.03.2022 06:55:37_
