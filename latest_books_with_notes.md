@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
@@ -30,7 +31,6 @@
 * Академия Невест. Последний отбор ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup>
 * Академия Невест ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>143</sup>
 * Коллекция поцелуев ~ [pria](users/128/128917939-vkontakte)<sup>59</sup>
-* Безодня ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 
 
-_12.03.2022 19:57:00_
+_13.03.2022 19:57:03_

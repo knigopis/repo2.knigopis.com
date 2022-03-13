@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
+    > Горничная ест сперму писателя, её сын становится похож на него.
+
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
     > Мужчина решил похудеть ради уменьшения холестерина, но его внутренние рабочие были против.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В книге две повести: "Портрет человека невидимки" и "Книга памяти". Первая повесть представлена в виде мемуаров об отце автора. Читать довольно интересно. Вторая повесть похожа на набор слов и случайных цитат от куда попало. 3/5
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
-    > Ильюшин и Бабкин 28
 
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
 
-* Мой милый пони ~ [Triste](users/517/5175580462988229760-mailru)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup> 
 [](users/113/113094351246440936608-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 
 
-_13.03.2022 08:29:44_
+_13.03.2022 19:57:03_
