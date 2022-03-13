@@ -1,4 +1,10 @@
 {
+    "113094351246440936608-google": {
+        "id": "113094351246440936608-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-03-13 08:29:44"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Victoriaperfectum",
         "booksCount": 10,
         "updatedAt": "2022-02-23 18:00:48"
-    },
-    "118248226132797004598-google": {
-        "id": "118248226132797004598-google",
-        "nickname": null,
-        "booksCount": 32,
-        "updatedAt": "2022-02-23 02:09:17"
     }
 }
