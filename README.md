@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/113/113094351246440936608-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>60</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
-[](users/118/118248226132797004598-google)<sup>32</sup> 
 
 
-_12.03.2022 19:57:00_
+_13.03.2022 08:29:44_
