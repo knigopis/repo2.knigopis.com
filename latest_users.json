@@ -1,4 +1,10 @@
 {
+    "113094351246440936608-google": {
+        "id": "113094351246440936608-google",
+        "nickname": "Карина",
+        "booksCount": 1,
+        "updatedAt": "2022-03-14 10:55:40"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -16,12 +22,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 259,
         "updatedAt": "2022-03-13 19:57:03"
-    },
-    "113094351246440936608-google": {
-        "id": "113094351246440936608-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-03-13 08:29:44"
     },
     "102431900572288706085-google": {
         "id": "102431900572288706085-google",

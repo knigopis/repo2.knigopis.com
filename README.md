@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Карина](users/113/113094351246440936608-google)<sup>1</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>29</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>205</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup> 
-[](users/113/113094351246440936608-google)<sup>0</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 
 
-_14.03.2022 10:31:52_
+_14.03.2022 10:55:40_
