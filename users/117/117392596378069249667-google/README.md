@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>138</sup>
+# List of books read by 4apa<sup>139</sup>
 ---
 
 ## 2022
+
+### Апофения
+А. Панчин
+> [2022-03-14] 
+
 
 ### Хроники научной жизни
 В. Иванов
