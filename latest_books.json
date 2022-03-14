@@ -1,4 +1,16 @@
 {
+    "mQtyqliKuH": {
+        "id": "mQtyqliKuH",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "",
+        "createdAt": "2022-03-14 11:00:15",
+        "user": {
+            "id": "113094351246440936608-google",
+            "nickname": "Карина",
+            "booksCount": 6
+        }
+    },
     "AoAHUCBGvO": {
         "id": "AoAHUCBGvO",
         "title": "Книга для неидеальных родителей",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 256
-        }
-    },
-    "8LAC8Al8fH": {
-        "id": "8LAC8Al8fH",
-        "title": "Не так уж и сложно",
-        "author": "Владислав Гайдукевич",
-        "notes": "",
-        "createdAt": "2022-03-06 12:48:38",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
-            "booksCount": 30
         }
     }
 }
