@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>205</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup> 
 [](users/113/113094351246440936608-google)<sup>0</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>138</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>204</sup> 
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>60</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 
 
-_13.03.2022 19:57:03_
+_14.03.2022 08:27:47_

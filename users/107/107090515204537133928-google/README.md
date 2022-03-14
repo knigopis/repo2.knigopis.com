@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>204</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>205</sup>
 ---
 
 ## 2022
+
+### По ком звонит колокол
+Эрнест Хеменгуэй
+> [2022-03-14] 
+
 
 ### Стремись услышать нет
 Ричард Фентон Андрэа Вольц

@@ -1,4 +1,16 @@
 {
+    "cl3bxFWrP9": {
+        "id": "cl3bxFWrP9",
+        "title": "По ком звонит колокол",
+        "author": "Эрнест Хеменгуэй",
+        "notes": "",
+        "createdAt": "2022-03-14 08:27:47",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 205
+        }
+    },
     "Fdv8q5oI5e": {
         "id": "Fdv8q5oI5e",
         "title": "Посвещение",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 56
-        }
-    },
-    "nXrpu7YF1r": {
-        "id": "nXrpu7YF1r",
-        "title": "Любовь к несовершенству",
-        "author": "Гемин Суним",
-        "notes": "Ни одной мысли после прочтения",
-        "createdAt": "2022-03-04 14:11:25",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 28
         }
     }
 }
