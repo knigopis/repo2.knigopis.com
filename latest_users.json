@@ -1,4 +1,10 @@
 {
+    "192350657-vkontakte": {
+        "id": "192350657-vkontakte",
+        "nickname": "Altaika",
+        "booksCount": 0,
+        "updatedAt": "2022-03-14 21:07:54"
+    },
     "1480755193-yandex": {
         "id": "1480755193-yandex",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "max_tito",
         "booksCount": 0,
         "updatedAt": "2022-02-27 16:43:48"
-    },
-    "128917939-vkontakte": {
-        "id": "128917939-vkontakte",
-        "nickname": "pria",
-        "booksCount": 60,
-        "updatedAt": "2022-02-25 11:20:07"
     }
 }
