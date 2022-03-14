@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/148/1480755193-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>139</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>60</sup> 
 [Карина](users/113/113094351246440936608-google)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup> 
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>60</sup> 
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup> 
 
 
-_14.03.2022 15:03:04_
+_14.03.2022 16:24:03_
