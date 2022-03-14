@@ -1,4 +1,10 @@
 {
+    "2579695-vkontakte": {
+        "id": "2579695-vkontakte",
+        "nickname": "albina_untiring",
+        "booksCount": 29,
+        "updatedAt": "2022-03-14 10:31:52"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -124,12 +130,6 @@
         "nickname": "eva",
         "booksCount": 121,
         "updatedAt": "2022-03-05 19:06:50"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 28,
-        "updatedAt": "2022-03-04 14:11:25"
     },
     "118049897850017649660-googleplus": {
         "id": "118049897850017649660-googleplus",

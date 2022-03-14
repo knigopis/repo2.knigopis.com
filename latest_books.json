@@ -1,4 +1,16 @@
 {
+    "1rVpUz0Tt_": {
+        "id": "1rVpUz0Tt_",
+        "title": "Герои книг на приеме у психотерапевта: Прогулки с врачом по страницам литературных произведений. От Ромео и Джульетты до Гарри Поттера",
+        "author": "Андреа Боттлингер и Клаудия Хохбрунн",
+        "notes": "",
+        "createdAt": "2022-03-14 10:31:52",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 29
+        }
+    },
     "cl3bxFWrP9": {
         "id": "cl3bxFWrP9",
         "title": "По ком звонит колокол",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 322
-        }
-    },
-    "TGigKdGBcN": {
-        "id": "TGigKdGBcN",
-        "title": "Второй шанс для Закатной Стражницы",
-        "author": "Елена Петрова",
-        "notes": "",
-        "createdAt": "2022-03-04 14:19:48",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 56
         }
     }
 }
