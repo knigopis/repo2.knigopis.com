@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
+    > Мужчина снится, что одна из дочерей погибла. Утром раздаётся звонок.
+
 * Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
     > Священник оборотень и мальчик инвалид.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О группе Стивена Кинга и его гастролях.
 
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
-    > Горничная ест сперму писателя, её сын становится похож на него.
 
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
 
-* Похождения Чичикова или Мёртвые души ~ [Triste](users/517/5175580462988229760-mailru)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>139</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 
 
-_15.03.2022 05:55:05_
+_15.03.2022 05:56:44_
