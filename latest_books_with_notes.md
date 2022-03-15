@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
 * Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
 * Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
@@ -30,7 +31,6 @@
 * Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
-* Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
 
 
-_15.03.2022 05:56:44_
+_15.03.2022 11:21:10_

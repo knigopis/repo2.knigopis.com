@@ -1,4 +1,16 @@
 {
+    "UCIBPE-arL": {
+        "id": "UCIBPE-arL",
+        "title": "Прожити й розповісти",
+        "author": "Анатолій Дімаров",
+        "notes": "8/10 Спогади українського письменника про дитинство, голод, війну та совєтську окупацію України.",
+        "createdAt": "2022-03-15 11:21:10",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 244
+        }
+    },
     "vlYbwGYDG0": {
         "id": "vlYbwGYDG0",
         "title": "Сон Харви",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 253
-        }
-    },
-    "ArAhqe17g7": {
-        "id": "ArAhqe17g7",
-        "title": "Спустошення Диявольського Акра. Дім дивних дітей",
-        "author": "Ренсом Ріґґз",
-        "notes": "8/10 Остання частина пригод дивних. Завершальна битва.",
-        "createdAt": "2022-02-20 12:39:18",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 239
         }
     }
 }

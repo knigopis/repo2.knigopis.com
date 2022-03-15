@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>243</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>244</sup>
 ---
 
 ## 2022
+
+### Прожити й розповісти
+Анатолій Дімаров
+> [2022-03-13] 8/10 Спогади українського письменника про дитинство, голод, війну та совєтську окупацію України.
+
 
 ### Попіл Клааса
 Аеатолій Дімаров
