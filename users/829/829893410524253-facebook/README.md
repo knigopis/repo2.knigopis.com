@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>244</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>245</sup>
 ---
 
 ## 2022
+
+### Кто не спрятался
+Яна Вагнер
+> [2022-03-15] 9/10 Компания друзей заблокирована в отеле, где происходит убийство.
+
 
 ### Прожити й розповісти
 Анатолій Дімаров

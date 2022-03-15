@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 * Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
 * Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
@@ -30,7 +31,6 @@
 * Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
 * Красный экран ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>254</sup>
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
-* Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
 
 
-_15.03.2022 11:21:10_
+_15.03.2022 11:23:22_

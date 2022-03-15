@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
+    > 9/10 Компания друзей заблокирована в отеле, где происходит убийство.
+
 * Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
     > 8/10 Спогади українського письменника про дитинство, голод, війну та совєтську окупацію України.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мужчина снится, что одна из дочерей погибла. Утром раздаётся звонок.
 
 * Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
-    > Священник оборотень и мальчик инвалид.
 
 * Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
 
-* 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 
 
-_15.03.2022 11:21:10_
+_15.03.2022 11:23:22_
