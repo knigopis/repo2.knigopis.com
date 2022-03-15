@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
+    > О группе Стивена Кинга и его гастролях.
+
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
     > Горничная ест сперму писателя, её сын становится похож на него.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мужчина решил похудеть ради уменьшения холестерина, но его внутренние рабочие были против.
 
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
-    > В книге две повести: "Портрет человека невидимки" и "Книга памяти". Первая повесть представлена в виде мемуаров об отце автора. Читать довольно интересно. Вторая повесть похожа на набор слов и случайных цитат от куда попало. 3/5
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Космічна одісея 2001 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup>
 
-* Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>139</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Карина](users/113/113094351246440936608-google)<sup>6</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>29</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>205</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 
 
-_14.03.2022 21:07:55_
+_15.03.2022 01:47:31_

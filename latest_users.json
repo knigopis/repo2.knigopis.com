@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 260,
+        "updatedAt": "2022-03-15 01:47:31"
+    },
     "192350657-vkontakte": {
         "id": "192350657-vkontakte",
         "nickname": "Altaika",
@@ -40,12 +46,6 @@
         "nickname": "Naricev",
         "booksCount": 205,
         "updatedAt": "2022-03-14 08:27:47"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 259,
-        "updatedAt": "2022-03-13 19:57:03"
     },
     "102431900572288706085-google": {
         "id": "102431900572288706085-google",
