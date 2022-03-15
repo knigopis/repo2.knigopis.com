@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
 * Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
@@ -30,7 +31,6 @@
 * Буря столетия ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>253</sup>
 * Спустошення Диявольського Акра. Дім дивних дітей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>239</sup>
 * Академия Невест. Последний отбор ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>144</sup>
-* Академия Невест ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>143</sup>
 
 
-_15.03.2022 01:47:31_
+_15.03.2022 05:55:05_

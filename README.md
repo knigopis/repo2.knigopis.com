@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
+    > Священник оборотень и мальчик инвалид.
+
 * Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
     > О группе Стивена Кинга и его гастролях.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Горничная ест сперму писателя, её сын становится похож на него.
 
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
-    > Мужчина решил похудеть ради уменьшения холестерина, но его внутренние рабочие были против.
 
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Похождения Чичикова или Мёртвые души ~ [Triste](users/517/5175580462988229760-mailru)<sup>55</sup>
 
-* Космічна одісея 2001 ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>241</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>139</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 
 
-_15.03.2022 01:47:31_
+_15.03.2022 05:55:05_
