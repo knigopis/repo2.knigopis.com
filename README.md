@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>918</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>917</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>147</sup> 
 [](users/153/1537586159620888-facebook)<sup>67</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>371</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [max_tito](users/109/10967144-vkontakte)<sup>0</sup> 
 
 
-_15.03.2022 11:23:22_
+_15.03.2022 16:50:25_
