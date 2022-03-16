@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
+    > Бабкин и Ильюшин 26.  придумывать ему кличку. Мы даем имена, чтобы присвоить того, кто их носит, сделать частью своей жизни. Дожив до семидесяти, я пришла к тому, чтобы дать не только себе свободу от других, но и другим свободу от себя.
+
 * Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
     > 9/10 Компания друзей заблокирована в отеле, где происходит убийство.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Спогади українського письменника про дитинство, голод, війну та совєтську окупацію України.
 
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
-    > Мужчина снится, что одна из дочерей погибла. Утром раздаётся звонок.
 
 * Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
 
@@ -24,8 +26,6 @@ Do not use pull requests to make changes here.
 
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
-
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
 
 
@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>324</sup> 
 [](users/116/116203054830965711791-google)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>61</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>189</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>205</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>323</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>147</sup> 
 [](users/153/1537586159620888-facebook)<sup>67</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 
 
-_16.03.2022 18:31:35_
+_16.03.2022 19:54:54_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
 * Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 * Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
@@ -9,7 +10,6 @@
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>323</sup>
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
 * 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
 * Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
@@ -33,4 +33,4 @@
 * Пегий пес, бегущий краем моря ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>240</sup>
 
 
-_15.03.2022 11:23:22_
+_16.03.2022 19:54:54_
