@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>60</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>61</sup>
 ---
 
 ## 2022
+
+### Коллекционер
+Джон Фаулз
+> [2022-03-16] 
+
 
 ### Дикие
 Рори Пауэр
