@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116203054830965711791-google)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>61</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>189</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>918</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>221</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup> 
 
 
-_16.03.2022 13:45:50_
+_16.03.2022 18:31:35_
