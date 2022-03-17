@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>139</sup>
+# List of books read by 4apa<sup>140</sup>
 ---
 
 ## 2022
+
+### Тридцатая любовь Марины
+В. Сорокин
+> [2022-03-17] 
+
 
 ### Апофения
 А. Панчин
