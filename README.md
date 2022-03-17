@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эксперт по турбулентности ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup>
+    > Если человек очень боится умереть в авиакатастрофе, то самолёт не упадет.
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
     > Бабкин и Ильюшин 26.  придумывать ему кличку. Мы даем имена, чтобы присвоить того, кто их носит, сделать частью своей жизни. Дожив до семидесяти, я пришла к тому, чтобы дать не только себе свободу от других, но и другим свободу от себя.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Компания друзей заблокирована в отеле, где происходит убийство.
 
 * Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
-    > 8/10 Спогади українського письменника про дитинство, голод, війну та совєтську окупацію України.
 
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
 
-* Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>324</sup> 
 [](users/116/116203054830965711791-google)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>61</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>189</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>918</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>139</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Inarra](users/101/101055787251601973291-google)<sup>0</sup> 
 
 
-_16.03.2022 19:54:54_
+_17.03.2022 09:28:47_
