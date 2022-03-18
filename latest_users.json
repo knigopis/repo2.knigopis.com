@@ -1,4 +1,10 @@
 {
+    "108710650791518569555-google": {
+        "id": "108710650791518569555-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-03-18 06:53:33"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 309,
         "updatedAt": "2022-03-01 16:44:46"
-    },
-    "101055787251601973291-google": {
-        "id": "101055787251601973291-google",
-        "nickname": "Inarra",
-        "booksCount": 0,
-        "updatedAt": "2022-03-01 15:03:11"
     }
 }
