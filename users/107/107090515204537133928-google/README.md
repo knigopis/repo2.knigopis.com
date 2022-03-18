@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>205</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>206</sup>
 ---
 
 ## 2022
+
+### Победитель тролей
+Уильям Кинг
+> [2022-03-18] 
+
 
 ### По ком звонит колокол
 Эрнест Хеменгуэй

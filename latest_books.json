@@ -1,4 +1,16 @@
 {
+    "GJQXeR5iwj": {
+        "id": "GJQXeR5iwj",
+        "title": "Победитель тролей",
+        "author": "Уильям Кинг",
+        "notes": "",
+        "createdAt": "2022-03-18 06:10:34",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 206
+        }
+    },
     "I_5FILv1wO": {
         "id": "I_5FILv1wO",
         "title": "Тридцатая любовь Марины",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 58
-        }
-    },
-    "RUtXcWitME": {
-        "id": "RUtXcWitME",
-        "title": "Завтра будет лучше",
-        "author": "Бетти Смит",
-        "notes": "",
-        "createdAt": "2022-03-10 17:58:48",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 67
         }
     }
 }
