@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>61</sup> 
 [Карина](users/113/113094351246440936608-google)<sup>9</sup> 
 [](users/108/108710650791518569555-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>206</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>60</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>29</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>309</sup> 
 
 
-_18.03.2022 07:47:57_
+_18.03.2022 08:05:39_

@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>60</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>61</sup>
 ---
 
 ## 2022
+
+### Венские вафли. Спецзаказ мага земли
+Валерия Шаталова
+> [2022-03-18] 
+
 
 ### Настоящая черная ведьма
 Елена Звёздная
