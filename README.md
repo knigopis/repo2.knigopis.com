@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112469457440397897994-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>62</sup> 
 [](users/117/117917591965816894588-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>148</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>55</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>30</sup> 
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
-[Sky](users/118/118049897850017649660-googleplus)<sup>221</sup> 
 
 
-_19.03.2022 09:48:14_
+_19.03.2022 12:52:52_
