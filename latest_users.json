@@ -1,4 +1,10 @@
 {
+    "117917591965816894588-google": {
+        "id": "117917591965816894588-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-03-19 07:20:01"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 221,
         "updatedAt": "2022-03-04 06:40:13"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 309,
-        "updatedAt": "2022-03-01 16:44:46"
     }
 }
