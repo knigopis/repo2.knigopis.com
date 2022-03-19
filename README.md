@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* І тоді вона зникла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup>
+    > 8/10 зникнення школярки, що не дійшла до бібліотеки.
+
 * Драконий союз, или Академия льда и пламени ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>148</sup>
     > Проснуться в одной постели с врагом — полбеды. Куда хуже раскрыть ему страшную семейную тайну, поступить в одну академию и вместе оказаться подозреваемыми в краже стихийных драконьих артефактов. Как показывает практика, сказки случаются только с плохими девочками. Хорошим уготован полный звездец.
     > Здравствуйте, меня зовут Кэролина Фарлоу, и я мечтаю вернуть свою тихую и размеренную жизнь.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Если человек очень боится умереть в авиакатастрофе, то самолёт не упадет.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
-    > Бабкин и Ильюшин 26.  придумывать ему кличку. Мы даем имена, чтобы присвоить того, кто их носит, сделать частью своей жизни. Дожив до семидесяти, я пришла к тому, чтобы дать не только себе свободу от других, но и другим свободу от себя.
 
 * Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
 
-* Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup> 
 [](users/112/112469457440397897994-google)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>62</sup> 
 [](users/117/117917591965816894588-google)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116203054830965711791-google)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>61</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>918</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>29</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [eva](users/111/111656270551033014778-google)<sup>121</sup> 
 
 
-_19.03.2022 12:52:52_
+_19.03.2022 19:30:59_

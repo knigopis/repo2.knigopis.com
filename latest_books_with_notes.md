@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* І тоді вона зникла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup>
 * Драконий союз, или Академия льда и пламени ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>148</sup>
 * Эксперт по турбулентности ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
@@ -30,7 +31,6 @@
 * Дикие ~ [pria](users/128/128917939-vkontakte)<sup>60</sup>
 * Пятый шаг ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>255</sup>
 * Семь дней до Медиго ~ [Chiffi](users/105/105831994080785626680-google)<sup>320</sup>
-* Книга Тишина в эпоху шума. Маленькая книга для большого города ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>10</sup>
 
 
-_19.03.2022 03:45:49_
+_19.03.2022 19:30:59_

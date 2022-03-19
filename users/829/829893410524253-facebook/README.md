@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>245</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>246</sup>
 ---
 
 ## 2022
+
+### І тоді вона зникла
+Лайза Джуел
+> [2022-03-19] 8/10 зникнення школярки, що не дійшла до бібліотеки.
+
 
 ### Кто не спрятался
 Яна Вагнер
