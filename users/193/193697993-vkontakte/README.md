@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>61</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>62</sup>
 ---
 
 ## 2022
+
+### Любовница снежного лорда
+Елена Звездная
+> [2022-03-19] 
+
 
 ### Венские вафли. Спецзаказ мага земли
 Валерия Шаталова
