@@ -1,4 +1,10 @@
 {
+    "651948011-vkontakte": {
+        "id": "651948011-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-03-21 23:09:37"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "tututu",
         "booksCount": 30,
         "updatedAt": "2022-03-06 12:48:38"
-    },
-    "111656270551033014778-google": {
-        "id": "111656270551033014778-google",
-        "nickname": "eva",
-        "booksCount": 121,
-        "updatedAt": "2022-03-05 19:06:50"
     }
 }
