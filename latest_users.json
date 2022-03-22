@@ -1,4 +1,10 @@
 {
+    "104058898569282311785-google": {
+        "id": "104058898569282311785-google",
+        "nickname": "necromacro",
+        "booksCount": 0,
+        "updatedAt": "2022-03-22 19:14:39"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "Triste",
         "booksCount": 55,
         "updatedAt": "2022-03-07 11:42:45"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tututu",
-        "booksCount": 30,
-        "updatedAt": "2022-03-06 12:48:38"
     }
 }
