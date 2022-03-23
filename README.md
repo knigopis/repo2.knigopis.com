@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107964573981658495430-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>207</sup> 
 [](users/118/118248226132797004598-google)<sup>33</sup> 
 [necromacro](users/104/104058898569282311785-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [дашец](users/111/111162603959936416596-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
 [](users/105/105552767299996122433-google)<sup>0</sup> 
-[Len4e91](users/254/254448176-yandex)<sup>15</sup> 
 
 
-_23.03.2022 08:13:29_
+_23.03.2022 10:08:57_
