@@ -1,4 +1,10 @@
 {
+    "118248226132797004598-google": {
+        "id": "118248226132797004598-google",
+        "nickname": null,
+        "booksCount": 33,
+        "updatedAt": "2022-03-23 02:24:31"
+    },
     "104058898569282311785-google": {
         "id": "104058898569282311785-google",
         "nickname": "necromacro",
@@ -172,11 +178,5 @@
         "nickname": "Len4e91",
         "booksCount": 15,
         "updatedAt": "2022-03-07 21:02:15"
-    },
-    "5175580462988229760-mailru": {
-        "id": "5175580462988229760-mailru",
-        "nickname": "Triste",
-        "booksCount": 55,
-        "updatedAt": "2022-03-07 11:42:45"
     }
 }
