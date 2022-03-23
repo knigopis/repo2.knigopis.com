@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>207</sup> 
 [](users/118/118248226132797004598-google)<sup>33</sup> 
 [necromacro](users/104/104058898569282311785-google)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>150</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>191</sup> 
 [Карина](users/113/113094351246440936608-google)<sup>9</sup> 
 [](users/108/108710650791518569555-google)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>206</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>140</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>324</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>15</sup> 
 
 
-_23.03.2022 02:24:31_
+_23.03.2022 08:13:29_

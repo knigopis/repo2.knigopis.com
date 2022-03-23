@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>206</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>207</sup>
 ---
 
 ## 2022
+
+### Особый отряд 731
+Хороший Акияма
+> [2022-03-23] 
+
 
 ### Победитель тролей
 Уильям Кинг
