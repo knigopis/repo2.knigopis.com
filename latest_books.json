@@ -1,4 +1,16 @@
 {
+    "JpknSG7yAY": {
+        "id": "JpknSG7yAY",
+        "title": "Первый закон 2. Прежде чем их повесят",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2022-03-23 21:20:56",
+        "user": {
+            "id": "118049897850017649660-googleplus",
+            "nickname": "Sky",
+            "booksCount": 222
+        }
+    },
     "a6q1zRI6YD": {
         "id": "a6q1zRI6YD",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 60
-        }
-    },
-    "mQtyqliKuH": {
-        "id": "mQtyqliKuH",
-        "title": "45 татуировок менеджера",
-        "author": "Максим Батырев",
-        "notes": "",
-        "createdAt": "2022-03-14 11:00:15",
-        "user": {
-            "id": "113094351246440936608-google",
-            "nickname": "Карина",
-            "booksCount": 6
         }
     }
 }

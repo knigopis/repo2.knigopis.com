@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>192</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>207</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>371</sup> 
 [дашец](users/111/111162603959936416596-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
-[](users/105/105552767299996122433-google)<sup>0</sup> 
 
 
-_23.03.2022 19:07:28_
+_23.03.2022 21:20:56_
