@@ -1,4 +1,10 @@
 {
+    "107964573981658495430-google": {
+        "id": "107964573981658495430-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-03-23 10:08:57"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-03-08 17:37:16"
-    },
-    "254448176-yandex": {
-        "id": "254448176-yandex",
-        "nickname": "Len4e91",
-        "booksCount": 15,
-        "updatedAt": "2022-03-07 21:02:15"
     }
 }
