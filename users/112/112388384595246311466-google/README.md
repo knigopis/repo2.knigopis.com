@@ -1,12 +1,7 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>193</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>192</sup>
 ---
 
 ## 2022
-
-### Мартин Иден
-Джек Лондон
-> [2022-03-23] 
-
 
 ### Мартин Иден
 Джек Лондон
