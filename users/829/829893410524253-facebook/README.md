@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>246</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>247</sup>
 ---
 
 ## 2022
+
+### Думай і дій як кіт
+Стефан Граньє
+> [2022-03-21] 4/10 Банальні поради як полюбити себе.
+
 
 ### І тоді вона зникла
 Лайза Джуел
