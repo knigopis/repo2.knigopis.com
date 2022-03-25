@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>247</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>248</sup>
 ---
 
 ## 2022
+
+### Інтернаціоналізм чи русифікація?
+Іван Дзюба
+> [2022-03-25] 6/10 Ґрунтовна праця, яка пояснює процес русифікації України.
+
 
 ### Думай і дій як кіт
 Стефан Граньє

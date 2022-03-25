@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
+    > 6/10 Ґрунтовна праця, яка пояснює процес русифікації України.
+
 * Думай і дій як кіт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>247</sup>
     > 4/10 Банальні поради як полюбити себе.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Легко ли выжить в Империи таким, как я? Почти невозможно. Элари уничтожали всегда - всплеск нашего дара смертельно опасен для магов, однако любого может наделить абсолютной силой. Чтобы спасти себя и брата, я вынуждена помогать наследному принцу, подчиняться тайному советнику и находиться в самом центре коварных интриг. А заодно поступить в Академию, влюбиться и раскрыть тайну своей магии...
 
 * І тоді вона зникла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup>
-    > 8/10 зникнення школярки, що не дійшла до бібліотеки.
 
 * Драконий союз, или Академия льда и пламени ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>148</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
 
-* Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>193</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>247</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>207</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
 
 
-_24.03.2022 08:00:22_
+_25.03.2022 09:53:25_
