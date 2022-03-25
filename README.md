@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>87</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>193</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>371</sup> 
 [дашец](users/111/111162603959936416596-google)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
 
 
-_25.03.2022 09:53:25_
+_25.03.2022 20:07:28_
