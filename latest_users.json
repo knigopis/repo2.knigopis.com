@@ -1,4 +1,10 @@
 {
+    "27076131-vkontakte": {
+        "id": "27076131-vkontakte",
+        "nickname": "art_god",
+        "booksCount": 0,
+        "updatedAt": "2022-03-26 19:04:46"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Shellena",
         "booksCount": 411,
         "updatedAt": "2022-03-11 20:30:21"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 371,
-        "updatedAt": "2022-03-10 02:49:58"
     }
 }
