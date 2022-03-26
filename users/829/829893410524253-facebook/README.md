@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>248</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>249</sup>
 ---
 
 ## 2022
+
+### Соседи
+Ян Томаш Гросс
+> [2022-03-25] 4/10 Погром в Едвабном.
+
 
 ### Інтернаціоналізм чи русифікація?
 Іван Дзюба

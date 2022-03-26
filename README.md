@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
+    > 4/10 Погром в Едвабном.
+
 * Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
     > 6/10 Ґрунтовна праця, яка пояснює процес русифікації України.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4/10 Банальні поради як полюбити себе.
 
 * Академия магии Трех Королевств ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>149</sup>
-    > Легко ли выжить в Империи таким, как я? Почти невозможно. Элари уничтожали всегда - всплеск нашего дара смертельно опасен для магов, однако любого может наделить абсолютной силой. Чтобы спасти себя и брата, я вынуждена помогать наследному принцу, подчиняться тайному советнику и находиться в самом центре коварных интриг. А заодно поступить в Академию, влюбиться и раскрыть тайну своей магии...
 
 * І тоді вона зникла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
 
-* Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>194</sup> 
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>25</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>207</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
 
 
-_26.03.2022 19:28:28_
+_26.03.2022 22:21:54_
