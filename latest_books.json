@@ -1,4 +1,16 @@
 {
+    "lxQitwcwHK": {
+        "id": "lxQitwcwHK",
+        "title": "Бессоница",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-03-26 17:22:49",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 24
+        }
+    },
     "b-KNGCQ5uY": {
         "id": "b-KNGCQ5uY",
         "title": "Записки черкеса",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 244
-        }
-    },
-    "vlYbwGYDG0": {
-        "id": "vlYbwGYDG0",
-        "title": "Сон Харви",
-        "author": "Стивен Кинг",
-        "notes": "Мужчина снится, что одна из дочерей погибла. Утром раздаётся звонок.",
-        "createdAt": "2022-03-15 05:56:44",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 262
         }
     }
 }

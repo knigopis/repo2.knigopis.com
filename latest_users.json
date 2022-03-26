@@ -1,4 +1,10 @@
 {
+    "86487125-vkontakte": {
+        "id": "86487125-vkontakte",
+        "nickname": null,
+        "booksCount": 24,
+        "updatedAt": "2022-03-26 17:22:49"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 371,
         "updatedAt": "2022-03-10 02:49:58"
-    },
-    "111162603959936416596-google": {
-        "id": "111162603959936416596-google",
-        "nickname": "дашец",
-        "booksCount": 0,
-        "updatedAt": "2022-03-09 23:30:05"
     }
 }
