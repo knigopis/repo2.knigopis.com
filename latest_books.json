@@ -1,4 +1,16 @@
 {
+    "_rPW_l2-Nq": {
+        "id": "_rPW_l2-Nq",
+        "title": "Лёгкий способ бросить пить",
+        "author": "Аллен Карр",
+        "notes": "",
+        "createdAt": "2022-03-26 17:23:20",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": null,
+            "booksCount": 25
+        }
+    },
     "lxQitwcwHK": {
         "id": "lxQitwcwHK",
         "title": "Бессоница",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 245
-        }
-    },
-    "UCIBPE-arL": {
-        "id": "UCIBPE-arL",
-        "title": "Прожити й розповісти",
-        "author": "Анатолій Дімаров",
-        "notes": "8/10 Спогади українського письменника про дитинство, голод, війну та совєтську окупацію України.",
-        "createdAt": "2022-03-15 11:21:10",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 244
         }
     }
 }
