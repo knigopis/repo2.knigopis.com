@@ -1,4 +1,16 @@
 {
+    "MOKEQjO6IV": {
+        "id": "MOKEQjO6IV",
+        "title": "Ребенок, который был вещью. Изувеченное детство",
+        "author": "Дейв Пельцер",
+        "notes": "",
+        "createdAt": "2022-03-26 19:28:28",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 194
+        }
+    },
     "_rPW_l2-Nq": {
         "id": "_rPW_l2-Nq",
         "title": "Лёгкий способ бросить пить",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 918
-        }
-    },
-    "l4nrUuOtLm": {
-        "id": "l4nrUuOtLm",
-        "title": "Кто не спрятался",
-        "author": "Яна Вагнер",
-        "notes": "9/10 Компания друзей заблокирована в отеле, где происходит убийство.",
-        "createdAt": "2022-03-15 11:23:22",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 245
         }
     }
 }
