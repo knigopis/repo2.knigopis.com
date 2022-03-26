@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>25</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>371</sup> 
 
 
-_26.03.2022 17:23:20_
+_26.03.2022 19:04:46_
