@@ -1,7 +1,11 @@
-# List of books read by [](https://plus.google.com/u/0/118261627879855357372/)<sup>32</sup>
+# List of books read by [](https://plus.google.com/u/0/118261627879855357372/)<sup>33</sup>
 ---
 
 ## 2021
+
+### Дикая охота короля Стаха
+Владимир Короткевич
+
 
 ### Освенцим
 Лоуренс Рис
