@@ -1,4 +1,10 @@
 {
+    "118261627879855357372-google": {
+        "id": "118261627879855357372-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-03-27 18:28:46"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-03-12 08:33:02"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ..",
-        "booksCount": 158,
-        "updatedAt": "2022-03-12 06:55:37"
     }
 }
