@@ -1,4 +1,16 @@
 {
+    "B3T-Q9ONOQ": {
+        "id": "B3T-Q9ONOQ",
+        "title": "Собачье сердце",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2022-03-27 18:50:38",
+        "user": {
+            "id": "118261627879855357372-google",
+            "nickname": null,
+            "booksCount": 26
+        }
+    },
     "UdghXHNTSr": {
         "id": "UdghXHNTSr",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 194
-        }
-    },
-    "_rPW_l2-Nq": {
-        "id": "_rPW_l2-Nq",
-        "title": "Лёгкий способ бросить пить",
-        "author": "Аллен Карр",
-        "notes": "",
-        "createdAt": "2022-03-26 17:23:20",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": null,
-            "booksCount": 25
         }
     }
 }
