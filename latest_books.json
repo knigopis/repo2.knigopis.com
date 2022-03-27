@@ -1,4 +1,16 @@
 {
+    "xzSJCGumiK": {
+        "id": "xzSJCGumiK",
+        "title": "Особые поручения",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2022-03-27 18:36:25",
+        "user": {
+            "id": "118261627879855357372-google",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "97Lgn6NZH5": {
         "id": "97Lgn6NZH5",
         "title": "Смерть Ахиллеса",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 68
-        }
-    },
-    "IECTlo27SL": {
-        "id": "IECTlo27SL",
-        "title": "Судьба человека",
-        "author": "Михаил Александрович Шолохов",
-        "notes": "",
-        "createdAt": "2022-03-18 14:19:51",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 191
         }
     }
 }
