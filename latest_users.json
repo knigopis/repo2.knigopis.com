@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 56,
+        "updatedAt": "2022-03-27 12:19:49"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ..",
         "booksCount": 158,
         "updatedAt": "2022-03-12 06:55:37"
-    },
-    "13413591548892934957-mailru": {
-        "id": "13413591548892934957-mailru",
-        "nickname": "Shellena",
-        "booksCount": 411,
-        "updatedAt": "2022-03-11 20:30:21"
     }
 }

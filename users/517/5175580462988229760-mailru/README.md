@@ -1,7 +1,11 @@
-# List of books read by Triste<sup>55</sup>
+# List of books read by Triste<sup>56</sup>
 ---
 
 ## 2022
+
+### Капитанская дочка
+А. С. Пушкин
+
 
 ### Похождения Чичикова или Мёртвые души
 Белинский
