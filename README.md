@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118261627879855357372-google)<sup>0</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
-[GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 
 
-_27.03.2022 12:19:49_
+_27.03.2022 18:28:46_
