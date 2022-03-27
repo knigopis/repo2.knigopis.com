@@ -1,4 +1,16 @@
 {
+    "lqoXbpurLX": {
+        "id": "lqoXbpurLX",
+        "title": "Граница рождает героев",
+        "author": "",
+        "notes": "",
+        "createdAt": "2022-03-27 18:43:37",
+        "user": {
+            "id": "118261627879855357372-google",
+            "nickname": null,
+            "booksCount": 18
+        }
+    },
     "t3ZXf5CXV8": {
         "id": "t3ZXf5CXV8",
         "title": "Улица младшего сына",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 193
-        }
-    },
-    "9j3tw8_jap": {
-        "id": "9j3tw8_jap",
-        "title": "Особый отряд 731",
-        "author": "Хороший Акияма",
-        "notes": "",
-        "createdAt": "2022-03-23 08:13:29",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 207
         }
     }
 }
