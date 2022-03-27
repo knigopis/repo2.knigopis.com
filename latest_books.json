@@ -1,4 +1,16 @@
 {
+    "Xj7_o5ySA7": {
+        "id": "Xj7_o5ySA7",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2022-03-27 18:53:24",
+        "user": {
+            "id": "118261627879855357372-google",
+            "nickname": null,
+            "booksCount": 30
+        }
+    },
     "1tJq3ChPvy": {
         "id": "1tJq3ChPvy",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "118261627879855357372-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "CI_GKrcIg2": {
-        "id": "CI_GKrcIg2",
-        "title": "Капитанская дочка",
-        "author": "А. С. Пушкин",
-        "notes": "",
-        "createdAt": "2022-03-27 12:19:49",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 56
         }
     }
 }
