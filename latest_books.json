@@ -1,4 +1,16 @@
 {
+    "X5Iw6lUOzf": {
+        "id": "X5Iw6lUOzf",
+        "title": "Любовник сметри",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2022-03-27 18:35:21",
+        "user": {
+            "id": "118261627879855357372-google",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "-M4OSlGaOP": {
         "id": "-M4OSlGaOP",
         "title": "Статский советник",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 61
-        }
-    },
-    "pqh82fWYuT": {
-        "id": "pqh82fWYuT",
-        "title": "Богатый папа бедный папа",
-        "author": "Роберт Киосаки",
-        "notes": "",
-        "createdAt": "2022-03-18 07:47:57",
-        "user": {
-            "id": "113094351246440936608-google",
-            "nickname": "Карина",
-            "booksCount": 9
         }
     }
 }
