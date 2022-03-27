@@ -1,7 +1,11 @@
-# List of books read by [](https://plus.google.com/u/0/118261627879855357372/)<sup>35</sup>
+# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>36</sup>
 ---
 
 ## 2021
+
+### Нежная война
+Джули Берри
+
 
 ### Пока я не я
 Дмитрий Троцкий
