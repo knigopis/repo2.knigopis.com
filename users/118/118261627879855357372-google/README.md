@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/118261627879855357372/)<sup>18</sup>
+# List of books read by [](https://plus.google.com/u/0/118261627879855357372/)<sup>19</sup>
 ---
 
 ## 2020
@@ -93,6 +93,12 @@
 
 ### Улица младшего сына
 Лев Кассиль
+
+
+
+## 1990
+
+### Пионеры-герои
 
 
 
