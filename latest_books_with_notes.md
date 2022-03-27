@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
 * Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
 * Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
 * Думай і дій як кіт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>247</sup>
@@ -30,7 +31,6 @@
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
 * Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
-* Неточка Незванова ~ [tututu](users/135/135685382-vkontakte)<sup>27</sup>
 
 
-_26.03.2022 22:21:54_
+_27.03.2022 07:10:40_

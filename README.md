@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
+    > Просто и понятно! Буду перечитывать
+
 * Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
     > 4/10 Погром в Едвабном.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Ґрунтовна праця, яка пояснює процес русифікації України.
 
 * Думай і дій як кіт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>247</sup>
-    > 4/10 Банальні поради як полюбити себе.
 
 * Академия магии Трех Королевств ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>149</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 
-* Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>194</sup> 
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>918</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 [](users/148/1480755193-yandex)<sup>0</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>29</sup> 
 [](users/102/102431900572288706085-google)<sup>0</sup> 
 [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>411</sup> 
 
 
-_26.03.2022 22:21:54_
+_27.03.2022 07:10:40_

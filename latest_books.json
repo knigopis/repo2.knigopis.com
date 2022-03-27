@@ -1,4 +1,16 @@
 {
+    "8GNI7PhLeZ": {
+        "id": "8GNI7PhLeZ",
+        "title": "Погружение в себя",
+        "author": "Владислав Чубаров",
+        "notes": "Просто и понятно! Буду перечитывать",
+        "createdAt": "2022-03-27 07:10:40",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 30
+        }
+    },
     "tatXDi7Uz4": {
         "id": "tatXDi7Uz4",
         "title": "Соседи",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 61
-        }
-    },
-    "yfwoJ_30-o": {
-        "id": "yfwoJ_30-o",
-        "title": "Гарри Поттер и Дары Смерти",
-        "author": "Джоан Кэтлин Роулинг",
-        "notes": "",
-        "createdAt": "2022-03-16 03:10:49",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 189
         }
     }
 }
