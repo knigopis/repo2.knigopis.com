@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 56,
+        "updatedAt": "2022-03-27 19:18:06"
+    },
     "118261627879855357372-google": {
         "id": "118261627879855357372-google",
         "nickname": "kosnikovskiy",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-03-14 16:24:02"
-    },
-    "102431900572288706085-google": {
-        "id": "102431900572288706085-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-03-12 08:33:02"
     }
 }
