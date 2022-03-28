@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
 * Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
 * Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
 * Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
@@ -30,7 +31,6 @@
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
 * Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 * Идиот ~ [Triste](users/517/5175580462988229760-mailru)<sup>52</sup>
-* Гарри Поттер и философский камень ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>53</sup>
 
 
-_27.03.2022 07:10:40_
+_28.03.2022 04:51:45_

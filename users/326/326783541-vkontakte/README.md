@@ -1,5 +1,13 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>18</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>19</sup>
 ---
+
+## 2022
+
+### Лю Яо: Возрождение клана Фу Яо
+Priest
+> [2022-03-26] 5 томов
+
+
 
 ## 2021
 

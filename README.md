@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
+    > 5 томов
+
 * Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
     > Просто и понятно! Буду перечитывать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4/10 Погром в Едвабном.
 
 * Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
-    > 6/10 Ґрунтовна праця, яка пояснює процес русифікації України.
 
 * Думай і дій як кіт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>247</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
 
-* Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>19</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>56</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>37</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>61</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>918</sup> 
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
-[](users/148/1480755193-yandex)<sup>0</sup> 
 
 
-_27.03.2022 19:18:06_
+_28.03.2022 04:51:45_
