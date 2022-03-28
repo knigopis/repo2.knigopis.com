@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>19</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>20</sup>
 ---
 
 ## 2022
+
+### Система Спаси себя сам
+Мосян Тунсю
+> [2022-07-20] 
+
 
 ### Лю Яо: Возрождение клана Фу Яо
 Priest

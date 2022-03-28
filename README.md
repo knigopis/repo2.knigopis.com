@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>19</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>20</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>56</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>37</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 
 
-_28.03.2022 04:51:45_
+_28.03.2022 04:52:16_

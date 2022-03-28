@@ -1,4 +1,16 @@
 {
+    "KDaaHo064E": {
+        "id": "KDaaHo064E",
+        "title": "Система Спаси себя сам",
+        "author": "Мосян Тунсю",
+        "notes": "",
+        "createdAt": "2022-03-28 04:52:16",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 20
+        }
+    },
     "j-3Gk9C5qG": {
         "id": "j-3Gk9C5qG",
         "title": "Лю Яо: Возрождение клана Фу Яо",
@@ -345,18 +357,6 @@
             "id": "118261627879855357372-google",
             "nickname": null,
             "booksCount": 11
-        }
-    },
-    "xzSJCGumiK": {
-        "id": "xzSJCGumiK",
-        "title": "Особые поручения",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2022-03-27 18:36:25",
-        "user": {
-            "id": "118261627879855357372-google",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }
