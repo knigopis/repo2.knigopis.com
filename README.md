@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
+    > Но почти ни у кого не было этой одной луковицы, а у тех, у кого она была, — не было сердца. Война превратила его в камень.
+
 * Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
     > 5 томов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Просто и понятно! Буду перечитывать
 
 * Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
-    > 4/10 Погром в Едвабном.
 
 * Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эксперт по турбулентности ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>919</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>20</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>56</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>194</sup> 
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>25</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 
 
-_28.03.2022 06:37:22_
+_29.03.2022 11:00:37_
