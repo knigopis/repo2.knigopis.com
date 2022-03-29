@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 54,
+        "updatedAt": "2022-03-29 21:58:28"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "pria",
         "booksCount": 61,
         "updatedAt": "2022-03-16 13:45:50"
-    },
-    "192350657-vkontakte": {
-        "id": "192350657-vkontakte",
-        "nickname": "Altaika",
-        "booksCount": 0,
-        "updatedAt": "2022-03-14 21:07:54"
     }
 }

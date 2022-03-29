@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
 * Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
 * Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
 * Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
@@ -30,7 +31,6 @@
 * Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
 * Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
 * Любовь к несовершенству ~ [albina_untiring](users/257/2579695-vkontakte)<sup>28</sup>
-* Норвежский лес ~ [Triste](users/517/5175580462988229760-mailru)<sup>53</sup>
 
 
-_29.03.2022 11:00:37_
+_29.03.2022 21:58:28_

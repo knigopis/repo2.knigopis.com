@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
+    > paper
+    > 
+    > Многие книги пишут чернилами. Эта книга написано добром, любовью, счастьем и конечно же Волшебством.
+
 * Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
     > Но почти ни у кого не было этой одной луковицы, а у тех, у кого она была, — не было сердца. Война превратила его в камень.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 5 томов
 
 * Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
-    > Просто и понятно! Буду перечитывать
 
 * Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Драконий союз, или Академия льда и пламени ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>148</sup>
 
-* Эксперт по турбулентности ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>919</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>20</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>324</sup> 
 [](users/116/116203054830965711791-google)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>61</sup> 
-[Altaika](users/192/192350657-vkontakte)<sup>0</sup> 
 
 
-_29.03.2022 11:00:37_
+_29.03.2022 21:58:28_
