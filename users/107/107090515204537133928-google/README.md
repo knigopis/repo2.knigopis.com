@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>207</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>208</sup>
 ---
 
 ## 2022
+
+### Человек который смеётся
+Виктор Гюго
+> [2022-03-30] 
+
 
 ### Особый отряд 731
 Хороший Акияма
