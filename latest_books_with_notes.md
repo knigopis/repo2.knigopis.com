@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сборник "Превращение" ~ [Rainbow](users/109/109787328219839805802-google)<sup>87</sup>
 * 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
 * Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
 * Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
@@ -30,7 +31,6 @@
 * Воспарение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>257</sup>
 * Мой милый пони ~ [Triste](users/517/5175580462988229760-mailru)<sup>54</sup>
 * Я знаю, чего ты хочешь ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>256</sup>
-* Расширить сознание легально ~ [tututu](users/135/135685382-vkontakte)<sup>29</sup>
 
 
-_01.04.2022 12:19:20_
+_01.04.2022 16:54:03_

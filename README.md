@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сборник "Превращение" ~ [Rainbow](users/109/109787328219839805802-google)<sup>87</sup>
+    > Приговор, В исправительной колонии, Превращение, Как строилась Китайская стена, Перед Законом, Императорское послание, Сельский врач, Голодарь, Отчёт для академии, Лабиринт, Певица Жозефине или мышиный народ
+
 * 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
     > 8/10 Разведка Европы и Юпитера.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Многие книги пишут чернилами. Эта книга написано добром, любовью, счастьем и конечно же Волшебством.
 
 * Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
-    > Но почти ни у кого не было этой одной луковицы, а у тех, у кого она была, — не было сердца. Война превратила его в камень.
 
 * Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Академия магии Трех Королевств ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>149</sup>
 
-* І тоді вона зникла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>87</sup> 
 [pria](users/128/128917939-vkontakte)<sup>62</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup> 
 [](users/153/1537586159620888-facebook)<sup>69</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>25</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>33</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116203054830965711791-google)<sup>0</sup> 
 
 
-_01.04.2022 16:30:28_
+_01.04.2022 16:54:03_
