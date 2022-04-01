@@ -1,4 +1,10 @@
 {
+    "128917939-vkontakte": {
+        "id": "128917939-vkontakte",
+        "nickname": "pria",
+        "booksCount": 62,
+        "updatedAt": "2022-04-01 16:30:28"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-03-16 18:31:35"
-    },
-    "128917939-vkontakte": {
-        "id": "128917939-vkontakte",
-        "nickname": "pria",
-        "booksCount": 61,
-        "updatedAt": "2022-03-16 13:45:50"
     }
 }
