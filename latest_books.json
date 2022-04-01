@@ -1,4 +1,16 @@
 {
+    "8BBSHbheNf": {
+        "id": "8BBSHbheNf",
+        "title": "2061: Третья одиссея",
+        "author": "Артур Кларк",
+        "notes": "8/10 Разведка Европы и Юпитера.",
+        "createdAt": "2022-04-01 12:19:20",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 250
+        }
+    },
     "8uXk83bwIg": {
         "id": "8uXk83bwIg",
         "title": "Не говори никому",
@@ -345,18 +357,6 @@
             "id": "118261627879855357372-google",
             "nickname": null,
             "booksCount": 19
-        }
-    },
-    "lqoXbpurLX": {
-        "id": "lqoXbpurLX",
-        "title": "Граница рождает героев",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-03-27 18:43:37",
-        "user": {
-            "id": "118261627879855357372-google",
-            "nickname": null,
-            "booksCount": 18
         }
     }
 }

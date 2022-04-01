@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
+    > 8/10 Разведка Европы и Юпитера.
+
 * Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
     > paper
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Но почти ни у кого не было этой одной луковицы, а у тех, у кого она была, — не было сердца. Война превратила его в камень.
 
 * Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
-    > 5 томов
 
 * Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * І тоді вона зникла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup>
 
-* Драконий союз, или Академия льда и пламени ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>148</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup> 
 [](users/153/1537586159620888-facebook)<sup>69</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>920</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>196</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>37</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup> 
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>25</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>86</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>61</sup> 
 
 
-_31.03.2022 22:48:18_
+_01.04.2022 12:19:20_
