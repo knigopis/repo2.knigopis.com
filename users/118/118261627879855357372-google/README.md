@@ -1,4 +1,4 @@
-# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>39</sup>
+# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>40</sup>
 ---
 
 ## 2021
@@ -42,6 +42,13 @@
 ## 2010
 
 ### Морфий
+
+
+
+## 2008
+
+### Эра милосердия
+Братья Вайнеры
 
 
 
