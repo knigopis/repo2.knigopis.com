@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kosnikovskiy](users/118/118261627879855357372-google)<sup>38</sup> 
 [](users/106/106097346551562439722-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>87</sup> 
 [pria](users/128/128917939-vkontakte)<sup>62</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>20</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>56</sup> 
-[kosnikovskiy](users/118/118261627879855357372-google)<sup>37</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>324</sup> 
 
 
-_02.04.2022 03:08:42_
+_02.04.2022 15:49:53_

@@ -1,4 +1,10 @@
 {
+    "118261627879855357372-google": {
+        "id": "118261627879855357372-google",
+        "nickname": "kosnikovskiy",
+        "booksCount": 38,
+        "updatedAt": "2022-04-02 15:49:53"
+    },
     "106097346551562439722-google": {
         "id": "106097346551562439722-google",
         "nickname": null,
@@ -64,12 +70,6 @@
         "nickname": "Beaviska",
         "booksCount": 56,
         "updatedAt": "2022-03-27 19:18:06"
-    },
-    "118261627879855357372-google": {
-        "id": "118261627879855357372-google",
-        "nickname": "kosnikovskiy",
-        "booksCount": 37,
-        "updatedAt": "2022-03-27 19:01:31"
     },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",

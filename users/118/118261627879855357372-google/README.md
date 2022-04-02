@@ -1,4 +1,4 @@
-# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>37</sup>
+# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>38</sup>
 ---
 
 ## 2021
@@ -105,6 +105,10 @@
 
 
 ## 2002
+
+### На войне как нас войне
+> [2002-04-02] 
+
 
 ### Алхимик
 Пауло Коэльо
