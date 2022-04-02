@@ -1,4 +1,10 @@
 {
+    "106097346551562439722-google": {
+        "id": "106097346551562439722-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-04-02 03:08:42"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 324,
         "updatedAt": "2022-03-16 19:54:54"
-    },
-    "116203054830965711791-google": {
-        "id": "116203054830965711791-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-03-16 18:31:35"
     }
 }
