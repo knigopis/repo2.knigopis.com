@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105803270930838059244-google)<sup>0</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>43</sup> 
 [](users/106/106097346551562439722-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>87</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108710650791518569555-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>140</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>324</sup> 
 
 
-_02.04.2022 15:54:57_
+_02.04.2022 22:10:29_
