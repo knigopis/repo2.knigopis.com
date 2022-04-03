@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/864/86487125-vkontakte)<sup>26</sup> 
 [](users/105/105803270930838059244-google)<sup>0</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>43</sup> 
 [](users/106/106097346551562439722-google)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
-[](users/864/86487125-vkontakte)<sup>25</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>33</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup> 
 
 
-_02.04.2022 22:10:29_
+_03.04.2022 06:40:49_

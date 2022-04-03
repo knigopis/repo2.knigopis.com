@@ -1,7 +1,12 @@
-# List of books read by [](http://vk.com/id86487125)<sup>25</sup>
+# List of books read by [](http://vk.com/id86487125)<sup>26</sup>
 ---
 
 ## 2022
+
+### Глаза дракона
+Стивен Кинг
+> [2022-04-02] 
+
 
 ### Бессоница
 Стивен Кинг
