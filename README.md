@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>197</sup> 
 [saran bao](users/109/109276796058369770367-google)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Феня Котовна](users/109/109746193906459706720-google)<sup>150</sup> 
 [](users/651/651948011-vkontakte)<sup>0</sup> 
 [](users/112/112469457440397897994-google)<sup>0</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>62</sup> 
 
 
-_04.04.2022 20:18:08_
+_04.04.2022 20:34:14_
