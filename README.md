@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zorr](users/102/102978821506314439770-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>921</sup> 
 [](users/115/115201744643341348863-google)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>26</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/117/117917591965816894588-google)<sup>0</sup> 
 [Карина](users/113/113094351246440936608-google)<sup>9</sup> 
 [](users/108/108710650791518569555-google)<sup>0</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>140</sup> 
 
 
-_03.04.2022 20:12:55_
+_04.04.2022 11:46:57_
