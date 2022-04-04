@@ -1,4 +1,10 @@
 {
+    "109276796058369770367-google": {
+        "id": "109276796058369770367-google",
+        "nickname": "saran bao",
+        "booksCount": 0,
+        "updatedAt": "2022-04-04 12:19:43"
+    },
     "637513702-vkontakte": {
         "id": "637513702-vkontakte",
         "nickname": "Эльвина",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-03-19 07:20:01"
-    },
-    "113094351246440936608-google": {
-        "id": "113094351246440936608-google",
-        "nickname": "Карина",
-        "booksCount": 9,
-        "updatedAt": "2022-03-18 07:47:57"
     }
 }
