@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[saran bao](users/109/109276796058369770367-google)<sup>0</sup> 
+[saran bao](users/109/109276796058369770367-google)<sup>1</sup> 
 [Эльвина](users/637/637513702-vkontakte)<sup>3</sup> 
 [Zorr](users/102/102978821506314439770-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>921</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/117/117917591965816894588-google)<sup>0</sup> 
 
 
-_04.04.2022 12:19:43_
+_04.04.2022 12:20:19_
