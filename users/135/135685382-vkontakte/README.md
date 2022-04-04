@@ -1,7 +1,12 @@
-# List of books read by [tututu](http://vk.com/id135685382)<sup>30</sup>
+# List of books read by [tututu](http://vk.com/id135685382)<sup>31</sup>
 ---
 
 ## 2022
+
+### 5 принципов проактивного мышления
+Джон Миллер
+> [2022-04-03] 
+
 
 ### Не так уж и сложно
 Владислав Гайдукевич
