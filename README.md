@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>209</sup> 
 [](users/965/965216042-yandex)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
@@ -62,8 +63,7 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>33</sup> 
 [necromacro](users/104/104058898569282311785-google)<sup>0</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>150</sup> 
 [](users/651/651948011-vkontakte)<sup>0</sup> 
 
 
-_05.04.2022 08:43:03_
+_05.04.2022 11:20:14_
