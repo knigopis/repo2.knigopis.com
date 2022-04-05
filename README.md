@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/965/965216042-yandex)<sup>1</sup> 
+[](users/965/965216042-yandex)<sup>2</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>197</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/651/651948011-vkontakte)<sup>0</sup> 
 
 
-_05.04.2022 03:51:16_
+_05.04.2022 03:51:24_
