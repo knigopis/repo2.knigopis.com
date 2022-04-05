@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>209</sup> 
 [](users/965/965216042-yandex)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>62</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup> 
 [](users/153/1537586159620888-facebook)<sup>69</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>208</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>20</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>56</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/651/651948011-vkontakte)<sup>0</sup> 
 
 
-_05.04.2022 03:52:59_
+_05.04.2022 08:43:03_
