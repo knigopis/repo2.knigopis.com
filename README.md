@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/300/300273923-vkontakte)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>209</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>33</sup> 
 [necromacro](users/104/104058898569282311785-google)<sup>0</sup> 
-[](users/651/651948011-vkontakte)<sup>0</sup> 
 
 
-_06.04.2022 15:27:07_
+_06.04.2022 17:53:31_
