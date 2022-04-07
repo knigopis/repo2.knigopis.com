@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 210,
+        "updatedAt": "2022-04-07 05:12:33"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": null,
@@ -22,12 +28,6 @@
         "nickname": "Феня Котовна",
         "booksCount": 151,
         "updatedAt": "2022-04-05 11:20:14"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 209,
-        "updatedAt": "2022-04-05 08:43:03"
     },
     "965216042-yandex": {
         "id": "965216042-yandex",
