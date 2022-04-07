@@ -1,12 +1,7 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>213</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>212</sup>
 ---
 
 ## 2022
-
-### Кому за махоркой идти
-Саша Черный
-> [2022-04-07] 
-
 
 ### Кому за махоркой идти
 Саша Черный
