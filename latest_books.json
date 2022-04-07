@@ -1,4 +1,16 @@
 {
+    "Pf3GGryDYS": {
+        "id": "Pf3GGryDYS",
+        "title": "Колыбель для кошки",
+        "author": "Ваннегут Курт",
+        "notes": "",
+        "createdAt": "2022-04-07 05:12:30",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "q7kLrM7Kbc": {
         "id": "q7kLrM7Kbc",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 69
-        }
-    },
-    "DB_HuPeYEK": {
-        "id": "DB_HuPeYEK",
-        "title": "Мэнсфилд Парк",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2022-03-31 10:38:55",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 920
         }
     }
 }
