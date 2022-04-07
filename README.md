@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>211</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>212</sup> 
 [](users/300/300273923-vkontakte)<sup>15</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118248226132797004598-google)<sup>33</sup> 
 
 
-_07.04.2022 07:22:43_
+_07.04.2022 08:51:39_
