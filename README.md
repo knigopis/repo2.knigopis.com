@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101116155542365614873-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>214</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>922</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
-[](users/118/118248226132797004598-google)<sup>33</sup> 
 
 
-_07.04.2022 13:05:00_
+_07.04.2022 18:32:54_
