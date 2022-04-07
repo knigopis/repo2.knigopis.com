@@ -1,4 +1,16 @@
 {
+    "UVrZJPYqRK": {
+        "id": "UVrZJPYqRK",
+        "title": "Лавка древностей",
+        "author": "Диккенс Чарльз",
+        "notes": "",
+        "createdAt": "2022-04-07 05:29:54",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 14
+        }
+    },
     "ASGzdkpzOK": {
         "id": "ASGzdkpzOK",
         "title": "Большие надежды",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": null,
             "booksCount": 26
-        }
-    },
-    "OAejIzU8JT": {
-        "id": "OAejIzU8JT",
-        "title": "Я калибр 10",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-04-02 15:54:57",
-        "user": {
-            "id": "118261627879855357372-google",
-            "nickname": "kosnikovskiy",
-            "booksCount": 43
         }
     }
 }
