@@ -1,4 +1,4 @@
-# List of books read by [](http://vk.com/id300273923)<sup>5</sup>
+# List of books read by [](http://vk.com/id300273923)<sup>6</sup>
 ---
 
 ## 2022
@@ -18,6 +18,10 @@
 
 
 ## 2018
+
+### Бойня №5
+Ваннегут Курт
+
 
 ### Колыбель для кошки
 Ваннегут Курт

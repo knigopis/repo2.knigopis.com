@@ -1,4 +1,16 @@
 {
+    "g4qxgJD3R1": {
+        "id": "g4qxgJD3R1",
+        "title": "Бойня №5",
+        "author": "Ваннегут Курт",
+        "notes": "",
+        "createdAt": "2022-04-07 05:14:58",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "ywYO6vMgq8": {
         "id": "ywYO6vMgq8",
         "title": "Арап Петра великого",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 62
-        }
-    },
-    "8BBSHbheNf": {
-        "id": "8BBSHbheNf",
-        "title": "2061: Третья одиссея",
-        "author": "Артур Кларк",
-        "notes": "8/10 Разведка Европы и Юпитера.",
-        "createdAt": "2022-04-01 12:19:20",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 250
         }
     }
 }
