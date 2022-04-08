@@ -1,4 +1,16 @@
 {
+    "WsGDMKXfTq": {
+        "id": "WsGDMKXfTq",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "audio",
+        "createdAt": "2022-04-08 17:22:39",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 56
+        }
+    },
     "mw__a8B7qH": {
         "id": "mw__a8B7qH",
         "title": "Гарри Поттер и узник Азкабана",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 241
-        }
-    },
-    "7A-4b8XFwZ": {
-        "id": "7A-4b8XFwZ",
-        "title": "Воспарение",
-        "author": "Стивен Кинг",
-        "notes": "Воспаряющий мужчина из Касл-рока, где поселились две лесбиянки.",
-        "createdAt": "2022-03-06 20:46:43",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 257
         }
     }
 }

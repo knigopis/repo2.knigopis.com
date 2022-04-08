@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* О дивный новый мир ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup>
+    > audio
+
 * Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup>
     > audio
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Гром гремит, земля трясется, поп на курице несется… тили-тили, тили-бом, бежит курица с ведром… один на запад, другой на восток, а третий — над кукушкиным гнездом…
 
 * Сборник "Превращение" ~ [Rainbow](users/109/109787328219839805802-google)<sup>87</sup>
-    > Приговор, В исправительной колонии, Превращение, Как строилась Китайская стена, Перед Законом, Императорское послание, Сельский врач, Голодарь, Отчёт для академии, Лабиринт, Певица Жозефине или мышиный народ
 
 * 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
 
@@ -27,19 +29,17 @@ Do not use pull requests to make changes here.
 
 * Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
 
-* Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>215</sup> 
 [](users/101/101116155542365614873-google)<sup>0</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>922</sup> 
 [](users/300/300273923-vkontakte)<sup>15</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
 [](users/965/965216042-yandex)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 
 
-_08.04.2022 06:02:42_
+_08.04.2022 17:22:39_

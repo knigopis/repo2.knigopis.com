@@ -1,4 +1,16 @@
 {
+    "WsGDMKXfTq": {
+        "id": "WsGDMKXfTq",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "audio",
+        "createdAt": "2022-04-08 17:22:39",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 56
+        }
+    },
     "7Xv3gv0bvy": {
         "id": "7Xv3gv0bvy",
         "title": "Шуга",
@@ -345,18 +357,6 @@
             "id": "965216042-yandex",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "d2hxaQnpiw": {
-        "id": "d2hxaQnpiw",
-        "title": "Готовим в печать",
-        "author": "Буковецкая О. А.",
-        "notes": "",
-        "createdAt": "2022-04-04 20:34:14",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 154
         }
     }
 }
