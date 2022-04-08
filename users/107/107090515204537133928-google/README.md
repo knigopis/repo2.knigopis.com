@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>214</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>215</sup>
 ---
 
 ## 2022
+
+### Шуга
+Дмитрий Костюкевич
+> [2022-04-08] 
+
 
 ### История любви Аннеты
 Эрих Мария Ремарк
