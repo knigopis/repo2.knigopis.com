@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>215</sup> 
 [](users/101/101116155542365614873-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 
 
-_09.04.2022 05:57:30_
+_09.04.2022 05:57:44_
