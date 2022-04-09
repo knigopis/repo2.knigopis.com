@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>34</sup>
+# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>35</sup>
 ---
 
 ## 2022
+
+### Ярмарка тщеславия
+Теккерей
+> [2022-04-10] 
+
 
 ### Лондон
 Резенфорд
