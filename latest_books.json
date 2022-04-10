@@ -1,4 +1,16 @@
 {
+    "cF4x8wLpGn": {
+        "id": "cF4x8wLpGn",
+        "title": "Театр",
+        "author": "Моэм Сомерсет",
+        "notes": "",
+        "createdAt": "2022-04-10 15:12:53",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 33
+        }
+    },
     "br3PNoFXt4": {
         "id": "br3PNoFXt4",
         "title": "Острие бритвы",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 214
-        }
-    },
-    "974RHsM8uY": {
-        "id": "974RHsM8uY",
-        "title": "Черный отряд",
-        "author": "Глен Кук",
-        "notes": "",
-        "createdAt": "2022-04-07 13:04:31",
-        "user": {
-            "id": "114033154327786537076-google",
-            "nickname": "Occasio",
-            "booksCount": 1
         }
     }
 }
