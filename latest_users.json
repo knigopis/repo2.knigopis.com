@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 57,
+        "updatedAt": "2022-04-10 14:03:48"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": null,
@@ -28,12 +34,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 250,
         "updatedAt": "2022-04-09 05:57:44"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 56,
-        "updatedAt": "2022-04-08 17:22:39"
     },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин колец. Две твердыни. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup>
+    > paper
+
 * О дивный новый мир ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup>
     > audio
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Пролетая над гнездом кукушки ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>198</sup>
-    > Он знает: ты должен смеяться над тем, что тебя тревожит, просто чтобы сохранить душевное равновесие, удержать мир, чтобы он окончательно не снес тебе крышу. Он знает: у всего есть темная сторона; что мой палец дико болит, и что его подружка поранила грудь, и что доктор потерял свои очки, но он не позволяет боли заслонить юмор, так же как не позволяет юмору заслонить боль.
-    > Гром гремит, земля трясется, поп на курице несется… тили-тили, тили-бом, бежит курица с ведром… один на запад, другой на восток, а третий — над кукушкиным гнездом…
 
 * Сборник "Превращение" ~ [Rainbow](users/109/109787328219839805802-google)<sup>87</sup>
 
@@ -27,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
 
-* Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup> 
 [](users/300/300273923-vkontakte)<sup>29</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>333</sup> 
 [](users/118/118248226132797004598-google)<sup>35</sup> 
 [](users/153/1537586159620888-facebook)<sup>70</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>215</sup> 
 [](users/101/101116155542365614873-google)<sup>0</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>1</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 
 
-_10.04.2022 09:11:46_
+_10.04.2022 14:03:48_
