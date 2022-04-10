@@ -1,4 +1,10 @@
 {
+    "118069198221711301939-google": {
+        "id": "118069198221711301939-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-04-10 16:37:57"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 30,
         "updatedAt": "2022-03-27 07:10:40"
-    },
-    "27076131-vkontakte": {
-        "id": "27076131-vkontakte",
-        "nickname": "art_god",
-        "booksCount": 0,
-        "updatedAt": "2022-03-26 19:04:46"
     }
 }
