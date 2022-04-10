@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/118/118069198221711301939-google)<sup>0</sup> 
+[](users/118/118069198221711301939-google)<sup>1</sup> 
 [](users/300/300273923-vkontakte)<sup>35</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>333</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 
 
-_10.04.2022 16:37:57_
+_10.04.2022 16:38:37_

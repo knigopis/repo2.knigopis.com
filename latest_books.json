@@ -1,4 +1,16 @@
 {
+    "fgQaEdajgf": {
+        "id": "fgQaEdajgf",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Менсор",
+        "notes": "",
+        "createdAt": "2022-04-10 16:38:37",
+        "user": {
+            "id": "118069198221711301939-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "w_tHf7CF9z": {
         "id": "w_tHf7CF9z",
         "title": "Человек со шрамом",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 251
-        }
-    },
-    "WsGDMKXfTq": {
-        "id": "WsGDMKXfTq",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "audio",
-        "createdAt": "2022-04-08 17:22:39",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 56
         }
     }
 }
