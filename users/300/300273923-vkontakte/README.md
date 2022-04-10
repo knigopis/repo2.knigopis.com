@@ -1,4 +1,4 @@
-# List of books read by [](http://vk.com/id300273923)<sup>25</sup>
+# List of books read by [](http://vk.com/id300273923)<sup>26</sup>
 ---
 
 ## 2022
@@ -84,6 +84,10 @@
 
 
 ## 2018
+
+### Голем
+Майринк Густав
+
 
 ### Убить пересмешника
 Ли Харпер

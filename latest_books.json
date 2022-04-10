@@ -1,4 +1,16 @@
 {
+    "xk7vmswPJe": {
+        "id": "xk7vmswPJe",
+        "title": "Голем",
+        "author": "Майринк Густав",
+        "notes": "",
+        "createdAt": "2022-04-10 09:08:21",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 26
+        }
+    },
     "hxkbgoQWca": {
         "id": "hxkbgoQWca",
         "title": "Буденброки",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "P9Jhd80NtO": {
-        "id": "P9Jhd80NtO",
-        "title": "Село Степанчиково и его обитатели",
-        "author": "Достоевский Федор Михайлович",
-        "notes": "",
-        "createdAt": "2022-04-07 05:26:22",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": null,
-            "booksCount": 12
         }
     }
 }
