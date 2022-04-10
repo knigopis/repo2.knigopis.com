@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118069198221711301939-google)<sup>0</sup> 
 [](users/300/300273923-vkontakte)<sup>35</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>333</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>56</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
-[art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 
 
-_10.04.2022 15:16:27_
+_10.04.2022 16:37:57_
