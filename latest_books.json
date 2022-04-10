@@ -1,4 +1,16 @@
 {
+    "yzsRA_ulj1": {
+        "id": "yzsRA_ulj1",
+        "title": "Узорный покров",
+        "author": "Моэм Сомерсет",
+        "notes": "",
+        "createdAt": "2022-04-10 15:14:10",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 34
+        }
+    },
     "cF4x8wLpGn": {
         "id": "cF4x8wLpGn",
         "title": "Театр",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 215
-        }
-    },
-    "S8CDBsp-Rk": {
-        "id": "S8CDBsp-Rk",
-        "title": "История любви Аннеты",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2022-04-07 13:05:00",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 214
         }
     }
 }
