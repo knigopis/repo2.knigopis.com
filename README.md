@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/300/300273923-vkontakte)<sup>16</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>333</sup> 
 [](users/118/118248226132797004598-google)<sup>35</sup> 
 [](users/153/1537586159620888-facebook)<sup>70</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101116155542365614873-google)<sup>0</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>922</sup> 
-[](users/300/300273923-vkontakte)<sup>15</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
 [](users/965/965216042-yandex)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 
 
-_10.04.2022 05:33:18_
+_10.04.2022 08:51:20_

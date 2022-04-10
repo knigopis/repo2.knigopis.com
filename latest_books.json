@@ -1,4 +1,16 @@
 {
+    "ssyUmVpNrX": {
+        "id": "ssyUmVpNrX",
+        "title": "Джером К. Джером",
+        "author": "Трое в лодке, не считая собаки",
+        "notes": "",
+        "createdAt": "2022-04-10 08:51:20",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "LA1U728vx1": {
         "id": "LA1U728vx1",
         "title": "Гордость и грех",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "gMCTfZn04a": {
-        "id": "gMCTfZn04a",
-        "title": "Грозовой перевал",
-        "author": "Бронте Эмили",
-        "notes": "Страсти, надрывы, неадекватные женщины",
-        "createdAt": "2022-04-07 05:10:26",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
