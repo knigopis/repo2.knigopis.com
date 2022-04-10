@@ -1,4 +1,16 @@
 {
+    "w_tHf7CF9z": {
+        "id": "w_tHf7CF9z",
+        "title": "Человек со шрамом",
+        "author": "Моэм Сомерсет",
+        "notes": "",
+        "createdAt": "2022-04-10 15:16:27",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 35
+        }
+    },
     "yzsRA_ulj1": {
         "id": "yzsRA_ulj1",
         "title": "Узорный покров",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 56
-        }
-    },
-    "7Xv3gv0bvy": {
-        "id": "7Xv3gv0bvy",
-        "title": "Шуга",
-        "author": "Дмитрий Костюкевич",
-        "notes": "",
-        "createdAt": "2022-04-08 06:02:42",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 215
         }
     }
 }
