@@ -1,4 +1,16 @@
 {
+    "BvfwPTFO-D": {
+        "id": "BvfwPTFO-D",
+        "title": "Убить пересмешника",
+        "author": "Ли Харпер",
+        "notes": "",
+        "createdAt": "2022-04-10 09:00:17",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "quqWmhRnm7": {
         "id": "quqWmhRnm7",
         "title": "Венера в мехах",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 7
-        }
-    },
-    "g4qxgJD3R1": {
-        "id": "g4qxgJD3R1",
-        "title": "Бойня №5",
-        "author": "Ваннегут Курт",
-        "notes": "",
-        "createdAt": "2022-04-07 05:14:58",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }
