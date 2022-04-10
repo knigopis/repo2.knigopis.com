@@ -1,4 +1,16 @@
 {
+    "8rNmKpnb3V": {
+        "id": "8rNmKpnb3V",
+        "title": "Алиса в стране чудес",
+        "author": "Кэррол Льюис",
+        "notes": "",
+        "createdAt": "2022-04-10 09:03:05",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": null,
+            "booksCount": 23
+        }
+    },
     "QFUAZzBKKt": {
         "id": "QFUAZzBKKt",
         "title": "Невыносимая лёгкость бытия",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 10
-        }
-    },
-    "snRRNfrsH2": {
-        "id": "snRRNfrsH2",
-        "title": "Бесы",
-        "author": "Достоевский Федор Михайлович",
-        "notes": "",
-        "createdAt": "2022-04-07 05:19:26",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": null,
-            "booksCount": 9
         }
     }
 }
