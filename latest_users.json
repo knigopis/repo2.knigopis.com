@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 329,
+        "updatedAt": "2022-04-10 05:31:47"
+    },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "art_god",
         "booksCount": 0,
         "updatedAt": "2022-03-26 19:04:46"
-    },
-    "118049897850017649660-googleplus": {
-        "id": "118049897850017649660-googleplus",
-        "nickname": "Sky",
-        "booksCount": 222,
-        "updatedAt": "2022-03-23 21:20:56"
     }
 }
