@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/300/300273923-vkontakte)<sup>23</sup> 
+[](users/300/300273923-vkontakte)<sup>24</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>333</sup> 
 [](users/118/118248226132797004598-google)<sup>35</sup> 
 [](users/153/1537586159620888-facebook)<sup>70</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [art_god](users/270/27076131-vkontakte)<sup>0</sup> 
 
 
-_10.04.2022 09:03:05_
+_10.04.2022 09:06:01_
