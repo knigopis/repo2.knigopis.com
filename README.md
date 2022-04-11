@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vanbissaka](users/789/78955227-vkontakte)<sup>0</sup> 
 [](users/143/1431789564-yandex)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>198</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>62</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>20</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>56</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>56</sup> 
 
 
-_11.04.2022 19:34:24_
+_11.04.2022 19:54:39_
