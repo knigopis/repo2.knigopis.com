@@ -1,4 +1,10 @@
 {
+    "78955227-vkontakte": {
+        "id": "78955227-vkontakte",
+        "nickname": "vanbissaka",
+        "booksCount": 0,
+        "updatedAt": "2022-04-11 19:54:39"
+    },
     "1431789564-yandex": {
         "id": "1431789564-yandex",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 56,
         "updatedAt": "2022-03-27 19:18:06"
-    },
-    "5175580462988229760-mailru": {
-        "id": "5175580462988229760-mailru",
-        "nickname": "Triste",
-        "booksCount": 56,
-        "updatedAt": "2022-03-27 12:19:49"
     }
 }
