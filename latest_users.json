@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 58,
+        "updatedAt": "2022-04-11 06:44:47"
+    },
     "118069198221711301939-google": {
         "id": "118069198221711301939-google",
         "nickname": null,
@@ -10,12 +16,6 @@
         "nickname": null,
         "booksCount": 35,
         "updatedAt": "2022-04-10 15:16:27"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 57,
-        "updatedAt": "2022-04-10 14:03:48"
     },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",

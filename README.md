@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
+    > audio
+
 * Властелин колец. Две твердыни. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup>
     > paper
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup>
-    > audio
 
 * Пролетая над гнездом кукушки ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>198</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
 
-* Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup> 
 [](users/118/118069198221711301939-google)<sup>2</sup> 
 [](users/300/300273923-vkontakte)<sup>35</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>333</sup> 
 [](users/118/118248226132797004598-google)<sup>35</sup> 
 [](users/153/1537586159620888-facebook)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup> 
 
 
-_10.04.2022 16:39:02_
+_11.04.2022 06:44:47_
