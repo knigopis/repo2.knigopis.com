@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 57,
+        "updatedAt": "2022-04-12 18:16:32"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "pria",
         "booksCount": 62,
         "updatedAt": "2022-04-01 16:30:28"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 20,
-        "updatedAt": "2022-03-28 04:52:16"
     }
 }
