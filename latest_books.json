@@ -1,4 +1,16 @@
 {
+    "gJTavfmQqp": {
+        "id": "gJTavfmQqp",
+        "title": "Дело о девственнице-бродяге",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-04-12 17:47:23",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 923
+        }
+    },
     "-ABGBFtsSo": {
         "id": "-ABGBFtsSo",
         "title": "Божественная комедия",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 329
-        }
-    },
-    "u2nu4aX0_8": {
-        "id": "u2nu4aX0_8",
-        "title": "Ярмарка тщеславия",
-        "author": "Теккерей",
-        "notes": "",
-        "createdAt": "2022-04-09 23:59:43",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 35
         }
     }
 }
