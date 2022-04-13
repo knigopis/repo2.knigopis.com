@@ -1,4 +1,4 @@
-# List of books read by [](http://vk.com/id300273923)<sup>35</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>36</sup>
 ---
 
 ## 2022
@@ -147,6 +147,10 @@
 
 
 ## 2017
+
+### 1984
+Оруэлл Джордж
+
 
 ### Волшебная гора
 Манн Томас
