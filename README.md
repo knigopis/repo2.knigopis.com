@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>43</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>44</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>57</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>923</sup> 
 [trolli_wurrli](users/111/111989298078739016161-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>62</sup> 
 
 
-_13.04.2022 07:07:03_
+_13.04.2022 07:08:27_
