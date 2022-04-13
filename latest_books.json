@@ -1,4 +1,16 @@
 {
+    "vlaMf8mkIp": {
+        "id": "vlaMf8mkIp",
+        "title": "Триумфальная арка",
+        "author": "Ремарк Эрих Мария",
+        "notes": "",
+        "createdAt": "2022-04-13 07:01:02",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 39
+        }
+    },
     "skOpf1ldQr": {
         "id": "skOpf1ldQr",
         "title": "Фунт лиха в Лондоне и Париже",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "ssyUmVpNrX": {
-        "id": "ssyUmVpNrX",
-        "title": "Джером К. Джером",
-        "author": "Трое в лодке, не считая собаки",
-        "notes": "",
-        "createdAt": "2022-04-10 08:51:20",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": null,
-            "booksCount": 16
         }
     }
 }
