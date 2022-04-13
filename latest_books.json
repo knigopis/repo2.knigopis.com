@@ -1,4 +1,16 @@
 {
+    "sFQEp1UAuK": {
+        "id": "sFQEp1UAuK",
+        "title": "Жизнь взаймы",
+        "author": "Ремарк Эрих Мария",
+        "notes": "",
+        "createdAt": "2022-04-13 07:05:51",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 42
+        }
+    },
     "56VYCm4NGw": {
         "id": "56VYCm4NGw",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "quqWmhRnm7": {
-        "id": "quqWmhRnm7",
-        "title": "Венера в мехах",
-        "author": "Захер-Мазох Леопольд фон",
-        "notes": "",
-        "createdAt": "2022-04-10 08:58:34",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": null,
-            "booksCount": 19
         }
     }
 }
