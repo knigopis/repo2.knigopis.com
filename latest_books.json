@@ -1,4 +1,16 @@
 {
+    "4sKN76DwJc": {
+        "id": "4sKN76DwJc",
+        "title": "Квартал Тортилья-Флэт",
+        "author": "Стейнбек Джон",
+        "notes": "",
+        "createdAt": "2022-04-13 07:07:03",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 43
+        }
+    },
     "sFQEp1UAuK": {
         "id": "sFQEp1UAuK",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "BvfwPTFO-D": {
-        "id": "BvfwPTFO-D",
-        "title": "Убить пересмешника",
-        "author": "Ли Харпер",
-        "notes": "",
-        "createdAt": "2022-04-10 09:00:17",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
