@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 334,
+        "updatedAt": "2022-04-13 10:47:12"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -52,12 +58,6 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2022-04-10 16:39:02"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 333,
-        "updatedAt": "2022-04-10 05:33:18"
     },
     "118248226132797004598-google": {
         "id": "118248226132797004598-google",
