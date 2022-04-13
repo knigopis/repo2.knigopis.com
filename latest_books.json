@@ -1,4 +1,16 @@
 {
+    "UamP2yrNQ7": {
+        "id": "UamP2yrNQ7",
+        "title": "Война и мир",
+        "author": "Толстой Лев Николаевич",
+        "notes": "",
+        "createdAt": "2022-04-13 08:26:15",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 53
+        }
+    },
     "IEQ_KkSmJA": {
         "id": "IEQ_KkSmJA",
         "title": "Ярмарка тщеславия",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": null,
             "booksCount": 30
-        }
-    },
-    "CQvClqflrA": {
-        "id": "CQvClqflrA",
-        "title": "Властелин колец. Две твердыни.",
-        "author": "Джон Р. Р. Толкин",
-        "notes": "paper",
-        "createdAt": "2022-04-10 14:03:48",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 57
         }
     }
 }
