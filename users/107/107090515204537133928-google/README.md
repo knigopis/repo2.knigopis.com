@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>215</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>216</sup>
 ---
 
 ## 2022
+
+### Собор Парижской Богоматери
+Виктор Гюго
+> [2022-04-14] 
+
 
 ### Шуга
 Дмитрий Костюкевич

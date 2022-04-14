@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 216,
+        "updatedAt": "2022-04-14 06:01:46"
+    },
     "694033938-vkontakte": {
         "id": "694033938-vkontakte",
         "nickname": null,
@@ -88,12 +94,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 250,
         "updatedAt": "2022-04-09 05:57:44"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 215,
-        "updatedAt": "2022-04-08 06:02:42"
     },
     "101116155542365614873-google": {
         "id": "101116155542365614873-google",
