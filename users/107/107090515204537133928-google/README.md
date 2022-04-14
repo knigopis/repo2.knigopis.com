@@ -1,12 +1,7 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>221</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>220</sup>
 ---
 
 ## 2022
-
-### Собор Парижской Богоматери
-Виктор Гюго
-> [2022-04-14] 
-
 
 ### Собор Парижской Богоматери
 Виктор Гюго
