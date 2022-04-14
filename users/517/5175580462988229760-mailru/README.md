@@ -1,7 +1,11 @@
-# List of books read by Triste<sup>56</sup>
+# List of books read by Triste<sup>57</sup>
 ---
 
 ## 2022
+
+### Записки сумасшедшего
+Гоголь
+
 
 ### Капитанская дочка
 А. С. Пушкин

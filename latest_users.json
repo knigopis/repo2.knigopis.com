@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 57,
+        "updatedAt": "2022-04-14 12:04:53"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "kosnikovskiy",
         "booksCount": 43,
         "updatedAt": "2022-04-02 15:54:57"
-    },
-    "106097346551562439722-google": {
-        "id": "106097346551562439722-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-04-02 03:08:42"
     }
 }
