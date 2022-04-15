@@ -1,4 +1,16 @@
 {
+    "WvW-sVCM_7": {
+        "id": "WvW-sVCM_7",
+        "title": "Без ума от шторма",
+        "author": "Норман Оллестад",
+        "notes": "",
+        "createdAt": "2022-04-15 06:05:56",
+        "user": {
+            "id": "296323488-yandex",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "Pncg6mqXtC": {
         "id": "Pncg6mqXtC",
         "title": "Время жить и время умирать",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 57
-        }
-    },
-    "gJTavfmQqp": {
-        "id": "gJTavfmQqp",
-        "title": "Дело о девственнице-бродяге",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-04-12 17:47:23",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 923
         }
     }
 }
