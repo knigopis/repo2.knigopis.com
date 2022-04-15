@@ -1,4 +1,10 @@
 {
+    "296323488-yandex": {
+        "id": "296323488-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-04-15 06:00:37"
+    },
     "5175580462988229760-mailru": {
         "id": "5175580462988229760-mailru",
         "nickname": "Triste",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-04-02 22:10:29"
-    },
-    "118261627879855357372-google": {
-        "id": "118261627879855357372-google",
-        "nickname": "kosnikovskiy",
-        "booksCount": 43,
-        "updatedAt": "2022-04-02 15:54:57"
     }
 }
