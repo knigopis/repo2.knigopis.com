@@ -1,4 +1,16 @@
 {
+    "sjkdHCW3mh": {
+        "id": "sjkdHCW3mh",
+        "title": "Божа кара",
+        "author": "Анатолій Дімаров",
+        "notes": "8/10 Історії з життя містян та селян, автобіографічні нотки.",
+        "createdAt": "2022-04-15 08:09:08",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 251
+        }
+    },
     "AzRjDMoBuu": {
         "id": "AzRjDMoBuu",
         "title": "Приют грёз",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 41
-        }
-    },
-    "OFR3VkNLFH": {
-        "id": "OFR3VkNLFH",
-        "title": "Время жить и время умирать",
-        "author": "Ремарк Эрих Мария",
-        "notes": "",
-        "createdAt": "2022-04-13 07:02:11",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 40
         }
     }
 }

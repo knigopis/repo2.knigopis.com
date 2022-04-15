@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
+    > 8/10 Історії з життя містян та селян, автобіографічні нотки.
+
 * Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > paper
 
 * О дивный новый мир ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup>
-    > audio
 
 * Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
 
-* Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup> 
 [](users/296/296323488-yandex)<sup>11</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>57</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>216</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118069198221711301939-google)<sup>2</sup> 
 [](users/118/118248226132797004598-google)<sup>35</sup> 
 [](users/153/1537586159620888-facebook)<sup>70</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup> 
 [](users/101/101116155542365614873-google)<sup>0</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>1</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105803270930838059244-google)<sup>0</sup> 
 
 
-_15.04.2022 06:10:02_
+_15.04.2022 08:09:08_

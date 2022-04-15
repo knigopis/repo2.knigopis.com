@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>250</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>251</sup>
 ---
 
 ## 2022
+
+### Божа кара
+Анатолій Дімаров
+> [2022-04-15] 8/10 Історії з життя містян та селян, автобіографічні нотки.
+
 
 ### 2061: Третья одиссея
 Артур Кларк

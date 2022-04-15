@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
 * Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
 * Властелин колец. Две твердыни. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup>
 * О дивный новый мир ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
 * Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
 * 2010: Одиссея два ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>242</sup>
-* Через месяц, через год ~ [Len4e91](users/254/254448176-yandex)<sup>15</sup>
 
 
-_11.04.2022 06:44:47_
+_15.04.2022 08:09:08_
