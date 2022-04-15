@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/296/296323488-yandex)<sup>0</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>57</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>216</sup> 
 [](users/694/694033938-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115201744643341348863-google)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>26</sup> 
 [](users/105/105803270930838059244-google)<sup>0</sup> 
-[kosnikovskiy](users/118/118261627879855357372-google)<sup>43</sup> 
 
 
-_14.04.2022 12:04:53_
+_15.04.2022 06:00:37_
