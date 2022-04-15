@@ -1,4 +1,16 @@
 {
+    "MkGLz9VW4m": {
+        "id": "MkGLz9VW4m",
+        "title": "Игра в бисер",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2022-04-15 06:03:06",
+        "user": {
+            "id": "296323488-yandex",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "kxKN6e9rf5": {
         "id": "kxKN6e9rf5",
         "title": "Сакура и дуб",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 58
-        }
-    },
-    "fbAHI-9Jtu": {
-        "id": "fbAHI-9Jtu",
-        "title": "Как закалялась",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-04-10 16:39:02",
-        "user": {
-            "id": "118069198221711301939-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
