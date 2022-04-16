@@ -1,4 +1,16 @@
 {
+    "POQ8ZuUf0t": {
+        "id": "POQ8ZuUf0t",
+        "title": "Мантисса",
+        "author": "Фаулз Джон",
+        "notes": "",
+        "createdAt": "2022-04-16 20:50:09",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 59
+        }
+    },
     "udkd2mDOdX": {
         "id": "udkd2mDOdX",
         "title": "Волхв",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 52
-        }
-    },
-    "c9BUmnma2h": {
-        "id": "c9BUmnma2h",
-        "title": "Над пропастью во ржи",
-        "author": "Сэлинджер Джером",
-        "notes": "",
-        "createdAt": "2022-04-13 08:19:57",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 51
         }
     }
 }

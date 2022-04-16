@@ -1,4 +1,4 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>58</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>59</sup>
 ---
 
 ## 2022
@@ -172,6 +172,10 @@
 
 
 ## 2019
+
+### Мантисса
+Фаулз Джон
+
 
 ### Волхв
 Фаулз Джон
