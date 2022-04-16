@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/107/107964573981658495430-google)<sup>1</sup> 
+[](users/107/107964573981658495430-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup> 
 [](users/296/296323488-yandex)<sup>11</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>57</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/864/86487125-vkontakte)<sup>26</sup> 
 
 
-_16.04.2022 06:58:43_
+_16.04.2022 06:59:04_
