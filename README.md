@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/113/113306797383529794620-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
 [](users/102/102316312151734465694-google)<sup>1</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 [saran bao](users/109/109276796058369770367-google)<sup>1</sup> 
 [Эльвина](users/637/637513702-vkontakte)<sup>3</sup> 
-[Zorr](users/102/102978821506314439770-google)<sup>0</sup> 
 
 
-_16.04.2022 13:49:29_
+_16.04.2022 14:19:18_
