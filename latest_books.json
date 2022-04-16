@@ -1,4 +1,16 @@
 {
+    "ASnoNEwg6L": {
+        "id": "ASnoNEwg6L",
+        "title": "О дивный новый мир",
+        "author": "Хаксли Олдос",
+        "notes": "",
+        "createdAt": "2022-04-16 20:51:05",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 60
+        }
+    },
     "POQ8ZuUf0t": {
         "id": "POQ8ZuUf0t",
         "title": "Мантисса",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 53
-        }
-    },
-    "IEQ_KkSmJA": {
-        "id": "IEQ_KkSmJA",
-        "title": "Ярмарка тщеславия",
-        "author": "Теккерей Уильям",
-        "notes": "",
-        "createdAt": "2022-04-13 08:21:09",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 52
         }
     }
 }
