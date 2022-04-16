@@ -1,4 +1,16 @@
 {
+    "8erXbIh3aZ": {
+        "id": "8erXbIh3aZ",
+        "title": "Голодные игры 1",
+        "author": "Сьюзен Коллинз",
+        "notes": "Аудио",
+        "createdAt": "2022-04-16 22:25:03",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 71
+        }
+    },
     "7rLFaq98R0": {
         "id": "7rLFaq98R0",
         "title": "Книга",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ..",
             "booksCount": 158
-        }
-    },
-    "CZ90UxW-1l": {
-        "id": "CZ90UxW-1l",
-        "title": "Попіл Клааса",
-        "author": "Аеатолій Дімаров",
-        "notes": "8/10 Колишній політв'язень зустрічає свого слідчого.",
-        "createdAt": "2022-03-08 15:38:37",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 243
         }
     }
 }

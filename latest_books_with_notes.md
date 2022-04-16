@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
 * Книга ~ [](users/107/107964573981658495430-google)<sup>1</sup>
 * Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
 * Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
 * Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
-* Попіл Клааса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>243</sup>
 
 
-_16.04.2022 06:58:43_
+_16.04.2022 22:25:03_

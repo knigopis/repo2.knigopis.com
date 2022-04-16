@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
+    > Аудио
+
 * Книга ~ [](users/107/107964573981658495430-google)<sup>1</sup>
     > Члены
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Історії з життя містян та селян, автобіографічні нотки.
 
 * Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
-    > audio
 
 * Властелин колец. Две твердыни. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
 
-* Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>71</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>335</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>60</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>217</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup> 
 [](users/118/118069198221711301939-google)<sup>2</sup> 
 [](users/118/118248226132797004598-google)<sup>35</sup> 
-[](users/153/1537586159620888-facebook)<sup>70</sup> 
 [](users/101/101116155542365614873-google)<sup>0</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>1</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Эльвина](users/637/637513702-vkontakte)<sup>3</sup> 
 
 
-_16.04.2022 22:02:12_
+_16.04.2022 22:25:03_

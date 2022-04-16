@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>70</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>71</sup>
 ---
 
 ## 2022
+
+### Голодные игры 1
+Сьюзен Коллинз
+> [2022-04] Аудио
+
 
 ### Эдди Яку
 Самый Счастливый Человек На Земле
