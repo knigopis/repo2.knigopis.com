@@ -1,4 +1,16 @@
 {
+    "MAXPE9lAtX": {
+        "id": "MAXPE9lAtX",
+        "title": "День триффидов",
+        "author": "Уиндем Джон",
+        "notes": "",
+        "createdAt": "2022-04-16 20:47:39",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 56
+        }
+    },
     "29y4OHVxAB": {
         "id": "29y4OHVxAB",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 49
-        }
-    },
-    "f-XYEOrwdc": {
-        "id": "f-XYEOrwdc",
-        "title": "Короткое правление Пипина IV",
-        "author": "Стейнбек Джон",
-        "notes": "",
-        "createdAt": "2022-04-13 07:28:15",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 48
         }
     }
 }

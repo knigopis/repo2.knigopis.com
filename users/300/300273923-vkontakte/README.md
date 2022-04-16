@@ -1,4 +1,4 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>55</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>56</sup>
 ---
 
 ## 2022
@@ -179,6 +179,10 @@
 
 
 ## 2018
+
+### День триффидов
+Уиндем Джон
+
 
 ### Голем
 Майринк Густав
