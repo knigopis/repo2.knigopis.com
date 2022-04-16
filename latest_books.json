@@ -1,4 +1,16 @@
 {
+    "gIrz2FEum-": {
+        "id": "gIrz2FEum-",
+        "title": "Ведьмак. Владычица озера",
+        "author": "Сапковский Анджей",
+        "notes": "",
+        "createdAt": "2022-04-16 13:49:29",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 312
+        }
+    },
     "TexzxESBGA": {
         "id": "TexzxESBGA",
         "title": "Ведьмак. Башня Ласточки",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 46
-        }
-    },
-    "-DdfpoTcDN": {
-        "id": "-DdfpoTcDN",
-        "title": "Консервный ряд",
-        "author": "Стейнбек Джон",
-        "notes": "",
-        "createdAt": "2022-04-13 07:10:46",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 45
         }
     }
 }

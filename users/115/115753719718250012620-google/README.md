@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>311</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>312</sup>
 ---
 
 ## 2022
+
+### Ведьмак. Владычица озера
+Сапковский Анджей
+> [2022-04-15] 
+
 
 ### Ведьмак. Башня Ласточки
 Сапковский Анджей
