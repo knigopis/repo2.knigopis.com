@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 335,
+        "updatedAt": "2022-04-16 22:02:12"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -64,12 +70,6 @@
         "nickname": "Chandravadana",
         "booksCount": 171,
         "updatedAt": "2022-04-13 18:22:03"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 334,
-        "updatedAt": "2022-04-13 10:47:12"
     },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
