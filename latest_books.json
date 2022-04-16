@@ -1,4 +1,16 @@
 {
+    "okjmmr3yuK": {
+        "id": "okjmmr3yuK",
+        "title": "Коллекционер",
+        "author": "Фаулз Джон",
+        "notes": "",
+        "createdAt": "2022-04-16 20:49:10",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 57
+        }
+    },
     "MAXPE9lAtX": {
         "id": "MAXPE9lAtX",
         "title": "День триффидов",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 50
-        }
-    },
-    "-HybWqLx0H": {
-        "id": "-HybWqLx0H",
-        "title": "Зима тревоги нашей",
-        "author": "Стейнбек Джон",
-        "notes": "",
-        "createdAt": "2022-04-13 07:55:48",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 49
         }
     }
 }

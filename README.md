@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>56</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>57</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>217</sup> 
 [](users/113/113306797383529794620-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Эльвина](users/637/637513702-vkontakte)<sup>3</sup> 
 
 
-_16.04.2022 20:47:39_
+_16.04.2022 20:49:10_
