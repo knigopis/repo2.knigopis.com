@@ -1,4 +1,16 @@
 {
+    "7rLFaq98R0": {
+        "id": "7rLFaq98R0",
+        "title": "Книга",
+        "author": "Автор",
+        "notes": "Члены",
+        "createdAt": "2022-04-16 06:58:43",
+        "user": {
+            "id": "107964573981658495430-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "sjkdHCW3mh": {
         "id": "sjkdHCW3mh",
         "title": "Божа кара",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 243
-        }
-    },
-    "KzVntVsGRJ": {
-        "id": "KzVntVsGRJ",
-        "title": "2010: Одиссея два",
-        "author": "Артур Кларк",
-        "notes": "10/10 Монолит на Юпитере, новая команда летит исследовать его.",
-        "createdAt": "2022-03-07 23:57:36",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 242
         }
     }
 }

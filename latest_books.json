@@ -1,4 +1,16 @@
 {
+    "7rLFaq98R0": {
+        "id": "7rLFaq98R0",
+        "title": "Книга",
+        "author": "Автор",
+        "notes": "Члены",
+        "createdAt": "2022-04-16 06:58:43",
+        "user": {
+            "id": "107964573981658495430-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "sjkdHCW3mh": {
         "id": "sjkdHCW3mh",
         "title": "Божа кара",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 42
-        }
-    },
-    "56VYCm4NGw": {
-        "id": "56VYCm4NGw",
-        "title": "Три товарища",
-        "author": "Ремарк Эрих Мария",
-        "notes": "",
-        "createdAt": "2022-04-13 07:04:01",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 41
         }
     }
 }

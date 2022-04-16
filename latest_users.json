@@ -1,4 +1,10 @@
 {
+    "107964573981658495430-google": {
+        "id": "107964573981658495430-google",
+        "nickname": null,
+        "booksCount": 1,
+        "updatedAt": "2022-04-16 06:58:43"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 26,
         "updatedAt": "2022-04-03 06:40:49"
-    },
-    "105803270930838059244-google": {
-        "id": "105803270930838059244-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-04-02 22:10:29"
     }
 }

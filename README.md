@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Книга ~ [](users/107/107964573981658495430-google)<sup>1</sup>
+    > Члены
+
 * Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
     > 8/10 Історії з життя містян та селян, автобіографічні нотки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Властелин колец. Две твердыни. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup>
-    > paper
 
 * О дивный новый мир ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
 
-* Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107964573981658495430-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup> 
 [](users/296/296323488-yandex)<sup>11</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>57</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zorr](users/102/102978821506314439770-google)<sup>0</sup> 
 [](users/115/115201744643341348863-google)<sup>0</sup> 
 [](users/864/86487125-vkontakte)<sup>26</sup> 
-[](users/105/105803270930838059244-google)<sup>0</sup> 
 
 
-_15.04.2022 08:09:08_
+_16.04.2022 06:58:43_
