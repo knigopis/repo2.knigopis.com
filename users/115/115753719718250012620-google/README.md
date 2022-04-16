@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>309</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>310</sup>
 ---
 
 ## 2022
+
+### Ведьмак. Крещение огнём
+Сапковский Анджей
+> [2022-03-12] 
+
 
 ### Ведьмак. Час Презрения
 Сапковский Анджей

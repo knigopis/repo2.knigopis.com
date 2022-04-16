@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>310</sup> 
 [](users/102/102316312151734465694-google)<sup>1</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [saran bao](users/109/109276796058369770367-google)<sup>1</sup> 
 [Эльвина](users/637/637513702-vkontakte)<sup>3</sup> 
 [Zorr](users/102/102978821506314439770-google)<sup>0</sup> 
-[](users/115/115201744643341348863-google)<sup>0</sup> 
 
 
-_16.04.2022 12:33:39_
+_16.04.2022 13:48:09_
