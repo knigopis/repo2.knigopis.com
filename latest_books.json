@@ -1,4 +1,16 @@
 {
+    "j3k51x5L6x": {
+        "id": "j3k51x5L6x",
+        "title": "Чочара",
+        "author": "Альберто Моравиа",
+        "notes": "Про войну и красивых итальянских женщин",
+        "createdAt": "2022-04-17 18:26:03",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 61
+        }
+    },
     "_4KJ7FvfC3": {
         "id": "_4KJ7FvfC3",
         "title": "Благоволительницы",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 57
-        }
-    },
-    "ZAExGK_mL8": {
-        "id": "ZAExGK_mL8",
-        "title": "Собор Парижской Богоматери",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2022-04-14 06:05:56",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 221
         }
     }
 }

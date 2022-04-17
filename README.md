@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
+    > Про войну и красивых итальянских женщин
+
 * Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
     > Все так! Очень актуально в данное время - почему люди стыдятся проявлять агрессию при отстаивании своих интересов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Книга ~ [](users/107/107964573981658495430-google)<sup>1</sup>
-    > Члены
 
 * Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Пролетая над гнездом кукушки ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>198</sup>
 
-* Сборник "Превращение" ~ [Rainbow](users/109/109787328219839805802-google)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>61</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>141</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup> 
 [](users/153/1537586159620888-facebook)<sup>71</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>335</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>60</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>217</sup> 
 [](users/113/113306797383529794620-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 
 
-_17.04.2022 12:12:11_
+_17.04.2022 18:26:03_

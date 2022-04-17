@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
 * Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
 * Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
 * Книга ~ [](users/107/107964573981658495430-google)<sup>1</sup>
@@ -30,7 +31,6 @@
 * Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
 * Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
-* Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
 
 
-_17.04.2022 11:08:41_
+_17.04.2022 18:26:03_
