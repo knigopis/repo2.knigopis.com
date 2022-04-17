@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 141,
+        "updatedAt": "2022-04-17 12:12:11"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "tututu",
         "booksCount": 31,
         "updatedAt": "2022-04-04 20:18:08"
-    },
-    "109276796058369770367-google": {
-        "id": "109276796058369770367-google",
-        "nickname": "saran bao",
-        "booksCount": 1,
-        "updatedAt": "2022-04-04 12:20:19"
     }
 }

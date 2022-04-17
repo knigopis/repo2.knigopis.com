@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>141</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup> 
 [](users/153/1537586159620888-facebook)<sup>71</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>335</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/965/965216042-yandex)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
-[saran bao](users/109/109276796058369770367-google)<sup>1</sup> 
 
 
-_17.04.2022 11:08:41_
+_17.04.2022 12:12:11_
