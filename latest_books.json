@@ -1,4 +1,16 @@
 {
+    "sZXlmfuGhV": {
+        "id": "sZXlmfuGhV",
+        "title": "Прощай оружие",
+        "author": "Хэмингуэй Эрнест",
+        "notes": "",
+        "createdAt": "2022-04-17 20:02:31",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 64
+        }
+    },
     "FrGjO0EDGN": {
         "id": "FrGjO0EDGN",
         "title": "Сиеста",
@@ -345,18 +357,6 @@
             "id": "296323488-yandex",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "kxKN6e9rf5": {
-        "id": "kxKN6e9rf5",
-        "title": "Сакура и дуб",
-        "author": "Всевлод Овчинников",
-        "notes": "",
-        "createdAt": "2022-04-15 06:02:30",
-        "user": {
-            "id": "296323488-yandex",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
