@@ -1,4 +1,16 @@
 {
+    "6HnkYNrbXN": {
+        "id": "6HnkYNrbXN",
+        "title": "Чувство стыда: Как перестать бояться быть неправильно воспринятым",
+        "author": "Илсе Санд",
+        "notes": "Все так! Очень актуально в данное время - почему люди стыдятся проявлять агрессию при отстаивании своих интересов",
+        "createdAt": "2022-04-17 11:08:41",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 31
+        }
+    },
     "8erXbIh3aZ": {
         "id": "8erXbIh3aZ",
         "title": "Голодные игры 1",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 171
-        }
-    },
-    "_6rS1XaRS3": {
-        "id": "_6rS1XaRS3",
-        "title": "Проникновение",
-        "author": "Марина Суржевская",
-        "notes": "",
-        "createdAt": "2022-04-13 10:47:12",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 334
         }
     }
 }

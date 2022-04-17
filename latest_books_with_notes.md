@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
 * Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
 * Книга ~ [](users/107/107964573981658495430-google)<sup>1</sup>
 * Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
@@ -30,7 +31,6 @@
 * Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
 * Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
 * Велотренажёр ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>258</sup>
-* Измышления одиночества ~ [GvenVivar ..](users/158/158266434925901-facebook)<sup>158</sup>
 
 
-_16.04.2022 22:25:03_
+_17.04.2022 11:08:41_

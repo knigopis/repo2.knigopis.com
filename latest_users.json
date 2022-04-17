@@ -1,4 +1,10 @@
 {
+    "2579695-vkontakte": {
+        "id": "2579695-vkontakte",
+        "nickname": "albina_untiring",
+        "booksCount": 31,
+        "updatedAt": "2022-04-17 11:08:41"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "saran bao",
         "booksCount": 1,
         "updatedAt": "2022-04-04 12:20:19"
-    },
-    "637513702-vkontakte": {
-        "id": "637513702-vkontakte",
-        "nickname": "Эльвина",
-        "booksCount": 3,
-        "updatedAt": "2022-04-04 12:07:11"
     }
 }

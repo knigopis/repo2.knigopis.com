@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
+    > Все так! Очень актуально в данное время - почему люди стыдятся проявлять агрессию при отстаивании своих интересов
+
 * Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
     > Аудио
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Члены
 
 * Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
-    > 8/10 Історії з життя містян та селян, автобіографічні нотки.
 
 * Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сборник "Превращение" ~ [Rainbow](users/109/109787328219839805802-google)<sup>87</sup>
 
-* 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>31</sup> 
 [](users/153/1537586159620888-facebook)<sup>71</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>335</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 [saran bao](users/109/109276796058369770367-google)<sup>1</sup> 
-[Эльвина](users/637/637513702-vkontakte)<sup>3</sup> 
 
 
-_16.04.2022 22:25:03_
+_17.04.2022 11:08:41_
