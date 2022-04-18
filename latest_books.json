@@ -1,4 +1,16 @@
 {
+    "dFYex2Qmhs": {
+        "id": "dFYex2Qmhs",
+        "title": "Лолли",
+        "author": "Куприн Александр",
+        "notes": "",
+        "createdAt": "2022-04-18 21:15:41",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 67
+        }
+    },
     "hzmBuVu5d7": {
         "id": "hzmBuVu5d7",
         "title": "Сага о Форсайтах",
@@ -345,18 +357,6 @@
             "id": "296323488-yandex",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "Ly2xtOb9x1": {
-        "id": "Ly2xtOb9x1",
-        "title": "Беседы о русской культуре: Быт и традиции русского дворянства",
-        "author": "Юрий Лотман",
-        "notes": "",
-        "createdAt": "2022-04-15 06:07:37",
-        "user": {
-            "id": "296323488-yandex",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
