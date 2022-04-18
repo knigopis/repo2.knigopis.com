@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>924</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>65</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>141</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/694/694033938-vkontakte)<sup>0</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>171</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>57</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>923</sup> 
 [trolli_wurrli](users/111/111989298078739016161-google)<sup>0</sup> 
 [vanbissaka](users/789/78955227-vkontakte)<sup>0</sup> 
 [](users/143/1431789564-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 
 
-_17.04.2022 20:03:22_
+_18.04.2022 18:15:51_
