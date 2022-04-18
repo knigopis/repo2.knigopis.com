@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
+    > 8/10 Пулман в будущем, развитие жизни на Европе.
+
 * Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
     > Про войну и красивых итальянских женщин
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Все так! Очень актуально в данное время - почему люди стыдятся проявлять агрессию при отстаивании своих интересов
 
 * Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
-    > Аудио
 
 * Книга ~ [](users/107/107964573981658495430-google)<sup>1</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup>
 
-* Пролетая над гнездом кукушки ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>198</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>924</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>65</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>141</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
 [](users/102/102316312151734465694-google)<sup>1</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup> 
 [](users/296/296323488-yandex)<sup>11</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>57</sup> 
 [](users/694/694033938-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 
 
-_18.04.2022 18:15:51_
+_18.04.2022 18:44:30_

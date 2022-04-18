@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
 * Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
 * Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
 * Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
 * Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
 * Дом Зверя ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>260</sup>
-* Посвещение ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>259</sup>
 
 
-_17.04.2022 18:26:03_
+_18.04.2022 18:44:30_
