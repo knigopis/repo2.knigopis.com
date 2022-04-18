@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>325</sup>
+    > живешь ты тараканьей фронтовой жизнью: бегаешь по траншеям щелей в полах и стенах. Любой шум относишь на свой счет и тут же замираешь, и каждый раз надо быть готовым к тому, что раздавят. И вот однажды выбираешься на свет и попадаешься. Однако вместо того чтобы хрустнуть и сгинуть, вдруг, крепко зажатый пальцами, взлетаешь куда-то вверх, где тебя собираются разглядывать.
+
 * 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
     > 8/10 Пулман в будущем, развитие жизни на Европе.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Про войну и красивых итальянских женщин
 
 * Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
-    > Все так! Очень актуально в данное время - почему люди стыдятся проявлять агрессию при отстаивании своих интересов
 
 * Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * О дивный новый мир ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup>
 
-* Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>924</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>65</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
 [](users/965/965216042-yandex)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>31</sup> 
 
 
-_18.04.2022 18:44:30_
+_18.04.2022 19:17:26_
