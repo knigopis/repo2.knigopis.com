@@ -1,4 +1,10 @@
 {
+    "300273923-vkontakte": {
+        "id": "300273923-vkontakte",
+        "nickname": "Вит",
+        "booksCount": 66,
+        "updatedAt": "2022-04-18 21:14:42"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -16,12 +22,6 @@
         "nickname": "Janet",
         "booksCount": 924,
         "updatedAt": "2022-04-18 18:15:51"
-    },
-    "300273923-vkontakte": {
-        "id": "300273923-vkontakte",
-        "nickname": "Вит",
-        "booksCount": 65,
-        "updatedAt": "2022-04-17 20:03:22"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",

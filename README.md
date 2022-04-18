@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>66</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>326</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>924</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>65</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>141</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup> 
 [](users/153/1537586159620888-facebook)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
 
 
-_18.04.2022 19:41:48_
+_18.04.2022 21:14:42_
