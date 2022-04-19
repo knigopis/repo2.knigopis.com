@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-googleplus": {
+        "id": "118049897850017649660-googleplus",
+        "nickname": "Sky",
+        "booksCount": 223,
+        "updatedAt": "2022-04-19 13:11:57"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 3,
         "updatedAt": "2022-04-05 03:52:59"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 154,
-        "updatedAt": "2022-04-04 20:34:14"
     }
 }

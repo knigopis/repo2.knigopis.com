@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-googleplus)<sup>223</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>68</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>326</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Occasio](users/114/114033154327786537076-google)<sup>1</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>151</sup> 
 [](users/965/965216042-yandex)<sup>3</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>154</sup> 
 
 
-_18.04.2022 21:19:54_
+_19.04.2022 13:11:57_
