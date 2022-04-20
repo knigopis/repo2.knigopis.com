@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вторая жизнь Уве ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>199</sup>
 * Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 * 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
 * Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
@@ -30,7 +31,6 @@
 * Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
 * Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
 * Сон Харви ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>262</sup>
-* Цикл оборотня ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>261</sup>
 
 
-_18.04.2022 19:41:48_
+_20.04.2022 09:53:34_
