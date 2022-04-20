@@ -1,4 +1,10 @@
 {
+    "111656270551033014778-google": {
+        "id": "111656270551033014778-google",
+        "nickname": "eva",
+        "booksCount": 122,
+        "updatedAt": "2022-04-20 14:43:47"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-04-07 18:32:54"
-    },
-    "114033154327786537076-google": {
-        "id": "114033154327786537076-google",
-        "nickname": "Occasio",
-        "booksCount": 1,
-        "updatedAt": "2022-04-07 13:04:31"
     }
 }
