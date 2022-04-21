@@ -1,4 +1,16 @@
 {
+    "gAA71dcOz5": {
+        "id": "gAA71dcOz5",
+        "title": "Саур-могила. Военные дневники (сборник)",
+        "author": "Максим Музыка, Андрей Пальваль",
+        "notes": "",
+        "createdAt": "2022-04-21 17:16:10",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 140
+        }
+    },
     "4Y4EZfdJzB": {
         "id": "4Y4EZfdJzB",
         "title": "Зима наближається",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 59
-        }
-    },
-    "udkd2mDOdX": {
-        "id": "udkd2mDOdX",
-        "title": "Волхв",
-        "author": "Фаулз Джон",
-        "notes": "",
-        "createdAt": "2022-04-16 20:49:43",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 58
         }
     }
 }
