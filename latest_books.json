@@ -1,4 +1,16 @@
 {
+    "kBrEbxojjf": {
+        "id": "kBrEbxojjf",
+        "title": "Шахматная новелла",
+        "author": "Стефан Цвейг",
+        "notes": "",
+        "createdAt": "2022-04-21 17:09:30",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 138
+        }
+    },
     "dDDTVTsagr": {
         "id": "dDDTVTsagr",
         "title": "Ночь в Лиссабоне",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 57
-        }
-    },
-    "MAXPE9lAtX": {
-        "id": "MAXPE9lAtX",
-        "title": "День триффидов",
-        "author": "Уиндем Джон",
-        "notes": "",
-        "createdAt": "2022-04-16 20:47:39",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 56
         }
     }
 }

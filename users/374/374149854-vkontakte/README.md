@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>137</sup>
+# List of books read by danyluk62<sup>138</sup>
 ---
 
 ## 2022
+
+### Шахматная новелла
+Стефан Цвейг
+> [2022-03] 
+
 
 ### Ночь в Лиссабоне
 Эрих Мария Ремарк
