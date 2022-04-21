@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>131</sup>
+# List of books read by danyluk62<sup>132</sup>
 ---
 
 ## 2022
+
+### Женщина. Руководство для мужчин
+Джон Готтман и др.
+> [2022-01] 
+
 
 ### Гений коммуникаций
 Дейв Керпен
