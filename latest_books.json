@@ -1,4 +1,16 @@
 {
+    "2PHs6UMdny": {
+        "id": "2PHs6UMdny",
+        "title": "О тирании. 20 уроков ХХ века",
+        "author": "Тимоти Снайдер",
+        "notes": "",
+        "createdAt": "2022-04-21 17:21:48",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 141
+        }
+    },
     "gAA71dcOz5": {
         "id": "gAA71dcOz5",
         "title": "Саур-могила. Военные дневники (сборник)",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 60
-        }
-    },
-    "POQ8ZuUf0t": {
-        "id": "POQ8ZuUf0t",
-        "title": "Мантисса",
-        "author": "Фаулз Джон",
-        "notes": "",
-        "createdAt": "2022-04-16 20:50:09",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 59
         }
     }
 }
