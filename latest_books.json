@@ -1,4 +1,16 @@
 {
+    "-IpIsHoiRz": {
+        "id": "-IpIsHoiRz",
+        "title": "Военный дневник (2014 - 2015)",
+        "author": "Александр Мамалуй",
+        "notes": "",
+        "createdAt": "2022-04-21 17:03:37",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 134
+        }
+    },
     "5lvSJV1A9y": {
         "id": "5lvSJV1A9y",
         "title": "Вторжение в Украину: Хроника российской агрессии",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 312
-        }
-    },
-    "TexzxESBGA": {
-        "id": "TexzxESBGA",
-        "title": "Ведьмак. Башня Ласточки",
-        "author": "Сапковский Анджей",
-        "notes": "",
-        "createdAt": "2022-04-16 13:48:51",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 311
         }
     }
 }
