@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>138</sup>
+# List of books read by danyluk62<sup>139</sup>
 ---
 
 ## 2022
+
+### Зима наближається
+Гаррi Каспаров
+> [2022-03] 
+
 
 ### Шахматная новелла
 Стефан Цвейг
