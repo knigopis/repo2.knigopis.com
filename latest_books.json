@@ -1,4 +1,16 @@
 {
+    "PgHZhn51Nm": {
+        "id": "PgHZhn51Nm",
+        "title": "Пострусские",
+        "author": "Дмитрий Алтуфьев",
+        "notes": "",
+        "createdAt": "2022-04-21 17:06:23",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 136
+        }
+    },
     "cNfocuQYk6": {
         "id": "cNfocuQYk6",
         "title": "100 днiв полону, або Позовний «911»",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 55
-        }
-    },
-    "gBUx48o4J2": {
-        "id": "gBUx48o4J2",
-        "title": "Бойня номер пять",
-        "author": "Курт Вонненгут",
-        "notes": "",
-        "createdAt": "2022-04-16 17:27:51",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 217
         }
     }
 }

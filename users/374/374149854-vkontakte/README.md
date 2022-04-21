@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>135</sup>
+# List of books read by danyluk62<sup>136</sup>
 ---
 
 ## 2022
+
+### Пострусские
+Дмитрий Алтуфьев
+> [2022-03] 
+
 
 ### 100 днiв полону, або Позовний «911»
 Валерий Макеев
