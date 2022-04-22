@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111798276862514731625-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>141</sup> 
 [eva](users/111/111656270551033014778-google)<sup>122</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vanbissaka](users/789/78955227-vkontakte)<sup>0</sup> 
 [](users/143/1431789564-yandex)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup> 
-[](users/118/118069198221711301939-google)<sup>2</sup> 
 
 
-_22.04.2022 08:27:11_
+_22.04.2022 12:18:15_
