@@ -1,4 +1,16 @@
 {
+    "UCSvFU5n93": {
+        "id": "UCSvFU5n93",
+        "title": "Невольный грех",
+        "author": "Оноре Де Бальзак",
+        "notes": "",
+        "createdAt": "2022-04-22 15:09:18",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 69
+        }
+    },
     "vQtz6y13mu": {
         "id": "vQtz6y13mu",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 31
-        }
-    },
-    "8erXbIh3aZ": {
-        "id": "8erXbIh3aZ",
-        "title": "Голодные игры 1",
-        "author": "Сьюзен Коллинз",
-        "notes": "Аудио",
-        "createdAt": "2022-04-16 22:25:03",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 71
         }
     }
 }
