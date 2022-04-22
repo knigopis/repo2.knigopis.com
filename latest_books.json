@@ -1,4 +1,16 @@
 {
+    "wGL3mVYBlP": {
+        "id": "wGL3mVYBlP",
+        "title": "Hidden History: The Secret Origins of the First World War",
+        "author": "Gerry Docherty, James MacGregor",
+        "notes": "",
+        "createdAt": "2022-04-22 08:27:11",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 198
+        }
+    },
     "2PHs6UMdny": {
         "id": "2PHs6UMdny",
         "title": "О тирании. 20 уроков ХХ века",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 335
-        }
-    },
-    "ASnoNEwg6L": {
-        "id": "ASnoNEwg6L",
-        "title": "О дивный новый мир",
-        "author": "Хаксли Олдос",
-        "notes": "",
-        "createdAt": "2022-04-16 20:51:05",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 60
         }
     }
 }

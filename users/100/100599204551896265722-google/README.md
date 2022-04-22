@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>197</sup>
+# Список прочитанных книг пользователя exulted<sup>198</sup>
 ---
 
 ## 2022
+
+### Hidden History: The Secret Origins of the First World War
+Gerry Docherty, James MacGregor
+> [2022-04-22] 
+
 
 ### Внушение на расстоянии
 Васильев Л.Л.
