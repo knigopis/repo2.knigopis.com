@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 925,
+        "updatedAt": "2022-04-23 18:42:51"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -64,12 +70,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 252,
         "updatedAt": "2022-04-18 18:44:30"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 924,
-        "updatedAt": "2022-04-18 18:15:51"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
