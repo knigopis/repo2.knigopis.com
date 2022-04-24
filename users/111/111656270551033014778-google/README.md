@@ -1,7 +1,12 @@
-# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>126</sup>
+# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>127</sup>
 ---
 
 ## 2022
+
+### Лекции по русской литературе ХХ века. Том 1
+Дмитрий Быков
+> [2022-04-24] 
+
 
 ### Бремя чёрных
 Дмитрий Быков
