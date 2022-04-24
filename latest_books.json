@@ -1,4 +1,16 @@
 {
+    "-JzuVbAVUz": {
+        "id": "-JzuVbAVUz",
+        "title": "Цветы зла",
+        "author": "Шарль Бодлер",
+        "notes": "",
+        "createdAt": "2022-04-24 11:19:12",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 129
+        }
+    },
     "pZhJPlRwwE": {
         "id": "pZhJPlRwwE",
         "title": "Лекции по русской литературе ХХ века. Том 2",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 67
-        }
-    },
-    "hzmBuVu5d7": {
-        "id": "hzmBuVu5d7",
-        "title": "Сага о Форсайтах",
-        "author": "Джон Голсуорси",
-        "notes": "",
-        "createdAt": "2022-04-18 21:14:42",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 66
         }
     }
 }
