@@ -1,7 +1,12 @@
-# List of books read by [tututu](http://vk.com/id135685382)<sup>31</sup>
+# List of books read by [tututu](http://vk.com/id135685382)<sup>32</sup>
 ---
 
 ## 2022
+
+### Лето в пионерском галстуке
+Катерина Сильванова
+> [2022-04-24] 
+
 
 ### 5 принципов проактивного мышления
 Джон Миллер
