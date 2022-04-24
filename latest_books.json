@@ -1,4 +1,16 @@
 {
+    "gVcyJV9kHL": {
+        "id": "gVcyJV9kHL",
+        "title": "Военный переворот",
+        "author": "Дмитрий Быков",
+        "notes": "",
+        "createdAt": "2022-04-24 11:16:06",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 124
+        }
+    },
     "V3nn_6l5tg": {
         "id": "V3nn_6l5tg",
         "title": "Бесплодная земля",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 65
-        }
-    },
-    "sZXlmfuGhV": {
-        "id": "sZXlmfuGhV",
-        "title": "Прощай оружие",
-        "author": "Хэмингуэй Эрнест",
-        "notes": "",
-        "createdAt": "2022-04-17 20:02:31",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 64
         }
     }
 }
