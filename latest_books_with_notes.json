@@ -1,4 +1,16 @@
 {
+    "pKCBSttEF7": {
+        "id": "pKCBSttEF7",
+        "title": "Английский пациент",
+        "author": "Майкл Ондатже",
+        "notes": "не закончила",
+        "createdAt": "2022-04-25 09:55:54",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 34
+        }
+    },
     "RygEgVXQ-1": {
         "id": "RygEgVXQ-1",
         "title": "Первая невеста чернокнижника",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 245
-        }
-    },
-    "UCIBPE-arL": {
-        "id": "UCIBPE-arL",
-        "title": "Прожити й розповісти",
-        "author": "Анатолій Дімаров",
-        "notes": "8/10 Спогади українського письменника про дитинство, голод, війну та совєтську окупацію України.",
-        "createdAt": "2022-03-15 11:21:10",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 244
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Английский пациент ~ [albina_untiring](users/257/2579695-vkontakte)<sup>34</sup>
 * Первая невеста чернокнижника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>152</sup>
 * Вторая жизнь Уве ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>199</sup>
 * Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
@@ -30,7 +31,6 @@
 * Эксперт по турбулентности ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>263</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>324</sup>
 * Кто не спрятался ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>245</sup>
-* Прожити й розповісти ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>244</sup>
 
 
-_20.04.2022 11:27:16_
+_25.04.2022 09:55:54_

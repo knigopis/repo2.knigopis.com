@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Английский пациент ~ [albina_untiring](users/257/2579695-vkontakte)<sup>34</sup>
+    > не закончила
+
 * Первая невеста чернокнижника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>152</sup>
     > Знаете, как это бывает? Живешь себе, радуешься, никого не трогаешь… а потом попадаешь. В прямом смысле этого слова. Попадаешь в темный замок, стоящий на границе миров. Хозяин славного места привлекательный и обходительный, мало что чернокнижник. Да и все жители подозрительно приветливые… как будто что-то скрывают. В общем, в гостях хорошо, но дома лучше! Никаких воскресших умертвий, черных гримуаров и тайных проклятий. Вернуться бы в родной мир, но только кто меня отпустит?
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Мы ведь в большинстве своем живем тем, что будет.
 
 * Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
-    > Простые правила — для простых людей. Те, кто командует, должны проявлять гибкость и инициативу. И те, кто хотел бы командовать.
 
 * 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
 
@@ -29,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
 
-* Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[albina_untiring](users/257/2579695-vkontakte)<sup>33</sup> 
+[albina_untiring](users/257/2579695-vkontakte)<sup>34</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>32</sup> 
 [eva](users/111/111656270551033014778-google)<sup>129</sup> 
 [mart](users/107/107340643298043940059-google)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vanbissaka](users/789/78955227-vkontakte)<sup>0</sup> 
 
 
-_25.04.2022 09:55:04_
+_25.04.2022 09:55:54_
