@@ -1,4 +1,16 @@
 {
+    "6kOk5DPgWf": {
+        "id": "6kOk5DPgWf",
+        "title": "Клан медведя.Медвежуть.Книга 3",
+        "author": "Василий Маханенко",
+        "notes": "",
+        "createdAt": "2022-04-27 19:12:31",
+        "user": {
+            "id": "101923253879668330026-google",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "xvWx5z3WFi": {
         "id": "xvWx5z3WFi",
         "title": "Клан медведя. Чародей. Книга 2",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 141
-        }
-    },
-    "gAA71dcOz5": {
-        "id": "gAA71dcOz5",
-        "title": "Саур-могила. Военные дневники (сборник)",
-        "author": "Максим Музыка, Андрей Пальваль",
-        "notes": "",
-        "createdAt": "2022-04-21 17:16:10",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 140
         }
     }
 }
