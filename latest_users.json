@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 59,
+        "updatedAt": "2022-04-27 05:04:15"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 57,
         "updatedAt": "2022-04-12 18:16:32"
-    },
-    "111989298078739016161-google": {
-        "id": "111989298078739016161-google",
-        "nickname": "trolli_wurrli",
-        "booksCount": 0,
-        "updatedAt": "2022-04-12 09:43:29"
     }
 }
