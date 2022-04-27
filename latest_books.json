@@ -1,4 +1,16 @@
 {
+    "oaGghM39c9": {
+        "id": "oaGghM39c9",
+        "title": "Планета нервных",
+        "author": "Мэтт Хейг",
+        "notes": "Эта книга как пятичасовой разговор с высокоосознанным человеком",
+        "createdAt": "2022-04-27 21:30:54",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 88
+        }
+    },
     "zhKnn2gtGl": {
         "id": "zhKnn2gtGl",
         "title": "Исповедь обжоры",
@@ -345,18 +357,6 @@
             "id": "111798276862514731625-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "wGL3mVYBlP": {
-        "id": "wGL3mVYBlP",
-        "title": "Hidden History: The Secret Origins of the First World War",
-        "author": "Gerry Docherty, James MacGregor",
-        "notes": "",
-        "createdAt": "2022-04-22 08:27:11",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 198
         }
     }
 }
