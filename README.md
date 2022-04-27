@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
+    > 357
+
 * Планета нервных ~ [Rainbow](users/109/109787328219839805802-google)<sup>88</sup>
     > Эта книга как пятичасовой разговор с высокоосознанным человеком
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Академия двойников ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>155</sup>
-    >  У самых благородных и богатых леди есть двойники, чтобы подменять в опасных для жизни ситуациях. Двойники умеют постоять за себя и выкрутиться даже из самой сложной переделки. Я – двойник принцессы Меларисы Ирольской. И меня вполне устраивала эта роль, пока не пришлось подменить принцессу при знакомстве с её женихом. Я не имею права давать волю своим чувствам, но что теперь делать, если при виде него сердце начинает биться быстрее? А он, загадочный мужчина в маске, скрывающей половину лица, видит ли между нами разницу?
 
 * Стоянка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>264</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
 
-* Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>142</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>88</sup> 
 [](users/153/1537586159620888-facebook)<sup>72</sup> 
 [](users/111/111586810468624698331-google)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>69</sup> 
 [](users/111/111798276862514731625-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>141</sup> 
 [](users/107/107050084104851375633-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>326</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>57</sup> 
 
 
-_27.04.2022 21:30:54_
+_27.04.2022 23:53:52_

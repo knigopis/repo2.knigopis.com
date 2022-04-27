@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>141</sup>
+# List of books read by danyluk62<sup>142</sup>
 ---
 
 ## 2022
+
+### Гопники
+Владимир Козлов
+> [2022-04] 357
+
 
 ### О тирании. 20 уроков ХХ века
 Тимоти Снайдер
