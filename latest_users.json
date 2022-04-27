@@ -1,4 +1,10 @@
 {
+    "111586810468624698331-google": {
+        "id": "111586810468624698331-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-04-27 21:09:42"
+    },
     "101923253879668330026-google": {
         "id": "101923253879668330026-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-04-14 01:25:42"
-    },
-    "105866022348292919948-google": {
-        "id": "105866022348292919948-google",
-        "nickname": "Chandravadana",
-        "booksCount": 171,
-        "updatedAt": "2022-04-13 18:22:03"
     }
 }
