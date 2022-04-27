@@ -1,4 +1,16 @@
 {
+    "zhKnn2gtGl": {
+        "id": "zhKnn2gtGl",
+        "title": "Исповедь обжоры",
+        "author": "Денис Файбер",
+        "notes": "",
+        "createdAt": "2022-04-27 21:26:57",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 72
+        }
+    },
     "6kOk5DPgWf": {
         "id": "6kOk5DPgWf",
         "title": "Клан медведя.Медвежуть.Книга 3",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 198
-        }
-    },
-    "2PHs6UMdny": {
-        "id": "2PHs6UMdny",
-        "title": "О тирании. 20 уроков ХХ века",
-        "author": "Тимоти Снайдер",
-        "notes": "",
-        "createdAt": "2022-04-21 17:21:48",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 141
         }
     }
 }

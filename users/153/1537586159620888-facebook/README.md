@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>71</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>72</sup>
 ---
 
 ## 2022
+
+### Исповедь обжоры
+Денис Файбер
+> [2022-04] 
+
 
 ### Голодные игры 1 Аудио
 Сьюзен Коллинз
