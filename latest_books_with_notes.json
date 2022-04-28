@@ -1,4 +1,16 @@
 {
+    "A3vFCbplBL": {
+        "id": "A3vFCbplBL",
+        "title": "Господин из Сан-Франциско",
+        "author": "Бунин Александр Иванович",
+        "notes": "Американский турист помер в Италии",
+        "createdAt": "2022-04-28 16:51:15",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 70
+        }
+    },
     "gZIhNLXMhO": {
         "id": "gZIhNLXMhO",
         "title": "Гопники",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 149
-        }
-    },
-    "wWMR2VtdRQ": {
-        "id": "wWMR2VtdRQ",
-        "title": "І тоді вона зникла",
-        "author": "Лайза Джуел",
-        "notes": "8/10 зникнення школярки, що не дійшла до бібліотеки.",
-        "createdAt": "2022-03-19 19:30:59",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 246
         }
     }
 }

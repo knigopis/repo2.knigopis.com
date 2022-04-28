@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Господин из Сан-Франциско ~ [Вит](users/300/300273923-vkontakte)<sup>70</sup>
 * Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
 * Планета нервных ~ [Rainbow](users/109/109787328219839805802-google)<sup>88</sup>
 * Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>59</sup>
@@ -30,7 +31,6 @@
 * Інтернаціоналізм чи русифікація? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>248</sup>
 * Думай і дій як кіт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>247</sup>
 * Академия магии Трех Королевств ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>149</sup>
-* І тоді вона зникла ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>246</sup>
 
 
-_27.04.2022 23:53:52_
+_28.04.2022 16:51:15_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Господин из Сан-Франциско ~ [Вит](users/300/300273923-vkontakte)<sup>70</sup>
+    > Американский турист помер в Италии
+
 * Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
     > 357
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Эта книга как пятичасовой разговор с высокоосознанным человеком
 
 * Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>59</sup>
-    > audio
 
 * Академия двойников ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>155</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 
-* 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>70</sup> 
 [shhuuura](users/487/487658183-vkontakte)<sup>0</sup> 
 [](users/101/101923253879668330026-google)<sup>9</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>142</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mart](users/107/107340643298043940059-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>925</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>200</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>69</sup> 
 [](users/111/111798276862514731625-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 [](users/107/107050084104851375633-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/296/296323488-yandex)<sup>11</sup> 
 
 
-_28.04.2022 14:27:33_
+_28.04.2022 16:51:15_
