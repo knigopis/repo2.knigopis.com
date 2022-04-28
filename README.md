@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shhuuura](users/487/487658183-vkontakte)<sup>0</sup> 
 [](users/101/101923253879668330026-google)<sup>9</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>142</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>88</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102316312151734465694-google)<sup>1</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 [](users/296/296323488-yandex)<sup>11</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>57</sup> 
 
 
-_28.04.2022 12:29:27_
+_28.04.2022 14:27:33_
