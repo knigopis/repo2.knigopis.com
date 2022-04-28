@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 58,
+        "updatedAt": "2022-04-28 21:59:55"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-04-16 06:59:04"
-    },
-    "296323488-yandex": {
-        "id": "296323488-yandex",
-        "nickname": null,
-        "booksCount": 11,
-        "updatedAt": "2022-04-15 06:10:02"
     }
 }

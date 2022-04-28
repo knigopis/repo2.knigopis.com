@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>58</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>70</sup> 
 [shhuuura](users/487/487658183-vkontakte)<sup>0</sup> 
 [](users/101/101923253879668330026-google)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
 [](users/102/102316312151734465694-google)<sup>1</sup> 
 [](users/107/107964573981658495430-google)<sup>0</sup> 
-[](users/296/296323488-yandex)<sup>11</sup> 
 
 
-_28.04.2022 16:51:15_
+_28.04.2022 21:59:55_

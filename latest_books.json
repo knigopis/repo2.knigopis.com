@@ -1,4 +1,16 @@
 {
+    "8Duk_rSFyJ": {
+        "id": "8Duk_rSFyJ",
+        "title": "Демиан",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2022-04-28 21:59:55",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 58
+        }
+    },
     "A3vFCbplBL": {
         "id": "A3vFCbplBL",
         "title": "Господин из Сан-Франциско",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 153
-        }
-    },
-    "KaNvB7Bf5P": {
-        "id": "KaNvB7Bf5P",
-        "title": "Дело об осторожной кокетке",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-04-23 18:42:51",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 925
         }
     }
 }
