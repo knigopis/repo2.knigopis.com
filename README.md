@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101923253879668330026-google)<sup>10</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>58</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>70</sup> 
 [shhuuura](users/487/487658183-vkontakte)<sup>0</sup> 
-[](users/101/101923253879668330026-google)<sup>9</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>142</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>88</sup> 
 [](users/153/1537586159620888-facebook)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107964573981658495430-google)<sup>0</sup> 
 
 
-_28.04.2022 21:59:55_
+_29.04.2022 08:49:40_

@@ -1,4 +1,16 @@
 {
+    "5OxzRYzs5Y": {
+        "id": "5OxzRYzs5Y",
+        "title": "Игра Хаоса. Книга первая, часть первая",
+        "author": "Свадковский Алексей Рудольфович",
+        "notes": "",
+        "createdAt": "2022-04-29 08:49:40",
+        "user": {
+            "id": "101923253879668330026-google",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "8Duk_rSFyJ": {
         "id": "8Duk_rSFyJ",
         "title": "Демиан",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 154
-        }
-    },
-    "17zcmmscJR": {
-        "id": "17zcmmscJR",
-        "title": "Мы, аристрократы - 1",
-        "author": "Бродячая Кошка Бастет",
-        "notes": "",
-        "createdAt": "2022-04-23 19:28:10",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 153
         }
     }
 }
