@@ -1,12 +1,7 @@
-# List of books read by 4apa<sup>144</sup>
+# List of books read by 4apa<sup>143</sup>
 ---
 
 ## 2022
-
-### Проект "Аве Мария"
-Э. Вейер
-> [2022-04-28] 
-
 
 ### Проект "Аве Мария"
 Э. Вейер
