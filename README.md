@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/500/500496760-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>142</sup> 
 [](users/101/101923253879668330026-google)<sup>10</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113306797383529794620-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
 [](users/102/102316312151734465694-google)<sup>1</sup> 
-[](users/107/107964573981658495430-google)<sup>0</sup> 
 
 
-_29.04.2022 19:47:55_
+_30.04.2022 16:29:52_
