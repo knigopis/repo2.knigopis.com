@@ -1,4 +1,10 @@
 {
+    "5175580462988229760-mailru": {
+        "id": "5175580462988229760-mailru",
+        "nickname": "Triste",
+        "booksCount": 58,
+        "updatedAt": "2022-05-01 16:14:20"
+    },
     "500496760-vkontakte": {
         "id": "500496760-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 312,
         "updatedAt": "2022-04-16 13:49:29"
-    },
-    "102316312151734465694-google": {
-        "id": "102316312151734465694-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2022-04-16 12:33:39"
     }
 }

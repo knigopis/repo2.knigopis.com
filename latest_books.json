@@ -1,4 +1,16 @@
 {
+    "3OjkvoPEb-": {
+        "id": "3OjkvoPEb-",
+        "title": "Мы",
+        "author": "Е. Замятин",
+        "notes": "Фаворит.",
+        "createdAt": "2022-05-01 16:14:20",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 58
+        }
+    },
     "TvguC0xBJV": {
         "id": "TvguC0xBJV",
         "title": "Всеобщая история. История Древнего мира. 5 класс",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 125
-        }
-    },
-    "gVcyJV9kHL": {
-        "id": "gVcyJV9kHL",
-        "title": "Военный переворот",
-        "author": "Дмитрий Быков",
-        "notes": "",
-        "createdAt": "2022-04-24 11:16:06",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 124
         }
     }
 }

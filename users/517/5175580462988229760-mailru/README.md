@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>57</sup>
+# List of books read by Triste<sup>58</sup>
 ---
 
 ## 2022
+
+### Мы
+Е. Замятин
+> Фаворит.
+
 
 ### Записки сумасшедшего
 Гоголь

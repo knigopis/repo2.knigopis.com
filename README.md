@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мы ~ [Triste](users/517/5175580462988229760-mailru)<sup>58</sup>
+    > Фаворит.
+
 * Всеобщая история. История Древнего мира. 5 класс ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup>
     > «Нить Ариадны» – способ, дающий возможность выйти из сложной ситуации».
     > «Спорт – посол мира».
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > Американский турист помер в Италии
 
 * Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
-    > 357
 
 * Планета нервных ~ [Rainbow](users/109/109787328219839805802-google)<sup>88</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Первая невеста чернокнижника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>152</sup>
 
-* Вторая жизнь Уве ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>199</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>58</sup> 
 [](users/500/500496760-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>142</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>335</sup> 
 [](users/113/113306797383529794620-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
-[](users/102/102316312151734465694-google)<sup>1</sup> 
 
 
-_30.04.2022 16:29:52_
+_01.05.2022 16:14:20_
