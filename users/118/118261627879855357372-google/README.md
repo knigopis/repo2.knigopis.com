@@ -1,4 +1,4 @@
-# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>43</sup>
+# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>44</sup>
 ---
 
 ## 2022
@@ -127,6 +127,11 @@
 
 ### На войне как нас войне
 > [2002-04-02] 
+
+
+### Антикиллер
+Даниил Корецкий
+> [2002-03] 
 
 
 ### Секретный фарватер

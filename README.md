@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kosnikovskiy](users/118/118261627879855357372-google)<sup>44</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>33</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>58</sup> 
 [](users/500/500496760-vkontakte)<sup>0</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>335</sup> 
 [](users/113/113306797383529794620-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>312</sup> 
 
 
-_01.05.2022 16:36:57_
+_01.05.2022 21:08:03_
