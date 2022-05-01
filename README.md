@@ -40,7 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kosnikovskiy](users/118/118261627879855357372-google)<sup>44</sup> 
+[kosnikovskiy](users/118/118261627879855357372-google)<sup>45</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>33</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>58</sup> 
 [](users/500/500496760-vkontakte)<sup>0</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113306797383529794620-google)<sup>0</sup> 
 
 
-_01.05.2022 21:08:03_
+_01.05.2022 21:10:57_

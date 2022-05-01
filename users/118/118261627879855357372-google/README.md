@@ -1,4 +1,4 @@
-# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>44</sup>
+# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>45</sup>
 ---
 
 ## 2022
@@ -196,6 +196,10 @@
 
 
 ## 1995
+
+### Терминатор
+> [1995-06] 
+
 
 ### Руины стреляют в упор
 Иван Новиков

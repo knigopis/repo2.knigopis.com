@@ -1,4 +1,16 @@
 {
+    "yvEgWiJxko": {
+        "id": "yvEgWiJxko",
+        "title": "Терминатор",
+        "author": "",
+        "notes": "",
+        "createdAt": "2022-05-01 21:10:57",
+        "user": {
+            "id": "118261627879855357372-google",
+            "nickname": "kosnikovskiy",
+            "booksCount": 45
+        }
+    },
     "92LKItMCqi": {
         "id": "92LKItMCqi",
         "title": "Антикиллер",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 128
-        }
-    },
-    "_Il3bc7iVN": {
-        "id": "_Il3bc7iVN",
-        "title": "Лекции по русской литературе ХХ века. Том 1",
-        "author": "Дмитрий Быков",
-        "notes": "",
-        "createdAt": "2022-04-24 11:17:51",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 127
         }
     }
 }
