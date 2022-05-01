@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заводной апельсин ~ [tututu](users/135/135685382-vkontakte)<sup>33</sup>
+    > Человек может измениться?
+
 * Мы ~ [Triste](users/517/5175580462988229760-mailru)<sup>58</sup>
     > Фаворит.
 
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > • II век Сооружение Пантеона.
 
 * Господин из Сан-Франциско ~ [Вит](users/300/300273923-vkontakte)<sup>70</sup>
-    > Американский турист помер в Италии
 
 * Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Английский пациент ~ [albina_untiring](users/257/2579695-vkontakte)<sup>34</sup>
 
-* Первая невеста чернокнижника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>152</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>33</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>58</sup> 
 [](users/500/500496760-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Феня Котовна](users/109/109746193906459706720-google)<sup>155</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>264</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>34</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>32</sup> 
 [eva](users/111/111656270551033014778-google)<sup>129</sup> 
 [mart](users/107/107340643298043940059-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>925</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>312</sup> 
 
 
-_01.05.2022 16:14:20_
+_01.05.2022 16:36:57_
