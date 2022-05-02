@@ -1,4 +1,10 @@
 {
+    "300591143-vkontakte": {
+        "id": "300591143-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-05-02 10:06:00"
+    },
     "118261627879855357372-google": {
         "id": "118261627879855357372-google",
         "nickname": "kosnikovskiy",
@@ -172,11 +178,5 @@
         "nickname": "Lala",
         "booksCount": 335,
         "updatedAt": "2022-04-16 22:02:12"
-    },
-    "113306797383529794620-google": {
-        "id": "113306797383529794620-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-04-16 14:19:18"
     }
 }
