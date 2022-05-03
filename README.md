@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>199</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>313</sup> 
 [](users/300/300591143-vkontakte)<sup>0</sup> 
@@ -66,10 +67,9 @@ _More notes [here](latest_books_with_notes.md)._
 [mart](users/107/107340643298043940059-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>925</sup> 
 [](users/111/111798276862514731625-google)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 [](users/107/107050084104851375633-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup> 
 
 
-_02.05.2022 19:45:34_
+_03.05.2022 16:23:29_

@@ -1,4 +1,16 @@
 {
+    "srAvmhSYi0": {
+        "id": "srAvmhSYi0",
+        "title": "Научно-эзотерические основы мироздания. Жить, чтобы знать. Книга 1",
+        "author": "Тихоплав Виталий, Тихоплав Татьяна",
+        "notes": "",
+        "createdAt": "2022-05-03 16:23:29",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 199
+        }
+    },
     "1dD91tDHtv": {
         "id": "1dD91tDHtv",
         "title": "Земля Ханаанская. Родина иудаизма и христианства",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 32
-        }
-    },
-    "-JzuVbAVUz": {
-        "id": "-JzuVbAVUz",
-        "title": "Цветы зла",
-        "author": "Шарль Бодлер",
-        "notes": "",
-        "createdAt": "2022-04-24 11:19:12",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 129
         }
     }
 }

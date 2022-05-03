@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>198</sup>
+# Список прочитанных книг пользователя exulted<sup>199</sup>
 ---
 
 ## 2022
+
+### Научно-эзотерические основы мироздания. Жить, чтобы знать. Книга 1
+Тихоплав Виталий, Тихоплав Татьяна
+> [2022-05-03] 
+
 
 ### Hidden History: The Secret Origins of the First World War
 Gerry Docherty, James MacGregor
