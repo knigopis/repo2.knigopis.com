@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>199</sup>
+# Список прочитанных книг пользователя exulted<sup>198</sup>
 ---
 
 ## 2022
@@ -169,11 +169,6 @@ Lars Schall
 ### Fathers Raising Daughters: The Father's Guide to the Female Mind-Field
 Nigel Latta
 > [2021-04-23] 
-
-
-### Обыкновенный спецназ. Из жизни 24-й бригады спецназа ГРУ
-Бронников Андрей
-> [2021-04-15] 
 
 
 ### The Shipping Man
