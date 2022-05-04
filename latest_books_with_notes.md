@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В поисках Библии. Тайны древних манускриптов. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>253</sup>
 * Заводной апельсин ~ [tututu](users/135/135685382-vkontakte)<sup>33</sup>
 * Мы ~ [Triste](users/517/5175580462988229760-mailru)<sup>58</sup>
 * Всеобщая история. История Древнего мира. 5 класс ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup>
@@ -30,7 +31,6 @@
 * Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
 * Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
 * Погружение в себя ~ [albina_untiring](users/257/2579695-vkontakte)<sup>30</sup>
-* Соседи ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>249</sup>
 
 
-_01.05.2022 16:36:57_
+_04.05.2022 06:49:50_

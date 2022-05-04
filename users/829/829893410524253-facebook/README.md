@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>252</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>253</sup>
 ---
 
 ## 2022
+
+### В поисках Библии. Тайны древних манускриптов.
+Лео Дойель
+> [2022-05-02] 6/10 Древние манускрипты и папирусы.
+
 
 ### 3001. Последняя одиссея
 Артур Кларк

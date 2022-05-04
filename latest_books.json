@@ -1,4 +1,16 @@
 {
+    "aeB6nQoOle": {
+        "id": "aeB6nQoOle",
+        "title": "В поисках Библии. Тайны древних манускриптов.",
+        "author": "Лео Дойель",
+        "notes": "6/10 Древние манускрипты и папирусы.",
+        "createdAt": "2022-05-04 06:49:49",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 253
+        }
+    },
     "srAvmhSYi0": {
         "id": "srAvmhSYi0",
         "title": "Научно-эзотерические основы мироздания. Жить, чтобы знать. Книга 1",
@@ -344,18 +356,6 @@
         "user": {
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
-            "booksCount": 32
-        }
-    },
-    "NPy6X0aMVi": {
-        "id": "NPy6X0aMVi",
-        "title": "Лето в пионерском галстуке",
-        "author": "Катерина Сильванова",
-        "notes": "",
-        "createdAt": "2022-04-24 22:20:42",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
             "booksCount": 32
         }
     }
