@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>253</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>254</sup>
 ---
 
 ## 2022
+
+### Мужчина и женщина в эпоху динозавров
+Маргарет Этвуд
+> [2022-05-03] 7/10 Работницы музея устраивают личную жизнь.
+
 
 ### В поисках Библии. Тайны древних манускриптов.
 Лео Дойель
