@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>59</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>265</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/300/300591143-vkontakte)<sup>0</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>45</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>33</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>58</sup> 
 [](users/500/500496760-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>142</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-googleplus)<sup>222</sup> 
 
 
-_04.05.2022 07:17:46_
+_04.05.2022 16:00:35_

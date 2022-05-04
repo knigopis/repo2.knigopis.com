@@ -1,7 +1,11 @@
-# List of books read by Triste<sup>58</sup>
+# List of books read by Triste<sup>59</sup>
 ---
 
 ## 2022
+
+### Мы
+Замятин, Евгений Иванович
+
 
 ### Мы
 Е. Замятин
