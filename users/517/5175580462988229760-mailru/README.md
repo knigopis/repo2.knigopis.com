@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>59</sup>
+# List of books read by Triste<sup>60</sup>
 ---
 
 ## 2022
+
+### Тихий скромный апокалипсис...
+Дмитрий Маркевич
+> [2022-05-05] 
+
 
 ### Мы
 Замятин, Евгений Иванович
