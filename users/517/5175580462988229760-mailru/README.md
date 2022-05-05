@@ -1,7 +1,12 @@
-# List of books read by Triste<sup>60</sup>
+# List of books read by Triste<sup>61</sup>
 ---
 
 ## 2022
+
+### Судьба человека
+Шолохов
+> [2022-05-05] 
+
 
 ### Тихий скромный апокалипсис...
 Дмитрий Маркевич
