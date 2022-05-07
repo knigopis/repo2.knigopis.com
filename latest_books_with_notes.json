@@ -1,4 +1,16 @@
 {
+    "ZWxTAydP7i": {
+        "id": "ZWxTAydP7i",
+        "title": "Беглецы",
+        "author": "Блек Крауч",
+        "notes": "Сияние в небе превратило людей в кровожадных монстров.",
+        "createdAt": "2022-05-07 08:27:22",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 255
+        }
+    },
     "fRESTx6G_1": {
         "id": "fRESTx6G_1",
         "title": "Мужчина и женщина в эпоху динозавров",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 195
-        }
-    },
-    "j-3Gk9C5qG": {
-        "id": "j-3Gk9C5qG",
-        "title": "Лю Яо: Возрождение клана Фу Яо",
-        "author": "Priest",
-        "notes": "5 томов",
-        "createdAt": "2022-03-28 04:51:45",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 19
         }
     }
 }

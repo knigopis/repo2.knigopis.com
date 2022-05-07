@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
+    > Сияние в небе превратило людей в кровожадных монстров.
+
 * Мужчина и женщина в эпоху динозавров ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup>
     > 7/10 Работницы музея устраивают личную жизнь.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Древние манускрипты и папирусы.
 
 * Заводной апельсин ~ [tututu](users/135/135685382-vkontakte)<sup>33</sup>
-    > Человек может измениться?
 
 * Мы ~ [Triste](users/517/5175580462988229760-mailru)<sup>58</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>59</sup>
 
-* Академия двойников ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup> 
 [Сева](users/107/107315264267680118871-google)<sup>1</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>71</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>156</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>217</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>265</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>313</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107050084104851375633-google)<sup>0</sup> 
 
 
-_05.05.2022 20:22:04_
+_07.05.2022 08:27:22_

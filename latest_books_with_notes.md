@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
 * Мужчина и женщина в эпоху динозавров ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup>
 * В поисках Библии. Тайны древних манускриптов. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>253</sup>
 * Заводной апельсин ~ [tututu](users/135/135685382-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
 * Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
 * Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
-* Лю Яо: Возрождение клана Фу Яо ~ [Askaliya](users/326/326783541-vkontakte)<sup>19</sup>
 
 
-_04.05.2022 06:50:29_
+_07.05.2022 08:27:22_

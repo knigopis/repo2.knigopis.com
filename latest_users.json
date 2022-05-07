@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 255,
+        "updatedAt": "2022-05-07 08:27:22"
+    },
     "107315264267680118871-google": {
         "id": "107315264267680118871-google",
         "nickname": "Сева",
@@ -34,12 +40,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 265,
         "updatedAt": "2022-05-04 07:17:46"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 254,
-        "updatedAt": "2022-05-04 06:50:29"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",

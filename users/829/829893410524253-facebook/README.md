@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>254</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>255</sup>
 ---
 
 ## 2022
+
+### Беглецы
+Блек Крауч
+> [2022-05-04] Сияние в небе превратило людей в кровожадных монстров.
+
 
 ### Мужчина и женщина в эпоху динозавров
 Маргарет Этвуд
