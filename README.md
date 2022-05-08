@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>412</sup> 
 [](users/112/112360297236443517414-google)<sup>0</sup> 
 [](users/101/101923253879668330026-google)<sup>11</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>202</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>34</sup> 
 [eva](users/111/111656270551033014778-google)<sup>129</sup> 
 [mart](users/107/107340643298043940059-google)<sup>0</sup> 
-[](users/111/111798276862514731625-google)<sup>1</sup> 
 
 
-_08.05.2022 00:48:52_
+_08.05.2022 21:44:40_

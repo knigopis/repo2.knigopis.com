@@ -1,4 +1,16 @@
 {
+    "aOwC47MXiF": {
+        "id": "aOwC47MXiF",
+        "title": "Источник",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2022-05-08 21:44:40",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 412
+        }
+    },
     "Hj9x3diJ8M": {
         "id": "Hj9x3diJ8M",
         "title": "Игра Хаоса. Книга вторая. Выбор пути",
@@ -345,18 +357,6 @@
             "id": "101923253879668330026-google",
             "nickname": null,
             "booksCount": 7
-        }
-    },
-    "u1vYODsdNL": {
-        "id": "u1vYODsdNL",
-        "title": "Клан медведя .\t\nМедвежонок. Книга 1",
-        "author": "Василий Маханенко",
-        "notes": "",
-        "createdAt": "2022-04-27 12:04:46",
-        "user": {
-            "id": "101923253879668330026-google",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }
