@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется ~ [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup>
 * Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
 * Мужчина и женщина в эпоху динозавров ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup>
 * В поисках Библии. Тайны древних манускриптов. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>253</sup>
@@ -30,7 +31,6 @@
 * Сборник "Превращение" ~ [Rainbow](users/109/109787328219839805802-google)<sup>87</sup>
 * 2061: Третья одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>250</sup>
 * Таинственный сад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>54</sup>
-* Пианист ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>195</sup>
 
 
-_07.05.2022 08:27:22_
+_09.05.2022 19:17:44_
