@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>62</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>63</sup>
 ---
 
 ## 2022
+
+### Золушка по имени Грейс
+Полина Ром
+> [2022-05-09] 
+
 
 ### Любовница снежного лорда
 Елена Звездная

@@ -1,4 +1,16 @@
 {
+    "TRG1MX1J_B": {
+        "id": "TRG1MX1J_B",
+        "title": "Золушка по имени Грейс",
+        "author": "Полина Ром",
+        "notes": "",
+        "createdAt": "2022-05-10 07:03:03",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 63
+        }
+    },
     "Mx6aPs8pRF": {
         "id": "Mx6aPs8pRF",
         "title": "Игра Хаоса. Книга 2, право на жизнь",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 88
-        }
-    },
-    "zhKnn2gtGl": {
-        "id": "zhKnn2gtGl",
-        "title": "Исповедь обжоры",
-        "author": "Денис Файбер",
-        "notes": "",
-        "createdAt": "2022-04-27 21:26:57",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 72
         }
     }
 }
