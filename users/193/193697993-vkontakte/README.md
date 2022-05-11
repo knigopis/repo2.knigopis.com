@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>63</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>64</sup>
 ---
 
 ## 2022
+
+### Академия адептов, колдунов и магов. Испытание для адептов
+Галина Гончарова
+> [2022-05-11] 
+
 
 ### Золушка по имени Грейс
 Полина Ром
