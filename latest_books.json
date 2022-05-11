@@ -1,4 +1,16 @@
 {
+    "-l-X1CjRr2": {
+        "id": "-l-X1CjRr2",
+        "title": "Дом на краю света",
+        "author": "Майкл Каннингем",
+        "notes": "",
+        "createdAt": "2022-05-11 10:58:11",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 72
+        }
+    },
     "9qezudc_rp": {
         "id": "9qezudc_rp",
         "title": "Земля и космос. От реальности к гипотезе",
@@ -345,18 +357,6 @@
             "id": "101923253879668330026-google",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "gZIhNLXMhO": {
-        "id": "gZIhNLXMhO",
-        "title": "Гопники",
-        "author": "Владимир Козлов",
-        "notes": "357",
-        "createdAt": "2022-04-27 23:53:52",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 142
         }
     }
 }
