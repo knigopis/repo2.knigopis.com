@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* К югу от солнца, к западу от границы ~ [eva](users/111/111656270551033014778-google)<sup>130</sup>
+    > На английском
+
 * Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется ~ [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup>
     > Еще одна классификация типов личности и способы общения с разными типажами
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сияние в небе превратило людей в кровожадных монстров.
 
 * Мужчина и женщина в эпоху динозавров ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup>
-    > 7/10 Работницы музея устраивают личную жизнь.
 
 * В поисках Библии. Тайны древних манускриптов. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>253</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
 
-* Планета нервных ~ [Rainbow](users/109/109787328219839805802-google)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[eva](users/111/111656270551033014778-google)<sup>130</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>64</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>314</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>142</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>88</sup> 
 [](users/153/1537586159620888-facebook)<sup>72</sup> 
-[](users/111/111586810468624698331-google)<sup>0</sup> 
 
 
-_11.05.2022 18:40:47_
+_12.05.2022 22:01:30_
