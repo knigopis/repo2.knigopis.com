@@ -1,4 +1,16 @@
 {
+    "SspfGqPfNG": {
+        "id": "SspfGqPfNG",
+        "title": "Мобильник",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-05-13 16:42:32",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 28
+        }
+    },
     "52pLupRpcC": {
         "id": "52pLupRpcC",
         "title": "Томминокеры",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 313
-        }
-    },
-    "yvEgWiJxko": {
-        "id": "yvEgWiJxko",
-        "title": "Терминатор",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-05-01 21:10:57",
-        "user": {
-            "id": "118261627879855357372-google",
-            "nickname": "kosnikovskiy",
-            "booksCount": 45
         }
     }
 }
