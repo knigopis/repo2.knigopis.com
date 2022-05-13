@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 21,
+        "updatedAt": "2022-05-13 17:25:35"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": "Smekalistii",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 58,
         "updatedAt": "2022-04-28 21:59:55"
-    },
-    "487658183-vkontakte": {
-        "id": "487658183-vkontakte",
-        "nickname": "shhuuura",
-        "booksCount": 0,
-        "updatedAt": "2022-04-28 14:27:33"
     }
 }

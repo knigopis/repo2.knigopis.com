@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>20</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>21</sup>
 ---
 
 ## 2022
+
+### Академия и Империя
+Азимов
+> [2022-05-12] 
+
 
 ### Лю Яо: Возрождение клана Фу Яо
 Priest
