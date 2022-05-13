@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>218</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup> 
 [eva](users/111/111656270551033014778-google)<sup>130</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>64</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Сева](users/107/107315264267680118871-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>156</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>217</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>265</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>88</sup> 
 
 
-_13.05.2022 10:39:34_
+_13.05.2022 10:56:38_

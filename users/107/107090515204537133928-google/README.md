@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>217</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>218</sup>
 ---
 
 ## 2022
+
+### Кровь эльфов
+Анджей Сапковский
+> [2022-05-13] 
+
 
 ### Метро 2033
 Дмитрий Глуховский
