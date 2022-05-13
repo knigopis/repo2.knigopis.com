@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом в котором... ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup>
+    > Прослушала 6%, около 2 часов. Не зацепило.
+
 * Возвращение в Брайдсхед ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > На английском
 
 * Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется ~ [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup>
-    > Еще одна классификация типов личности и способы общения с разными типажами
 
 * Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Всеобщая история. История Древнего мира. 5 класс ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup>
 
-* Господин из Сан-Франциско ~ [Вит](users/300/300273923-vkontakte)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>21</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>28</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>65</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Сева](users/107/107315264267680118871-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>156</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>265</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
 [](users/300/300591143-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>58</sup> 
 
 
-_13.05.2022 17:25:35_
+_13.05.2022 17:39:02_

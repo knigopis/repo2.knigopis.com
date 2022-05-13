@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 266,
+        "updatedAt": "2022-05-13 17:39:01"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -124,12 +130,6 @@
         "nickname": "Феня Котовна",
         "booksCount": 156,
         "updatedAt": "2022-05-05 10:38:21"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 265,
-        "updatedAt": "2022-05-04 07:17:46"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
