@@ -1,4 +1,10 @@
 {
+    "86487125-vkontakte": {
+        "id": "86487125-vkontakte",
+        "nickname": "Smekalistii",
+        "booksCount": 27,
+        "updatedAt": "2022-05-13 16:42:15"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": "shhuuura",
         "booksCount": 0,
         "updatedAt": "2022-04-28 14:27:33"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 142,
-        "updatedAt": "2022-04-27 23:53:52"
     }
 }
