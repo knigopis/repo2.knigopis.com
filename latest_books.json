@@ -1,4 +1,16 @@
 {
+    "EXVvVNHTaX": {
+        "id": "EXVvVNHTaX",
+        "title": "Секта с туманного острова",
+        "author": "Мариэтт Линдстин",
+        "notes": "",
+        "createdAt": "2022-05-14 00:20:12",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 73
+        }
+    },
     "W40UM02eiN": {
         "id": "W40UM02eiN",
         "title": "Вторая Академия",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 265
-        }
-    },
-    "fRESTx6G_1": {
-        "id": "fRESTx6G_1",
-        "title": "Мужчина и женщина в эпоху динозавров",
-        "author": "Маргарет Этвуд",
-        "notes": "7/10 Работницы музея устраивают личную жизнь.",
-        "createdAt": "2022-05-04 06:50:29",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 254
         }
     }
 }
