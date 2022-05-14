@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>65</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>66</sup>
 ---
 
 ## 2022
+
+### Ведунья против князя
+Вера Чиркова
+> [2022-05-15] 
+
 
 ### Академия адептов, колдунов и магов. Проверка для магистров
 Галина Гончарова
