@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/296/296323488-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>22</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>9</sup> 
 [](users/153/1537586159620888-facebook)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/300/300591143-vkontakte)<sup>0</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>45</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>33</sup> 
-[](users/500/500496760-vkontakte)<sup>0</sup> 
 
 
-_14.05.2022 06:09:39_
+_14.05.2022 19:26:21_

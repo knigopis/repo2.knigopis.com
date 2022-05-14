@@ -1,4 +1,16 @@
 {
+    "OMJCt_c8zn": {
+        "id": "OMJCt_c8zn",
+        "title": "Тени в раю",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2022-05-14 19:26:21",
+        "user": {
+            "id": "296323488-yandex",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "uzU8ehJ2oB": {
         "id": "uzU8ehJ2oB",
         "title": "Вторая Академия",
@@ -345,18 +357,6 @@
             "id": "5175580462988229760-mailru",
             "nickname": "Triste",
             "booksCount": 60
-        }
-    },
-    "HPF8SfFt6w": {
-        "id": "HPF8SfFt6w",
-        "title": "Мы",
-        "author": "Замятин, Евгений Иванович",
-        "notes": "",
-        "createdAt": "2022-05-04 16:00:35",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 59
         }
     }
 }
