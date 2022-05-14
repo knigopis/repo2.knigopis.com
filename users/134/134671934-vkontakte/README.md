@@ -1,5 +1,13 @@
-# List of books read by [slava_kite](http://vk.com/id134671934)<sup>8</sup>
+# List of books read by [slava_kite](http://vk.com/id134671934)<sup>9</sup>
 ---
+
+## 2022
+
+### Товарищ убийца, ростовское дело, Андрей Чикатило
+Михаил Кривич
+> [2022-04] 
+
+
 
 ## 2021
 
