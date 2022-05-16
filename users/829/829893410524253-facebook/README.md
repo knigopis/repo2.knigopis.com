@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>255</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>256</sup>
 ---
 
 ## 2022
+
+### Ребека
+Дафна дю Мор'є
+> [2022-05-15] Нова місіс де Вінтер постійно знаходиться в тіні померлої попередниці Ребеки.
+
 
 ### Беглецы
 Блек Крауч

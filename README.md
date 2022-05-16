@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ребека ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup>
+    > Нова місіс де Вінтер постійно знаходиться в тіні померлої попередниці Ребеки.
+
 * Дом в котором... ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup>
     > Прослушала 6%, около 2 часов. Не зацепило.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * К югу от солнца, к западу от границы ~ [eva](users/111/111656270551033014778-google)<sup>130</sup>
-    > На английском
 
 * Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется ~ [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мы ~ [Triste](users/517/5175580462988229760-mailru)<sup>58</sup>
 
-* Всеобщая история. История Древнего мира. 5 класс ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>66</sup> 
 [](users/296/296323488-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>22</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112360297236443517414-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>202</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>926</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup> 
 [Сева](users/107/107315264267680118871-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>156</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tututu](users/135/135685382-vkontakte)<sup>33</sup> 
 
 
-_14.05.2022 22:33:40_
+_16.05.2022 05:20:37_
