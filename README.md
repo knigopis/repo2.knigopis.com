@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108468706061728554377-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>219</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>66</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
 [](users/300/300591143-vkontakte)<sup>0</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>45</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>33</sup> 
 
 
-_16.05.2022 08:52:39_
+_16.05.2022 15:18:24_
