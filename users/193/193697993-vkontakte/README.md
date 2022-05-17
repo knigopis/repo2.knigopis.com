@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>66</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>67</sup>
 ---
 
 ## 2022
+
+### Ведунья против короля
+Вера Чиркова
+> [2022-05-18] 
+
 
 ### Ведунья против князя
 Вера Чиркова

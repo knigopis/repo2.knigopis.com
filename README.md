@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>67</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>203</sup> 
 [](users/590/590481280-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>131</sup> 
 [](users/108/108468706061728554377-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>219</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>66</sup> 
 [](users/296/296323488-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>22</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/300/300591143-vkontakte)<sup>0</sup> 
 
 
-_17.05.2022 20:59:20_
+_17.05.2022 23:48:29_
