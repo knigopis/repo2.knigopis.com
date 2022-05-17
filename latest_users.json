@@ -1,4 +1,10 @@
 {
+    "590481280-vkontakte": {
+        "id": "590481280-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-05-17 20:22:19"
+    },
     "111656270551033014778-google": {
         "id": "111656270551033014778-google",
         "nickname": "eva",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-05-02 10:06:00"
-    },
-    "118261627879855357372-google": {
-        "id": "118261627879855357372-google",
-        "nickname": "kosnikovskiy",
-        "booksCount": 45,
-        "updatedAt": "2022-05-01 21:10:57"
     }
 }
