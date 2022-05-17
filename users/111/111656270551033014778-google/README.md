@@ -1,7 +1,12 @@
-# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>131</sup>
+# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>132</sup>
 ---
 
 ## 2022
+
+### Маленькая жизнь
+Ханья Янагихара
+> [2022-05-17] 
+
 
 ### Маленькая жизнь
 Ханья Янагихара
