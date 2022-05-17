@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/590/590481280-vkontakte)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>131</sup> 
 [](users/108/108468706061728554377-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>219</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
 [](users/300/300591143-vkontakte)<sup>0</sup> 
-[kosnikovskiy](users/118/118261627879855357372-google)<sup>45</sup> 
 
 
-_17.05.2022 20:04:48_
+_17.05.2022 20:22:19_
