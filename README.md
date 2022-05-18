@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pria](users/128/128917939-vkontakte)<sup>63</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>34</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>326</sup> 
 [](users/153/1537586159620888-facebook)<sup>74</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Сева](users/107/107315264267680118871-google)<sup>1</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>156</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>198</sup> 
 
 
-_18.05.2022 10:14:07_
+_18.05.2022 10:18:54_
