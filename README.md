@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Человек за черной дверью ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
+    > Продолжение серии. Не плохо, но описание ужасов немного напрягало.
+
 * Ребека ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup>
     > Нова місіс де Вінтер постійно знаходиться в тіні померлої попередниці Ребеки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прослушала 6%, около 2 часов. Не зацепило.
 
 * Возвращение в Брайдсхед ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup>
-    > audio
 
 * К югу от солнца, к западу от границы ~ [eva](users/111/111656270551033014778-google)<sup>130</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Заводной апельсин ~ [tututu](users/135/135685382-vkontakte)<sup>33</sup>
 
-* Мы ~ [Triste](users/517/5175580462988229760-mailru)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>326</sup> 
 [](users/153/1537586159620888-facebook)<sup>74</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>67</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>203</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>156</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>198</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>325</sup> 
 [](users/300/300591143-vkontakte)<sup>0</sup> 
 
 
-_17.05.2022 23:56:39_
+_18.05.2022 05:48:11_

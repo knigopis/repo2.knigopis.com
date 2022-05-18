@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Человек за черной дверью ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 * Ребека ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup>
 * Дом в котором... ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup>
 * Возвращение в Брайдсхед ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup>
@@ -30,7 +31,6 @@
 * Божа кара ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>251</sup>
 * Дневник Бриджит Джонс ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>58</sup>
 * Властелин колец. Две твердыни. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>57</sup>
-* О дивный новый мир ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>56</sup>
 
 
-_16.05.2022 05:20:37_
+_18.05.2022 05:48:11_
