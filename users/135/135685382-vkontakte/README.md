@@ -1,7 +1,12 @@
-# List of books read by [tututu](http://vk.com/id135685382)<sup>33</sup>
+# List of books read by [tututu](http://vk.com/id135685382)<sup>34</sup>
 ---
 
 ## 2022
+
+### Кругом одни идиоты
+Томас Эриксон
+> [2022-05-18] 
+
 
 ### Заводной апельсин
 Энтони Бёрджесс
