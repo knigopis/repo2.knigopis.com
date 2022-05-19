@@ -1,4 +1,4 @@
-# List of books read by Triste<sup>61</sup>
+# List of books read by Triste<sup>60</sup>
 ---
 
 ## 2022
@@ -15,11 +15,6 @@
 
 ### Мы
 Замятин, Евгений Иванович
-
-
-### Мы
-Е. Замятин
-> Фаворит.
 
 
 ### Записки сумасшедшего
