@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 143,
+        "updatedAt": "2022-05-19 14:46:06"
+    },
     "128917939-vkontakte": {
         "id": "128917939-vkontakte",
         "nickname": "pria",
@@ -172,11 +178,5 @@
         "nickname": "Triste",
         "booksCount": 61,
         "updatedAt": "2022-05-05 14:26:52"
-    },
-    "109746193906459706720-google": {
-        "id": "109746193906459706720-google",
-        "nickname": "Феня Котовна",
-        "booksCount": 156,
-        "updatedAt": "2022-05-05 10:38:21"
     }
 }

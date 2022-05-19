@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>142</sup>
+# List of books read by 4apa<sup>143</sup>
 ---
 
 ## 2022
+
+### Башня из грязи и веток
+Я. Барсуков
+> [2022-05-19] 
+
 
 ### Проект "Аве Мария"
 Э. Вейер
