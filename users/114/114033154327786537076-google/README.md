@@ -1,7 +1,12 @@
-# List of books read by [Occasio](https://plus.google.com/u/0/114033154327786537076/)<sup>1</sup>
+# List of books read by [Occasio](https://plus.google.com/u/0/114033154327786537076/)<sup>2</sup>
 ---
 
 ## 2022
+
+### Отрок
+Евгений Красницкий
+> [2022-04-20] 
+
 
 ### Черный отряд
 Глен Кук
