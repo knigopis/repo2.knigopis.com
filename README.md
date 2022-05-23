@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин колец. Возвращение Короля. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup>
+    > paper
+
 * Человек за черной дверью ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
     > Продолжение серии. Не плохо, но описание ужасов немного напрягало.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Нова місіс де Вінтер постійно знаходиться в тіні померлої попередниці Ребеки.
 
 * Дом в котором... ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup>
-    > Прослушала 6%, около 2 часов. Не зацепило.
 
 * Возвращение в Брайдсхед ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * В поисках Библии. Тайны древних манускриптов. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>253</sup>
 
-* Заводной апельсин ~ [tututu](users/135/135685382-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup> 
 [](users/100/100097069456712612136-google)<sup>0</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>2</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>60</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>28</sup> 
 [](users/105/105823803547377667756-google)<sup>2</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>314</sup> 
 [Vladimir](users/113/113792115099130726405-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112360297236443517414-google)<sup>0</sup> 
 
 
-_19.05.2022 17:51:18_
+_23.05.2022 09:25:29_
