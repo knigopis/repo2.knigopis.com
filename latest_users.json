@@ -1,4 +1,10 @@
 {
+    "1001822779-yandex": {
+        "id": "1001822779-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-05-24 09:01:38"
+    },
     "114881333859552166326-google": {
         "id": "114881333859552166326-google",
         "nickname": "Anyro",
@@ -172,11 +178,5 @@
         "nickname": "Лёля",
         "booksCount": 0,
         "updatedAt": "2022-05-09 21:56:25"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 35,
-        "updatedAt": "2022-05-09 19:17:44"
     }
 }
