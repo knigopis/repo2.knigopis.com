@@ -1,4 +1,10 @@
 {
+    "114881333859552166326-google": {
+        "id": "114881333859552166326-google",
+        "nickname": "Anyro",
+        "booksCount": 0,
+        "updatedAt": "2022-05-24 08:54:31"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 35,
         "updatedAt": "2022-05-09 19:17:44"
-    },
-    "13413591548892934957-mailru": {
-        "id": "13413591548892934957-mailru",
-        "nickname": "Shellena",
-        "booksCount": 412,
-        "updatedAt": "2022-05-08 21:44:40"
     }
 }
