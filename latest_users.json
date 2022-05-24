@@ -1,4 +1,10 @@
 {
+    "134671934-vkontakte": {
+        "id": "134671934-vkontakte",
+        "nickname": "slava_kite",
+        "booksCount": 10,
+        "updatedAt": "2022-05-24 22:39:42"
+    },
     "117044164287670732330-google": {
         "id": "117044164287670732330-google",
         "nickname": "Noentrego",
@@ -136,12 +142,6 @@
         "nickname": "Askaliya",
         "booksCount": 22,
         "updatedAt": "2022-05-14 06:09:39"
-    },
-    "134671934-vkontakte": {
-        "id": "134671934-vkontakte",
-        "nickname": "slava_kite",
-        "booksCount": 9,
-        "updatedAt": "2022-05-14 01:31:02"
     },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",

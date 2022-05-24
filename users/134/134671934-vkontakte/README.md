@@ -1,7 +1,12 @@
-# List of books read by [slava_kite](http://vk.com/id134671934)<sup>9</sup>
+# List of books read by [slava_kite](http://vk.com/id134671934)<sup>10</sup>
 ---
 
 ## 2022
+
+### Воспоминания о войне
+Никулин
+> [2022-05-25] 
+
 
 ### Товарищ убийца, ростовское дело, Андрей Чикатило
 Михаил Кривич
