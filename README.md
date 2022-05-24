@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Anyro](users/114/114881333859552166326-google)<sup>0</sup> 
+[Anyro](users/114/114881333859552166326-google)<sup>1</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>157</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup> 
 [](users/100/100097069456712612136-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup> 
 
 
-_24.05.2022 08:54:31_
+_24.05.2022 08:56:26_
