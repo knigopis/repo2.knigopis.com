@@ -1,4 +1,16 @@
 {
+    "pCP0gDaJCP": {
+        "id": "pCP0gDaJCP",
+        "title": "Голос тишины",
+        "author": "Экхарт Толле",
+        "notes": "",
+        "createdAt": "2022-05-26 07:47:44",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 81
+        }
+    },
     "KZtRURUIc_": {
         "id": "KZtRURUIc_",
         "title": "Воспоминания о войне",
@@ -345,18 +357,6 @@
             "id": "105823803547377667756-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "ARRIERE-UI": {
-        "id": "ARRIERE-UI",
-        "title": "Кровь эльфов",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2022-05-13 10:56:38",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 218
         }
     }
 }

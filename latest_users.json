@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 81,
+        "updatedAt": "2022-05-26 07:47:44"
+    },
     "134671934-vkontakte": {
         "id": "134671934-vkontakte",
         "nickname": "slava_kite",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 314,
         "updatedAt": "2022-05-10 15:16:52"
-    },
-    "113792115099130726405-google": {
-        "id": "113792115099130726405-google",
-        "nickname": "Vladimir",
-        "booksCount": 0,
-        "updatedAt": "2022-05-10 08:50:15"
     }
 }
