@@ -1,7 +1,12 @@
-# List of books read by [Яков](https://plus.google.com/u/0/105550558690336621150/)<sup>4</sup>
+# List of books read by [Яков](https://plus.google.com/u/0/105550558690336621150/)<sup>5</sup>
 ---
 
 ## 2022
+
+### Серебряный ключ
+Г. Ф. Лавкрафт
+> [2022-05-27] 
+
 
 ### Данвический ужас
 Г. Ф. Лавкрафт
