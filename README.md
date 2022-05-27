@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105550558690336621150-google)<sup>0</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>224</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>199</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>81</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>28</sup> 
 [](users/105/105823803547377667756-google)<sup>2</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>72</sup> 
 
 
-_27.05.2022 08:49:32_
+_27.05.2022 11:51:10_
