@@ -1,4 +1,16 @@
 {
+    "HDWSjCH_w8": {
+        "id": "HDWSjCH_w8",
+        "title": "Праздник",
+        "author": "Г. Ф. Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-05-27 13:57:54",
+        "user": {
+            "id": "105550558690336621150-google",
+            "nickname": "Яков",
+            "booksCount": 7
+        }
+    },
     "pPbjp4ICxb": {
         "id": "pPbjp4ICxb",
         "title": "Зов Ктулху",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 256
-        }
-    },
-    "KrkWLCVA8j": {
-        "id": "KrkWLCVA8j",
-        "title": "Ведунья против князя",
-        "author": "Вера Чиркова",
-        "notes": "",
-        "createdAt": "2022-05-14 22:33:40",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 66
         }
     }
 }
