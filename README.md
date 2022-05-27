@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>199</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>222</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>81</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>28</sup> 
 [](users/105/105823803547377667756-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>72</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>314</sup> 
 
 
-_26.05.2022 10:52:19_
+_27.05.2022 07:48:17_

@@ -1,4 +1,16 @@
 {
+    "6idrsTWeTV": {
+        "id": "6idrsTWeTV",
+        "title": "Отдел продаж по захвату рынка",
+        "author": "Гребенюк Михаил",
+        "notes": "",
+        "createdAt": "2022-05-27 07:48:17",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 199
+        }
+    },
     "_YF4QlcgPd": {
         "id": "_YF4QlcgPd",
         "title": "Немейский лев",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": "Smekalistii",
             "booksCount": 27
-        }
-    },
-    "B9j5U4JFmJ": {
-        "id": "B9j5U4JFmJ",
-        "title": "Академия адептов, колдунов и магов. Проверка для магистров",
-        "author": "Галина Гончарова",
-        "notes": "",
-        "createdAt": "2022-05-13 16:25:37",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 65
         }
     }
 }
