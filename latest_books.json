@@ -1,4 +1,16 @@
 {
+    "Bh7YWZCGym": {
+        "id": "Bh7YWZCGym",
+        "title": "Вскрытие покажет: записки увлечённого судмедэксперта",
+        "author": "Алексей Решетун",
+        "notes": "",
+        "createdAt": "2022-05-27 23:02:58",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 35
+        }
+    },
     "HDWSjCH_w8": {
         "id": "HDWSjCH_w8",
         "title": "Праздник",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 219
-        }
-    },
-    "3CngZECRMI": {
-        "id": "3CngZECRMI",
-        "title": "Ребека",
-        "author": "Дафна дю Мор'є",
-        "notes": "Нова місіс де Вінтер постійно знаходиться в тіні померлої попередниці Ребеки.",
-        "createdAt": "2022-05-16 05:20:36",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 256
         }
     }
 }
