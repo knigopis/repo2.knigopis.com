@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>223</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>224</sup>
 ---
 
 ## 2022
+
+### Шлепенштейн
+Тим Миллер
+> [2022-05-27] 
+
 
 ### Спячка
 Аластер Рейнолдс
