@@ -1,4 +1,16 @@
 {
+    "pPbjp4ICxb": {
+        "id": "pPbjp4ICxb",
+        "title": "Зов Ктулху",
+        "author": "Г. Ф. Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-05-27 13:56:52",
+        "user": {
+            "id": "105550558690336621150-google",
+            "nickname": "Яков",
+            "booksCount": 6
+        }
+    },
     "4BTv9RvzEe": {
         "id": "4BTv9RvzEe",
         "title": "Серебряный ключ",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 66
-        }
-    },
-    "OMJCt_c8zn": {
-        "id": "OMJCt_c8zn",
-        "title": "Тени в раю",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2022-05-14 19:26:21",
-        "user": {
-            "id": "296323488-yandex",
-            "nickname": null,
-            "booksCount": 12
         }
     }
 }
