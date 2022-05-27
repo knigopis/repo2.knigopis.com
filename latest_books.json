@@ -1,4 +1,16 @@
 {
+    "mpDwrS1HtI": {
+        "id": "mpDwrS1HtI",
+        "title": "Дагон",
+        "author": "Г. Ф. Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-05-27 11:52:27",
+        "user": {
+            "id": "105550558690336621150-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "NI3mtj9nXV": {
         "id": "NI3mtj9nXV",
         "title": "Шлепенштейн",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 266
-        }
-    },
-    "ckoSA_1TzI": {
-        "id": "ckoSA_1TzI",
-        "title": "Академия и Империя",
-        "author": "Азимов",
-        "notes": "",
-        "createdAt": "2022-05-13 17:25:35",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 21
         }
     }
 }
