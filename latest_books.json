@@ -1,4 +1,16 @@
 {
+    "PKfpvxXG7L": {
+        "id": "PKfpvxXG7L",
+        "title": "Данвический ужас",
+        "author": "Г. Ф. Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-05-27 13:56:04",
+        "user": {
+            "id": "105550558690336621150-google",
+            "nickname": "Яков",
+            "booksCount": 4
+        }
+    },
     "ecoO-DXHPE": {
         "id": "ecoO-DXHPE",
         "title": "Безымянный город",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 23
-        }
-    },
-    "n3mxH6z99-": {
-        "id": "n3mxH6z99-",
-        "title": "Товарищ убийца, ростовское дело, Андрей Чикатило",
-        "author": "Михаил Кривич",
-        "notes": "",
-        "createdAt": "2022-05-14 01:31:02",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 9
         }
     }
 }
