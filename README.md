@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>35</sup> 
 [Яков](users/105/105550558690336621150-google)<sup>7</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>224</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/296/296323488-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>22</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup> 
-[Smekalistii](users/864/86487125-vkontakte)<sup>28</sup> 
 [](users/105/105823803547377667756-google)<sup>2</sup> 
 
 
-_27.05.2022 23:02:58_
+_28.05.2022 08:36:33_

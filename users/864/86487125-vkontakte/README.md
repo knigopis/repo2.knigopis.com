@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>28</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>29</sup>
 ---
 
 ## 2022
+
+### Игра Джералда
+Стивен Кинг
+> [2022-05-28] 
+
 
 ### Мобильник
 Стивен Кинг
