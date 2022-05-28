@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 225,
+        "updatedAt": "2022-05-28 17:31:48"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": "Smekalistii",
@@ -16,12 +22,6 @@
         "nickname": "Яков",
         "booksCount": 7,
         "updatedAt": "2022-05-27 13:57:54"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 224,
-        "updatedAt": "2022-05-27 08:49:32"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",

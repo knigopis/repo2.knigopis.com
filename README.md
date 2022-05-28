@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>225</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>35</sup> 
 [Яков](users/105/105550558690336621150-google)<sup>7</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>224</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>199</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>81</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105823803547377667756-google)<sup>2</sup> 
 
 
-_28.05.2022 08:36:33_
+_28.05.2022 17:31:48_
