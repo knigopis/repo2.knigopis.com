@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101993023995003150366-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>68</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/296/296323488-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>22</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup> 
-[](users/105/105823803547377667756-google)<sup>2</sup> 
 
 
-_29.05.2022 22:37:37_
+_29.05.2022 22:59:28_
