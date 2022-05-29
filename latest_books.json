@@ -1,4 +1,16 @@
 {
+    "EY6Riy-LaK": {
+        "id": "EY6Riy-LaK",
+        "title": "Всеобщая история. История Нового времени. 8 класс",
+        "author": "В. А. Ведюшкин, С. Н. Бурин",
+        "notes": "",
+        "createdAt": "2022-05-29 22:37:37",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 204
+        }
+    },
     "8W-Gl9z5fH": {
         "id": "8W-Gl9z5fH",
         "title": "Свадьба отменяется. Книга вторая. Осада",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 63
-        }
-    },
-    "qTCosl1aZj": {
-        "id": "qTCosl1aZj",
-        "title": "Кругом одни идиоты",
-        "author": "Томас Эриксон",
-        "notes": "",
-        "createdAt": "2022-05-18 10:14:07",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
-            "booksCount": 34
         }
     }
 }
