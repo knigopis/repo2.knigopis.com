@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>225</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>226</sup>
 ---
 
 ## 2022
+
+### Почему мы оправдываемся и нужно ли с этим бороться
+Андрей Кузнецов
+> [2022-05-29] 
+
 
 ### Чудесная месть
 Бернард Шоу
