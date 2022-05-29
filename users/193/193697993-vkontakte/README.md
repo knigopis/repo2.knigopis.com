@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>67</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>68</sup>
 ---
 
 ## 2022
+
+### Свадьба отменяется. Книга вторая. Осада
+Вера Чиркова
+> [2022-05-30] 
+
 
 ### Ведунья против короля
 Вера Чиркова

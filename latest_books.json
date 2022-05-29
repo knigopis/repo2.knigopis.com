@@ -1,4 +1,16 @@
 {
+    "8W-Gl9z5fH": {
+        "id": "8W-Gl9z5fH",
+        "title": "Свадьба отменяется. Книга вторая. Осада",
+        "author": "Вера Чиркова",
+        "notes": "",
+        "createdAt": "2022-05-29 22:37:34",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 68
+        }
+    },
     "Huqcc36xZr": {
         "id": "Huqcc36xZr",
         "title": "Соловей",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 34
-        }
-    },
-    "UkV9bPOS2w": {
-        "id": "UkV9bPOS2w",
-        "title": "Человек за черной дверью",
-        "author": "Обухова Лена",
-        "notes": "Продолжение серии. Не плохо, но описание ужасов немного напрягало.",
-        "createdAt": "2022-05-18 05:48:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 326
         }
     }
 }
