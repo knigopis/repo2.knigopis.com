@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Until the End of Time ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup>
+    > 5*5
+
 * Охота на Ботаника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>158</sup>
     > Как завоевать сердце ботаника, если он увлечен квантовой физикой, а популярных девушек обходит стороной? Формула успеха проста: нужно объявить его своим парнем, а если счастливчик упрямится – призвать на помощь смекалку.
     > Именно так поступает Агния Корсак, первая красавица университета, когда неожиданно понимает, что впервые в жизни влюбилась. И пусть объект симпатии не спешит отвечать взаимностью, Агния не привыкла отступать. Она обязательно докажет, что упорство и красота – опасное оружие в руках влюбленной девушки.
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > paper
 
 * Человек за черной дверью ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
-    > Продолжение серии. Не плохо, но описание ужасов немного напрягало.
 
 * Ребека ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
 
-* Мужчина и женщина в эпоху динозавров ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup> 
 [](users/101/101993023995003150366-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>68</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup> 
 [](users/296/296323488-yandex)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>22</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup> 
 
 
-_29.05.2022 22:59:28_
+_30.05.2022 04:10:38_
