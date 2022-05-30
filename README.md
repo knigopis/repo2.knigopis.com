@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup> 
+[Victoriaperfectum](users/117/117396356938980769291-google)<sup>12</sup> 
 [](users/101/101993023995003150366-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>68</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>22</sup> 
 
 
-_30.05.2022 04:10:38_
+_30.05.2022 04:11:28_
