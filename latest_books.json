@@ -1,4 +1,16 @@
 {
+    "tqRmBQLp5q": {
+        "id": "tqRmBQLp5q",
+        "title": "Мастер и Маргарита",
+        "author": "Булгаков",
+        "notes": "",
+        "createdAt": "2022-05-30 11:30:31",
+        "user": {
+            "id": "336375377-vkontakte",
+            "nickname": "Bagi",
+            "booksCount": 1
+        }
+    },
     "HdrcLO-eoM": {
         "id": "HdrcLO-eoM",
         "title": "Two By Two",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 61
-        }
-    },
-    "Trn6lzawo9": {
-        "id": "Trn6lzawo9",
-        "title": "Отрок",
-        "author": "Евгений Красницкий",
-        "notes": "",
-        "createdAt": "2022-05-19 16:09:11",
-        "user": {
-            "id": "114033154327786537076-google",
-            "nickname": "Occasio",
-            "booksCount": 2
         }
     }
 }
