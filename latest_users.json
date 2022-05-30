@@ -1,4 +1,10 @@
 {
+    "336375377-vkontakte": {
+        "id": "336375377-vkontakte",
+        "nickname": "Bagi",
+        "booksCount": 0,
+        "updatedAt": "2022-05-30 10:54:06"
+    },
     "117396356938980769291-google": {
         "id": "117396356938980769291-google",
         "nickname": "Victoriaperfectum",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 12,
         "updatedAt": "2022-05-14 19:26:21"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 22,
-        "updatedAt": "2022-05-14 06:09:39"
     }
 }
