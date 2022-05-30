@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Bagi](users/336/336375377-vkontakte)<sup>2</sup> 
+[Bagi](users/336/336375377-vkontakte)<sup>3</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>12</sup> 
 [](users/101/101993023995003150366-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/296/296323488-yandex)<sup>12</sup> 
 
 
-_30.05.2022 11:30:53_
+_30.05.2022 11:31:23_

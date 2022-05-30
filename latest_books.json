@@ -1,4 +1,16 @@
 {
+    "kV-qmJ884B": {
+        "id": "kV-qmJ884B",
+        "title": "Братья Карамазовы",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2022-05-30 11:31:23",
+        "user": {
+            "id": "336375377-vkontakte",
+            "nickname": "Bagi",
+            "booksCount": 3
+        }
+    },
     "H5YT97E-16": {
         "id": "H5YT97E-16",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "114881333859552166326-google",
             "nickname": "Anyro",
             "booksCount": 1
-        }
-    },
-    "3tdfmfDF2c": {
-        "id": "3tdfmfDF2c",
-        "title": "Мы, аристократы - 4",
-        "author": "Бродячая Кошка Бастет",
-        "notes": "",
-        "createdAt": "2022-05-23 19:45:04",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 157
         }
     }
 }
