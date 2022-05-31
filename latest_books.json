@@ -1,4 +1,16 @@
 {
+    "db_pgMJ4pp": {
+        "id": "db_pgMJ4pp",
+        "title": "Возвращение чародея",
+        "author": "Кларк Эштон Смит",
+        "notes": "",
+        "createdAt": "2022-05-31 11:00:32",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 227
+        }
+    },
     "wsGIunAv9A": {
         "id": "wsGIunAv9A",
         "title": "Как не умереть молодым",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 220
-        }
-    },
-    "gYyDUzjjJn": {
-        "id": "gYyDUzjjJn",
-        "title": "",
-        "author": "Анна Джейн",
-        "notes": "",
-        "createdAt": "2022-05-24 10:46:40",
-        "user": {
-            "id": "116548990352210245412-google",
-            "nickname": "Лёля",
-            "booksCount": 1
         }
     }
 }
