@@ -1,4 +1,16 @@
 {
+    "XL7mzPvM3l": {
+        "id": "XL7mzPvM3l",
+        "title": "Невероятное. История преступления, в которое никто не поверил",
+        "author": "Кен Армстронг, Т. Кристиан Миллер",
+        "notes": "надо посмотреть сериал",
+        "createdAt": "2022-05-31 13:31:18",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 36
+        }
+    },
     "db_pgMJ4pp": {
         "id": "db_pgMJ4pp",
         "title": "Возвращение чародея",
@@ -345,18 +357,6 @@
             "id": "134671934-vkontakte",
             "nickname": "slava_kite",
             "booksCount": 10
-        }
-    },
-    "FXjQ9A18Qp": {
-        "id": "FXjQ9A18Qp",
-        "title": "Триумф",
-        "author": "Стивен Эриксон",
-        "notes": "",
-        "createdAt": "2022-05-24 14:23:41",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 220
         }
     }
 }

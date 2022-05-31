@@ -1,4 +1,10 @@
 {
+    "2579695-vkontakte": {
+        "id": "2579695-vkontakte",
+        "nickname": "albina_untiring",
+        "booksCount": 36,
+        "updatedAt": "2022-05-31 13:31:18"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 256,
         "updatedAt": "2022-05-16 05:20:36"
-    },
-    "296323488-yandex": {
-        "id": "296323488-yandex",
-        "nickname": null,
-        "booksCount": 12,
-        "updatedAt": "2022-05-14 19:26:21"
     }
 }

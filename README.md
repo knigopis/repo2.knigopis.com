@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Невероятное. История преступления, в которое никто не поверил ~ [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup>
+    > надо посмотреть сериал
+
 * Until the End of Time ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup>
     > 5*5
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Держись Антон Морозов, на тебя объявили охоту!
 
 * Властелин колец. Возвращение Короля. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup>
-    > paper
 
 * Человек за черной дверью ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется ~ [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup>
 
-* Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>36</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>227</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>36</sup> 
 [Bagi](users/336/336375377-vkontakte)<sup>3</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eva](users/111/111656270551033014778-google)<sup>131</sup> 
 [](users/108/108468706061728554377-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup> 
-[](users/296/296323488-yandex)<sup>12</sup> 
 
 
-_31.05.2022 11:00:32_
+_31.05.2022 13:31:18_
