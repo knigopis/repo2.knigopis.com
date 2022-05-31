@@ -1,4 +1,16 @@
 {
+    "dq4Tiiy_F_": {
+        "id": "dq4Tiiy_F_",
+        "title": "Борьба за жизнь, записки из скорой",
+        "author": "Лиза Уодлер",
+        "notes": "",
+        "createdAt": "2022-05-31 15:36:08",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 75
+        }
+    },
     "XL7mzPvM3l": {
         "id": "XL7mzPvM3l",
         "title": "Невероятное. История преступления, в которое никто не поверил",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 81
-        }
-    },
-    "KZtRURUIc_": {
-        "id": "KZtRURUIc_",
-        "title": "Воспоминания о войне",
-        "author": "Никулин",
-        "notes": "",
-        "createdAt": "2022-05-24 22:39:42",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 10
         }
     }
 }
