@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия элитных магов ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup>
 * Невероятное. История преступления, в которое никто не поверил ~ [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup>
 * Until the End of Time ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup>
 * Охота на Ботаника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>158</sup>
@@ -30,7 +31,6 @@
 * 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
 * Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
 * Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
-* Голодные игры 1 ~ [](users/153/1537586159620888-facebook)<sup>71</sup>
 
 
-_31.05.2022 13:31:18_
+_01.06.2022 12:20:31_
