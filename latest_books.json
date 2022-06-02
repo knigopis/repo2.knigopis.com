@@ -1,4 +1,16 @@
 {
+    "hycFs62zOB": {
+        "id": "hycFs62zOB",
+        "title": "Цветы для Элджернона",
+        "author": "Даниэл Киз",
+        "notes": "",
+        "createdAt": "2022-06-02 23:07:11",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "Q0y-nVB4U3": {
         "id": "Q0y-nVB4U3",
         "title": "Голодные игры (серия)",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 35
-        }
-    },
-    "HDWSjCH_w8": {
-        "id": "HDWSjCH_w8",
-        "title": "Праздник",
-        "author": "Г. Ф. Лавкрафт",
-        "notes": "",
-        "createdAt": "2022-05-27 13:57:54",
-        "user": {
-            "id": "105550558690336621150-google",
-            "nickname": "Яков",
-            "booksCount": 7
         }
     }
 }
