@@ -1,4 +1,16 @@
 {
+    "rS20EHSdpT": {
+        "id": "rS20EHSdpT",
+        "title": "Делириум",
+        "author": "Лорен Оливер",
+        "notes": "Постап., где нельзя любить",
+        "createdAt": "2022-06-02 23:26:02",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "jvrWsGpomf": {
         "id": "jvrWsGpomf",
         "title": "Хакеры сновидений",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 36
-        }
-    },
-    "kV-qmJ884B": {
-        "id": "kV-qmJ884B",
-        "title": "Братья Карамазовы",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2022-05-30 11:31:23",
-        "user": {
-            "id": "336375377-vkontakte",
-            "nickname": "Bagi",
-            "booksCount": 3
         }
     }
 }
