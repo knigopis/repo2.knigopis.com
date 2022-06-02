@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>27</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>28</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Последнее правило
+Джоди Пиколт
+> Детектив про парня с синдромом Аспергера
 
 
 ### Текст
