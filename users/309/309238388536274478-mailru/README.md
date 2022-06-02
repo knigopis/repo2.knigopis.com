@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>37</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>38</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Сталкер: Слепое пятно
+Виктор Ночкин
+> Про сталкера-дальтоника
 
 
 ### Сталкер: Дом на болоте
