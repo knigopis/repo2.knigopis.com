@@ -1,4 +1,16 @@
 {
+    "rtG0oLEzZy": {
+        "id": "rtG0oLEzZy",
+        "title": "Сумерки (серия)",
+        "author": "Стефана Майер",
+        "notes": "",
+        "createdAt": "2022-06-02 23:07:55",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 9
+        }
+    },
     "hycFs62zOB": {
         "id": "hycFs62zOB",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": "Smekalistii",
             "booksCount": 29
-        }
-    },
-    "Bh7YWZCGym": {
-        "id": "Bh7YWZCGym",
-        "title": "Вскрытие покажет: записки увлечённого судмедэксперта",
-        "author": "Алексей Решетун",
-        "notes": "",
-        "createdAt": "2022-05-27 23:02:58",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
-            "booksCount": 35
         }
     }
 }
