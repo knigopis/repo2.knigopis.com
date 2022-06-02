@@ -1,4 +1,16 @@
 {
+    "o_YkXsIV1T": {
+        "id": "o_YkXsIV1T",
+        "title": "Тайное окно",
+        "author": "Стивен Кинг",
+        "notes": "Перечитать",
+        "createdAt": "2022-06-02 23:04:25",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "SyMlTv2lXA": {
         "id": "SyMlTv2lXA",
         "title": "Робинзон Крузо",
@@ -345,18 +357,6 @@
             "id": "105550558690336621150-google",
             "nickname": "Яков",
             "booksCount": 5
-        }
-    },
-    "PKfpvxXG7L": {
-        "id": "PKfpvxXG7L",
-        "title": "Данвический ужас",
-        "author": "Г. Ф. Лавкрафт",
-        "notes": "",
-        "createdAt": "2022-05-27 13:56:04",
-        "user": {
-            "id": "105550558690336621150-google",
-            "nickname": "Яков",
-            "booksCount": 4
         }
     }
 }
