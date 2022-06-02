@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>227</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>228</sup>
 ---
 
 ## 2022
+
+### Двадцать тысяч лье под водой
+Жюль Верн
+> [2022-06-02] 
+
 
 ### Возвращение чародея
 Кларк Эштон Смит
