@@ -1,4 +1,16 @@
 {
+    "ZNmY6aZw1I": {
+        "id": "ZNmY6aZw1I",
+        "title": "50 оттенков серого (серия)",
+        "author": "Э.Л.Джеймс",
+        "notes": "Прости Господи.",
+        "createdAt": "2022-06-02 23:26:10",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 22
+        }
+    },
     "rS20EHSdpT": {
         "id": "rS20EHSdpT",
         "title": "Делириум",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 227
-        }
-    },
-    "wsGIunAv9A": {
-        "id": "wsGIunAv9A",
-        "title": "Как не умереть молодым",
-        "author": "Алексей Решетун",
-        "notes": "",
-        "createdAt": "2022-05-30 21:00:02",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
-            "booksCount": 36
         }
     }
 }

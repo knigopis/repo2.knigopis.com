@@ -1,7 +1,12 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>21</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>22</sup>
 ---
 
 ## Other years
+
+### 50 оттенков серого (серия)
+Э.Л.Джеймс
+> Прости Господи.
+
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
