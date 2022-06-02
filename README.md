@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>230</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>229</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>69</sup> 
 [](users/153/1537586159620888-facebook)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup> 
 
 
-_02.06.2022 10:37:30_
+_02.06.2022 10:39:21_
