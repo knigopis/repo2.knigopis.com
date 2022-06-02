@@ -1,4 +1,16 @@
 {
+    "HgWiOJ5msJ": {
+        "id": "HgWiOJ5msJ",
+        "title": "Алиса в стране чудес",
+        "author": "Льюис Кэрролл",
+        "notes": "",
+        "createdAt": "2022-06-02 23:30:23",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 25
+        }
+    },
     "ogPOw6vwdt": {
         "id": "ogPOw6vwdt",
         "title": "Мясная лавка в раю (сборник)",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 69
-        }
-    },
-    "dq4Tiiy_F_": {
-        "id": "dq4Tiiy_F_",
-        "title": "Борьба за жизнь, записки из скорой",
-        "author": "Лиза Уодлер",
-        "notes": "",
-        "createdAt": "2022-05-31 15:36:08",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 75
         }
     }
 }
