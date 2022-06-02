@@ -1,4 +1,16 @@
 {
+    "6hHCo8tluK": {
+        "id": "6hHCo8tluK",
+        "title": "Человек-невидимка",
+        "author": "Герберт Уэлс",
+        "notes": "",
+        "createdAt": "2022-06-02 23:01:07",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "YOwN_8ok5Q": {
         "id": "YOwN_8ok5Q",
         "title": "Дом в котором",
@@ -345,18 +357,6 @@
             "id": "105550558690336621150-google",
             "nickname": "Яков",
             "booksCount": 2
-        }
-    },
-    "ykVIAVuVoQ": {
-        "id": "ykVIAVuVoQ",
-        "title": "Дагон",
-        "author": "Г. Ф. Лавкрафт",
-        "notes": "",
-        "createdAt": "2022-05-27 13:54:41",
-        "user": {
-            "id": "105550558690336621150-google",
-            "nickname": "Яков",
-            "booksCount": 1
         }
     }
 }
