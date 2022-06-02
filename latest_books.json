@@ -1,4 +1,16 @@
 {
+    "jvrWsGpomf": {
+        "id": "jvrWsGpomf",
+        "title": "Хакеры сновидений",
+        "author": "Андрей Реутов",
+        "notes": "Про управление снами",
+        "createdAt": "2022-06-02 23:21:37",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "3FgNJe9LPU": {
         "id": "3FgNJe9LPU",
         "title": "Американский психопат",
@@ -345,18 +357,6 @@
             "id": "336375377-vkontakte",
             "nickname": "Bagi",
             "booksCount": 3
-        }
-    },
-    "H5YT97E-16": {
-        "id": "H5YT97E-16",
-        "title": "1984",
-        "author": "Джодж Оруэль",
-        "notes": "",
-        "createdAt": "2022-05-30 11:30:53",
-        "user": {
-            "id": "336375377-vkontakte",
-            "nickname": "Bagi",
-            "booksCount": 2
         }
     }
 }
