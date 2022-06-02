@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>36</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>37</sup>
 ---
 
 ## Other years
@@ -15,6 +15,10 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Сталкер: Дом на болоте
+Алексей Калугин
 
 
 ### Грозовой перевал
