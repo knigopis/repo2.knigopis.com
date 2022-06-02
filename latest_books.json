@@ -1,4 +1,16 @@
 {
+    "sT25o590qV": {
+        "id": "sT25o590qV",
+        "title": "Машина времени",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2022-06-02 23:02:08",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "6hHCo8tluK": {
         "id": "6hHCo8tluK",
         "title": "Человек-невидимка",
@@ -345,18 +357,6 @@
             "id": "105550558690336621150-google",
             "nickname": "Яков",
             "booksCount": 3
-        }
-    },
-    "HCjARvGEuh": {
-        "id": "HCjARvGEuh",
-        "title": "Храм",
-        "author": "Г. Ф. Лавкрафт",
-        "notes": "",
-        "createdAt": "2022-05-27 13:55:03",
-        "user": {
-            "id": "105550558690336621150-google",
-            "nickname": "Яков",
-            "booksCount": 2
         }
     }
 }
