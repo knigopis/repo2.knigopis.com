@@ -1,7 +1,11 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>6</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>7</sup>
 ---
 
 ## Other years
+
+### Голодные игры (серия)
+Сьюзен  Коллинз
+
 
 ### Гарри Поттер (серия)
 Джоан Роулинг
