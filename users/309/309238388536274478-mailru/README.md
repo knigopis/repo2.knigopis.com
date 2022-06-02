@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>29</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>30</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Страшная сказка  (СИ)
+Марфа Максимова
+> Про девушку-ведьму
 
 
 ### Числа (серия)
