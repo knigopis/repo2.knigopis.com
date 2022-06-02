@@ -1,4 +1,16 @@
 {
+    "4UJGL3J0lr": {
+        "id": "4UJGL3J0lr",
+        "title": "10 негритят",
+        "author": "Агата Кристи",
+        "notes": "❤",
+        "createdAt": "2022-06-02 23:18:29",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 18
+        }
+    },
     "FF_zCYnM33": {
         "id": "FF_zCYnM33",
         "title": "Песнь льда и пламени (серия)",
@@ -345,18 +357,6 @@
             "id": "336375377-vkontakte",
             "nickname": "Bagi",
             "booksCount": 1
-        }
-    },
-    "HdrcLO-eoM": {
-        "id": "HdrcLO-eoM",
-        "title": "Two By Two",
-        "author": "Nicholas Sparks",
-        "notes": "",
-        "createdAt": "2022-05-30 04:11:28",
-        "user": {
-            "id": "117396356938980769291-google",
-            "nickname": "Victoriaperfectum",
-            "booksCount": 12
         }
     }
 }
