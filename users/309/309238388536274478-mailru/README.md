@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>38</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>39</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Сталкер: Череп мутанта
+Виктор Ночкин
+> Про сталкера-дальтоника по прозвищу "Слепой"
 
 
 ### Сталкер: Слепое пятно
