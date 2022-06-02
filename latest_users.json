@@ -1,4 +1,10 @@
 {
+    "309238388536274478-mailru": {
+        "id": "309238388536274478-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-06-02 22:58:34"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-05-16 15:18:24"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 256,
-        "updatedAt": "2022-05-16 05:20:36"
     }
 }
