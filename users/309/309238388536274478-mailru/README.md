@@ -1,10 +1,15 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>18</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>19</sup>
 ---
 
 ## Other years
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Американский психопат
+Брет Истон Эллис
+> Мерзость.
 
 
 ### 10 негритят

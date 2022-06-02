@@ -1,4 +1,16 @@
 {
+    "3FgNJe9LPU": {
+        "id": "3FgNJe9LPU",
+        "title": "Американский психопат",
+        "author": "Брет Истон Эллис",
+        "notes": "Мерзость.",
+        "createdAt": "2022-06-02 23:19:41",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "4UJGL3J0lr": {
         "id": "4UJGL3J0lr",
         "title": "10 негритят",
@@ -345,18 +357,6 @@
             "id": "336375377-vkontakte",
             "nickname": "Bagi",
             "booksCount": 2
-        }
-    },
-    "tqRmBQLp5q": {
-        "id": "tqRmBQLp5q",
-        "title": "Мастер и Маргарита",
-        "author": "Булгаков",
-        "notes": "",
-        "createdAt": "2022-05-30 11:30:31",
-        "user": {
-            "id": "336375377-vkontakte",
-            "nickname": "Bagi",
-            "booksCount": 1
         }
     }
 }
