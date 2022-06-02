@@ -1,4 +1,16 @@
 {
+    "SVNirOBlq4": {
+        "id": "SVNirOBlq4",
+        "title": "Хроника убийцы короля: Страхи мудреца",
+        "author": "Патрик Ротфусс",
+        "notes": "2я книга трилогии",
+        "createdAt": "2022-06-02 23:46:42",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 32
+        }
+    },
     "V-_Fed6act": {
         "id": "V-_Fed6act",
         "title": "Хроника убийцы короля: Имя ветра",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "6hHCo8tluK": {
-        "id": "6hHCo8tluK",
-        "title": "Человек-невидимка",
-        "author": "Герберт Уэлс",
-        "notes": "",
-        "createdAt": "2022-06-02 23:01:07",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }

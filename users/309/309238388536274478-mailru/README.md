@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>31</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>32</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Хроника убийцы короля: Страхи мудреца
+Патрик Ротфусс
+> 2я книга трилогии
 
 
 ### Хроника убийцы короля: Имя ветра
