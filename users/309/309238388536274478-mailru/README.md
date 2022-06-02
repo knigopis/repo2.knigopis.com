@@ -1,14 +1,11 @@
 # List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>4</sup>
 ---
 
-## 2022
+## Other years
 
 ### Робинзон Крузо
 Даниель Дефо
 
-
-
-## Other years
 
 ### Машина времени
 Герберт Уэллс
