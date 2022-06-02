@@ -1,4 +1,16 @@
 {
+    "aFy8HvjKXB": {
+        "id": "aFy8HvjKXB",
+        "title": "Таймлесс (серия)",
+        "author": "Керстин Гир",
+        "notes": "",
+        "createdAt": "2022-06-02 23:15:50",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "eZeLFFLnE7": {
         "id": "eZeLFFLnE7",
         "title": "Вечность",
@@ -345,18 +357,6 @@
             "id": "117396356938980769291-google",
             "nickname": "Victoriaperfectum",
             "booksCount": 11
-        }
-    },
-    "EY6Riy-LaK": {
-        "id": "EY6Riy-LaK",
-        "title": "Всеобщая история. История Нового времени. 8 класс",
-        "author": "В. А. Ведюшкин, С. Н. Бурин",
-        "notes": "",
-        "createdAt": "2022-05-29 22:37:37",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 204
         }
     }
 }
