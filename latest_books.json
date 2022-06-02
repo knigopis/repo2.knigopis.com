@@ -1,4 +1,16 @@
 {
+    "RR-89q5w8S": {
+        "id": "RR-89q5w8S",
+        "title": "Девушка в поезде",
+        "author": "Пола Хокинс",
+        "notes": "Хороший детектив",
+        "createdAt": "2022-06-02 23:28:00",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 23
+        }
+    },
     "ZNmY6aZw1I": {
         "id": "ZNmY6aZw1I",
         "title": "50 оттенков серого (серия)",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 36
-        }
-    },
-    "db_pgMJ4pp": {
-        "id": "db_pgMJ4pp",
-        "title": "Возвращение чародея",
-        "author": "Кларк Эштон Смит",
-        "notes": "",
-        "createdAt": "2022-05-31 11:00:32",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 227
         }
     }
 }
