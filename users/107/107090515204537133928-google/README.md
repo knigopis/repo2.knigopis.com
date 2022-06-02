@@ -1,15 +1,10 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>230</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>229</sup>
 ---
 
 ## 2022
 
 ### Коляска
 Николай Гоголь
-> [2022-06-02] 
-
-
-### Двадцать тысяч лье под водой
-Жюль Верн
 > [2022-06-02] 
 
 
