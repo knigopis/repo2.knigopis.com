@@ -1,4 +1,16 @@
 {
+    "8XU47hWaBR": {
+        "id": "8XU47hWaBR",
+        "title": "Превращение",
+        "author": "Мэгги Стивотер",
+        "notes": "Про оборотней. 2я книга серии",
+        "createdAt": "2022-06-02 23:14:22",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 14
+        }
+    },
     "b_sA4mg2ed": {
         "id": "b_sA4mg2ed",
         "title": "Дрожь",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 68
-        }
-    },
-    "Huqcc36xZr": {
-        "id": "Huqcc36xZr",
-        "title": "Соловей",
-        "author": "Г. Х. Андерсен",
-        "notes": "",
-        "createdAt": "2022-05-29 19:33:38",
-        "user": {
-            "id": "5175580462988229760-mailru",
-            "nickname": "Triste",
-            "booksCount": 61
         }
     }
 }
