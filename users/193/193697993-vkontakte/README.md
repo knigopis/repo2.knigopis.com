@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>69</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>70</sup>
 ---
 
 ## 2022
+
+### Проклятый эксперимент. Бонна
+Вера Чиркова
+> [2022-06-02] 
+
 
 ### Свадьба отменяется. Книга третья. Помолвка
 Вера Чиркова

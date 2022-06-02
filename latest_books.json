@@ -1,4 +1,16 @@
 {
+    "CNWvbWel_n": {
+        "id": "CNWvbWel_n",
+        "title": "Проклятый эксперимент. Бонна",
+        "author": "Вера Чиркова",
+        "notes": "",
+        "createdAt": "2022-06-02 18:47:30",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 70
+        }
+    },
     "XSChzYdOvi": {
         "id": "XSChzYdOvi",
         "title": "Коляска",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 224
-        }
-    },
-    "qWVHYNlOk2": {
-        "id": "qWVHYNlOk2",
-        "title": "Спячка",
-        "author": "Аластер Рейнолдс",
-        "notes": "",
-        "createdAt": "2022-05-27 08:48:16",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 223
         }
     }
 }
