@@ -1,4 +1,4 @@
-# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>50</sup>
+# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>51</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Коллекционер
+Джон Фаулз
+> Мужчина выйграл в лотерею, купил дом, обустроил подвал и выкрал девушку, в которую был влюблён
 
 
 ### Ходячий замок
