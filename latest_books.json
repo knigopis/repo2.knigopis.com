@@ -1,4 +1,16 @@
 {
+    "DhBoDkoQoM": {
+        "id": "DhBoDkoQoM",
+        "title": "Трудно быть богом",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2022-06-03 09:32:10",
+        "user": {
+            "id": "102279838587751261747-google",
+            "nickname": "2691",
+            "booksCount": 2
+        }
+    },
     "dJSxAYTWXE": {
         "id": "dJSxAYTWXE",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 29
-        }
-    },
-    "DfRJHI_Ymf": {
-        "id": "DfRJHI_Ymf",
-        "title": "Последнее правило",
-        "author": "Джоди Пиколт",
-        "notes": "Детектив про парня с синдромом Аспергера",
-        "createdAt": "2022-06-02 23:38:47",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 28
         }
     }
 }
