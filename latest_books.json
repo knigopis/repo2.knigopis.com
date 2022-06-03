@@ -1,4 +1,16 @@
 {
+    "wS8i4umSBZ": {
+        "id": "wS8i4umSBZ",
+        "title": "Проклятый эксперимент. Магиня",
+        "author": "Вера Чиркова",
+        "notes": "",
+        "createdAt": "2022-06-03 18:31:07",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 71
+        }
+    },
     "DhBoDkoQoM": {
         "id": "DhBoDkoQoM",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 30
-        }
-    },
-    "UionRYZZI5": {
-        "id": "UionRYZZI5",
-        "title": "Числа (серия)",
-        "author": "Рэйчел Уорд",
-        "notes": "Девушка видит даты смерти в глазах людей",
-        "createdAt": "2022-06-02 23:40:51",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 29
         }
     }
 }

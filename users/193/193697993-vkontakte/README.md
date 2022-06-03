@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>70</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>71</sup>
 ---
 
 ## 2022
+
+### Проклятый эксперимент. Магиня
+Вера Чиркова
+> [2022-06-03] 
+
 
 ### Проклятый эксперимент. Бонна
 Вера Чиркова
