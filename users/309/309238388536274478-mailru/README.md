@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>45</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>46</sup>
 ---
 
 ## Other years
@@ -15,6 +15,10 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Повелитель мух
+Уильям Голдинг
 
 
 ### Лекарство от смерти

@@ -1,4 +1,16 @@
 {
+    "b89fsGCN0j": {
+        "id": "b89fsGCN0j",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2022-06-03 00:14:00",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": null,
+            "booksCount": 46
+        }
+    },
     "AzNdv0WJDP": {
         "id": "AzNdv0WJDP",
         "title": "Лекарство от смерти",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "aFy8HvjKXB": {
-        "id": "aFy8HvjKXB",
-        "title": "Таймлесс (серия)",
-        "author": "Керстин Гир",
-        "notes": "",
-        "createdAt": "2022-06-02 23:15:50",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 16
         }
     }
 }
