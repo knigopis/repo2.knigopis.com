@@ -1,4 +1,4 @@
-# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>55</sup>
+# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>56</sup>
 ---
 
 ## Other years
@@ -20,6 +20,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Похищенная
+Чкви Стивенс
+> Девушку риелтора похищает маньяк
 
 
 ### Продана
