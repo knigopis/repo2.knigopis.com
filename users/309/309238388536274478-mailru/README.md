@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>43</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>44</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Бегущий в лабиринте
+Джеймс Дэшнер
+> 1я книга серии
 
 
 ### Город пустых
