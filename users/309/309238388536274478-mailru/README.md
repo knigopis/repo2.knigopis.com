@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>39</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>40</sup>
 ---
 
 ## Other years
@@ -15,6 +15,10 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Человек-амфибия
+Александр Беляев
 
 
 ### Сталкер: Череп мутанта
