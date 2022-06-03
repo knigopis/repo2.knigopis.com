@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>40</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>41</sup>
 ---
 
 ## Other years
@@ -15,6 +15,10 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Сталкер: По прозвищу Стрелка
+Сергей Пирог
 
 
 ### Человек-амфибия
