@@ -1,4 +1,16 @@
 {
+    "74KvjZAP1P": {
+        "id": "74KvjZAP1P",
+        "title": "Записки проститутки Кэт",
+        "author": "Екатерина Безымянная",
+        "notes": "Лёгкие весёлые рассказы",
+        "createdAt": "2022-06-03 00:41:32",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": "111",
+            "booksCount": 54
+        }
+    },
     "oFxTuSN2Zs": {
         "id": "oFxTuSN2Zs",
         "title": "У меня нет рта, но я должен кричать",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 25
-        }
-    },
-    "ogPOw6vwdt": {
-        "id": "ogPOw6vwdt",
-        "title": "Мясная лавка в раю (сборник)",
-        "author": "Джеймс Хэвок",
-        "notes": "Редкостной мерзости и бессмысленности сборник",
-        "createdAt": "2022-06-02 23:28:45",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 24
         }
     }
 }
