@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>44</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>45</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Лекарство от смерти
+Джеймс Дэшнер
+> 2я книга серии Бегущий в лабиринте
 
 
 ### Бегущий в лабиринте
