@@ -1,7 +1,12 @@
-# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>51</sup>
+# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>52</sup>
 ---
 
 ## Other years
+
+### Парень и его пёс
+Характер Эллисон
+> Постапокалиптическая ерунда
+
 
 ### Девушка в поезде
 Пола Хокинс
