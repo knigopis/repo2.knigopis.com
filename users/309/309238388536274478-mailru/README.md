@@ -1,4 +1,4 @@
-# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>52</sup>
+# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>53</sup>
 ---
 
 ## Other years
@@ -20,6 +20,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### У меня нет рта, но я должен кричать
+Харлан Элиссон
+> Про ИИ
 
 
 ### Коллекционер
