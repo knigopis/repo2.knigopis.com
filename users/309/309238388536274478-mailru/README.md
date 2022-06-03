@@ -1,4 +1,4 @@
-# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>54</sup>
+# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>55</sup>
 ---
 
 ## Other years
@@ -20,6 +20,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Продана
+Вера Эфрон
+> Русская девушка, попавшая в сексуальное рабство
 
 
 ### Записки проститутки Кэт
