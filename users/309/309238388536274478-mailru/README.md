@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>42</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>43</sup>
 ---
 
 ## Other years
@@ -15,6 +15,10 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Город пустых
+Рейсом Риггс
 
 
 ### Дом странных детей
