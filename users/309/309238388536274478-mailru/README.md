@@ -1,4 +1,4 @@
-# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>59</sup>
+# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>60</sup>
 ---
 
 ## Other years
@@ -20,6 +20,10 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Вероника решает умереть
+Пахло Коэльо
 
 
 ### Прежде, чем я упаду
