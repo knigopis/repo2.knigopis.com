@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>48</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>49</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Сто лет одиночества
+Габриэль Гарсия Маркес
+> Дико скучно-нудная херабора
 
 
 ### Виноваты звёзды
