@@ -1,4 +1,16 @@
 {
+    "0mi8TirlQP": {
+        "id": "0mi8TirlQP",
+        "title": "Как избавиться от наследства",
+        "author": "Надежда Мамаева",
+        "notes": "",
+        "createdAt": "2022-06-03 19:18:58",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 336
+        }
+    },
     "wS8i4umSBZ": {
         "id": "wS8i4umSBZ",
         "title": "Проклятый эксперимент. Магиня",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 31
-        }
-    },
-    "-QCT1Zetlo": {
-        "id": "-QCT1Zetlo",
-        "title": "Страшная сказка  (СИ)",
-        "author": "Марфа Максимова",
-        "notes": "Про девушку-ведьму",
-        "createdAt": "2022-06-02 23:42:55",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 30
         }
     }
 }
