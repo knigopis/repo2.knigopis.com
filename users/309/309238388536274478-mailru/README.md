@@ -1,4 +1,4 @@
-# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>41</sup>
+# List of books read by [](https://my.mail.ru/mail/bytyavka94/)<sup>42</sup>
 ---
 
 ## Other years
@@ -15,6 +15,11 @@
 
 ### Голодные игры (серия)
 Сьюзен  Коллинз
+
+
+### Дом странных детей
+Ренсом Риггс
+> 1я книга серии
 
 
 ### Сталкер: По прозвищу Стрелка
