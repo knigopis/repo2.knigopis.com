@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>142</sup>
+# List of books read by danyluk62<sup>143</sup>
 ---
 
 ## 2022
+
+### Батальон «Донбас». Записки добровольца
+Ігор Родін
+> [2022-05] 
+
 
 ### Гопники
 Владимир Козлов

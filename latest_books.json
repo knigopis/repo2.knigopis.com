@@ -1,4 +1,16 @@
 {
+    "xHrKZY_7SX": {
+        "id": "xHrKZY_7SX",
+        "title": "Батальон «Донбас». Записки добровольца",
+        "author": "Ігор Родін",
+        "notes": "",
+        "createdAt": "2022-06-04 00:42:57",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 143
+        }
+    },
     "1K5fxKAaah": {
         "id": "1K5fxKAaah",
         "title": "Вероника решает умереть",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 36
-        }
-    },
-    "X__Qiq4PTU": {
-        "id": "X__Qiq4PTU",
-        "title": "Данфейт (СИ)",
-        "author": "Даниила Зея Рэй",
-        "notes": "",
-        "createdAt": "2022-06-02 23:53:30",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 35
         }
     }
 }

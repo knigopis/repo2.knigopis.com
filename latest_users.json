@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 143,
+        "updatedAt": "2022-06-04 00:42:57"
+    },
     "309238388536274478-mailru": {
         "id": "309238388536274478-mailru",
         "nickname": "111",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 326,
         "updatedAt": "2022-05-18 05:48:11"
-    },
-    "590481280-vkontakte": {
-        "id": "590481280-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-05-17 20:22:19"
     }
 }
