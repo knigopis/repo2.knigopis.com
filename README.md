@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110108278789076439525-google)<sup>13</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>145</sup> 
 [111](users/309/309238388536274478-mailru)<sup>60</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>336</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Occasio](users/114/114033154327786537076-google)<sup>2</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>143</sup> 
 [pria](users/128/128917939-vkontakte)<sup>63</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>326</sup> 
 
 
-_04.06.2022 00:47:50_
+_04.06.2022 10:22:28_
