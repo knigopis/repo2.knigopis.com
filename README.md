@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>927</sup> 
 [](users/110/110108278789076439525-google)<sup>13</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>145</sup> 
 [111](users/309/309238388536274478-mailru)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100097069456712612136-google)<sup>0</sup> 
 [Occasio](users/114/114033154327786537076-google)<sup>2</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>143</sup> 
-[pria](users/128/128917939-vkontakte)<sup>63</sup> 
 
 
-_04.06.2022 10:22:28_
+_04.06.2022 19:22:43_
