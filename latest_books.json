@@ -1,4 +1,16 @@
 {
+    "wsvKzxLriw": {
+        "id": "wsvKzxLriw",
+        "title": "Крихка Імперія. Як Росія полюбила і розлюбила Владіміра Путіна",
+        "author": "Бен Джуда",
+        "notes": "",
+        "createdAt": "2022-06-04 00:45:34",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 144
+        }
+    },
     "xHrKZY_7SX": {
         "id": "xHrKZY_7SX",
         "title": "Батальон «Донбас». Записки добровольца",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 37
-        }
-    },
-    "krhfJiTmJB": {
-        "id": "krhfJiTmJB",
-        "title": "Грозовой перевал",
-        "author": "Эмили Бронте",
-        "notes": "",
-        "createdAt": "2022-06-02 23:54:22",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 36
         }
     }
 }
