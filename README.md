@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slava_kite](users/134/134671934-vkontakte)<sup>11</sup> 
 [](users/101/101095046496982153936-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>927</sup> 
 [](users/110/110108278789076439525-google)<sup>13</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/105/105550558690336621150-google)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>199</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>81</sup> 
-[slava_kite](users/134/134671934-vkontakte)<sup>10</sup> 
 [Noentrego](users/117/117044164287670732330-google)<sup>0</sup> 
 [Лёля](users/116/116548990352210245412-google)<sup>1</sup> 
 [](users/100/1001822779-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Occasio](users/114/114033154327786537076-google)<sup>2</sup> 
 
 
-_05.06.2022 07:42:03_
+_06.06.2022 00:33:22_

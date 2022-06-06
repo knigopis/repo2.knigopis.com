@@ -1,4 +1,10 @@
 {
+    "134671934-vkontakte": {
+        "id": "134671934-vkontakte",
+        "nickname": "slava_kite",
+        "booksCount": 11,
+        "updatedAt": "2022-06-06 00:33:22"
+    },
     "101095046496982153936-google": {
         "id": "101095046496982153936-google",
         "nickname": null,
@@ -130,12 +136,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 81,
         "updatedAt": "2022-05-26 07:47:44"
-    },
-    "134671934-vkontakte": {
-        "id": "134671934-vkontakte",
-        "nickname": "slava_kite",
-        "booksCount": 10,
-        "updatedAt": "2022-05-24 22:39:42"
     },
     "117044164287670732330-google": {
         "id": "117044164287670732330-google",

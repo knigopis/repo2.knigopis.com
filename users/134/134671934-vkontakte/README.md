@@ -1,7 +1,12 @@
-# List of books read by [slava_kite](http://vk.com/id134671934)<sup>10</sup>
+# List of books read by [slava_kite](http://vk.com/id134671934)<sup>11</sup>
 ---
 
 ## 2022
+
+### Веселый солдат
+Виктор Астафьев
+> [2022-06-06] 
+
 
 ### Воспоминания о войне
 Никулин

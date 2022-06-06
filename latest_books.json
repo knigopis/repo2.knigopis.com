@@ -1,4 +1,16 @@
 {
+    "R8POL4yMxm": {
+        "id": "R8POL4yMxm",
+        "title": "Веселый солдат",
+        "author": "Виктор Астафьев",
+        "notes": "",
+        "createdAt": "2022-06-06 00:33:22",
+        "user": {
+            "id": "134671934-vkontakte",
+            "nickname": "slava_kite",
+            "booksCount": 11
+        }
+    },
     "HdQXzTPBBa": {
         "id": "HdQXzTPBBa",
         "title": "Сто лет и чемодан денег в придачу",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 41
-        }
-    },
-    "et-fzsyz52": {
-        "id": "et-fzsyz52",
-        "title": "Человек-амфибия",
-        "author": "Александр Беляев",
-        "notes": "",
-        "createdAt": "2022-06-03 00:01:00",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 40
         }
     }
 }
