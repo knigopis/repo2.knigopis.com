@@ -1,4 +1,10 @@
 {
+    "269376442-vkontakte": {
+        "id": "269376442-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-06-06 07:40:30"
+    },
     "134671934-vkontakte": {
         "id": "134671934-vkontakte",
         "nickname": "slava_kite",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-05-19 17:51:17"
-    },
-    "114033154327786537076-google": {
-        "id": "114033154327786537076-google",
-        "nickname": "Occasio",
-        "booksCount": 2,
-        "updatedAt": "2022-05-19 16:09:11"
     }
 }
