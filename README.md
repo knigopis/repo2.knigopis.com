@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/269/269376442-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>11</sup> 
 [](users/101/101095046496982153936-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>927</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anyro](users/114/114881333859552166326-google)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup> 
 [](users/100/100097069456712612136-google)<sup>0</sup> 
-[Occasio](users/114/114033154327786537076-google)<sup>2</sup> 
 
 
-_06.06.2022 00:33:22_
+_06.06.2022 07:40:30_
