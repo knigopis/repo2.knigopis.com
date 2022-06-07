@@ -1,5 +1,12 @@
-# List of books read by Elixir<sup>434</sup>
+# List of books read by Elixir<sup>435</sup>
 ---
+
+## 2022
+
+### Радикальное прощение
+Типпинг Колин
+
+
 
 ## 2021
 

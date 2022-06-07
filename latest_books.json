@@ -1,4 +1,16 @@
 {
+    "un6bMC6hPI": {
+        "id": "un6bMC6hPI",
+        "title": "Радикальное прощение",
+        "author": "Типпинг Колин",
+        "notes": "",
+        "createdAt": "2022-06-07 13:43:57",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 435
+        }
+    },
     "R8POL4yMxm": {
         "id": "R8POL4yMxm",
         "title": "Веселый солдат",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 42
-        }
-    },
-    "7KaVrq09lz": {
-        "id": "7KaVrq09lz",
-        "title": "Сталкер: По прозвищу Стрелка",
-        "author": "Сергей Пирог",
-        "notes": "",
-        "createdAt": "2022-06-03 00:02:08",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 41
         }
     }
 }
