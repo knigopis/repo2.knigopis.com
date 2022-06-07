@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>229</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>230</sup>
 ---
 
 ## 2022
+
+### Семнадцать мгновений весны
+Юлиан Семенов
+> [2022-06-07] 
+
 
 ### Коляска
 Николай Гоголь
