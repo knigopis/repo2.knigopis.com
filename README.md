@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>37</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>230</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>144</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>436</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup> 
 [](users/153/1537586159620888-facebook)<sup>75</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>36</sup> 
 [Bagi](users/336/336375377-vkontakte)<sup>3</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>12</sup> 
 [](users/101/101993023995003150366-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anyro](users/114/114881333859552166326-google)<sup>1</sup> 
 
 
-_07.06.2022 16:35:07_
+_07.06.2022 18:15:37_

@@ -1,7 +1,12 @@
-# List of books read by [tututu](http://vk.com/id135685382)<sup>36</sup>
+# List of books read by [tututu](http://vk.com/id135685382)<sup>37</sup>
 ---
 
 ## 2022
+
+### 45 татуировок менеджера
+Максим Батырев
+> [2022-06-05] 
+
 
 ### Как не умереть молодым
 Алексей Решетун
