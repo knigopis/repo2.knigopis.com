@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>435</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>436</sup> 
 [](users/269/269376442-vkontakte)<sup>0</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>11</sup> 
 [](users/101/101095046496982153936-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup> 
 
 
-_07.06.2022 13:43:57_
+_07.06.2022 13:44:19_
