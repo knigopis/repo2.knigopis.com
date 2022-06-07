@@ -1,4 +1,16 @@
 {
+    "LyebGRe1RP": {
+        "id": "LyebGRe1RP",
+        "title": "Доктор Гарин",
+        "author": "В. Сорокин",
+        "notes": "",
+        "createdAt": "2022-06-07 15:11:34",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 144
+        }
+    },
     "tMbDbixvhR": {
         "id": "tMbDbixvhR",
         "title": "Еда для радости. Записки диетолога",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 44
-        }
-    },
-    "DX0SEsq4pm": {
-        "id": "DX0SEsq4pm",
-        "title": "Город пустых",
-        "author": "Рейсом Риггс",
-        "notes": "",
-        "createdAt": "2022-06-03 00:10:17",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 43
         }
     }
 }

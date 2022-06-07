@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>143</sup>
+# List of books read by 4apa<sup>144</sup>
 ---
 
 ## 2022
+
+### Доктор Гарин
+В. Сорокин
+> [2022-06-07] 
+
 
 ### Башня из грязи и веток
 Я. Барсуков
