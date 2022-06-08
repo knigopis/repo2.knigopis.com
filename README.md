@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>267</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>37</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>230</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>144</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Noentrego](users/117/117044164287670732330-google)<sup>0</sup> 
 [Лёля](users/116/116548990352210245412-google)<sup>1</sup> 
 [](users/100/1001822779-yandex)<sup>0</sup> 
-[Anyro](users/114/114881333859552166326-google)<sup>1</sup> 
 
 
-_07.06.2022 18:15:37_
+_08.06.2022 02:25:19_
