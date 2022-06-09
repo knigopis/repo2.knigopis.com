@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[111](users/309/309238388536274478-mailru)<sup>61</sup> 
+[111](users/309/309238388536274478-mailru)<sup>60</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>160</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>267</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/1001822779-yandex)<sup>0</sup> 
 
 
-_09.06.2022 07:16:43_
+_09.06.2022 07:17:47_
