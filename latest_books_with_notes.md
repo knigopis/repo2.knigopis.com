@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
 * Академия элитных магов ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup>
 * Невероятное. История преступления, в которое никто не поверил ~ [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup>
 * Until the End of Time ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup>
@@ -30,7 +31,6 @@
 * Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 * 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
 * Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
-* Чувство стыда: Как перестать бояться быть неправильно воспринятым ~ [albina_untiring](users/257/2579695-vkontakte)<sup>31</sup>
 
 
-_01.06.2022 12:20:31_
+_09.06.2022 07:21:44_

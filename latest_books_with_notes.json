@@ -1,4 +1,16 @@
 {
+    "5QXdhOwVrq": {
+        "id": "5QXdhOwVrq",
+        "title": "Book of Hours: Love Poems to God",
+        "author": "Rainer Maria Rilke",
+        "notes": "Fav.",
+        "createdAt": "2022-06-09 07:21:44",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 62
+        }
+    },
     "V0SqhrY91x": {
         "id": "V0SqhrY91x",
         "title": "Академия элитных магов",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 61
-        }
-    },
-    "6HnkYNrbXN": {
-        "id": "6HnkYNrbXN",
-        "title": "Чувство стыда: Как перестать бояться быть неправильно воспринятым",
-        "author": "Илсе Санд",
-        "notes": "Все так! Очень актуально в данное время - почему люди стыдятся проявлять агрессию при отстаивании своих интересов",
-        "createdAt": "2022-04-17 11:08:41",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 31
         }
     }
 }

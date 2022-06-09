@@ -1,4 +1,16 @@
 {
+    "5QXdhOwVrq": {
+        "id": "5QXdhOwVrq",
+        "title": "Book of Hours: Love Poems to God",
+        "author": "Rainer Maria Rilke",
+        "notes": "Fav.",
+        "createdAt": "2022-06-09 07:21:44",
+        "user": {
+            "id": "5175580462988229760-mailru",
+            "nickname": "Triste",
+            "booksCount": 62
+        }
+    },
     "oDaTtRKsZh": {
         "id": "oDaTtRKsZh",
         "title": "Если я останусь",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": null,
             "booksCount": 49
-        }
-    },
-    "p0BPS6Os8w": {
-        "id": "p0BPS6Os8w",
-        "title": "Виноваты звёзды",
-        "author": "Джон Грин",
-        "notes": "Любовь двух смертельно больных подростков",
-        "createdAt": "2022-06-03 00:15:37",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": null,
-            "booksCount": 48
         }
     }
 }

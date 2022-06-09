@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
+    > Fav.
+
 * Академия элитных магов ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup>
     > Кто мог подумать, что меня примут в Академию элитных магов? Уж точно не я. Родители умерли, из женского пансиона выгнали со свистом, да и работа у меня, прямо скажем, незавидная. Но все изменилось в один миг, когда на пороге новой жизни показался он. Ректор Академии святого Клотильда. Уж не знаю как, но он почувствовал во мне сильную магию… А еще я стану темой курсовой работы принца, обзаведусь друзьями и врагами и даже буду участвовать в ежегодных магических межуниверситетских соревнованиях.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > надо посмотреть сериал
 
 * Until the End of Time ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup>
-    > 5*5
 
 * Охота на Ботаника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>158</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Возвращение в Брайдсхед ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup>
 
-* К югу от солнца, к западу от границы ~ [eva](users/111/111656270551033014778-google)<sup>130</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Triste](users/517/5175580462988229760-mailru)<sup>62</sup> 
 [111](users/309/309238388536274478-mailru)<sup>60</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>160</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>267</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>12</sup> 
 [](users/101/101993023995003150366-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
-[Triste](users/517/5175580462988229760-mailru)<sup>61</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
 [Яков](users/105/105550558690336621150-google)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>199</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/1001822779-yandex)<sup>0</sup> 
 
 
-_09.06.2022 07:17:47_
+_09.06.2022 07:21:44_
