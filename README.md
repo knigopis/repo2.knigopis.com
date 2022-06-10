@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>146</sup> 
 [](users/101/101923253879668330026-google)<sup>13</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>62</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101095046496982153936-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>927</sup> 
 [](users/110/110108278789076439525-google)<sup>13</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>145</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>336</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>71</sup> 
 [2691](users/102/102279838587751261747-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Noentrego](users/117/117044164287670732330-google)<sup>0</sup> 
 
 
-_10.06.2022 15:33:38_
+_10.06.2022 15:47:39_
