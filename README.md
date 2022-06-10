@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>62</sup> 
 [111](users/309/309238388536274478-mailru)<sup>60</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>160</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>81</sup> 
 [Noentrego](users/117/117044164287670732330-google)<sup>0</sup> 
 [Лёля](users/116/116548990352210245412-google)<sup>1</sup> 
-[](users/100/1001822779-yandex)<sup>0</sup> 
 
 
-_09.06.2022 07:21:44_
+_10.06.2022 09:17:30_
