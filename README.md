@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Варлорд 1 книга Темный пакт ~ [](users/101/101923253879668330026-google)<sup>13</sup>
+    > Прочитал 1 книгу, 2 не зашал
+
 * Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
     > Fav.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кто мог подумать, что меня примут в Академию элитных магов? Уж точно не я. Родители умерли, из женского пансиона выгнали со свистом, да и работа у меня, прямо скажем, незавидная. Но все изменилось в один миг, когда на пороге новой жизни показался он. Ректор Академии святого Клотильда. Уж не знаю как, но он почувствовал во мне сильную магию… А еще я стану темой курсовой работы принца, обзаведусь друзьями и врагами и даже буду участвовать в ежегодных магических межуниверситетских соревнованиях.
 
 * Невероятное. История преступления, в которое никто не поверил ~ [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup>
-    > надо посмотреть сериал
 
 * Until the End of Time ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дом в котором... ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup>
 
-* Возвращение в Брайдсхед ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101923253879668330026-google)<sup>13</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>62</sup> 
 [111](users/309/309238388536274478-mailru)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>199</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>81</sup> 
 [Noentrego](users/117/117044164287670732330-google)<sup>0</sup> 
-[Лёля](users/116/116548990352210245412-google)<sup>1</sup> 
 
 
-_10.06.2022 09:17:30_
+_10.06.2022 15:33:38_

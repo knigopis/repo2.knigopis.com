@@ -1,4 +1,10 @@
 {
+    "101923253879668330026-google": {
+        "id": "101923253879668330026-google",
+        "nickname": null,
+        "booksCount": 13,
+        "updatedAt": "2022-06-10 15:33:38"
+    },
     "106107989792957993574-google": {
         "id": "106107989792957993574-google",
         "nickname": "Мирослава",
@@ -172,11 +178,5 @@
         "nickname": "Noentrego",
         "booksCount": 0,
         "updatedAt": "2022-05-24 18:12:42"
-    },
-    "116548990352210245412-google": {
-        "id": "116548990352210245412-google",
-        "nickname": "Лёля",
-        "booksCount": 1,
-        "updatedAt": "2022-05-24 10:46:40"
     }
 }

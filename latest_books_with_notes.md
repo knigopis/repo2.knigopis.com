@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Варлорд 1 книга Темный пакт ~ [](users/101/101923253879668330026-google)<sup>13</sup>
 * Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
 * Академия элитных магов ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup>
 * Невероятное. История преступления, в которое никто не поверил ~ [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Вторая жизнь Уве ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>199</sup>
 * Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 * 3001. Последняя одиссея ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>252</sup>
-* Чочара ~ [Вит](users/300/300273923-vkontakte)<sup>61</sup>
 
 
-_09.06.2022 07:21:44_
+_10.06.2022 15:33:38_
