@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дивергент ~ [111](users/309/309238388536274478-mailru)<sup>61</sup>
+    > 1я книга серии
+
 * Варлорд 1 книга Темный пакт ~ [](users/101/101923253879668330026-google)<sup>13</sup>
     > Прочитал 1 книгу, 2 не зашал
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Fav.
 
 * Академия элитных магов ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup>
-    > Кто мог подумать, что меня примут в Академию элитных магов? Уж точно не я. Родители умерли, из женского пансиона выгнали со свистом, да и работа у меня, прямо скажем, незавидная. Но все изменилось в один миг, когда на пороге новой жизни показался он. Ректор Академии святого Клотильда. Уж не знаю как, но он почувствовал во мне сильную магию… А еще я стану темой курсовой работы принца, обзаведусь друзьями и врагами и даже буду участвовать в ежегодных магических межуниверситетских соревнованиях.
 
 * Невероятное. История преступления, в которое никто не поверил ~ [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ребека ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup>
 
-* Дом в котором... ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[111](users/309/309238388536274478-mailru)<sup>61</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>928</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101923253879668330026-google)<sup>13</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>62</sup> 
-[111](users/309/309238388536274478-mailru)<sup>60</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>160</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>267</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
 
 
-_11.06.2022 20:05:44_
+_11.06.2022 20:43:40_
