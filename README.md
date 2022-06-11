@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 127 часов. Между молотом и наковальней ~ [111](users/309/309238388536274478-mailru)<sup>64</sup>
+    > Альпинист застрял, отрезал себе в итоге руку
+
 * Эллигент ~ [111](users/309/309238388536274478-mailru)<sup>63</sup>
     > 3я книга серии (Дивергент)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 2я книга серии  (Дивергент)
 
 * Дивергент ~ [111](users/309/309238388536274478-mailru)<sup>61</sup>
-    > 1я книга серии
 
 * Варлорд 1 книга Темный пакт ~ [](users/101/101923253879668330026-google)<sup>13</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Охота на Ботаника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>158</sup>
 
-* Властелин колец. Возвращение Короля. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[111](users/309/309238388536274478-mailru)<sup>63</sup> 
+[111](users/309/309238388536274478-mailru)<sup>64</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>928</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
 
 
-_11.06.2022 20:44:51_
+_11.06.2022 20:47:00_
