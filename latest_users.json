@@ -1,4 +1,10 @@
 {
+    "100759961280206170633-google": {
+        "id": "100759961280206170633-google",
+        "nickname": "rakahosha",
+        "booksCount": 0,
+        "updatedAt": "2022-06-11 02:15:37"
+    },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",
         "nickname": "danyluk62",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 81,
         "updatedAt": "2022-05-26 07:47:44"
-    },
-    "117044164287670732330-google": {
-        "id": "117044164287670732330-google",
-        "nickname": "Noentrego",
-        "booksCount": 0,
-        "updatedAt": "2022-05-24 18:12:42"
     }
 }
