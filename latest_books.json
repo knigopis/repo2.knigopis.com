@@ -1,4 +1,16 @@
 {
+    "WGSfHZe4hY": {
+        "id": "WGSfHZe4hY",
+        "title": "Дело об одноглазом свидетеле",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-06-11 15:19:24",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 928
+        }
+    },
     "SNtBQ77pJf": {
         "id": "SNtBQ77pJf",
         "title": "The Next 100 Years: A Forecast for the 21st Century",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": "111",
             "booksCount": 54
-        }
-    },
-    "oFxTuSN2Zs": {
-        "id": "oFxTuSN2Zs",
-        "title": "У меня нет рта, но я должен кричать",
-        "author": "Харлан Элиссон",
-        "notes": "Про ИИ",
-        "createdAt": "2022-06-03 00:39:47",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": "111",
-            "booksCount": 53
         }
     }
 }
