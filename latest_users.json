@@ -1,4 +1,10 @@
 {
+    "113407984384376187261-google": {
+        "id": "113407984384376187261-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-06-11 10:12:06"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Яков",
         "booksCount": 7,
         "updatedAt": "2022-05-27 13:57:54"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 81,
-        "updatedAt": "2022-05-26 07:47:44"
     }
 }
