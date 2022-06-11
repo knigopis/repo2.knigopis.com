@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 200,
+        "updatedAt": "2022-06-11 08:49:20"
+    },
     "100759961280206170633-google": {
         "id": "100759961280206170633-google",
         "nickname": "rakahosha",
@@ -166,12 +172,6 @@
         "nickname": "Яков",
         "booksCount": 7,
         "updatedAt": "2022-05-27 13:57:54"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 199,
-        "updatedAt": "2022-05-27 07:48:17"
     },
     "73323849-yandex": {
         "id": "73323849-yandex",

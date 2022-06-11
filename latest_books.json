@@ -1,4 +1,16 @@
 {
+    "SNtBQ77pJf": {
+        "id": "SNtBQ77pJf",
+        "title": "The Next 100 Years: A Forecast for the 21st Century",
+        "author": "George Friedman",
+        "notes": "",
+        "createdAt": "2022-06-11 08:49:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 200
+        }
+    },
     "2fWzke9t-_": {
         "id": "2fWzke9t-_",
         "title": "На щиті. Спогади родин загиблих воїнів. Іловайськ",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": "111",
             "booksCount": 53
-        }
-    },
-    "6r503KJNdX": {
-        "id": "6r503KJNdX",
-        "title": "Парень и его пёс",
-        "author": "Характер Эллисон",
-        "notes": "Постапокалиптическая ерунда",
-        "createdAt": "2022-06-03 00:37:57",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": "111",
-            "booksCount": 52
         }
     }
 }
