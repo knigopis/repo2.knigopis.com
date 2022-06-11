@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Инсургент ~ [111](users/309/309238388536274478-mailru)<sup>62</sup>
+    > 2я книга серии  (Дивергент)
+
 * Дивергент ~ [111](users/309/309238388536274478-mailru)<sup>61</sup>
     > 1я книга серии
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочитал 1 книгу, 2 не зашал
 
 * Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
-    > Fav.
 
 * Академия элитных магов ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Человек за черной дверью ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 
-* Ребека ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[111](users/309/309238388536274478-mailru)<sup>61</sup> 
+[111](users/309/309238388536274478-mailru)<sup>62</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>928</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
 
 
-_11.06.2022 20:43:40_
+_11.06.2022 20:44:07_

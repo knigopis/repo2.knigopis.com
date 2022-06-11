@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Инсургент ~ [111](users/309/309238388536274478-mailru)<sup>62</sup>
 * Дивергент ~ [111](users/309/309238388536274478-mailru)<sup>61</sup>
 * Варлорд 1 книга Темный пакт ~ [](users/101/101923253879668330026-google)<sup>13</sup>
 * Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Английский пациент ~ [albina_untiring](users/257/2579695-vkontakte)<sup>34</sup>
 * Первая невеста чернокнижника ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>152</sup>
 * Вторая жизнь Уве ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>199</sup>
-* Будущее ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
 
 
-_11.06.2022 20:43:40_
+_11.06.2022 20:44:07_
