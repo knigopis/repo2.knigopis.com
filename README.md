@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rakahosha](users/100/100759961280206170633-google)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>146</sup> 
 [](users/101/101923253879668330026-google)<sup>13</sup> 
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/105/105550558690336621150-google)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>199</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>81</sup> 
-[Noentrego](users/117/117044164287670732330-google)<sup>0</sup> 
 
 
-_10.06.2022 15:47:39_
+_11.06.2022 02:15:37_
