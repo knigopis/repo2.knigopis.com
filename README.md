@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118100475290024631360-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>928</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>200</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101993023995003150366-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
-[Яков](users/105/105550558690336621150-google)<sup>7</sup> 
 
 
-_11.06.2022 15:19:24_
+_11.06.2022 20:05:44_
