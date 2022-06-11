@@ -1,4 +1,16 @@
 {
+    "CWoS4CmLo0": {
+        "id": "CWoS4CmLo0",
+        "title": "Пандемониум",
+        "author": "Лорен Оливер",
+        "notes": "2я книга серии Делириум",
+        "createdAt": "2022-06-11 20:52:15",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": "111",
+            "booksCount": 65
+        }
+    },
     "q-fQgebJr1": {
         "id": "q-fQgebJr1",
         "title": "127 часов. Между молотом и наковальней",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 264
-        }
-    },
-    "pKCBSttEF7": {
-        "id": "pKCBSttEF7",
-        "title": "Английский пациент",
-        "author": "Майкл Ондатже",
-        "notes": "не закончила",
-        "createdAt": "2022-04-25 09:55:54",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 34
         }
     }
 }
