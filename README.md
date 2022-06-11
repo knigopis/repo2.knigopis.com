@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эллигент ~ [111](users/309/309238388536274478-mailru)<sup>63</sup>
+    > 3я книга серии (Дивергент)
+
 * Инсургент ~ [111](users/309/309238388536274478-mailru)<sup>62</sup>
     > 2я книга серии  (Дивергент)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 1я книга серии
 
 * Варлорд 1 книга Темный пакт ~ [](users/101/101923253879668330026-google)<sup>13</sup>
-    > Прочитал 1 книгу, 2 не зашал
 
 * Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Властелин колец. Возвращение Короля. ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>61</sup>
 
-* Человек за черной дверью ~ [Chiffi](users/105/105831994080785626680-google)<sup>326</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[111](users/309/309238388536274478-mailru)<sup>62</sup> 
+[111](users/309/309238388536274478-mailru)<sup>63</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>928</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>29</sup> 
 
 
-_11.06.2022 20:44:07_
+_11.06.2022 20:44:51_
