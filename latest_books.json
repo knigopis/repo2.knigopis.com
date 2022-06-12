@@ -1,4 +1,16 @@
 {
+    "KpizfFJzIq": {
+        "id": "KpizfFJzIq",
+        "title": "Дело о пламенных пальцах",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-06-12 19:00:55",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 929
+        }
+    },
     "CWoS4CmLo0": {
         "id": "CWoS4CmLo0",
         "title": "Пандемониум",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 336
-        }
-    },
-    "wS8i4umSBZ": {
-        "id": "wS8i4umSBZ",
-        "title": "Проклятый эксперимент. Магиня",
-        "author": "Вера Чиркова",
-        "notes": "",
-        "createdAt": "2022-06-03 18:31:07",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 71
         }
     }
 }

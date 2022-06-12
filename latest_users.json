@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 929,
+        "updatedAt": "2022-06-12 19:00:55"
+    },
     "408598507-yandex": {
         "id": "408598507-yandex",
         "nickname": "digital.hell",
@@ -16,12 +22,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-06-11 20:05:44"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 928,
-        "updatedAt": "2022-06-11 15:19:24"
     },
     "113407984384376187261-google": {
         "id": "113407984384376187261-google",

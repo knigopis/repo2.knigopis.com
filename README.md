@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>929</sup> 
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 [111](users/309/309238388536274478-mailru)<sup>65</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>928</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>200</sup> 
 [rakahosha](users/100/100759961280206170633-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
 
 
-_12.06.2022 09:44:18_
+_12.06.2022 19:00:55_
