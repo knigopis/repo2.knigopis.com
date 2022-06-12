@@ -1,4 +1,10 @@
 {
+    "408598507-yandex": {
+        "id": "408598507-yandex",
+        "nickname": "digital.hell",
+        "booksCount": 0,
+        "updatedAt": "2022-06-12 09:44:18"
+    },
     "309238388536274478-mailru": {
         "id": "309238388536274478-mailru",
         "nickname": "111",
@@ -172,11 +178,5 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 204,
         "updatedAt": "2022-05-29 22:37:37"
-    },
-    "86487125-vkontakte": {
-        "id": "86487125-vkontakte",
-        "nickname": "Smekalistii",
-        "booksCount": 29,
-        "updatedAt": "2022-05-28 08:36:33"
     }
 }
