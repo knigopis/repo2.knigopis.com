@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106089272412244528912-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>929</sup> 
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 [111](users/309/309238388536274478-mailru)<sup>65</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bagi](users/336/336375377-vkontakte)<sup>3</sup> 
 [Victoriaperfectum](users/117/117396356938980769291-google)<sup>12</sup> 
 [](users/101/101993023995003150366-google)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>204</sup> 
 
 
-_12.06.2022 19:00:55_
+_12.06.2022 19:05:54_
