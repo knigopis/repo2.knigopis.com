@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>930</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>162</sup> 
 [](users/106/106089272412244528912-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>929</sup> 
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 [111](users/309/309238388536274478-mailru)<sup>65</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101993023995003150366-google)<sup>0</sup> 
 
 
-_13.06.2022 07:16:26_
+_13.06.2022 10:32:43_
