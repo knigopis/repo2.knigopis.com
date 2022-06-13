@@ -1,4 +1,16 @@
 {
+    "Z2fpB7gvFM": {
+        "id": "Z2fpB7gvFM",
+        "title": "Дневной Дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2022-06-13 18:37:46",
+        "user": {
+            "id": "115058436318443463985-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "xvB41hUYbH": {
         "id": "xvB41hUYbH",
         "title": "Ночной дозор",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 144
-        }
-    },
-    "xHrKZY_7SX": {
-        "id": "xHrKZY_7SX",
-        "title": "Батальон «Донбас». Записки добровольца",
-        "author": "Ігор Родін",
-        "notes": "",
-        "createdAt": "2022-06-04 00:42:57",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 143
         }
     }
 }

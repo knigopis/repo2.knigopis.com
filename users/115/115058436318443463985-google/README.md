@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/115058436318443463985/)<sup>1</sup>
+# List of books read by [](https://plus.google.com/u/0/115058436318443463985/)<sup>2</sup>
 ---
 
 ## 2022
+
+### Дневной Дозор
+Сергей Лукьяненко
+> [2022-07-01] 
+
 
 ### Ночной дозор
 Сергей Лукьяненко
