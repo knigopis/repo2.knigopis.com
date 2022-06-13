@@ -1,4 +1,16 @@
 {
+    "YbyaDEzPq3": {
+        "id": "YbyaDEzPq3",
+        "title": "Думай, как римский император. Стоическая философия Марка Аврелия",
+        "author": "Дональд Робертсон",
+        "notes": "",
+        "createdAt": "2022-06-13 19:01:29",
+        "user": {
+            "id": "115058436318443463985-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "ZpdhZvT_hG": {
         "id": "ZpdhZvT_hG",
         "title": "Толстушка в самолете",
@@ -345,18 +357,6 @@
             "id": "110108278789076439525-google",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "b8EujMaaj6": {
-        "id": "b8EujMaaj6",
-        "title": "Танець Смерті. Щоденник добровольця батальйону «Донбас»",
-        "author": "Ігор Михайлишин",
-        "notes": "",
-        "createdAt": "2022-06-04 00:47:50",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 145
         }
     }
 }
