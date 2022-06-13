@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>75</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>76</sup>
 ---
 
 ## 2022
+
+### Толстушка в самолете
+Келли Девос
+> [2022-06] 
+
 
 ### Борьба за жизнь, записки из скорой
 Лиза Уодлер
