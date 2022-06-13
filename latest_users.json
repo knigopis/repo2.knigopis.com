@@ -1,4 +1,10 @@
 {
+    "115058436318443463985-google": {
+        "id": "115058436318443463985-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-06-13 18:35:59"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Victoriaperfectum",
         "booksCount": 12,
         "updatedAt": "2022-05-30 04:11:28"
-    },
-    "101993023995003150366-google": {
-        "id": "101993023995003150366-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-05-29 22:59:28"
     }
 }
