@@ -1,12 +1,7 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>234</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>233</sup>
 ---
 
 ## 2022
-
-### Восход теней
-Мэделин Ру
-> [2022-06-14] 
-
 
 ### Восход теней
 Мэделин Ру
