@@ -1,4 +1,16 @@
 {
+    "-nfpZDCvrA": {
+        "id": "-nfpZDCvrA",
+        "title": "Восход теней",
+        "author": "Мэделин Ру",
+        "notes": "",
+        "createdAt": "2022-06-14 08:26:18",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 231
+        }
+    },
     "YbyaDEzPq3": {
         "id": "YbyaDEzPq3",
         "title": "Думай, как римский император. Стоическая философия Марка Аврелия",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 927
-        }
-    },
-    "xfci0XwJGY": {
-        "id": "xfci0XwJGY",
-        "title": "Долги тают на глазах",
-        "author": "Саидмурод",
-        "notes": "",
-        "createdAt": "2022-06-04 10:22:28",
-        "user": {
-            "id": "110108278789076439525-google",
-            "nickname": null,
-            "booksCount": 13
         }
     }
 }
