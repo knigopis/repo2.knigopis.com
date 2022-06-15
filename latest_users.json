@@ -1,4 +1,10 @@
 {
+    "584548489-vkontakte": {
+        "id": "584548489-vkontakte",
+        "nickname": "Иннчоус",
+        "booksCount": 0,
+        "updatedAt": "2022-06-15 15:26:23"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "2691",
         "booksCount": 2,
         "updatedAt": "2022-06-03 09:32:10"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 36,
-        "updatedAt": "2022-05-31 13:31:18"
     }
 }
