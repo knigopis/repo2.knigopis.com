@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>231</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>232</sup>
 ---
 
 ## 2022
+
+### Об использование оборотней в военных конфликтах
+Марко Клосс
+> [2022-06-16] 
+
 
 ### Восход теней
 Мэделин Ру

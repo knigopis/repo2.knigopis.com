@@ -1,4 +1,16 @@
 {
+    "wDhuOFDkNQ": {
+        "id": "wDhuOFDkNQ",
+        "title": "Об использование оборотней в военных конфликтах",
+        "author": "Марко Клосс",
+        "notes": "",
+        "createdAt": "2022-06-16 06:10:27",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 232
+        }
+    },
     "IeOG-lpXxp": {
         "id": "IeOG-lpXxp",
         "title": "Дело о разгневанном скорбящем",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 435
-        }
-    },
-    "R8POL4yMxm": {
-        "id": "R8POL4yMxm",
-        "title": "Веселый солдат",
-        "author": "Виктор Астафьев",
-        "notes": "",
-        "createdAt": "2022-06-06 00:33:22",
-        "user": {
-            "id": "134671934-vkontakte",
-            "nickname": "slava_kite",
-            "booksCount": 11
         }
     }
 }
