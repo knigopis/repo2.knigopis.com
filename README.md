@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>232</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>233</sup> 
 [Иннчоус](users/584/584548489-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>931</sup> 
 [](users/113/113308925972173799436-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [2691](users/102/102279838587751261747-google)<sup>2</sup> 
 
 
-_16.06.2022 06:10:27_
+_16.06.2022 07:26:53_
