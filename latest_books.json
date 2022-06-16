@@ -1,4 +1,16 @@
 {
+    "lR-bwEyqtA": {
+        "id": "lR-bwEyqtA",
+        "title": "Дело о съеденной молью норке",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-06-16 17:46:00",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 932
+        }
+    },
     "nlaynWJXMw": {
         "id": "nlaynWJXMw",
         "title": "Вторая медаль за отвагу",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 230
-        }
-    },
-    "LyebGRe1RP": {
-        "id": "LyebGRe1RP",
-        "title": "Доктор Гарин",
-        "author": "В. Сорокин",
-        "notes": "",
-        "createdAt": "2022-06-07 15:11:34",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 144
         }
     }
 }
