@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>233</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>234</sup>
 ---
 
 ## 2022
+
+### Вторая медаль за отвагу
+Ион Дегон
+> [2022-06-16] 
+
 
 ### Высокая трава
 Джо Лансдейл
