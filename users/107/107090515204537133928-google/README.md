@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>235</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>236</sup>
 ---
 
 ## 2022
+
+### Поиграем в "отраву"
+Рэй Брэдбери
+> [2022-06-17] 
+
 
 ### Сила сильных:рассказы
 Джек Лондон
