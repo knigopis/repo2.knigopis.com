@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>234</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>235</sup>
 ---
 
 ## 2022
+
+### Сила сильных:рассказы
+Джек Лондон
+> [2022-06-17] 
+
 
 ### Вторая медаль за отвагу
 Ион Дегон

@@ -1,4 +1,16 @@
 {
+    "xGFU77jZT_": {
+        "id": "xGFU77jZT_",
+        "title": "Сила сильных:рассказы",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2022-06-17 08:44:09",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 235
+        }
+    },
     "d8vwXn9Q92": {
         "id": "d8vwXn9Q92",
         "title": "Кто я без тебя?",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 267
-        }
-    },
-    "YfqujWsOhf": {
-        "id": "YfqujWsOhf",
-        "title": "45 татуировок менеджера",
-        "author": "Максим Батырев",
-        "notes": "",
-        "createdAt": "2022-06-07 18:15:37",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
-            "booksCount": 37
         }
     }
 }
