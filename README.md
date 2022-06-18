@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В самое сердце ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>163</sup>
+    > Бесприданница выходит замуж за князя Заритовского – такое только в сказках бывает, а сказки я никогда не любила. Меня и князя вынудили связать жизни между собой, но как нам научиться с этим жить? Те, кто так поступил, думают, что я покорная овечка, которая молча пойдет навстречу смерти, но они ошибаются. Меня загнали в угол, и я сделаю все, чтобы оттуда выбраться.
+
 * Дурная кровь ~ [pria](users/128/128917939-vkontakte)<sup>64</sup>
     > 2 книги
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Люди, що не можуть зупинити свій біг.
 
 * Кто я без тебя? ~ [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup>
-    > Почаще говорить другим "нет", а себе "да"
-    > и забыть о перфекционизме
 
 * Студентка в подарок ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>161</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дивергент ~ [111](users/309/309238388536274478-mailru)<sup>61</sup>
 
-* Варлорд 1 книга Темный пакт ~ [](users/101/101923253879668330026-google)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Феня Котовна](users/109/109746193906459706720-google)<sup>163</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>933</sup> 
 [pria](users/128/128917939-vkontakte)<sup>64</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup> 
@@ -45,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/10038681-vkontakte)<sup>0</sup> 
 [](users/115/115058436318443463985-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>76</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>162</sup> 
 [](users/106/106089272412244528912-google)<sup>0</sup> 
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 [111](users/309/309238388536274478-mailru)<sup>65</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110108278789076439525-google)<sup>13</sup> 
 
 
-_18.06.2022 17:17:08_
+_18.06.2022 19:58:43_
