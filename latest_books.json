@@ -1,4 +1,16 @@
 {
+    "gq5SHOuRrG": {
+        "id": "gq5SHOuRrG",
+        "title": "Записки артиллериста",
+        "author": "Степун Федор Августович",
+        "notes": "",
+        "createdAt": "2022-06-18 15:52:42",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 201
+        }
+    },
     "74-A0bU7hY": {
         "id": "74-A0bU7hY",
         "title": "Поиграем в \"отраву\"",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": "111",
             "booksCount": 61
-        }
-    },
-    "S6VxZv9wNc": {
-        "id": "S6VxZv9wNc",
-        "title": "Магия Восстает",
-        "author": "Илона Эндрюс",
-        "notes": "",
-        "createdAt": "2022-06-08 16:55:43",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 160
         }
     }
 }
