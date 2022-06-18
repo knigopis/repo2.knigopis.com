@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дурная кровь ~ [pria](users/128/128917939-vkontakte)<sup>64</sup>
 * Бігуни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup>
 * Кто я без тебя? ~ [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup>
 * Студентка в подарок ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>161</sup>
@@ -30,7 +31,6 @@
 * Всеобщая история. История Древнего мира. 5 класс ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>201</sup>
 * Господин из Сан-Франциско ~ [Вит](users/300/300273923-vkontakte)<sup>70</sup>
 * Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
-* Планета нервных ~ [Rainbow](users/109/109787328219839805802-google)<sup>88</sup>
 
 
-_18.06.2022 16:12:09_
+_18.06.2022 17:05:19_

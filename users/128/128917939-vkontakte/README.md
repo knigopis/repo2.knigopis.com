@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>63</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>64</sup>
 ---
 
 ## 2022
+
+### Дурная кровь
+Роберт Гэлбрейт
+> [2022-06-18] 2 книги
+
 
 ### Code Носители
 Джон Маррс
