@@ -1,4 +1,16 @@
 {
+    "fLA043bJyM": {
+        "id": "fLA043bJyM",
+        "title": "МЫ",
+        "author": "Евгений Замятин",
+        "notes": "paper",
+        "createdAt": "2022-06-18 21:09:40",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 62
+        }
+    },
     "bjfPO-S-W_": {
         "id": "bjfPO-S-W_",
         "title": "В самое сердце",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 200
-        }
-    },
-    "2fWzke9t-_": {
-        "id": "2fWzke9t-_",
-        "title": "На щиті. Спогади родин загиблих воїнів. Іловайськ",
-        "author": "Ірина Вовк",
-        "notes": "",
-        "createdAt": "2022-06-10 15:47:39",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 146
         }
     }
 }
