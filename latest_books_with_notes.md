@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бігуни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup>
 * Кто я без тебя? ~ [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup>
 * Студентка в подарок ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>161</sup>
 * Пандемониум ~ [111](users/309/309238388536274478-mailru)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Господин из Сан-Франциско ~ [Вит](users/300/300273923-vkontakte)<sup>70</sup>
 * Гопники ~ [danyluk62](users/374/374149854-vkontakte)<sup>142</sup>
 * Планета нервных ~ [Rainbow](users/109/109787328219839805802-google)<sup>88</sup>
-* Гарри Поттер и узник Азкабана ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>59</sup>
 
 
-_16.06.2022 20:25:22_
+_18.06.2022 16:12:09_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>256</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>257</sup>
 ---
 
 ## 2022
+
+### Бігуни
+Ольга Токарчук
+> [2022-06-18] 7/10 Люди, що не можуть зупинити свій біг.
+
 
 ### Ребека
 Дафна дю Мор'є
