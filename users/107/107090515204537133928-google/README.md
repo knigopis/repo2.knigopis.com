@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>237</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>238</sup>
 ---
 
 ## 2022
+
+### Лернейская гидра
+Агата Кристи
+> [2022-06-19] 
+
 
 ### Приключения Синдбада морехода
 Арабские Сказки
