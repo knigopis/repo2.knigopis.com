@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tututu",
+        "booksCount": 38,
+        "updatedAt": "2022-06-19 19:39:53"
+    },
     "309238388536274478-mailru": {
         "id": "309238388536274478-mailru",
         "nickname": "111",
@@ -142,12 +148,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 267,
         "updatedAt": "2022-06-08 02:25:19"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tututu",
-        "booksCount": 37,
-        "updatedAt": "2022-06-07 18:15:37"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",

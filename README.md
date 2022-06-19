@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Страна радости ~ [tututu](users/135/135685382-vkontakte)<sup>38</sup>
+    > 2 читается легко, сюжет вначале затянут, но под конец уже не можешь оторваться.
+
 * МЫ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup>
     > paper
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бесприданница выходит замуж за князя Заритовского – такое только в сказках бывает, а сказки я никогда не любила. Меня и князя вынудили связать жизни между собой, но как нам научиться с этим жить? Те, кто так поступил, думают, что я покорная овечка, которая молча пойдет навстречу смерти, но они ошибаются. Меня загнали в угол, и я сделаю все, чтобы оттуда выбраться.
 
 * Дурная кровь ~ [pria](users/128/128917939-vkontakte)<sup>64</sup>
-    > 2 книги
 
 * Бігуни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эллигент ~ [111](users/309/309238388536274478-mailru)<sup>63</sup>
 
-* Инсургент ~ [111](users/309/309238388536274478-mailru)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>38</sup> 
 [111](users/309/309238388536274478-mailru)<sup>66</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>238</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>267</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>37</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>144</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>436</sup> 
 [](users/269/269376442-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101095046496982153936-google)<sup>0</sup> 
 
 
-_19.06.2022 15:14:49_
+_19.06.2022 19:39:53_
