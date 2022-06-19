@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>236</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>237</sup>
 ---
 
 ## 2022
+
+### Приключения Синдбада морехода
+Арабские Сказки
+> [2022-06-19] 
+
 
 ### Поиграем в "отраву"
 Рэй Брэдбери
