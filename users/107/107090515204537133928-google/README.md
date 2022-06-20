@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>239</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>240</sup>
 ---
 
 ## 2022
+
+### Киренейская лань
+Агата Кристи
+> [2022-06-20] 
+
 
 ### Эти странные Немцы
 Штефан Зайдениц, Бен Баркоу
