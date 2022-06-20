@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
 * Демиан ~ [Вит](users/300/300273923-vkontakte)<sup>74</sup>
 * Курортник ~ [Вит](users/300/300273923-vkontakte)<sup>73</sup>
 * Страна радости ~ [tututu](users/135/135685382-vkontakte)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется ~ [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup>
 * Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
 * Мужчина и женщина в эпоху динозавров ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup>
-* В поисках Библии. Тайны древних манускриптов. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>253</sup>
 
 
-_20.06.2022 06:36:31_
+_20.06.2022 06:39:18_
