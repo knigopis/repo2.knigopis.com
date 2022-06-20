@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
+    > С трудом. Опять же, о чем и для чего? Наркомания.
+
 * S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
     > Бросил. Ибо это насилие над собой не стоит того. Да, у автора красочный стиль, потрясный новояз и море глубоких афоризмов. Но зачем это всё? Что он хотел этим сказать?
     > Может быть и перечитаю.
@@ -15,9 +18,6 @@ Do not use pull requests to make changes here.
     > И да, всё это скрытая попытка невелировать гомосятинку!
 
 * Курортник ~ [Вит](users/300/300273923-vkontakte)<sup>73</sup>
-    > Чем-то очень напоминает "Волшебную гору" Манна. Но не столь эпично, более узко и в плане описания мира героев, ситуаций, сюжета. 
-    > Но есть своё. Больше философии, самокопания героя. Поиска истины.
-    > Раздражает иногда очередное впадения в эзотерический бред, но здесь это не так круто как в Демиане. Улыбнул момент прощения голландца.
 
 * Страна радости ~ [tututu](users/135/135685382-vkontakte)<sup>38</sup>
 
@@ -31,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Кто я без тебя? ~ [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup>
 
-* Студентка в подарок ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>161</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>75</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>76</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>38</sup> 
 [111](users/309/309238388536274478-mailru)<sup>66</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>238</sup> 
@@ -70,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [slava_kite](users/134/134671934-vkontakte)<sup>11</sup> 
 
 
-_20.06.2022 06:39:18_
+_20.06.2022 06:40:34_

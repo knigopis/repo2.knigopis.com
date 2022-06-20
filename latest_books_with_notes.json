@@ -1,4 +1,16 @@
 {
+    "OpBgtkJIk8": {
+        "id": "OpBgtkJIk8",
+        "title": "Дженерэйшн Пи",
+        "author": "Пелевин Виктор",
+        "notes": "С трудом. Опять же, о чем и для чего? Наркомания.",
+        "createdAt": "2022-06-20 06:40:34",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 76
+        }
+    },
     "M2PdCvK1yK": {
         "id": "M2PdCvK1yK",
         "title": "S.N.U.F.F",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 255
-        }
-    },
-    "fRESTx6G_1": {
-        "id": "fRESTx6G_1",
-        "title": "Мужчина и женщина в эпоху динозавров",
-        "author": "Маргарет Этвуд",
-        "notes": "7/10 Работницы музея устраивают личную жизнь.",
-        "createdAt": "2022-05-04 06:50:29",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 254
         }
     }
 }

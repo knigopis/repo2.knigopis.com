@@ -1,4 +1,16 @@
 {
+    "OpBgtkJIk8": {
+        "id": "OpBgtkJIk8",
+        "title": "Дженерэйшн Пи",
+        "author": "Пелевин Виктор",
+        "notes": "С трудом. Опять же, о чем и для чего? Наркомания.",
+        "createdAt": "2022-06-20 06:40:34",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 76
+        }
+    },
     "M2PdCvK1yK": {
         "id": "M2PdCvK1yK",
         "title": "S.N.U.F.F",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 161
-        }
-    },
-    "KpizfFJzIq": {
-        "id": "KpizfFJzIq",
-        "title": "Дело о пламенных пальцах",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-06-12 19:00:55",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 929
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
 * S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
 * Демиан ~ [Вит](users/300/300273923-vkontakte)<sup>74</sup>
 * Курортник ~ [Вит](users/300/300273923-vkontakte)<sup>73</sup>
@@ -30,7 +31,6 @@
 * К югу от солнца, к западу от границы ~ [eva](users/111/111656270551033014778-google)<sup>130</sup>
 * Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется ~ [albina_untiring](users/257/2579695-vkontakte)<sup>35</sup>
 * Беглецы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>255</sup>
-* Мужчина и женщина в эпоху динозавров ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>254</sup>
 
 
-_20.06.2022 06:39:18_
+_20.06.2022 06:40:34_
