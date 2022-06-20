@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>238</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>239</sup>
 ---
 
 ## 2022
+
+### Эти странные Немцы
+Штефан Зайдениц, Бен Баркоу
+> [2022-06-20] 
+
 
 ### Лернейская гидра
 Агата Кристи
