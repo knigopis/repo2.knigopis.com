@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>935</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>240</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>76</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>144</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>436</sup> 
 [](users/269/269376442-vkontakte)<sup>0</sup> 
-[slava_kite](users/134/134671934-vkontakte)<sup>11</sup> 
 
 
-_20.06.2022 18:52:12_
+_20.06.2022 21:21:43_
