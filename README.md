@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
+    > Ерунда. Полная. Еле дочитал.
+    > Какое-то детское чтиво в духе Тимура и его команды. 
+    > Какое-то дикое почитание индуизма.
+
 * Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
     > С трудом. Опять же, о чем и для чего? Наркомания.
 
@@ -13,9 +18,6 @@ Do not use pull requests to make changes here.
     > Может быть и перечитаю.
 
 * Демиан ~ [Вит](users/300/300273923-vkontakte)<sup>74</sup>
-    > Очень для меня скучный и детский роман. Попытка выдать собственное несовершенство главных героев за что-то значимое! А что это, автор сам по ходу не в курсе. Но главное нагромоздить эзотерики побольше, чтоб было ничего непонятно, зато очень пафосно и красиво. Этот новый Бог? Зачем? Отрицание всего и вся?
-    > Наверное тогда, сто лет назад это было интересно. Сегодня это читается немного бредово.
-    > И да, всё это скрытая попытка невелировать гомосятинку!
 
 * Курортник ~ [Вит](users/300/300273923-vkontakte)<sup>73</sup>
 
@@ -29,17 +31,15 @@ Do not use pull requests to make changes here.
 
 * Бігуни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup>
 
-* Кто я без тебя? ~ [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>77</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>935</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>240</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>76</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>38</sup> 
 [111](users/309/309238388536274478-mailru)<sup>66</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/269/269376442-vkontakte)<sup>0</sup> 
 
 
-_20.06.2022 21:21:43_
+_21.06.2022 05:09:46_
