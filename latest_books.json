@@ -1,4 +1,16 @@
 {
+    "bfIL-HET_h": {
+        "id": "bfIL-HET_h",
+        "title": "Чтение о Богочеловечестве",
+        "author": "Владимир соловьев",
+        "notes": "Не дочитал. Не смог.",
+        "createdAt": "2022-06-21 20:24:55",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 78
+        }
+    },
     "S0Sx_ILYQq": {
         "id": "S0Sx_ILYQq",
         "title": "Сидхартха",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 234
-        }
-    },
-    "YbyaDEzPq3": {
-        "id": "YbyaDEzPq3",
-        "title": "Думай, как римский император. Стоическая философия Марка Аврелия",
-        "author": "Дональд Робертсон",
-        "notes": "",
-        "createdAt": "2022-06-13 19:01:29",
-        "user": {
-            "id": "115058436318443463985-google",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "bfIL-HET_h": {
+        "id": "bfIL-HET_h",
+        "title": "Чтение о Богочеловечестве",
+        "author": "Владимир соловьев",
+        "notes": "Не дочитал. Не смог.",
+        "createdAt": "2022-06-21 20:24:55",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 78
+        }
+    },
     "S0Sx_ILYQq": {
         "id": "S0Sx_ILYQq",
         "title": "Сидхартха",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 130
-        }
-    },
-    "uMfGoD9DIz": {
-        "id": "uMfGoD9DIz",
-        "title": "Кругом одни идиоты. Если вам так кажется, возможно, вам не кажется",
-        "author": "Эриксон Томас",
-        "notes": "Еще одна классификация типов личности и способы общения с разными типажами",
-        "createdAt": "2022-05-09 19:17:44",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 35
         }
     }
 }

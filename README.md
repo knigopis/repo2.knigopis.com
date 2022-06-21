@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чтение о Богочеловечестве ~ [Вит](users/300/300273923-vkontakte)<sup>78</sup>
+    > Не дочитал. Не смог.
+
 * Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
     > Ерунда. Полная. Еле дочитал.
     > Какое-то детское чтиво в духе Тимура и его команды. 
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > С трудом. Опять же, о чем и для чего? Наркомания.
 
 * S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
-    > Бросил. Ибо это насилие над собой не стоит того. Да, у автора красочный стиль, потрясный новояз и море глубоких афоризмов. Но зачем это всё? Что он хотел этим сказать?
-    > Может быть и перечитаю.
 
 * Демиан ~ [Вит](users/300/300273923-vkontakte)<sup>74</sup>
 
@@ -29,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Дурная кровь ~ [pria](users/128/128917939-vkontakte)<sup>64</sup>
 
-* Бігуни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>77</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>78</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>935</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>240</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/269/269376442-vkontakte)<sup>0</sup> 
 
 
-_21.06.2022 05:09:46_
+_21.06.2022 20:24:55_
