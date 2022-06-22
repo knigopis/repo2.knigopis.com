@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История одной смерти ~ [Вит](users/300/300273923-vkontakte)<sup>79</sup>
 * Чтение о Богочеловечестве ~ [Вит](users/300/300273923-vkontakte)<sup>78</sup>
 * Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
 * Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Ребека ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>256</sup>
 * Дом в котором... ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>266</sup>
 * Возвращение в Брайдсхед ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>60</sup>
-* К югу от солнца, к западу от границы ~ [eva](users/111/111656270551033014778-google)<sup>130</sup>
 
 
-_21.06.2022 20:24:55_
+_22.06.2022 10:51:39_

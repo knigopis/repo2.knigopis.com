@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История одной смерти ~ [Вит](users/300/300273923-vkontakte)<sup>79</sup>
+    > Фигня, слабо как-то, не задевает совсем.
+    > В присущей манере.
+    > Боярдо Сан-Роман - человек, вернувший невесту.
+    > Анхела Викарио - невеста.
+
 * Чтение о Богочеловечестве ~ [Вит](users/300/300273923-vkontakte)<sup>78</sup>
     > Не дочитал. Не смог.
 
@@ -14,7 +20,6 @@ Do not use pull requests to make changes here.
     > Какое-то дикое почитание индуизма.
 
 * Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
-    > С трудом. Опять же, о чем и для чего? Наркомания.
 
 * S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
 
@@ -28,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * В самое сердце ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>163</sup>
 
-* Дурная кровь ~ [pria](users/128/128917939-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>78</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>79</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>935</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>240</sup> 
@@ -67,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/269/269376442-vkontakte)<sup>0</sup> 
 
 
-_21.06.2022 20:24:55_
+_22.06.2022 10:51:39_
