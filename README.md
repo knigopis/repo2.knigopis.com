@@ -38,9 +38,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>936</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>79</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>72</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>935</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>240</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>38</sup> 
 [111](users/309/309238388536274478-mailru)<sup>66</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/269/269376442-vkontakte)<sup>0</sup> 
 
 
-_22.06.2022 10:51:39_
+_22.06.2022 16:28:10_
