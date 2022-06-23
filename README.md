@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Странный Томас-1 ~ [](users/100/100097069456712612136-google)<sup>2</sup>
+    > Парень, который видит мёртвых. Первая книга в серии "Странный Томас". Крепкая четвёрка.
+
 * История одной смерти ~ [Вит](users/300/300273923-vkontakte)<sup>79</sup>
     > Фигня, слабо как-то, не задевает совсем.
     > В присущей манере.
@@ -15,9 +18,6 @@ Do not use pull requests to make changes here.
     > Не дочитал. Не смог.
 
 * Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
-    > Ерунда. Полная. Еле дочитал.
-    > Какое-то детское чтиво в духе Тимура и его команды. 
-    > Какое-то дикое почитание индуизма.
 
 * Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
 
@@ -31,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * МЫ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup>
 
-* В самое сердце ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>163</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/100/100097069456712612136-google)<sup>1</sup> 
+[](users/100/100097069456712612136-google)<sup>2</sup> 
 [eva](users/111/111656270551033014778-google)<sup>132</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>936</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>79</sup> 
@@ -70,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>144</sup> 
 
 
-_23.06.2022 04:00:35_
+_23.06.2022 04:00:49_

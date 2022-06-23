@@ -1,4 +1,16 @@
 {
+    "9acCmETmaE": {
+        "id": "9acCmETmaE",
+        "title": "Странный Томас-1",
+        "author": "Дин Кунц",
+        "notes": "Парень, который видит мёртвых. Первая книга в серии \"Странный Томас\". Крепкая четвёрка.",
+        "createdAt": "2022-06-23 04:00:49",
+        "user": {
+            "id": "100097069456712612136-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "hpz_LnI2m8": {
         "id": "hpz_LnI2m8",
         "title": "История одной смерти",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 266
-        }
-    },
-    "10B1UoSD_L": {
-        "id": "10B1UoSD_L",
-        "title": "Возвращение в Брайдсхед",
-        "author": "Ивлин Во",
-        "notes": "audio",
-        "createdAt": "2022-05-13 10:39:34",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 60
         }
     }
 }
