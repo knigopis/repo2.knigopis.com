@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жизнь ~ [Вит](users/300/300273923-vkontakte)<sup>80</sup>
+    > Стойкое ощущение, что читал не так давно
+
 * Странный Томас-1 ~ [](users/100/100097069456712612136-google)<sup>2</sup>
     > Парень, который видит мёртвых. Первая книга в серии "Странный Томас". Крепкая четвёрка.
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Анхела Викарио - невеста.
 
 * Чтение о Богочеловечестве ~ [Вит](users/300/300273923-vkontakte)<sup>78</sup>
-    > Не дочитал. Не смог.
 
 * Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
 
@@ -29,17 +31,15 @@ Do not use pull requests to make changes here.
 
 * Страна радости ~ [tututu](users/135/135685382-vkontakte)<sup>38</sup>
 
-* МЫ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>80</sup> 
 [](users/100/100097069456712612136-google)<sup>2</sup> 
 [eva](users/111/111656270551033014778-google)<sup>132</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>936</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>79</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>72</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>240</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>38</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>144</sup> 
 
 
-_23.06.2022 04:00:49_
+_24.06.2022 05:08:23_

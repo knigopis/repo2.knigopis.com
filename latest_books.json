@@ -1,4 +1,16 @@
 {
+    "otLP4VVJnd": {
+        "id": "otLP4VVJnd",
+        "title": "Жизнь",
+        "author": "Ги Де Мопассан",
+        "notes": "Стойкое ощущение, что читал не так давно",
+        "createdAt": "2022-06-24 05:08:23",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 80
+        }
+    },
     "9acCmETmaE": {
         "id": "9acCmETmaE",
         "title": "Странный Томас-1",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 37
-        }
-    },
-    "lR-bwEyqtA": {
-        "id": "lR-bwEyqtA",
-        "title": "Дело о съеденной молью норке",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-06-16 17:46:00",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 932
         }
     }
 }
