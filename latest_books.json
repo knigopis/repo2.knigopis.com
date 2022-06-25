@@ -1,4 +1,16 @@
 {
+    "be5iD46ulo": {
+        "id": "be5iD46ulo",
+        "title": "Россия во мгле",
+        "author": "Уэллс Герберт",
+        "notes": "На удивление колоссально интересно!",
+        "createdAt": "2022-06-25 22:05:51",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 82
+        }
+    },
     "sc-iM5xdQU": {
         "id": "sc-iM5xdQU",
         "title": "Первая любовь",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": "111",
             "booksCount": 66
-        }
-    },
-    "5aAxws4F36": {
-        "id": "5aAxws4F36",
-        "title": "Лернейская гидра",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2022-06-19 10:54:10",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 238
         }
     }
 }
