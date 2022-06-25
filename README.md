@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108992088462396254260-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>937</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>80</sup> 
 [](users/100/100097069456712612136-google)<sup>2</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 [Triste](users/517/5175580462988229760-mailru)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>267</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>144</sup> 
 
 
-_24.06.2022 21:44:10_
+_25.06.2022 00:04:09_
