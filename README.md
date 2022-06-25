@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>82</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>81</sup> 
 [111](users/309/309238388536274478-mailru)<sup>68</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>243</sup> 
 [](users/220/2203011-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 
 
-_25.06.2022 22:04:02_
+_25.06.2022 22:04:22_
