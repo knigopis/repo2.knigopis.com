@@ -1,4 +1,16 @@
 {
+    "X90y_G8vAS": {
+        "id": "X90y_G8vAS",
+        "title": "Неидеальная жена инквизитора",
+        "author": "Илия Телес",
+        "notes": "",
+        "createdAt": "2022-06-25 09:10:22",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 73
+        }
+    },
     "K8MM8jTbjB": {
         "id": "K8MM8jTbjB",
         "title": "Рождённый туманом. Источник Вознесения",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 64
-        }
-    },
-    "tT6L17_Qji": {
-        "id": "tT6L17_Qji",
-        "title": "Бігуни",
-        "author": "Ольга Токарчук",
-        "notes": "7/10 Люди, що не можуть зупинити свій біг.",
-        "createdAt": "2022-06-18 16:12:09",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 257
         }
     }
 }
