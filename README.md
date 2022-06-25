@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Первая любовь ~ [Вит](users/300/300273923-vkontakte)<sup>82</sup>
+    > Очень сильно. Особенно концовка. Желание главного героя помолиться за отца и за свою любовь.
+
 * Рождённый туманом. Источник Вознесения ~ [Garka](users/115/115753719718250012620-google)<sup>316</sup>
     > Лорд Правитель пал, но он не был Героем веков и тем не менее как-то сдерживал Бездну, но после его смерти она возвращается, туман снова убивает.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Последняя Империя уже тысячу лет находится под властью Лорда правителя - самого могущественного аломанта и тирана, но всему приходит конец. Несколько скаа бросают вызов Вседержатилю, но последствия не такие, как они надеялись
 
 * Жизнь ~ [Вит](users/300/300273923-vkontakte)<sup>80</sup>
-    > Стойкое ощущение, что читал не так давно
 
 * Странный Томас-1 ~ [](users/100/100097069456712612136-google)<sup>2</sup>
 
@@ -27,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
 
-* Демиан ~ [Вит](users/300/300273923-vkontakte)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>82</sup> 
 [111](users/309/309238388536274478-mailru)<sup>68</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>81</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>243</sup> 
 [](users/220/2203011-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>73</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мирослава](users/106/106107989792957993574-google)<sup>34</sup> 
 
 
-_25.06.2022 20:40:48_
+_25.06.2022 22:04:02_
