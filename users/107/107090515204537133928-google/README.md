@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>242</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>243</sup>
 ---
 
 ## 2022
+
+### Дарт мол : диверсант
+Джеймс Лусено
+> [2022-06-25] 
+
 
 ### Эриманфский кабан
 Агата Кристи
