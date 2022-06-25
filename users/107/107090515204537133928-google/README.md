@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>240</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>241</sup>
 ---
 
 ## 2022
+
+### Путешествия Гуливера
+Джонатан Свифт
+> [2022-06-25] 
+
 
 ### Киренейская лань
 Агата Кристи

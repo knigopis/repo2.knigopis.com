@@ -1,4 +1,16 @@
 {
+    "dnhb3Kw8T8": {
+        "id": "dnhb3Kw8T8",
+        "title": "Путешествия Гуливера",
+        "author": "Джонатан Свифт",
+        "notes": "",
+        "createdAt": "2022-06-25 08:34:54",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 241
+        }
+    },
     "W0nyWHqc4p": {
         "id": "W0nyWHqc4p",
         "title": "Дело о беспокойной рыжей девушке",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 236
-        }
-    },
-    "xGFU77jZT_": {
-        "id": "xGFU77jZT_",
-        "title": "Сила сильных:рассказы",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2022-06-17 08:44:09",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 235
         }
     }
 }
