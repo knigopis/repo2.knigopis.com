@@ -1,4 +1,16 @@
 {
+    "iwuNGFt863": {
+        "id": "iwuNGFt863",
+        "title": "Тринадцатая сказка",
+        "author": "Диана Сеттерфилд",
+        "notes": "",
+        "createdAt": "2022-06-25 20:38:56",
+        "user": {
+            "id": "309238388536274478-mailru",
+            "nickname": "111",
+            "booksCount": 67
+        }
+    },
     "cUs5dVyNe7": {
         "id": "cUs5dVyNe7",
         "title": "Первая любовь",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 237
-        }
-    },
-    "fLA043bJyM": {
-        "id": "fLA043bJyM",
-        "title": "МЫ",
-        "author": "Евгений Замятин",
-        "notes": "paper",
-        "createdAt": "2022-06-18 21:09:40",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 62
         }
     }
 }
