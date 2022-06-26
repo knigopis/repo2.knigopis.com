@@ -1,4 +1,16 @@
 {
+    "DtSoGUYw0a": {
+        "id": "DtSoGUYw0a",
+        "title": "Дело о гламурном призраке",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-06-26 17:14:28",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 938
+        }
+    },
     "be5iD46ulo": {
         "id": "be5iD46ulo",
         "title": "Россия во мгле",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 38
-        }
-    },
-    "nwfUOr7jzy": {
-        "id": "nwfUOr7jzy",
-        "title": "Тепло наших тел",
-        "author": "Айзек Марион",
-        "notes": "",
-        "createdAt": "2022-06-19 15:14:49",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": "111",
-            "booksCount": 66
         }
     }
 }
