@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>73</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>74</sup>
 ---
 
 ## 2022
+
+### Замуж по подписке
+Ольга Пашнина, Анна Одувалова
+> [2022-06-27] 
+
 
 ### Неидеальная жена инквизитора
 Илия Телес
