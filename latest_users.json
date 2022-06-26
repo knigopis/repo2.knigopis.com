@@ -1,4 +1,10 @@
 {
+    "26220924-yandex": {
+        "id": "26220924-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-06-26 19:27:42"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 13,
         "updatedAt": "2022-06-10 15:33:38"
-    },
-    "106107989792957993574-google": {
-        "id": "106107989792957993574-google",
-        "nickname": "Мирослава",
-        "booksCount": 34,
-        "updatedAt": "2022-06-10 09:17:30"
     }
 }
