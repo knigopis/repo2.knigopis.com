@@ -1,4 +1,16 @@
 {
+    "HdaVY3dP3Z": {
+        "id": "HdaVY3dP3Z",
+        "title": "Похититель детей",
+        "author": "Джеральд Бром",
+        "notes": "",
+        "createdAt": "2022-06-27 21:09:38",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 337
+        }
+    },
     "dS55R--MHu": {
         "id": "dS55R--MHu",
         "title": "Не привлекай внимания",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 239
-        }
-    },
-    "OpBgtkJIk8": {
-        "id": "OpBgtkJIk8",
-        "title": "Дженерэйшн Пи",
-        "author": "Пелевин Виктор",
-        "notes": "С трудом. Опять же, о чем и для чего? Наркомания.",
-        "createdAt": "2022-06-20 06:40:34",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 76
         }
     }
 }
