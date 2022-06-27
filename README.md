@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цифровий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>258</sup>
+    > 10/10 Арсен-маніпулятор у світі непростих відеоігор.
+
 * Россия во мгле ~ [Вит](users/300/300273923-vkontakte)<sup>82</sup>
     > На удивление колоссально интересно!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень сильно. Особенно концовка. Желание главного героя помолиться за отца и за свою любовь.
 
 * Рождённый туманом. Источник Вознесения ~ [Garka](users/115/115753719718250012620-google)<sup>316</sup>
-    > Лорд Правитель пал, но он не был Героем веков и тем не менее как-то сдерживал Бездну, но после его смерти она возвращается, туман снова убивает.
 
 * Рождённый туманом. Пепел и сталь ~ [Garka](users/115/115753719718250012620-google)<sup>315</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
 
-* Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>258</sup> 
 [111](users/309/309238388536274478-mailru)<sup>69</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>74</sup> 
 [](users/262/26220924-yandex)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>163</sup> 
 [pria](users/128/128917939-vkontakte)<sup>64</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>201</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup> 
 [Иннчоус](users/584/584548489-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101923253879668330026-google)<sup>13</sup> 
 
 
-_26.06.2022 22:33:26_
+_27.06.2022 12:47:01_

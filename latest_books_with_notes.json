@@ -1,4 +1,16 @@
 {
+    "9hZUgXPsRN": {
+        "id": "9hZUgXPsRN",
+        "title": "Цифровий",
+        "author": "Марина та Сергій Дяченко",
+        "notes": "10/10 Арсен-маніпулятор у світі непростих відеоігор.",
+        "createdAt": "2022-06-27 12:47:01",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 258
+        }
+    },
     "be5iD46ulo": {
         "id": "be5iD46ulo",
         "title": "Россия во мгле",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 36
-        }
-    },
-    "D5VA7P-F-7": {
-        "id": "D5VA7P-F-7",
-        "title": "Until the End of Time",
-        "author": "Danielle Steel",
-        "notes": "5*5",
-        "createdAt": "2022-05-30 04:10:38",
-        "user": {
-            "id": "117396356938980769291-google",
-            "nickname": "Victoriaperfectum",
-            "booksCount": 11
         }
     }
 }

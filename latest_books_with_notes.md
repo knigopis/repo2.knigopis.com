@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цифровий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>258</sup>
 * Россия во мгле ~ [Вит](users/300/300273923-vkontakte)<sup>82</sup>
 * Первая любовь ~ [Вит](users/300/300273923-vkontakte)<sup>82</sup>
 * Рождённый туманом. Источник Вознесения ~ [Garka](users/115/115753719718250012620-google)<sup>316</sup>
@@ -30,7 +31,6 @@
 * Book of Hours: Love Poems to God ~ [Triste](users/517/5175580462988229760-mailru)<sup>62</sup>
 * Академия элитных магов ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>159</sup>
 * Невероятное. История преступления, в которое никто не поверил ~ [albina_untiring](users/257/2579695-vkontakte)<sup>36</sup>
-* Until the End of Time ~ [Victoriaperfectum](users/117/117396356938980769291-google)<sup>11</sup>
 
 
-_25.06.2022 22:05:51_
+_27.06.2022 12:47:01_

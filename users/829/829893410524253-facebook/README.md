@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>257</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>258</sup>
 ---
 
 ## 2022
+
+### Цифровий
+Марина та Сергій Дяченко
+> [2022-06-26] 10/10 Арсен-маніпулятор у світі непростих відеоігор.
+
 
 ### Бігуни
 Ольга Токарчук
