@@ -1,4 +1,16 @@
 {
+    "dnfW6_cwa4": {
+        "id": "dnfW6_cwa4",
+        "title": "Голоса летнего дня",
+        "author": "Ирвин Шоу",
+        "notes": "",
+        "createdAt": "2022-06-28 13:42:42",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 84
+        }
+    },
     "_zjm200sBb": {
         "id": "_zjm200sBb",
         "title": "Четвертая технологическая революция",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 72
-        }
-    },
-    "Sms4WfFBSk": {
-        "id": "Sms4WfFBSk",
-        "title": "Дело о беглой медсестре",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-06-20 18:52:12",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 935
         }
     }
 }
