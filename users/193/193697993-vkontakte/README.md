@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>74</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>75</sup>
 ---
 
 ## 2022
+
+### Ведьма в шоколаде
+Ольга Пашнина
+> [2022-06-28] 
+
 
 ### Замуж по подписке
 Ольга Пашнина, Анна Одувалова
