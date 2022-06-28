@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>23</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>337</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>164</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>258</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118100475290024631360-google)<sup>0</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
 [rakahosha](users/100/100759961280206170633-google)<sup>0</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>146</sup> 
 
 
-_27.06.2022 21:09:38_
+_28.06.2022 09:00:11_

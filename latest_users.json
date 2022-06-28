@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 23,
+        "updatedAt": "2022-06-28 09:00:11"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Lala",
@@ -172,11 +178,5 @@
         "nickname": "rakahosha",
         "booksCount": 0,
         "updatedAt": "2022-06-11 02:15:37"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 146,
-        "updatedAt": "2022-06-10 15:47:39"
     }
 }

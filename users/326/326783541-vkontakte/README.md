@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>22</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>23</sup>
 ---
 
 ## 2022
+
+### Лето в пионерском галстуке
+> [2022-07-28] 
+
 
 ### Вторая Академия
 Айзек Азимов
