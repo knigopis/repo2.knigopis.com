@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Четвертая технологическая революция ~ [Вит](users/300/300273923-vkontakte)<sup>83</sup>
+    > Ничего сверхъестественного. Много воды и туманных рассуждений. Банальные хотелки
+
 * Не привлекай внимания ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>164</sup>
     > Мама всегда говорила: не привлекай внимания, и я была послушной девочкой, но даже это не уберегло меня от вампиров. Они так прочно вошли в нашу жизнь, что скрыться от них нет никакой возможности. А если ты еще и похожа на погибшую девушку одного из влиятельных вампиров, то будь уверена – твоя жизнь будет разрушена. Начнется новая, но какова она будет, если жить придется среди ненавистных кровососов? Они совершенно не хотят осознавать, что помимо внешности у меня еще есть душа. Смогу ли я что-то изменить, или даже не стоит и пытаться?
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Арсен-маніпулятор у світі непростих відеоігор.
 
 * Россия во мгле ~ [Вит](users/300/300273923-vkontakte)<sup>82</sup>
-    > На удивление колоссально интересно!
 
 * Первая любовь ~ [Вит](users/300/300273923-vkontakte)<sup>82</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * История одной смерти ~ [Вит](users/300/300273923-vkontakte)<sup>79</sup>
 
-* Чтение о Богочеловечестве ~ [Вит](users/300/300273923-vkontakte)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>83</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>75</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>23</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>337</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [111](users/309/309238388536274478-mailru)<sup>69</sup> 
 [](users/262/26220924-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>938</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>82</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>243</sup> 
 [](users/220/2203011-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>316</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rakahosha](users/100/100759961280206170633-google)<sup>0</sup> 
 
 
-_28.06.2022 10:30:30_
+_28.06.2022 13:40:45_
