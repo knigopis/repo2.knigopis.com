@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>243</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>244</sup>
 ---
 
 ## 2022
+
+### Два брата
+Бен Элтон
+> [2022-06-29] 
+
 
 ### Дарт мол : диверсант
 Джеймс Лусено
