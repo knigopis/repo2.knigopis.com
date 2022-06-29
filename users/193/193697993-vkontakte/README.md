@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>76</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>77</sup>
 ---
 
 ## 2022
+
+### Приморская академия, или Ты просто пока не привык
+Милена Завойчинская
+> [2022-06-30] 
+
 
 ### Я не ведьма
 Тереза Тур

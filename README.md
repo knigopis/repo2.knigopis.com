@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[butercupa](users/193/193697993-vkontakte)<sup>76</sup> 
+[butercupa](users/193/193697993-vkontakte)<sup>77</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>244</sup> 
 [igoreck74](users/196/19636499-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113407984384376187261-google)<sup>0</sup> 
 
 
-_29.06.2022 10:19:05_
+_29.06.2022 23:07:48_

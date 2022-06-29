@@ -1,4 +1,16 @@
 {
+    "74Hp9fq70z": {
+        "id": "74Hp9fq70z",
+        "title": "Приморская академия, или Ты просто пока не привык",
+        "author": "Милена Завойчинская",
+        "notes": "",
+        "createdAt": "2022-06-29 23:07:48",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 77
+        }
+    },
     "z51ud9wsOk": {
         "id": "z51ud9wsOk",
         "title": "Я не ведьма",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 79
-        }
-    },
-    "bfIL-HET_h": {
-        "id": "bfIL-HET_h",
-        "title": "Чтение о Богочеловечестве",
-        "author": "Владимир соловьев",
-        "notes": "Не дочитал. Не смог.",
-        "createdAt": "2022-06-21 20:24:55",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 78
         }
     }
 }
