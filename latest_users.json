@@ -1,4 +1,10 @@
 {
+    "19636499-vkontakte": {
+        "id": "19636499-vkontakte",
+        "nickname": "igoreck74",
+        "booksCount": 0,
+        "updatedAt": "2022-06-29 04:47:29"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-06-11 10:12:06"
-    },
-    "100759961280206170633-google": {
-        "id": "100759961280206170633-google",
-        "nickname": "rakahosha",
-        "booksCount": 0,
-        "updatedAt": "2022-06-11 02:15:37"
     }
 }
