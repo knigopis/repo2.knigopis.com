@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[igoreck74](users/196/19636499-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>75</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
-[rakahosha](users/100/100759961280206170633-google)<sup>0</sup> 
 
 
-_28.06.2022 13:42:42_
+_29.06.2022 04:47:29_
