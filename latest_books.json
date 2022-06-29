@@ -1,4 +1,16 @@
 {
+    "z51ud9wsOk": {
+        "id": "z51ud9wsOk",
+        "title": "Я не ведьма",
+        "author": "Тереза Тур",
+        "notes": "",
+        "createdAt": "2022-06-29 10:19:05",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 76
+        }
+    },
     "dOSb_ereEi": {
         "id": "dOSb_ereEi",
         "title": "Два брата",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 78
-        }
-    },
-    "S0Sx_ILYQq": {
-        "id": "S0Sx_ILYQq",
-        "title": "Сидхартха",
-        "author": "Гессе Герман",
-        "notes": "Ерунда. Полная. Еле дочитал.\nКакое-то детское чтиво в духе Тимура и его команды. \nКакое-то дикое почитание индуизма.",
-        "createdAt": "2022-06-21 05:09:46",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 77
         }
     }
 }
