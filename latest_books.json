@@ -1,4 +1,16 @@
 {
+    "qw0F3htgDJ": {
+        "id": "qw0F3htgDJ",
+        "title": "Скотный двор",
+        "author": "Оруэлл",
+        "notes": "",
+        "createdAt": "2022-06-30 15:23:02",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 25
+        }
+    },
     "yQlqxK7ohz": {
         "id": "yQlqxK7ohz",
         "title": "Обещана дракону или счастье по договору",
@@ -345,18 +357,6 @@
             "id": "100097069456712612136-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "CVo_shGMqE": {
-        "id": "CVo_shGMqE",
-        "title": "Казино смерти. Странный Томас-2",
-        "author": "Дин Кунц",
-        "notes": "",
-        "createdAt": "2022-06-23 04:00:35",
-        "user": {
-            "id": "100097069456712612136-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

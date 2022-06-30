@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>24</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>25</sup>
 ---
 
 ## 2022
+
+### Скотный двор
+Оруэлл
+> [2022-07-30] 
+
 
 ### Лето в пионерском галстуке
 > [2022-07-28] 
