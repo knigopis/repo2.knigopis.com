@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>77</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>24</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>77</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>244</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113308925972173799436-google)<sup>0</sup> 
 [](users/100/10038681-vkontakte)<sup>0</sup> 
 [](users/115/115058436318443463985-google)<sup>3</sup> 
-[](users/153/1537586159620888-facebook)<sup>76</sup> 
 [](users/106/106089272412244528912-google)<sup>0</sup> 
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 [](users/118/118100475290024631360-google)<sup>0</sup> 
 [](users/113/113407984384376187261-google)<sup>0</sup> 
 
 
-_30.06.2022 08:27:02_
+_30.06.2022 12:13:51_

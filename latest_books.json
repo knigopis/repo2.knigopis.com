@@ -1,4 +1,16 @@
 {
+    "V3zvhpj9vp": {
+        "id": "V3zvhpj9vp",
+        "title": "Рецепт идеальной жены",
+        "author": "Карма Браун",
+        "notes": "",
+        "createdAt": "2022-06-30 12:13:51",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 77
+        }
+    },
     "wUUocLzXF6": {
         "id": "wUUocLzXF6",
         "title": "О чем молчит ласточка",
@@ -345,18 +357,6 @@
             "id": "111656270551033014778-google",
             "nickname": "eva",
             "booksCount": 132
-        }
-    },
-    "I0ag7UHLQh": {
-        "id": "I0ag7UHLQh",
-        "title": "Дело о сбежавшем трупе",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-06-22 16:28:10",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 936
         }
     }
 }

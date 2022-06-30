@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>76</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>77</sup>
 ---
 
 ## 2022
+
+### Рецепт идеальной жены
+Карма Браун
+> [2022-06] 
+
 
 ### Толстушка в самолете
 Келли Девос
