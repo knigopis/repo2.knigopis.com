@@ -1,4 +1,16 @@
 {
+    "ITwDgzGtCP": {
+        "id": "ITwDgzGtCP",
+        "title": "Прокляты и убиты.чертова яма",
+        "author": "Виктор Астафьев",
+        "notes": "",
+        "createdAt": "2022-07-01 23:48:53",
+        "user": {
+            "id": "134671934-vkontakte",
+            "nickname": "slava_kite",
+            "booksCount": 12
+        }
+    },
     "lSinomJenx": {
         "id": "lSinomJenx",
         "title": "Между двумя мирами. Школа выживания",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 315
-        }
-    },
-    "dnhb3Kw8T8": {
-        "id": "dnhb3Kw8T8",
-        "title": "Путешествия Гуливера",
-        "author": "Джонатан Свифт",
-        "notes": "",
-        "createdAt": "2022-06-25 08:34:54",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 241
         }
     }
 }
