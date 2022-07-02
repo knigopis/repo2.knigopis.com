@@ -1,4 +1,10 @@
 {
+    "106107989792957993574-google": {
+        "id": "106107989792957993574-google",
+        "nickname": "MiriMiri",
+        "booksCount": 35,
+        "updatedAt": "2022-07-02 21:34:29"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tututu",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-06-12 19:05:54"
-    },
-    "408598507-yandex": {
-        "id": "408598507-yandex",
-        "nickname": "digital.hell",
-        "booksCount": 0,
-        "updatedAt": "2022-06-12 09:44:18"
     }
 }

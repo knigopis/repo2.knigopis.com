@@ -1,7 +1,11 @@
-# List of books read by [MiriMiri](https://plus.google.com/u/0/106107989792957993574/)<sup>34</sup>
+# List of books read by [MiriMiri](https://plus.google.com/u/0/106107989792957993574/)<sup>35</sup>
 ---
 
 ## 2022
+
+### Емоційна гнучкість
+> [2022-06-26] 
+
 
 ### Фігач! Не плач. Повір у себе та живи на повну
 Джен Сінсеро
