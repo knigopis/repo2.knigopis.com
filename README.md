@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Феня Котовна](users/109/109746193906459706720-google)<sup>167</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>12</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>166</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>328</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>25</sup> 
 [](users/153/1537586159620888-facebook)<sup>77</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 
 
-_01.07.2022 23:48:53_
+_02.07.2022 14:15:19_
