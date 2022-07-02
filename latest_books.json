@@ -1,4 +1,16 @@
 {
+    "TgPuQSSJxe": {
+        "id": "TgPuQSSJxe",
+        "title": "Калейдоскоп классов",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2022-07-02 18:44:42",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 39
+        }
+    },
     "OFNUSfDOpU": {
         "id": "OFNUSfDOpU",
         "title": "Между двумя мирами. Сердце Абриса",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 73
-        }
-    },
-    "K8MM8jTbjB": {
-        "id": "K8MM8jTbjB",
-        "title": "Рождённый туманом. Источник Вознесения",
-        "author": "Сандерсон, Брендон",
-        "notes": "Лорд Правитель пал, но он не был Героем веков и тем не менее как-то сдерживал Бездну, но после его смерти она возвращается, туман снова убивает.",
-        "createdAt": "2022-06-25 09:07:50",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 316
         }
     }
 }

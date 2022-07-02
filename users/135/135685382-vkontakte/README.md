@@ -1,7 +1,12 @@
-# List of books read by [tututu](http://vk.com/id135685382)<sup>38</sup>
+# List of books read by [tututu](http://vk.com/id135685382)<sup>39</sup>
 ---
 
 ## 2022
+
+### Калейдоскоп классов
+Стивен Кинг
+> [2022-07-02] 
+
 
 ### Страна радости
 Стивен Кинг

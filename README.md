@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>39</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>167</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>328</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108992088462396254260-google)<sup>0</sup> 
 [](users/100/100097069456712612136-google)<sup>2</sup> 
 [eva](users/111/111656270551033014778-google)<sup>132</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>38</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup> 
 [pria](users/128/128917939-vkontakte)<sup>64</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>201</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [digital.hell](users/408/408598507-yandex)<sup>0</sup> 
 
 
-_02.07.2022 14:15:19_
+_02.07.2022 18:44:42_
