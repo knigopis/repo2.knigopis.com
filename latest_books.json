@@ -1,4 +1,16 @@
 {
+    "wsTeKkmmC1": {
+        "id": "wsTeKkmmC1",
+        "title": "Майдан. Таємні файли",
+        "author": "Брати Капранови",
+        "notes": "",
+        "createdAt": "2022-07-03 12:25:18",
+        "user": {
+            "id": "374149854-vkontakte",
+            "nickname": "danyluk62",
+            "booksCount": 148
+        }
+    },
     "lQOgI5Zmxa": {
         "id": "lQOgI5Zmxa",
         "title": "Володимир Тітарчук",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": "111",
             "booksCount": 67
-        }
-    },
-    "rg_1VmpSSN": {
-        "id": "rg_1VmpSSN",
-        "title": "Дарт мол : диверсант",
-        "author": "Джеймс Лусено",
-        "notes": "",
-        "createdAt": "2022-06-25 11:08:50",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 243
         }
     }
 }

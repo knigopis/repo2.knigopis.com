@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>147</sup>
+# List of books read by danyluk62<sup>148</sup>
 ---
 
 ## 2022
+
+### Майдан. Таємні файли
+Брати Капранови
+> [2022-07] 
+
 
 ### Володимир Тітарчук
 Марія Згурська
