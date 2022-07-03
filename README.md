@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>147</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>35</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>39</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>167</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113308925972173799436-google)<sup>0</sup> 
 [](users/100/10038681-vkontakte)<sup>0</sup> 
 [](users/115/115058436318443463985-google)<sup>3</sup> 
-[](users/106/106089272412244528912-google)<sup>0</sup> 
 
 
-_02.07.2022 21:34:29_
+_03.07.2022 12:24:44_
