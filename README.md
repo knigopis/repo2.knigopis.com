@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Samo.soverwenstvo](users/794/79473926-yandex)<sup>0</sup> 
+[Samo.soverwenstvo](users/794/79473926-yandex)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>939</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>148</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>35</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/10038681-vkontakte)<sup>0</sup> 
 
 
-_04.07.2022 22:37:44_
+_04.07.2022 22:38:10_
