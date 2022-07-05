@@ -1,4 +1,16 @@
 {
+    "ROvIlyhASd": {
+        "id": "ROvIlyhASd",
+        "title": "Симметрия желаний",
+        "author": "Эшколь Нево",
+        "notes": "",
+        "createdAt": "2022-07-05 22:39:58",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 78
+        }
+    },
     "I4VnF2PMjC": {
         "id": "I4VnF2PMjC",
         "title": "Всеобщая история. Новейшая история. 9 класс",
@@ -345,18 +357,6 @@
             "id": "309238388536274478-mailru",
             "nickname": "111",
             "booksCount": 69
-        }
-    },
-    "TkJLXGrzRR": {
-        "id": "TkJLXGrzRR",
-        "title": "Замуж по подписке",
-        "author": "Ольга Пашнина, Анна Одувалова",
-        "notes": "",
-        "createdAt": "2022-06-26 22:22:24",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 74
         }
     }
 }

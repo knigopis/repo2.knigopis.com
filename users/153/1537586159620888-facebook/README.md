@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>77</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>78</sup>
 ---
 
 ## 2022
+
+### Симметрия желаний
+Эшколь Нево
+> [2022-07] 
+
 
 ### Рецепт идеальной жены
 Карма Браун
