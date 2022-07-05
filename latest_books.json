@@ -1,4 +1,16 @@
 {
+    "1NW5CVTNhR": {
+        "id": "1NW5CVTNhR",
+        "title": "Остров сокровищ",
+        "author": "Роберт Льюис Стивенсон",
+        "notes": "",
+        "createdAt": "2022-07-05 07:52:26",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 245
+        }
+    },
     "BSqKMX1Ndn": {
         "id": "BSqKMX1Ndn",
         "title": "Вейн",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 938
-        }
-    },
-    "be5iD46ulo": {
-        "id": "be5iD46ulo",
-        "title": "Россия во мгле",
-        "author": "Уэллс Герберт",
-        "notes": "На удивление колоссально интересно!",
-        "createdAt": "2022-06-25 22:05:51",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 82
         }
     }
 }

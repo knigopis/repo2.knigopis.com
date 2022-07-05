@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>244</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>245</sup>
 ---
 
 ## 2022
+
+### Остров сокровищ
+Роберт Льюис Стивенсон
+> [2022-07-05] 
+
 
 ### Два брата
 Бен Элтон
