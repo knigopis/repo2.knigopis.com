@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>205</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>245</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>168</sup> 
 [Samo.soverwenstvo](users/794/79473926-yandex)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup> 
 [Иннчоус](users/584/584548489-vkontakte)<sup>0</sup> 
 [](users/113/113308925972173799436-google)<sup>0</sup> 
-[](users/100/10038681-vkontakte)<sup>0</sup> 
 
 
-_05.07.2022 07:52:26_
+_05.07.2022 14:37:43_

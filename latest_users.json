@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 205,
+        "updatedAt": "2022-07-05 14:37:43"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-06-14 18:56:22"
-    },
-    "10038681-vkontakte": {
-        "id": "10038681-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-06-14 04:42:13"
     }
 }

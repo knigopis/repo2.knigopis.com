@@ -1,4 +1,16 @@
 {
+    "I4VnF2PMjC": {
+        "id": "I4VnF2PMjC",
+        "title": "Всеобщая история. Новейшая история. 9 класс",
+        "author": "А. В. Шубин",
+        "notes": "",
+        "createdAt": "2022-07-05 14:37:43",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 205
+        }
+    },
     "1NW5CVTNhR": {
         "id": "1NW5CVTNhR",
         "title": "Остров сокровищ",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 74
-        }
-    },
-    "DtSoGUYw0a": {
-        "id": "DtSoGUYw0a",
-        "title": "Дело о гламурном призраке",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-06-26 17:14:28",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 938
         }
     }
 }
