@@ -1,4 +1,16 @@
 {
+    "e0NwJATpZg": {
+        "id": "e0NwJATpZg",
+        "title": "Гарри Поттер и Кубок огня",
+        "author": "Джоан Роулинг",
+        "notes": "audio",
+        "createdAt": "2022-07-06 07:32:57",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 63
+        }
+    },
     "ROvIlyhASd": {
         "id": "ROvIlyhASd",
         "title": "Симметрия желаний",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 258
-        }
-    },
-    "SQ2MNOCynG": {
-        "id": "SQ2MNOCynG",
-        "title": "Пост",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2022-06-26 22:33:26",
-        "user": {
-            "id": "309238388536274478-mailru",
-            "nickname": "111",
-            "booksCount": 69
         }
     }
 }
