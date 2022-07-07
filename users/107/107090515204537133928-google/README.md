@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>245</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>246</sup>
 ---
 
 ## 2022
+
+### Вот вы говорите "бессмертие это скучно"
+Сергей Лукьяненко
+> [2022-07-07] 
+
 
 ### Остров сокровищ
 Роберт Льюис Стивенсон
