@@ -1,4 +1,16 @@
 {
+    "0FtsFymdLZ": {
+        "id": "0FtsFymdLZ",
+        "title": "Маска красной смерти",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2022-07-08 13:13:01",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 247
+        }
+    },
     "dmXp5GLtJp": {
         "id": "dmXp5GLtJp",
         "title": "Мертвое",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 75
-        }
-    },
-    "Mf4o8svIjU": {
-        "id": "Mf4o8svIjU",
-        "title": "Лето в пионерском галстуке",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-06-28 09:00:11",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 23
         }
     }
 }

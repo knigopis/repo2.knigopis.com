@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>246</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>247</sup>
 ---
 
 ## 2022
+
+### Маска красной смерти
+Эдгар Аллан По
+> [2022-07-08] 
+
 
 ### Вот вы говорите "бессмертие это скучно"
 Сергей Лукьяненко
