@@ -1,4 +1,16 @@
 {
+    "xEZeSkfgdn": {
+        "id": "xEZeSkfgdn",
+        "title": "Rebel Cell: Cancer, Evolution and the Science of Life",
+        "author": "Kat Arney",
+        "notes": "",
+        "createdAt": "2022-07-09 10:37:16",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 202
+        }
+    },
     "Iw_MHMyRqf": {
         "id": "Iw_MHMyRqf",
         "title": "Дублинцы",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 84
-        }
-    },
-    "_zjm200sBb": {
-        "id": "_zjm200sBb",
-        "title": "Четвертая технологическая революция",
-        "author": "Клаус Шваб",
-        "notes": "Ничего сверхъестественного. Много воды и туманных рассуждений. Банальные хотелки",
-        "createdAt": "2022-06-28 13:40:45",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 83
         }
     }
 }
