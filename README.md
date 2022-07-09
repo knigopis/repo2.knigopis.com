@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Після третього дзвінка вхід до зали забороняється ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup>
+    > 9/10 Найвідоміші оповідання, сестра, калинова сопілка, та ін.
+
 * Мертвое ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>169</sup>
     > Выросшей в приюте сироте Вивьен Джой невероятно повезло: она похожа на аристократку Иви-Ардену Левингстон. А поскольку Ардена совсем не желает проводить целый год в Двериндариуме и пять раз открывать Дверь в Мертвомир, получая необыкновенные Дары, она предлагает Вивьен выгодную сделку. Нищая девушка притворяется знатной Левингстон и может год пользоваться всеми благами пребывания на Острове Двери.
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Интересна концовка. Жаль, что всего 3 книги, одно из лучших произведений в жанре.
 
 * Гарри Поттер и Кубок огня ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>63</sup>
-    > audio
 
 * Вейн ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>168</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Четвертая технологическая революция ~ [Вит](users/300/300273923-vkontakte)<sup>83</sup>
 
-* Не привлекай внимания ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>164</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>202</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>940</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>247</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [igoreck74](users/196/19636499-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>337</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>258</sup> 
 [111](users/309/309238388536274478-mailru)<sup>69</sup> 
 [](users/262/26220924-yandex)<sup>0</sup> 
 [](users/220/2203011-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Иннчоус](users/584/584548489-vkontakte)<sup>0</sup> 
 
 
-_09.07.2022 10:37:16_
+_09.07.2022 11:01:07_

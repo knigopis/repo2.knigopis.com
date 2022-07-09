@@ -1,4 +1,16 @@
 {
+    "MGpKk7CgLX": {
+        "id": "MGpKk7CgLX",
+        "title": "Після третього дзвінка вхід до зали забороняється",
+        "author": "Оксана Забужко",
+        "notes": "9/10 Найвідоміші оповідання, сестра, калинова сопілка, та ін.",
+        "createdAt": "2022-07-09 11:01:07",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 259
+        }
+    },
     "xEZeSkfgdn": {
         "id": "xEZeSkfgdn",
         "title": "Rebel Cell: Cancer, Evolution and the Science of Life",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 244
-        }
-    },
-    "dnfW6_cwa4": {
-        "id": "dnfW6_cwa4",
-        "title": "Голоса летнего дня",
-        "author": "Ирвин Шоу",
-        "notes": "",
-        "createdAt": "2022-06-28 13:42:42",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 84
         }
     }
 }

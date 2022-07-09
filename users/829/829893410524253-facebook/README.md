@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>258</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>259</sup>
 ---
 
 ## 2022
+
+### Після третього дзвінка вхід до зали забороняється
+Оксана Забужко
+> [2022-07-06] 9/10 Найвідоміші оповідання, сестра, калинова сопілка, та ін.
+
 
 ### Цифровий
 Марина та Сергій Дяченко
