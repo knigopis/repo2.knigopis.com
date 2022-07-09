@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>247</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>248</sup>
 ---
 
 ## 2022
+
+### Винтовка
+Джек Кетчам
+> [2022-07-09] 
+
 
 ### Маска красной смерти
 Эдгар Аллан По
