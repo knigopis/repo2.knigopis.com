@@ -1,4 +1,16 @@
 {
+    "Iw_MHMyRqf": {
+        "id": "Iw_MHMyRqf",
+        "title": "Дублинцы",
+        "author": "Джеймс Джойс",
+        "notes": "",
+        "createdAt": "2022-07-09 08:36:20",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 940
+        }
+    },
     "0FtsFymdLZ": {
         "id": "0FtsFymdLZ",
         "title": "Маска красной смерти",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 83
-        }
-    },
-    "AjIwSHER6x": {
-        "id": "AjIwSHER6x",
-        "title": "Ведьма в шоколаде",
-        "author": "Ольга Пашнина",
-        "notes": "",
-        "createdAt": "2022-06-28 10:30:30",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 75
         }
     }
 }
