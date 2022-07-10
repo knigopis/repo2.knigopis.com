@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
+[БухойКот](users/110/110048943341360971998-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>171</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100097069456712612136-google)<sup>2</sup> 
 
 
-_10.07.2022 16:32:36_
+_10.07.2022 16:33:17_
