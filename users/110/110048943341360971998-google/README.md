@@ -1,3 +1,11 @@
-# List of books read by [БухойКот](https://plus.google.com/u/0/110048943341360971998/)<sup>0</sup>
+# List of books read by [БухойКот](https://plus.google.com/u/0/110048943341360971998/)<sup>1</sup>
 ---
+
+## 2022
+
+### Рок
+Б. Миловзоров
+> [2022-07-10] Было интересно
+
+
 
