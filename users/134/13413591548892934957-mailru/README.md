@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>412</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>413</sup>
 ---
 
 ## 2022
+
+### Вся кремлевская рать
+Михаил Зыгарь
+> [2022-06-08] 
+
 
 ### Источник
 Айн Рэнд
