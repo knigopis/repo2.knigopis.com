@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[albina_untiring](users/257/2579695-vkontakte)<sup>38</sup> 
+[albina_untiring](users/257/2579695-vkontakte)<sup>37</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>171</sup> 
 [eva](users/111/111656270551033014778-google)<sup>133</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>941</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Иннчоус](users/584/584548489-vkontakte)<sup>0</sup> 
 
 
-_10.07.2022 13:32:54_
+_10.07.2022 13:35:11_
