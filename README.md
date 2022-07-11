@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>268</sup> 
 [](users/111/111801556640666266346-google)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>79</sup> 
 [pria](users/128/128917939-vkontakte)<sup>65</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>337</sup> 
 [111](users/309/309238388536274478-mailru)<sup>69</sup> 
 [](users/262/26220924-yandex)<sup>0</sup> 
-[](users/220/2203011-vkontakte)<sup>0</sup> 
 
 
-_11.07.2022 22:18:15_
+_11.07.2022 22:43:14_
