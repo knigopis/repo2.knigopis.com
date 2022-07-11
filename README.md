@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>79</sup> 
 [pria](users/128/128917939-vkontakte)<sup>65</sup> 
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>202</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>317</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>63</sup> 
-[](users/153/1537586159620888-facebook)<sup>78</sup> 
 [](users/108/108232389081536340744-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>205</sup> 
 [Samo.soverwenstvo](users/794/79473926-yandex)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108992088462396254260-google)<sup>0</sup> 
 
 
-_11.07.2022 04:39:34_
+_11.07.2022 19:42:59_
