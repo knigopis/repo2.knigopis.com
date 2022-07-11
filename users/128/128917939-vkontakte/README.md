@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>64</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>65</sup>
 ---
 
 ## 2022
+
+### Уникальное издание
+Том Хэнкс
+> [2022-07-10] 
+
 
 ### Дурная кровь
 Роберт Гэлбрейт

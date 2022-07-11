@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pria](users/128/128917939-vkontakte)<sup>65</sup> 
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>37</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/262/26220924-yandex)<sup>0</sup> 
 [](users/220/2203011-vkontakte)<sup>0</sup> 
 [](users/108/108992088462396254260-google)<sup>0</sup> 
-[](users/100/100097069456712612136-google)<sup>2</sup> 
 
 
-_10.07.2022 16:33:26_
+_11.07.2022 04:39:34_
