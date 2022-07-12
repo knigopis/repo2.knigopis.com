@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бузкові дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup>
+    > 9/10 історії ув'язненої з концтабору, благодійниці та нацистки.
+
 * Після третього дзвінка вхід до зали забороняється ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup>
     > 9/10 Найвідоміші оповідання, сестра, калинова сопілка, та ін.
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Теперь Вивьен должна жить в одном доме со сводным братом Ардены ‒ опасным и могущественным Кристианом, который искренне ненавидит сестру. Но это лишь малая часть испытаний, с которыми доведется столкнуться несчастной девушке на волшебном Острове. Ведь самое главное ‒ открытие заветной Двери ‒ еще не произошло.
 
 * Рождённый туманом. Герой Веков ~ [Garka](users/115/115753719718250012620-google)<sup>317</sup>
-    > Интересна концовка. Жаль, что всего 3 книги, одно из лучших произведений в жанре.
 
 * Гарри Поттер и Кубок огня ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>63</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Обещана дракону или счастье по договору ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup>
 
-* Четвертая технологическая революция ~ [Вит](users/300/300273923-vkontakte)<sup>83</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>249</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>268</sup> 
 [](users/111/111801556640666266346-google)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Феня Котовна](users/109/109746193906459706720-google)<sup>171</sup> 
 [eva](users/111/111656270551033014778-google)<sup>133</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>941</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>202</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>317</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>63</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/262/26220924-yandex)<sup>0</sup> 
 
 
-_12.07.2022 07:45:10_
+_12.07.2022 11:37:47_

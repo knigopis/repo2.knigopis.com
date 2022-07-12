@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бузкові дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup>
 * Після третього дзвінка вхід до зали забороняється ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup>
 * Мертвое ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>169</sup>
 * Рождённый туманом. Герой Веков ~ [Garka](users/115/115753719718250012620-google)<sup>317</sup>
@@ -30,7 +31,6 @@
 * МЫ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>62</sup>
 * В самое сердце ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>163</sup>
 * Дурная кровь ~ [pria](users/128/128917939-vkontakte)<sup>64</sup>
-* Бігуни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>257</sup>
 
 
-_09.07.2022 11:01:07_
+_12.07.2022 11:37:47_

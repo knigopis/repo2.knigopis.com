@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>259</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>260</sup>
 ---
 
 ## 2022
+
+### Бузкові дівчата
+Марта Холл Келлі
+> [2022-07-12] 9/10 історії ув'язненої з концтабору, благодійниці та нацистки.
+
 
 ### Після третього дзвінка вхід до зали забороняється
 Оксана Забужко
