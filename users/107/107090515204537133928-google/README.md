@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>249</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>250</sup>
 ---
 
 ## 2022
+
+### Старик и море
+Эрнест Хемингуэй
+> [2022-07-12] 
+
 
 ### Снега Килиманджаро рассказы
 Эрнест Хемингуэй

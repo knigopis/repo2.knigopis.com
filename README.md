@@ -37,8 +37,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>250</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>249</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>268</sup> 
 [](users/111/111801556640666266346-google)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>79</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/262/26220924-yandex)<sup>0</sup> 
 
 
-_12.07.2022 11:37:47_
+_12.07.2022 18:26:35_
