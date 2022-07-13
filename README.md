@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
+    > — Опаздывая, ты заставляешь своего собеседника ждать, а значит, ставишь себя выше него, выказываешь неуважение. Это сразу минус балл тебе в его глазах, —
+
 * Кошки- мышки (игры со смертью 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>329</sup>
     > Нравится мне мистика этого автора
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 історії ув'язненої з концтабору, благодійниці та нацистки.
 
 * Після третього дзвінка вхід до зали забороняється ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup>
-    > 9/10 Найвідоміші оповідання, сестра, калинова сопілка, та ін.
 
 * Мертвое ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>169</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>328</sup>
 
-* Игра с огнем ~ [Chiffi](users/105/105831994080785626680-google)<sup>327</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>330</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>253</sup> 
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>329</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>268</sup> 
 [](users/111/111801556640666266346-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [111](users/309/309238388536274478-mailru)<sup>69</sup> 
 
 
-_13.07.2022 09:19:04_
+_13.07.2022 17:49:12_
