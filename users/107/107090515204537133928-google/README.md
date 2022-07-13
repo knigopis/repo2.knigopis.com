@@ -1,7 +1,11 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>250</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>251</sup>
 ---
 
 ## 2022
+
+### Слово о полку Игореве
+> [2022-07-13] 
+
 
 ### Старик и море
 Эрнест Хемингуэй
