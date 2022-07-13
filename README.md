@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>252</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>253</sup> 
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>329</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [111](users/309/309238388536274478-mailru)<sup>69</sup> 
 
 
-_13.07.2022 08:15:16_
+_13.07.2022 09:19:04_

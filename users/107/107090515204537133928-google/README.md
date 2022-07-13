@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>252</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>253</sup>
 ---
 
 ## 2022
+
+### Отец основатель
+Клиффорд Саймак
+> [2022-07-13] 
+
 
 ### Холодно, холодно
 Борис Васильев

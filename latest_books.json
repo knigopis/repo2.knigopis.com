@@ -1,4 +1,16 @@
 {
+    "G7nWGAFxkl": {
+        "id": "G7nWGAFxkl",
+        "title": "Отец основатель",
+        "author": "Клиффорд Саймак",
+        "notes": "",
+        "createdAt": "2022-07-13 09:19:04",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 253
+        }
+    },
     "6rrGxPAY_q": {
         "id": "6rrGxPAY_q",
         "title": "Холодно, холодно",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 168
-        }
-    },
-    "qzhestt9SS": {
-        "id": "qzhestt9SS",
-        "title": "Ночь нежна",
-        "author": "Фицджеральд",
-        "notes": "",
-        "createdAt": "2022-07-04 22:38:10",
-        "user": {
-            "id": "79473926-yandex",
-            "nickname": "Samo.soverwenstvo",
-            "booksCount": 1
         }
     }
 }
