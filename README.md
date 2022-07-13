@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>329</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>250</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>337</sup> 
 [111](users/309/309238388536274478-mailru)<sup>69</sup> 
-[](users/262/26220924-yandex)<sup>0</sup> 
 
 
-_12.07.2022 19:43:57_
+_13.07.2022 06:13:42_
