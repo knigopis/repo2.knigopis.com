@@ -1,4 +1,16 @@
 {
+    "6rrGxPAY_q": {
+        "id": "6rrGxPAY_q",
+        "title": "Холодно, холодно",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2022-07-13 08:15:16",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 252
+        }
+    },
     "EzFGtYa3S8": {
         "id": "EzFGtYa3S8",
         "title": "Слово о полку Игореве",
@@ -345,18 +357,6 @@
             "id": "79473926-yandex",
             "nickname": "Samo.soverwenstvo",
             "booksCount": 1
-        }
-    },
-    "a9KYlL6-mr": {
-        "id": "a9KYlL6-mr",
-        "title": "Лотта в Веймаре",
-        "author": "Томас Манн",
-        "notes": "",
-        "createdAt": "2022-07-04 09:42:35",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 939
         }
     }
 }

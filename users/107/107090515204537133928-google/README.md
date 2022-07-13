@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>251</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>252</sup>
 ---
 
 ## 2022
+
+### Холодно, холодно
+Борис Васильев
+> [2022-07-13] 
+
 
 ### Слово о полку Игореве
 > [2022-07-13] 
