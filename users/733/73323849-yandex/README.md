@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>81</sup>
+# List of books read by inna.besprozvannykh<sup>82</sup>
 ---
 
 ## 2022
@@ -11,6 +11,10 @@
 ### Твой второй мозг-кишечник
 Божена кропка
 > [2022-01] 
+
+
+### Рестарт. Как прождить много жизней
+Ирина Хакамада
 
 
 

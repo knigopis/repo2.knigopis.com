@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 82,
+        "updatedAt": "2022-07-14 12:47:10"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "Lala",
         "booksCount": 337,
         "updatedAt": "2022-06-27 21:09:38"
-    },
-    "309238388536274478-mailru": {
-        "id": "309238388536274478-mailru",
-        "nickname": "111",
-        "booksCount": 69,
-        "updatedAt": "2022-06-26 22:33:26"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "WWhVfCtxTh": {
+        "id": "WWhVfCtxTh",
+        "title": "Рестарт. Как прождить много жизней",
+        "author": "Ирина Хакамада",
+        "notes": "",
+        "createdAt": "2022-07-14 12:47:10",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 82
+        }
+    },
     "3QUlZlgJQN": {
         "id": "3QUlZlgJQN",
         "title": "Тарас Бульба",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 78
-        }
-    },
-    "I4VnF2PMjC": {
-        "id": "I4VnF2PMjC",
-        "title": "Всеобщая история. Новейшая история. 9 класс",
-        "author": "А. В. Шубин",
-        "notes": "",
-        "createdAt": "2022-07-05 14:37:43",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 205
         }
     }
 }
