@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>253</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>254</sup>
 ---
 
 ## 2022
+
+### Тарас Бульба
+Николай Гоголь
+> [2022-07-14] 
+
 
 ### Отец основатель
 Клиффорд Саймак
