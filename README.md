@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[korkem.avezbai](users/535/535554968-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>254</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>330</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>77</sup> 
 [igoreck74](users/196/19636499-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>337</sup> 
 
 
-_14.07.2022 12:48:09_
+_14.07.2022 13:46:52_
