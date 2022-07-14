@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Людина бежить над прірвою ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup>
+    > 7/10 Тяжке повернення додому.
+
 * Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
     > — Опаздывая, ты заставляешь своего собеседника ждать, а значит, ставишь себя выше него, выказываешь неуважение. Это сразу минус балл тебе в его глазах, —
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Нравится мне мистика этого автора
 
 * Бузкові дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup>
-    > 9/10 історії ув'язненої з концтабору, благодійниці та нацистки.
 
 * Після третього дзвінка вхід до зали забороняється ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Между двумя мирами. Школа выживания ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>166</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>328</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>254</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>330</sup> 
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>268</sup> 
 [](users/111/111801556640666266346-google)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>79</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
 
 
-_14.07.2022 13:47:38_
+_14.07.2022 17:11:44_

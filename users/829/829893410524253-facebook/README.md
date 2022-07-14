@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>260</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>261</sup>
 ---
 
 ## 2022
+
+### Людина бежить над прірвою
+Іван Багряний
+> [2022-07-14] 7/10 Тяжке повернення додому.
+
 
 ### Бузкові дівчата
 Марта Холл Келлі
