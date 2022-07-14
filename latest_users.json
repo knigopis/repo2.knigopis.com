@@ -1,4 +1,10 @@
 {
+    "535554968-vkontakte": {
+        "id": "535554968-vkontakte",
+        "nickname": "korkem.avezbai",
+        "booksCount": 0,
+        "updatedAt": "2022-07-14 13:46:52"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "Вит",
         "booksCount": 84,
         "updatedAt": "2022-06-28 13:42:42"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 337,
-        "updatedAt": "2022-06-27 21:09:38"
     }
 }
