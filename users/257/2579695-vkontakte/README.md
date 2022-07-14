@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>37</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>38</sup>
 ---
 
 ## 2022
+
+### Кругом одни идиоты
+Томас Эриксон
+> [2022-07-15] Весьма субъективное разделение людей на 4 категории и советы по общению с каждой из них
+
 
 ### Хочу и буду
 М.Лабковский

@@ -1,4 +1,16 @@
 {
+    "oZZUjJhqv0": {
+        "id": "oZZUjJhqv0",
+        "title": "Кругом одни идиоты",
+        "author": "Томас Эриксон",
+        "notes": "Весьма субъективное разделение людей на 4 категории и советы по общению с каждой из них",
+        "createdAt": "2022-07-14 21:08:03",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 38
+        }
+    },
     "4EO-ptcbWR": {
         "id": "4EO-ptcbWR",
         "title": "Україна біля Тихого океану.",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 202
-        }
-    },
-    "Iw_MHMyRqf": {
-        "id": "Iw_MHMyRqf",
-        "title": "Дублинцы",
-        "author": "Джеймс Джойс",
-        "notes": "",
-        "createdAt": "2022-07-09 08:36:20",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 940
         }
     }
 }

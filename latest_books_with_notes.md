@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
 * Україна біля Тихого океану. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup>
 * Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
 * Людина бежить над прірвою ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup>
@@ -30,7 +31,6 @@
 * Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
 * Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
 * S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
-* Демиан ~ [Вит](users/300/300273923-vkontakte)<sup>74</sup>
 
 
-_14.07.2022 17:41:25_
+_14.07.2022 21:08:03_

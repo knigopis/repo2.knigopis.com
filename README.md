@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
+    > Весьма субъективное разделение людей на 4 категории и советы по общению с каждой из них
+
 * Україна біля Тихого океану. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup>
     > 8/10 Історія колонізації Далекого Сходу. Зелений Клин.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Програмний документ будь-якого українця.
 
 * Людина бежить над прірвою ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup>
-    > 7/10 Тяжке повернення додому.
 
 * Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рождённый туманом. Герой Веков ~ [Garka](users/115/115753719718250012620-google)<sup>317</sup>
 
-* Гарри Поттер и Кубок огня ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>38</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>65</sup> 
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>37</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>171</sup> 
 [eva](users/111/111656270551033014778-google)<sup>133</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>941</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
 
 
-_14.07.2022 17:41:25_
+_14.07.2022 21:08:03_
