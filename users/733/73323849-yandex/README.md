@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>83</sup>
+# List of books read by inna.besprozvannykh<sup>84</sup>
 ---
 
 ## 2022
+
+### Квантовый воин: Сознание будущего
+Джорн кехо
+> [2022-04] 
+
 
 ### Дикий гармон
 джейсон Фанг
