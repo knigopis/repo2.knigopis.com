@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>82</sup>
+# List of books read by inna.besprozvannykh<sup>83</sup>
 ---
 
 ## 2022
+
+### Дикий гармон
+джейсон Фанг
+> [2022-03] 
+
 
 ### Рестарт. Как прождить много жизней
 Ирина Хакамада
