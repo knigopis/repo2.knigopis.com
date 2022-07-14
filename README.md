@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Україна біля Тихого океану. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup>
+    > 8/10 Історія колонізації Далекого Сходу. Зелений Клин.
+
 * Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
     > 10/10 Програмний документ будь-якого українця.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Тяжке повернення додому.
 
 * Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
-    > — Опаздывая, ты заставляешь своего собеседника ждать, а значит, ставишь себя выше него, выказываешь неуважение. Это сразу минус балл тебе в его глазах, —
 
 * Кошки- мышки (игры со смертью 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>329</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Кубок огня ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>63</sup>
 
-* Вейн ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>168</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>254</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
 
 
-_14.07.2022 17:39:55_
+_14.07.2022 17:41:25_

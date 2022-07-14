@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>262</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>263</sup>
 ---
 
 ## 2022
+
+### Україна біля Тихого океану.
+Іван Багряний
+> [2022-07-14] 8/10 Історія колонізації Далекого Сходу. Зелений Клин.
+
 
 ### Чому я не хочу вертатись до СССР?
 Іван Багряний
