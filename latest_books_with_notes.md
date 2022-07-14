@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
 * Людина бежить над прірвою ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup>
 * Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
 * Кошки- мышки (игры со смертью 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>329</sup>
@@ -30,7 +31,6 @@
 * S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
 * Демиан ~ [Вит](users/300/300273923-vkontakte)<sup>74</sup>
 * Курортник ~ [Вит](users/300/300273923-vkontakte)<sup>73</sup>
-* Страна радости ~ [tututu](users/135/135685382-vkontakte)<sup>38</sup>
 
 
-_14.07.2022 17:11:44_
+_14.07.2022 17:39:55_

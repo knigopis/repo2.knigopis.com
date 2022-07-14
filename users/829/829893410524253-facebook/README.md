@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>261</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>262</sup>
 ---
 
 ## 2022
+
+### Чому я не хочу вертатись до СССР?
+Іван Багряний
+> [2022-07-14] 10/10 Програмний документ будь-якого українця.
+
 
 ### Людина бежить над прірвою
 Іван Багряний
