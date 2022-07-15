@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>254</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>255</sup>
 ---
 
 ## 2022
+
+### Аты-баты,школа солдаты
+Борис Васильев
+> [2022-07-15] 
+
 
 ### Тарас Бульба
 Николай Гоголь

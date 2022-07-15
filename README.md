@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>255</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>254</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>330</sup> 
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>268</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>84</sup> 
 
 
-_14.07.2022 21:08:03_
+_15.07.2022 08:07:10_
