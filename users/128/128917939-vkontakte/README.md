@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>65</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>66</sup>
 ---
 
 ## 2022
+
+### Гоблин
+Ким Ынсук
+> [2022-07-15] 
+
 
 ### Уникальный экземпляр
 Том Хэнкс
