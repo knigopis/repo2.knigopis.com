@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>943</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>942</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>255</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [igoreck74](users/196/19636499-vkontakte)<sup>0</sup> 
 
 
-_15.07.2022 15:52:52_
+_16.07.2022 17:38:16_
