@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Naricev](users/107/107090515204537133928-google)<sup>256</sup> 
+[Naricev](users/107/107090515204537133928-google)<sup>257</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>943</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [igoreck74](users/196/19636499-vkontakte)<sup>0</sup> 
 
 
-_17.07.2022 07:30:08_
+_17.07.2022 15:35:18_

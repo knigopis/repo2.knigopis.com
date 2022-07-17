@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>256</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>257</sup>
 ---
 
 ## 2022
+
+### Гибель кентавра
+Дэн Симмонс
+> [2022-07-17] 
+
 
 ### Принц и нищий
 Марк Твен

@@ -1,4 +1,16 @@
 {
+    "J-ZuCdSutu": {
+        "id": "J-ZuCdSutu",
+        "title": "Гибель кентавра",
+        "author": "Дэн Симмонс",
+        "notes": "",
+        "createdAt": "2022-07-17 15:35:18",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 257
+        }
+    },
     "j406PxHFHw": {
         "id": "j406PxHFHw",
         "title": "Принц и нищий",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 38
-        }
-    },
-    "Z_htfqPTRZ": {
-        "id": "Z_htfqPTRZ",
-        "title": "Забытое",
-        "author": "Марина Суржевская",
-        "notes": "",
-        "createdAt": "2022-07-10 08:21:45",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 171
         }
     }
 }
