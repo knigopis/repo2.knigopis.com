@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>338</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>257</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>943</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [slava_kite](users/134/134671934-vkontakte)<sup>12</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>25</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>77</sup> 
-[igoreck74](users/196/19636499-vkontakte)<sup>0</sup> 
 
 
-_17.07.2022 15:35:18_
+_17.07.2022 19:51:31_

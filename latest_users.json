@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 338,
+        "updatedAt": "2022-07-17 19:51:31"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 77,
         "updatedAt": "2022-06-29 23:07:48"
-    },
-    "19636499-vkontakte": {
-        "id": "19636499-vkontakte",
-        "nickname": "igoreck74",
-        "booksCount": 0,
-        "updatedAt": "2022-06-29 04:47:29"
     }
 }
