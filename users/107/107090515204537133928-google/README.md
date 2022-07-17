@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>255</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>256</sup>
 ---
 
 ## 2022
+
+### Принц и нищий
+Марк Твен
+> [2022-07-17] 
+
 
 ### Аты-баты,школа солдаты
 Борис Васильев
