@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>257</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>258</sup>
 ---
 
 ## 2022
+
+### Страшное гадание
+Александр Бестужев - Марлинский
+> [2022-07-18] 
+
 
 ### Гибель кентавра
 Дэн Симмонс

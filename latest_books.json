@@ -1,4 +1,16 @@
 {
+    "wBS3DeKa4m": {
+        "id": "wBS3DeKa4m",
+        "title": "Страшное гадание",
+        "author": "Александр Бестужев - Марлинский",
+        "notes": "",
+        "createdAt": "2022-07-18 08:35:08",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 258
+        }
+    },
     "3hioa1tMMy": {
         "id": "3hioa1tMMy",
         "title": "Тень драконьего крыла",
@@ -345,18 +357,6 @@
             "id": "110048943341360971998-google",
             "nickname": "БухойКот",
             "booksCount": 1
-        }
-    },
-    "dbDME-07ZY": {
-        "id": "dbDME-07ZY",
-        "title": "Вся кремлевская рать",
-        "author": "Михаил Зыгарь",
-        "notes": "",
-        "createdAt": "2022-07-10 15:23:56",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 413
         }
     }
 }
