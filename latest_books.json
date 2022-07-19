@@ -1,4 +1,16 @@
 {
+    "M6iHIbaRl2": {
+        "id": "M6iHIbaRl2",
+        "title": "Пятое действие",
+        "author": "Дмитрий Быков",
+        "notes": "",
+        "createdAt": "2022-07-19 01:52:42",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 135
+        }
+    },
     "2WpA6wexnf": {
         "id": "2WpA6wexnf",
         "title": "Травма и исцеление",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 268
-        }
-    },
-    "PA-PfsCiiw": {
-        "id": "PA-PfsCiiw",
-        "title": "Кому поверишь ты?",
-        "author": "Стефани Бюленс",
-        "notes": "",
-        "createdAt": "2022-07-11 19:42:59",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 79
         }
     }
 }
