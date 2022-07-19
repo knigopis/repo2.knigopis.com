@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
 * Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
 * Україна біля Тихого океану. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup>
 * Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
@@ -30,7 +31,6 @@
 * Чтение о Богочеловечестве ~ [Вит](users/300/300273923-vkontakte)<sup>78</sup>
 * Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
 * Дженерэйшн Пи ~ [Вит](users/300/300273923-vkontakte)<sup>76</sup>
-* S.N.U.F.F ~ [Вит](users/300/300273923-vkontakte)<sup>75</sup>
 
 
-_14.07.2022 21:08:03_
+_19.07.2022 12:44:13_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>263</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>264</sup>
 ---
 
 ## 2022
+
+### Тень и кость
+Ли Бардуго
+> [2022-07-18] 8/10 Гриши и Черный каньон.
+
 
 ### Україна біля Тихого океану.
 Іван Багряний
