@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>264</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>265</sup>
 ---
 
 ## 2022
+
+### Тигролови
+Іван Багряний
+> [2022-07-19] 8/10 Сміливі завжди мають щастя. Григорій Многогрішний полює на кішку.
+
 
 ### Тень и кость
 Ли Бардуго

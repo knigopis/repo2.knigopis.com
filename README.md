@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тигролови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup>
+    > 8/10 Сміливі завжди мають щастя. Григорій Многогрішний полює на кішку.
+
 * Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
     > 8/10 Гриши и Черный каньон.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Весьма субъективное разделение людей на 4 категории и советы по общению с каждой из них
 
 * Україна біля Тихого океану. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup>
-    > 8/10 Історія колонізації Далекого Сходу. Зелений Клин.
 
 * Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Після третього дзвінка вхід до зали забороняється ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>259</sup>
 
-* Мертвое ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>169</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup> 
 [eva](users/111/111656270551033014778-google)<sup>136</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>944</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>258</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>77</sup> 
 
 
-_19.07.2022 12:44:13_
+_19.07.2022 12:45:11_
