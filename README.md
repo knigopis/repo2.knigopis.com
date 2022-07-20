@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>339</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>31</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup> 
 [eva](users/111/111656270551033014778-google)<sup>136</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>944</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>258</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>338</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>25</sup> 
 
 
-_20.07.2022 13:46:42_
+_20.07.2022 21:02:19_
