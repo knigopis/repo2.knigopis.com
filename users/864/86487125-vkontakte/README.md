@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>29</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>30</sup>
 ---
 
 ## 2022
+
+### Всё предельно
+Стивен Кинг
+> [2022-07-15] 
+
 
 ### Игра Джералда
 Стивен Кинг
