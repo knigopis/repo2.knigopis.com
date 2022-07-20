@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>30</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>31</sup>
 ---
 
 ## 2022
+
+### После заката
+Стивен Кинг
+> [2022-07-19] 
+
 
 ### Всё предельно
 Стивен Кинг
