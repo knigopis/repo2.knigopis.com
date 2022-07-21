@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>38</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>39</sup>
 ---
 
 ## 2022
+
+### Компас эмоций
+Илсе Санд
+> [2022-07-22] Надо перечитывать
+
 
 ### Кругом одни идиоты
 Томас Эриксон

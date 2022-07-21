@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Компас эмоций ~ [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup>
+    > Надо перечитывать
+
 * Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
     > 7/10 Антиутопія. Кліматичні біженці з московії.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Тигролови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup>
-    > 8/10 Сміливі завжди мають щастя. Григорій Многогрішний полює на кішку.
 
 * Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
 
-* Кошки- мышки (игры со смертью 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>329</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>339</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>258</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>38</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>330</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>25</sup> 
 
 
-_21.07.2022 08:04:33_
+_21.07.2022 19:27:10_

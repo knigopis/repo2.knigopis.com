@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Компас эмоций ~ [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup>
 * Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
 * На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
 * Тигролови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup>
@@ -30,7 +31,6 @@
 * Рождённый туманом. Пепел и сталь ~ [Garka](users/115/115753719718250012620-google)<sup>315</sup>
 * Жизнь ~ [Вит](users/300/300273923-vkontakte)<sup>80</sup>
 * Странный Томас-1 ~ [](users/100/100097069456712612136-google)<sup>2</sup>
-* История одной смерти ~ [Вит](users/300/300273923-vkontakte)<sup>79</sup>
 
 
-_21.07.2022 08:04:33_
+_21.07.2022 19:27:10_
