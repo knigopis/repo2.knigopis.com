@@ -1,4 +1,16 @@
 {
+    "YA7FJJYlUE": {
+        "id": "YA7FJJYlUE",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "audio",
+        "createdAt": "2022-07-21 02:50:49",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 64
+        }
+    },
     "pLNKd9Uc4i": {
         "id": "pLNKd9Uc4i",
         "title": "Тигролови",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 78
-        }
-    },
-    "S0Sx_ILYQq": {
-        "id": "S0Sx_ILYQq",
-        "title": "Сидхартха",
-        "author": "Гессе Герман",
-        "notes": "Ерунда. Полная. Еле дочитал.\nКакое-то детское чтиво в духе Тимура и его команды. \nКакое-то дикое почитание индуизма.",
-        "createdAt": "2022-06-21 05:09:46",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 77
         }
     }
 }

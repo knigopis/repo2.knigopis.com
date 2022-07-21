@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
 * Тигролови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup>
 * Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
 * Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Странный Томас-1 ~ [](users/100/100097069456712612136-google)<sup>2</sup>
 * История одной смерти ~ [Вит](users/300/300273923-vkontakte)<sup>79</sup>
 * Чтение о Богочеловечестве ~ [Вит](users/300/300273923-vkontakte)<sup>78</sup>
-* Сидхартха ~ [Вит](users/300/300273923-vkontakte)<sup>77</sup>
 
 
-_19.07.2022 12:45:11_
+_21.07.2022 02:50:49_
