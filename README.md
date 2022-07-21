@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
+    > 7/10 Антиутопія. Кліматичні біженці з московії.
+
 * На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Сміливі завжди мають щастя. Григорій Многогрішний полює на кішку.
 
 * Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
-    > 8/10 Гриши и Черный каньон.
 
 * Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Кошки- мышки (игры со смертью 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>329</sup>
 
-* Бузкові дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>339</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>31</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup> 
 [eva](users/111/111656270551033014778-google)<sup>136</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>944</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>258</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>25</sup> 
 
 
-_21.07.2022 02:50:49_
+_21.07.2022 08:04:33_

@@ -1,4 +1,16 @@
 {
+    "KETjDGYe1d": {
+        "id": "KETjDGYe1d",
+        "title": "Льодовик",
+        "author": "Олександр Вільчинськиий",
+        "notes": "7/10 Антиутопія. Кліматичні біженці з московії.",
+        "createdAt": "2022-07-21 08:04:33",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 266
+        }
+    },
     "YA7FJJYlUE": {
         "id": "YA7FJJYlUE",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 330
-        }
-    },
-    "G7nWGAFxkl": {
-        "id": "G7nWGAFxkl",
-        "title": "Отец основатель",
-        "author": "Клиффорд Саймак",
-        "notes": "",
-        "createdAt": "2022-07-13 09:19:04",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 253
         }
     }
 }

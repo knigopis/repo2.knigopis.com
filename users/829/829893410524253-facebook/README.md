@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>265</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>266</sup>
 ---
 
 ## 2022
+
+### Льодовик
+Олександр Вільчинськиий
+> [2022-07-20] 7/10 Антиутопія. Кліматичні біженці з московії.
+
 
 ### Тигролови
 Іван Багряний
