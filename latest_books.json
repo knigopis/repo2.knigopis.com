@@ -1,4 +1,16 @@
 {
+    "58Y6PEQFAM": {
+        "id": "58Y6PEQFAM",
+        "title": "STABAT MATER",
+        "author": "Руслан Козлов",
+        "notes": "",
+        "createdAt": "2022-07-22 04:13:03",
+        "user": {
+            "id": "111656270551033014778-google",
+            "nickname": "eva",
+            "booksCount": 139
+        }
+    },
     "oMQQZtP-w9": {
         "id": "oMQQZtP-w9",
         "title": "Сборник \"Вехи\"",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 84
-        }
-    },
-    "24mtsS93Rg": {
-        "id": "24mtsS93Rg",
-        "title": "Дикий гармон",
-        "author": "джейсон Фанг",
-        "notes": "",
-        "createdAt": "2022-07-14 12:47:46",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 83
         }
     }
 }

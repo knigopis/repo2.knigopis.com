@@ -1,7 +1,12 @@
-# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>138</sup>
+# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>139</sup>
 ---
 
 ## 2022
+
+### STABAT MATER
+Руслан Козлов
+> [2022-07-22] 
+
 
 ### Сборник "Вехи"
 > [2022-07-22] 
