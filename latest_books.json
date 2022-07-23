@@ -1,4 +1,16 @@
 {
+    "vjxGDRke6H": {
+        "id": "vjxGDRke6H",
+        "title": "Дисгардиум 4. Призыв Нергала",
+        "author": "Данияр Сугралинов",
+        "notes": "",
+        "createdAt": "2022-07-23 08:17:11",
+        "user": {
+            "id": "101923253879668330026-google",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "xF9bQ-givU": {
         "id": "xF9bQ-givU",
         "title": "Дисгардиум 3. Чумной мор",
@@ -345,18 +357,6 @@
             "id": "113470696951401306980-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "ddVUUXFYje": {
-        "id": "ddVUUXFYje",
-        "title": "Гоблин",
-        "author": "Ким Ынсук",
-        "notes": "",
-        "createdAt": "2022-07-15 14:03:31",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": "pria",
-            "booksCount": 66
         }
     }
 }
