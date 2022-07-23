@@ -1,4 +1,16 @@
 {
+    "4rpkfrUXKJ": {
+        "id": "4rpkfrUXKJ",
+        "title": "Дело о позолоченной лилии",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-07-23 05:43:50",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 945
+        }
+    },
     "fADf9FqfqB": {
         "id": "fADf9FqfqB",
         "title": "Подлец",
@@ -345,18 +357,6 @@
             "id": "535554968-vkontakte",
             "nickname": "korkem.avezbai",
             "booksCount": 1
-        }
-    },
-    "3ggoh4zwj6": {
-        "id": "3ggoh4zwj6",
-        "title": "Квантовый воин: Сознание будущего",
-        "author": "Джорн кехо",
-        "notes": "",
-        "createdAt": "2022-07-14 12:48:09",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 84
         }
     }
 }
