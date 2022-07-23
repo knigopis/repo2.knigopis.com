@@ -1,4 +1,16 @@
 {
+    "xF9bQ-givU": {
+        "id": "xF9bQ-givU",
+        "title": "Дисгардиум 3. Чумной мор",
+        "author": "Данияр Сугралинов",
+        "notes": "",
+        "createdAt": "2022-07-23 08:16:51",
+        "user": {
+            "id": "101923253879668330026-google",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "gT7lsxgHIv": {
         "id": "gT7lsxgHIv",
         "title": "Дисгардиум 2. Инициал Спящих",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 66
-        }
-    },
-    "jqE1q-Eg2J": {
-        "id": "jqE1q-Eg2J",
-        "title": "Дело о нервном сообщнике",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-07-15 11:10:28",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 942
         }
     }
 }
