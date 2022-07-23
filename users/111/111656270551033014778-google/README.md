@@ -1,7 +1,12 @@
-# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>139</sup>
+# List of books read by [eva](https://plus.google.com/u/0/111656270551033014778/)<sup>140</sup>
 ---
 
 ## 2022
+
+### Подлец
+Владимир Набоков
+> [2022-07-22] 
+
 
 ### STABAT MATER
 Руслан Козлов
