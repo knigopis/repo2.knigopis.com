@@ -1,4 +1,10 @@
 {
+    "309238388536274478-mailru": {
+        "id": "309238388536274478-mailru",
+        "nickname": "111",
+        "booksCount": 70,
+        "updatedAt": "2022-07-24 13:28:21"
+    },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
         "nickname": "tututu",
@@ -172,11 +178,5 @@
         "nickname": "MiriMiri",
         "booksCount": 35,
         "updatedAt": "2022-07-02 21:34:29"
-    },
-    "134671934-vkontakte": {
-        "id": "134671934-vkontakte",
-        "nickname": "slava_kite",
-        "booksCount": 12,
-        "updatedAt": "2022-07-01 23:48:53"
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[111](users/309/309238388536274478-mailru)<sup>70</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>40</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>259</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Samo.soverwenstvo](users/794/79473926-yandex)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>148</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>35</sup> 
-[slava_kite](users/134/134671934-vkontakte)<sup>12</sup> 
 
 
-_24.07.2022 13:13:08_
+_24.07.2022 13:28:21_
