@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>259</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup> 
 [eva](users/111/111656270551033014778-google)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>950</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>339</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>31</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>258</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [slava_kite](users/134/134671934-vkontakte)<sup>12</sup> 
 
 
-_24.07.2022 06:53:35_
+_24.07.2022 10:40:32_

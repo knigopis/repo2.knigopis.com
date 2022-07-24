@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>258</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>259</sup>
 ---
 
 ## 2022
+
+### Как предавали Россию
+Николай Стариков
+> [2022-07-24] 
+
 
 ### Страшное гадание
 Александр Бестужев - Марлинский
