@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неидеальная Чарли Тэйр ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup>
+    > У дочери королевского посла идеальным должно быть все: произношение, увлечения, репутация и даже душевные порывы. Увы, но моя жизнь – полный бардак! В семнадцать лет я обручилась с другом семьи, а в двадцать – влюбилась по-настоящему… не в жениха.
+    > С парнем из северного Норсента у нас мало общего, но рядом с ним я могу быть собой, неидеальной и с дурным произношением. Да и познакомились мы своеобразно: на празднике в академии я продала ему свой первый поцелуй.
+
 * Компас эмоций ~ [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup>
     > Надо перечитывать
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 7/10 Антиутопія. Кліматичні біженці з московії.
 
 * На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
-    > audio
 
 * Тигролови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Людина бежить над прірвою ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup>
 
-* Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup> 
 [eva](users/111/111656270551033014778-google)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>950</sup> 
 [](users/101/101923253879668330026-google)<sup>18</sup> 
@@ -53,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>79</sup> 
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>171</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>202</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>317</sup> 
 [](users/108/108232389081536340744-google)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [slava_kite](users/134/134671934-vkontakte)<sup>12</sup> 
 
 
-_24.07.2022 05:16:00_
+_24.07.2022 06:53:35_
