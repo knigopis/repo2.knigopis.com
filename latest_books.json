@@ -1,4 +1,16 @@
 {
+    "zg7YO3Trgi": {
+        "id": "zg7YO3Trgi",
+        "title": "Адольф Гитлер, путь во власть",
+        "author": "Эдвард Радзинский",
+        "notes": "",
+        "createdAt": "2022-07-24 15:26:45",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 260
+        }
+    },
     "vBzeo8-Ogw": {
         "id": "vBzeo8-Ogw",
         "title": "Тіло",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 264
-        }
-    },
-    "UoaLn3UEmI": {
-        "id": "UoaLn3UEmI",
-        "title": "Искра жизни",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2022-07-19 01:52:51",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 136
         }
     }
 }
