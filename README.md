@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обратная связь . Как сказать все, что думаешь, и получить все, что хочешь. ~ [tututu](users/135/135685382-vkontakte)<sup>40</sup>
+    > Супер книга по обратной связи. Теперь надо практиковаться, чтобы не растерять все значения, которые есть в этой книге.
+
 * Неидеальная Чарли Тэйр ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup>
     > У дочери королевского посла идеальным должно быть все: произношение, увлечения, репутация и даже душевные порывы. Увы, но моя жизнь – полный бардак! В семнадцать лет я обручилась с другом семьи, а в двадцать – влюбилась по-настоящему… не в жениха.
     > С парнем из северного Норсента у нас мало общего, но рядом с ним я могу быть собой, неидеальной и с дурным произношением. Да и познакомились мы своеобразно: на празднике в академии я продала ему свой первый поцелуй.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Надо перечитывать
 
 * Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
-    > 7/10 Антиутопія. Кліматичні біженці з московії.
 
 * На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
 
-* Людина бежить над прірвою ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tututu](users/135/135685382-vkontakte)<sup>40</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>259</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup> 
 [eva](users/111/111656270551033014778-google)<sup>140</sup> 
@@ -62,8 +63,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Samo.soverwenstvo](users/794/79473926-yandex)<sup>1</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>148</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>35</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>39</sup> 
 [slava_kite](users/134/134671934-vkontakte)<sup>12</sup> 
 
 
-_24.07.2022 10:40:32_
+_24.07.2022 13:13:08_
