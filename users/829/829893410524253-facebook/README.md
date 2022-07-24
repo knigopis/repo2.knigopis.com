@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>266</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>267</sup>
 ---
 
 ## 2022
+
+### Тіло
+Вікторія Гранецька
+> [2022-07-24] 9/10 Переселення душ у промисловому масштабі.
+
 
 ### Льодовик
 Олександр Вільчинськиий

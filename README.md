@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тіло ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup>
+    > 9/10 Переселення душ у промисловому масштабі.
+
 * Обратная связь . Как сказать все, что думаешь, и получить все, что хочешь. ~ [tututu](users/135/135685382-vkontakte)<sup>40</sup>
     > Супер книга по обратной связи. Теперь надо практиковаться, чтобы не растерять все значения, которые есть в этой книге.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > С парнем из северного Норсента у нас мало общего, но рядом с ним я могу быть собой, неидеальной и с дурным произношением. Да и познакомились мы своеобразно: на празднике в академии я продала ему свой первый поцелуй.
 
 * Компас эмоций ~ [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup>
-    > Надо перечитывать
 
 * Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Україна біля Тихого океану. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup>
 
-* Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup> 
 [111](users/309/309238388536274478-mailru)<sup>71</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>40</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>259</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>950</sup> 
 [](users/101/101923253879668330026-google)<sup>18</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>339</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>31</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [MiriMiri](users/106/106107989792957993574-google)<sup>35</sup> 
 
 
-_24.07.2022 13:30:01_
+_24.07.2022 15:00:36_
