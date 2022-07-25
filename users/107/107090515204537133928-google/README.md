@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>261</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>262</sup>
 ---
 
 ## 2022
+
+### О блокаде
+Даниил Гранин
+> [2022-07-25] 
+
 
 ### Ледокол
 Денис Ушаков
