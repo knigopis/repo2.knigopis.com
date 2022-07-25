@@ -1,7 +1,12 @@
-# List of books read by [chortilo](https://plus.google.com/u/0/103729627291700958750/)<sup>2</sup>
+# List of books read by [chortilo](https://plus.google.com/u/0/103729627291700958750/)<sup>3</sup>
 ---
 
 ## 2022
+
+### Храм
+Говард Лавкрафт
+> [2022-07-04] 
+
 
 ### Дагон
 Говард Лавкрафт
