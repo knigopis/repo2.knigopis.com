@@ -1,4 +1,16 @@
 {
+    "tyM4En6eWh": {
+        "id": "tyM4En6eWh",
+        "title": "Исповедь маски",
+        "author": "Юкио Мисима",
+        "notes": "",
+        "createdAt": "2022-07-25 20:17:42",
+        "user": {
+            "id": "103729627291700958750-google",
+            "nickname": "chortilo",
+            "booksCount": 1
+        }
+    },
     "kRc3b_buOa": {
         "id": "kRc3b_buOa",
         "title": "Двурождённые. Сплав закона",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 39
-        }
-    },
-    "KETjDGYe1d": {
-        "id": "KETjDGYe1d",
-        "title": "Льодовик",
-        "author": "Олександр Вільчинськиий",
-        "notes": "7/10 Антиутопія. Кліматичні біженці з московії.",
-        "createdAt": "2022-07-21 08:04:33",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 266
         }
     }
 }
