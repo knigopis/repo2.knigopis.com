@@ -1,4 +1,10 @@
 {
+    "103729627291700958750-google": {
+        "id": "103729627291700958750-google",
+        "nickname": "chortilo",
+        "booksCount": 0,
+        "updatedAt": "2022-07-25 20:16:08"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 205,
         "updatedAt": "2022-07-05 14:37:43"
-    },
-    "79473926-yandex": {
-        "id": "79473926-yandex",
-        "nickname": "Samo.soverwenstvo",
-        "booksCount": 1,
-        "updatedAt": "2022-07-04 22:38:10"
     }
 }
