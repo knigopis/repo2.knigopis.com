@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Двурождённые. Сплав закона ~ [Garka](users/115/115753719718250012620-google)<sup>320</sup>
+* Двурождённые. Сплав закона ~ [Garka](users/115/115753719718250012620-google)<sup>321</sup>
 * Тайная история ~ [Garka](users/115/115753719718250012620-google)<sup>319</sup>
 * Одиннадцатый металл ~ [Garka](users/115/115753719718250012620-google)<sup>318</sup>
 * Тіло ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup>
@@ -33,4 +33,4 @@
 * Цифровий ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>258</sup>
 
 
-_25.07.2022 16:51:28_
+_25.07.2022 16:53:23_
