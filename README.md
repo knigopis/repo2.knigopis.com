@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайная история ~ [Garka](users/115/115753719718250012620-google)<sup>319</sup>
+    > Кельсер после смерти.
+
 * Одиннадцатый металл ~ [Garka](users/115/115753719718250012620-google)<sup>318</sup>
     > Приквел Рождённого туманом - рассказ о том, как Кельсер после побега из ям узнал об одиннадцатом металле
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Переселення душ у промисловому масштабі.
 
 * Обратная связь . Как сказать все, что думаешь, и получить все, что хочешь. ~ [tututu](users/135/135685382-vkontakte)<sup>40</sup>
-    > Супер книга по обратной связи. Теперь надо практиковаться, чтобы не растерять все значения, которые есть в этой книге.
 
 * Неидеальная Чарли Тэйр ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
 
-* Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>318</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>319</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>262</sup> 
 [](users/103/103658358256260282340-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>26</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Samo.soverwenstvo](users/794/79473926-yandex)<sup>1</sup> 
 
 
-_25.07.2022 16:45:25_
+_25.07.2022 16:46:57_
