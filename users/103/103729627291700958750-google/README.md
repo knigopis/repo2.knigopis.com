@@ -1,7 +1,12 @@
-# List of books read by [chortilo](https://plus.google.com/u/0/103729627291700958750/)<sup>4</sup>
+# List of books read by [chortilo](https://plus.google.com/u/0/103729627291700958750/)<sup>5</sup>
 ---
 
 ## 2022
+
+### Цвет из иных миров
+Говард Лавкрафт
+> [2022-07-10] 
+
 
 ### Окно в мансарде
 Говард Лавкрафт
