@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>263</sup> 
 [chortilo](users/103/103729627291700958750-google)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>321</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>262</sup> 
 [](users/103/103658358256260282340-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>26</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>205</sup> 
 
 
-_25.07.2022 21:20:32_
+_26.07.2022 05:51:12_

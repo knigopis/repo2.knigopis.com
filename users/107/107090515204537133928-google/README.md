@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>262</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>263</sup>
 ---
 
 ## 2022
+
+### Обращение анархиста
+Гилберт Кит Честертон
+> [2022-07-26] 
+
 
 ### О блокаде
 Даниил Гранин
