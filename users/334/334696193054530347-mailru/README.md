@@ -1,7 +1,12 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>62</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>63</sup>
 ---
 
 ## 2022
+
+### Пиши, сокращай
+Максим Ильяхов, Людмила Сарычева
+> [2022-03] 
+
 
 ### «Письма Винсент ван Гог»
 Винсент Виллем
