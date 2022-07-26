@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осторожно, спорт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup>
+    > 7/10 Повальное увлечение спортом и травматизация.
+
 * Когда землю укроет снег ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>173</sup>
     > Аннотация
     > 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Прошло несколько столетий после событий Рожденного туманом. Мир изменился, прогресс - электричества, поезда, огнестрельное оружие. Вседержатель, Выживший и прочие превратились в легенды. Два в одном - алломант и ферухимик не такая уж и редкая вещь, но обладают они только одной способностью, способность владеть несколькими алломантическими силами считается мифом. Книга скорее на детектив похожа, чем на фэнтези, но интересно (хотя и не так, как первые книги)
 
 * Тайная история ~ [Garka](users/115/115753719718250012620-google)<sup>319</sup>
-    > Кельсер после смерти.
 
 * Одиннадцатый металл ~ [Garka](users/115/115753719718250012620-google)<sup>318</sup>
 
@@ -29,20 +31,18 @@ Do not use pull requests to make changes here.
 
 * Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
 
-* На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>173</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>263</sup> 
 [chortilo](users/103/103729627291700958750-google)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>321</sup> 
 [](users/103/103658358256260282340-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>26</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup> 
 [111](users/309/309238388536274478-mailru)<sup>71</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>40</sup> 
 [eva](users/111/111656270551033014778-google)<sup>140</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>205</sup> 
 
 
-_26.07.2022 10:10:50_
+_26.07.2022 10:39:44_

@@ -1,4 +1,4 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>267</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>268</sup>
 ---
 
 ## 2022
@@ -51,6 +51,11 @@
 ### Цифровий
 Марина та Сергій Дяченко
 > [2022-06-26] 10/10 Арсен-маніпулятор у світі непростих відеоігор.
+
+
+### Осторожно, спорт
+Стивен Баррер
+> [2022-06-25] 7/10 Повальное увлечение спортом и травматизация.
 
 
 ### Бігуни
