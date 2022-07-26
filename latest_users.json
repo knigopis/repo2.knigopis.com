@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 62,
+        "updatedAt": "2022-07-26 16:07:44"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-07-05 18:39:15"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 205,
-        "updatedAt": "2022-07-05 14:37:43"
     }
 }
