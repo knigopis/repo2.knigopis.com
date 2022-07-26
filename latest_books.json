@@ -1,4 +1,16 @@
 {
+    "XtP6AkKwDI": {
+        "id": "XtP6AkKwDI",
+        "title": "Доверие",
+        "author": "Пенелопа Дуглас",
+        "notes": "",
+        "createdAt": "2022-07-26 18:08:59",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 340
+        }
+    },
     "ZT7D2Z6RWG": {
         "id": "ZT7D2Z6RWG",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "101923253879668330026-google",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "vjxGDRke6H": {
-        "id": "vjxGDRke6H",
-        "title": "Дисгардиум 4. Призыв Нергала",
-        "author": "Данияр Сугралинов",
-        "notes": "",
-        "createdAt": "2022-07-23 08:17:11",
-        "user": {
-            "id": "101923253879668330026-google",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }
