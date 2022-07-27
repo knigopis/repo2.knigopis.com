@@ -1,4 +1,10 @@
 {
+    "2447731-vkontakte": {
+        "id": "2447731-vkontakte",
+        "nickname": "dan1s",
+        "booksCount": 0,
+        "updatedAt": "2022-07-27 21:26:54"
+    },
     "107090515204537133928-google": {
         "id": "107090515204537133928-google",
         "nickname": "Naricev",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 202,
         "updatedAt": "2022-07-09 10:37:16"
-    },
-    "108232389081536340744-google": {
-        "id": "108232389081536340744-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-07-05 18:39:15"
     }
 }
