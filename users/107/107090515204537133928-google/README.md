@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>263</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>264</sup>
 ---
 
 ## 2022
+
+### Принцип Черчилля
+Хельге Хессе
+> [2022-07-27] 
+
 
 ### Обращение анархиста
 Гилберт Кит Честертон
