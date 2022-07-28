@@ -36,9 +36,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Naricev](users/107/107090515204537133928-google)<sup>265</sup> 
 [eva](users/111/111656270551033014778-google)<sup>141</sup> 
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
-[Naricev](users/107/107090515204537133928-google)<sup>264</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>66</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>202</sup> 
 
 
-_28.07.2022 03:31:25_
+_28.07.2022 09:28:50_

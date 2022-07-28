@@ -1,4 +1,16 @@
 {
+    "AzdtB2moXK": {
+        "id": "AzdtB2moXK",
+        "title": "Изобретение профессора Вагнера",
+        "author": "Александр Беляев",
+        "notes": "",
+        "createdAt": "2022-07-28 09:28:50",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 265
+        }
+    },
     "ryZHRcmTnc": {
         "id": "ryZHRcmTnc",
         "title": "Елеазар",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 172
-        }
-    },
-    "Lj_Dss4ORU": {
-        "id": "Lj_Dss4ORU",
-        "title": "Письмо Кафки отцу",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-07-24 05:16:00",
-        "user": {
-            "id": "111656270551033014778-google",
-            "nickname": "eva",
-            "booksCount": 140
         }
     }
 }

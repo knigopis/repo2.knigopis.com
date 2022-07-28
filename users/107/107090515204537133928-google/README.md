@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>264</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>265</sup>
 ---
 
 ## 2022
+
+### Изобретение профессора Вагнера
+Александр Беляев
+> [2022-07-28] 
+
 
 ### Принцип Черчилля
 Хельге Хессе
