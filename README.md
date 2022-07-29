@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/160/1600605696-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>145</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>266</sup> 
 [eva](users/111/111656270551033014778-google)<sup>141</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111801556640666266346-google)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>79</sup> 
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>413</sup> 
 
 
-_29.07.2022 16:53:29_
+_29.07.2022 19:22:34_
