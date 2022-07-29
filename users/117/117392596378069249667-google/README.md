@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>144</sup>
+# List of books read by 4apa<sup>145</sup>
 ---
 
 ## 2022
+
+### Практическая политология
+Е. Шульман
+> [2022-07-26] 
+
 
 ### Доктор Гарин
 В. Сорокин

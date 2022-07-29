@@ -1,4 +1,16 @@
 {
+    "FqACO9Pdpz": {
+        "id": "FqACO9Pdpz",
+        "title": "Практическая политология",
+        "author": "Е. Шульман",
+        "notes": "",
+        "createdAt": "2022-07-29 16:53:29",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 145
+        }
+    },
     "c1NdA2k1Ux": {
         "id": "c1NdA2k1Ux",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 40
-        }
-    },
-    "J1AjD6UlhX": {
-        "id": "J1AjD6UlhX",
-        "title": "Как предавали Россию",
-        "author": "Николай Стариков",
-        "notes": "",
-        "createdAt": "2022-07-24 10:40:32",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 259
         }
     }
 }
