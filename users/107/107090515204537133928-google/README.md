@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>265</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>266</sup>
 ---
 
 ## 2022
+
+### А зори здесь тихие
+Борис Васильев
+> [2022-07-29] 
+
 
 ### Изобретение профессора Вагнера
 Александр Беляев
