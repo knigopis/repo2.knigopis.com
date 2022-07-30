@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>269</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>270</sup>
 ---
 
 ## 2022
+
+### Антологія української готичної прози
+Укладач Юрій Винничук
+> [2022-07-30] 6/10 романтично-містичні оповідання.
+
 
 ### Друга планета
 Анатолій Дімаров

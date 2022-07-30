@@ -1,4 +1,16 @@
 {
+    "bLlnikYMVJ": {
+        "id": "bLlnikYMVJ",
+        "title": "Антологія української готичної прози",
+        "author": "Укладач Юрій Винничук",
+        "notes": "6/10 романтично-містичні оповідання.",
+        "createdAt": "2022-07-30 10:15:40",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 270
+        }
+    },
     "TaUG3C9HPX": {
         "id": "TaUG3C9HPX",
         "title": "Что они несли с собо",
@@ -345,18 +357,6 @@
             "id": "107090515204537133928-google",
             "nickname": "Naricev",
             "booksCount": 260
-        }
-    },
-    "vBzeo8-Ogw": {
-        "id": "vBzeo8-Ogw",
-        "title": "Тіло",
-        "author": "Вікторія Гранецька",
-        "notes": "9/10 Переселення душ у промисловому масштабі.",
-        "createdAt": "2022-07-24 15:00:36",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 267
         }
     }
 }

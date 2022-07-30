@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Антологія української готичної прози ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup>
 * Друга планета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup>
 * Финн ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup>
 * Осторожно, спорт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup>
@@ -30,7 +31,6 @@
 * Вейн ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>168</sup>
 * Между двумя мирами. Школа выживания ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>166</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>328</sup>
-* Игра с огнем ~ [Chiffi](users/105/105831994080785626680-google)<sup>327</sup>
 
 
-_30.07.2022 09:23:11_
+_30.07.2022 10:15:40_

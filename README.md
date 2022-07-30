@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Антологія української готичної прози ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup>
+    > 6/10 романтично-містичні оповідання.
+
 * Друга планета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup>
     > 7/10 пригоди у джунглях Венери.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Неудачливый парень, которого похищают, открытая концовка.
 
 * Осторожно, спорт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup>
-    > 7/10 Повальное увлечение спортом и травматизация.
 
 * Когда землю укроет снег ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>173</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Обратная связь . Как сказать все, что думаешь, и получить все, что хочешь. ~ [tututu](users/135/135685382-vkontakte)<sup>40</sup>
 
-* Неидеальная Чарли Тэйр ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>267</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup> 
 [](users/160/1600605696-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>145</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 
 
-_30.07.2022 10:12:23_
+_30.07.2022 10:15:40_
