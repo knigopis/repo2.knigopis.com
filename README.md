@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>270</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>267</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup> 
 [](users/160/1600605696-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>145</sup> 
 [eva](users/111/111656270551033014778-google)<sup>141</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 
 
-_30.07.2022 10:15:40_
+_30.07.2022 17:54:07_

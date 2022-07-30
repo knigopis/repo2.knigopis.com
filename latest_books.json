@@ -1,4 +1,16 @@
 {
+    "xfZm69wlQo": {
+        "id": "xfZm69wlQo",
+        "title": "Хищные зеркала",
+        "author": "Тьере Рауш",
+        "notes": "",
+        "createdAt": "2022-07-30 17:54:07",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 270
+        }
+    },
     "bLlnikYMVJ": {
         "id": "bLlnikYMVJ",
         "title": "Антологія української готичної прози",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 26
-        }
-    },
-    "zg7YO3Trgi": {
-        "id": "zg7YO3Trgi",
-        "title": "Адольф Гитлер, путь во власть",
-        "author": "Эдвард Радзинский",
-        "notes": "",
-        "createdAt": "2022-07-24 15:26:45",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 260
         }
     }
 }
