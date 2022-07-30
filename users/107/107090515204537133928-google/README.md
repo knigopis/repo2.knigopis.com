@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>266</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>267</sup>
 ---
 
 ## 2022
+
+### Что они несли с собо
+Тим О'Брайен
+> [2022-07-30] 
+
 
 ### А зори здесь тихие
 Борис Васильев

@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 267,
+        "updatedAt": "2022-07-30 10:12:22"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -22,12 +28,6 @@
         "nickname": "4apa",
         "booksCount": 145,
         "updatedAt": "2022-07-29 16:53:29"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 266,
-        "updatedAt": "2022-07-29 08:47:23"
     },
     "111656270551033014778-google": {
         "id": "111656270551033014778-google",
