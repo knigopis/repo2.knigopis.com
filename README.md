@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Друга планета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup>
+    > 7/10 пригоди у джунглях Венери.
+
 * Финн ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup>
     > Неудачливый парень, которого похищают, открытая концовка.
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Повальное увлечение спортом и травматизация.
 
 * Когда землю укроет снег ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>173</sup>
-    > Аннотация
-    > 
-    > Наш мир живет в состоянии холодной войны. Маги и Перевертыши — два кровных врага.
-    > Но что делать ведьме, которая нашла у своей калитки израненного лиса? Спасти или отдать на растерзание звероловам? Я вопреки здравому смыслу спасла и укрыла. Знала ли я, что это станет концом прошлой жизни и началом новой? Той, где мне еще предстоит сделать самый главный выбор и понять, кто же друг, а кто враг.
 
 * Двурождённые. Сплав закона ~ [Garka](users/115/115753719718250012620-google)<sup>321</sup>
 
@@ -29,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Неидеальная Чарли Тэйр ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup>
 
-* Компас эмоций ~ [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup> 
 [](users/160/1600605696-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>145</sup> 
@@ -44,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>66</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>173</sup> 
 [chortilo](users/103/103729627291700958750-google)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>321</sup> 
@@ -68,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 
 
-_30.07.2022 07:33:02_
+_30.07.2022 09:23:11_

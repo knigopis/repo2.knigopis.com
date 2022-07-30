@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>268</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>269</sup>
 ---
 
 ## 2022
+
+### Друга планета
+Анатолій Дімаров
+> [2022-07-30] 7/10 пригоди у джунглях Венери.
+
 
 ### Тіло
 Вікторія Гранецька
