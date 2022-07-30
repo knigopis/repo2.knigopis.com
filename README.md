@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Плохая квартира ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup>
+    > Риелтор Инна меняется телом с девушкой Лерой. Артём без головы, трупы в квартире сверху.
+
 * Антологія української готичної прози ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup>
     > 6/10 романтично-містичні оповідання.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 пригоди у джунглях Венери.
 
 * Финн ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup>
-    > Неудачливый парень, которого похищают, открытая концовка.
 
 * Осторожно, спорт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тіло ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup>
 
-* Обратная связь . Как сказать все, что думаешь, и получить все, что хочешь. ~ [tututu](users/135/135685382-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>270</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>267</sup> 
 [](users/160/1600605696-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 
 
-_30.07.2022 17:54:07_
+_30.07.2022 19:36:04_
