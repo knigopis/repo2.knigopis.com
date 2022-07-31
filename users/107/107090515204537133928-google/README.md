@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>267</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>268</sup>
 ---
 
 ## 2022
+
+### Хищник
+Дэн Кордейл
+> [2022-07-31] 
+
 
 ### С полной выкладкой
 Тим О'Брайен
