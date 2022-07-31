@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Большая книга о питании ~ [Chiffi](users/105/105831994080785626680-google)<sup>331</sup>
+    > Важнейшими источниками белков являются мясо, рыба, яйца, творог, сыр, молоко, а из продуктов растительного происхождения – хлеб, картофель, фасоль, горох, соя, рис.
+
 * Плохая квартира ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup>
     > Риелтор Инна меняется телом с девушкой Лерой. Артём без головы, трупы в квартире сверху.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 романтично-містичні оповідання.
 
 * Друга планета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup>
-    > 7/10 пригоди у джунглях Венери.
 
 * Финн ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Одиннадцатый металл ~ [Garka](users/115/115753719718250012620-google)<sup>318</sup>
 
-* Тіло ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>331</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>268</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>330</sup> 
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 [](users/111/111801556640666266346-google)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>79</sup> 
 [БухойКот](users/110/110048943341360971998-google)<sup>1</sup> 
 
 
-_31.07.2022 11:42:29_
+_31.07.2022 18:24:43_
