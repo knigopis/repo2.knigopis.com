@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
+[глизе570](users/117/117707406053876609739-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>331</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>268</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>79</sup> 
 
 
-_01.08.2022 02:25:51_
+_01.08.2022 02:26:20_
