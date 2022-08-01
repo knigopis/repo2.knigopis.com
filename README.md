@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[danyluk62](users/374/374149854-vkontakte)<sup>149</sup> 
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>331</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>268</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 [](users/111/111801556640666266346-google)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>79</sup> 
 
 
-_01.08.2022 02:27:01_
+_01.08.2022 18:42:10_

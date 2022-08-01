@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>148</sup>
+# List of books read by danyluk62<sup>149</sup>
 ---
 
 ## 2022
+
+### Історія УПА
+Роман Офіцинський
+> [2022-07] 
+
 
 ### Майдан. Таємні файли
 Брати Капранови
