@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отверженные ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup>
+    > audio
+
 * С любовью к себе. Как избавиться от чувства вины и обрести гармонию ~ [tututu](users/135/135685382-vkontakte)<sup>41</sup>
     > 31.07
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Я приехала на учебу в Норсент, надеясь найти свое призвание. Но пока нашла одни неприятности! У них даже имя есть: Гаррет Ваэрд. У этого парня самомнение до небес, колечко в брови и такая древняя родословная, что он в ней, пожалуй, путается. А у меня – словарь по северному диалекту, комнатная роза и большое желание свернуть Гаррету шею. Да и разве могло хорошо закончиться знакомство, начавшееся с магической дуэли? Совершенно точно нет!
 
 * Большая книга о питании ~ [Chiffi](users/105/105831994080785626680-google)<sup>331</sup>
-    > Важнейшими источниками белков являются мясо, рыба, яйца, творог, сыр, молоко, а из продуктов растительного происхождения – хлеб, картофель, фасоль, горох, соя, рис.
 
 * Плохая квартира ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Когда землю укроет снег ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>173</sup>
 
-* Двурождённые. Сплав закона ~ [Garka](users/115/115753719718250012620-google)<sup>321</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>952</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>269</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>41</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [111](users/309/309238388536274478-mailru)<sup>71</sup> 
 [](users/101/101923253879668330026-google)<sup>18</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>31</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 
 
-_03.08.2022 10:10:14_
+_03.08.2022 16:11:42_

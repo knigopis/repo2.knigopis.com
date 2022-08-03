@@ -1,4 +1,16 @@
 {
+    "l2VcuIzv-H": {
+        "id": "l2VcuIzv-H",
+        "title": "Отверженные",
+        "author": "Виктор Гюго",
+        "notes": "audio",
+        "createdAt": "2022-08-03 16:11:42",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 65
+        }
+    },
     "5Q9EOzh3tH": {
         "id": "5Q9EOzh3tH",
         "title": "Пурпурные сердца",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 173
-        }
-    },
-    "T5e5nOrv2R": {
-        "id": "T5e5nOrv2R",
-        "title": "Обращение анархиста",
-        "author": "Гилберт Кит Честертон",
-        "notes": "",
-        "createdAt": "2022-07-26 05:51:12",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 263
         }
     }
 }
