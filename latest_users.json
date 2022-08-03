@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 59,
+        "updatedAt": "2022-08-03 16:46:20"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 84,
         "updatedAt": "2022-07-14 12:48:09"
-    },
-    "115923670668956243469-google": {
-        "id": "115923670668956243469-google",
-        "nickname": "sleepycat",
-        "booksCount": 0,
-        "updatedAt": "2022-07-13 06:13:41"
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>59</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>952</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>269</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
-[sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 
 
-_03.08.2022 16:11:42_
+_03.08.2022 16:46:20_
