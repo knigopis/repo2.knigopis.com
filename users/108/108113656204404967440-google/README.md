@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>951</sup>
+# List of books read by Janet<sup>952</sup>
 ---
 
 ## 2022
+
+### Пурпурные сердца
+Тесс Уэйкфилд
+> [2022-08] 
+
 
 ### Дело о безногой кукле
 Эрл Стэнли Гарднер

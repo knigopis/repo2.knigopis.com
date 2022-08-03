@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>952</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>269</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>41</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>174</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>951</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>206</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>149</sup> 
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sleepycat](users/115/115923670668956243469-google)<sup>0</sup> 
 
 
-_03.08.2022 08:54:51_
+_03.08.2022 10:10:14_
