@@ -1,4 +1,16 @@
 {
+    "OV9x6RPssY": {
+        "id": "OV9x6RPssY",
+        "title": "С любовью к себе. Как избавиться от чувства вины и обрести гармонию",
+        "author": "Илсе Санд",
+        "notes": "31.07",
+        "createdAt": "2022-08-03 07:09:42",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 41
+        }
+    },
     "yp-pahTj-e": {
         "id": "yp-pahTj-e",
         "title": "Идеальное совпадение",
@@ -345,18 +357,6 @@
             "id": "103729627291700958750-google",
             "nickname": "chortilo",
             "booksCount": 4
-        }
-    },
-    "oRcTtZvReJ": {
-        "id": "oRcTtZvReJ",
-        "title": "Храм",
-        "author": "Говард Лавкрафт",
-        "notes": "",
-        "createdAt": "2022-07-25 21:17:07",
-        "user": {
-            "id": "103729627291700958750-google",
-            "nickname": "chortilo",
-            "booksCount": 3
         }
     }
 }
