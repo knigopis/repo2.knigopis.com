@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>268</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>269</sup>
 ---
 
 ## 2022
+
+### Проклятье Вендиго
+Рик Янси
+> [2022-08-03] 
+
 
 ### Хищник
 Дэн Кордейл

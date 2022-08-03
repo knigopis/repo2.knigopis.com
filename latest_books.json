@@ -1,4 +1,16 @@
 {
+    "4wvP9Mx7cd": {
+        "id": "4wvP9Mx7cd",
+        "title": "Проклятье Вендиго",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2022-08-03 08:54:51",
+        "user": {
+            "id": "107090515204537133928-google",
+            "nickname": "Naricev",
+            "booksCount": 269
+        }
+    },
     "OV9x6RPssY": {
         "id": "OV9x6RPssY",
         "title": "С любовью к себе. Как избавиться от чувства вины и обрести гармонию",
@@ -345,18 +357,6 @@
             "id": "103729627291700958750-google",
             "nickname": "chortilo",
             "booksCount": 5
-        }
-    },
-    "QSDnElJgAA": {
-        "id": "QSDnElJgAA",
-        "title": "Окно в мансарде",
-        "author": "Говард Лавкрафт",
-        "notes": "",
-        "createdAt": "2022-07-25 21:18:28",
-        "user": {
-            "id": "103729627291700958750-google",
-            "nickname": "chortilo",
-            "booksCount": 4
         }
     }
 }
