@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101368518035734751027-google)<sup>3</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>59</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113470696951401306980-google)<sup>1</sup> 
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
 [korkem.avezbai](users/535/535554968-vkontakte)<sup>1</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>84</sup> 
 
 
-_05.08.2022 08:08:57_
+_05.08.2022 16:22:44_

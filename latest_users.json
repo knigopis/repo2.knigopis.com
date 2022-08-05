@@ -1,4 +1,10 @@
 {
+    "101368518035734751027-google": {
+        "id": "101368518035734751027-google",
+        "nickname": null,
+        "booksCount": 3,
+        "updatedAt": "2022-08-05 16:22:44"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "korkem.avezbai",
         "booksCount": 1,
         "updatedAt": "2022-07-14 13:47:38"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 84,
-        "updatedAt": "2022-07-14 12:48:09"
     }
 }
