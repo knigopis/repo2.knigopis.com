@@ -1,4 +1,10 @@
 {
+    "17316051423275515640-mailru": {
+        "id": "17316051423275515640-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-08-06 11:11:28"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "pria",
         "booksCount": 66,
         "updatedAt": "2022-07-15 14:03:31"
-    },
-    "535554968-vkontakte": {
-        "id": "535554968-vkontakte",
-        "nickname": "korkem.avezbai",
-        "booksCount": 1,
-        "updatedAt": "2022-07-14 13:47:38"
     }
 }
