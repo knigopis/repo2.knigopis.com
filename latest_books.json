@@ -1,4 +1,16 @@
 {
+    "2XVsMjTm_g": {
+        "id": "2XVsMjTm_g",
+        "title": "Выйди из зоны комфорта",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2022-08-06 16:55:54",
+        "user": {
+            "id": "135685382-vkontakte",
+            "nickname": "tututu",
+            "booksCount": 42
+        }
+    },
     "yRY6I6yzSp": {
         "id": "yRY6I6yzSp",
         "title": "Шестой дозор",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 340
-        }
-    },
-    "ZT7D2Z6RWG": {
-        "id": "ZT7D2Z6RWG",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2022-07-26 16:11:20",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 66
         }
     }
 }
