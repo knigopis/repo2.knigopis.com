@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шестой дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup>
 * Новый дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup>
 * Мальчик, которому не больно ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup>
 * Отверженные ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Людина бежить над прірвою ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>261</sup>
 * Правда или желание (игры со смертью 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>330</sup>
 * Кошки- мышки (игры со смертью 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>329</sup>
-* Бузкові дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>260</sup>
 
 
-_05.08.2022 08:08:57_
+_06.08.2022 13:03:12_

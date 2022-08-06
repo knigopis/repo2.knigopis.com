@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шестой дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup>
+    > Украинофобия и озабоченность Украиной.
+
 * Новый дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup>
     > На 1 странице слова хохол и чурек, 2 раза упомянут путин в тексте, пару раз малоросия и упоминания об Украине только как о месте где готовят вкусную и жирную колбасу, пару раз упомянута великая русская культура, прямо так и названа. Текст написан в 2012. Короче, еще раз убеждаюсь, что там все отравлено.
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Кому нужна беда? Да еще такая!
 
 * Отверженные ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup>
-    > audio
 
 * С любовью к себе. Как избавиться от чувства вины и обрести гармонию ~ [tututu](users/135/135685382-vkontakte)<sup>41</sup>
 
@@ -29,17 +31,15 @@ Do not use pull requests to make changes here.
 
 * Друга планета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup>
 
-* Финн ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup> 
 [](users/173/17316051423275515640-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>953</sup> 
 [](users/101/101368518035734751027-google)<sup>3</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>59</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pria](users/128/128917939-vkontakte)<sup>66</sup> 
 
 
-_06.08.2022 11:11:28_
+_06.08.2022 13:03:12_

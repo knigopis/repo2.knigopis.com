@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>271</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>272</sup>
 ---
 
 ## 2022
+
+### Шестой дозор
+Сергей Лукьяненко
+> [2022-08-06] Украинофобия и озабоченность Украиной.
+
 
 ### Новый дозор
 Сергей Лукьяненко
