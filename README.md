@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108518651320113412154-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>66</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>27</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>31</sup> 
 [](users/113/113470696951401306980-google)<sup>1</sup> 
-[pria](users/128/128917939-vkontakte)<sup>66</sup> 
 
 
-_06.08.2022 19:12:18_
+_07.08.2022 15:23:59_
