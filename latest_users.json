@@ -1,4 +1,10 @@
 {
+    "185675202-vkontakte": {
+        "id": "185675202-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-08-07 17:58:36"
+    },
     "108518651320113412154-google": {
         "id": "108518651320113412154-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Smekalistii",
         "booksCount": 31,
         "updatedAt": "2022-07-20 13:46:42"
-    },
-    "113470696951401306980-google": {
-        "id": "113470696951401306980-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2022-07-15 15:52:52"
     }
 }
