@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 954,
+        "updatedAt": "2022-08-08 10:12:05"
+    },
     "185675202-vkontakte": {
         "id": "185675202-vkontakte",
         "nickname": null,
@@ -40,12 +46,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-08-06 11:11:28"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 953,
-        "updatedAt": "2022-08-06 09:16:43"
     },
     "101368518035734751027-google": {
         "id": "101368518035734751027-google",
