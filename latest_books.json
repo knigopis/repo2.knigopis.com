@@ -1,4 +1,16 @@
 {
+    "5YLeg6E5ys": {
+        "id": "5YLeg6E5ys",
+        "title": "",
+        "author": "Лукьяненко Сергей",
+        "notes": "Все думают, что беды кончаются с победой. А с победой приходят новые беды",
+        "createdAt": "2022-08-10 19:26:32",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 332
+        }
+    },
     "kban2m-nwl": {
         "id": "kban2m-nwl",
         "title": "Вигорання. Стратегія боротьби з виснаженням удома та на роботі",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 269
-        }
-    },
-    "FqACO9Pdpz": {
-        "id": "FqACO9Pdpz",
-        "title": "Практическая политология",
-        "author": "Е. Шульман",
-        "notes": "",
-        "createdAt": "2022-07-29 16:53:29",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 145
         }
     }
 }

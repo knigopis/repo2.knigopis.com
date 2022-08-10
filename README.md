@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>332</sup>
+    > Все думают, что беды кончаются с победой. А с победой приходят новые беды
+
 * Возвращение ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>66</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Украинофобия и озабоченность Украиной.
 
 * Новый дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup>
-    > На 1 странице слова хохол и чурек, 2 раза упомянут путин в тексте, пару раз малоросия и упоминания об Украине только как о месте где готовят вкусную и жирную колбасу, пару раз упомянута великая русская культура, прямо так и названа. Текст написан в 2012. Короче, еще раз убеждаюсь, что там все отравлено.
 
 * Мальчик, которому не больно ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Плохая квартира ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup>
 
-* Антологія української готичної прози ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>36</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>175</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>954</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>269</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>149</sup> 
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>331</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup> 
 [](users/160/1600605696-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>145</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_09.08.2022 17:58:25_
+_10.08.2022 19:26:32_
