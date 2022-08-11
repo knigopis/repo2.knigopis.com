@@ -1,4 +1,10 @@
 {
+    "107090515204537133928-google": {
+        "id": "107090515204537133928-google",
+        "nickname": "Naricev",
+        "booksCount": 270,
+        "updatedAt": "2022-08-11 12:50:16"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -82,12 +88,6 @@
         "nickname": "Beaviska",
         "booksCount": 59,
         "updatedAt": "2022-08-03 16:46:20"
-    },
-    "107090515204537133928-google": {
-        "id": "107090515204537133928-google",
-        "nickname": "Naricev",
-        "booksCount": 269,
-        "updatedAt": "2022-08-03 08:54:51"
     },
     "374149854-vkontakte": {
         "id": "374149854-vkontakte",

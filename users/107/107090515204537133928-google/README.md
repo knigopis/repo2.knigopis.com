@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>269</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>270</sup>
 ---
 
 ## 2022
+
+### Довмонтов меч
+Валерий Воскобойников
+> [2022-08-11] 
+
 
 ### Проклятье Вендиго
 Рик Янси
