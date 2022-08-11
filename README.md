@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
+    > audio
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>332</sup>
     > Все думают, что беды кончаются с победой. А с победой приходят новые беды
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Шестой дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup>
-    > Украинофобия и озабоченность Украиной.
 
 * Новый дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Большая книга о питании ~ [Chiffi](users/105/105831994080785626680-google)<sup>331</sup>
 
-* Плохая квартира ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>36</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>175</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>954</sup> 
 [](users/185/185675202-vkontakte)<sup>0</sup> 
 [](users/108/108518651320113412154-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>66</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>27</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>42</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_10.08.2022 19:26:32_
+_11.08.2022 12:35:37_
