@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
 * «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>332</sup>
 * Возвращение ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
 * Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
 * Україна біля Тихого океану. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>263</sup>
-* Чому я не хочу вертатись до СССР? ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>262</sup>
 
 
-_11.08.2022 12:35:37_
+_11.08.2022 18:14:59_

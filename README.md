@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
+    > audio
+
 * «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Все думают, что беды кончаются с победой. А с победой приходят новые беды
 
 * Возвращение ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>66</sup>
-    > audio
 
 * Шестой дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Идеальное совпадение ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>174</sup>
 
-* Большая книга о питании ~ [Chiffi](users/105/105831994080785626680-google)<sup>331</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>36</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>175</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_11.08.2022 15:34:11_
+_11.08.2022 18:14:59_
