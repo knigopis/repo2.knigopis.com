@@ -1,7 +1,12 @@
-# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>270</sup>
+# List of books read by [Naricev](https://plus.google.com/u/0/107090515204537133928/)<sup>271</sup>
 ---
 
 ## 2022
+
+### Горький привкус
+Стив О'Конелл
+> [2022-08-11] 
+
 
 ### Довмонтов меч
 Валерий Воскобойников
