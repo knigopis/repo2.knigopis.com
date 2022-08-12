@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
+    > Покинула
+
 * Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
     > Покинула.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
-    > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>332</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отверженные ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup>
 
-* С любовью к себе. Как избавиться от чувства вины и обрести гармонию ~ [tututu](users/135/135685382-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_12.08.2022 09:53:56_
+_12.08.2022 09:54:25_

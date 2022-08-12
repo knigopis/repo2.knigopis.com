@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>273</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>274</sup>
 ---
 
 ## 2022
+
+### В дорозі
+Джек Керуак
+> [2022-08-09] Покинула
+
 
 ### Кросворд
 Валерій Шевчук

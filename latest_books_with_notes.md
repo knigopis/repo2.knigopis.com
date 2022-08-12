@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
 * Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
 * Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
 * «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
@@ -30,7 +31,6 @@
 * На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
 * Тигролови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup>
 * Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
-* Кругом одни идиоты ~ [albina_untiring](users/257/2579695-vkontakte)<sup>38</sup>
 
 
-_12.08.2022 09:53:56_
+_12.08.2022 09:54:25_
