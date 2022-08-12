@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 273,
+        "updatedAt": "2022-08-12 09:53:56"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -58,12 +64,6 @@
         "nickname": "tututu",
         "booksCount": 42,
         "updatedAt": "2022-08-06 16:55:54"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 272,
-        "updatedAt": "2022-08-06 13:03:12"
     },
     "17316051423275515640-mailru": {
         "id": "17316051423275515640-mailru",

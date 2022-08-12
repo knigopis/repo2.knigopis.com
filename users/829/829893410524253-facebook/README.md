@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>272</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>273</sup>
 ---
 
 ## 2022
+
+### Кросворд
+Валерій Шевчук
+> [2022-08-08] Покинула.
+
 
 ### Шестой дозор
 Сергей Лукьяненко

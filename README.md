@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
+    > Покинула.
+
 * Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>332</sup>
-    > Все думают, что беды кончаются с победой. А с победой приходят новые беды
 
 * Возвращение ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>66</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * С любовью к себе. Как избавиться от чувства вины и обрести гармонию ~ [tututu](users/135/135685382-vkontakte)<sup>41</sup>
 
-* Идеальное совпадение ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>174</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108518651320113412154-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>27</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>42</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup> 
 [](users/173/17316051423275515640-mailru)<sup>0</sup> 
 [](users/101/101368518035734751027-google)<sup>3</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_11.08.2022 18:14:59_
+_12.08.2022 09:53:56_
