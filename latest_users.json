@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 955,
+        "updatedAt": "2022-08-13 14:07:29"
+    },
     "106107989792957993574-google": {
         "id": "106107989792957993574-google",
         "nickname": "MiriMiri",
@@ -34,12 +40,6 @@
         "nickname": "Феня Котовна",
         "booksCount": 175,
         "updatedAt": "2022-08-08 17:15:11"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 954,
-        "updatedAt": "2022-08-08 10:12:05"
     },
     "185675202-vkontakte": {
         "id": "185675202-vkontakte",
