@@ -1,4 +1,16 @@
 {
+    "V9rmZs6lX6": {
+        "id": "V9rmZs6lX6",
+        "title": "Эпоха сверхновой",
+        "author": "Лю Цысинь",
+        "notes": "",
+        "createdAt": "2022-08-13 23:22:34",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 146
+        }
+    },
     "IMkNHN3EeI": {
         "id": "IMkNHN3EeI",
         "title": "Дело о поющей юбке",
@@ -345,18 +357,6 @@
             "id": "374149854-vkontakte",
             "nickname": "danyluk62",
             "booksCount": 149
-        }
-    },
-    "X4e2j4BkOf": {
-        "id": "X4e2j4BkOf",
-        "title": "смерть",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-08-01 02:26:20",
-        "user": {
-            "id": "117707406053876609739-google",
-            "nickname": "глизе570",
-            "booksCount": 1
         }
     }
 }
