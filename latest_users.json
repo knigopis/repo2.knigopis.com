@@ -1,4 +1,10 @@
 {
+    "106107989792957993574-google": {
+        "id": "106107989792957993574-google",
+        "nickname": "MiriMiri",
+        "booksCount": 37,
+        "updatedAt": "2022-08-13 09:33:47"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -22,12 +28,6 @@
         "nickname": "Chiffi",
         "booksCount": 332,
         "updatedAt": "2022-08-10 19:26:32"
-    },
-    "106107989792957993574-google": {
-        "id": "106107989792957993574-google",
-        "nickname": "MiriMiri",
-        "booksCount": 36,
-        "updatedAt": "2022-08-09 17:58:25"
     },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
