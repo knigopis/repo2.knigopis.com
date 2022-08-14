@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[danyluk62](users/374/374149854-vkontakte)<sup>150</sup> 
+[danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>955</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_14.08.2022 16:00:19_
+_14.08.2022 16:01:19_

@@ -1,7 +1,12 @@
-# List of books read by danyluk62<sup>150</sup>
+# List of books read by danyluk62<sup>151</sup>
 ---
 
 ## 2022
+
+### Summary killings during the conflict in  eastern Ukraine
+Amnesty International
+> [2022-08] 
+
 
 ### Как Россия проигрывает войну на Донбассе? Доклад Координационного центра помощи Новороссии
 Андрей Морозов «Мурз», Александр Любимов «Акела»
