@@ -1,4 +1,10 @@
 {
+    "374149854-vkontakte": {
+        "id": "374149854-vkontakte",
+        "nickname": "danyluk62",
+        "booksCount": 150,
+        "updatedAt": "2022-08-14 16:00:19"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -94,12 +100,6 @@
         "nickname": "Beaviska",
         "booksCount": 59,
         "updatedAt": "2022-08-03 16:46:20"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 149,
-        "updatedAt": "2022-08-01 18:42:10"
     },
     "117707406053876609739-google": {
         "id": "117707406053876609739-google",
