@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шолох. Теневые блики ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>176</sup>
+    > Тинави живет в столице колдовства, но напрочь лишилась магии. Теперь на ее будущем можно поставить крест.
+    > 
+    > Но в полнолуние она спасает странного мальчишку с амнезией, а следующим утром внезапно получает работу Ловчей – детектива по делам чужестранцев. В паре с магом Полынью Тинави предстоит отыскать убийцу, орудующего в самом сердце королевства – во дворце. Постепенно девушка убеждается, что на магии свет клином не сошелся.
+    > 
+    > Только вот незадача: все ее новые знакомые – не те, кем кажутся на первый взгляд…
+
 * В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
     > Покинула
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Покинула.
 
 * Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
-    > audio
 
 * «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Мальчик, которому не больно ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup>
 
-* Отверженные ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Феня Котовна](users/109/109746193906459706720-google)<sup>176</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>146</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>955</sup> 
@@ -41,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>175</sup> 
 [](users/185/185675202-vkontakte)<sup>0</sup> 
 [](users/108/108518651320113412154-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>27</sup> 
@@ -65,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_14.08.2022 16:01:19_
+_15.08.2022 05:27:13_

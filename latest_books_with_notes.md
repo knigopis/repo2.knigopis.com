@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шолох. Теневые блики ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>176</sup>
 * В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
 * Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
 * Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
@@ -30,7 +31,6 @@
 * Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
 * На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
 * Тигролови ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>265</sup>
-* Тень и кость ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>264</sup>
 
 
-_12.08.2022 09:54:25_
+_15.08.2022 05:27:13_
