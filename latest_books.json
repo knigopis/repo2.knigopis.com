@@ -1,4 +1,16 @@
 {
+    "09bTRjLRPe": {
+        "id": "09bTRjLRPe",
+        "title": "Шолох. Тень разрастается",
+        "author": "Антонина Крейн",
+        "notes": "",
+        "createdAt": "2022-08-17 07:18:49",
+        "user": {
+            "id": "109746193906459706720-google",
+            "nickname": "Феня Котовна",
+            "booksCount": 178
+        }
+    },
     "_Mu6S_Q07l": {
         "id": "_Mu6S_Q07l",
         "title": "Шолох. Тень разрастается. #2",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 952
-        }
-    },
-    "4wvP9Mx7cd": {
-        "id": "4wvP9Mx7cd",
-        "title": "Проклятье Вендиго",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2022-08-03 08:54:51",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 269
         }
     }
 }
