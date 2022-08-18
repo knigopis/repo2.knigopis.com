@@ -1,4 +1,10 @@
 {
+    "602594164-yandex": {
+        "id": "602594164-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-08-18 12:11:38"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 18,
         "updatedAt": "2022-07-23 08:17:39"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 39,
-        "updatedAt": "2022-07-21 19:27:10"
     }
 }
