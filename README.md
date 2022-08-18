@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Jakbyś kamień jadła ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup>
+    > 10/10 Audiobook. Najstraszniejsze historii o mordach w Bosnii.
+
 * Шолох. Теневые блики ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>176</sup>
     > Тинави живет в столице колдовства, но напрочь лишилась магии. Теперь на ее будущем можно поставить крест.
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Покинула
 
 * Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
-    > Покинула.
 
 * Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
 
@@ -30,20 +32,18 @@ Do not use pull requests to make changes here.
 
 * Новый дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup>
 
-* Мальчик, которому не больно ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup> 
 [](users/602/602594164-yandex)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>177</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>147</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>955</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>37</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101923253879668330026-google)<sup>18</sup> 
 
 
-_18.08.2022 12:11:39_
+_18.08.2022 14:10:18_

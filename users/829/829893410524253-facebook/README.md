@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>274</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>275</sup>
 ---
 
 ## 2022
+
+### Jakbyś kamień jadła
+Wojciech Tochman
+> [2022-08-18] 10/10 Audiobook. Najstraszniejsze historii o mordach w Bosnii.
+
 
 ### В дорозі
 Джек Керуак
