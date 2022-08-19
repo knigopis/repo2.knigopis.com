@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Создание бренда ~ [Evermind](users/302/302928912-vkontakte)<sup>62</sup>
+    > Есть несколько хороших мыслей.
+
 * Jakbyś kamień jadła ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup>
     > 10/10 Audiobook. Najstraszniejsze historii o mordach w Bosnii.
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Только вот незадача: все ее новые знакомые – не те, кем кажутся на первый взгляд…
 
 * В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
-    > Покинула
 
 * Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Шестой дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup>
 
-* Новый дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>62</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>148</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>178</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>321</sup> 
 [](users/103/103658358256260282340-google)<sup>0</sup> 
 [111](users/309/309238388536274478-mailru)<sup>71</sup> 
-[](users/101/101923253879668330026-google)<sup>18</sup> 
 
 
-_19.08.2022 14:12:42_
+_19.08.2022 19:10:46_

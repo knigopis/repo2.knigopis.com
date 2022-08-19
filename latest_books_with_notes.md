@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Создание бренда ~ [Evermind](users/302/302928912-vkontakte)<sup>62</sup>
 * Jakbyś kamień jadła ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup>
 * Шолох. Теневые блики ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>176</sup>
 * В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
@@ -30,7 +31,6 @@
 * Неидеальная Чарли Тэйр ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup>
 * Компас эмоций ~ [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup>
 * Льодовик ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>266</sup>
-* На западном фронте без перемен ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>64</sup>
 
 
-_18.08.2022 14:10:18_
+_19.08.2022 19:10:46_

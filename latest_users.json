@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "Evermind",
+        "booksCount": 62,
+        "updatedAt": "2022-08-19 19:10:46"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "111",
         "booksCount": 71,
         "updatedAt": "2022-07-24 13:30:01"
-    },
-    "101923253879668330026-google": {
-        "id": "101923253879668330026-google",
-        "nickname": null,
-        "booksCount": 18,
-        "updatedAt": "2022-07-23 08:17:39"
     }
 }
