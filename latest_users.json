@@ -1,4 +1,10 @@
 {
+    "106107989792957993574-google": {
+        "id": "106107989792957993574-google",
+        "nickname": "MiriMiri",
+        "booksCount": 38,
+        "updatedAt": "2022-08-20 08:50:07"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "Evermind",
@@ -40,12 +46,6 @@
         "nickname": "Janet",
         "booksCount": 955,
         "updatedAt": "2022-08-13 14:07:29"
-    },
-    "106107989792957993574-google": {
-        "id": "106107989792957993574-google",
-        "nickname": "MiriMiri",
-        "booksCount": 37,
-        "updatedAt": "2022-08-13 09:33:47"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
