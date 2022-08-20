@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 28,
+        "updatedAt": "2022-08-20 22:39:54"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -82,12 +88,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-08-07 15:23:58"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 27,
-        "updatedAt": "2022-08-06 18:31:00"
     },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
