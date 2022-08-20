@@ -1,4 +1,10 @@
 {
+    "305940291-vkontakte": {
+        "id": "305940291-vkontakte",
+        "nickname": "scar",
+        "booksCount": 0,
+        "updatedAt": "2022-08-20 16:42:30"
+    },
     "106107989792957993574-google": {
         "id": "106107989792957993574-google",
         "nickname": "MiriMiri",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-07-24 21:40:57"
-    },
-    "309238388536274478-mailru": {
-        "id": "309238388536274478-mailru",
-        "nickname": "111",
-        "booksCount": 71,
-        "updatedAt": "2022-07-24 13:30:01"
     }
 }
