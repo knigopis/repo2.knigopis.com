@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[scar](users/305/305940291-vkontakte)<sup>0</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>38</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>62</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>148</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [chortilo](users/103/103729627291700958750-google)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>321</sup> 
 [](users/103/103658358256260282340-google)<sup>0</sup> 
-[111](users/309/309238388536274478-mailru)<sup>71</sup> 
 
 
-_20.08.2022 08:50:07_
+_20.08.2022 16:42:30_
