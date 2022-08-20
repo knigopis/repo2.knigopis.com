@@ -1,4 +1,10 @@
 {
+    "109746193906459706720-google": {
+        "id": "109746193906459706720-google",
+        "nickname": "Феня Котовна",
+        "booksCount": 179,
+        "updatedAt": "2022-08-20 20:56:57"
+    },
     "305940291-vkontakte": {
         "id": "305940291-vkontakte",
         "nickname": "scar",
@@ -22,12 +28,6 @@
         "nickname": "4apa",
         "booksCount": 148,
         "updatedAt": "2022-08-19 14:12:42"
-    },
-    "109746193906459706720-google": {
-        "id": "109746193906459706720-google",
-        "nickname": "Феня Котовна",
-        "booksCount": 178,
-        "updatedAt": "2022-08-19 08:26:19"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
