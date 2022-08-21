@@ -1,4 +1,16 @@
 {
+    "zB3OxmM5Mj": {
+        "id": "zB3OxmM5Mj",
+        "title": "Возвращение Пионера",
+        "author": "Ш. Идиатуллин",
+        "notes": "",
+        "createdAt": "2022-08-21 17:08:13",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 149
+        }
+    },
     "qsdbccsXF9": {
         "id": "qsdbccsXF9",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tututu",
             "booksCount": 42
-        }
-    },
-    "yRY6I6yzSp": {
-        "id": "yRY6I6yzSp",
-        "title": "Шестой дозор",
-        "author": "Сергей Лукьяненко",
-        "notes": "Украинофобия и озабоченность Украиной.",
-        "createdAt": "2022-08-06 13:03:12",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 272
         }
     }
 }
