@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Домой до темноты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup>
+    > 8/10 Дочку мильянера убивает маньяк в Венеции. Отец ищет убийцу.
+
 * Дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>276</sup>
     > 7/40 Підлітка потрапяє у секту.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Жизнь полна контрастов. Меня зовут Дженнивер Риверс и еще вчера я была одной из самых ярких дебютанток высшего общества, а сегодня брат проиграл все наше состояние. Тому, кого я отвергала много раз. Тому, чьи чувства пугают и заставляют трепетать. Кто из нас выйдет победителем из этой игры? Что окажется сильнее - мужская настойчивость или женская хитрость?
 
 * Создание бренда ~ [Evermind](users/302/302928912-vkontakte)<sup>62</sup>
-    > Есть несколько хороших мыслей.
 
 * Jakbyś kamień jadła ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>332</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>276</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>149</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>28</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>179</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103658358256260282340-google)<sup>0</sup> 
 
 
-_21.08.2022 18:23:50_
+_21.08.2022 18:26:29_

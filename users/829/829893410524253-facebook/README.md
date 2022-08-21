@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>276</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>277</sup>
 ---
 
 ## 2022
+
+### Домой до темноты
+Чарльз Маклин
+> [2022-08-19] 8/10 Дочку мильянера убивает маньяк в Венеции. Отец ищет убийцу.
+
 
 ### Дівчата
 Емма Клайн
