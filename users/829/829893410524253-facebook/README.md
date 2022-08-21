@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>275</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>276</sup>
 ---
 
 ## 2022
+
+### Дівчата
+Емма Клайн
+> [2022-08-18] 7/40 Підлітка потрапяє у секту.
+
 
 ### Jakbyś kamień jadła
 Wojciech Tochman

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>276</sup>
 * Джентельменский клуб 'ЗЛО'. Безумно влюблённый ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>179</sup>
 * Создание бренда ~ [Evermind](users/302/302928912-vkontakte)<sup>62</sup>
 * Jakbyś kamień jadła ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup>
@@ -30,7 +31,6 @@
 * Тіло ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup>
 * Обратная связь . Как сказать все, что думаешь, и получить все, что хочешь. ~ [tututu](users/135/135685382-vkontakte)<sup>40</sup>
 * Неидеальная Чарли Тэйр ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>172</sup>
-* Компас эмоций ~ [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup>
 
 
-_20.08.2022 20:56:57_
+_21.08.2022 18:23:50_

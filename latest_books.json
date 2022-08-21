@@ -1,4 +1,16 @@
 {
+    "OPQsOzoF-s": {
+        "id": "OPQsOzoF-s",
+        "title": "Дівчата",
+        "author": "Емма Клайн",
+        "notes": "7/40 Підлітка потрапяє у секту.",
+        "createdAt": "2022-08-21 18:23:50",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 276
+        }
+    },
     "zB3OxmM5Mj": {
         "id": "zB3OxmM5Mj",
         "title": "Возвращение Пионера",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 27
-        }
-    },
-    "2XVsMjTm_g": {
-        "id": "2XVsMjTm_g",
-        "title": "Выйди из зоны комфорта",
-        "author": "Брайан Трейси",
-        "notes": "",
-        "createdAt": "2022-08-06 16:55:54",
-        "user": {
-            "id": "135685382-vkontakte",
-            "nickname": "tututu",
-            "booksCount": 42
         }
     }
 }
