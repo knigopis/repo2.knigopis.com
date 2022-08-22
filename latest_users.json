@@ -1,4 +1,10 @@
 {
+    "86487125-vkontakte": {
+        "id": "86487125-vkontakte",
+        "nickname": "Smekalistii",
+        "booksCount": 32,
+        "updatedAt": "2022-08-22 04:31:17"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 321,
         "updatedAt": "2022-07-25 16:53:23"
-    },
-    "103658358256260282340-google": {
-        "id": "103658358256260282340-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-07-24 21:40:57"
     }
 }

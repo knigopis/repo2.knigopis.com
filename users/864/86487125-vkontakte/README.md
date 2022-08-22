@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>31</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>32</sup>
 ---
 
 ## 2022
+
+### Четыре после полуночи
+Стивен Кинг
+> [2022-08-19] 
+
 
 ### После заката
 Стивен Кинг
