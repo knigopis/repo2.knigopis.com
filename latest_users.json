@@ -1,4 +1,10 @@
 {
+    "526199504-vkontakte": {
+        "id": "526199504-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-08-22 07:59:47"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": "Smekalistii",
@@ -172,11 +178,5 @@
         "nickname": "chortilo",
         "booksCount": 5,
         "updatedAt": "2022-07-25 21:20:32"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 321,
-        "updatedAt": "2022-07-25 16:53:23"
     }
 }
