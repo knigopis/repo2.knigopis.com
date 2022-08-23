@@ -1,4 +1,10 @@
 {
+    "491114705-vkontakte": {
+        "id": "491114705-vkontakte",
+        "nickname": "Крекер",
+        "booksCount": 0,
+        "updatedAt": "2022-08-23 14:07:09"
+    },
     "526199504-vkontakte": {
         "id": "526199504-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 66,
         "updatedAt": "2022-07-26 16:11:20"
-    },
-    "103729627291700958750-google": {
-        "id": "103729627291700958750-google",
-        "nickname": "chortilo",
-        "booksCount": 5,
-        "updatedAt": "2022-07-25 21:20:32"
     }
 }
