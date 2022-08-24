@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>202</sup>
+# Список прочитанных книг пользователя exulted<sup>203</sup>
 ---
 
 ## 2022
+
+### The Bloody White Baron
+James Palmer
+> [2022-08-24] 
+
 
 ### Rebel Cell: Cancer, Evolution and the Science of Life
 Kat Arney

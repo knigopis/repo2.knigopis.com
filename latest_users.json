@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 203,
+        "updatedAt": "2022-08-24 11:51:17"
+    },
     "491114705-vkontakte": {
         "id": "491114705-vkontakte",
         "nickname": "Крекер",
@@ -172,11 +178,5 @@
         "nickname": "Lala",
         "booksCount": 340,
         "updatedAt": "2022-07-26 18:08:59"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 66,
-        "updatedAt": "2022-07-26 16:11:20"
     }
 }

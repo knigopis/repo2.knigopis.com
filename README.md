@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>203</sup> 
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
 [](users/526/526199504-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>32</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eva](users/111/111656270551033014778-google)<sup>141</sup> 
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>340</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>66</sup> 
 
 
-_23.08.2022 14:07:10_
+_24.08.2022 11:51:18_
