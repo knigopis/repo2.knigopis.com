@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шість способів звільнення від злості та критики ~ [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup>
+    > Настільна книга
+
 * Домой до темноты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup>
     > 8/10 Дочку мильянера убивает маньяк в Венеции. Отец ищет убийцу.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/40 Підлітка потрапяє у секту.
 
 * Джентельменский клуб 'ЗЛО'. Безумно влюблённый ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>179</sup>
-    > Жизнь полна контрастов. Меня зовут Дженнивер Риверс и еще вчера я была одной из самых ярких дебютанток высшего общества, а сегодня брат проиграл все наше состояние. Тому, кого я отвергала много раз. Тому, чьи чувства пугают и заставляют трепетать. Кто из нас выйдет победителем из этой игры? Что окажется сильнее - мужская настойчивость или женская хитрость?
 
 * Создание бренда ~ [Evermind](users/302/302928912-vkontakte)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
 
-* «Стража! Стража!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MiriMiri](users/106/106107989792957993574-google)<sup>39</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>204</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>180</sup> 
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>149</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>28</sup> 
 [scar](users/305/305940291-vkontakte)<sup>0</sup> 
-[MiriMiri](users/106/106107989792957993574-google)<sup>38</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>62</sup> 
 [](users/602/602594164-yandex)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 
 
-_25.08.2022 11:59:52_
+_25.08.2022 12:08:24_
