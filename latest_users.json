@@ -1,4 +1,10 @@
 {
+    "115449770062296431749-google": {
+        "id": "115449770062296431749-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-08-25 18:24:53"
+    },
     "106107989792957993574-google": {
         "id": "106107989792957993574-google",
         "nickname": "MiriMiri",
@@ -172,11 +178,5 @@
         "nickname": "dan1s",
         "booksCount": 0,
         "updatedAt": "2022-07-27 21:26:54"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 340,
-        "updatedAt": "2022-07-26 18:08:59"
     }
 }
