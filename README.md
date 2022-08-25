@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115449770062296431749-google)<sup>0</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>204</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>180</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/160/1600605696-yandex)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>141</sup> 
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 
 
-_25.08.2022 12:08:24_
+_25.08.2022 18:24:53_
