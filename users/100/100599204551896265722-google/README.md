@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>203</sup>
+# Список прочитанных книг пользователя exulted<sup>204</sup>
 ---
 
 ## 2022
@@ -6,6 +6,11 @@
 ### The Bloody White Baron
 James Palmer
 > [2022-08-24] 
+
+
+### The New Great Depression: Winners and Losers in a Post-Pandemic World
+James Rickards
+> [2022-08-05] 
 
 
 ### Rebel Cell: Cancer, Evolution and the Science of Life
