@@ -1,4 +1,16 @@
 {
+    "52TPA9tiEj": {
+        "id": "52TPA9tiEj",
+        "title": "«К оружию! К оружию!»",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2022-08-26 18:50:05",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 69
+        }
+    },
     "O2W-IT1fTj": {
         "id": "O2W-IT1fTj",
         "title": "Дело о заблудшем волке",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 68
-        }
-    },
-    "59OD9FHRyE": {
-        "id": "59OD9FHRyE",
-        "title": "Горький привкус",
-        "author": "Стив О'Конелл",
-        "notes": "",
-        "createdAt": "2022-08-11 15:34:11",
-        "user": {
-            "id": "107090515204537133928-google",
-            "nickname": "Naricev",
-            "booksCount": 271
         }
     }
 }

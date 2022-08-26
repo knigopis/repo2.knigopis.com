@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «К оружию! К оружию!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>69</sup>
 * Шість способів звільнення від злості та критики ~ [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup>
 * Домой до темноты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup>
 * Дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>276</sup>
@@ -30,7 +31,6 @@
 * Двурождённые. Сплав закона ~ [Garka](users/115/115753719718250012620-google)<sup>321</sup>
 * Тайная история ~ [Garka](users/115/115753719718250012620-google)<sup>319</sup>
 * Одиннадцатый металл ~ [Garka](users/115/115753719718250012620-google)<sup>318</sup>
-* Тіло ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>267</sup>
 
 
-_25.08.2022 12:08:24_
+_26.08.2022 18:50:05_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «К оружию! К оружию!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>69</sup>
+    > audio
+
 * Шість способів звільнення від злості та критики ~ [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup>
     > Настільна книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Дочку мильянера убивает маньяк в Венеции. Отец ищет убийцу.
 
 * Дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>276</sup>
-    > 7/40 Підлітка потрапяє у секту.
 
 * Джентельменский клуб 'ЗЛО'. Безумно влюблённый ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>179</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
 
-* Гарри Поттер и  Орден Феникса ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>69</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>957</sup> 
 [](users/115/115449770062296431749-google)<sup>0</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>62</sup> 
 [](users/602/602594164-yandex)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>68</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>332</sup> 
 [](users/185/185675202-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 
 
-_26.08.2022 17:17:36_
+_26.08.2022 18:50:05_
