@@ -1,7 +1,12 @@
-# List of books read by Evermind<sup>62</sup>
+# List of books read by Evermind<sup>63</sup>
 ---
 
 ## 2022
+
+### Путь одного Олега
+Олег Торбосов
+> [2022-08-26] 
+
 
 ### Создание бренда
 Брайан Смит

@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "Evermind",
+        "booksCount": 63,
+        "updatedAt": "2022-08-26 20:10:04"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -76,12 +82,6 @@
         "nickname": "scar",
         "booksCount": 0,
         "updatedAt": "2022-08-20 16:42:30"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "Evermind",
-        "booksCount": 62,
-        "updatedAt": "2022-08-19 19:10:46"
     },
     "602594164-yandex": {
         "id": "602594164-yandex",

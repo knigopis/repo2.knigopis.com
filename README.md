@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>63</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>957</sup> 
 [](users/115/115449770062296431749-google)<sup>0</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>149</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>28</sup> 
 [scar](users/305/305940291-vkontakte)<sup>0</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>62</sup> 
 [](users/602/602594164-yandex)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 
 
-_26.08.2022 18:53:03_
+_26.08.2022 20:10:04_
