@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>956</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>957</sup> 
 [](users/115/115449770062296431749-google)<sup>0</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>204</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 
 
-_26.08.2022 17:17:25_
+_26.08.2022 17:17:36_
