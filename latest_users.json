@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 956,
+        "updatedAt": "2022-08-26 17:17:25"
+    },
     "115449770062296431749-google": {
         "id": "115449770062296431749-google",
         "nickname": null,
@@ -82,12 +88,6 @@
         "nickname": "danyluk62",
         "booksCount": 151,
         "updatedAt": "2022-08-14 16:01:19"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 955,
-        "updatedAt": "2022-08-13 14:07:29"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
