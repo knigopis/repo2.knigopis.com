@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Три товарища ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup>
+    > audio
+
 * «К оружию! К оружию!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>69</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Настільна книга
 
 * Домой до темноты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup>
-    > 8/10 Дочку мильянера убивает маньяк в Венеции. Отец ищет убийцу.
 
 * Дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>276</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
 
-* Кросворд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>273</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>69</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>957</sup> 
 [](users/115/115449770062296431749-google)<sup>0</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 
 
-_26.08.2022 18:50:05_
+_26.08.2022 18:53:03_
