@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/153/1537586159620888-facebook)<sup>81</sup> 
+[](users/153/1537586159620888-facebook)<sup>82</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>63</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [eva](users/111/111656270551033014778-google)<sup>141</sup> 
 
 
-_27.08.2022 21:03:34_
+_27.08.2022 21:04:12_
