@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Некромант на мою голову ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>181</sup>
+    > Я хотела сбежать в другой мир от своих проблем, но получила себе на голову новые! Один невыносимый и заносчивый некромант вначале сделал меня своей помощницей, а затем - пусть и случайно! - привязал любовной магией. Мало я намучилась с бывшим мужем? Нет уж, увольте! Ну и что, что виной всему древнее заклятие? Я все равно найду способ разорвать эти "узы любви"! Даже если в это захотят вмешаться высшие силы...
+
 * Три товарища ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Шість способів звільнення від злості та критики ~ [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup>
-    > Настільна книга
 
 * Домой до темноты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Шолох. Теневые блики ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>176</sup>
 
-* В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Феня Котовна](users/109/109746193906459706720-google)<sup>181</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>63</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>957</sup> 
 [](users/115/115449770062296431749-google)<sup>0</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>204</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>180</sup> 
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
 [](users/526/526199504-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 
 
-_26.08.2022 20:10:04_
+_27.08.2022 16:06:48_
