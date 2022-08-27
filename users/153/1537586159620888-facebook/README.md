@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>80</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>81</sup>
 ---
 
 ## 2022
+
+### Добрый доктор из Варшавы
+Элизабет Гиффорд
+> [2022-08] 
+
 
 ### Мой ребенок с удовольствием ходит в детский сад
 Анна Быкова
