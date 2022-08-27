@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>80</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>63</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup> 
 [](users/160/1600605696-yandex)<sup>0</sup> 
 [eva](users/111/111656270551033014778-google)<sup>141</sup> 
-[dan1s](users/244/2447731-vkontakte)<sup>0</sup> 
 
 
-_27.08.2022 16:07:04_
+_27.08.2022 21:02:45_

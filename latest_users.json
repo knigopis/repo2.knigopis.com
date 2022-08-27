@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 80,
+        "updatedAt": "2022-08-27 21:02:45"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "eva",
         "booksCount": 141,
         "updatedAt": "2022-07-28 03:31:25"
-    },
-    "2447731-vkontakte": {
-        "id": "2447731-vkontakte",
-        "nickname": "dan1s",
-        "booksCount": 0,
-        "updatedAt": "2022-07-27 21:26:54"
     }
 }
