@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>39</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>40</sup>
 ---
 
 ## 2022
+
+### Буря мечей
+Джордж Рэймонд Ричард Мартин
+> [2022-08-29] 
+
 
 ### Компас эмоций
 Илсе Санд
