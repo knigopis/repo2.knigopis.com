@@ -1,4 +1,4 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>40</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>39</sup>
 ---
 
 ## 2022
@@ -82,11 +82,6 @@
 ### 15 секретов управления временем
 Кевин Круз
 > [2022-01-01] Есть пара интересных мыслей
-
-
-### Английский пациент
-Майкл Ондатже
-> [2022-01] 
 
 
 
