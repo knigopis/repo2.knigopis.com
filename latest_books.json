@@ -1,4 +1,16 @@
 {
+    "3XXjU7WPbY": {
+        "id": "3XXjU7WPbY",
+        "title": "Идиот",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2022-08-31 00:02:26",
+        "user": {
+            "id": "118248226132797004598-google",
+            "nickname": null,
+            "booksCount": 36
+        }
+    },
     "Z066Fxn4kM": {
         "id": "Z066Fxn4kM",
         "title": "Женщины",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 176
-        }
-    },
-    "H0mjpLceGx": {
-        "id": "H0mjpLceGx",
-        "title": "Summary killings during the conflict in  eastern Ukraine",
-        "author": "Amnesty International",
-        "notes": "",
-        "createdAt": "2022-08-14 16:01:19",
-        "user": {
-            "id": "374149854-vkontakte",
-            "nickname": "danyluk62",
-            "booksCount": 151
         }
     }
 }

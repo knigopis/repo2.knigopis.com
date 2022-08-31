@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/118/118248226132797004598-google)<sup>36</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>150</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 [](users/153/1537586159620888-facebook)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>59</sup> 
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup> 
-[](users/160/1600605696-yandex)<sup>0</sup> 
 
 
-_30.08.2022 20:42:08_
+_31.08.2022 00:02:26_

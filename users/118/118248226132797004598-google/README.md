@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>35</sup>
+# List of books read by [](https://plus.google.com/u/0/118248226132797004598/)<sup>36</sup>
 ---
 
 ## 2022
+
+### Идиот
+Достоевский
+> [2022-08-31] 
+
 
 ### Ярмарка тщеславия
 Теккерей
