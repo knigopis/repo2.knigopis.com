@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>150</sup>
+# List of books read by 4apa<sup>151</sup>
 ---
 
 ## 2022
+
+### Как изобрести всё
+Р. Норт
+> [2022-08-31] 
+
 
 ### Женщины
 Ч. Буковски
