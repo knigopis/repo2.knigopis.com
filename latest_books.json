@@ -1,4 +1,16 @@
 {
+    "CtLZba3bog": {
+        "id": "CtLZba3bog",
+        "title": "Бабкин и Илюшин",
+        "author": "Михалкова Елена",
+        "notes": "Безграмотность и необразованность всегда будет кормить мошенников",
+        "createdAt": "2022-09-01 20:06:22",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 333
+        }
+    },
     "upSgX_sNIf": {
         "id": "upSgX_sNIf",
         "title": "Как изобрести всё",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 177
-        }
-    },
-    "G4Rku32v6P": {
-        "id": "G4Rku32v6P",
-        "title": "Разведчики внешних планет",
-        "author": "И. Лисов",
-        "notes": "",
-        "createdAt": "2022-08-16 15:25:51",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 147
         }
     }
 }
