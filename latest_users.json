@@ -1,4 +1,10 @@
 {
+    "113724398602793467597-google": {
+        "id": "113724398602793467597-google",
+        "nickname": "Iso.log.kol",
+        "booksCount": 0,
+        "updatedAt": "2022-09-02 14:45:24"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "глизе570",
         "booksCount": 0,
         "updatedAt": "2022-08-01 02:27:00"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 271,
-        "updatedAt": "2022-07-30 19:36:04"
     }
 }
