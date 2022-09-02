@@ -1,4 +1,10 @@
 {
+    "109746193906459706720-google": {
+        "id": "109746193906459706720-google",
+        "nickname": "Феня Котовна",
+        "booksCount": 181,
+        "updatedAt": "2022-09-02 16:09:54"
+    },
     "113724398602793467597-google": {
         "id": "113724398602793467597-google",
         "nickname": "Iso.log.kol",
@@ -34,12 +40,6 @@
         "nickname": null,
         "booksCount": 82,
         "updatedAt": "2022-08-27 21:04:12"
-    },
-    "109746193906459706720-google": {
-        "id": "109746193906459706720-google",
-        "nickname": "Феня Котовна",
-        "booksCount": 182,
-        "updatedAt": "2022-08-27 16:07:04"
     },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
