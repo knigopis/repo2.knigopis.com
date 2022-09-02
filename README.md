@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>151</sup> 
 [](users/118/118248226132797004598-google)<sup>36</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>207</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>59</sup> 
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup> 
 
 
-_01.09.2022 20:06:22_
+_02.09.2022 14:45:25_
