@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Феня Котовна](users/109/109746193906459706720-google)<sup>181</sup> 
+[Феня Котовна](users/109/109746193906459706720-google)<sup>180</sup> 
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
 
 
-_02.09.2022 16:09:54_
+_02.09.2022 16:09:59_
