@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Феня Котовна](users/109/109746193906459706720-google)<sup>181</sup> 
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>151</sup> 
 [](users/118/118248226132797004598-google)<sup>36</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 [](users/153/1537586159620888-facebook)<sup>82</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>63</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>957</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
 
 
-_02.09.2022 14:45:25_
+_02.09.2022 16:09:54_
