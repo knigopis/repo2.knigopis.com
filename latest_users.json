@@ -1,4 +1,10 @@
 {
+    "106107989792957993574-google": {
+        "id": "106107989792957993574-google",
+        "nickname": "MiriMiri",
+        "booksCount": 40,
+        "updatedAt": "2022-09-02 22:47:18"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -64,12 +70,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-08-25 18:24:53"
-    },
-    "106107989792957993574-google": {
-        "id": "106107989792957993574-google",
-        "nickname": "MiriMiri",
-        "booksCount": 39,
-        "updatedAt": "2022-08-25 12:08:24"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",

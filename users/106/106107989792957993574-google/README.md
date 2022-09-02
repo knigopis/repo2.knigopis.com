@@ -1,7 +1,12 @@
-# List of books read by [MiriMiri](https://plus.google.com/u/0/106107989792957993574/)<sup>39</sup>
+# List of books read by [MiriMiri](https://plus.google.com/u/0/106107989792957993574/)<sup>40</sup>
 ---
 
 ## 2022
+
+### Як говорити, щоб діти нас слухали
+Г. Норман Райт
+> [2022-09-03] 
+
 
 ### Шість способів звільнення від злості та критики
 Барбара Беркган

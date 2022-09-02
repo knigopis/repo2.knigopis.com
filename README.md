@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MiriMiri](users/106/106107989792957993574-google)<sup>40</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>957</sup> 
 [](users/115/115449770062296431749-google)<sup>0</sup> 
-[MiriMiri](users/106/106107989792957993574-google)<sup>39</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>204</sup> 
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
 [](users/526/526199504-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [глизе570](users/117/117707406053876609739-google)<sup>0</sup> 
 
 
-_02.09.2022 16:12:05_
+_02.09.2022 22:47:18_
