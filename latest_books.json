@@ -1,4 +1,16 @@
 {
+    "_zLP39y90E": {
+        "id": "_zLP39y90E",
+        "title": "Меньше, но лучше",
+        "author": "Мартин Бьяуго, Джордан Милн",
+        "notes": "",
+        "createdAt": "2022-09-03 16:46:20",
+        "user": {
+            "id": "111107669790056792515-google",
+            "nickname": "andjix17",
+            "booksCount": 1
+        }
+    },
     "hMPSBcQ2L6": {
         "id": "hMPSBcQ2L6",
         "title": "Як говорити, щоб діти нас слухали",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 148
-        }
-    },
-    "GGE1QWxPqc": {
-        "id": "GGE1QWxPqc",
-        "title": "Шолох. Призрачные рощи. #4",
-        "author": "Антонина Крейн",
-        "notes": "",
-        "createdAt": "2022-08-19 08:26:19",
-        "user": {
-            "id": "109746193906459706720-google",
-            "nickname": "Феня Котовна",
-            "booksCount": 178
         }
     }
 }
