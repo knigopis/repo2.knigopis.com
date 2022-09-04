@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>231</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>232</sup>
 ---
 
 ## 2022
+
+### Аркадия
+Якопо Санеадзаро
+> [2022-08-03] 
+
 
 ### Фермерские рынки мира. Кругосветное путешествие
 Мария Бахарева
