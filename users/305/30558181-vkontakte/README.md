@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>228</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>229</sup>
 ---
 
 ## 2022
+
+### Книга моря. Миф, земля и люди
+Алексей Вахрушев
+> [2022-07-03] 
+
 
 ### Восточно-западная улица
 Филипп Сэндс
