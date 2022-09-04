@@ -1,7 +1,12 @@
-# List of books read by [andjix17](https://plus.google.com/u/0/111107669790056792515/)<sup>1</sup>
+# List of books read by [andjix17](https://plus.google.com/u/0/111107669790056792515/)<sup>2</sup>
 ---
 
 ## 2022
+
+### Взлом Роста
+Денис Мартынцев
+> [2022-08-20] 
+
 
 ### Меньше, но лучше
 Мартин Бьяуго, Джордан Милн
