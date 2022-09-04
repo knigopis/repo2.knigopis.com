@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[andjix17](users/111/111107669790056792515-google)<sup>2</sup> 
+[andjix17](users/111/111107669790056792515-google)<sup>3</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>40</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>59</sup> 
 
 
-_04.09.2022 06:47:43_
+_04.09.2022 06:57:02_

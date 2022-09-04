@@ -1,4 +1,16 @@
 {
+    "gLn25NHa1B": {
+        "id": "gLn25NHa1B",
+        "title": "У нас это делают не так",
+        "author": "Коттер Джон, Ратгебер Холгер",
+        "notes": "",
+        "createdAt": "2022-09-04 06:57:02",
+        "user": {
+            "id": "111107669790056792515-google",
+            "nickname": "andjix17",
+            "booksCount": 3
+        }
+    },
     "H2FrgdKRxg": {
         "id": "H2FrgdKRxg",
         "title": "Взлом Роста",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "MiriMiri",
             "booksCount": 38
-        }
-    },
-    "CmQOA8sqxo": {
-        "id": "CmQOA8sqxo",
-        "title": "Создание бренда",
-        "author": "Брайан Смит",
-        "notes": "Есть несколько хороших мыслей.",
-        "createdAt": "2022-08-19 19:10:46",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "Evermind",
-            "booksCount": 62
         }
     }
 }
