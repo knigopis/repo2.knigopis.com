@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>226</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>227</sup>
 ---
 
 ## 2022
+
+### Рассказы на ладони
+Ясунари Кавабата
+> [2022-04-27] 
+
 
 ### Москва-Петушки
 Венедикт Ерофеев

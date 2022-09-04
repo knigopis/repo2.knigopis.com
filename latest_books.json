@@ -1,4 +1,16 @@
 {
+    "TT71hMvg4q": {
+        "id": "TT71hMvg4q",
+        "title": "Рассказы на ладони",
+        "author": "Ясунари Кавабата",
+        "notes": "",
+        "createdAt": "2022-09-04 10:55:56",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 227
+        }
+    },
     "NUiK-hJEG0": {
         "id": "NUiK-hJEG0",
         "title": "Москва-Петушки",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": "Smekalistii",
             "booksCount": 32
-        }
-    },
-    "D64Tmq7plw": {
-        "id": "D64Tmq7plw",
-        "title": "Домой до темноты",
-        "author": "Чарльз Маклин",
-        "notes": "8/10 Дочку мильянера убивает маньяк в Венеции. Отец ищет убийцу.",
-        "createdAt": "2022-08-21 18:26:29",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 277
         }
     }
 }
