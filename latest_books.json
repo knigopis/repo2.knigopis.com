@@ -1,4 +1,16 @@
 {
+    "OJhAbljI-E": {
+        "id": "OJhAbljI-E",
+        "title": "Близко к сердцу. Как жить, если вы слишком чувствительный человек",
+        "author": "Илсе Санд",
+        "notes": "",
+        "createdAt": "2022-09-04 10:54:21",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 225
+        }
+    },
     "cpzB6cSL3Y": {
         "id": "cpzB6cSL3Y",
         "title": "Твой путь",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 276
-        }
-    },
-    "zB3OxmM5Mj": {
-        "id": "zB3OxmM5Mj",
-        "title": "Возвращение Пионера",
-        "author": "Ш. Идиатуллин",
-        "notes": "",
-        "createdAt": "2022-08-21 17:08:13",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 149
         }
     }
 }

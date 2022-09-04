@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>224</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>225</sup>
 ---
 
 ## 2022
+
+### Близко к сердцу. Как жить, если вы слишком чувствительный человек
+Илсе Санд
+> [2022-03-10] 
+
 
 ### Твой путь
 Коносуке Мацусита
