@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>222</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>223</sup>
 ---
 
 ## 2022
+
+### Самый одинокий человек
+Сара Уинман
+> [2022-01-23] 
+
 
 ### Осязание
 Дэвид Линден
