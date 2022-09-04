@@ -3,7 +3,7 @@
 
 ### `100` Lean Startup
 
-### `100` Lean customer development
+### `100` Как создать продукт который купят
 Синди Альварес
 
 ### `80` Inspired
