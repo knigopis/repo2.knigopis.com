@@ -1,4 +1,16 @@
 {
+    "cpzB6cSL3Y": {
+        "id": "cpzB6cSL3Y",
+        "title": "Твой путь",
+        "author": "Коносуке Мацусита",
+        "notes": "",
+        "createdAt": "2022-09-04 10:53:29",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 224
+        }
+    },
     "RpdWtiYKKo": {
         "id": "RpdWtiYKKo",
         "title": "Самый одинокий человек",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 149
-        }
-    },
-    "qsdbccsXF9": {
-        "id": "qsdbccsXF9",
-        "title": "Лолита",
-        "author": "Набоков",
-        "notes": "",
-        "createdAt": "2022-08-20 22:39:54",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 28
         }
     }
 }

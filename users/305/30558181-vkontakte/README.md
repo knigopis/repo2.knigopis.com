@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>223</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>224</sup>
 ---
 
 ## 2022
+
+### Твой путь
+Коносуке Мацусита
+> [2022-02-26] 
+
 
 ### Самый одинокий человек
 Сара Уинман
