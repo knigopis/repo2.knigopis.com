@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>231</sup> 
 [](users/103/103781112563355048893-google)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>230</sup> 
 [Astarta](users/109/109681260016308244905-google)<sup>0</sup> 
 [andjix17](users/111/111107669790056792515-google)<sup>3</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>40</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/173/17316051423275515640-mailru)<sup>0</sup> 
 
 
-_04.09.2022 10:59:11_
+_04.09.2022 10:59:37_

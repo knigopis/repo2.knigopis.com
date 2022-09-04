@@ -1,4 +1,16 @@
 {
+    "Go5TZ0_Zr4": {
+        "id": "Go5TZ0_Zr4",
+        "title": "Фермерские рынки мира. Кругосветное путешествие",
+        "author": "Мария Бахарева",
+        "notes": "",
+        "createdAt": "2022-09-04 10:59:37",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 231
+        }
+    },
     "cdkZ4UyASD": {
         "id": "cdkZ4UyASD",
         "title": "Ботанический заговор. Почему растения так важны для нас и как за ними ухаживать",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 956
-        }
-    },
-    "_FJGhKQeEE": {
-        "id": "_FJGhKQeEE",
-        "title": "Шість способів звільнення від злості та критики",
-        "author": "Барбара Беркган",
-        "notes": "Настільна книга",
-        "createdAt": "2022-08-25 12:08:24",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "MiriMiri",
-            "booksCount": 39
         }
     }
 }
