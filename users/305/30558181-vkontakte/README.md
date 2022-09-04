@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>233</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>234</sup>
 ---
 
 ## 2022
+
+### Сердце, что растопит океан
+Барбара Морриган
+> [2022-09-03] 
+
 
 ### Назови меня своим именем
 Андре Асиман
