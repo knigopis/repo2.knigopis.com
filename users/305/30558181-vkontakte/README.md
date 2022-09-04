@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>225</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>226</sup>
 ---
 
 ## 2022
+
+### Москва-Петушки
+Венедикт Ерофеев
+> [2022-04-10] 
+
 
 ### Близко к сердцу. Как жить, если вы слишком чувствительный человек
 Илсе Санд
