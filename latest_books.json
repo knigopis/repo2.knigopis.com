@@ -1,4 +1,16 @@
 {
+    "8pTXMtBNmK": {
+        "id": "8pTXMtBNmK",
+        "title": "Осязание",
+        "author": "Дэвид Линден",
+        "notes": "",
+        "createdAt": "2022-09-04 10:51:53",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 222
+        }
+    },
     "gLn25NHa1B": {
         "id": "gLn25NHa1B",
         "title": "У нас это делают не так",
@@ -345,18 +357,6 @@
             "id": "109746193906459706720-google",
             "nickname": "Феня Котовна",
             "booksCount": 179
-        }
-    },
-    "Sg0HYrHgIA": {
-        "id": "Sg0HYrHgIA",
-        "title": "Обійдемось без лелеки. Як розмовляти з підлітками про любов і сексуальність",
-        "author": "Єва Люб'янець",
-        "notes": "",
-        "createdAt": "2022-08-20 08:50:07",
-        "user": {
-            "id": "106107989792957993574-google",
-            "nickname": "MiriMiri",
-            "booksCount": 38
         }
     }
 }
