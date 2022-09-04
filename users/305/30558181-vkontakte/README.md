@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>227</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>228</sup>
 ---
 
 ## 2022
+
+### Восточно-западная улица
+Филипп Сэндс
+> [2022-06-17] 
+
 
 ### Рассказы на ладони
 Ясунари Кавабата
