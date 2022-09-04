@@ -1,4 +1,16 @@
 {
+    "cdkZ4UyASD": {
+        "id": "cdkZ4UyASD",
+        "title": "Ботанический заговор. Почему растения так важны для нас и как за ними ухаживать",
+        "author": "Виктория Базоева",
+        "notes": "",
+        "createdAt": "2022-09-04 10:58:55",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 230
+        }
+    },
     "XYNkzkeDPy": {
         "id": "XYNkzkeDPy",
         "title": "Книга моря. Миф, земля и люди",
@@ -345,18 +357,6 @@
             "id": "106107989792957993574-google",
             "nickname": "MiriMiri",
             "booksCount": 39
-        }
-    },
-    "PUGLOo6z51": {
-        "id": "PUGLOo6z51",
-        "title": "The New Great Depression: Winners and Losers in a Post-Pandemic World",
-        "author": "James Rickards",
-        "notes": "",
-        "createdAt": "2022-08-25 11:59:52",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 204
         }
     }
 }
