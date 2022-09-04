@@ -1,4 +1,16 @@
 {
+    "Y7OY0pVado": {
+        "id": "Y7OY0pVado",
+        "title": "Путь одного Агентства",
+        "author": "Олег Торбосов",
+        "notes": "10 из 10",
+        "createdAt": "2022-09-04 22:44:36",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "Evermind",
+            "booksCount": 64
+        }
+    },
     "2YjXAqcJvD": {
         "id": "2YjXAqcJvD",
         "title": "Последний ход",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 269
-        }
-    },
-    "CxQp3px3Bg": {
-        "id": "CxQp3px3Bg",
-        "title": "Осторожно, спорт",
-        "author": "Стивен Баррер",
-        "notes": "7/10 Повальное увлечение спортом и травматизация.",
-        "createdAt": "2022-07-26 10:39:44",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 268
         }
     }
 }

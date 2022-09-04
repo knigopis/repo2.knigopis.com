@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "Evermind",
+        "booksCount": 64,
+        "updatedAt": "2022-09-04 22:44:36"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -70,12 +76,6 @@
         "nickname": null,
         "booksCount": 82,
         "updatedAt": "2022-08-27 21:04:12"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "Evermind",
-        "booksCount": 63,
-        "updatedAt": "2022-08-26 20:10:04"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",

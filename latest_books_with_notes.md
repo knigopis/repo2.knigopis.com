@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путь одного Агентства ~ [Evermind](users/302/302928912-vkontakte)<sup>64</sup>
 * Последний ход ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup>
 * Бабкин и Илюшин ~ [Chiffi](users/105/105831994080785626680-google)<sup>333</sup>
 * Некромант на мою голову ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup>
@@ -30,7 +31,6 @@
 * Антологія української готичної прози ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup>
 * Друга планета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup>
 * Финн ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup>
-* Осторожно, спорт ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>268</sup>
 
 
-_02.09.2022 16:12:05_
+_04.09.2022 22:44:36_
