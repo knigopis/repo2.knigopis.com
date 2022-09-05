@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>32</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>33</sup>
 ---
 
 ## 2022
+
+### ДНК
+Ирса Сигурдардоттир
+> [2022-09-02] 
+
 
 ### Четыре после полуночи
 Стивен Кинг
