@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>413</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>414</sup>
 ---
 
 ## 2022
@@ -6,6 +6,11 @@
 ### Вся кремлевская рать
 Михаил Зыгарь
 > [2022-06-08] 
+
+
+### Старик и море
+Эрнест Хемингуэй
+> [2022-05-09] 
 
 
 ### Источник

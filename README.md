@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>414</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>64</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>234</sup> 
 [](users/103/103781112563355048893-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/185/185675202-vkontakte)<sup>0</sup> 
 [](users/108/108518651320113412154-google)<sup>0</sup> 
 [tututu](users/135/135685382-vkontakte)<sup>42</sup> 
-[](users/173/17316051423275515640-mailru)<sup>0</sup> 
 
 
-_04.09.2022 22:44:36_
+_05.09.2022 06:02:00_
