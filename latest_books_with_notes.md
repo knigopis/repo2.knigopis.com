@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «На глиняных ногах» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup>
 * Путь одного Агентства ~ [Evermind](users/302/302928912-vkontakte)<sup>64</sup>
 * Последний ход ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup>
 * Бабкин и Илюшин ~ [Chiffi](users/105/105831994080785626680-google)<sup>333</sup>
@@ -30,7 +31,6 @@
 * Плохая квартира ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>271</sup>
 * Антологія української готичної прози ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>270</sup>
 * Друга планета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>269</sup>
-* Финн ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>269</sup>
 
 
-_04.09.2022 22:44:36_
+_06.09.2022 10:16:36_
