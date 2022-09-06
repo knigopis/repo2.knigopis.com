@@ -1,7 +1,12 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>171</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>172</sup>
 ---
 
 ## 2022
+
+### Око мира
+Роберт Джордан
+> [2022-09-06] 
+
 
 ### Дорога в Средиземье
 Том Шиппи
