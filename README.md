@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>958</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>959</sup> 
 [](users/488/48865699271604935-mailru)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>205</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108518651320113412154-google)<sup>0</sup> 
 
 
-_06.09.2022 18:07:23_
+_06.09.2022 18:08:10_
