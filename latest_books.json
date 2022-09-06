@@ -1,4 +1,16 @@
 {
+    "Mw7i6HtEh5": {
+        "id": "Mw7i6HtEh5",
+        "title": "Птицы, звери и родственники",
+        "author": "Джеральд Даррелл",
+        "notes": "",
+        "createdAt": "2022-09-06 18:07:23",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 958
+        }
+    },
     "kX8eK_X6Yc": {
         "id": "kX8eK_X6Yc",
         "title": "Норма",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 40
-        }
-    },
-    "N9Uaii_0Fw": {
-        "id": "N9Uaii_0Fw",
-        "title": "Воскрешение секты",
-        "author": "Мариэтт Линдстинн",
-        "notes": "",
-        "createdAt": "2022-08-27 21:04:12",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 82
         }
     }
 }
