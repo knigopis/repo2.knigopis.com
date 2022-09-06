@@ -1,4 +1,10 @@
 {
+    "48865699271604935-mailru": {
+        "id": "48865699271604935-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-09-06 18:01:53"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-08-07 15:23:58"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tututu",
-        "booksCount": 42,
-        "updatedAt": "2022-08-06 16:55:54"
     }
 }
