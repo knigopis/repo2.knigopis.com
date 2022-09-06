@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/488/48865699271604935-mailru)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>205</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>33</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Naricev](users/107/107090515204537133928-google)<sup>271</sup> 
 [](users/185/185675202-vkontakte)<sup>0</sup> 
 [](users/108/108518651320113412154-google)<sup>0</sup> 
-[tututu](users/135/135685382-vkontakte)<sup>42</sup> 
 
 
-_06.09.2022 12:15:21_
+_06.09.2022 18:01:54_
