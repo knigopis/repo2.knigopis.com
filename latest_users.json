@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 205,
+        "updatedAt": "2022-09-06 12:15:21"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -106,12 +112,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-08-25 18:24:53"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 204,
-        "updatedAt": "2022-08-25 11:59:52"
     },
     "491114705-vkontakte": {
         "id": "491114705-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "kX8eK_X6Yc": {
+        "id": "kX8eK_X6Yc",
+        "title": "Норма",
+        "author": "Сорокин Владимир",
+        "notes": "",
+        "createdAt": "2022-09-06 12:15:21",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 205
+        }
+    },
     "hCJH_HmOy7": {
         "id": "hCJH_HmOy7",
         "title": "«На глиняных ногах»",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 82
-        }
-    },
-    "7hc_jt-c4u": {
-        "id": "7hc_jt-c4u",
-        "title": "Добрый доктор из Варшавы",
-        "author": "Элизабет Гиффорд",
-        "notes": "",
-        "createdAt": "2022-08-27 21:03:34",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 81
         }
     }
 }
