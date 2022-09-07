@@ -1,4 +1,16 @@
 {
+    "MZgtC0egWG": {
+        "id": "MZgtC0egWG",
+        "title": "451 по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2022-09-07 15:46:04",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": "pria",
+            "booksCount": 67
+        }
+    },
     "Dr2VwUNLJA": {
         "id": "Dr2VwUNLJA",
         "title": "Око мира",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 333
-        }
-    },
-    "upSgX_sNIf": {
-        "id": "upSgX_sNIf",
-        "title": "Как изобрести всё",
-        "author": "Р. Норт",
-        "notes": "",
-        "createdAt": "2022-08-31 13:25:27",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 151
         }
     }
 }

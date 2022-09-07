@@ -1,4 +1,10 @@
 {
+    "128917939-vkontakte": {
+        "id": "128917939-vkontakte",
+        "nickname": "pria",
+        "booksCount": 67,
+        "updatedAt": "2022-09-07 15:46:04"
+    },
     "105866022348292919948-google": {
         "id": "105866022348292919948-google",
         "nickname": "Chandravadana",
@@ -172,11 +178,5 @@
         "nickname": "Naricev",
         "booksCount": 271,
         "updatedAt": "2022-08-11 15:34:11"
-    },
-    "185675202-vkontakte": {
-        "id": "185675202-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-08-07 17:58:36"
     }
 }

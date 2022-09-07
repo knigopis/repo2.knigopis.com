@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>66</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>67</sup>
 ---
 
 ## 2022
+
+### 451 по Фаренгейту
+Рэй Брэдбери
+> [2022-09-01] 
+
 
 ### Гоблин
 Ким Ынсук
