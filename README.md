@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>961</sup> 
 [](users/148/148005894-vkontakte)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>67</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>172</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>960</sup> 
 [](users/488/48865699271604935-mailru)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>205</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 
 
-_09.09.2022 05:34:24_
+_09.09.2022 14:54:55_
