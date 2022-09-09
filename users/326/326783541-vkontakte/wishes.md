@@ -1,7 +1,7 @@
 # Wish list of books by [Askaliya](http://vk.com/id326783541)
 ---
 
-### `64` Queen of coin and wispers
+### `100` Queen of coin and wispers
 
 ### `` Поднося вино
 
