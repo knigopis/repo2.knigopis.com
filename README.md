@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>961</sup> 
 [](users/148/148005894-vkontakte)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>67</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>234</sup> 
 [](users/103/103781112563355048893-google)<sup>0</sup> 
 [Astarta](users/109/109681260016308244905-google)<sup>0</sup> 
-[andjix17](users/111/111107669790056792515-google)<sup>3</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>40</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 
 
-_09.09.2022 14:54:55_
+_09.09.2022 19:04:41_

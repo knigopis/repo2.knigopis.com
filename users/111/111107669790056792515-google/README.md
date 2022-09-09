@@ -1,7 +1,12 @@
-# List of books read by [andjix17](https://plus.google.com/u/0/111107669790056792515/)<sup>3</sup>
+# List of books read by [andjix17](https://plus.google.com/u/0/111107669790056792515/)<sup>4</sup>
 ---
 
 ## 2022
+
+### Бизнес с нуля
+Эрик Рис
+> [2022-09-06] Не впечатлила!
+
 
 ### Взлом Роста
 Денис Мартынцев
