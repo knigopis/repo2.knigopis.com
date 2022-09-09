@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>29</sup> 
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>961</sup> 
 [](users/148/148005894-vkontakte)<sup>0</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
 [](users/526/526199504-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>28</sup> 
 [scar](users/305/305940291-vkontakte)<sup>0</sup> 
 [](users/602/602594164-yandex)<sup>0</sup> 
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 
 
-_09.09.2022 19:04:41_
+_09.09.2022 22:56:39_
