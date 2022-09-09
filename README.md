@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>29</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>30</sup> 
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>961</sup> 
 [](users/148/148005894-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 
 
-_09.09.2022 22:56:39_
+_09.09.2022 22:57:49_
