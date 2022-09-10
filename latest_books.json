@@ -1,4 +1,16 @@
 {
+    "hwyLRtH865": {
+        "id": "hwyLRtH865",
+        "title": "Дело о ложной старой деве",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-09-10 16:34:04",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 963
+        }
+    },
     "szOw24q8TI": {
         "id": "szOw24q8TI",
         "title": "Дело о стройной тени",
@@ -345,18 +357,6 @@
             "id": "111107669790056792515-google",
             "nickname": "andjix17",
             "booksCount": 2
-        }
-    },
-    "_zLP39y90E": {
-        "id": "_zLP39y90E",
-        "title": "Меньше, но лучше",
-        "author": "Мартин Бьяуго, Джордан Милн",
-        "notes": "",
-        "createdAt": "2022-09-03 16:46:20",
-        "user": {
-            "id": "111107669790056792515-google",
-            "nickname": "andjix17",
-            "booksCount": 1
         }
     }
 }
