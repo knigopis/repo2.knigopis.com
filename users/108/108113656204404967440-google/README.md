@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>963</sup>
+# List of books read by Janet<sup>964</sup>
 ---
 
 ## 2022
+
+### Хохот шамана
+Владимир Серкин
+> [2022-09] 
+
 
 ### Дело о ложной старой деве
 Эрл Стэнли Гарднер
