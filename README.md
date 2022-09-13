@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* загадка 622 номера ~ [](users/101/101368518035734751027-google)<sup>4</sup>
+    > 7.5/10
+
 * Гарри Поттер и Принц-полукровка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>72</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Путь одного Агентства ~ [Evermind](users/302/302928912-vkontakte)<sup>64</sup>
-    > 10 из 10
 
 * Последний ход ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шість способів звільнення від злості та критики ~ [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup>
 
-* Домой до темноты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101368518035734751027-google)<sup>4</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>965</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup> 
 [scar](users/305/305940291-vkontakte)<sup>0</sup> 
 [](users/602/602594164-yandex)<sup>0</sup> 
-[danyluk62](users/374/374149854-vkontakte)<sup>151</sup> 
 
 
-_11.09.2022 18:13:06_
+_13.09.2022 03:47:27_

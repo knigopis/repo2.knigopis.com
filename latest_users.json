@@ -1,4 +1,10 @@
 {
+    "101368518035734751027-google": {
+        "id": "101368518035734751027-google",
+        "nickname": null,
+        "booksCount": 4,
+        "updatedAt": "2022-09-13 03:47:27"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-08-18 12:11:38"
-    },
-    "374149854-vkontakte": {
-        "id": "374149854-vkontakte",
-        "nickname": "danyluk62",
-        "booksCount": 151,
-        "updatedAt": "2022-08-14 16:01:19"
     }
 }

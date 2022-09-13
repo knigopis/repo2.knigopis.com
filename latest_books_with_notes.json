@@ -1,4 +1,16 @@
 {
+    "zOqoy7yFZg": {
+        "id": "zOqoy7yFZg",
+        "title": "загадка 622 номера",
+        "author": "жоель діккер",
+        "notes": "7.5/10",
+        "createdAt": "2022-09-13 03:47:27",
+        "user": {
+            "id": "101368518035734751027-google",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "uYdRI7fv8a": {
         "id": "uYdRI7fv8a",
         "title": "Гарри Поттер и Принц-полукровка",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 271
-        }
-    },
-    "bLlnikYMVJ": {
-        "id": "bLlnikYMVJ",
-        "title": "Антологія української готичної прози",
-        "author": "Укладач Юрій Винничук",
-        "notes": "6/10 романтично-містичні оповідання.",
-        "createdAt": "2022-07-30 10:15:40",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 270
         }
     }
 }
