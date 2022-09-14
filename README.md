@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
 [](users/101/101368518035734751027-google)<sup>4</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>965</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/526/526199504-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup> 
 [scar](users/305/305940291-vkontakte)<sup>0</sup> 
-[](users/602/602594164-yandex)<sup>0</sup> 
 
 
-_13.09.2022 03:47:27_
+_14.09.2022 19:11:10_
