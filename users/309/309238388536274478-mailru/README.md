@@ -1,5 +1,13 @@
-# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>71</sup>
+# List of books read by [111](https://my.mail.ru/mail/bytyavka94/)<sup>72</sup>
 ---
+
+## 2022
+
+### Отряд
+Ник Каттер
+> Ух. Прям ухххх. Остров, скауты,  паразиты, поразительно-омерзительное человеческое нутро.
+
+
 
 ## Other years
 

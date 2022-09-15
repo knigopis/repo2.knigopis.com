@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отряд ~ [111](users/309/309238388536274478-mailru)<sup>72</sup>
+    > Ух. Прям ухххх. Остров, скауты,  паразиты, поразительно-омерзительное человеческое нутро.
+
 * загадка 622 номера ~ [](users/101/101368518035734751027-google)<sup>4</sup>
     > 7.5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «На глиняных ногах» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup>
-    > audio
 
 * Путь одного Агентства ~ [Evermind](users/302/302928912-vkontakte)<sup>64</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «К оружию! К оружию!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>69</sup>
 
-* Шість способів звільнення від злості та критики ~ [MiriMiri](users/106/106107989792957993574-google)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[111](users/309/309238388536274478-mailru)<sup>72</sup> 
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 [Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
 [](users/101/101368518035734751027-google)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
 [](users/526/526199504-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup> 
-[scar](users/305/305940291-vkontakte)<sup>0</sup> 
 
 
-_15.09.2022 00:29:04_
+_15.09.2022 00:54:10_
