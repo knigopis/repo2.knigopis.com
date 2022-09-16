@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История Англии. От ледникового периода до Великой хартии вольностей ~ [Garka](users/115/115753719718250012620-google)<sup>323</sup>
+    > То ли история Англии менее интересная, чем Восток и Египет, то ли книга менее интересно написана
+
 * Отряд ~ [111](users/309/309238388536274478-mailru)<sup>72</sup>
     > Ух. Прям ухххх. Остров, скауты,  паразиты, поразительно-омерзительное человеческое нутро.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7.5/10
 
 * Гарри Поттер и Принц-полукровка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>72</sup>
-    > audio
 
 * «На глиняных ногах» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Три товарища ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>70</sup>
 
-* «К оружию! К оружию!» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>322</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>323</sup> 
 [111](users/309/309238388536274478-mailru)<sup>72</sup> 
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 [Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/526/526199504-vkontakte)<sup>0</sup> 
 
 
-_16.09.2022 19:43:01_
+_16.09.2022 19:46:03_
