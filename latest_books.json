@@ -1,4 +1,16 @@
 {
+    "4Ym7s7aq2o": {
+        "id": "4Ym7s7aq2o",
+        "title": "Тени истины",
+        "author": "Сандерсон Брендон",
+        "notes": "Продолжается противостояние Ваксиллиума и круга. В этой книге появляются кандра! ))",
+        "createdAt": "2022-09-16 19:48:07",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 324
+        }
+    },
     "wki_EL81Ww": {
         "id": "wki_EL81Ww",
         "title": "История Англии. От ледникового периода до Великой хартии вольностей",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 229
-        }
-    },
-    "hiXn2Y2c7t": {
-        "id": "hiXn2Y2c7t",
-        "title": "Восточно-западная улица",
-        "author": "Филипп Сэндс",
-        "notes": "",
-        "createdAt": "2022-09-04 10:56:50",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 228
         }
     }
 }
