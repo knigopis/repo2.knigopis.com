@@ -1,4 +1,10 @@
 {
+    "21699811-yandex": {
+        "id": "21699811-yandex",
+        "nickname": "CELIES",
+        "booksCount": 0,
+        "updatedAt": "2022-09-16 22:08:57"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Крекер",
         "booksCount": 0,
         "updatedAt": "2022-08-23 14:07:09"
-    },
-    "526199504-vkontakte": {
-        "id": "526199504-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-08-22 07:59:47"
     }
 }
