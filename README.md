@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>322</sup> 
 [111](users/309/309238388536274478-mailru)<sup>72</sup> 
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 [Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115449770062296431749-google)<sup>0</sup> 
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
 [](users/526/526199504-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup> 
 
 
-_15.09.2022 00:54:10_
+_16.09.2022 19:43:01_
