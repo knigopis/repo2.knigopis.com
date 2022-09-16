@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[CELIES](users/216/21699811-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>326</sup> 
 [111](users/309/309238388536274478-mailru)<sup>72</sup> 
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 [](users/115/115449770062296431749-google)<sup>0</sup> 
 [Крекер](users/491/491114705-vkontakte)<sup>0</sup> 
-[](users/526/526199504-vkontakte)<sup>0</sup> 
 
 
-_16.09.2022 19:52:52_
+_16.09.2022 22:08:58_
