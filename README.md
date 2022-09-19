@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Патриот» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup>
+    > audio
+
 * Краткая история пьянства ~ [Garka](users/115/115753719718250012620-google)<sup>326</sup>
     > Человечество пило, пьёт и видимо будет пить алкоголь. Необычный взгляд на особенности разных народов через культуру потребления алкоголя
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вроде многое предсказуемо, но очень интересно. Завязка на новую книгу огонь. Только вот когда она выйдет, эта новая книга...
 
 * Тени истины ~ [Garka](users/115/115753719718250012620-google)<sup>324</sup>
-    > Продолжается противостояние Ваксиллиума и круга. В этой книге появляются кандра! ))
 
 * История Англии. От ледникового периода до Великой хартии вольностей ~ [Garka](users/115/115753719718250012620-google)<sup>323</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Путь одного Агентства ~ [Evermind](users/302/302928912-vkontakte)<sup>64</sup>
 
-* Последний ход ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>8</sup> 
 [CELIES](users/216/21699811-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>326</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 [Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
 [](users/101/101368518035734751027-google)<sup>4</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>965</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>30</sup> 
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115449770062296431749-google)<sup>0</sup> 
 
 
-_19.09.2022 09:21:21_
+_19.09.2022 09:43:50_
