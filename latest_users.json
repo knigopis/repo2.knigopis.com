@@ -1,4 +1,10 @@
 {
+    "13328144-vkontakte": {
+        "id": "13328144-vkontakte",
+        "nickname": "kciccone",
+        "booksCount": 0,
+        "updatedAt": "2022-09-19 16:00:57"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 39,
         "updatedAt": "2022-08-30 18:32:57"
-    },
-    "115449770062296431749-google": {
-        "id": "115449770062296431749-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-08-25 18:24:53"
     }
 }
