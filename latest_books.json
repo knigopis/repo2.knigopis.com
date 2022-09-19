@@ -1,4 +1,16 @@
 {
+    "pkjEQxw8zW": {
+        "id": "pkjEQxw8zW",
+        "title": "Загадка Эндхауза",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2022-09-19 16:01:56",
+        "user": {
+            "id": "13328144-vkontakte",
+            "nickname": "kciccone",
+            "booksCount": 1
+        }
+    },
     "wTmWR0RQh2": {
         "id": "wTmWR0RQh2",
         "title": "«Патриот»",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 959
-        }
-    },
-    "Mw7i6HtEh5": {
-        "id": "Mw7i6HtEh5",
-        "title": "Птицы, звери и родственники",
-        "author": "Джеральд Даррелл",
-        "notes": "",
-        "createdAt": "2022-09-06 18:07:23",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 958
         }
     }
 }
