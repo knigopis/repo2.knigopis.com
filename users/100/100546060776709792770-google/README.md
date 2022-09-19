@@ -1,7 +1,12 @@
-# List of books read by [ceres1t](https://plus.google.com/u/0/100546060776709792770/)<sup>7</sup>
+# List of books read by [ceres1t](https://plus.google.com/u/0/100546060776709792770/)<sup>8</sup>
 ---
 
 ## 2022
+
+### Повелитель мух
+Уильям Голдинг
+> Дети на необитаемом острове.
+
 
 ### Искуство побеждать
 Сунь-Цзы

@@ -1,4 +1,16 @@
 {
+    "4ZmpJp0adf": {
+        "id": "4ZmpJp0adf",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "Дети на необитаемом острове.",
+        "createdAt": "2022-09-19 09:21:21",
+        "user": {
+            "id": "100546060776709792770-google",
+            "nickname": "ceres1t",
+            "booksCount": 8
+        }
+    },
     "UEHOQNSsuJ": {
         "id": "UEHOQNSsuJ",
         "title": "Ма́ленький принц",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 205
-        }
-    },
-    "hCJH_HmOy7": {
-        "id": "hCJH_HmOy7",
-        "title": "«На глиняных ногах»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-09-06 10:16:36",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 71
         }
     }
 }
