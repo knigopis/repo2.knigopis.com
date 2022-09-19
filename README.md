@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kciccone](users/133/13328144-vkontakte)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>8</sup> 
 [CELIES](users/216/21699811-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>151</sup> 
 [](users/118/118248226132797004598-google)<sup>36</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
-[](users/115/115449770062296431749-google)<sup>0</sup> 
 
 
-_19.09.2022 09:43:50_
+_19.09.2022 16:00:58_
