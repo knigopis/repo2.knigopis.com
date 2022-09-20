@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Современный фашизм ~ [lucius](users/838/83820536-yandex)<sup>153</sup>
+    > Книга объясняет, что такое современный фашизм, как он развился до текущего состояния, чем отличается от нацизма и тд. Как по мне  слишком эмоционально подано, из-за чего местами сложно укладывать в голове
+
 * «Патриот» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Человечество пило, пьёт и видимо будет пить алкоголь. Необычный взгляд на особенности разных народов через культуру потребления алкоголя
 
 * Браслеты скорби ~ [Garka](users/115/115753719718250012620-google)<sup>325</sup>
-    > Вроде многое предсказуемо, но очень интересно. Завязка на новую книгу огонь. Только вот когда она выйдет, эта новая книга...
 
 * Тени истины ~ [Garka](users/115/115753719718250012620-google)<sup>324</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «На глиняных ногах» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup>
 
-* Путь одного Агентства ~ [Evermind](users/302/302928912-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>153</sup> 
 [kciccone](users/133/13328144-vkontakte)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>151</sup> 
 [](users/118/118248226132797004598-google)<sup>36</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>39</sup> 
 
 
-_19.09.2022 16:01:56_
+_20.09.2022 20:36:13_

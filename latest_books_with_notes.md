@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Современный фашизм ~ [lucius](users/838/83820536-yandex)<sup>153</sup>
 * «Патриот» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup>
 * Краткая история пьянства ~ [Garka](users/115/115753719718250012620-google)<sup>326</sup>
 * Браслеты скорби ~ [Garka](users/115/115753719718250012620-google)<sup>325</sup>
@@ -30,7 +31,6 @@
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>332</sup>
 * Возвращение ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>66</sup>
 * Шестой дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>272</sup>
-* Новый дозор ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>271</sup>
 
 
-_19.09.2022 09:43:50_
+_20.09.2022 20:36:13_
