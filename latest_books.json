@@ -1,4 +1,16 @@
 {
+    "C8o3vQ2ZV2": {
+        "id": "C8o3vQ2ZV2",
+        "title": "Человеческий фактор: успешные проекты и команды",
+        "author": "Тимоти Листер",
+        "notes": "Очень хорошая книга для руководителей разработки. Я выписал себе некоторое количество цитат, чтобы время от времени их перечитывать.\nhttps://gurov.livejournal.com/3442.html",
+        "createdAt": "2022-09-20 21:06:44",
+        "user": {
+            "id": "83820536-yandex",
+            "nickname": "lucius",
+            "booksCount": 154
+        }
+    },
     "rm28D598sD": {
         "id": "rm28D598sD",
         "title": "Современный фашизм",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 172
-        }
-    },
-    "mdGjiGDJPy": {
-        "id": "mdGjiGDJPy",
-        "title": "Дело о дочери-дубликате",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-09-06 18:09:32",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 960
         }
     }
 }

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Человеческий фактор: успешные проекты и команды ~ [lucius](users/838/83820536-yandex)<sup>154</sup>
+    > Очень хорошая книга для руководителей разработки. Я выписал себе некоторое количество цитат, чтобы время от времени их перечитывать.
+    > https://gurov.livejournal.com/3442.html
+
 * Современный фашизм ~ [lucius](users/838/83820536-yandex)<sup>153</sup>
     > Книга объясняет, что такое современный фашизм, как он развился до текущего состояния, чем отличается от нацизма и тд. Как по мне  слишком эмоционально подано, из-за чего местами сложно укладывать в голове
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Краткая история пьянства ~ [Garka](users/115/115753719718250012620-google)<sup>326</sup>
-    > Человечество пило, пьёт и видимо будет пить алкоголь. Необычный взгляд на особенности разных народов через культуру потребления алкоголя
 
 * Браслеты скорби ~ [Garka](users/115/115753719718250012620-google)<sup>325</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Принц-полукровка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>72</sup>
 
-* «На глиняных ногах» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lucius](users/838/83820536-yandex)<sup>153</sup> 
+[lucius](users/838/83820536-yandex)<sup>154</sup> 
 [kciccone](users/133/13328144-vkontakte)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>8</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118248226132797004598-google)<sup>36</sup> 
 
 
-_20.09.2022 20:36:13_
+_20.09.2022 21:06:44_
