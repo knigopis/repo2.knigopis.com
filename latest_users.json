@@ -1,4 +1,10 @@
 {
+    "112821924557903899027-google": {
+        "id": "112821924557903899027-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-09-22 13:58:43"
+    },
     "100546060776709792770-google": {
         "id": "100546060776709792770-google",
         "nickname": "ceres1t",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 151,
         "updatedAt": "2022-08-31 13:25:27"
-    },
-    "118248226132797004598-google": {
-        "id": "118248226132797004598-google",
-        "nickname": null,
-        "booksCount": 36,
-        "updatedAt": "2022-08-31 00:02:26"
     }
 }
