@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>966</sup> 
 [](users/125/1253541370-yandex)<sup>0</sup> 
 [](users/112/112821924557903899027-google)<sup>0</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 [Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
 [](users/101/101368518035734751027-google)<sup>4</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>965</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>30</sup> 
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
 [](users/148/148005894-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 
 
-_22.09.2022 14:03:38_
+_22.09.2022 16:05:59_
