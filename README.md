@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112821924557903899027-google)<sup>0</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
 [kciccone](users/133/13328144-vkontakte)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>151</sup> 
-[](users/118/118248226132797004598-google)<sup>36</sup> 
 
 
-_22.09.2022 12:45:29_
+_22.09.2022 13:58:43_
