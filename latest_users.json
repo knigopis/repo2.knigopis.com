@@ -1,4 +1,10 @@
 {
+    "1253541370-yandex": {
+        "id": "1253541370-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-09-22 14:03:38"
+    },
     "112821924557903899027-google": {
         "id": "112821924557903899027-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 333,
         "updatedAt": "2022-09-01 20:06:22"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 151,
-        "updatedAt": "2022-08-31 13:25:27"
     }
 }
