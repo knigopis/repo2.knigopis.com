@@ -1,4 +1,16 @@
 {
+    "vQIxEG-F_5": {
+        "id": "vQIxEG-F_5",
+        "title": "Убить пересмешника",
+        "author": "Ли Харпер",
+        "notes": "Аудио",
+        "createdAt": "2022-09-22 12:45:29",
+        "user": {
+            "id": "100546060776709792770-google",
+            "nickname": "ceres1t",
+            "booksCount": 9
+        }
+    },
     "C8o3vQ2ZV2": {
         "id": "C8o3vQ2ZV2",
         "title": "Человеческий фактор: успешные проекты и команды",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 67
-        }
-    },
-    "Dr2VwUNLJA": {
-        "id": "Dr2VwUNLJA",
-        "title": "Око мира",
-        "author": "Роберт Джордан",
-        "notes": "",
-        "createdAt": "2022-09-06 20:46:37",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 172
         }
     }
 }
