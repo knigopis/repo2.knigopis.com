@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/125/1253541370-yandex)<sup>0</sup> 
 [](users/112/112821924557903899027-google)<sup>0</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>151</sup> 
 
 
-_22.09.2022 13:58:43_
+_22.09.2022 14:03:38_
