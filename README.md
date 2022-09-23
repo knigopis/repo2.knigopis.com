@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Дары Смерти ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup>
+    > audio
+
 * Человеческий фактор: успешные проекты и команды ~ [lucius](users/838/83820536-yandex)<sup>154</sup>
     > Очень хорошая книга для руководителей разработки. Я выписал себе некоторое количество цитат, чтобы время от времени их перечитывать.
     > https://gurov.livejournal.com/3442.html
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Книга объясняет, что такое современный фашизм, как он развился до текущего состояния, чем отличается от нацизма и тд. Как по мне  слишком эмоционально подано, из-за чего местами сложно укладывать в голове
 
 * «Патриот» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup>
-    > audio
 
 * Краткая история пьянства ~ [Garka](users/115/115753719718250012620-google)<sup>326</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * загадка 622 номера ~ [](users/101/101368518035734751027-google)<sup>4</sup>
 
-* Гарри Поттер и Принц-полукровка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>33</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>966</sup> 
 [](users/125/1253541370-yandex)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
 [kciccone](users/133/13328144-vkontakte)<sup>1</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup> 
 [CELIES](users/216/21699811-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>326</sup> 
 [111](users/309/309238388536274478-mailru)<sup>72</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 
 
-_23.09.2022 17:17:11_
+_23.09.2022 22:26:58_
