@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>30</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>31</sup>
 ---
 
 ## 2022
@@ -14,6 +14,10 @@
 ### Лолита
 Набоков
 > [2022-08-21] 
+
+
+### Queen of coin and wispers
+> [2022-08-15] 
 
 
 ### The priory of the orange tree
