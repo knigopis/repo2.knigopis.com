@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>31</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>32</sup>
 ---
 
 ## 2022
+
+### Защита от тёмных искусств
+Панчин
+> [2022-09-23] 
+
 
 ### Queen of coin and wispers
 > [2022-09-10] 
