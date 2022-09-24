@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>151</sup>
+# List of books read by 4apa<sup>152</sup>
 ---
 
 ## 2022
+
+### Игра в бисер
+Г. Гессе
+> [2022-09-19] 
+
 
 ### Как изобрести всё
 Р. Норт

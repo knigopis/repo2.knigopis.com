@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 152,
+        "updatedAt": "2022-09-24 10:20:17"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "Iso.log.kol",
         "booksCount": 0,
         "updatedAt": "2022-09-02 14:45:24"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 333,
-        "updatedAt": "2022-09-01 20:06:22"
     }
 }

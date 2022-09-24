@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>152</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>33</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>966</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [MiriMiri](users/106/106107989792957993574-google)<sup>40</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
 [Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>333</sup> 
 
 
-_23.09.2022 22:26:58_
+_24.09.2022 10:20:17_
