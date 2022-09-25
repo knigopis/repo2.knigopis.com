@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>33</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>34</sup>
 ---
 
 ## 2022
+
+### Лучше остаться бедным
+Джеймс Хедли Чеиз
+> [2022-09-02] 
+
 
 ### ДНК
 Ирса Сигурдардоттир
