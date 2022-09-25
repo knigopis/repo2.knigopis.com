@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/542/542146738-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>35</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>152</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Astarta](users/109/109681260016308244905-google)<sup>0</sup> 
 [MiriMiri](users/106/106107989792957993574-google)<sup>40</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>182</sup> 
-[Iso.log.kol](users/113/113724398602793467597-google)<sup>0</sup> 
 
 
-_25.09.2022 16:34:40_
+_25.09.2022 17:19:32_
