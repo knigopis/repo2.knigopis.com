@@ -1,4 +1,10 @@
 {
+    "542146738-vkontakte": {
+        "id": "542146738-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-09-25 17:19:32"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": "Smekalistii",
@@ -172,11 +178,5 @@
         "nickname": "Феня Котовна",
         "booksCount": 182,
         "updatedAt": "2022-09-02 16:12:05"
-    },
-    "113724398602793467597-google": {
-        "id": "113724398602793467597-google",
-        "nickname": "Iso.log.kol",
-        "booksCount": 0,
-        "updatedAt": "2022-09-02 14:45:24"
     }
 }
