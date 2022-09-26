@@ -1,4 +1,16 @@
 {
+    "_DPpCIeons": {
+        "id": "_DPpCIeons",
+        "title": "Янки из Коннектикута при дворе короля Артура",
+        "author": "Марк Твен",
+        "notes": "",
+        "createdAt": "2022-09-26 04:22:31",
+        "user": {
+            "id": "118261627879855357372-google",
+            "nickname": "kosnikovskiy",
+            "booksCount": 46
+        }
+    },
     "DYbA_VEZ2-": {
         "id": "DYbA_VEZ2-",
         "title": "Каждый умирает в одиночку",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 72
-        }
-    },
-    "AICoEmyDcs": {
-        "id": "AICoEmyDcs",
-        "title": "Дело о колеблющейся модели",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-09-11 18:03:21",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 965
         }
     }
 }

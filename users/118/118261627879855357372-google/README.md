@@ -1,4 +1,4 @@
-# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>45</sup>
+# List of books read by [kosnikovskiy](https://plus.google.com/u/0/118261627879855357372/)<sup>46</sup>
 ---
 
 ## 2022
@@ -208,6 +208,11 @@
 
 
 ## 1994
+
+### Янки из Коннектикута при дворе короля Артура
+Марк Твен
+> [1994-07] 
+
 
 ### Двадцать лет спустя
 Александр Дюма

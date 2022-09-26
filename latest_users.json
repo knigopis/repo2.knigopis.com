@@ -1,4 +1,10 @@
 {
+    "118261627879855357372-google": {
+        "id": "118261627879855357372-google",
+        "nickname": "kosnikovskiy",
+        "booksCount": 46,
+        "updatedAt": "2022-09-26 04:22:31"
+    },
     "542146738-vkontakte": {
         "id": "542146738-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "MiriMiri",
         "booksCount": 40,
         "updatedAt": "2022-09-02 22:47:18"
-    },
-    "109746193906459706720-google": {
-        "id": "109746193906459706720-google",
-        "nickname": "Феня Котовна",
-        "booksCount": 182,
-        "updatedAt": "2022-09-02 16:12:05"
     }
 }
