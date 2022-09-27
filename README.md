@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[KiberDoktor](users/109/109373108116388043138-google)<sup>2</sup> 
+[KiberDoktor](users/109/109373108116388043138-google)<sup>3</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>46</sup> 
 [](users/542/542146738-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>35</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Astarta](users/109/109681260016308244905-google)<sup>0</sup> 
 
 
-_27.09.2022 08:00:04_
+_27.09.2022 08:01:17_
