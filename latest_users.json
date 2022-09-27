@@ -1,4 +1,10 @@
 {
+    "109373108116388043138-google": {
+        "id": "109373108116388043138-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-09-27 07:54:05"
+    },
     "118261627879855357372-google": {
         "id": "118261627879855357372-google",
         "nickname": "kosnikovskiy",
@@ -172,11 +178,5 @@
         "nickname": "Astarta",
         "booksCount": 0,
         "updatedAt": "2022-09-04 08:14:27"
-    },
-    "106107989792957993574-google": {
-        "id": "106107989792957993574-google",
-        "nickname": "MiriMiri",
-        "booksCount": 40,
-        "updatedAt": "2022-09-02 22:47:18"
     }
 }
