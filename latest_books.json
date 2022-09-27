@@ -1,4 +1,16 @@
 {
+    "QDbTLTSUNr": {
+        "id": "QDbTLTSUNr",
+        "title": "Возвращение джинна",
+        "author": "Василий Васильевич Головачёв",
+        "notes": "Цикл УУАС. Цикл \"Не будите спящих джиннов\"",
+        "createdAt": "2022-09-27 08:28:33",
+        "user": {
+            "id": "109373108116388043138-google",
+            "nickname": "KiberDoktor",
+            "booksCount": 10
+        }
+    },
     "p6TRE6fv-T": {
         "id": "p6TRE6fv-T",
         "title": "По ту сторону огня",
@@ -57,18 +69,6 @@
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",
             "booksCount": 6
-        }
-    },
-    "JQntzxIt0N": {
-        "id": "JQntzxIt0N",
-        "title": "Возвращение джинна",
-        "author": "Василий Васильевич Головачёв",
-        "notes": "",
-        "createdAt": "2022-09-27 08:08:13",
-        "user": {
-            "id": "109373108116388043138-google",
-            "nickname": "KiberDoktor",
-            "booksCount": 5
         }
     },
     "NG5F74w-jd": {
