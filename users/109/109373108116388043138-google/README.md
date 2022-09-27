@@ -1,4 +1,4 @@
-# List of books read by [KiberDoktor](https://plus.google.com/u/0/109373108116388043138/)<sup>3</sup>
+# List of books read by [KiberDoktor](https://plus.google.com/u/0/109373108116388043138/)<sup>4</sup>
 ---
 
 ## 2010
@@ -6,6 +6,10 @@
 ### Спящий джинн
 Василий Васильевич Головачёв
 > [2010-05-06] 
+
+
+### Война с джиннами
+Василий Васильевич Головачёв
 
 
 ### Кладбище джиннов
