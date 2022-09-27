@@ -1,4 +1,16 @@
 {
+    "p6TRE6fv-T": {
+        "id": "p6TRE6fv-T",
+        "title": "По ту сторону огня",
+        "author": "Василий Васильевич Головачёв",
+        "notes": "",
+        "createdAt": "2022-09-27 08:20:26",
+        "user": {
+            "id": "109373108116388043138-google",
+            "nickname": "KiberDoktor",
+            "booksCount": 10
+        }
+    },
     "B3ZyGHgzl8": {
         "id": "B3ZyGHgzl8",
         "title": "Огнетушитель дьявола",
@@ -345,18 +357,6 @@
             "id": "100546060776709792770-google",
             "nickname": "ceres1t",
             "booksCount": 2
-        }
-    },
-    "JjFQlzq7-0": {
-        "id": "JjFQlzq7-0",
-        "title": "Зов предков",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2022-09-19 09:05:09",
-        "user": {
-            "id": "100546060776709792770-google",
-            "nickname": "ceres1t",
-            "booksCount": 1
         }
     }
 }
