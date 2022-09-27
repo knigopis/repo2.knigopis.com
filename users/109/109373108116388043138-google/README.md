@@ -1,4 +1,4 @@
-# List of books read by [KiberDoktor](https://plus.google.com/u/0/109373108116388043138/)<sup>8</sup>
+# List of books read by [KiberDoktor](https://plus.google.com/u/0/109373108116388043138/)<sup>9</sup>
 ---
 
 ## 2011
@@ -37,6 +37,10 @@
 
 
 ## 2000
+
+### Огнетушитель дьявола
+Василий Васильевич Головачёв
+
 
 ### Кладбище джиннов
 Василий Васильевич Головачёв
