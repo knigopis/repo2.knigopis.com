@@ -1,4 +1,16 @@
 {
+    "ZR971SpYTs": {
+        "id": "ZR971SpYTs",
+        "title": "Джинн из прошлого",
+        "author": "Василий Васильевич Головачёв",
+        "notes": "",
+        "createdAt": "2022-09-27 08:10:21",
+        "user": {
+            "id": "109373108116388043138-google",
+            "nickname": "KiberDoktor",
+            "booksCount": 7
+        }
+    },
     "lWZmgRUos-": {
         "id": "lWZmgRUos-",
         "title": "Последний джинн",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 325
-        }
-    },
-    "4Ym7s7aq2o": {
-        "id": "4Ym7s7aq2o",
-        "title": "Тени истины",
-        "author": "Сандерсон Брендон",
-        "notes": "Продолжается противостояние Ваксиллиума и круга. В этой книге появляются кандра! ))",
-        "createdAt": "2022-09-16 19:48:07",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 324
         }
     }
 }
