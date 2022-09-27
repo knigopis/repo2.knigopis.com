@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>415</sup> 
 [KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>46</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>64</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>234</sup> 
 [](users/103/103781112563355048893-google)<sup>0</sup> 
-[Astarta](users/109/109681260016308244905-google)<sup>0</sup> 
 
 
-_27.09.2022 20:06:14_
+_27.09.2022 20:17:14_
