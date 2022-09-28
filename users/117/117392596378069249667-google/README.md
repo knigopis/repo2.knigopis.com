@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>152</sup>
+# List of books read by 4apa<sup>153</sup>
 ---
 
 ## 2022
+
+### Пролетая над гнездом кукушки
+Кизи Кен
+> [2022-09-28] 
+
 
 ### Игра в бисер
 Г. Гессе

@@ -1,4 +1,16 @@
 {
+    "96w3suu9g9": {
+        "id": "96w3suu9g9",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кизи Кен",
+        "notes": "",
+        "createdAt": "2022-09-28 19:09:59",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 153
+        }
+    },
     "tNzOjAdtQh": {
         "id": "tNzOjAdtQh",
         "title": "Билли Саммерс",
@@ -345,18 +357,6 @@
             "id": "100546060776709792770-google",
             "nickname": "ceres1t",
             "booksCount": 5
-        }
-    },
-    "lmfATNpl-X": {
-        "id": "lmfATNpl-X",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "Антиутопия",
-        "createdAt": "2022-09-19 09:12:53",
-        "user": {
-            "id": "100546060776709792770-google",
-            "nickname": "ceres1t",
-            "booksCount": 4
         }
     }
 }
