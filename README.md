@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>153</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>274</sup> 
 [ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>415</sup> 
 [KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>64</sup> 
 
 
-_29.09.2022 18:51:26_
+_29.09.2022 19:46:27_
