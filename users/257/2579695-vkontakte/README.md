@@ -1,7 +1,12 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>39</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>40</sup>
 ---
 
 ## 2022
+
+### Мир нарциссической жертвы. Отношения в контексте современного невроза
+Анастасия Долганова
+> [2022-09-25] 
+
 
 ### Буря мечей
 Джордж Рэймонд Ричард Мартин

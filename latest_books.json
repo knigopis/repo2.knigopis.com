@@ -1,4 +1,16 @@
 {
+    "tj5f35yZCt": {
+        "id": "tj5f35yZCt",
+        "title": "Мир нарциссической жертвы. Отношения в контексте современного невроза",
+        "author": "Анастасия Долганова",
+        "notes": "",
+        "createdAt": "2022-09-29 18:51:26",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 40
+        }
+    },
     "nbe4NVRqRB": {
         "id": "nbe4NVRqRB",
         "title": "Билли Саммерс",
@@ -345,18 +357,6 @@
             "id": "100546060776709792770-google",
             "nickname": "ceres1t",
             "booksCount": 6
-        }
-    },
-    "yh0mhk3yim": {
-        "id": "yh0mhk3yim",
-        "title": "Вели́кий Гэ́тсби",
-        "author": "Фрэ́нсис Скóтт Кéй Фицдже́ральд",
-        "notes": "Киноадаптация с Ди Каприо",
-        "createdAt": "2022-09-19 09:14:31",
-        "user": {
-            "id": "100546060776709792770-google",
-            "nickname": "ceres1t",
-            "booksCount": 5
         }
     }
 }
