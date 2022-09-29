@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109176126475581739292-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>153</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>172</sup> 
 [](users/488/48865699271604935-mailru)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>205</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>64</sup> 
 
 
-_29.09.2022 19:46:27_
+_29.09.2022 22:30:43_
