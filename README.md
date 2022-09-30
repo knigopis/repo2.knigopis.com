@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>967</sup> 
 [](users/118/118051777446155250178-google)<sup>0</sup> 
 [](users/109/109176126475581739292-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>35</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>33</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>966</sup> 
 [](users/125/1253541370-yandex)<sup>0</sup> 
 [](users/112/112821924557903899027-google)<sup>0</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/488/48865699271604935-mailru)<sup>0</sup> 
 
 
-_29.09.2022 22:31:54_
+_30.09.2022 11:14:11_
