@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109291740181625976424-google)<sup>0</sup> 
 [mirajkatyaj](users/390/390992061-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>970</sup> 
 [111](users/309/309238388536274478-mailru)<sup>73</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
 [](users/148/148005894-vkontakte)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>67</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>172</sup> 
 
 
-_02.10.2022 18:47:22_
+_02.10.2022 20:12:07_
