@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>970</sup> 
 [111](users/309/309238388536274478-mailru)<sup>73</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>969</sup> 
 [](users/118/118051777446155250178-google)<sup>0</sup> 
 [](users/109/109176126475581739292-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/488/48865699271604935-mailru)<sup>0</sup> 
 
 
-_01.10.2022 10:29:58_
+_02.10.2022 10:59:59_
