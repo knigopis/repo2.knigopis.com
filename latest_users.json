@@ -1,4 +1,10 @@
 {
+    "109291740181625976424-google": {
+        "id": "109291740181625976424-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-10-02 20:12:07"
+    },
     "390992061-vkontakte": {
         "id": "390992061-vkontakte",
         "nickname": "mirajkatyaj",
@@ -172,11 +178,5 @@
         "nickname": "pria",
         "booksCount": 67,
         "updatedAt": "2022-09-07 15:46:04"
-    },
-    "105866022348292919948-google": {
-        "id": "105866022348292919948-google",
-        "nickname": "Chandravadana",
-        "booksCount": 172,
-        "updatedAt": "2022-09-06 20:46:37"
     }
 }
