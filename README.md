@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Гарри Поттер и проклятое дитя» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup>
+    > audio
+
 * Я - Легенда ~ [111](users/309/309238388536274478-mailru)<sup>73</sup>
     > Вообще не то, что в фильме. Но очень неплохо.
     > audio
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Человеческий фактор: успешные проекты и команды ~ [lucius](users/838/83820536-yandex)<sup>154</sup>
-    > Очень хорошая книга для руководителей разработки. Я выписал себе некоторое количество цитат, чтобы время от времени их перечитывать.
-    > https://gurov.livejournal.com/3442.html
 
 * Современный фашизм ~ [lucius](users/838/83820536-yandex)<sup>153</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * История Англии. От ледникового периода до Великой хартии вольностей ~ [Garka](users/115/115753719718250012620-google)<sup>323</sup>
 
-* Отряд ~ [111](users/309/309238388536274478-mailru)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
 [](users/109/109291740181625976424-google)<sup>0</sup> 
 [mirajkatyaj](users/390/390992061-vkontakte)<sup>0</sup> 
@@ -51,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>46</sup> 
 [](users/542/542146738-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>35</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>33</sup> 
 [](users/125/1253541370-yandex)<sup>0</sup> 
 [](users/112/112821924557903899027-google)<sup>0</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/148/148005894-vkontakte)<sup>0</sup> 
 
 
-_03.10.2022 13:06:19_
+_04.10.2022 04:15:52_
