@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>274</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
 [](users/109/109291740181625976424-google)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [111](users/309/309238388536274478-mailru)<sup>73</sup> 
 [](users/118/118051777446155250178-google)<sup>0</sup> 
 [](users/109/109176126475581739292-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>153</sup> 
 [ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/148/148005894-vkontakte)<sup>0</sup> 
 
 
-_04.10.2022 04:15:52_
+_04.10.2022 23:29:29_
