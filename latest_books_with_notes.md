@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
 * Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
 * «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
 * «Гарри Поттер и проклятое дитя» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup>
@@ -30,7 +31,6 @@
 * Создание бренда ~ [Evermind](users/302/302928912-vkontakte)<sup>62</sup>
 * Jakbyś kamień jadła ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>275</sup>
 * Шолох. Теневые блики ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>176</sup>
-* В дорозі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>274</sup>
 
 
-_05.10.2022 12:54:58_
+_05.10.2022 12:56:09_

@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
+    > 1.
+    > 2. Тарас Бульба
+    > 3.
+
 * Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
     > Классика. Удовольствие
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Гарри Поттер и проклятое дитя» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup>
-    > audio
 
 * Я - Легенда ~ [111](users/309/309238388536274478-mailru)<sup>73</sup>
 
@@ -26,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Краткая история пьянства ~ [Garka](users/115/115753719718250012620-google)<sup>326</sup>
 
-* Браслеты скорби ~ [Garka](users/115/115753719718250012620-google)<sup>325</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>85</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>86</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>273</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
 
 
-_05.10.2022 12:54:58_
+_05.10.2022 12:56:09_
