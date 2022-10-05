@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>86</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>87</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>273</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
 
 
-_05.10.2022 12:56:09_
+_05.10.2022 12:58:07_

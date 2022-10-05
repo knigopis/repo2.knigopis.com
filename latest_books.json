@@ -1,4 +1,16 @@
 {
+    "zMVYpXq27O": {
+        "id": "zMVYpXq27O",
+        "title": "Обрыв",
+        "author": "Гончаров Иван",
+        "notes": "",
+        "createdAt": "2022-10-05 12:58:07",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 87
+        }
+    },
     "ja7BUYTfBM": {
         "id": "ja7BUYTfBM",
         "title": "Миргород",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 74
-        }
-    },
-    "37_oGUc5Nz": {
-        "id": "37_oGUc5Nz",
-        "title": "Queen of coin and wispers",
-        "author": "",
-        "notes": "",
-        "createdAt": "2022-09-23 17:17:11",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 33
         }
     }
 }
