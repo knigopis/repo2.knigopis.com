@@ -1,4 +1,10 @@
 {
+    "300273923-vkontakte": {
+        "id": "300273923-vkontakte",
+        "nickname": "Вит",
+        "booksCount": 85,
+        "updatedAt": "2022-10-05 12:54:58"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "andjix17",
         "booksCount": 4,
         "updatedAt": "2022-09-09 19:04:41"
-    },
-    "148005894-vkontakte": {
-        "id": "148005894-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-09-09 05:34:23"
     }
 }

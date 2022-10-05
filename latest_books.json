@@ -1,4 +1,16 @@
 {
+    "o2sTQetKRk": {
+        "id": "o2sTQetKRk",
+        "title": "Мертвые души",
+        "author": "Гоголь Николай",
+        "notes": "Классика. Удовольствие",
+        "createdAt": "2022-10-05 12:54:58",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 85
+        }
+    },
     "KJhooGbBQS": {
         "id": "KJhooGbBQS",
         "title": "«Пятый элефант»",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 32
-        }
-    },
-    "sWNx0pQ0Gr": {
-        "id": "sWNx0pQ0Gr",
-        "title": "Дело о процветающей блондинке",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2022-09-22 16:05:59",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 966
         }
     }
 }

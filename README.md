@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
+    > Классика. Удовольствие
+
 * «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
     > audio
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Я - Легенда ~ [111](users/309/309238388536274478-mailru)<sup>73</sup>
-    > Вообще не то, что в фильме. Но очень неплохо.
-    > audio
 
 * Гарри Поттер и Дары Смерти ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Браслеты скорби ~ [Garka](users/115/115753719718250012620-google)<sup>325</sup>
 
-* Тени истины ~ [Garka](users/115/115753719718250012620-google)<sup>324</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>85</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>273</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
 [](users/101/101368518035734751027-google)<sup>4</sup> 
 [andjix17](users/111/111107669790056792515-google)<sup>4</sup> 
-[](users/148/148005894-vkontakte)<sup>0</sup> 
 
 
-_05.10.2022 10:50:22_
+_05.10.2022 12:54:58_
