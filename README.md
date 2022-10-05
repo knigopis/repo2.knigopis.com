@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
+    > audio
+
 * «Гарри Поттер и проклятое дитя» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup>
     > audio
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Гарри Поттер и Дары Смерти ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup>
-    > audio
 
 * Человеческий фактор: успешные проекты и команды ~ [lucius](users/838/83820536-yandex)<sup>154</sup>
 
@@ -27,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * Тени истины ~ [Garka](users/115/115753719718250012620-google)<sup>324</sup>
 
-* История Англии. От ледникового периода до Великой хартии вольностей ~ [Garka](users/115/115753719718250012620-google)<sup>323</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>273</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
 [](users/109/109291740181625976424-google)<sup>0</sup> 
 [mirajkatyaj](users/390/390992061-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/148/148005894-vkontakte)<sup>0</sup> 
 
 
-_04.10.2022 23:30:21_
+_05.10.2022 10:50:22_
