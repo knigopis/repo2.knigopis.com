@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>21</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>22</sup>
 ---
 
 ## 2022
+
+### La cantatrice chauve
+IONESO Eugène
+> [2022-10-05] 
+
 
 ### Un long dimanche de fiançailles (аудио)
 Sébastien JAPRISOT
