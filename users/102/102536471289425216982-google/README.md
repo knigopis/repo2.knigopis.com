@@ -1,5 +1,13 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>20</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>21</sup>
 ---
+
+## 2022
+
+### Un long dimanche de fiançailles (аудио)
+Sébastien JAPRISOT
+> [2022-09-30] 
+
+
 
 ## 2020
 
@@ -120,7 +128,7 @@
 
 
 ### Бамбарбия Кергуду
-САРКИСОВА-КУАМЕ Влада
+Саркисова-Куаме Влада
 > [2018-08] О жизни в Кот-д'Ивуаре. ТРЭШ
 
 
