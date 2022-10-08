@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>973</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>334</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [CELIES](users/216/21699811-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>326</sup> 
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
-[Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
 
 
-_08.10.2022 15:27:39_
+_08.10.2022 18:09:57_
