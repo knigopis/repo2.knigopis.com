@@ -1,4 +1,16 @@
 {
+    "Rx8IGlHp44": {
+        "id": "Rx8IGlHp44",
+        "title": "Дело о ледяных руках",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2022-10-08 15:26:27",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 971
+        }
+    },
     "GtmXDEa2Id": {
         "id": "GtmXDEa2Id",
         "title": "Столкновение",
@@ -345,18 +357,6 @@
             "id": "118261627879855357372-google",
             "nickname": "kosnikovskiy",
             "booksCount": 46
-        }
-    },
-    "DYbA_VEZ2-": {
-        "id": "DYbA_VEZ2-",
-        "title": "Каждый умирает в одиночку",
-        "author": "Джеймс Хедли Чеиз",
-        "notes": "",
-        "createdAt": "2022-09-25 16:34:40",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": "Smekalistii",
-            "booksCount": 35
         }
     }
 }
