@@ -1,4 +1,16 @@
 {
+    "MZh0WM6E-c": {
+        "id": "MZh0WM6E-c",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2022-10-08 15:27:27",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 972
+        }
+    },
     "Rx8IGlHp44": {
         "id": "Rx8IGlHp44",
         "title": "Дело о ледяных руках",
@@ -345,18 +357,6 @@
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",
             "booksCount": 1
-        }
-    },
-    "_DPpCIeons": {
-        "id": "_DPpCIeons",
-        "title": "Янки из Коннектикута при дворе короля Артура",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2022-09-26 04:22:31",
-        "user": {
-            "id": "118261627879855357372-google",
-            "nickname": "kosnikovskiy",
-            "booksCount": 46
         }
     }
 }
