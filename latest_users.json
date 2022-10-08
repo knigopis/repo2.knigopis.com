@@ -1,4 +1,10 @@
 {
+    "100263890971268160725-google": {
+        "id": "100263890971268160725-google",
+        "nickname": "Анастасия  Лебедева",
+        "booksCount": 0,
+        "updatedAt": "2022-10-08 18:09:57"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 83,
         "updatedAt": "2022-09-15 00:29:04"
-    },
-    "104735674681844430637-google": {
-        "id": "104735674681844430637-google",
-        "nickname": "Dikobraz",
-        "booksCount": 0,
-        "updatedAt": "2022-09-14 19:11:09"
     }
 }
