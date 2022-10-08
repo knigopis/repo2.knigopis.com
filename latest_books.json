@@ -1,4 +1,16 @@
 {
+    "GtmXDEa2Id": {
+        "id": "GtmXDEa2Id",
+        "title": "Столкновение",
+        "author": "Панов Вадим",
+        "notes": "— Вы не даете им свободы, чтобы продемонстрировать власть.",
+        "createdAt": "2022-10-08 13:20:09",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 334
+        }
+    },
     "9H0u7f4hC9": {
         "id": "9H0u7f4hC9",
         "title": "La cantatrice chauve",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": "Smekalistii",
             "booksCount": 35
-        }
-    },
-    "HptW3AOdCx": {
-        "id": "HptW3AOdCx",
-        "title": "Лучше остаться бедным",
-        "author": "Джеймс Хедли Чеиз",
-        "notes": "",
-        "createdAt": "2022-09-25 16:34:03",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": "Smekalistii",
-            "booksCount": 34
         }
     }
 }

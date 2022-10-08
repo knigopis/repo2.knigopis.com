@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
+    > — Вы не даете им свободы, чтобы продемонстрировать власть.
+
 * Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
     > 1.
     > 2. Тарас Бульба
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Классика. Удовольствие
 
 * «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
-    > audio
 
 * «Гарри Поттер и проклятое дитя» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * «Патриот» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup>
 
-* Краткая история пьянства ~ [Garka](users/115/115753719718250012620-google)<sup>326</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>334</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>87</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>326</sup> 
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 [Dikobraz](users/104/104735674681844430637-google)<sup>0</sup> 
-[](users/101/101368518035734751027-google)<sup>4</sup> 
 
 
-_06.10.2022 11:23:36_
+_08.10.2022 13:20:09_

@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 334,
+        "updatedAt": "2022-10-08 13:20:09"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "Dikobraz",
         "booksCount": 0,
         "updatedAt": "2022-09-14 19:11:09"
-    },
-    "101368518035734751027-google": {
-        "id": "101368518035734751027-google",
-        "nickname": null,
-        "booksCount": 4,
-        "updatedAt": "2022-09-13 03:47:27"
     }
 }
