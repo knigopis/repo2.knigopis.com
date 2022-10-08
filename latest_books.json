@@ -1,4 +1,16 @@
 {
+    "IBjU6ipwtg": {
+        "id": "IBjU6ipwtg",
+        "title": "Метро 2034",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2022-10-08 15:27:39",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 973
+        }
+    },
     "MZh0WM6E-c": {
         "id": "MZh0WM6E-c",
         "title": "Метро 2033",
@@ -345,18 +357,6 @@
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",
             "booksCount": 2
-        }
-    },
-    "QE1XwI1Ect": {
-        "id": "QE1XwI1Ect",
-        "title": "Цикл о Джиннах",
-        "author": "Василий Головачёв",
-        "notes": "",
-        "createdAt": "2022-09-27 07:55:57",
-        "user": {
-            "id": "109373108116388043138-google",
-            "nickname": "KiberDoktor",
-            "booksCount": 1
         }
     }
 }
