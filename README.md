@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Зеленая миля» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup>
+    > audio
+
 * «Ночная стража» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup>
     > audio
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > — Вы не даете им свободы, чтобы продемонстрировать власть.
 
 * Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
-    > 1.
-    > 2. Тарас Бульба
-    > 3.
 
 * Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Человеческий фактор: успешные проекты и команды ~ [lucius](users/838/83820536-yandex)<sup>154</sup>
 
-* Современный фашизм ~ [lucius](users/838/83820536-yandex)<sup>153</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>973</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>334</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 
 
-_10.10.2022 06:04:53_
+_10.10.2022 10:51:56_

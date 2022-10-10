@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Зеленая миля» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup>
 * «Ночная стража» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup>
 * Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
 * Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
@@ -30,7 +31,6 @@
 * Домой до темноты ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>277</sup>
 * Дівчата ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>276</sup>
 * Джентельменский клуб 'ЗЛО'. Безумно влюблённый ~ [Феня Котовна](users/109/109746193906459706720-google)<sup>179</sup>
-* Создание бренда ~ [Evermind](users/302/302928912-vkontakte)<sup>62</sup>
 
 
-_10.10.2022 06:04:53_
+_10.10.2022 10:51:56_
