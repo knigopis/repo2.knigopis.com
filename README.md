@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Ночная стража» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup>
+    > audio
+
 * Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
     > — Вы не даете им свободы, чтобы продемонстрировать власть.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 3.
 
 * Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
-    > Классика. Удовольствие
 
 * «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
 
@@ -28,19 +30,17 @@ Do not use pull requests to make changes here.
 
 * Современный фашизм ~ [lucius](users/838/83820536-yandex)<sup>153</sup>
 
-* «Патриот» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>973</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>334</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>87</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>273</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
 [](users/109/109291740181625976424-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 
 
-_08.10.2022 18:09:57_
+_10.10.2022 06:04:53_
