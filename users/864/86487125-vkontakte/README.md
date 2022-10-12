@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>35</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>36</sup>
 ---
 
 ## 2022
+
+### Тайна Чарльза Декстера Уорда
+Говард Лавкрафт
+> [2022-10-12] 
+
 
 ### Каждый умирает в одиночку
 Джеймс Хедли Чеиз

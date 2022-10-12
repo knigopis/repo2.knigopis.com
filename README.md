@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Smekalistii](users/864/86487125-vkontakte)<sup>36</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>335</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>46</sup> 
 [](users/542/542146738-vkontakte)<sup>0</sup> 
-[Smekalistii](users/864/86487125-vkontakte)<sup>35</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>33</sup> 
 [](users/125/1253541370-yandex)<sup>0</sup> 
 [](users/112/112821924557903899027-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 
 
-_12.10.2022 07:06:12_
+_12.10.2022 11:29:12_

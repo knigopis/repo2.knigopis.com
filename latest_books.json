@@ -1,4 +1,16 @@
 {
+    "4lmMbPFZb0": {
+        "id": "4lmMbPFZb0",
+        "title": "Тайна Чарльза Декстера Уорда",
+        "author": "Говард Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-10-12 11:29:12",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 36
+        }
+    },
     "ptTr1b5TFV": {
         "id": "ptTr1b5TFV",
         "title": "Белые шары, черные шары",
@@ -345,18 +357,6 @@
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",
             "booksCount": 8
-        }
-    },
-    "ZR971SpYTs": {
-        "id": "ZR971SpYTs",
-        "title": "Джинн из прошлого",
-        "author": "Василий Васильевич Головачёв",
-        "notes": "",
-        "createdAt": "2022-09-27 08:10:21",
-        "user": {
-            "id": "109373108116388043138-google",
-            "nickname": "KiberDoktor",
-            "booksCount": 7
         }
     }
 }
