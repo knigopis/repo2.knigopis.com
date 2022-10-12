@@ -1,4 +1,16 @@
 {
+    "rm_-cRhDuE": {
+        "id": "rm_-cRhDuE",
+        "title": "Звонок мертвеца",
+        "author": "Джеймс Хедли Чейз",
+        "notes": "",
+        "createdAt": "2022-10-12 11:30:54",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 38
+        }
+    },
     "jLKne80A8O": {
         "id": "jLKne80A8O",
         "title": "Мексиканская готика",
@@ -345,18 +357,6 @@
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",
             "booksCount": 10
-        }
-    },
-    "B3ZyGHgzl8": {
-        "id": "B3ZyGHgzl8",
-        "title": "Огнетушитель дьявола",
-        "author": "Василий Васильевич Головачёв",
-        "notes": "",
-        "createdAt": "2022-09-27 08:19:31",
-        "user": {
-            "id": "109373108116388043138-google",
-            "nickname": "KiberDoktor",
-            "booksCount": 9
         }
     }
 }
