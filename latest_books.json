@@ -1,4 +1,16 @@
 {
+    "Y3Hcoqd69G": {
+        "id": "Y3Hcoqd69G",
+        "title": "Близнецы Освенцима",
+        "author": "Ева Мозес Кор",
+        "notes": "",
+        "createdAt": "2022-10-12 12:41:03",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 84
+        }
+    },
     "rm_-cRhDuE": {
         "id": "rm_-cRhDuE",
         "title": "Звонок мертвеца",
@@ -341,18 +353,6 @@
         "author": "Василий Васильевич Головачёв",
         "notes": "Цикл УУАС. Цикл \"Не будите спящих джиннов\"",
         "createdAt": "2022-09-27 08:28:33",
-        "user": {
-            "id": "109373108116388043138-google",
-            "nickname": "KiberDoktor",
-            "booksCount": 10
-        }
-    },
-    "p6TRE6fv-T": {
-        "id": "p6TRE6fv-T",
-        "title": "По ту сторону огня",
-        "author": "Василий Васильевич Головачёв",
-        "notes": "",
-        "createdAt": "2022-09-27 08:20:26",
         "user": {
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",

@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>83</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>84</sup>
 ---
 
 ## 2022
+
+### Близнецы Освенцима
+Ева Мозес Кор
+> [2022-10] 
+
 
 ### Прости, но я скучаю
 Сьюзи Кроуз

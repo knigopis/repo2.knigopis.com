@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>84</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>38</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>335</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kciccone](users/133/13328144-vkontakte)<sup>1</sup> 
 [CELIES](users/216/21699811-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>326</sup> 
-[](users/153/1537586159620888-facebook)<sup>83</sup> 
 
 
-_12.10.2022 11:30:54_
+_12.10.2022 12:41:03_
