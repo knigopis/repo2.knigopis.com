@@ -1,4 +1,16 @@
 {
+    "ptTr1b5TFV": {
+        "id": "ptTr1b5TFV",
+        "title": "Белые шары, черные шары",
+        "author": "Б. Никольский",
+        "notes": "",
+        "createdAt": "2022-10-12 07:06:11",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 154
+        }
+    },
     "31gqAe4dkG": {
         "id": "31gqAe4dkG",
         "title": "Противостояние",
@@ -345,18 +357,6 @@
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",
             "booksCount": 7
-        }
-    },
-    "lWZmgRUos-": {
-        "id": "lWZmgRUos-",
-        "title": "Последний джинн",
-        "author": "Василий Васильевич Головачёв",
-        "notes": "",
-        "createdAt": "2022-09-27 08:08:55",
-        "user": {
-            "id": "109373108116388043138-google",
-            "nickname": "KiberDoktor",
-            "booksCount": 6
         }
     }
 }

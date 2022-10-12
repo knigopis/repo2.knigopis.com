@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>335</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118051777446155250178-google)<sup>0</sup> 
 [](users/109/109176126475581739292-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>153</sup> 
 [ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>415</sup> 
 [KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>83</sup> 
 
 
-_11.10.2022 05:24:18_
+_12.10.2022 07:06:12_
