@@ -1,4 +1,16 @@
 {
+    "jLKne80A8O": {
+        "id": "jLKne80A8O",
+        "title": "Мексиканская готика",
+        "author": "Сильвия Морено-Гарсиа",
+        "notes": "",
+        "createdAt": "2022-10-12 11:30:32",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 37
+        }
+    },
     "4lmMbPFZb0": {
         "id": "4lmMbPFZb0",
         "title": "Тайна Чарльза Декстера Уорда",
@@ -345,18 +357,6 @@
             "id": "109373108116388043138-google",
             "nickname": "KiberDoktor",
             "booksCount": 9
-        }
-    },
-    "7x5tgYMU1_": {
-        "id": "7x5tgYMU1_",
-        "title": "Особый контроль",
-        "author": "Василий Васильевич Головачёв",
-        "notes": "",
-        "createdAt": "2022-09-27 08:18:36",
-        "user": {
-            "id": "109373108116388043138-google",
-            "nickname": "KiberDoktor",
-            "booksCount": 8
         }
     }
 }
