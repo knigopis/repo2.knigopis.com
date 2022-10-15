@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 974,
+        "updatedAt": "2022-10-15 08:55:29"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -40,12 +46,6 @@
         "nickname": "Анастасия  Лебедева",
         "booksCount": 0,
         "updatedAt": "2022-10-08 18:09:57"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 973,
-        "updatedAt": "2022-10-08 15:27:39"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",

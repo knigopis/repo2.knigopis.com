@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>974</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>274</sup> 
 [](users/153/1537586159620888-facebook)<sup>85</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>38</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>335</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>973</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>87</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>326</sup> 
 
 
-_14.10.2022 08:10:59_
+_15.10.2022 08:55:29_
