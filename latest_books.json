@@ -1,4 +1,16 @@
 {
+    "utLnBcbaiA": {
+        "id": "utLnBcbaiA",
+        "title": "Черное зеркало, белый алтарь",
+        "author": "Галина Гончарова",
+        "notes": "",
+        "createdAt": "2022-10-16 19:17:52",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 78
+        }
+    },
     "bEqeus8vww": {
         "id": "bEqeus8vww",
         "title": "Метро 2035",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 275
-        }
-    },
-    "tj5f35yZCt": {
-        "id": "tj5f35yZCt",
-        "title": "Мир нарциссической жертвы. Отношения в контексте современного невроза",
-        "author": "Анастасия Долганова",
-        "notes": "",
-        "createdAt": "2022-09-29 18:51:26",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 40
         }
     }
 }
