@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>86</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>975</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>78</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>274</sup> 
-[](users/153/1537586159620888-facebook)<sup>85</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>38</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>335</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [CELIES](users/216/21699811-yandex)<sup>0</sup> 
 
 
-_17.10.2022 11:50:48_
+_18.10.2022 16:43:51_

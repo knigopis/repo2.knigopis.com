@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>85</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>86</sup>
 ---
 
 ## 2022
+
+### Отсутствие Анны
+Яна Летт
+> [2022-10] 
+
 
 ### Хижина
 Уильям Пол Янг
