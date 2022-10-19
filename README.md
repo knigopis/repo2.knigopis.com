@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>975</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>78</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
 [kciccone](users/133/13328144-vkontakte)<sup>1</sup> 
-[CELIES](users/216/21699811-yandex)<sup>0</sup> 
 
 
-_18.10.2022 16:44:29_
+_19.10.2022 15:58:38_
