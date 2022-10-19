@@ -1,4 +1,10 @@
 {
+    "1470945916-yandex": {
+        "id": "1470945916-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-10-19 15:58:38"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "kciccone",
         "booksCount": 1,
         "updatedAt": "2022-09-19 16:01:56"
-    },
-    "21699811-yandex": {
-        "id": "21699811-yandex",
-        "nickname": "CELIES",
-        "booksCount": 0,
-        "updatedAt": "2022-09-16 22:08:57"
     }
 }
