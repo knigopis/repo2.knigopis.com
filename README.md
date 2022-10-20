@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>79</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 [](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>975</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>78</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>274</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>38</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
 
 
-_20.10.2022 18:58:02_
+_20.10.2022 21:25:54_
