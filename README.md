@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Шмяк» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup>
+    > audio
+
 * Противостояние ~ [Chiffi](users/105/105831994080785626680-google)<sup>335</sup>
     > в нашем обществе многие решения принимаются в узком кругу.Важные решения, Повседневную ерунду можно по-прежнему выносить на всеобщее обсуждение.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Ночная стража» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup>
-    > audio
 
 * Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я - Легенда ~ [111](users/309/309238388536274478-mailru)<sup>73</sup>
 
-* Гарри Поттер и Дары Смерти ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 [](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>38</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>154</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>335</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>87</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
 
 
-_20.10.2022 09:35:27_
+_20.10.2022 10:06:42_

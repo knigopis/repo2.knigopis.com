@@ -1,7 +1,12 @@
-# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>78</sup>
+# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>79</sup>
 ---
 
 ## 2022
+
+### «Шмяк»
+Терри Пратчетт
+> [2022-10-20] audio
+
 
 ### «Зеленая миля»
 Стивен Кинг

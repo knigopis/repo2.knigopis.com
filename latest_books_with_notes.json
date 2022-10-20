@@ -1,4 +1,16 @@
 {
+    "qkJ5DA7KX7": {
+        "id": "qkJ5DA7KX7",
+        "title": "«Шмяк»",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2022-10-20 10:06:42",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 79
+        }
+    },
     "31gqAe4dkG": {
         "id": "31gqAe4dkG",
         "title": "Противостояние",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 277
-        }
-    },
-    "OPQsOzoF-s": {
-        "id": "OPQsOzoF-s",
-        "title": "Дівчата",
-        "author": "Емма Клайн",
-        "notes": "7/40 Підлітка потрапяє у секту.",
-        "createdAt": "2022-08-21 18:23:50",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 276
         }
     }
 }
