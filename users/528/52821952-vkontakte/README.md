@@ -1,5 +1,13 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>121</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>122</sup>
 ---
+
+## 2022
+
+### О мышах и людях
+Джон Стенбейк
+> [2022-07] 
+
+
 
 ## 2021
 

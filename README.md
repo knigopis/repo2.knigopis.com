@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 [](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>975</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112821924557903899027-google)<sup>0</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
-[kciccone](users/133/13328144-vkontakte)<sup>1</sup> 
 
 
-_19.10.2022 15:58:38_
+_20.10.2022 09:35:27_
