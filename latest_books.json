@@ -1,4 +1,16 @@
 {
+    "y7Pxszp2Xk": {
+        "id": "y7Pxszp2Xk",
+        "title": "Женщина французского лейтенанта",
+        "author": "Фаулз Джон",
+        "notes": "",
+        "createdAt": "2022-10-22 17:34:58",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 88
+        }
+    },
     "SqlbSIRMAB": {
         "id": "SqlbSIRMAB",
         "title": "Моя твоя понимай нет",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 76
-        }
-    },
-    "dDaB_MsmEo": {
-        "id": "dDaB_MsmEo",
-        "title": "Блейз",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2022-10-04 23:30:21",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 273
         }
     }
 }

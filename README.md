@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>88</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>79</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>154</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>87</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
 [](users/109/109291740181625976424-google)<sup>0</sup> 
 [mirajkatyaj](users/390/390992061-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>154</sup> 
 
 
-_20.10.2022 21:25:54_
+_22.10.2022 17:34:58_
