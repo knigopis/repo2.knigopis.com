@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Giant Killer ~ [exulted](users/100/100599204551896265722-google)<sup>207</sup>
+    > The incredible true story of the smallest man to serve in the U.S. Military—Vietnam veteran Green Beret Captain Richard J. Flaherty
+
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>336</sup>
     > война — декоратор с однообразным вкусом. Всюду, где она помахала своею кувалдой, пейзаж делался одинаков: черные пятна пожарищ на белом снегу, скелеты домов, обломки подбитой техники.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Противостояние ~ [Chiffi](users/105/105831994080785626680-google)<sup>335</sup>
-    > в нашем обществе многие решения принимаются в узком кругу.Важные решения, Повседневную ерунду можно по-прежнему выносить на всеобщее обсуждение.
 
 * «Зеленая миля» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
 
-* «Гарри Поттер и проклятое дитя» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>206</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>88</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>79</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 
 
-_23.10.2022 12:24:58_
+_23.10.2022 12:26:17_

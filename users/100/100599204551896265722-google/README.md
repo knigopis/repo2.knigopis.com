@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>206</sup>
+# Список прочитанных книг пользователя exulted<sup>207</sup>
 ---
 
 ## 2022
@@ -6,6 +6,11 @@
 ### Природа зла. Сырье и государство
 Эткинд Александр
 > [2022-10-16] 
+
+
+### The Giant Killer
+David A. Yuzuk
+> [2022-10-01] The incredible true story of the smallest man to serve in the U.S. Military—Vietnam veteran Green Beret Captain Richard J. Flaherty
 
 
 ### Норма
