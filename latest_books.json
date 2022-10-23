@@ -1,4 +1,16 @@
 {
+    "3meDB2g619": {
+        "id": "3meDB2g619",
+        "title": "Природа зла. Сырье и государство",
+        "author": "Эткинд Александр",
+        "notes": "",
+        "createdAt": "2022-10-23 12:24:58",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 206
+        }
+    },
     "y7Pxszp2Xk": {
         "id": "y7Pxszp2Xk",
         "title": "Женщина французского лейтенанта",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 85
-        }
-    },
-    "KJhooGbBQS": {
-        "id": "KJhooGbBQS",
-        "title": "«Пятый элефант»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-10-05 10:50:22",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 76
         }
     }
 }

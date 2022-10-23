@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 206,
+        "updatedAt": "2022-10-23 12:24:58"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": "ceres1t",
         "booksCount": 9,
         "updatedAt": "2022-09-22 12:45:29"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 154,
-        "updatedAt": "2022-09-20 21:06:44"
     }
 }

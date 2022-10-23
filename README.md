@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>206</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>88</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>79</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/125/1253541370-yandex)<sup>0</sup> 
 [](users/112/112821924557903899027-google)<sup>0</sup> 
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
-[lucius](users/838/83820536-yandex)<sup>154</sup> 
 
 
-_22.10.2022 17:34:58_
+_23.10.2022 12:24:58_
