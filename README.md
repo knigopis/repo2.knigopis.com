@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>437</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>155</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>80</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>33</sup> 
 [](users/125/1253541370-yandex)<sup>0</sup> 
 [](users/112/112821924557903899027-google)<sup>0</sup> 
-[ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 
 
-_24.10.2022 14:18:11_
+_24.10.2022 16:11:21_
