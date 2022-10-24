@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>80</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>88</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>79</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 
 
-_23.10.2022 12:26:17_
+_24.10.2022 09:33:32_

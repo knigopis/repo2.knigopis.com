@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>79</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>80</sup>
 ---
 
 ## 2022
+
+### Невеста по обмену
+Маргарита Блинова
+> [2022-10-24] 
+
 
 ### Моя твоя понимай нет
 Хорхой Ольга
