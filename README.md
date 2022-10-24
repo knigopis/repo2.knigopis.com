@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Северное сияние» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup>
+    > audio
+
 * The Giant Killer ~ [exulted](users/100/100599204551896265722-google)<sup>207</sup>
     > The incredible true story of the smallest man to serve in the U.S. Military—Vietnam veteran Green Beret Captain Richard J. Flaherty
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > война — декоратор с однообразным вкусом. Всюду, где она помахала своею кувалдой, пейзаж делался одинаков: черные пятна пожарищ на белом снегу, скелеты домов, обломки подбитой техники.
 
 * «Шмяк» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup>
-    > audio
 
 * Противостояние ~ [Chiffi](users/105/105831994080785626680-google)<sup>335</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
 
-* «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>80</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>88</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 [](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ceres1t](users/100/100546060776709792770-google)<sup>9</sup> 
 
 
-_24.10.2022 09:33:32_
+_24.10.2022 13:45:31_

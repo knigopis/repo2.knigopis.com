@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 80,
+        "updatedAt": "2022-10-24 13:45:31"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -22,12 +28,6 @@
         "nickname": "Chiffi",
         "booksCount": 336,
         "updatedAt": "2022-10-20 18:58:02"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 79,
-        "updatedAt": "2022-10-20 10:06:42"
     },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
