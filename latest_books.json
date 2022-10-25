@@ -1,4 +1,16 @@
 {
+    "MxLY0TfNdx": {
+        "id": "MxLY0TfNdx",
+        "title": "Зодиак",
+        "author": "Роберт Грейсмит",
+        "notes": "",
+        "createdAt": "2022-10-25 13:23:19",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": "pria",
+            "booksCount": 68
+        }
+    },
     "hmcE2Xb8Ym": {
         "id": "hmcE2Xb8Ym",
         "title": "Евангелие от Матфея",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 971
-        }
-    },
-    "GtmXDEa2Id": {
-        "id": "GtmXDEa2Id",
-        "title": "Столкновение",
-        "author": "Панов Вадим",
-        "notes": "— Вы не даете им свободы, чтобы продемонстрировать власть.",
-        "createdAt": "2022-10-08 13:20:09",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 334
         }
     }
 }

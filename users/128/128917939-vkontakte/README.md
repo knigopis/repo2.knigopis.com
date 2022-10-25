@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>67</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>68</sup>
 ---
 
 ## 2022
+
+### Зодиак
+Роберт Грейсмит
+> [2022-10-24] 
+
 
 ### 451 по Фаренгейту
 Рэй Брэдбери
