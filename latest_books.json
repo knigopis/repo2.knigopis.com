@@ -1,4 +1,16 @@
 {
+    "c4p6Ee-D8L": {
+        "id": "c4p6Ee-D8L",
+        "title": "Зимний излом. Из глубин",
+        "author": "Вера Камша",
+        "notes": "",
+        "createdAt": "2022-10-26 11:17:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 374
+        }
+    },
     "JAROAFWe-r": {
         "id": "JAROAFWe-r",
         "title": "Лик победы",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 77
-        }
-    },
-    "IBjU6ipwtg": {
-        "id": "IBjU6ipwtg",
-        "title": "Метро 2034",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2022-10-08 15:27:39",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 973
         }
     }
 }
