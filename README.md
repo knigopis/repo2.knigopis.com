@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>372</sup> 
 [pria](users/128/128917939-vkontakte)<sup>68</sup> 
 [](users/108/108681363726410562880-google)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>437</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>46</sup> 
 [](users/542/542146738-vkontakte)<sup>0</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>33</sup> 
 
 
-_25.10.2022 13:23:19_
+_26.10.2022 10:35:04_
