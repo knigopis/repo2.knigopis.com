@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>80</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>81</sup>
 ---
 
 ## 2022
+
+### Мая школа
+Ганна Севярынец
+> [2022-10-28] 
+
 
 ### Невеста по обмену
 Маргарита Блинова
