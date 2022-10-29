@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[cricetopigro](users/189/189877867-vkontakte)<sup>4</sup> 
+[cricetopigro](users/189/189877867-vkontakte)<sup>3</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 [pria](users/128/128917939-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kosnikovskiy](users/118/118261627879855357372-google)<sup>46</sup> 
 
 
-_29.10.2022 17:00:30_
+_29.10.2022 17:01:04_
