@@ -1,4 +1,10 @@
 {
+    "114908731072426313764-google": {
+        "id": "114908731072426313764-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-10-30 09:34:42"
+    },
     "189877867-vkontakte": {
         "id": "189877867-vkontakte",
         "nickname": "cricetopigro",
@@ -172,11 +178,5 @@
         "nickname": "KiberDoktor",
         "booksCount": 9,
         "updatedAt": "2022-09-27 08:28:52"
-    },
-    "118261627879855357372-google": {
-        "id": "118261627879855357372-google",
-        "nickname": "kosnikovskiy",
-        "booksCount": 46,
-        "updatedAt": "2022-09-26 04:22:31"
     }
 }
