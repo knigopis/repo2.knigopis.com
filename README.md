@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/114/114908731072426313764-google)<sup>0</sup> 
+[](users/114/114908731072426313764-google)<sup>1</sup> 
 [cricetopigro](users/189/189877867-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
 
 
-_30.10.2022 09:34:42_
+_30.10.2022 09:36:26_
