@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
 [](users/114/114908731072426313764-google)<sup>1</sup> 
 [cricetopigro](users/189/189877867-vkontakte)<sup>0</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>975</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>274</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>38</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
 
 
-_30.10.2022 09:36:26_
+_31.10.2022 15:38:45_
