@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>975</sup>
+# List of books read by Janet<sup>976</sup>
 ---
 
 ## 2022
+
+### Принцесса или ведьма
+Соман Чайнани
+> [2022-11] 
+
 
 ### Под сенью девушек в цвету
 Марсель Пруст
