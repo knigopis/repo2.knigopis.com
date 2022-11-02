@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>39</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>976</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 [ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>415</sup> 
-[KiberDoktor](users/109/109373108116388043138-google)<sup>9</sup> 
 
 
-_02.11.2022 08:37:24_
+_02.11.2022 11:10:07_
