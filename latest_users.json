@@ -1,4 +1,10 @@
 {
+    "106739562335093016041-google": {
+        "id": "106739562335093016041-google",
+        "nickname": "G_LeKS",
+        "booksCount": 0,
+        "updatedAt": "2022-11-02 11:10:07"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": "Smekalistii",
@@ -172,11 +178,5 @@
         "nickname": "Shellena",
         "booksCount": 415,
         "updatedAt": "2022-09-27 20:06:13"
-    },
-    "109373108116388043138-google": {
-        "id": "109373108116388043138-google",
-        "nickname": "KiberDoktor",
-        "booksCount": 9,
-        "updatedAt": "2022-09-27 08:28:52"
     }
 }
