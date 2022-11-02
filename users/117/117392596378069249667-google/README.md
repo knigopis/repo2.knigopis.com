@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>155</sup>
+# List of books read by 4apa<sup>156</sup>
 ---
 
 ## 2022
+
+### KGBT+
+В. Пелевин
+> [2022-11-02] 
+
 
 ### Мы - легион. Мы - Боб
 Д. Тейлор

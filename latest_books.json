@@ -1,4 +1,16 @@
 {
+    "cKdDLlcjFD": {
+        "id": "cKdDLlcjFD",
+        "title": "KGBT+",
+        "author": "В. Пелевин",
+        "notes": "",
+        "createdAt": "2022-11-02 15:00:55",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 156
+        }
+    },
     "XuLw9YZ2DU": {
         "id": "XuLw9YZ2DU",
         "title": "Утраченный символ",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 975
-        }
-    },
-    "utLnBcbaiA": {
-        "id": "utLnBcbaiA",
-        "title": "Черное зеркало, белый алтарь",
-        "author": "Галина Гончарова",
-        "notes": "",
-        "createdAt": "2022-10-16 19:17:52",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 78
         }
     }
 }
