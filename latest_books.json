@@ -1,4 +1,16 @@
 {
+    "XuLw9YZ2DU": {
+        "id": "XuLw9YZ2DU",
+        "title": "Утраченный символ",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2022-11-02 08:37:24",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 39
+        }
+    },
     "BzDF0WO2qs": {
         "id": "BzDF0WO2qs",
         "title": "Принцесса или ведьма",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 78
-        }
-    },
-    "bEqeus8vww": {
-        "id": "bEqeus8vww",
-        "title": "Метро 2035",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2022-10-15 08:55:29",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 974
         }
     }
 }

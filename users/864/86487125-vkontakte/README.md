@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>38</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>39</sup>
 ---
 
 ## 2022
+
+### Утраченный символ
+Дэн Браун
+> [2022-10-23] 
+
 
 ### Тайна Чарльза Декстера Уорда
 Говард Лавкрафт
