@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>39</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>40</sup>
 ---
 
 ## 2022
+
+### Сны о ведьмином доме
+Говард Филлипс Лавкрафт
+> [2022-11-04] 
+
 
 ### Утраченный символ
 Дэн Браун

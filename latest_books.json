@@ -1,4 +1,16 @@
 {
+    "O0wJb8EYv5": {
+        "id": "O0wJb8EYv5",
+        "title": "Сны о ведьмином доме",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-11-03 21:01:32",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 40
+        }
+    },
     "9A32Y1m8ra": {
         "id": "9A32Y1m8ra",
         "title": "«Дело табак»",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 122
-        }
-    },
-    "kezd5kPm5E": {
-        "id": "kezd5kPm5E",
-        "title": "Поступь хаоса",
-        "author": "Патрик Несс",
-        "notes": "",
-        "createdAt": "2022-10-18 16:44:29",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 87
         }
     }
 }
