@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup> 
 [pria](users/128/128917939-vkontakte)<sup>69</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>156</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109176126475581739292-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 [ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>415</sup> 
 
 
-_03.11.2022 10:19:46_
+_03.11.2022 18:39:31_
