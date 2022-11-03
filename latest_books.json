@@ -1,4 +1,16 @@
 {
+    "iRFTswtzDx": {
+        "id": "iRFTswtzDx",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2022-11-03 02:39:36",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": "pria",
+            "booksCount": 69
+        }
+    },
     "cKdDLlcjFD": {
         "id": "cKdDLlcjFD",
         "title": "KGBT+",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 86
-        }
-    },
-    "JK_HST2SgZ": {
-        "id": "JK_HST2SgZ",
-        "title": "Под сенью девушек в цвету",
-        "author": "Марсель Пруст",
-        "notes": "",
-        "createdAt": "2022-10-17 11:50:48",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 975
         }
     }
 }

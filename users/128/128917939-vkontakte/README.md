@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>68</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>69</sup>
 ---
 
 ## 2022
+
+### Повелитель мух
+Уильям Голдинг
+> [2022-11-02] 
+
 
 ### Зодиак
 Роберт Грейсмит
