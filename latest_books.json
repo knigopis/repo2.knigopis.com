@@ -1,4 +1,16 @@
 {
+    "RWLFmerXv2": {
+        "id": "RWLFmerXv2",
+        "title": "Хребты безумия",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-11-03 21:18:20",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 42
+        }
+    },
     "iz1oUliP63": {
         "id": "iz1oUliP63",
         "title": "Показания Рэндольфа Картера",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 336
-        }
-    },
-    "qkJ5DA7KX7": {
-        "id": "qkJ5DA7KX7",
-        "title": "«Шмяк»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-10-20 10:06:42",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 79
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>41</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>42</sup>
 ---
 
 ## 2022
@@ -124,6 +124,11 @@
 ### Дорожные работы
 Стивен Кинг
 > [2021-11-21] 
+
+
+### Хребты безумия
+Говард Филлипс Лавкрафт
+> [2021-11-04] 
 
 
 ### Долгая прогулка
