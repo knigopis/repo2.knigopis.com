@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Дело табак» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup>
+    > audio
+
 * «Северное сияние» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > The incredible true story of the smallest man to serve in the U.S. Military—Vietnam veteran Green Beret Captain Richard J. Flaherty
 
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>336</sup>
-    > война — декоратор с однообразным вкусом. Всюду, где она помахала своею кувалдой, пейзаж делался одинаков: черные пятна пожарищ на белом снегу, скелеты домов, обломки подбитой техники.
 
 * «Шмяк» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
 
-* Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup> 
 [pria](users/128/128917939-vkontakte)<sup>69</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>156</sup> 
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 [](users/108/108681363726410562880-google)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>437</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>88</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>415</sup> 
 
 
-_03.11.2022 02:39:36_
+_03.11.2022 10:19:46_
