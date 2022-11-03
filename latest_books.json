@@ -1,4 +1,16 @@
 {
+    "iz1oUliP63": {
+        "id": "iz1oUliP63",
+        "title": "Показания Рэндольфа Картера",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2022-11-03 21:17:07",
+        "user": {
+            "id": "86487125-vkontakte",
+            "nickname": "Smekalistii",
+            "booksCount": 41
+        }
+    },
     "O0wJb8EYv5": {
         "id": "O0wJb8EYv5",
         "title": "Сны о ведьмином доме",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 79
-        }
-    },
-    "TeM1vTEG6P": {
-        "id": "TeM1vTEG6P",
-        "title": "О мышах и людях",
-        "author": "Джон Стенбейк",
-        "notes": "",
-        "createdAt": "2022-10-20 09:35:26",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 122
         }
     }
 }

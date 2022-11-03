@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>40</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>41</sup>
 ---
 
 ## 2022
+
+### Показания Рэндольфа Картера
+Говард Филлипс Лавкрафт
+> [2022-11-04] 
+
 
 ### Сны о ведьмином доме
 Говард Филлипс Лавкрафт

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Smekalistii](users/864/86487125-vkontakte)<sup>40</sup> 
+[Smekalistii](users/864/86487125-vkontakte)<sup>41</sup> 
 [shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup> 
 [pria](users/128/128917939-vkontakte)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
 
 
-_03.11.2022 21:01:32_
+_03.11.2022 21:17:07_
