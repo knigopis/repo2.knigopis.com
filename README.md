@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
+    > Если это действительно основано на реальных событиях, даже если только частично - это жесть. Что должно быть у людей с головой (если этих существ можно людьми назвать), чтобы так измываться над другими живыми существами
+
 * Дневник незначительного лица ~ [Garka](users/115/115753719718250012620-google)<sup>328</sup>
     > Забавное чтиво)). В некоторых моментом поржала, но под конец сдала книга позиции
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Замысел очень интересный, реализация хуже - моментами затянуто, моментами как-будто не додуман момент
 
 * «Дело табак» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup>
-    > audio
 
 * «Северное сияние» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Зеленая миля» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup>
 
-* «Ночная стража» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>328</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>329</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>977</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 
 
-_08.11.2022 18:22:32_
+_08.11.2022 18:28:21_
