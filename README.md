@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Танотанавты ~ [Garka](users/115/115753719718250012620-google)<sup>327</sup>
+    > Замысел очень интересный, реализация хуже - моментами затянуто, моментами как-будто не додуман момент
+
 * «Дело табак» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * The Giant Killer ~ [exulted](users/100/100599204551896265722-google)<sup>207</sup>
-    > The incredible true story of the smallest man to serve in the U.S. Military—Vietnam veteran Green Beret Captain Richard J. Flaherty
 
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>336</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
 
-* Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>327</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>977</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118051777446155250178-google)<sup>0</sup> 
 [](users/109/109176126475581739292-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
-[ZVV](users/109/109534713472613716565-google)<sup>0</sup> 
 
 
-_06.11.2022 22:12:19_
+_08.11.2022 18:17:50_
