@@ -1,4 +1,16 @@
 {
+    "Mox6yO4DDN": {
+        "id": "Mox6yO4DDN",
+        "title": "Плоский мир. Опочтарение.",
+        "author": "Пратчетт Терри",
+        "notes": "Пратчетт себе не изменяет, очередная книга Плоского мира супер. Витинари мой кумир",
+        "createdAt": "2022-11-08 18:37:25",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 331
+        }
+    },
     "sMBr-QGGD_": {
         "id": "sMBr-QGGD_",
         "title": "Нуэль Эммонс",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 72
-        }
-    },
-    "hCJH_HmOy7": {
-        "id": "hCJH_HmOy7",
-        "title": "«На глиняных ногах»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-09-06 10:16:36",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 71
         }
     }
 }

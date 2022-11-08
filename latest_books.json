@@ -1,4 +1,16 @@
 {
+    "Mox6yO4DDN": {
+        "id": "Mox6yO4DDN",
+        "title": "Плоский мир. Опочтарение.",
+        "author": "Пратчетт Терри",
+        "notes": "Пратчетт себе не изменяет, очередная книга Плоского мира супер. Витинари мой кумир",
+        "createdAt": "2022-11-08 18:37:25",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 331
+        }
+    },
     "sMBr-QGGD_": {
         "id": "sMBr-QGGD_",
         "title": "Нуэль Эммонс",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 155
-        }
-    },
-    "XHhqZvj-kr": {
-        "id": "XHhqZvj-kr",
-        "title": "«Северное сияние»",
-        "author": "Филип Пулман",
-        "notes": "audio",
-        "createdAt": "2022-10-24 13:45:31",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 80
         }
     }
 }
