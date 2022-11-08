@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дневник незначительного лица ~ [Garka](users/115/115753719718250012620-google)<sup>328</sup>
+    > Забавное чтиво)). В некоторых моментом поржала, но под конец сдала книга позиции
+
 * Танотанавты ~ [Garka](users/115/115753719718250012620-google)<sup>327</sup>
     > Замысел очень интересный, реализация хуже - моментами затянуто, моментами как-будто не додуман момент
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Северное сияние» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup>
-    > audio
 
 * The Giant Killer ~ [exulted](users/100/100599204551896265722-google)<sup>207</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Ночная стража» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup>
 
-* Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>327</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>328</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>977</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 
 
-_08.11.2022 18:17:50_
+_08.11.2022 18:22:32_
