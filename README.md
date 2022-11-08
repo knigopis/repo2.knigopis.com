@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sawyer](users/117/117035910904503216203-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>977</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [111](users/309/309238388536274478-mailru)<sup>73</sup> 
 [](users/118/118051777446155250178-google)<sup>0</sup> 
 [](users/109/109176126475581739292-google)<sup>0</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>40</sup> 
 
 
-_08.11.2022 18:37:25_
+_08.11.2022 19:48:11_
