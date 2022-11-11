@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Smekalistii](users/864/86487125-vkontakte)<sup>43</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>978</sup> 
 [sawyer](users/117/117035910904503216203-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
-[Smekalistii](users/864/86487125-vkontakte)<sup>42</sup> 
 [shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup> 
 [pria](users/128/128917939-vkontakte)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109176126475581739292-google)<sup>0</sup> 
 
 
-_08.11.2022 20:03:42_
+_11.11.2022 01:33:22_

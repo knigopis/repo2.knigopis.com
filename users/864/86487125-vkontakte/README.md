@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>42</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>43</sup>
 ---
 
 ## 2022
+
+### Лёгкий способ сбросить вес
+Аллен Карр
+> [2022-11-10] 
+
 
 ### Показания Рэндольфа Картера
 Говард Филлипс Лавкрафт
