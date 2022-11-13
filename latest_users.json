@@ -1,4 +1,10 @@
 {
+    "107967543883596923419-google": {
+        "id": "107967543883596923419-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-11-13 03:33:34"
+    },
     "109363607816033953885-google": {
         "id": "109363607816033953885-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "mirajkatyaj",
         "booksCount": 0,
         "updatedAt": "2022-10-02 18:47:21"
-    },
-    "309238388536274478-mailru": {
-        "id": "309238388536274478-mailru",
-        "nickname": "111",
-        "booksCount": 73,
-        "updatedAt": "2022-10-01 10:29:57"
     }
 }
