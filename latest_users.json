@@ -1,4 +1,10 @@
 {
+    "107887484373704297776-google": {
+        "id": "107887484373704297776-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-11-13 14:14:44"
+    },
     "107967543883596923419-google": {
         "id": "107967543883596923419-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-10-02 20:12:07"
-    },
-    "390992061-vkontakte": {
-        "id": "390992061-vkontakte",
-        "nickname": "mirajkatyaj",
-        "booksCount": 0,
-        "updatedAt": "2022-10-02 18:47:21"
     }
 }
