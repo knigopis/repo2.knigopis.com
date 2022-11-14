@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115339911132983129941-google)<sup>0</sup> 
 [](users/107/107887484373704297776-google)<sup>0</sup> 
 [](users/107/107967543883596923419-google)<sup>0</sup> 
 [](users/109/109363607816033953885-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>22</sup> 
 [](users/102/102375178059323955131-google)<sup>0</sup> 
-[](users/109/109291740181625976424-google)<sup>0</sup> 
 
 
-_13.11.2022 14:14:45_
+_14.11.2022 08:09:08_
