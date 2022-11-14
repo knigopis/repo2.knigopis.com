@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Цвет Волшебства» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup>
+    > audio
+
 * Плоский мир. Опочтарение. ~ [Garka](users/115/115753719718250012620-google)<sup>331</sup>
     > Пратчетт себе не изменяет, очередная книга Плоского мира супер. Витинари мой кумир
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Нет, я этого шизика конечно не оправдываю, но по какой причине у него крыша поехала понять могу. Общество само создаёт таких чудовищь. П.с.: если убрать убийства и насилия, погружение в атмосферу 60х офигенное - хиппи, свободная любовь, свобода граничащая с анархией
 
 * Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
-    > Если это действительно основано на реальных событиях, даже если только частично - это жесть. Что должно быть у людей с головой (если этих существ можно людьми назвать), чтобы так измываться над другими живыми существами
 
 * Дневник незначительного лица ~ [Garka](users/115/115753719718250012620-google)<sup>328</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>336</sup>
 
-* «Шмяк» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup> 
 [](users/115/115339911132983129941-google)<sup>0</sup> 
 [](users/107/107887484373704297776-google)<sup>0</sup> 
 [](users/107/107967543883596923419-google)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
 [shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup> 
 [pria](users/128/128917939-vkontakte)<sup>69</sup> 
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102375178059323955131-google)<sup>0</sup> 
 
 
-_14.11.2022 08:09:08_
+_14.11.2022 09:47:39_
