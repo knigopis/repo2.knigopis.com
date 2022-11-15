@@ -1,4 +1,10 @@
 {
+    "18514627-yandex": {
+        "id": "18514627-yandex",
+        "nickname": "aden1000000000",
+        "booksCount": 0,
+        "updatedAt": "2022-11-15 08:37:08"
+    },
     "112929930635076578999-google": {
         "id": "112929930635076578999-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Анастасия  Лебедева",
         "booksCount": 0,
         "updatedAt": "2022-10-08 18:09:57"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 22,
-        "updatedAt": "2022-10-06 11:23:36"
     }
 }
