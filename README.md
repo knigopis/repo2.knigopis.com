@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
 [](users/112/112929930635076578999-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup> 
 [](users/115/115339911132983129941-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>22</sup> 
 
 
-_14.11.2022 14:40:20_
+_15.11.2022 08:37:09_
