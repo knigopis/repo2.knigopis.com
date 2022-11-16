@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
 [](users/112/112929930635076578999-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107967543883596923419-google)<sup>0</sup> 
 [](users/109/109363607816033953885-google)<sup>0</sup> 
 [](users/114/114112027514930339791-google)<sup>1</sup> 
-[Smekalistii](users/864/86487125-vkontakte)<sup>43</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>978</sup> 
 [sawyer](users/117/117035910904503216203-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 
 
-_15.11.2022 08:37:09_
+_16.11.2022 18:15:25_

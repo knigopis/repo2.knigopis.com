@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>43</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>44</sup>
 ---
 
 ## 2022
+
+### Как читать, запоминать и никогда не забывать
+Марк Тигелаар
+> [2022-11-16] 
+
 
 ### Лёгкий способ сбросить вес
 Аллен Карр
