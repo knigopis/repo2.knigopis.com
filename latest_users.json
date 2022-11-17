@@ -1,4 +1,10 @@
 {
+    "128917939-vkontakte": {
+        "id": "128917939-vkontakte",
+        "nickname": "pria",
+        "booksCount": 70,
+        "updatedAt": "2022-11-17 13:12:34"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -88,12 +94,6 @@
         "nickname": "shishKA",
         "booksCount": 0,
         "updatedAt": "2022-11-03 18:39:31"
-    },
-    "128917939-vkontakte": {
-        "id": "128917939-vkontakte",
-        "nickname": "pria",
-        "booksCount": 69,
-        "updatedAt": "2022-11-03 02:39:36"
     },
     "106739562335093016041-google": {
         "id": "106739562335093016041-google",

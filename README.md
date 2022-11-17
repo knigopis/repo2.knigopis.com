@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Книжный вор ~ [pria](users/128/128917939-vkontakte)<sup>70</sup>
+    > 4.11.2022 - 17.11.2022
+
 * «Цвет Волшебства» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Пратчетт себе не изменяет, очередная книга Плоского мира супер. Витинари мой кумир
 
 * Нуэль Эммонс ~ [Garka](users/115/115753719718250012620-google)<sup>330</sup>
-    > Нет, я этого шизика конечно не оправдываю, но по какой причине у него крыша поехала понять могу. Общество само создаёт таких чудовищь. П.с.: если убрать убийства и насилия, погружение в атмосферу 60х офигенное - хиппи, свободная любовь, свобода граничащая с анархией
 
 * Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Giant Killer ~ [exulted](users/100/100599204551896265722-google)<sup>207</sup>
 
-* Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>336</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>438</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
 [shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
-[pria](users/128/128917939-vkontakte)<sup>69</sup> 
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
 [](users/114/114908731072426313764-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 
 
-_17.11.2022 10:32:53_
+_17.11.2022 13:12:34_

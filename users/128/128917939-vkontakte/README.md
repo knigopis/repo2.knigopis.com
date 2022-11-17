@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>69</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>70</sup>
 ---
 
 ## 2022
+
+### Книжный вор
+Маркус Зузак
+> [2022-11-17] 4.11.2022 - 17.11.2022
+
 
 ### Повелитель мух
 Уильям Голдинг
