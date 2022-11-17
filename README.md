@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>438</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
 [](users/112/112929930635076578999-google)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 [](users/108/108681363726410562880-google)<sup>0</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>437</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>88</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 
 
-_16.11.2022 18:15:25_
+_17.11.2022 10:32:53_

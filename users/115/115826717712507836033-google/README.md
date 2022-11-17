@@ -1,7 +1,12 @@
-# List of books read by Elixir<sup>437</sup>
+# List of books read by Elixir<sup>438</sup>
 ---
 
 ## 2022
+
+### Моя темная Ванесса
+Расселл, Кейт Элизабет
+> [2022-11-17] 
+
 
 ### Евангелие от Матфея
 > [2022-10-24] 

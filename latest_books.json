@@ -1,4 +1,16 @@
 {
+    "omV3CkmkxF": {
+        "id": "omV3CkmkxF",
+        "title": "Моя темная Ванесса",
+        "author": "Расселл, Кейт Элизабет",
+        "notes": "",
+        "createdAt": "2022-11-17 10:32:53",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 438
+        }
+    },
     "9ajeed7hT8": {
         "id": "9ajeed7hT8",
         "title": "Как читать, запоминать и никогда не забывать",
@@ -345,18 +357,6 @@
             "id": "189877867-vkontakte",
             "nickname": "cricetopigro",
             "booksCount": 1
-        }
-    },
-    "c4p6Ee-D8L": {
-        "id": "c4p6Ee-D8L",
-        "title": "Зимний излом. Из глубин",
-        "author": "Вера Камша",
-        "notes": "",
-        "createdAt": "2022-10-26 11:17:16",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 374
         }
     }
 }
