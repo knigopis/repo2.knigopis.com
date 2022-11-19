@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>89</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>90</sup> 
 [pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>438</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 
 
-_19.11.2022 17:50:16_
+_19.11.2022 17:51:37_
