@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы для элджернона ~ [Вит](users/300/300273923-vkontakte)<sup>89</sup>
+    > Ну такое себе
+
 * Книжный вор ~ [pria](users/128/128917939-vkontakte)<sup>70</sup>
     > 4.11.2022 - 17.11.2022
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Плоский мир. Опочтарение. ~ [Garka](users/115/115753719718250012620-google)<sup>331</sup>
-    > Пратчетт себе не изменяет, очередная книга Плоского мира супер. Витинари мой кумир
 
 * Нуэль Эммонс ~ [Garka](users/115/115753719718250012620-google)<sup>330</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Северное сияние» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup>
 
-* The Giant Killer ~ [exulted](users/100/100599204551896265722-google)<sup>207</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>89</sup> 
 [pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>438</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 [](users/108/108681363726410562880-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>88</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 [](users/147/1470945916-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 
 
-_17.11.2022 13:12:34_
+_19.11.2022 17:50:16_
