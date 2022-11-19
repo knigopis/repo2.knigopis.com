@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Скверный анекдот ~ [Вит](users/300/300273923-vkontakte)<sup>91</sup>
+    > Начальник приперся на свадьбу к подчиненному
+
 * Цветы для элджернона ~ [Вит](users/300/300273923-vkontakte)<sup>89</sup>
     > Ну такое себе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4.11.2022 - 17.11.2022
 
 * «Цвет Волшебства» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup>
-    > audio
 
 * Плоский мир. Опочтарение. ~ [Garka](users/115/115753719718250012620-google)<sup>331</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Дело табак» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup>
 
-* «Северное сияние» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>90</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>91</sup> 
 [pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>438</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия  Лебедева](users/100/100263890971268160725-google)<sup>0</sup> 
 
 
-_19.11.2022 17:51:37_
+_19.11.2022 17:53:11_
