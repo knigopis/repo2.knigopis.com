@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/187/1871117-yandex)<sup>0</sup> 
+[](users/187/1871117-yandex)<sup>1</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>439</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>91</sup> 
 [pria](users/128/128917939-vkontakte)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 
 
-_20.11.2022 09:05:00_
+_20.11.2022 09:07:16_
