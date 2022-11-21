@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Чудесный нож» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup>
+    > audio
+
 * Скверный анекдот ~ [Вит](users/300/300273923-vkontakte)<sup>91</sup>
     > Начальник приперся на свадьбу к подчиненному
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ну такое себе
 
 * Книжный вор ~ [pria](users/128/128917939-vkontakte)<sup>70</sup>
-    > 4.11.2022 - 17.11.2022
 
 * «Цвет Волшебства» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Танотанавты ~ [Garka](users/115/115753719718250012620-google)<sup>327</sup>
 
-* «Дело табак» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup> 
 [](users/187/1871117-yandex)<sup>2</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>439</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>91</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
 [](users/112/112929930635076578999-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup> 
 [](users/115/115339911132983129941-google)<sup>0</sup> 
 [](users/107/107887484373704297776-google)<sup>0</sup> 
 [](users/107/107967543883596923419-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 
 
-_20.11.2022 09:07:51_
+_21.11.2022 03:48:47_

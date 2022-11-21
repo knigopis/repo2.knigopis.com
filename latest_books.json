@@ -1,4 +1,16 @@
 {
+    "hGZufXE6R3": {
+        "id": "hGZufXE6R3",
+        "title": "«Чудесный нож»",
+        "author": "Филип Пулман",
+        "notes": "audio",
+        "createdAt": "2022-11-21 03:48:47",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 83
+        }
+    },
     "85O4Jd9oe9": {
         "id": "85O4Jd9oe9",
         "title": "Игра ангела",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 275
-        }
-    },
-    "3_yIw5wKV7": {
-        "id": "3_yIw5wKV7",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2022-10-30 09:36:26",
-        "user": {
-            "id": "114908731072426313764-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
