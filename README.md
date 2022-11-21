@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленькая опера ~ [Chiffi](users/105/105831994080785626680-google)<sup>337</sup>
+    > велела повторить сказанное. Она не успела рассвирепеть с первого раза.
+
 * «Чудесный нож» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Начальник приперся на свадьбу к подчиненному
 
 * Цветы для элджернона ~ [Вит](users/300/300273923-vkontakte)<sup>89</sup>
-    > Ну такое себе
 
 * Книжный вор ~ [pria](users/128/128917939-vkontakte)<sup>70</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дневник незначительного лица ~ [Garka](users/115/115753719718250012620-google)<sup>328</sup>
 
-* Танотанавты ~ [Garka](users/115/115753719718250012620-google)<sup>327</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup> 
 [](users/187/1871117-yandex)<sup>2</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>439</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 [](users/108/108681363726410562880-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>336</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 [](users/147/1470945916-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 
 
-_21.11.2022 03:48:47_
+_21.11.2022 19:17:30_
