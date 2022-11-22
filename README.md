@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>440</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup> 
 [](users/187/1871117-yandex)<sup>2</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>439</sup> 
 [pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 
 
-_22.11.2022 02:24:00_
+_22.11.2022 14:03:23_
