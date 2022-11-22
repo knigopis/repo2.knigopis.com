@@ -1,4 +1,16 @@
 {
+    "z4ov519nfG": {
+        "id": "z4ov519nfG",
+        "title": "Школа Добра и Зла. В поисках славы",
+        "author": "Соман Чайнани",
+        "notes": "",
+        "createdAt": "2022-11-22 18:02:49",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 980
+        }
+    },
     "Qol3IsV-_2": {
         "id": "Qol3IsV-_2",
         "title": "Последнее «долго и счастливо»",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 81
-        }
-    },
-    "iRFTswtzDx": {
-        "id": "iRFTswtzDx",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2022-11-03 02:39:36",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": "pria",
-            "booksCount": 69
         }
     }
 }
