@@ -1,4 +1,10 @@
 {
+    "142711152-vkontakte": {
+        "id": "142711152-vkontakte",
+        "nickname": "torzhevskayav",
+        "booksCount": 0,
+        "updatedAt": "2022-11-22 18:59:41"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-10-19 15:58:38"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 87,
-        "updatedAt": "2022-10-18 16:44:29"
     }
 }
