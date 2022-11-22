@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>979</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>440</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107967543883596923419-google)<sup>0</sup> 
 [](users/109/109363607816033953885-google)<sup>0</sup> 
 [](users/114/114112027514930339791-google)<sup>1</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>978</sup> 
 [sawyer](users/117/117035910904503216203-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>157</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 
 
-_22.11.2022 14:03:23_
+_22.11.2022 18:02:47_
