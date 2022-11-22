@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мадам Бовари ~ [Вит](users/300/300273923-vkontakte)<sup>92</sup>
+    > Опять же, необузданная баба.
+
 * Маленькая опера ~ [Chiffi](users/105/105831994080785626680-google)<sup>337</sup>
     > велела повторить сказанное. Она не успела рассвирепеть с первого раза.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Скверный анекдот ~ [Вит](users/300/300273923-vkontakte)<sup>91</sup>
-    > Начальник приперся на свадьбу к подчиненному
 
 * Цветы для элджернона ~ [Вит](users/300/300273923-vkontakte)<sup>89</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
 
-* Дневник незначительного лица ~ [Garka](users/115/115753719718250012620-google)<sup>328</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup> 
 [](users/187/1871117-yandex)<sup>2</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>439</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>91</sup> 
 [pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>87</sup> 
 
 
-_21.11.2022 19:17:30_
+_22.11.2022 02:24:00_

@@ -1,4 +1,16 @@
 {
+    "ox5j9rUukO": {
+        "id": "ox5j9rUukO",
+        "title": "Мадам Бовари",
+        "author": "Флобер Гюстав",
+        "notes": "Опять же, необузданная баба.",
+        "createdAt": "2022-11-22 02:24:00",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 92
+        }
+    },
     "kKZopTUmf-": {
         "id": "kKZopTUmf-",
         "title": "Маленькая опера",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": "Smekalistii",
             "booksCount": 39
-        }
-    },
-    "BzDF0WO2qs": {
-        "id": "BzDF0WO2qs",
-        "title": "Принцесса или ведьма",
-        "author": "Соман Чайнани",
-        "notes": "",
-        "createdAt": "2022-11-01 07:56:18",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 976
         }
     }
 }
