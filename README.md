@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>980</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>440</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>92</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 [](users/147/1470945916-yandex)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>87</sup> 
 
 
-_22.11.2022 18:02:49_
+_22.11.2022 18:59:41_
