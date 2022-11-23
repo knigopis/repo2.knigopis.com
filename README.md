@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/490/4902057994187718389-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>981</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>158</sup> 
 [lucius](users/838/83820536-yandex)<sup>155</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 [](users/108/108681363726410562880-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 
 
-_23.11.2022 21:21:41_
+_23.11.2022 22:35:14_
