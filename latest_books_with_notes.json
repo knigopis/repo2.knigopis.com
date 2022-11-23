@@ -1,4 +1,16 @@
 {
+    "yPJwGFyKDq": {
+        "id": "yPJwGFyKDq",
+        "title": "Кандид, или Оптимизм",
+        "author": "Вольтер",
+        "notes": "Отличная философская книга, написанная в ироничном стиле.",
+        "createdAt": "2022-11-23 05:28:17",
+        "user": {
+            "id": "83820536-yandex",
+            "nickname": "lucius",
+            "booksCount": 155
+        }
+    },
     "ox5j9rUukO": {
         "id": "ox5j9rUukO",
         "title": "Мадам Бовари",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 153
-        }
-    },
-    "wTmWR0RQh2": {
-        "id": "wTmWR0RQh2",
-        "title": "«Патриот»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-09-19 09:43:50",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 73
         }
     }
 }

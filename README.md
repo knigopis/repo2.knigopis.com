@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кандид, или Оптимизм ~ [lucius](users/838/83820536-yandex)<sup>155</sup>
+    > Отличная философская книга, написанная в ироничном стиле.
+
 * Мадам Бовари ~ [Вит](users/300/300273923-vkontakte)<sup>92</sup>
     > Опять же, необузданная баба.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > велела повторить сказанное. Она не успела рассвирепеть с первого раза.
 
 * «Чудесный нож» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup>
-    > audio
 
 * Скверный анекдот ~ [Вит](users/300/300273923-vkontakte)<sup>91</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Нуэль Эммонс ~ [Garka](users/115/115753719718250012620-google)<sup>330</sup>
 
-* Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>155</sup> 
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>980</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>440</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108681363726410562880-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
-[](users/147/1470945916-yandex)<sup>0</sup> 
 
 
-_22.11.2022 18:59:41_
+_23.11.2022 05:28:17_

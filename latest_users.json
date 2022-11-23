@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 155,
+        "updatedAt": "2022-11-23 05:28:17"
+    },
     "142711152-vkontakte": {
         "id": "142711152-vkontakte",
         "nickname": "torzhevskayav",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 122,
         "updatedAt": "2022-10-20 09:35:26"
-    },
-    "1470945916-yandex": {
-        "id": "1470945916-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-10-19 15:58:38"
     }
 }
