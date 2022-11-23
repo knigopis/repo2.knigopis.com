@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>158</sup> 
 [lucius](users/838/83820536-yandex)<sup>155</sup> 
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>980</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114112027514930339791-google)<sup>1</sup> 
 [sawyer](users/117/117035910904503216203-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>157</sup> 
 [shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>122</sup> 
 
 
-_23.11.2022 05:28:17_
+_23.11.2022 06:34:36_
