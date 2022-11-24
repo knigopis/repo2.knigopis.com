@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
+    > audio
+
 * Кандид, или Оптимизм ~ [lucius](users/838/83820536-yandex)<sup>155</sup>
     > Отличная философская книга, написанная в ироничном стиле.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Опять же, необузданная баба.
 
 * Маленькая опера ~ [Chiffi](users/105/105831994080785626680-google)<sup>337</sup>
-    > велела повторить сказанное. Она не успела рассвирепеть с первого раза.
 
 * «Чудесный нож» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Плоский мир. Опочтарение. ~ [Garka](users/115/115753719718250012620-google)<sup>331</sup>
 
-* Нуэль Эммонс ~ [Garka](users/115/115753719718250012620-google)<sup>330</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup> 
 [](users/490/4902057994187718389-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>981</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>158</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>440</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup> 
 [](users/187/1871117-yandex)<sup>2</sup> 
 [pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 
 
-_23.11.2022 22:35:14_
+_24.11.2022 08:57:44_
