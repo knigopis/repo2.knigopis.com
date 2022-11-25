@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>982</sup> 
 [](users/336/336022778-yandex)<sup>0</sup> 
 [](users/105/105504786394629614265-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup> 
 [](users/490/4902057994187718389-mailru)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>981</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>158</sup> 
 [lucius](users/838/83820536-yandex)<sup>155</sup> 
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 
 
-_25.11.2022 19:31:45_
+_25.11.2022 22:47:29_
