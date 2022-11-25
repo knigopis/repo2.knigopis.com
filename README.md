@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105504786394629614265-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup> 
 [](users/490/4902057994187718389-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>981</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>374</sup> 
 [](users/108/108681363726410562880-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>207</sup> 
 
 
-_24.11.2022 08:57:44_
+_25.11.2022 11:22:31_
