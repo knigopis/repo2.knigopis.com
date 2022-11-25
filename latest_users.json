@@ -1,4 +1,10 @@
 {
+    "336022778-yandex": {
+        "id": "336022778-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-11-25 19:31:45"
+    },
     "105504786394629614265-google": {
         "id": "105504786394629614265-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 374,
         "updatedAt": "2022-10-26 11:17:16"
-    },
-    "108681363726410562880-google": {
-        "id": "108681363726410562880-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-10-25 07:14:59"
     }
 }
