@@ -4,6 +4,9 @@
     "profile": "",
     "identity": "http://openid.yandex.ru/nikonvrn/",
     "booksCount": 0,
+    "subscriptions": {
+        "47446642-vkontakte": 84
+    },
     "createdAt": "2022-11-25 19:31:45",
-    "updatedAt": "2022-11-25 19:35:11"
+    "updatedAt": "2022-11-26 09:24:15"
 }
