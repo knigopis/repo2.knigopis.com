@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>92</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>93</sup>
 ---
 
 ## 2022
+
+### Камо грядеши
+Генрих Сенкевич
+> [2022-11] 
+
 
 ### Мадам Бовари
 Флобер Гюстав
