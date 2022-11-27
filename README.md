@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/106/106915386474260202605-google)<sup>0</sup> 
+[](users/106/106915386474260202605-google)<sup>1</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>93</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>982</sup> 
 [](users/336/336022778-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
 
 
-_27.11.2022 18:24:56_
+_27.11.2022 18:26:05_
