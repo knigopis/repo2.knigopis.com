@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
+    > Великая французская революция
+
 * Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
     > 18.11.2022 -28.11.2022
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Кандид, или Оптимизм ~ [lucius](users/838/83820536-yandex)<sup>155</sup>
-    > Отличная философская книга, написанная в ироничном стиле.
 
 * Мадам Бовари ~ [Вит](users/300/300273923-vkontakte)<sup>92</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Книжный вор ~ [pria](users/128/128917939-vkontakte)<sup>70</sup>
 
-* «Цвет Волшебства» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>94</sup> 
 [pria](users/128/128917939-vkontakte)<sup>71</sup> 
 [](users/106/106915386474260202605-google)<sup>2</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>93</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>982</sup> 
 [](users/336/336022778-yandex)<sup>0</sup> 
 [](users/105/105504786394629614265-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
 
 
-_28.11.2022 08:30:43_
+_28.11.2022 09:53:12_
