@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>70</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>71</sup>
 ---
 
 ## 2022
+
+### Элтон Бен
+Два Брата
+> [2022-11-28] 18.11.2022 -28.11.2022
+
 
 ### Книжный вор
 Маркус Зузак

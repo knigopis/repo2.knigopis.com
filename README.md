@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
+    > 18.11.2022 -28.11.2022
+
 * «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная философская книга, написанная в ироничном стиле.
 
 * Мадам Бовари ~ [Вит](users/300/300273923-vkontakte)<sup>92</sup>
-    > Опять же, необузданная баба.
 
 * Маленькая опера ~ [Chiffi](users/105/105831994080785626680-google)<sup>337</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Цвет Волшебства» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup>
 
-* Плоский мир. Опочтарение. ~ [Garka](users/115/115753719718250012620-google)<sup>331</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pria](users/128/128917939-vkontakte)<sup>71</sup> 
 [](users/106/106915386474260202605-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>93</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>982</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>440</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 [](users/187/1871117-yandex)<sup>2</sup> 
-[pria](users/128/128917939-vkontakte)<sup>70</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
 [](users/112/112929930635076578999-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>81</sup> 
 
 
-_27.11.2022 18:26:53_
+_28.11.2022 08:30:43_

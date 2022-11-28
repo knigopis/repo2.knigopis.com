@@ -1,4 +1,16 @@
 {
+    "grR1xNBO7N": {
+        "id": "grR1xNBO7N",
+        "title": "Элтон Бен",
+        "author": "Два Брата",
+        "notes": "18.11.2022 -28.11.2022",
+        "createdAt": "2022-11-28 08:30:43",
+        "user": {
+            "id": "128917939-vkontakte",
+            "nickname": "pria",
+            "booksCount": 71
+        }
+    },
     "mm6pb7PEEF": {
         "id": "mm6pb7PEEF",
         "title": "«Безумная звезда»",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 74
-        }
-    },
-    "C8o3vQ2ZV2": {
-        "id": "C8o3vQ2ZV2",
-        "title": "Человеческий фактор: успешные проекты и команды",
-        "author": "Тимоти Листер",
-        "notes": "Очень хорошая книга для руководителей разработки. Я выписал себе некоторое количество цитат, чтобы время от времени их перечитывать.\nhttps://gurov.livejournal.com/3442.html",
-        "createdAt": "2022-09-20 21:06:44",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 154
         }
     }
 }
