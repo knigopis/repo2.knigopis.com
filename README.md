@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>208</sup> 
 [](users/116/116931591025617696299-google)<sup>1</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>94</sup> 
 [pria](users/128/128917939-vkontakte)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
 [](users/114/114908731072426313764-google)<sup>1</sup> 
-[cricetopigro](users/189/189877867-vkontakte)<sup>0</sup> 
 
 
-_29.11.2022 02:14:56_
+_29.11.2022 20:03:21_

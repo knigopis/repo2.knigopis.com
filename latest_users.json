@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 208,
+        "updatedAt": "2022-11-29 20:03:21"
+    },
     "116931591025617696299-google": {
         "id": "116931591025617696299-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2022-10-30 09:36:26"
-    },
-    "189877867-vkontakte": {
-        "id": "189877867-vkontakte",
-        "nickname": "cricetopigro",
-        "booksCount": 0,
-        "updatedAt": "2022-10-29 17:05:54"
     }
 }
