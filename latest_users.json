@@ -1,4 +1,10 @@
 {
+    "100447278595804083446-google": {
+        "id": "100447278595804083446-google",
+        "nickname": null,
+        "booksCount": 1,
+        "updatedAt": "2022-12-01 17:59:11"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 275,
         "updatedAt": "2022-10-31 15:38:44"
-    },
-    "114908731072426313764-google": {
-        "id": "114908731072426313764-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2022-10-30 09:36:26"
     }
 }

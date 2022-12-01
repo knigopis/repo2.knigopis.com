@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
+    > Хрень
+
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
     > Великая французская революция
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 18.11.2022 -28.11.2022
 
 * «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
-    > audio
 
 * Кандид, или Оптимизм ~ [lucius](users/838/83820536-yandex)<sup>155</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цветы для элджернона ~ [Вит](users/300/300273923-vkontakte)<sup>89</sup>
 
-* Книжный вор ~ [pria](users/128/128917939-vkontakte)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/100/100447278595804083446-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>208</sup> 
 [](users/116/116931591025617696299-google)<sup>1</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>94</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
-[](users/114/114908731072426313764-google)<sup>1</sup> 
 
 
-_29.11.2022 20:03:21_
+_01.12.2022 17:59:11_
