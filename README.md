@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
 [](users/100/100447278595804083446-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>208</sup> 
 [](users/116/116931591025617696299-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
 [shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>275</sup> 
 
 
-_01.12.2022 17:59:11_
+_02.12.2022 14:16:54_
