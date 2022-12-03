@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>71</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>72</sup>
 ---
 
 ## 2022
+
+### Заводной апельсин
+Энтони Бёрджесс
+> [2022-12-03] 29.11.2022 - 3.12.2022
+
 
 ### Элтон Бен
 Два Брата

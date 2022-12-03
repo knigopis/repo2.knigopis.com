@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
 * Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
 * Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
 * Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
 * «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
-* «Гарри Поттер и проклятое дитя» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>75</sup>
 
 
-_01.12.2022 17:59:11_
+_03.12.2022 08:26:32_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
+    > 29.11.2022 - 3.12.2022
+
 * Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
     > Хрень
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Великая французская революция
 
 * Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
-    > 18.11.2022 -28.11.2022
 
 * «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Скверный анекдот ~ [Вит](users/300/300273923-vkontakte)<sup>91</sup>
 
-* Цветы для элджернона ~ [Вит](users/300/300273923-vkontakte)<sup>89</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pria](users/128/128917939-vkontakte)<sup>72</sup> 
 [sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
 [](users/100/100447278595804083446-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>208</sup> 
 [](users/116/116931591025617696299-google)<sup>1</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>94</sup> 
-[pria](users/128/128917939-vkontakte)<sup>71</sup> 
 [](users/106/106915386474260202605-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>982</sup> 
 [](users/336/336022778-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [G_LeKS](users/106/106739562335093016041-google)<sup>0</sup> 
 
 
-_02.12.2022 14:16:54_
+_03.12.2022 08:26:32_
