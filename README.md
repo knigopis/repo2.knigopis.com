@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kelen.amnil](users/555/555255766-yandex)<sup>0</sup> 
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>95</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>983</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114112027514930339791-google)<sup>1</sup> 
 [sawyer](users/117/117035910904503216203-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>331</sup> 
-[shishKA](users/100/100388448555259282555-google)<sup>0</sup> 
 
 
-_04.12.2022 14:48:05_
+_04.12.2022 20:36:17_
