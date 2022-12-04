@@ -1,4 +1,16 @@
 {
+    "L0hbl5cUi7": {
+        "id": "L0hbl5cUi7",
+        "title": "Город драконов Книга первая",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2022-12-04 20:41:47",
+        "user": {
+            "id": "555255766-yandex",
+            "nickname": "kelen.amnil",
+            "booksCount": 5
+        }
+    },
     "X9wqEPbXrE": {
         "id": "X9wqEPbXrE",
         "title": "Город драконов. Книга вторая",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 439
-        }
-    },
-    "1Zj-rJvymY": {
-        "id": "1Zj-rJvymY",
-        "title": "Скверный анекдот",
-        "author": "Достоевский Ф.м.",
-        "notes": "Начальник приперся на свадьбу к подчиненному",
-        "createdAt": "2022-11-19 17:53:11",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 91
         }
     }
 }
