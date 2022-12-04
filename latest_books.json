@@ -1,4 +1,16 @@
 {
+    "sQwrKAsJmF": {
+        "id": "sQwrKAsJmF",
+        "title": "Цикл: Город Драконов книга четвертая",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2022-12-04 20:40:18",
+        "user": {
+            "id": "555255766-yandex",
+            "nickname": "kelen.amnil",
+            "booksCount": 2
+        }
+    },
     "RiqWF3cGV4": {
         "id": "RiqWF3cGV4",
         "title": "Цикл: Город Драконов книга пятая",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 89
-        }
-    },
-    "uuIYIbZioO": {
-        "id": "uuIYIbZioO",
-        "title": "Книжный вор",
-        "author": "Маркус Зузак",
-        "notes": "4.11.2022 - 17.11.2022",
-        "createdAt": "2022-11-17 13:12:34",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": "pria",
-            "booksCount": 70
         }
     }
 }
