@@ -1,4 +1,10 @@
 {
+    "360373228-vkontakte": {
+        "id": "360373228-vkontakte",
+        "nickname": "nozaref",
+        "booksCount": 0,
+        "updatedAt": "2022-12-04 14:48:04"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": "shishKA",
         "booksCount": 0,
         "updatedAt": "2022-11-03 18:39:31"
-    },
-    "106739562335093016041-google": {
-        "id": "106739562335093016041-google",
-        "nickname": "G_LeKS",
-        "booksCount": 0,
-        "updatedAt": "2022-11-02 11:10:07"
     }
 }
