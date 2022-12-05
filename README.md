@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[maria144](users/298/29830911-vkontakte)<sup>0</sup> 
+[maria144](users/298/29830911-vkontakte)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup> 
 [kelen.amnil](users/555/555255766-yandex)<sup>5</sup> 
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sawyer](users/117/117035910904503216203-google)<sup>0</sup> 
 
 
-_05.12.2022 20:15:51_
+_05.12.2022 20:16:32_
