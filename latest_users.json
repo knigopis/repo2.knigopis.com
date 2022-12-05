@@ -1,4 +1,10 @@
 {
+    "29830911-vkontakte": {
+        "id": "29830911-vkontakte",
+        "nickname": "maria144",
+        "booksCount": 0,
+        "updatedAt": "2022-12-05 20:15:50"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "sawyer",
         "booksCount": 0,
         "updatedAt": "2022-11-08 19:48:11"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 331,
-        "updatedAt": "2022-11-08 18:37:25"
     }
 }
