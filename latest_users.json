@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 85,
+        "updatedAt": "2022-12-05 11:25:48"
+    },
     "555255766-yandex": {
         "id": "555255766-yandex",
         "nickname": "kelen.amnil",
@@ -70,12 +76,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-11-25 11:22:30"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 84,
-        "updatedAt": "2022-11-24 08:57:44"
     },
     "4902057994187718389-mailru": {
         "id": "4902057994187718389-mailru",

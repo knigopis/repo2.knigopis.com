@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
 * Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
@@ -30,7 +31,6 @@
 * Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
 * Миргород ~ [Вит](users/300/300273923-vkontakte)<sup>86</sup>
 * Мертвые души ~ [Вит](users/300/300273923-vkontakte)<sup>85</sup>
-* «Пятый элефант» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>76</sup>
 
 
-_03.12.2022 08:26:32_
+_05.12.2022 11:25:48_
