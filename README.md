@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
+    > 4.12.2022 - 9.12.2022
+
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 29.11.2022 - 3.12.2022
 
 * Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
-    > Хрень
 
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маленькая опера ~ [Chiffi](users/105/105831994080785626680-google)<sup>337</sup>
 
-* «Чудесный нож» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>83</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pria](users/128/128917939-vkontakte)<sup>73</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>441</sup> 
 [](users/105/105856312850094798390-google)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>37</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>95</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>983</sup> 
-[pria](users/128/128917939-vkontakte)<sup>72</sup> 
 [sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
 [](users/100/100447278595804083446-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>208</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109363607816033953885-google)<sup>0</sup> 
 
 
-_07.12.2022 18:25:24_
+_09.12.2022 08:37:10_
