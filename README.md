@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Liana](users/116/116745388223641294260-google)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>73</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>441</sup> 
 [](users/105/105856312850094798390-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115339911132983129941-google)<sup>0</sup> 
 [](users/107/107887484373704297776-google)<sup>0</sup> 
 [](users/107/107967543883596923419-google)<sup>0</sup> 
-[](users/109/109363607816033953885-google)<sup>0</sup> 
 
 
-_09.12.2022 08:37:10_
+_09.12.2022 09:08:22_
