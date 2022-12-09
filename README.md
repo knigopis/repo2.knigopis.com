@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
+    > Неоднозначная книга, местами интересно, местами клонило в сон. Гипертрофированно показаны убеждения и взгляды главных героев. Одному Гарпу досталось прямо-таки всё, хватило бы на 10 человек(и наверное тогда бы было реальнее и вызывало больше сочуствия)
+
 * Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
     > 4.12.2022 - 9.12.2022
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
-    > 29.11.2022 - 3.12.2022
 
 * Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мадам Бовари ~ [Вит](users/300/300273923-vkontakte)<sup>92</sup>
 
-* Маленькая опера ~ [Chiffi](users/105/105831994080785626680-google)<sup>337</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>332</sup> 
 [Liana](users/116/116745388223641294260-google)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>73</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>441</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112929930635076578999-google)<sup>0</sup> 
 [](users/115/115339911132983129941-google)<sup>0</sup> 
 [](users/107/107887484373704297776-google)<sup>0</sup> 
-[](users/107/107967543883596923419-google)<sup>0</sup> 
 
 
-_09.12.2022 09:08:22_
+_09.12.2022 16:31:16_
