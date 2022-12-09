@@ -1,4 +1,10 @@
 {
+    "116745388223641294260-google": {
+        "id": "116745388223641294260-google",
+        "nickname": "Liana",
+        "booksCount": 0,
+        "updatedAt": "2022-12-09 09:08:21"
+    },
     "128917939-vkontakte": {
         "id": "128917939-vkontakte",
         "nickname": "pria",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-11-13 03:33:34"
-    },
-    "109363607816033953885-google": {
-        "id": "109363607816033953885-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-11-12 13:02:55"
     }
 }
