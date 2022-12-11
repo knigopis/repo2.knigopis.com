@@ -1,4 +1,10 @@
 {
+    "102335809246232220069-google": {
+        "id": "102335809246232220069-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-12-11 20:37:58"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-11-14 14:40:20"
-    },
-    "115339911132983129941-google": {
-        "id": "115339911132983129941-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-11-14 08:09:07"
     }
 }
