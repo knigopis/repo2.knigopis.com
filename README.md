@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
+    > В целом книга тошнотворная, но пара мыслей в ней нашлась
+
 * Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
     > Неоднозначная книга, местами интересно, местами клонило в сон. Гипертрофированно показаны убеждения и взгляды главных героев. Одному Гарпу досталось прямо-таки всё, хватило бы на 10 человек(и наверное тогда бы было реальнее и вызывало больше сочуствия)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4.12.2022 - 9.12.2022
 
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
-    > audio
 
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кандид, или Оптимизм ~ [lucius](users/838/83820536-yandex)<sup>155</sup>
 
-* Мадам Бовари ~ [Вит](users/300/300273923-vkontakte)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>41</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>984</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>332</sup> 
 [Liana](users/116/116745388223641294260-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
 [](users/112/112929930635076578999-google)<sup>0</sup> 
 [](users/115/115339911132983129941-google)<sup>0</sup> 
-[](users/107/107887484373704297776-google)<sup>0</sup> 
 
 
-_10.12.2022 18:30:40_
+_11.12.2022 09:42:18_

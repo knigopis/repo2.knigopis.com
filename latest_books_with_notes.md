@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
 * Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
 * Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
@@ -30,7 +31,6 @@
 * Противостояние ~ [Chiffi](users/105/105831994080785626680-google)<sup>335</sup>
 * «Зеленая миля» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup>
 * «Ночная стража» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>77</sup>
-* Столкновение ~ [Chiffi](users/105/105831994080785626680-google)<sup>334</sup>
 
 
-_09.12.2022 16:31:16_
+_11.12.2022 09:42:18_

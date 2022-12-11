@@ -1,4 +1,16 @@
 {
+    "Ab8baSmJiS": {
+        "id": "Ab8baSmJiS",
+        "title": "Очарование женственности",
+        "author": "Хелен Анделин",
+        "notes": "В целом книга тошнотворная, но пара мыслей в ней нашлась",
+        "createdAt": "2022-12-11 09:42:18",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 41
+        }
+    },
     "m-vto3x05k": {
         "id": "m-vto3x05k",
         "title": "Мир от Гарпа",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 77
-        }
-    },
-    "GtmXDEa2Id": {
-        "id": "GtmXDEa2Id",
-        "title": "Столкновение",
-        "author": "Панов Вадим",
-        "notes": "— Вы не даете им свободы, чтобы продемонстрировать власть.",
-        "createdAt": "2022-10-08 13:20:09",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 334
         }
     }
 }
