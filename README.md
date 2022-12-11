@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/102/102335809246232220069-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>209</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>984</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 [aden1000000000](users/185/18514627-yandex)<sup>0</sup> 
 [](users/112/112929930635076578999-google)<sup>0</sup> 
-[](users/115/115339911132983129941-google)<sup>0</sup> 
 
 
-_11.12.2022 17:23:34_
+_11.12.2022 20:37:58_
