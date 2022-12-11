@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>209</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>984</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>332</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>95</sup> 
 [sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
 [](users/100/100447278595804083446-google)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>208</sup> 
 [](users/116/116931591025617696299-google)<sup>1</sup> 
 [](users/106/106915386474260202605-google)<sup>2</sup> 
 [](users/336/336022778-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115339911132983129941-google)<sup>0</sup> 
 
 
-_11.12.2022 09:42:18_
+_11.12.2022 17:23:34_
