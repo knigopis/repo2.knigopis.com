@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
+    > Слепые сестры, Венеция, глупая смерть.
+
 * Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
     > В целом книга тошнотворная, но пара мыслей в ней нашлась
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Неоднозначная книга, местами интересно, местами клонило в сон. Гипертрофированно показаны убеждения и взгляды главных героев. Одному Гарпу досталось прямо-таки всё, хватило бы на 10 человек(и наверное тогда бы было реальнее и вызывало больше сочуствия)
 
 * Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
-    > 4.12.2022 - 9.12.2022
 
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
 
-* Кандид, или Оптимизм ~ [lucius](users/838/83820536-yandex)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
 [lersyy](users/534/534058281-vkontakte)<sup>0</sup> 
 [](users/106/106957654900199939247-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>985</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 [](users/187/1871117-yandex)<sup>2</sup> 
-[Smekalistii](users/864/86487125-vkontakte)<sup>44</sup> 
 
 
-_14.12.2022 07:49:54_
+_14.12.2022 22:50:06_
