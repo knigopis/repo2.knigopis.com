@@ -1,4 +1,10 @@
 {
+    "534058281-vkontakte": {
+        "id": "534058281-vkontakte",
+        "nickname": "lersyy",
+        "booksCount": 0,
+        "updatedAt": "2022-12-14 07:49:54"
+    },
     "106957654900199939247-google": {
         "id": "106957654900199939247-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Smekalistii",
         "booksCount": 44,
         "updatedAt": "2022-11-16 18:15:25"
-    },
-    "18514627-yandex": {
-        "id": "18514627-yandex",
-        "nickname": "aden1000000000",
-        "booksCount": 0,
-        "updatedAt": "2022-11-15 08:37:08"
     }
 }
