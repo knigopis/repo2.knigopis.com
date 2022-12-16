@@ -1,7 +1,12 @@
-# List of books read by [pria](http://vk.com/id128917939)<sup>73</sup>
+# List of books read by [pria](http://vk.com/id128917939)<sup>74</sup>
 ---
 
 ## 2022
+
+### Мой любимый враг
+Салли Торн
+> [2022-12-16] 
+
 
 ### Остров потерянных детей
 Дженнифер Макмахон
