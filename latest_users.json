@@ -1,4 +1,10 @@
 {
+    "55713637-yandex": {
+        "id": "55713637-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-12-16 17:55:56"
+    },
     "128917939-vkontakte": {
         "id": "128917939-vkontakte",
         "nickname": "pria",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 337,
         "updatedAt": "2022-11-21 19:17:30"
-    },
-    "1871117-yandex": {
-        "id": "1871117-yandex",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2022-11-20 09:07:51"
     }
 }
