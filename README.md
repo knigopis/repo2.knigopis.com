@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/557/55713637-yandex)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>74</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
 [lersyy](users/534/534058281-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>155</sup> 
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
-[](users/187/1871117-yandex)<sup>2</sup> 
 
 
-_16.12.2022 11:42:42_
+_16.12.2022 17:55:56_
