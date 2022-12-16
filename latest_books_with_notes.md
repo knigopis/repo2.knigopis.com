@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
 * Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
 * Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
 * Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
@@ -30,7 +31,6 @@
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>336</sup>
 * «Шмяк» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup>
 * Противостояние ~ [Chiffi](users/105/105831994080785626680-google)<sup>335</sup>
-* «Зеленая миля» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>78</sup>
 
 
-_14.12.2022 22:50:06_
+_16.12.2022 18:25:39_

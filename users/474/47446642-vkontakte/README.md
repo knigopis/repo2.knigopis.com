@@ -1,7 +1,12 @@
-# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>85</sup>
+# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>86</sup>
 ---
 
 ## 2022
+
+### «Эрик»
+Терри Пратчетт
+> [2022-12-14] audio
+
 
 ### «Посох и шляпа»
 Терри Пратчетт

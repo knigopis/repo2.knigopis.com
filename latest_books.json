@@ -1,4 +1,16 @@
 {
+    "oB31q9gH43": {
+        "id": "oB31q9gH43",
+        "title": "«Эрик»",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2022-12-16 18:25:39",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 86
+        }
+    },
     "W7to7FxukM": {
         "id": "W7to7FxukM",
         "title": "Мой любимый враг",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 93
-        }
-    },
-    "LcH-RYSZOQ": {
-        "id": "LcH-RYSZOQ",
-        "title": "Единственный истинный король",
-        "author": "Соман Чайнани",
-        "notes": "",
-        "createdAt": "2022-11-25 22:47:29",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 982
         }
     }
 }

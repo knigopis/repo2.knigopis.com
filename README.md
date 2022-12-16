@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
+    > audio
+
 * Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
     > Слепые сестры, Венеция, глупая смерть.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В целом книга тошнотворная, но пара мыслей в ней нашлась
 
 * Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
-    > Неоднозначная книга, местами интересно, местами клонило в сон. Гипертрофированно показаны убеждения и взгляды главных героев. Одному Гарпу досталось прямо-таки всё, хватило бы на 10 человек(и наверное тогда бы было реальнее и вызывало больше сочуствия)
 
 * Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
 
-* «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup> 
 [](users/557/55713637-yandex)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>74</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105856312850094798390-google)<sup>0</sup> 
 [](users/118/118248226132797004598-google)<sup>37</sup> 
 [maria144](users/298/29830911-vkontakte)<sup>1</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup> 
 [kelen.amnil](users/555/555255766-yandex)<sup>5</sup> 
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>95</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 
 
-_16.12.2022 17:55:56_
+_16.12.2022 18:25:39_
