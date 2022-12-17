@@ -1,4 +1,16 @@
 {
+    "NCyxjpYSiS": {
+        "id": "NCyxjpYSiS",
+        "title": "«Янтарный телескоп»",
+        "author": "Филип Пулман",
+        "notes": "audio",
+        "createdAt": "2022-12-17 16:30:27",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 87
+        }
+    },
     "dhMJPO71Cg": {
         "id": "dhMJPO71Cg",
         "title": "Волшебники",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "KccBo_exHi": {
-        "id": "KccBo_exHi",
-        "title": "Цифровой Минимализм",
-        "author": "Кэл Ньюпорт",
-        "notes": "Задумался обо всем и ни о чем сразу",
-        "createdAt": "2022-11-27 18:26:05",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

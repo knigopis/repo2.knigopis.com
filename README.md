@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Янтарный телескоп» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup>
+    > audio
+
 * «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Слепые сестры, Венеция, глупая смерть.
 
 * Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
-    > В целом книга тошнотворная, но пара мыслей в ней нашлась
 
 * Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
 
-* Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>986</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup> 
 [](users/557/55713637-yandex)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>74</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 
 
-_17.12.2022 07:33:02_
+_17.12.2022 16:30:27_
