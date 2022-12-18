@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109183546699066617775-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>986</sup> 
 [](users/557/55713637-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/490/4902057994187718389-mailru)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>155</sup> 
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>337</sup> 
 
 
-_17.12.2022 16:30:27_
+_18.12.2022 14:30:00_
