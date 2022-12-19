@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 987,
+        "updatedAt": "2022-12-19 22:20:08"
+    },
     "109183546699066617775-google": {
         "id": "109183546699066617775-google",
         "nickname": null,
@@ -10,12 +16,6 @@
         "nickname": "Альберт Сысоев",
         "booksCount": 87,
         "updatedAt": "2022-12-17 16:30:27"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 986,
-        "updatedAt": "2022-12-17 07:33:02"
     },
     "55713637-yandex": {
         "id": "55713637-yandex",

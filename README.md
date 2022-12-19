@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>987</sup> 
 [](users/109/109183546699066617775-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>986</sup> 
 [](users/557/55713637-yandex)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>74</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 
 
-_18.12.2022 14:30:00_
+_19.12.2022 22:20:08_
