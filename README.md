@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Февралев](users/100/100447278595804083446-google)<sup>3</sup> 
+[Февралев](users/100/100447278595804083446-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>987</sup> 
 [](users/109/109183546699066617775-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 
 
-_20.12.2022 07:43:00_
+_20.12.2022 07:43:26_
