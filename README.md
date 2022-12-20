@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отдел ~ [Февралев](users/100/100447278595804083446-google)<sup>2</sup>
+    > Хрень
+
 * «Янтарный телескоп» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
-    > Слепые сестры, Венеция, глупая смерть.
 
 * Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
 
@@ -24,8 +26,6 @@ Do not use pull requests to make changes here.
 
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
 
-* Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
-
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
 
 
@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Февралев](users/100/100447278595804083446-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>987</sup> 
 [](users/109/109183546699066617775-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>95</sup> 
 [sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
-[](users/100/100447278595804083446-google)<sup>1</sup> 
 [](users/116/116931591025617696299-google)<sup>1</sup> 
 [](users/106/106915386474260202605-google)<sup>2</sup> 
 [](users/336/336022778-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 
 
-_19.12.2022 22:20:08_
+_20.12.2022 05:40:39_

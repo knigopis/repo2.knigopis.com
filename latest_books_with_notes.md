@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Отдел ~ [Февралев](users/100/100447278595804083446-google)<sup>2</sup>
 * «Янтарный телескоп» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup>
 * «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
 * Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
@@ -9,7 +10,6 @@
 * Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
-* Отдел ~ [](users/100/100447278595804083446-google)<sup>1</sup>
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
 * Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
 * «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
@@ -33,4 +33,4 @@
 * «Шмяк» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>79</sup>
 
 
-_17.12.2022 16:30:27_
+_20.12.2022 05:40:39_
