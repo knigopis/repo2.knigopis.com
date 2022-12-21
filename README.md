@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[m1962feigin@gmail.com](users/106/106206590744491830786-google)<sup>0</sup> 
 [Февралев](users/100/100447278595804083446-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>987</sup> 
 [](users/109/109183546699066617775-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105504786394629614265-google)<sup>0</sup> 
 [](users/490/4902057994187718389-mailru)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>155</sup> 
-[torzhevskayav](users/142/142711152-vkontakte)<sup>0</sup> 
 
 
-_20.12.2022 07:43:34_
+_21.12.2022 05:18:10_
