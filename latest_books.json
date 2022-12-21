@@ -1,4 +1,16 @@
 {
+    "CMoAY7cKuy": {
+        "id": "CMoAY7cKuy",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2022-12-21 05:23:08",
+        "user": {
+            "id": "106206590744491830786-google",
+            "nickname": "m1962feigin@gmail.com",
+            "booksCount": 1
+        }
+    },
     "oBk_ZhRx_7": {
         "id": "oBk_ZhRx_7",
         "title": "Отдел",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 94
-        }
-    },
-    "grR1xNBO7N": {
-        "id": "grR1xNBO7N",
-        "title": "Элтон Бен",
-        "author": "Два Брата",
-        "notes": "18.11.2022 -28.11.2022",
-        "createdAt": "2022-11-28 08:30:43",
-        "user": {
-            "id": "128917939-vkontakte",
-            "nickname": "pria",
-            "booksCount": 71
         }
     }
 }
