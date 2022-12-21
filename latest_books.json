@@ -1,4 +1,16 @@
 {
+    "BK8Fqrq482": {
+        "id": "BK8Fqrq482",
+        "title": "Трое в лодке, не считая собаки",
+        "author": "Джером К. Джером",
+        "notes": "",
+        "createdAt": "2022-12-21 05:25:21",
+        "user": {
+            "id": "106206590744491830786-google",
+            "nickname": "m1962feigin@gmail.com",
+            "booksCount": 3
+        }
+    },
     "Hx57sT9Tbs": {
         "id": "Hx57sT9Tbs",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 208
-        }
-    },
-    "iHMlUZIc3h": {
-        "id": "iHMlUZIc3h",
-        "title": "Ол",
-        "author": "Ллот Оир",
-        "notes": "Олрнг",
-        "createdAt": "2022-11-29 02:14:56",
-        "user": {
-            "id": "116931591025617696299-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
