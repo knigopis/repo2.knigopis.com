@@ -1,4 +1,16 @@
 {
+    "Hx57sT9Tbs": {
+        "id": "Hx57sT9Tbs",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2022-12-21 05:24:13",
+        "user": {
+            "id": "106206590744491830786-google",
+            "nickname": "m1962feigin@gmail.com",
+            "booksCount": 2
+        }
+    },
     "CMoAY7cKuy": {
         "id": "CMoAY7cKuy",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "116931591025617696299-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "FQUomDVcaw": {
-        "id": "FQUomDVcaw",
-        "title": "93-й",
-        "author": "Гюго Виктор",
-        "notes": "Великая французская революция",
-        "createdAt": "2022-11-28 09:53:12",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 94
         }
     }
 }
