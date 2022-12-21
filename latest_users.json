@@ -1,4 +1,10 @@
 {
+    "106206590744491830786-google": {
+        "id": "106206590744491830786-google",
+        "nickname": "m1962feigin@gmail.com",
+        "booksCount": 0,
+        "updatedAt": "2022-12-21 05:18:10"
+    },
     "100447278595804083446-google": {
         "id": "100447278595804083446-google",
         "nickname": "Февралев",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 155,
         "updatedAt": "2022-11-23 05:28:17"
-    },
-    "142711152-vkontakte": {
-        "id": "142711152-vkontakte",
-        "nickname": "torzhevskayav",
-        "booksCount": 0,
-        "updatedAt": "2022-11-22 18:59:41"
     }
 }
