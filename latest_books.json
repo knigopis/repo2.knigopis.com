@@ -1,4 +1,16 @@
 {
+    "R_HbrIXCG9": {
+        "id": "R_HbrIXCG9",
+        "title": "Квантовая магия",
+        "author": "Доронин С.И.",
+        "notes": "",
+        "createdAt": "2022-12-22 19:18:37",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 210
+        }
+    },
     "tXa4e-rY2x": {
         "id": "tXa4e-rY2x",
         "title": "Двенадцать стульев",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 95
-        }
-    },
-    "UpIVSOzuMW": {
-        "id": "UpIVSOzuMW",
-        "title": "Как потратить миллион, которого нет и другие истории еврейского мальчика",
-        "author": "Гарик Корогодский",
-        "notes": "",
-        "createdAt": "2022-12-03 20:50:52",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 983
         }
     }
 }

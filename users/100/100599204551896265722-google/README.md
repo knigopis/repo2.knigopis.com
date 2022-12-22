@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>209</sup>
+# Список прочитанных книг пользователя exulted<sup>210</sup>
 ---
 
 ## 2022
+
+### Квантовая магия
+Доронин С.И.
+> [2022-12-22] 
+
 
 ### Why We Sleep: The New Science of Sleep and Dreams
 Matthew Walker
