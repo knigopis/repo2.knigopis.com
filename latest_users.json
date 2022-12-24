@@ -1,4 +1,10 @@
 {
+    "48364543-yandex": {
+        "id": "48364543-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2022-12-24 18:42:53"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-11-23 22:35:14"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 155,
-        "updatedAt": "2022-11-23 05:28:17"
     }
 }
