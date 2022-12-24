@@ -1,4 +1,16 @@
 {
+    "IBWX0TP92A": {
+        "id": "IBWX0TP92A",
+        "title": "Земля волшебника",
+        "author": "Лев Гроссман",
+        "notes": "",
+        "createdAt": "2022-12-24 14:36:28",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 988
+        }
+    },
     "R_HbrIXCG9": {
         "id": "R_HbrIXCG9",
         "title": "Квантовая магия",
@@ -345,18 +357,6 @@
             "id": "555255766-yandex",
             "nickname": "kelen.amnil",
             "booksCount": 1
-        }
-    },
-    "POodU_qpI-": {
-        "id": "POodU_qpI-",
-        "title": "Аэропорт",
-        "author": "Хейли Артур",
-        "notes": "",
-        "createdAt": "2022-12-04 06:40:29",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 95
         }
     }
 }
