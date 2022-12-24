@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/483/48364543-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>988</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>210</sup> 
 [m1962feigin@gmail.com](users/106/106206590744491830786-google)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/336/336022778-yandex)<sup>0</sup> 
 [](users/105/105504786394629614265-google)<sup>0</sup> 
 [](users/490/4902057994187718389-mailru)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>155</sup> 
 
 
-_24.12.2022 14:36:28_
+_24.12.2022 18:42:54_
