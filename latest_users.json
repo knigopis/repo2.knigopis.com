@@ -1,4 +1,10 @@
 {
+    "300273923-vkontakte": {
+        "id": "300273923-vkontakte",
+        "nickname": "Вит",
+        "booksCount": 96,
+        "updatedAt": "2022-12-24 22:02:32"
+    },
     "48364543-yandex": {
         "id": "48364543-yandex",
         "nickname": null,
@@ -136,12 +142,6 @@
         "nickname": "nozaref",
         "booksCount": 0,
         "updatedAt": "2022-12-04 14:48:04"
-    },
-    "300273923-vkontakte": {
-        "id": "300273923-vkontakte",
-        "nickname": "Вит",
-        "booksCount": 95,
-        "updatedAt": "2022-12-04 06:40:29"
     },
     "152568287-vkontakte": {
         "id": "152568287-vkontakte",
