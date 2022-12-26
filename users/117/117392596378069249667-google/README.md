@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>159</sup>
+# List of books read by 4apa<sup>160</sup>
 ---
 
 ## 2022
+
+### Голливуд
+Ч. Буковски
+> [2022-12-26] 
+
 
 ### Эшелон
 И. Шкловский
