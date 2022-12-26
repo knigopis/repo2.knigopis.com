@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Andor](users/115/115069512668490775619-google)<sup>1</sup> 
+[Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>96</sup> 
 [](users/483/48364543-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>988</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105504786394629614265-google)<sup>0</sup> 
 
 
-_26.12.2022 06:22:14_
+_26.12.2022 06:22:47_
