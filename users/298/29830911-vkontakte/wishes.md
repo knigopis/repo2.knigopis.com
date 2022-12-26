@@ -1,6 +1,9 @@
 # Wish list of books by [MariaKuzmina](http://vk.com/id29830911)
 ---
 
+### `50` Лавр
+Водолазкин
+
 ### `` Синдром Петрушки
 Дина Рубина
 
