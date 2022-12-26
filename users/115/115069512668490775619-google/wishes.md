@@ -1,6 +1,7 @@
-# Wish list of books by [](https://plus.google.com/u/0/115069512668490775619/)
+# Wish list of books by [Andor](https://plus.google.com/u/0/115069512668490775619/)
 ---
 
-### `` Метель
-Владимир Сорокин
+### `` Заблудившийся автобус
+Стейнбек Джон
+> Найдено у Вит
 
