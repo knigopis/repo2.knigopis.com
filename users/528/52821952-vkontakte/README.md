@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>122</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>123</sup>
 ---
 
 ## 2022
+
+### Кафка на пляже
+Харуки Мураками
+> [2022-12-22] 
+
 
 ### О мышах и людях
 Джон Стенбейк

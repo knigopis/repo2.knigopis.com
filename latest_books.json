@@ -1,4 +1,16 @@
 {
+    "REfz6K_Sw_": {
+        "id": "REfz6K_Sw_",
+        "title": "Кафка на пляже",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2022-12-27 11:34:38",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 123
+        }
+    },
     "wsE_lzqtLO": {
         "id": "wsE_lzqtLO",
         "title": "Голливуд",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 85
-        }
-    },
-    "L0hbl5cUi7": {
-        "id": "L0hbl5cUi7",
-        "title": "Город драконов Книга первая",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2022-12-04 20:41:47",
-        "user": {
-            "id": "555255766-yandex",
-            "nickname": "kelen.amnil",
-            "booksCount": 5
         }
     }
 }

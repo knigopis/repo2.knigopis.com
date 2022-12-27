@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 123,
+        "updatedAt": "2022-12-27 11:34:38"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-11-25 19:31:45"
-    },
-    "105504786394629614265-google": {
-        "id": "105504786394629614265-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-11-25 11:22:30"
     }
 }
