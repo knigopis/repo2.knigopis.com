@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>44</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>45</sup>
 ---
 
 ## 2022
+
+### В поисках неведомого Кадата
+Говард Филлипс Лавкрафт
+> [2022-12-28] 
+
 
 ### Как читать, запоминать и никогда не забывать
 Марк Тигелаар

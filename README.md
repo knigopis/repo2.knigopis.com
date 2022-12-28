@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>123</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>160</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
 [sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
 [](users/116/116931591025617696299-google)<sup>1</sup> 
-[](users/106/106915386474260202605-google)<sup>2</sup> 
 
 
-_28.12.2022 06:01:50_
+_28.12.2022 18:32:58_

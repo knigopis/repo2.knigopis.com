@@ -1,4 +1,10 @@
 {
+    "86487125-vkontakte": {
+        "id": "86487125-vkontakte",
+        "nickname": "Smekalistii",
+        "booksCount": 45,
+        "updatedAt": "2022-12-28 18:32:58"
+    },
     "336022778-yandex": {
         "id": "336022778-yandex",
         "nickname": "PaJLaDuH",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2022-11-29 02:14:56"
-    },
-    "106915386474260202605-google": {
-        "id": "106915386474260202605-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2022-11-27 18:26:53"
     }
 }
