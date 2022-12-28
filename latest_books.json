@@ -1,4 +1,16 @@
 {
+    "r28lW8IfId": {
+        "id": "r28lW8IfId",
+        "title": "Герой нашего времена",
+        "author": "Михаил Юрьевич Лермонтов",
+        "notes": "",
+        "createdAt": "2022-12-28 06:01:50",
+        "user": {
+            "id": "336022778-yandex",
+            "nickname": "PaJLaDuH",
+            "booksCount": 1
+        }
+    },
     "REfz6K_Sw_": {
         "id": "REfz6K_Sw_",
         "title": "Кафка на пляже",
@@ -345,18 +357,6 @@
             "id": "29830911-vkontakte",
             "nickname": "maria144",
             "booksCount": 1
-        }
-    },
-    "ItcPC3Kfao": {
-        "id": "ItcPC3Kfao",
-        "title": "«Посох и шляпа»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-12-05 11:25:48",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 85
         }
     }
 }
