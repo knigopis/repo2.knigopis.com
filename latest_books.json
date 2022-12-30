@@ -1,4 +1,16 @@
 {
+    "1zl1oBVxZU": {
+        "id": "1zl1oBVxZU",
+        "title": "Думай медленно… Решай быстро",
+        "author": "Даниэль Канеман",
+        "notes": "",
+        "createdAt": "2022-12-30 16:53:30",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 989
+        }
+    },
     "zNRQV0hRoF": {
         "id": "zNRQV0hRoF",
         "title": "В поисках неведомого Кадата",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 441
-        }
-    },
-    "9YM-4dzRLy": {
-        "id": "9YM-4dzRLy",
-        "title": "Преступление и наказание",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2022-12-06 16:37:40",
-        "user": {
-            "id": "118248226132797004598-google",
-            "nickname": null,
-            "booksCount": 37
         }
     }
 }

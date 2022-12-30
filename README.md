@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>989</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>123</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>96</sup> 
 [](users/483/48364543-yandex)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>988</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>210</sup> 
 [m1962feigin@gmail.com](users/106/106206590744491830786-google)<sup>5</sup> 
 [Февралев](users/100/100447278595804083446-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116931591025617696299-google)<sup>1</sup> 
 
 
-_28.12.2022 18:32:58_
+_30.12.2022 16:53:30_
