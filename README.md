@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>989</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>990</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>123</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116931591025617696299-google)<sup>1</sup> 
 
 
-_30.12.2022 16:53:30_
+_30.12.2022 20:06:27_
