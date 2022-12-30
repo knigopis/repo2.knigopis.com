@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>338</sup>
+    > не видал  как ломают пленных в немецком концлагере. Там у них целая методология. Сначала надо расплющить человека, превратить в дрожащую овцу, а потом уже гоняй стадо, как заблагорассудится.
+
 * Отдел ~ [Февралев](users/100/100447278595804083446-google)<sup>2</sup>
     > Хрень
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
-    > audio
 
 * Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
 
-* 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>338</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>990</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kelen.amnil](users/555/555255766-yandex)<sup>5</sup> 
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
 [sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
-[](users/116/116931591025617696299-google)<sup>1</sup> 
 
 
-_30.12.2022 20:06:27_
+_30.12.2022 21:09:52_
