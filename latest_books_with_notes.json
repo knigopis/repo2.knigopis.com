@@ -1,4 +1,16 @@
 {
+    "UFWM9dHNh-": {
+        "id": "UFWM9dHNh-",
+        "title": "Искусство быть",
+        "author": "Эрих Фромм",
+        "notes": "Перечитываю второй раз. Надо вчитаться в третий, составить конспект",
+        "createdAt": "2023-01-01 09:29:46",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "s2wORfuitI": {
         "id": "s2wORfuitI",
         "title": "Семейный альбом 4",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 207
-        }
-    },
-    "qkJ5DA7KX7": {
-        "id": "qkJ5DA7KX7",
-        "title": "«Шмяк»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-10-20 10:06:42",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 79
         }
     }
 }

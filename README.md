@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Искусство быть ~ [](users/106/106915386474260202605-google)<sup>3</sup>
+    > Перечитываю второй раз. Надо вчитаться в третий, составить конспект
+
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>338</sup>
     > не видал  как ломают пленных в немецком концлагере. Там у них целая методология. Сначала надо расплющить человека, превратить в дрожащую овцу, а потом уже гоняй стадо, как заблагорассудится.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хрень
 
 * «Янтарный телескоп» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup>
-    > audio
 
 * «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
 
-* Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106915386474260202605-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>338</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>990</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [maria144](users/298/29830911-vkontakte)<sup>1</sup> 
 [kelen.amnil](users/555/555255766-yandex)<sup>5</sup> 
 [nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
-[sbrednev](users/152/152568287-vkontakte)<sup>0</sup> 
 
 
-_30.12.2022 21:09:52_
+_01.01.2023 09:29:46_
