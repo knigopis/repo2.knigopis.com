@@ -1,4 +1,16 @@
 {
+    "fc6uKSDlaM": {
+        "id": "fc6uKSDlaM",
+        "title": "Владыка Тумана",
+        "author": "Карлос Руис Сафон",
+        "notes": "",
+        "createdAt": "2023-01-01 19:04:41",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 991
+        }
+    },
     "UFWM9dHNh-": {
         "id": "UFWM9dHNh-",
         "title": "Искусство быть",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 41
-        }
-    },
-    "V4P0p6fatV": {
-        "id": "V4P0p6fatV",
-        "title": "Как потратить миллион, которого нет и другие истории еврейского мальчика (часть вторая)",
-        "author": "Гарик Корогодский",
-        "notes": "",
-        "createdAt": "2022-12-10 18:30:40",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 984
         }
     }
 }
