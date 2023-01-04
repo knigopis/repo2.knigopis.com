@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[akyctyurina](users/170/1703219626-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>991</sup> 
 [](users/106/106915386474260202605-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>338</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118248226132797004598-google)<sup>37</sup> 
 [maria144](users/298/29830911-vkontakte)<sup>1</sup> 
 [kelen.amnil](users/555/555255766-yandex)<sup>5</sup> 
-[nozaref](users/360/360373228-vkontakte)<sup>0</sup> 
 
 
-_01.01.2023 19:04:41_
+_04.01.2023 11:20:42_
