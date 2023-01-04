@@ -1,4 +1,10 @@
 {
+    "1703219626-yandex": {
+        "id": "1703219626-yandex",
+        "nickname": "akyctyurina",
+        "booksCount": 0,
+        "updatedAt": "2023-01-04 11:20:41"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "kelen.amnil",
         "booksCount": 5,
         "updatedAt": "2022-12-04 20:41:47"
-    },
-    "360373228-vkontakte": {
-        "id": "360373228-vkontakte",
-        "nickname": "nozaref",
-        "booksCount": 0,
-        "updatedAt": "2022-12-04 14:48:04"
     }
 }
