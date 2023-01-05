@@ -1,4 +1,10 @@
 {
+    "121849865-vkontakte": {
+        "id": "121849865-vkontakte",
+        "nickname": "xserpxx",
+        "booksCount": 0,
+        "updatedAt": "2023-01-05 03:46:43"
+    },
     "104429716389277295634-google": {
         "id": "104429716389277295634-google",
         "nickname": "Доротея ",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 37,
         "updatedAt": "2022-12-06 16:37:40"
-    },
-    "29830911-vkontakte": {
-        "id": "29830911-vkontakte",
-        "nickname": "maria144",
-        "booksCount": 1,
-        "updatedAt": "2022-12-05 20:16:32"
     }
 }
