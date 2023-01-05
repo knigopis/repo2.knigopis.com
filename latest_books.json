@@ -1,4 +1,16 @@
 {
+    "UsWY-zcHf9": {
+        "id": "UsWY-zcHf9",
+        "title": "Борцовский клуб",
+        "author": "Ч. Паланик",
+        "notes": "",
+        "createdAt": "2023-01-05 03:47:33",
+        "user": {
+            "id": "121849865-vkontakte",
+            "nickname": "xserpxx",
+            "booksCount": 1
+        }
+    },
     "fc6uKSDlaM": {
         "id": "fc6uKSDlaM",
         "title": "Владыка Тумана",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 209
-        }
-    },
-    "Ab8baSmJiS": {
-        "id": "Ab8baSmJiS",
-        "title": "Очарование женственности",
-        "author": "Хелен Анделин",
-        "notes": "В целом книга тошнотворная, но пара мыслей в ней нашлась",
-        "createdAt": "2022-12-11 09:42:18",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 41
         }
     }
 }

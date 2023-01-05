@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[xserpxx](users/121/121849865-vkontakte)<sup>0</sup> 
+[xserpxx](users/121/121849865-vkontakte)<sup>1</sup> 
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
 [akyctyurina](users/170/1703219626-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>991</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118248226132797004598-google)<sup>37</sup> 
 
 
-_05.01.2023 03:46:43_
+_05.01.2023 03:47:33_
