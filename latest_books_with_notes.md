@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
 * Искусство быть ~ [](users/106/106915386474260202605-google)<sup>3</sup>
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>338</sup>
 * Отдел ~ [Февралев](users/100/100447278595804083446-google)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Танотанавты ~ [Garka](users/115/115753719718250012620-google)<sup>327</sup>
 * «Дело табак» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup>
 * «Северное сияние» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>80</sup>
-* The Giant Killer ~ [exulted](users/100/100599204551896265722-google)<sup>207</sup>
 
 
-_01.01.2023 09:29:46_
+_06.01.2023 09:27:13_
