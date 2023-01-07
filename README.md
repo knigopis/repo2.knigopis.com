@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
+    > audio
+
 * Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перечитываю второй раз. Надо вчитаться в третий, составить конспект
 
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>338</sup>
-    > не видал  как ломают пленных в немецком концлагере. Там у них целая методология. Сначала надо расплющить человека, превратить в дрожащую овцу, а потом уже гоняй стадо, как заблагорассудится.
 
 * Отдел ~ [Февралев](users/100/100447278595804083446-google)<sup>2</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
 
-* Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[PaJLaDuH](users/336/336022778-yandex)<sup>3</sup> 
 [Milanova](users/105/105902909056784698842-google)<sup>0</sup> 
-[PaJLaDuH](users/336/336022778-yandex)<sup>2</sup> 
 [xserpxx](users/121/121849865-vkontakte)<sup>1</sup> 
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
 [akyctyurina](users/170/1703219626-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105856312850094798390-google)<sup>0</sup> 
 
 
-_07.01.2023 11:52:53_
+_07.01.2023 14:42:08_

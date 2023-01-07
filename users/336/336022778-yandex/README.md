@@ -1,7 +1,12 @@
-# List of books read by PaJLaDuH<sup>2</sup>
+# List of books read by PaJLaDuH<sup>3</sup>
 ---
 
 ## 2023
+
+### Сон смешного человека
+Ф.М. Достоевский
+> [2023-01-07] audio
+
 
 ### Мороз
 Владимир Галактионович Короленко
