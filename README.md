@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Milanova](users/105/105902909056784698842-google)<sup>0</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup> 
 [xserpxx](users/121/121849865-vkontakte)<sup>1</sup> 
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Liana](users/116/116745388223641294260-google)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>441</sup> 
 [](users/105/105856312850094798390-google)<sup>0</sup> 
-[](users/118/118248226132797004598-google)<sup>37</sup> 
 
 
-_06.01.2023 09:27:13_
+_07.01.2023 11:52:53_
