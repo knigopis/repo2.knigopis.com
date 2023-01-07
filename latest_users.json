@@ -1,4 +1,10 @@
 {
+    "95333-vkontakte": {
+        "id": "95333-vkontakte",
+        "nickname": "ern56js",
+        "booksCount": 0,
+        "updatedAt": "2023-01-07 20:01:45"
+    },
     "336022778-yandex": {
         "id": "336022778-yandex",
         "nickname": "PaJLaDuH",
@@ -172,11 +178,5 @@
         "nickname": "Elixir",
         "booksCount": 441,
         "updatedAt": "2022-12-07 18:25:24"
-    },
-    "105856312850094798390-google": {
-        "id": "105856312850094798390-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2022-12-07 02:32:40"
     }
 }
