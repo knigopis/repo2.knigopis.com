@@ -1,4 +1,10 @@
 {
+    "105902909056784698842-google": {
+        "id": "105902909056784698842-google",
+        "nickname": "Milanova",
+        "booksCount": 0,
+        "updatedAt": "2023-01-07 11:52:52"
+    },
     "336022778-yandex": {
         "id": "336022778-yandex",
         "nickname": "PaJLaDuH",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-12-07 02:32:40"
-    },
-    "118248226132797004598-google": {
-        "id": "118248226132797004598-google",
-        "nickname": null,
-        "booksCount": 37,
-        "updatedAt": "2022-12-06 16:37:40"
     }
 }
