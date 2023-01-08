@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
 * Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
 * Искусство быть ~ [](users/106/106915386474260202605-google)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
 * Дневник незначительного лица ~ [Garka](users/115/115753719718250012620-google)<sup>328</sup>
 * Танотанавты ~ [Garka](users/115/115753719718250012620-google)<sup>327</sup>
-* «Дело табак» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>81</sup>
 
 
-_07.01.2023 14:42:08_
+_08.01.2023 19:16:19_

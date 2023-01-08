@@ -1,4 +1,10 @@
 {
+    "336022778-yandex": {
+        "id": "336022778-yandex",
+        "nickname": "PaJLaDuH",
+        "booksCount": 4,
+        "updatedAt": "2023-01-08 19:16:19"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -10,12 +16,6 @@
         "nickname": "ern56js",
         "booksCount": 0,
         "updatedAt": "2023-01-07 20:01:45"
-    },
-    "336022778-yandex": {
-        "id": "336022778-yandex",
-        "nickname": "PaJLaDuH",
-        "booksCount": 3,
-        "updatedAt": "2023-01-07 14:42:08"
     },
     "105902909056784698842-google": {
         "id": "105902909056784698842-google",

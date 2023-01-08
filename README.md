@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
+    > audio
+    > Человек создан для счастья.
+
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
     > audio
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Искусство быть ~ [](users/106/106915386474260202605-google)<sup>3</sup>
-    > Перечитываю второй раз. Надо вчитаться в третий, составить конспект
 
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>338</sup>
 
@@ -26,16 +29,14 @@ Do not use pull requests to make changes here.
 
 * Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
 
-* Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[PaJLaDuH](users/336/336022778-yandex)<sup>4</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>418</sup> 
 [ern56js](users/953/95333-vkontakte)<sup>0</sup> 
-[PaJLaDuH](users/336/336022778-yandex)<sup>3</sup> 
 [Milanova](users/105/105902909056784698842-google)<sup>0</sup> 
 [xserpxx](users/121/121849865-vkontakte)<sup>1</sup> 
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Liana](users/116/116745388223641294260-google)<sup>0</sup> 
 
 
-_08.01.2023 16:05:40_
+_08.01.2023 19:16:19_
