@@ -1,4 +1,10 @@
 {
+    "13413591548892934957-mailru": {
+        "id": "13413591548892934957-mailru",
+        "nickname": "Shellena",
+        "booksCount": 416,
+        "updatedAt": "2023-01-08 16:04:42"
+    },
     "95333-vkontakte": {
         "id": "95333-vkontakte",
         "nickname": "ern56js",
@@ -172,11 +178,5 @@
         "nickname": "Liana",
         "booksCount": 0,
         "updatedAt": "2022-12-09 09:08:21"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": "Elixir",
-        "booksCount": 441,
-        "updatedAt": "2022-12-07 18:25:24"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "byEYfyYRmo": {
+        "id": "byEYfyYRmo",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2023-01-08 16:04:42",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 416
+        }
+    },
     "MF03j7WBaW": {
         "id": "MF03j7WBaW",
         "title": "Сон смешного человека",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 276
-        }
-    },
-    "B8djVgD5V4": {
-        "id": "B8djVgD5V4",
-        "title": "Красная книга Гарика",
-        "author": "Гарик Корогодский",
-        "notes": "",
-        "createdAt": "2022-12-12 15:48:51",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 985
         }
     }
 }
