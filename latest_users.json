@@ -1,4 +1,10 @@
 {
+    "104557501101886497812-google": {
+        "id": "104557501101886497812-google",
+        "nickname": "Harvey ",
+        "booksCount": 0,
+        "updatedAt": "2023-01-09 00:44:02"
+    },
     "336022778-yandex": {
         "id": "336022778-yandex",
         "nickname": "PaJLaDuH",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 332,
         "updatedAt": "2022-12-09 16:31:16"
-    },
-    "116745388223641294260-google": {
-        "id": "116745388223641294260-google",
-        "nickname": "Liana",
-        "booksCount": 0,
-        "updatedAt": "2022-12-09 09:08:21"
     }
 }
