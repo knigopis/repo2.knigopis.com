@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
+    > audio
+
 * Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
     > audio
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Человек создан для счастья.
 
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
-    > audio
 
 * Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
 
-* Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[PaJLaDuH](users/336/336022778-yandex)<sup>5</sup> 
+[PaJLaDuH](users/336/336022778-yandex)<sup>6</sup> 
 [Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>418</sup> 
 [ern56js](users/953/95333-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>332</sup> 
 
 
-_09.01.2023 18:38:42_
+_09.01.2023 19:19:35_

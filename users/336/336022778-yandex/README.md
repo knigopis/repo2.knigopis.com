@@ -1,7 +1,12 @@
-# List of books read by PaJLaDuH<sup>5</sup>
+# List of books read by PaJLaDuH<sup>6</sup>
 ---
 
 ## 2023
+
+### Верочка
+Антон Павлович Чехов
+> [2023-01-09] audio
+
 
 ### Путешествие с нигилистом
 Николай Лесков

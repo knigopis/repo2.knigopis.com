@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
 * Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Плоский мир. Опочтарение. ~ [Garka](users/115/115753719718250012620-google)<sup>331</sup>
 * Нуэль Эммонс ~ [Garka](users/115/115753719718250012620-google)<sup>330</sup>
 * Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
-* Дневник незначительного лица ~ [Garka](users/115/115753719718250012620-google)<sup>328</sup>
 
 
-_09.01.2023 18:38:42_
+_09.01.2023 19:19:35_
