@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
+    > audio
+
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
     > audio
     > Человек создан для счастья.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
-    > audio
 
 * Искусство быть ~ [](users/106/106915386474260202605-google)<sup>3</sup>
 
@@ -27,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
 
-* Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[PaJLaDuH](users/336/336022778-yandex)<sup>5</sup> 
 [Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
-[PaJLaDuH](users/336/336022778-yandex)<sup>4</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>418</sup> 
 [ern56js](users/953/95333-vkontakte)<sup>0</sup> 
 [Milanova](users/105/105902909056784698842-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>332</sup> 
 
 
-_09.01.2023 00:44:03_
+_09.01.2023 18:38:42_

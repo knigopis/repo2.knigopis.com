@@ -1,4 +1,16 @@
 {
+    "g1dJQargob": {
+        "id": "g1dJQargob",
+        "title": "Путешествие с нигилистом",
+        "author": "Николай Лесков",
+        "notes": "audio",
+        "createdAt": "2023-01-09 18:38:42",
+        "user": {
+            "id": "336022778-yandex",
+            "nickname": "PaJLaDuH",
+            "booksCount": 5
+        }
+    },
     "KmA5z8hs_X": {
         "id": "KmA5z8hs_X",
         "title": "Парадокс",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 328
-        }
-    },
-    "IU7MN1VcLc": {
-        "id": "IU7MN1VcLc",
-        "title": "Танотанавты",
-        "author": "Вербер Бернард",
-        "notes": "Замысел очень интересный, реализация хуже - моментами затянуто, моментами как-будто не додуман момент",
-        "createdAt": "2022-11-08 18:17:50",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 327
         }
     }
 }

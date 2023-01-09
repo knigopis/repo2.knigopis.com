@@ -1,7 +1,12 @@
-# List of books read by PaJLaDuH<sup>4</sup>
+# List of books read by PaJLaDuH<sup>5</sup>
 ---
 
 ## 2023
+
+### Путешествие с нигилистом
+Николай Лесков
+> [2023-01-09] audio
+
 
 ### Парадокс
 Владимир Галактионович Короленко
