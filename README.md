@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106293011050775525931-google)<sup>0</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup> 
 [Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>418</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106957654900199939247-google)<sup>0</sup> 
 [](users/102/102335809246232220069-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>332</sup> 
 
 
-_09.01.2023 19:19:35_
+_12.01.2023 09:39:34_
