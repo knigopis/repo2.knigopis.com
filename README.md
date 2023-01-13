@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
+    > идея 10 исполнение 0
+
 * Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
     > audio
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
-    > audio
-    > Человек создан для счастья.
 
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Янтарный телескоп» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup>
 
-* «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101368518035734751027-google)<sup>5</sup> 
 [](users/109/109829447857621498180-google)<sup>0</sup> 
 [](users/106/106293011050775525931-google)<sup>0</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
 [lersyy](users/534/534058281-vkontakte)<sup>0</sup> 
 [](users/106/106957654900199939247-google)<sup>0</sup> 
-[](users/102/102335809246232220069-google)<sup>0</sup> 
 
 
-_12.01.2023 12:11:24_
+_13.01.2023 12:26:44_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
 * Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
 * Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
@@ -30,7 +31,6 @@
 * «Цвет Волшебства» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>82</sup>
 * Плоский мир. Опочтарение. ~ [Garka](users/115/115753719718250012620-google)<sup>331</sup>
 * Нуэль Эммонс ~ [Garka](users/115/115753719718250012620-google)<sup>330</sup>
-* Цветы на чердаке ~ [Garka](users/115/115753719718250012620-google)<sup>329</sup>
 
 
-_09.01.2023 19:19:35_
+_13.01.2023 12:26:44_
