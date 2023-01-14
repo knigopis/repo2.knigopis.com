@@ -1,7 +1,12 @@
-# List of books read by PaJLaDuH<sup>6</sup>
+# List of books read by PaJLaDuH<sup>7</sup>
 ---
 
 ## 2023
+
+### Красный цветок
+Всеволод Михайлович Гаршин
+> [2023-01-14] audio
+
 
 ### Верочка
 Антон Павлович Чехов

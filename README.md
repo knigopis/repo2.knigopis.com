@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
+    > audio
+
 * санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
     > идея 10 исполнение 0
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
-    > audio
 
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Отдел ~ [Февралев](users/100/100447278595804083446-google)<sup>2</sup>
 
-* «Янтарный телескоп» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[PaJLaDuH](users/336/336022778-yandex)<sup>7</sup> 
 [](users/116/116049106351328726122-google)<sup>2</sup> 
 [langaff](users/113/113568264092317766513-google)<sup>1</sup> 
 [](users/101/101368518035734751027-google)<sup>5</sup> 
 [](users/109/109829447857621498180-google)<sup>0</sup> 
 [](users/106/106293011050775525931-google)<sup>0</sup> 
-[PaJLaDuH](users/336/336022778-yandex)<sup>6</sup> 
 [Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>418</sup> 
 [ern56js](users/953/95333-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
 
 
-_14.01.2023 10:25:29_
+_14.01.2023 19:03:02_
