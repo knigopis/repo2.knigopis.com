@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/116/116049106351328726122-google)<sup>0</sup> 
+[](users/116/116049106351328726122-google)<sup>1</sup> 
 [langaff](users/113/113568264092317766513-google)<sup>1</sup> 
 [](users/101/101368518035734751027-google)<sup>5</sup> 
 [](users/109/109829447857621498180-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
 
 
-_14.01.2023 10:24:17_
+_14.01.2023 10:25:08_
