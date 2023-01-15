@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>83</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>84</sup>
 ---
 
 ## 2023
+
+### Проклятие страсти для этерна
+Лилия Бланш
+> [2023-01-15] 
+
 
 ### Магитерра. Проклятие Солнца
 Лилия Бланш

@@ -1,4 +1,16 @@
 {
+    "F5b8-62zJb": {
+        "id": "F5b8-62zJb",
+        "title": "Проклятие страсти для этерна",
+        "author": "Лилия Бланш",
+        "notes": "",
+        "createdAt": "2023-01-15 15:48:38",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 84
+        }
+    },
     "4rOdVqTpsc": {
         "id": "4rOdVqTpsc",
         "title": "Магитерра. Проклятие Солнца",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 96
-        }
-    },
-    "IBWX0TP92A": {
-        "id": "IBWX0TP92A",
-        "title": "Земля волшебника",
-        "author": "Лев Гроссман",
-        "notes": "",
-        "createdAt": "2022-12-24 14:36:28",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 988
         }
     }
 }
