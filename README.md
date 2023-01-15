@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108404793123226338106-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>161</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup> 
 [](users/116/116049106351328726122-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup> 
 [](users/557/55713637-yandex)<sup>0</sup> 
 [pria](users/128/128917939-vkontakte)<sup>74</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup> 
 
 
-_14.01.2023 19:57:32_
+_15.01.2023 11:33:19_
