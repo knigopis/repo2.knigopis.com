@@ -1,5 +1,13 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>81</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>82</sup>
 ---
+
+## 2023
+
+### Магитерра. Императорская академия
+Лилия Бланш
+> [2023-01-12] 
+
+
 
 ## 2022
 
