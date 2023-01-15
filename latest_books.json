@@ -1,4 +1,16 @@
 {
+    "4rOdVqTpsc": {
+        "id": "4rOdVqTpsc",
+        "title": "Магитерра. Проклятие Солнца",
+        "author": "Лилия Бланш",
+        "notes": "",
+        "createdAt": "2023-01-15 12:09:38",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 83
+        }
+    },
     "zsMkY_NoUh": {
         "id": "zsMkY_NoUh",
         "title": "Магитерра. Императорская академия",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 988
-        }
-    },
-    "R_HbrIXCG9": {
-        "id": "R_HbrIXCG9",
-        "title": "Квантовая магия",
-        "author": "Доронин С.И.",
-        "notes": "",
-        "createdAt": "2022-12-22 19:18:37",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 210
         }
     }
 }

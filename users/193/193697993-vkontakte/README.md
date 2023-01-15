@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>82</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>83</sup>
 ---
 
 ## 2023
+
+### Магитерра. Проклятие Солнца
+Лилия Бланш
+> [2023-01-14] 
+
 
 ### Магитерра. Императорская академия
 Лилия Бланш
