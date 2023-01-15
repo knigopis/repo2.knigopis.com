@@ -1,4 +1,16 @@
 {
+    "tDH27q6iMO": {
+        "id": "tDH27q6iMO",
+        "title": "Женская магия или Вызов для попаданки",
+        "author": "Антонина Циль",
+        "notes": "",
+        "createdAt": "2023-01-15 21:09:43",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 85
+        }
+    },
     "F5b8-62zJb": {
         "id": "F5b8-62zJb",
         "title": "Проклятие страсти для этерна",
@@ -345,18 +357,6 @@
             "id": "115069512668490775619-google",
             "nickname": "Andor",
             "booksCount": 1
-        }
-    },
-    "_xGdIQPS37": {
-        "id": "_xGdIQPS37",
-        "title": "Письма Старка Монро",
-        "author": "Конан Дойл Артур",
-        "notes": "",
-        "createdAt": "2022-12-24 22:02:32",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 96
         }
     }
 }

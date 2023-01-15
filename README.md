@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[butercupa](users/193/193697993-vkontakte)<sup>84</sup> 
+[butercupa](users/193/193697993-vkontakte)<sup>85</sup> 
 [](users/108/108404793123226338106-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>161</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/557/55713637-yandex)<sup>0</sup> 
 
 
-_15.01.2023 15:48:38_
+_15.01.2023 21:09:43_

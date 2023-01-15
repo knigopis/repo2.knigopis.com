@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>84</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>85</sup>
 ---
 
 ## 2023
+
+### Женская магия или Вызов для попаданки
+Антонина Циль
+> [2023-01-16] 
+
 
 ### Проклятие страсти для этерна
 Лилия Бланш
