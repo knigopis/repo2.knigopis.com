@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
+    > ASIN : ‎ B004M8S6FC
+
 * Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > идея 10 исполнение 0
 
 * Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
-    > audio
 
 * Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>338</sup>
 
-* Отдел ~ [Февралев](users/100/100447278595804083446-google)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>211</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>85</sup> 
 [](users/108/108404793123226338106-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>161</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>96</sup> 
 [](users/483/48364543-yandex)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>210</sup> 
 [m1962feigin@gmail.com](users/106/106206590744491830786-google)<sup>5</sup> 
 [Февралев](users/100/100447278595804083446-google)<sup>1</sup> 
 [](users/109/109183546699066617775-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/557/55713637-yandex)<sup>0</sup> 
 
 
-_15.01.2023 21:09:43_
+_16.01.2023 07:51:57_

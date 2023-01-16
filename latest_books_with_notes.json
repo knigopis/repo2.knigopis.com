@@ -1,4 +1,16 @@
 {
+    "ksCJVC7kxF": {
+        "id": "ksCJVC7kxF",
+        "title": "Old Man's War",
+        "author": "John Scalzi",
+        "notes": "ASIN : ‎ B004M8S6FC",
+        "createdAt": "2023-01-16 07:51:57",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 211
+        }
+    },
     "sBkQMK4bml": {
         "id": "sBkQMK4bml",
         "title": "Красный цветок",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 82
-        }
-    },
-    "Mox6yO4DDN": {
-        "id": "Mox6yO4DDN",
-        "title": "Плоский мир. Опочтарение.",
-        "author": "Пратчетт Терри",
-        "notes": "Пратчетт себе не изменяет, очередная книга Плоского мира супер. Витинари мой кумир",
-        "createdAt": "2022-11-08 18:37:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 331
         }
     }
 }

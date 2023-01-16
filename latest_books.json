@@ -1,4 +1,16 @@
 {
+    "ksCJVC7kxF": {
+        "id": "ksCJVC7kxF",
+        "title": "Old Man's War",
+        "author": "John Scalzi",
+        "notes": "ASIN : ‎ B004M8S6FC",
+        "createdAt": "2023-01-16 07:51:57",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 211
+        }
+    },
     "tDH27q6iMO": {
         "id": "tDH27q6iMO",
         "title": "Женская магия или Вызов для попаданки",
@@ -345,18 +357,6 @@
             "id": "115069512668490775619-google",
             "nickname": "Andor",
             "booksCount": 2
-        }
-    },
-    "cCyc6GfGNh": {
-        "id": "cCyc6GfGNh",
-        "title": "451 по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2022-12-26 06:22:14",
-        "user": {
-            "id": "115069512668490775619-google",
-            "nickname": "Andor",
-            "booksCount": 1
         }
     }
 }
