@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lala](users/761/76187635-vkontakte)<sup>341</sup> 
+[Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>211</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>85</sup> 
 [](users/108/108404793123226338106-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>87</sup> 
 
 
-_17.01.2023 10:12:57_
+_17.01.2023 10:13:26_
