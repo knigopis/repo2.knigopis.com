@@ -1,4 +1,16 @@
 {
+    "F-Z9boHDAC": {
+        "id": "F-Z9boHDAC",
+        "title": "Наследие",
+        "author": "Шанин Игорь",
+        "notes": "",
+        "createdAt": "2023-01-18 14:05:40",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 279
+        }
+    },
     "lMceBsGkyf": {
         "id": "lMceBsGkyf",
         "title": "Узы",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 990
-        }
-    },
-    "1zl1oBVxZU": {
-        "id": "1zl1oBVxZU",
-        "title": "Думай медленно… Решай быстро",
-        "author": "Даниэль Канеман",
-        "notes": "",
-        "createdAt": "2022-12-30 16:53:30",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 989
         }
     }
 }
