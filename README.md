@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>277</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>86</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>340</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/483/48364543-yandex)<sup>0</sup> 
 [m1962feigin@gmail.com](users/106/106206590744491830786-google)<sup>5</sup> 
 [Февралев](users/100/100447278595804083446-google)<sup>1</sup> 
-[](users/109/109183546699066617775-google)<sup>0</sup> 
 
 
-_18.01.2023 12:47:38_
+_18.01.2023 14:02:05_

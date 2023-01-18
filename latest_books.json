@@ -1,4 +1,16 @@
 {
+    "9FgboPn3cz": {
+        "id": "9FgboPn3cz",
+        "title": "Суженый",
+        "author": "Шанин Игорь",
+        "notes": "",
+        "createdAt": "2023-01-18 14:02:05",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 277
+        }
+    },
     "-Qz3E5_f-U": {
         "id": "-Qz3E5_f-U",
         "title": "Магия уборки",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": "Smekalistii",
             "booksCount": 45
-        }
-    },
-    "r28lW8IfId": {
-        "id": "r28lW8IfId",
-        "title": "Герой нашего времена",
-        "author": "Михаил Юрьевич Лермонтов",
-        "notes": "",
-        "createdAt": "2022-12-28 06:01:50",
-        "user": {
-            "id": "336022778-yandex",
-            "nickname": "PaJLaDuH",
-            "booksCount": 1
         }
     }
 }
