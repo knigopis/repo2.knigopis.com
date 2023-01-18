@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>86</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>211</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>85</sup> 
 [](users/108/108404793123226338106-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>161</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109183546699066617775-google)<sup>0</sup> 
 
 
-_18.01.2023 09:57:14_
+_18.01.2023 12:47:38_

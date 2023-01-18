@@ -1,4 +1,16 @@
 {
+    "-Qz3E5_f-U": {
+        "id": "-Qz3E5_f-U",
+        "title": "Магия уборки",
+        "author": "Юлия Журавлева",
+        "notes": "",
+        "createdAt": "2023-01-18 12:47:38",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 86
+        }
+    },
     "A4vQ5OrWoh": {
         "id": "A4vQ5OrWoh",
         "title": "Медленной шлюпкой в Китай",
@@ -345,18 +357,6 @@
             "id": "336022778-yandex",
             "nickname": "PaJLaDuH",
             "booksCount": 1
-        }
-    },
-    "REfz6K_Sw_": {
-        "id": "REfz6K_Sw_",
-        "title": "Кафка на пляже",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2022-12-27 11:34:38",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 123
         }
     }
 }

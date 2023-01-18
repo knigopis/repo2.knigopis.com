@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>85</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>86</sup>
 ---
 
 ## 2023
+
+### Магия уборки
+Юлия Журавлева
+> [2023-01-18] 
+
 
 ### Женская магия или Вызов для попаданки
 Антонина Циль
