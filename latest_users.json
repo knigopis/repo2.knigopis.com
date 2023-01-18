@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 85,
+        "updatedAt": "2023-01-18 09:57:14"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Lala",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-12-18 14:29:59"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 87,
-        "updatedAt": "2022-12-17 16:30:27"
     }
 }

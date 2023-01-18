@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>84</sup>
+# List of books read by inna.besprozvannykh<sup>85</sup>
 ---
 
 ## 2022
@@ -26,6 +26,11 @@
 ### Твой второй мозг-кишечник
 Божена кропка
 > [2022-01] 
+
+
+### Медленной шлюпкой в Китай
+Харуки Мураками
+> 7
 
 
 
