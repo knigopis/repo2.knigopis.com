@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кухарка тайного советника ~ [butercupa](users/193/193697993-vkontakte)<sup>87</sup>
+    > Мне сегодня исполнилось сорок, и я неудачница по жизни. Нет, это слишком сильное слово. Я просто никто.
+    > Незнакомец из соцсети предлагает мне изменить жизнь. А почему, собственно, нет? Терять-то мне нечего. Сейчас кааак забросит меня в тело молодой и талантливой магички... Нет? Я и в новом мире останусь сорокалетней неудачницей без образования?
+    > Ничего не поделать, придется выживать. Уж кухаркой-то работать я точно смогу.
+
 * Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
     > ASIN : ‎ B004M8S6FC
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
-    > идея 10 исполнение 0
 
 * Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
 
@@ -26,15 +30,13 @@ Do not use pull requests to make changes here.
 
 * Искусство быть ~ [](users/106/106915386474260202605-google)<sup>3</sup>
 
-* Семейный альбом 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>338</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>87</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>279</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>86</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>211</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Февралев](users/100/100447278595804083446-google)<sup>1</sup> 
 
 
-_18.01.2023 14:05:40_
+_18.01.2023 18:26:42_
