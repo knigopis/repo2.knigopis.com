@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 88,
+        "updatedAt": "2023-01-20 14:30:00"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": "m1962feigin@gmail.com",
         "booksCount": 5,
         "updatedAt": "2022-12-21 05:32:46"
-    },
-    "100447278595804083446-google": {
-        "id": "100447278595804083446-google",
-        "nickname": "Февралев",
-        "booksCount": 1,
-        "updatedAt": "2022-12-20 07:43:34"
     }
 }

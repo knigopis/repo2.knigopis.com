@@ -1,4 +1,16 @@
 {
+    "gPv-Qb_N_O": {
+        "id": "gPv-Qb_N_O",
+        "title": "«Убить пересмешника»",
+        "author": "Харпер Ли",
+        "notes": "audio",
+        "createdAt": "2023-01-20 14:30:00",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 88
+        }
+    },
     "r1a4yo7chm": {
         "id": "r1a4yo7chm",
         "title": "Гувернантка поневоле, или Зелье Судьбы",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 991
-        }
-    },
-    "UFWM9dHNh-": {
-        "id": "UFWM9dHNh-",
-        "title": "Искусство быть",
-        "author": "Эрих Фромм",
-        "notes": "Перечитываю второй раз. Надо вчитаться в третий, составить конспект",
-        "createdAt": "2023-01-01 09:29:46",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }

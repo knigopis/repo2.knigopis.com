@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Убить пересмешника» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>88</sup>
+    > audio
+
 * Гувернантка поневоле, или Зелье Судьбы ~ [butercupa](users/193/193697993-vkontakte)<sup>88</sup>
     > Анна попала в другой мир, потому что завистливые коллеги подлили ей странное зелье, а несносные братья одного графа искали ту, что снимет с него проклятие. Теперь она гувернантка, но никто этому не рад – граф-наниматель злится, его дети творят гадости, невеста строит козни, а факт попаданства от Анны вообще утаили.
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Ничего не поделать, придется выживать. Уж кухаркой-то работать я точно смогу.
 
 * Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
-    > ASIN : ‎ B004M8S6FC
 
 * Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
 
-* Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>88</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>88</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>279</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>96</sup> 
 [](users/483/48364543-yandex)<sup>0</sup> 
 [m1962feigin@gmail.com](users/106/106206590744491830786-google)<sup>5</sup> 
-[Февралев](users/100/100447278595804083446-google)<sup>1</sup> 
 
 
-_19.01.2023 17:21:36_
+_20.01.2023 14:30:00_
