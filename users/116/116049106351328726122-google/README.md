@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/116049106351328726122/)<sup>2</sup>
+# List of books read by [](https://plus.google.com/u/0/116049106351328726122/)<sup>3</sup>
 ---
 
 ## 2023
+
+### Фейк
+Тору Кийосаки
+> [2023-01-22] Финансы
+
 
 ### Го как профи
 > Айти
