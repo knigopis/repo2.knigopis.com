@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>88</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>89</sup>
 ---
 
 ## 2023
+
+### Няня для наследницы, или Ненавижу драконов!
+Алена Ягинская
+> [2023-01-24] 
+
 
 ### Гувернантка поневоле, или Зелье Судьбы
 Алена Ягинская

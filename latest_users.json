@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 89,
+        "updatedAt": "2023-01-24 13:04:06"
+    },
     "116049106351328726122-google": {
         "id": "116049106351328726122-google",
         "nickname": null,
@@ -16,12 +22,6 @@
         "nickname": "Альберт Сысоев",
         "booksCount": 88,
         "updatedAt": "2023-01-20 14:30:00"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 88,
-        "updatedAt": "2023-01-19 17:21:36"
     },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
