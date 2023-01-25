@@ -1,4 +1,16 @@
 {
+    "uUmUbGhUVN": {
+        "id": "uUmUbGhUVN",
+        "title": "Делай деньги",
+        "author": "Пратчетт, Терри",
+        "notes": "Мойст глава банка",
+        "createdAt": "2023-01-25 16:12:23",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 336
+        }
+    },
     "pyswQiuZqS": {
         "id": "pyswQiuZqS",
         "title": "История Франции. От Карла Великого до Жанны д’Арк",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 155
-        }
-    },
-    "ox5j9rUukO": {
-        "id": "ox5j9rUukO",
-        "title": "Мадам Бовари",
-        "author": "Флобер Гюстав",
-        "notes": "Опять же, необузданная баба.",
-        "createdAt": "2022-11-22 02:24:00",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 92
         }
     }
 }

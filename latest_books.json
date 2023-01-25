@@ -1,4 +1,16 @@
 {
+    "uUmUbGhUVN": {
+        "id": "uUmUbGhUVN",
+        "title": "Делай деньги",
+        "author": "Пратчетт, Терри",
+        "notes": "Мойст глава банка",
+        "createdAt": "2023-01-25 16:12:23",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 336
+        }
+    },
     "pyswQiuZqS": {
         "id": "pyswQiuZqS",
         "title": "История Франции. От Карла Великого до Жанны д’Арк",
@@ -345,18 +357,6 @@
             "id": "336022778-yandex",
             "nickname": "PaJLaDuH",
             "booksCount": 4
-        }
-    },
-    "RpRuxHgH0M": {
-        "id": "RpRuxHgH0M",
-        "title": "Раки-отшельники",
-        "author": "Анна Рагде",
-        "notes": "",
-        "createdAt": "2023-01-08 16:05:40",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 418
         }
     }
 }
