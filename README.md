@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>333</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>89</sup> 
 [](users/116/116049106351328726122-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>339</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>96</sup> 
 [](users/483/48364543-yandex)<sup>0</sup> 
-[m1962feigin@gmail.com](users/106/106206590744491830786-google)<sup>5</sup> 
 
 
-_24.01.2023 13:04:06_
+_25.01.2023 16:09:03_

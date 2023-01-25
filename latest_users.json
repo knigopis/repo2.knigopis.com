@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 333,
+        "updatedAt": "2023-01-25 16:09:03"
+    },
     "193697993-vkontakte": {
         "id": "193697993-vkontakte",
         "nickname": "butercupa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2022-12-24 18:42:53"
-    },
-    "106206590744491830786-google": {
-        "id": "106206590744491830786-google",
-        "nickname": "m1962feigin@gmail.com",
-        "booksCount": 5,
-        "updatedAt": "2022-12-21 05:32:46"
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>332</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>333</sup>
 ---
 
 ## 2022
+
+### Шмяк!
+Пратчетт, Терри
+> [2022-12-22] 
+
 
 ### Мир от Гарпа
 Ирвин Джон
