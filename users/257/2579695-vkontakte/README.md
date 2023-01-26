@@ -1,5 +1,13 @@
-# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>41</sup>
+# List of books read by [albina_untiring](http://vk.com/id2579695)<sup>42</sup>
 ---
+
+## 2023
+
+### Женщина, у которой есть план
+Мей Маск
+> [2023-01-26] Занимательное чтиво на тему, как можно быть женщиной с планом и тряпкой одновременно
+
+
 
 ## 2022
 

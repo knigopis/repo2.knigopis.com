@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
+    > Занимательное чтиво на тему, как можно быть женщиной с планом и тряпкой одновременно
+
 * Делай деньги ~ [Garka](users/115/115753719718250012620-google)<sup>336</sup>
     > Мойст глава банка
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Как-то очень не интересно
 
 * Фейк ~ [](users/116/116049106351328726122-google)<sup>3</sup>
-    > Финансы
 
 * Мама по прозвищу Вжик ~ [Chiffi](users/105/105831994080785626680-google)<sup>339</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
 
-* санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>336</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>89</sup> 
 [](users/116/116049106351328726122-google)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>123</sup> 
 [Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>96</sup> 
-[](users/483/48364543-yandex)<sup>0</sup> 
 
 
-_25.01.2023 16:12:23_
+_26.01.2023 09:12:14_

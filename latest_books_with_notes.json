@@ -1,4 +1,16 @@
 {
+    "xLI_JOq46q": {
+        "id": "xLI_JOq46q",
+        "title": "Женщина, у которой есть план",
+        "author": "Мей Маск",
+        "notes": "Занимательное чтиво на тему, как можно быть женщиной с планом и тряпкой одновременно",
+        "createdAt": "2023-01-26 09:12:14",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 42
+        }
+    },
     "uUmUbGhUVN": {
         "id": "uUmUbGhUVN",
         "title": "Делай деньги",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 84
-        }
-    },
-    "yPJwGFyKDq": {
-        "id": "yPJwGFyKDq",
-        "title": "Кандид, или Оптимизм",
-        "author": "Вольтер",
-        "notes": "Отличная философская книга, написанная в ироничном стиле.",
-        "createdAt": "2022-11-23 05:28:17",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 155
         }
     }
 }
