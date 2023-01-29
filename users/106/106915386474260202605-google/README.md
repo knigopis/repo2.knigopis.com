@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/106915386474260202605/)<sup>3</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>4</sup>
 ---
 
 ## 2023
+
+### Четвертая промышленная революция
+Клаус Швабб
+> [2023-01-29] 
+
 
 ### Искусство быть
 Эрих Фромм

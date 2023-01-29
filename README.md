@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>4</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>336</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>89</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
 [akyctyurina](users/170/1703219626-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>991</sup> 
-[](users/106/106915386474260202605-google)<sup>3</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>123</sup> 
 [Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>96</sup> 
 
 
-_26.01.2023 09:12:14_
+_29.01.2023 18:00:12_
