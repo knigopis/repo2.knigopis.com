@@ -1,4 +1,10 @@
 {
+    "10887510343399463420-mailru": {
+        "id": "10887510343399463420-mailru",
+        "nickname": "patrick rodriges",
+        "booksCount": 0,
+        "updatedAt": "2023-01-30 23:51:26"
+    },
     "106915386474260202605-google": {
         "id": "106915386474260202605-google",
         "nickname": "leo",
@@ -172,11 +178,5 @@
         "nickname": "Andor",
         "booksCount": 2,
         "updatedAt": "2022-12-26 06:22:47"
-    },
-    "300273923-vkontakte": {
-        "id": "300273923-vkontakte",
-        "nickname": "Вит",
-        "booksCount": 96,
-        "updatedAt": "2022-12-24 22:02:32"
     }
 }
