@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[patrick rodriges](users/108/10887510343399463420-mailru)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>4</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>336</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>123</sup> 
 [Andor](users/115/115069512668490775619-google)<sup>2</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>96</sup> 
 
 
-_29.01.2023 18:00:12_
+_30.01.2023 23:51:27_
