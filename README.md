@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>341</sup> 
 [patrick rodriges](users/108/10887510343399463420-mailru)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>4</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>88</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>279</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>340</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>211</sup> 
 [](users/108/108404793123226338106-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>161</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 
 
-_30.01.2023 23:51:27_
+_31.01.2023 17:58:35_

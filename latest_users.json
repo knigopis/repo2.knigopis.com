@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 341,
+        "updatedAt": "2023-01-31 17:58:35"
+    },
     "10887510343399463420-mailru": {
         "id": "10887510343399463420-mailru",
         "nickname": "patrick rodriges",
@@ -58,12 +64,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 85,
         "updatedAt": "2023-01-18 09:57:14"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 340,
-        "updatedAt": "2023-01-17 10:13:25"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
