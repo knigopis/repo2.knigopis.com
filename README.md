@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106350967836629952229-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>341</sup> 
 [patrick rodriges](users/108/10887510343399463420-mailru)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>991</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>123</sup> 
-[Andor](users/115/115069512668490775619-google)<sup>2</sup> 
 
 
-_31.01.2023 17:58:35_
+_31.01.2023 18:13:23_
