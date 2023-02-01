@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>161</sup>
+# List of books read by 4apa<sup>162</sup>
 ---
 
 ## 2023
+
+### Москва 2042
+В. Войнович
+> [2023-02-01] 
+
 
 ### Зулейха открывает глаза
 Г. Яхина
