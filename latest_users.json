@@ -1,4 +1,10 @@
 {
+    "117999800530044134590-google": {
+        "id": "117999800530044134590-google",
+        "nickname": "Inna Melenevska",
+        "booksCount": 0,
+        "updatedAt": "2023-02-01 12:11:46"
+    },
     "106350967836629952229-google": {
         "id": "106350967836629952229-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Smekalistii",
         "booksCount": 45,
         "updatedAt": "2022-12-28 18:32:58"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 123,
-        "updatedAt": "2022-12-27 11:34:38"
     }
 }
