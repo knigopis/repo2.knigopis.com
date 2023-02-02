@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/621/621837012-vkontakte)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>5</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>162</sup> 
 [Inna Melenevska](users/117/117999800530044134590-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
 [akyctyurina](users/170/1703219626-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>991</sup> 
-[Smekalistii](users/864/86487125-vkontakte)<sup>45</sup> 
 
 
-_02.02.2023 08:15:00_
+_02.02.2023 15:42:51_
