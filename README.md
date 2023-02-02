@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Феня Котовна](users/109/109746193906459706720-google)<sup>170</sup> 
+[Феня Котовна](users/109/109746193906459706720-google)<sup>169</sup> 
 [](users/621/621837012-vkontakte)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>5</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>162</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [akyctyurina](users/170/1703219626-yandex)<sup>0</sup> 
 
 
-_02.02.2023 16:57:59_
+_02.02.2023 17:03:07_
