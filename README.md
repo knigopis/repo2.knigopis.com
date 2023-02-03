@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
+    > Не дочитал
+
 * Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
     > Занимательное чтиво на тему, как можно быть женщиной с планом и тряпкой одновременно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мойст глава банка
 
 * История Франции. От Карла Великого до Жанны д’Арк ~ [Garka](users/115/115753719718250012620-google)<sup>335</sup>
-    > Как-то очень не интересно
 
 * Фейк ~ [](users/116/116049106351328726122-google)<sup>3</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
 
-* Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>97</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>98</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup> 
 [](users/621/621837012-vkontakte)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
 
 
-_03.02.2023 08:45:00_
+_03.02.2023 08:50:36_

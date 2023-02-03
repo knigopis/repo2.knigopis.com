@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
 * Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
 * Делай деньги ~ [Garka](users/115/115753719718250012620-google)<sup>336</sup>
 * История Франции. От Карла Великого до Жанны д’Арк ~ [Garka](users/115/115753719718250012620-google)<sup>335</sup>
@@ -30,7 +31,6 @@
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
 * 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
 * Элтон Бен ~ [pria](users/128/128917939-vkontakte)<sup>71</sup>
-* «Безумная звезда» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>84</sup>
 
 
-_26.01.2023 09:12:14_
+_03.02.2023 08:50:36_

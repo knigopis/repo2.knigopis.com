@@ -1,4 +1,16 @@
 {
+    "za8C9WgPMF": {
+        "id": "za8C9WgPMF",
+        "title": "Чагин",
+        "author": "Водолазкин Евгений",
+        "notes": "Не дочитал",
+        "createdAt": "2023-02-03 08:50:36",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 98
+        }
+    },
     "xLI_JOq46q": {
         "id": "xLI_JOq46q",
         "title": "Женщина, у которой есть план",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 71
-        }
-    },
-    "mm6pb7PEEF": {
-        "id": "mm6pb7PEEF",
-        "title": "«Безумная звезда»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2022-11-24 08:57:44",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 84
         }
     }
 }
