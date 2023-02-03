@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трансгуманизм ~ [Вит](users/300/300273923-vkontakte)<sup>101</sup>
+    > Бросил. Бред. Ну не заходит мне этот бессюжетный набор штампов.
+
 * Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
     > Не дочитал
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Занимательное чтиво на тему, как можно быть женщиной с планом и тряпкой одновременно
 
 * Делай деньги ~ [Garka](users/115/115753719718250012620-google)<sup>336</sup>
-    > Мойст глава банка
 
 * История Франции. От Карла Великого до Жанны д’Арк ~ [Garka](users/115/115753719718250012620-google)<sup>335</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кухарка тайного советника ~ [butercupa](users/193/193697993-vkontakte)<sup>87</sup>
 
-* Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>100</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>101</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup> 
 [](users/621/621837012-vkontakte)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Доротея ](users/104/104429716389277295634-google)<sup>0</sup> 
 
 
-_03.02.2023 08:52:23_
+_03.02.2023 08:54:08_
