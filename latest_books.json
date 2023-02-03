@@ -1,4 +1,16 @@
 {
+    "Kv2h6Iw5_H": {
+        "id": "Kv2h6Iw5_H",
+        "title": "Карусель",
+        "author": "Моэм Сомерсет",
+        "notes": "",
+        "createdAt": "2023-02-03 08:45:00",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 97
+        }
+    },
     "UUx34lJV_L": {
         "id": "UUx34lJV_L",
         "title": "Солярис",
@@ -345,18 +357,6 @@
             "id": "116049106351328726122-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "Sc51hVvS-M": {
-        "id": "Sc51hVvS-M",
-        "title": "Естемтвенная история богатых",
-        "author": "Коннифф",
-        "notes": "",
-        "createdAt": "2023-01-14 10:25:08",
-        "user": {
-            "id": "116049106351328726122-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

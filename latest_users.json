@@ -1,4 +1,10 @@
 {
+    "300273923-vkontakte": {
+        "id": "300273923-vkontakte",
+        "nickname": "Вит",
+        "booksCount": 97,
+        "updatedAt": "2023-02-03 08:45:00"
+    },
     "109746193906459706720-google": {
         "id": "109746193906459706720-google",
         "nickname": "Феня Котовна",
@@ -172,11 +178,5 @@
         "nickname": "Доротея ",
         "booksCount": 0,
         "updatedAt": "2023-01-04 20:07:41"
-    },
-    "1703219626-yandex": {
-        "id": "1703219626-yandex",
-        "nickname": "akyctyurina",
-        "booksCount": 0,
-        "updatedAt": "2023-01-04 11:20:41"
     }
 }
