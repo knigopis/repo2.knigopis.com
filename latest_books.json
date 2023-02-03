@@ -1,4 +1,16 @@
 {
+    "vN94d6MxoI": {
+        "id": "vN94d6MxoI",
+        "title": "Граф Монте Кристо",
+        "author": "Дюма Александр",
+        "notes": "",
+        "createdAt": "2023-02-03 08:57:24",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 104
+        }
+    },
     "UMU1BFuFYv": {
         "id": "UMU1BFuFYv",
         "title": "Лавр",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 211
-        }
-    },
-    "tDH27q6iMO": {
-        "id": "tDH27q6iMO",
-        "title": "Женская магия или Вызов для попаданки",
-        "author": "Антонина Циль",
-        "notes": "",
-        "createdAt": "2023-01-15 21:09:43",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 85
         }
     }
 }
