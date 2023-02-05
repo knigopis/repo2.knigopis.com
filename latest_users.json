@@ -1,4 +1,10 @@
 {
+    "106790533996892216851-google": {
+        "id": "106790533996892216851-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-02-05 20:32:39"
+    },
     "510924341-yandex": {
         "id": "510924341-yandex",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Milanova",
         "booksCount": 0,
         "updatedAt": "2023-01-07 11:52:52"
-    },
-    "121849865-vkontakte": {
-        "id": "121849865-vkontakte",
-        "nickname": "xserpxx",
-        "booksCount": 1,
-        "updatedAt": "2023-01-05 03:47:33"
     }
 }
