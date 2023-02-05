@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106790533996892216851-google)<sup>0</sup> 
 [](users/510/510924341-yandex)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>104</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>418</sup> 
 [ern56js](users/953/95333-vkontakte)<sup>0</sup> 
 [Milanova](users/105/105902909056784698842-google)<sup>0</sup> 
-[xserpxx](users/121/121849865-vkontakte)<sup>1</sup> 
 
 
-_05.02.2023 02:09:58_
+_05.02.2023 20:32:39_
