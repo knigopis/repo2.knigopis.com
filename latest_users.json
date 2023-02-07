@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 992,
+        "updatedAt": "2023-02-07 18:42:38"
+    },
     "10824953-yandex": {
         "id": "10824953-yandex",
         "nickname": "StFox",
@@ -172,11 +178,5 @@
         "nickname": "Shellena",
         "booksCount": 418,
         "updatedAt": "2023-01-08 16:05:40"
-    },
-    "95333-vkontakte": {
-        "id": "95333-vkontakte",
-        "nickname": "ern56js",
-        "booksCount": 0,
-        "updatedAt": "2023-01-07 20:01:45"
     }
 }
