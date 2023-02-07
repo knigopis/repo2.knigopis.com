@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[StFox](users/108/10824953-yandex)<sup>1</sup> 
+[StFox](users/108/10824953-yandex)<sup>2</sup> 
 [](users/106/106790533996892216851-google)<sup>0</sup> 
 [](users/510/510924341-yandex)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ern56js](users/953/95333-vkontakte)<sup>0</sup> 
 
 
-_07.02.2023 08:25:47_
+_07.02.2023 11:49:55_
