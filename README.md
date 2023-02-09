@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>105</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>106</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>992</sup> 
 [StFox](users/108/10824953-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
 
 
-_09.02.2023 10:02:29_
+_09.02.2023 10:03:20_

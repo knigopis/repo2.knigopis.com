@@ -1,4 +1,16 @@
 {
+    "btsF4nN9K0": {
+        "id": "btsF4nN9K0",
+        "title": "Миссис Кредок",
+        "author": "Моэм Сомерсет",
+        "notes": "",
+        "createdAt": "2023-02-09 10:03:20",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 106
+        }
+    },
     "QMZFcFGWZg": {
         "id": "QMZFcFGWZg",
         "title": "Конфуций",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 278
-        }
-    },
-    "9FgboPn3cz": {
-        "id": "9FgboPn3cz",
-        "title": "Суженый",
-        "author": "Шанин Игорь",
-        "notes": "",
-        "createdAt": "2023-01-18 14:02:05",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 277
         }
     }
 }
