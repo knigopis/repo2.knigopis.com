@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>105</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>992</sup> 
 [StFox](users/108/10824953-yandex)<sup>1</sup> 
 [](users/106/106790533996892216851-google)<sup>0</sup> 
 [](users/510/510924341-yandex)<sup>0</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>104</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup> 
 [](users/621/621837012-vkontakte)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
 
 
-_08.02.2023 16:39:52_
+_09.02.2023 10:02:29_

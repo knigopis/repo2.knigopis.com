@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>104</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>105</sup>
 ---
 
 ## 2023
+
+### Конфуций
+Корягин К. М.
+> [2023-02-09] 
+
 
 ### Граф Монте Кристо
 Дюма Александр
