@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
+    > Волшебники и грают в футбол
+
 * Трансгуманизм ~ [Вит](users/300/300273923-vkontakte)<sup>101</sup>
     > Бросил. Бред. Ну не заходит мне этот бессюжетный набор штампов.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не дочитал
 
 * Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
-    > Занимательное чтиво на тему, как можно быть женщиной с планом и тряпкой одновременно
 
 * Делай деньги ~ [Garka](users/115/115753719718250012620-google)<sup>336</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гувернантка поневоле, или Зелье Судьбы ~ [butercupa](users/193/193697993-vkontakte)<sup>88</sup>
 
-* Кухарка тайного советника ~ [butercupa](users/193/193697993-vkontakte)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>337</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>993</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>106</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>341</sup> 
 [patrick rodriges](users/108/10887510343399463420-mailru)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>336</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>89</sup> 
 [](users/116/116049106351328726122-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>339</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
 
 
-_09.02.2023 11:45:47_
+_09.02.2023 16:41:23_

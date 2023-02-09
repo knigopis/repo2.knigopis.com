@@ -1,4 +1,16 @@
 {
+    "wFWcWN5Q4h": {
+        "id": "wFWcWN5Q4h",
+        "title": "Незримые Академики",
+        "author": "Пратчетт, Терри",
+        "notes": "Волшебники и грают в футбол",
+        "createdAt": "2023-02-09 16:41:23",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 337
+        }
+    },
     "cag1H9E-Le": {
         "id": "cag1H9E-Le",
         "title": "Шепчущий череп",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 87
-        }
-    },
-    "F-Z9boHDAC": {
-        "id": "F-Z9boHDAC",
-        "title": "Наследие",
-        "author": "Шанин Игорь",
-        "notes": "",
-        "createdAt": "2023-01-18 14:05:40",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 279
         }
     }
 }

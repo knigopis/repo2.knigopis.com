@@ -1,4 +1,16 @@
 {
+    "wFWcWN5Q4h": {
+        "id": "wFWcWN5Q4h",
+        "title": "Незримые Академики",
+        "author": "Пратчетт, Терри",
+        "notes": "Волшебники и грают в футбол",
+        "createdAt": "2023-02-09 16:41:23",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 337
+        }
+    },
     "yqnTFU740H": {
         "id": "yqnTFU740H",
         "title": "Трансгуманизм",
@@ -345,18 +357,6 @@
             "id": "128917939-vkontakte",
             "nickname": "pria",
             "booksCount": 72
-        }
-    },
-    "FQUomDVcaw": {
-        "id": "FQUomDVcaw",
-        "title": "93-й",
-        "author": "Гюго Виктор",
-        "notes": "Великая французская революция",
-        "createdAt": "2022-11-28 09:53:12",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 94
         }
     }
 }

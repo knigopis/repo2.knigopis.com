@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
 * Трансгуманизм ~ [Вит](users/300/300273923-vkontakte)<sup>101</sup>
 * Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
 * Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
 * Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
-* 93-й ~ [Вит](users/300/300273923-vkontakte)<sup>94</sup>
 
 
-_03.02.2023 08:54:08_
+_09.02.2023 16:41:23_

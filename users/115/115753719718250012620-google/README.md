@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>336</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>337</sup>
 ---
 
 ## 2023
+
+### Незримые Академики
+Пратчетт, Терри
+> [2023-02-09] Волшебники и грают в футбол
+
 
 ### Делай деньги
 Пратчетт, Терри
