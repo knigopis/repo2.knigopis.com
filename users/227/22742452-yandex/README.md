@@ -1,7 +1,12 @@
-# List of books read by rNix<sup>71</sup>
+# List of books read by rNix<sup>72</sup>
 ---
 
 ## 2022
+
+### Девять принцев Амбера
+Роджер Желязны
+> Прошел год и я почти полностью забыл содержание, чтобы что-то здесь указать
+
 
 ### Вальсируя с медведями
 Том ДеМарко, Тимоти Листер
@@ -365,14 +370,14 @@ J. D. Salinger
 > [2014-09-30] Читал из-за того, что название на слуху. Разочарован.
 
 
-### Animal Farm
-George Orwell
-> [2014-09] "I will work harder"
-
-
 ### The Old Man and the Sea
 Ernest Hemingway
 > [2014-09] 
+
+
+### Animal Farm
+George Orwell
+> [2014-09] "I will work harder"
 
 
 ### Сага "Ведьмак"
