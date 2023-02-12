@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вальсируя с медведями ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
 * Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
 * Трансгуманизм ~ [Вит](users/300/300273923-vkontakte)<sup>101</sup>
 * Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
@@ -30,7 +31,6 @@
 * Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
 * Остров потерянных детей ~ [pria](users/128/128917939-vkontakte)<sup>73</sup>
 * «Посох и шляпа» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>85</sup>
-* Заводной апельсин ~ [pria](users/128/128917939-vkontakte)<sup>72</sup>
 
 
-_09.02.2023 16:41:23_
+_12.02.2023 17:08:29_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вальсируя с медведями ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
+    > Прочитал половину. В книги про то, как нужно работать с рисками. А именно, как их находить, как определять важность, как подготавливаться к их наступлению или не наступлению и тому подобное.
+
 * Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
     > Волшебники и грают в футбол
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бросил. Бред. Ну не заходит мне этот бессюжетный набор штампов.
 
 * Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
-    > Не дочитал
 
 * Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Убить пересмешника» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>88</sup>
 
-* Гувернантка поневоле, или Зелье Судьбы ~ [butercupa](users/193/193697993-vkontakte)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/227/22742452-yandex)<sup>71</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>995</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>163</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>337</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>5</sup> 
 [](users/109/109829447857621498180-google)<sup>0</sup> 
 [](users/106/106293011050775525931-google)<sup>0</sup> 
-[Harvey ](users/104/104557501101886497812-google)<sup>0</sup> 
 
 
-_12.02.2023 07:29:26_
+_12.02.2023 17:08:29_
