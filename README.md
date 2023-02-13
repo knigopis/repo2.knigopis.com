@@ -39,8 +39,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>996</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>995</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>163</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>337</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>106</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106293011050775525931-google)<sup>0</sup> 
 
 
-_12.02.2023 17:14:33_
+_13.02.2023 08:24:23_
