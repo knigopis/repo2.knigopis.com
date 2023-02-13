@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>342</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>996</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>163</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>5</sup> 
 [Inna Melenevska](users/117/117999800530044134590-google)<sup>0</sup> 
 [](users/106/106350967836629952229-google)<sup>0</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>341</sup> 
 [patrick rodriges](users/108/10887510343399463420-mailru)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>89</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106293011050775525931-google)<sup>0</sup> 
 
 
-_13.02.2023 08:24:23_
+_13.02.2023 15:13:22_
