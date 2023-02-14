@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>212</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>213</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>342</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>996</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106293011050775525931-google)<sup>0</sup> 
 
 
-_14.02.2023 13:17:57_
+_14.02.2023 13:19:59_
