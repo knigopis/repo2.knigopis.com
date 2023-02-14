@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>211</sup>
+# Список прочитанных книг пользователя exulted<sup>212</sup>
 ---
 
 ## 2023
@@ -6,6 +6,11 @@
 ### Old Man's War
 John Scalzi
 > [2023-01-13] ASIN : ‎ B004M8S6FC
+
+
+### Trotsky: A Biography
+Robert Service
+> [2023-01-09] 
 
 
 

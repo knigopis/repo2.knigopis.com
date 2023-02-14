@@ -1,4 +1,16 @@
 {
+    "NKp9ypPbFK": {
+        "id": "NKp9ypPbFK",
+        "title": "Trotsky: A Biography",
+        "author": "Robert Service",
+        "notes": "",
+        "createdAt": "2023-02-14 13:17:57",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 212
+        }
+    },
     "57wVh0CsEb": {
         "id": "57wVh0CsEb",
         "title": "Соловей",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 336
-        }
-    },
-    "pyswQiuZqS": {
-        "id": "pyswQiuZqS",
-        "title": "История Франции. От Карла Великого до Жанны д’Арк",
-        "author": "Азимов, Айзек",
-        "notes": "Как-то очень не интересно",
-        "createdAt": "2023-01-25 16:11:26",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 335
         }
     }
 }
