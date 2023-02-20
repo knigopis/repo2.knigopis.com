@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>997</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>91</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>343</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>213</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>996</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>163</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>337</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106293011050775525931-google)<sup>0</sup> 
 
 
-_20.02.2023 17:07:07_
+_20.02.2023 18:52:10_

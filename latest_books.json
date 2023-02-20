@@ -1,4 +1,16 @@
 {
+    "J6m9JdAgua": {
+        "id": "J6m9JdAgua",
+        "title": "Пустая могила",
+        "author": "Джонатан Страуд",
+        "notes": "",
+        "createdAt": "2023-02-20 18:52:10",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 997
+        }
+    },
     "LFM8F4KW7M": {
         "id": "LFM8F4KW7M",
         "title": "«Конь и его мальчик»",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 97
-        }
-    },
-    "UUx34lJV_L": {
-        "id": "UUx34lJV_L",
-        "title": "Солярис",
-        "author": "Станислав Лемм",
-        "notes": "",
-        "createdAt": "2023-02-02 08:15:00",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 5
         }
     }
 }
