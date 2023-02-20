@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Племянник чародея» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>89</sup>
 * Разработка через тестирование ~ [rNix](users/227/22742452-yandex)<sup>73</sup>
 * Девять принцев Амбера ~ [rNix](users/227/22742452-yandex)<sup>72</sup>
 * Вальсируя с медведями ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
@@ -30,7 +31,6 @@
 * «Эрик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>86</sup>
 * Не оглядывайся ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>276</sup>
 * Очарование женственности ~ [albina_untiring](users/257/2579695-vkontakte)<sup>41</sup>
-* Мир от Гарпа ~ [Garka](users/115/115753719718250012620-google)<sup>332</sup>
 
 
-_12.02.2023 17:14:33_
+_20.02.2023 17:06:25_

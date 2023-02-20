@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Племянник чародея» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>89</sup>
+    > audio
+
 * Разработка через тестирование ~ [rNix](users/227/22742452-yandex)<sup>73</sup>
     > Книга весьма объемная, но суть довольно краткая. Есть три шага:
     > 1. Напиши тест, пусть падает
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > Прошел год и я почти полностью забыл содержание, чтобы что-то здесь указать
 
 * Вальсируя с медведями ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
-    > Прочитал половину. В книги про то, как нужно работать с рисками. А именно, как их находить, как определять важность, как подготавливаться к их наступлению или не наступлению и тому подобное.
 
 * Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * История Франции. От Карла Великого до Жанны д’Арк ~ [Garka](users/115/115753719718250012620-google)<sup>335</sup>
 
-* Фейк ~ [](users/116/116049106351328726122-google)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>89</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>343</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>213</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>996</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>89</sup> 
 [](users/116/116049106351328726122-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>339</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>88</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>279</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
 [](users/108/108404793123226338106-google)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106293011050775525931-google)<sup>0</sup> 
 
 
-_17.02.2023 11:20:59_
+_20.02.2023 17:06:25_

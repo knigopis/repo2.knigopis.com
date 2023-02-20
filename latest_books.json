@@ -1,4 +1,16 @@
 {
+    "dql0gFaUvl": {
+        "id": "dql0gFaUvl",
+        "title": "«Племянник чародея»",
+        "author": "Клайв Льюис",
+        "notes": "audio",
+        "createdAt": "2023-02-20 17:06:25",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 89
+        }
+    },
     "pb7RpV4jGd": {
         "id": "pb7RpV4jGd",
         "title": "Отбор для Короля волков",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 341
-        }
-    },
-    "M8sVnqxbat": {
-        "id": "M8sVnqxbat",
-        "title": "Четвертая промышленная революция",
-        "author": "Клаус Швабб",
-        "notes": "",
-        "createdAt": "2023-01-29 18:00:12",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 4
         }
     }
 }
