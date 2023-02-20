@@ -1,4 +1,16 @@
 {
+    "GfeaJ2YGjt": {
+        "id": "GfeaJ2YGjt",
+        "title": "«Лев, ведьма и платяной шкаф»",
+        "author": "Клайв Льюис",
+        "notes": "audio",
+        "createdAt": "2023-02-20 17:06:54",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 90
+        }
+    },
     "dql0gFaUvl": {
         "id": "dql0gFaUvl",
         "title": "«Племянник чародея»",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 162
-        }
-    },
-    "nUCCb_omLT": {
-        "id": "nUCCb_omLT",
-        "title": "С жизнью наедине",
-        "author": "Кристин Ханна",
-        "notes": "",
-        "createdAt": "2023-01-31 17:58:35",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 341
         }
     }
 }
