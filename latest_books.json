@@ -1,4 +1,16 @@
 {
+    "LFM8F4KW7M": {
+        "id": "LFM8F4KW7M",
+        "title": "«Конь и его мальчик»",
+        "author": "Клайв Льюис",
+        "notes": "audio",
+        "createdAt": "2023-02-20 17:07:07",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 91
+        }
+    },
     "GfeaJ2YGjt": {
         "id": "GfeaJ2YGjt",
         "title": "«Лев, ведьма и платяной шкаф»",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 5
-        }
-    },
-    "RT0_x_qW23": {
-        "id": "RT0_x_qW23",
-        "title": "Москва 2042",
-        "author": "В. Войнович",
-        "notes": "",
-        "createdAt": "2023-02-01 14:50:52",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 162
         }
     }
 }
