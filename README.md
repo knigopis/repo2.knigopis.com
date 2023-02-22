@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трактир Ямайка ~ [Вит](users/300/300273923-vkontakte)<sup>107</sup>
+    > Хороший приятный язык. Интересные сюжет
+
 * «Конь и его мальчик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>91</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Племянник чародея» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>89</sup>
-    > audio
 
 * Разработка через тестирование ~ [rNix](users/227/22742452-yandex)<sup>73</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
 
-* Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>107</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>997</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>91</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>343</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>163</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>337</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>106</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>1</sup> 
 [](users/106/106790533996892216851-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106293011050775525931-google)<sup>0</sup> 
 
 
-_20.02.2023 18:52:10_
+_22.02.2023 15:30:05_
