@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>998</sup> 
 [](users/101/101763698186264086786-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>344</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup> 
 [langaff](users/113/113568264092317766513-google)<sup>1</sup> 
 [](users/101/101368518035734751027-google)<sup>5</sup> 
-[](users/109/109829447857621498180-google)<sup>0</sup> 
 
 
-_24.02.2023 17:16:16_
+_25.02.2023 06:04:58_
