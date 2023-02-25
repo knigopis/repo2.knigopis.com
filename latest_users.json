@@ -1,4 +1,10 @@
 {
+    "38646651-vkontakte": {
+        "id": "38646651-vkontakte",
+        "nickname": "mrpsarik",
+        "booksCount": 0,
+        "updatedAt": "2023-02-25 06:04:57"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 5,
         "updatedAt": "2023-01-13 12:26:44"
-    },
-    "109829447857621498180-google": {
-        "id": "109829447857621498180-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-01-12 12:11:24"
     }
 }
