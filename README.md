@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
+    > Ух эти путешествия во времени, точнее временные петли)
+
 * Трактир Ямайка ~ [Вит](users/300/300273923-vkontakte)<sup>107</sup>
     > Хороший приятный язык. Интересные сюжет
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Лев, ведьма и платяной шкаф» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>90</sup>
-    > audio
 
 * «Племянник чародея» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>89</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трансгуманизм ~ [Вит](users/300/300273923-vkontakte)<sup>101</sup>
 
-* Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>998</sup> 
 [](users/101/101763698186264086786-google)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>213</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>163</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>337</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>1</sup> 
 [](users/106/106790533996892216851-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>5</sup> 
 
 
-_25.02.2023 06:04:58_
+_25.02.2023 18:03:19_
