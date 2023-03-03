@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
+* «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
     > audio
 
 * Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>164</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>5</sup> 
 
 
-_03.03.2023 12:40:52_
+_03.03.2023 12:40:56_
