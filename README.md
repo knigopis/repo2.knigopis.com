@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>92</sup>
+    > audio
+
 * Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
     > Ух эти путешествия во времени, точнее временные петли)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хороший приятный язык. Интересные сюжет
 
 * «Конь и его мальчик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>91</sup>
-    > audio
 
 * «Лев, ведьма и платяной шкаф» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>90</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
 
-* Трансгуманизм ~ [Вит](users/300/300273923-vkontakte)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>164</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101763698186264086786-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>344</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>108</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>91</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>213</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>5</sup> 
 
 
-_28.02.2023 14:49:01_
+_03.03.2023 12:39:37_
