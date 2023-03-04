@@ -1,4 +1,10 @@
 {
+    "385759182-vkontakte": {
+        "id": "385759182-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-03-04 18:07:14"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "langaff",
         "booksCount": 1,
         "updatedAt": "2023-01-14 07:04:19"
-    },
-    "101368518035734751027-google": {
-        "id": "101368518035734751027-google",
-        "nickname": null,
-        "booksCount": 5,
-        "updatedAt": "2023-01-13 12:26:44"
     }
 }
