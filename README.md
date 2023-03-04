@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/385/385759182-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1000</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>164</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108404793123226338106-google)<sup>0</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup> 
 [langaff](users/113/113568264092317766513-google)<sup>1</sup> 
-[](users/101/101368518035734751027-google)<sup>5</sup> 
 
 
-_03.03.2023 13:33:08_
+_04.03.2023 18:07:15_
