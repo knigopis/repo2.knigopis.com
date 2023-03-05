@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>1001</sup> 
 [](users/385/385759182-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>1000</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>164</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [langaff](users/113/113568264092317766513-google)<sup>1</sup> 
 
 
-_04.03.2023 18:07:15_
+_05.03.2023 11:39:42_
