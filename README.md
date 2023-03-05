@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>214</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1001</sup> 
 [](users/385/385759182-vkontakte)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101763698186264086786-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>344</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>108</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>213</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [langaff](users/113/113568264092317766513-google)<sup>1</sup> 
 
 
-_05.03.2023 11:39:42_
+_05.03.2023 18:41:36_

@@ -1,4 +1,16 @@
 {
+    "OaaTw8oAA_": {
+        "id": "OaaTw8oAA_",
+        "title": "Тайные виды на гору Фудзи",
+        "author": "Пелевин Виктор",
+        "notes": "",
+        "createdAt": "2023-03-05 18:41:36",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 214
+        }
+    },
     "OV3PGFHLW8": {
         "id": "OV3PGFHLW8",
         "title": "Мой любимый враг",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 106
-        }
-    },
-    "QMZFcFGWZg": {
-        "id": "QMZFcFGWZg",
-        "title": "Конфуций",
-        "author": "Корягин К. М.",
-        "notes": "",
-        "createdAt": "2023-02-09 10:02:29",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 105
         }
     }
 }
