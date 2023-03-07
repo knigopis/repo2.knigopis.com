@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>1001</sup>
+# List of books read by Janet<sup>1002</sup>
 ---
 
 ## 2023
+
+### Любители книг
+Эмили Генри
+> [2023-03] 
+
 
 ### Мой любимый враг
 Салли Торн
