@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105063533945004840111-google)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>6</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>165</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1002</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
 [](users/108/108404793123226338106-google)<sup>0</sup> 
 [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup> 
-[langaff](users/113/113568264092317766513-google)<sup>1</sup> 
 
 
-_08.03.2023 05:29:21_
+_08.03.2023 23:20:41_
