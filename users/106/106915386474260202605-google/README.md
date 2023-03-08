@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>5</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>6</sup>
 ---
 
 ## 2023
+
+### Идиот
+Федор Михайлович Достоевский
+> [2023-03-08] 
+
 
 ### Четвертая промышленная революция
 Клаус Швабб

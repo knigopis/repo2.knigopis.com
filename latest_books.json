@@ -1,4 +1,16 @@
 {
+    "cYOUydl4G1": {
+        "id": "cYOUydl4G1",
+        "title": "Идиот",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2023-03-08 05:29:21",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 6
+        }
+    },
     "FR5rETO4tr": {
         "id": "FR5rETO4tr",
         "title": "Институт",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 163
-        }
-    },
-    "wFWcWN5Q4h": {
-        "id": "wFWcWN5Q4h",
-        "title": "Незримые Академики",
-        "author": "Пратчетт, Терри",
-        "notes": "Волшебники и грают в футбол",
-        "createdAt": "2023-02-09 16:41:23",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 337
         }
     }
 }
