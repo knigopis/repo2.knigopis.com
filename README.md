@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[hugo hugo](users/352/3528984039845110263-mailru)<sup>0</sup> 
+[hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
 [](users/105/105063533945004840111-google)<sup>1</sup> 
 [leo](users/106/106915386474260202605-google)<sup>6</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>165</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108404793123226338106-google)<sup>0</sup> 
 
 
-_08.03.2023 23:57:44_
+_08.03.2023 23:58:55_
