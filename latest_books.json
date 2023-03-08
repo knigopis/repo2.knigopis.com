@@ -1,4 +1,16 @@
 {
+    "hKDsJ6FUdV": {
+        "id": "hKDsJ6FUdV",
+        "title": "1984",
+        "author": "George Orwell",
+        "notes": "",
+        "createdAt": "2023-03-08 23:21:29",
+        "user": {
+            "id": "105063533945004840111-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "cYOUydl4G1": {
         "id": "cYOUydl4G1",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 994
-        }
-    },
-    "27HL0GcAzf": {
-        "id": "27HL0GcAzf",
-        "title": "Повесть о Ходже Насреддине",
-        "author": "Л. Соловьев",
-        "notes": "",
-        "createdAt": "2023-02-10 13:58:28",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 163
         }
     }
 }
