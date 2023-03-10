@@ -1,4 +1,10 @@
 {
+    "109363607816033953885-google": {
+        "id": "109363607816033953885-google",
+        "nickname": null,
+        "booksCount": 1,
+        "updatedAt": "2023-03-10 15:00:11"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 85,
         "updatedAt": "2023-01-18 09:57:14"
-    },
-    "108404793123226338106-google": {
-        "id": "108404793123226338106-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-01-15 11:33:19"
     }
 }

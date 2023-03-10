@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109363607816033953885-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1003</sup> 
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
 [](users/105/105063533945004840111-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>339</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>279</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
-[](users/108/108404793123226338106-google)<sup>0</sup> 
 
 
-_09.03.2023 16:22:55_
+_10.03.2023 15:00:11_
