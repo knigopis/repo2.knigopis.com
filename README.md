@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>345</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1004</sup> 
 [](users/109/109363607816033953885-google)<sup>1</sup> 
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 [](users/101/101763698186264086786-google)<sup>0</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>344</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>108</sup> 
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
 
 
-_10.03.2023 16:04:50_
+_11.03.2023 05:04:09_
