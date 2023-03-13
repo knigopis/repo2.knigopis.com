@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[motodorfc](users/112/112780369475521902606-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>215</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>166</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1005</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116049106351328726122-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>339</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>279</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>85</sup> 
 
 
-_12.03.2023 16:20:38_
+_13.03.2023 11:07:25_
