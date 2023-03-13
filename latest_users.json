@@ -1,4 +1,10 @@
 {
+    "112780369475521902606-google": {
+        "id": "112780369475521902606-google",
+        "nickname": "motodorfc",
+        "booksCount": 0,
+        "updatedAt": "2023-03-13 11:07:24"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 279,
         "updatedAt": "2023-01-18 14:05:40"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 85,
-        "updatedAt": "2023-01-18 09:57:14"
     }
 }
