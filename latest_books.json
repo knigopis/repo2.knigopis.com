@@ -1,4 +1,16 @@
 {
+    "RJqxs2eRcu": {
+        "id": "RJqxs2eRcu",
+        "title": "Собственность Альфы",
+        "author": "Екатерина Вострова",
+        "notes": "",
+        "createdAt": "2023-03-14 16:01:20",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 346
+        }
+    },
     "JhZtO3ggRm": {
         "id": "JhZtO3ggRm",
         "title": "Gnar Country: Growing Old, Staying Rad",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 344
-        }
-    },
-    "IbDykm4-uo": {
-        "id": "IbDykm4-uo",
-        "title": "КиберДед знает. Инструкция по процветанию в турбулентные времена от ветерана отечественной интернет-разведки",
-        "author": "Масалович Андрей",
-        "notes": "",
-        "createdAt": "2023-02-14 13:19:59",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 213
         }
     }
 }

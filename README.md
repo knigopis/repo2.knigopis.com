@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>346</sup> 
 [motodorfc](users/112/112780369475521902606-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>215</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>166</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1005</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>345</sup> 
 [](users/109/109363607816033953885-google)<sup>1</sup> 
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
 [](users/105/105063533945004840111-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>279</sup> 
 
 
-_13.03.2023 11:07:25_
+_14.03.2023 16:01:20_
