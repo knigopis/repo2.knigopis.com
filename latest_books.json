@@ -1,4 +1,16 @@
 {
+    "6tLIMb-mJl": {
+        "id": "6tLIMb-mJl",
+        "title": "Когда мы перестали понимать мир",
+        "author": "Б. Лабатут",
+        "notes": "",
+        "createdAt": "2023-03-14 18:51:53",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 167
+        }
+    },
     "RJqxs2eRcu": {
         "id": "RJqxs2eRcu",
         "title": "Собственность Альфы",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 89
-        }
-    },
-    "pb7RpV4jGd": {
-        "id": "pb7RpV4jGd",
-        "title": "Отбор для Короля волков",
-        "author": "Маша Моран",
-        "notes": "",
-        "createdAt": "2023-02-17 11:18:51",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 344
         }
     }
 }
