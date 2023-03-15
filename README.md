@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sivtseva.a.yu](users/595/595923033-yandex)<sup>0</sup> 
 [](users/649/6492441105371634172-mailru)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>167</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>346</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>89</sup> 
 [](users/116/116049106351328726122-google)<sup>3</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>339</sup> 
 
 
-_14.03.2023 19:21:20_
+_15.03.2023 15:36:59_
