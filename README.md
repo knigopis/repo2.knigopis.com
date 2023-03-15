@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sivtseva.a.yu](users/595/595923033-yandex)<sup>0</sup> 
+[sivtseva.a.yu](users/595/595923033-yandex)<sup>1</sup> 
 [](users/649/6492441105371634172-mailru)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>167</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>346</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116049106351328726122-google)<sup>3</sup> 
 
 
-_15.03.2023 15:36:59_
+_15.03.2023 15:57:05_
