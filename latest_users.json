@@ -1,4 +1,10 @@
 {
+    "116049106351328726122-google": {
+        "id": "116049106351328726122-google",
+        "nickname": null,
+        "booksCount": 4,
+        "updatedAt": "2023-03-16 20:41:07"
+    },
     "595923033-yandex": {
         "id": "595923033-yandex",
         "nickname": "sivtseva.a.yu",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 89,
         "updatedAt": "2023-01-24 13:04:06"
-    },
-    "116049106351328726122-google": {
-        "id": "116049106351328726122-google",
-        "nickname": null,
-        "booksCount": 3,
-        "updatedAt": "2023-01-22 11:25:48"
     }
 }

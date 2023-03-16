@@ -1,4 +1,16 @@
 {
+    "MMdW4Mt6MO": {
+        "id": "MMdW4Mt6MO",
+        "title": "Безумно богатые русские",
+        "author": "Элизабет Шимпфёсль",
+        "notes": "",
+        "createdAt": "2023-03-16 20:41:07",
+        "user": {
+            "id": "116049106351328726122-google",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "_c5oQkRFNC": {
         "id": "_c5oQkRFNC",
         "title": "Телесная психология: как изменить судьбу через тело и вернуть женщине саму себя",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 91
-        }
-    },
-    "GfeaJ2YGjt": {
-        "id": "GfeaJ2YGjt",
-        "title": "«Лев, ведьма и платяной шкаф»",
-        "author": "Клайв Льюис",
-        "notes": "audio",
-        "createdAt": "2023-02-20 17:06:54",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 90
         }
     }
 }
