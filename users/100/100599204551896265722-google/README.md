@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>215</sup>
+# Список прочитанных книг пользователя exulted<sup>216</sup>
 ---
 
 ## 2023
+
+### Туда и обратно
+Троцкий Лев
+> [2023-03-17] 
+
 
 ### Gnar Country: Growing Old, Staying Rad
 Steven Kotler

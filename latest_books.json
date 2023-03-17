@@ -1,4 +1,16 @@
 {
+    "gpFPSE9ED6": {
+        "id": "gpFPSE9ED6",
+        "title": "Туда и обратно",
+        "author": "Троцкий Лев",
+        "notes": "",
+        "createdAt": "2023-03-17 14:50:37",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 216
+        }
+    },
     "MMdW4Mt6MO": {
         "id": "MMdW4Mt6MO",
         "title": "Безумно богатые русские",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 997
-        }
-    },
-    "LFM8F4KW7M": {
-        "id": "LFM8F4KW7M",
-        "title": "«Конь и его мальчик»",
-        "author": "Клайв Льюис",
-        "notes": "audio",
-        "createdAt": "2023-02-20 17:07:07",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 91
         }
     }
 }
