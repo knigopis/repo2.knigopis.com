@@ -1,4 +1,16 @@
 {
+    "H6e1KyktTi": {
+        "id": "H6e1KyktTi",
+        "title": "Наивно. Супер",
+        "author": "Э. Лу",
+        "notes": "",
+        "createdAt": "2023-03-17 16:19:11",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 168
+        }
+    },
     "gpFPSE9ED6": {
         "id": "gpFPSE9ED6",
         "title": "Туда и обратно",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 107
-        }
-    },
-    "J6m9JdAgua": {
-        "id": "J6m9JdAgua",
-        "title": "Пустая могила",
-        "author": "Джонатан Страуд",
-        "notes": "",
-        "createdAt": "2023-02-20 18:52:10",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 997
         }
     }
 }

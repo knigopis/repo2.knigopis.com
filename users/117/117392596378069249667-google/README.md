@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>167</sup>
+# List of books read by 4apa<sup>168</sup>
 ---
 
 ## 2023
+
+### Наивно. Супер
+Э. Лу
+> [2023-03-17] 
+
 
 ### Когда мы перестали понимать мир
 Б. Лабатут
