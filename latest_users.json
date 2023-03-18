@@ -1,4 +1,10 @@
 {
+    "117227278555818237332-google": {
+        "id": "117227278555818237332-google",
+        "nickname": "suhoff mary",
+        "booksCount": 0,
+        "updatedAt": "2023-03-18 06:31:48"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 42,
         "updatedAt": "2023-01-26 09:12:14"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 89,
-        "updatedAt": "2023-01-24 13:04:06"
     }
 }
