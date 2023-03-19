@@ -1,4 +1,10 @@
 {
+    "112183430504883294367-google": {
+        "id": "112183430504883294367-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-03-19 09:42:57"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "patrick rodriges",
         "booksCount": 0,
         "updatedAt": "2023-01-30 23:51:26"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 42,
-        "updatedAt": "2023-01-26 09:12:14"
     }
 }
