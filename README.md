@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>208</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>170</sup> 
 [](users/112/112183430504883294367-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>347</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/621/621837012-vkontakte)<sup>0</sup> 
 [Inna Melenevska](users/117/117999800530044134590-google)<sup>0</sup> 
 [](users/106/106350967836629952229-google)<sup>0</sup> 
-[patrick rodriges](users/108/10887510343399463420-mailru)<sup>0</sup> 
 
 
-_20.03.2023 15:43:54_
+_20.03.2023 18:50:52_

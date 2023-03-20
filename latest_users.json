@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 208,
+        "updatedAt": "2023-03-20 18:50:52"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-01-31 18:13:23"
-    },
-    "10887510343399463420-mailru": {
-        "id": "10887510343399463420-mailru",
-        "nickname": "patrick rodriges",
-        "booksCount": 0,
-        "updatedAt": "2023-01-30 23:51:26"
     }
 }
