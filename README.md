@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[4apa](users/117/117392596378069249667-google)<sup>171</sup> 
+[4apa](users/117/117392596378069249667-google)<sup>170</sup> 
 [](users/112/112183430504883294367-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>347</sup> 
 [suhoff mary](users/117/117227278555818237332-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [patrick rodriges](users/108/10887510343399463420-mailru)<sup>0</sup> 
 
 
-_20.03.2023 15:43:51_
+_20.03.2023 15:43:54_
