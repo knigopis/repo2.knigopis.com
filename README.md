@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/366/366598618-yandex)<sup>0</sup> 
 [](users/108/108866662388308228322-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>209</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>170</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/510/510924341-yandex)<sup>0</sup> 
 [Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup> 
 [](users/621/621837012-vkontakte)<sup>0</sup> 
-[Inna Melenevska](users/117/117999800530044134590-google)<sup>0</sup> 
 
 
-_20.03.2023 21:09:33_
+_21.03.2023 02:48:31_
