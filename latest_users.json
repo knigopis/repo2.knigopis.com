@@ -1,4 +1,10 @@
 {
+    "366598618-yandex": {
+        "id": "366598618-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-03-21 02:48:30"
+    },
     "108866662388308228322-google": {
         "id": "108866662388308228322-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-02-02 15:42:51"
-    },
-    "117999800530044134590-google": {
-        "id": "117999800530044134590-google",
-        "nickname": "Inna Melenevska",
-        "booksCount": 0,
-        "updatedAt": "2023-02-01 12:11:46"
     }
 }
