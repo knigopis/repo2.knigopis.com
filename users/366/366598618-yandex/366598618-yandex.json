@@ -3,6 +3,9 @@
     "profile": "",
     "identity": "http://openid.yandex.ru/mshkolenko/",
     "booksCount": 0,
+    "subscriptions": {
+        "115753719718250012620-google": 338
+    },
     "createdAt": "2023-03-21 02:48:30",
-    "updatedAt": "2023-03-21 02:48:30"
+    "updatedAt": "2023-03-21 02:50:22"
 }
