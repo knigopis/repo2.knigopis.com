@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
+    > audio
+
 * «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ух эти путешествия во времени, точнее временные петли)
 
 * Трактир Ямайка ~ [Вит](users/300/300273923-vkontakte)<sup>107</sup>
-    > Хороший приятный язык. Интересные сюжет
 
 * «Конь и его мальчик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>91</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вальсируя с медведями ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
 
-* Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup> 
 [Искатель](users/101/101980499685087277277-google)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>7</sup> 
 [](users/366/366598618-yandex)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
 [](users/105/105063533945004840111-google)<sup>1</sup> 
 [](users/385/385759182-vkontakte)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 [](users/101/101763698186264086786-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup> 
 
 
-_22.03.2023 04:59:34_
+_22.03.2023 10:02:55_
