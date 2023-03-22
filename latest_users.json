@@ -1,4 +1,10 @@
 {
+    "101980499685087277277-google": {
+        "id": "101980499685087277277-google",
+        "nickname": "Искатель",
+        "booksCount": 0,
+        "updatedAt": "2023-03-22 04:59:34"
+    },
     "106915386474260202605-google": {
         "id": "106915386474260202605-google",
         "nickname": "leo",
@@ -172,11 +178,5 @@
         "nickname": "Феня Котовна",
         "booksCount": 165,
         "updatedAt": "2023-02-02 18:26:50"
-    },
-    "621837012-vkontakte": {
-        "id": "621837012-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-02-02 15:42:51"
     }
 }
