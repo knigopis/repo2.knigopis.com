@@ -1,4 +1,10 @@
 {
+    "115058436318443463985-google": {
+        "id": "115058436318443463985-google",
+        "nickname": "darkxbuddha",
+        "booksCount": 4,
+        "updatedAt": "2023-03-23 09:49:34"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-02-05 02:09:57"
-    },
-    "109746193906459706720-google": {
-        "id": "109746193906459706720-google",
-        "nickname": "Феня Котовна",
-        "booksCount": 165,
-        "updatedAt": "2023-02-02 18:26:50"
     }
 }

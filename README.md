@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darkxbuddha](users/115/115058436318443463985-google)<sup>4</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup> 
 [Искатель](users/101/101980499685087277277-google)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [StFox](users/108/10824953-yandex)<sup>1</sup> 
 [](users/106/106790533996892216851-google)<sup>0</sup> 
 [](users/510/510924341-yandex)<sup>0</sup> 
-[Феня Котовна](users/109/109746193906459706720-google)<sup>165</sup> 
 
 
-_22.03.2023 10:02:55_
+_23.03.2023 09:49:34_

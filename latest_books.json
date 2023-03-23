@@ -1,4 +1,16 @@
 {
+    "yRl0oZrE_d": {
+        "id": "yRl0oZrE_d",
+        "title": "Препятствие, как путь",
+        "author": "Райан Холидей",
+        "notes": "",
+        "createdAt": "2023-03-23 09:49:34",
+        "user": {
+            "id": "115058436318443463985-google",
+            "nickname": "darkxbuddha",
+            "booksCount": 4
+        }
+    },
     "qcICV4bjU5": {
         "id": "qcICV4bjU5",
         "title": "«Интересные времена»",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 1000
-        }
-    },
-    "B7W65aekB3": {
-        "id": "B7W65aekB3",
-        "title": "Тонкое искусство пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2023-03-03 13:28:43",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 999
         }
     }
 }
