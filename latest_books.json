@@ -1,4 +1,16 @@
 {
+    "0-PdnwXkfx": {
+        "id": "0-PdnwXkfx",
+        "title": "«Покоритель зари, или Плавание на край света»",
+        "author": "Клайв Льюис",
+        "notes": "",
+        "createdAt": "2023-03-23 15:49:18",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 103
+        }
+    },
     "yRl0oZrE_d": {
         "id": "yRl0oZrE_d",
         "title": "Препятствие, как путь",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 1001
-        }
-    },
-    "XIATtMOzqo": {
-        "id": "XIATtMOzqo",
-        "title": "Кинжал в столе",
-        "author": "Джонатан Страуд",
-        "notes": "",
-        "createdAt": "2023-03-03 13:33:08",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 1000
         }
     }
 }
