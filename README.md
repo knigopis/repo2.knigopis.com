@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>210</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>94</sup> 
 [darkxbuddha](users/115/115058436318443463985-google)<sup>4</sup> 
 [Искатель](users/101/101980499685087277277-google)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>7</sup> 
 [](users/366/366598618-yandex)<sup>0</sup> 
 [](users/108/108866662388308228322-google)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>209</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>170</sup> 
 [](users/112/112183430504883294367-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>347</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/510/510924341-yandex)<sup>0</sup> 
 
 
-_23.03.2023 16:58:39_
+_23.03.2023 18:25:27_
