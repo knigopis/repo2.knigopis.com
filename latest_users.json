@@ -1,4 +1,10 @@
 {
+    "112599544475740205056-google": {
+        "id": "112599544475740205056-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-03-25 15:28:56"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-02-05 20:32:39"
-    },
-    "510924341-yandex": {
-        "id": "510924341-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-02-05 02:09:57"
     }
 }
