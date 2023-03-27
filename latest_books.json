@@ -1,4 +1,16 @@
 {
+    "8C0Y8YH7lo": {
+        "id": "8C0Y8YH7lo",
+        "title": "История Российского государства. От истоков до монгольского нашествия.",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2023-03-27 23:03:21",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 419
+        }
+    },
     "H74ogbHC-5": {
         "id": "H74ogbHC-5",
         "title": "Соглашение 3",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 6
-        }
-    },
-    "FR5rETO4tr": {
-        "id": "FR5rETO4tr",
-        "title": "Институт",
-        "author": "Т. Бреус",
-        "notes": "",
-        "createdAt": "2023-03-07 18:00:56",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 165
         }
     }
 }

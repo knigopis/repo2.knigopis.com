@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>418</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>419</sup>
 ---
 
 ## 2023
@@ -6,6 +6,11 @@
 ### Раки-отшельники
 Анна Рагде
 > [2023-01-06] 
+
+
+### История Российского государства. От истоков до монгольского нашествия.
+Борис Акунин
+> [2023-01-03] 
 
 
 ### Тополь берлинский
