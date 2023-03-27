@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
+    > если веришь в Бога — можно при этом молиться, если нет — ругаться, если русский — молиться и ругаться одновременно.
+
 * «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
-    > Ух эти путешествия во времени, точнее временные петли)
 
 * Трактир Ямайка ~ [Вит](users/300/300273923-vkontakte)<sup>107</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Девять принцев Амбера ~ [rNix](users/227/22742452-yandex)<sup>72</sup>
 
-* Вальсируя с медведями ~ [rNix](users/227/22742452-yandex)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>340</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>211</sup> 
 [](users/112/112599544475740205056-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>94</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 [](users/114/114160762156279162391-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>1</sup> 
-[](users/106/106790533996892216851-google)<sup>0</sup> 
 
 
-_25.03.2023 16:31:44_
+_27.03.2023 20:42:04_

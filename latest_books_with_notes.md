@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
 * «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
 * «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
 * Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
@@ -30,7 +31,6 @@
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
 * Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
-* Искусство быть ~ [](users/106/106915386474260202605-google)<sup>3</sup>
 
 
-_22.03.2023 10:02:55_
+_27.03.2023 20:42:04_
