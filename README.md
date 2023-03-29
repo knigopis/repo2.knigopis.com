@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rassafel](users/101/101533900657595416506-google)<sup>0</sup> 
+[rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>419</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>340</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 
 
-_29.03.2023 18:31:40_
+_29.03.2023 18:32:36_
