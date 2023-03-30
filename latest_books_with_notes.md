@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
 * Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
 * «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
 * «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
@@ -30,7 +31,6 @@
 * Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
 * Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
-* Мороз ~ [PaJLaDuH](users/336/336022778-yandex)<sup>2</sup>
 
 
-_27.03.2023 20:42:04_
+_30.03.2023 14:21:45_

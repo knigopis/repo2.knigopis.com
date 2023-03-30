@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
+    > audio
+
 * Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
     > если веришь в Бога — можно при этом молиться, если нет — ругаться, если русский — молиться и ругаться одновременно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
-    > audio
 
 * Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Разработка через тестирование ~ [rNix](users/227/22742452-yandex)<sup>73</sup>
 
-* Девять принцев Амбера ~ [rNix](users/227/22742452-yandex)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>0</sup> 
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>419</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>340</sup> 
 [](users/112/112599544475740205056-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>94</sup> 
 [darkxbuddha](users/115/115058436318443463985-google)<sup>4</sup> 
 [Искатель](users/101/101980499685087277277-google)<sup>0</sup> 
 [leo](users/106/106915386474260202605-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 
 
-_30.03.2023 12:27:25_
+_30.03.2023 14:21:45_

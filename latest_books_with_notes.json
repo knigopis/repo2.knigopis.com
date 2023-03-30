@@ -1,4 +1,16 @@
 {
+    "ss-OYERdN7": {
+        "id": "ss-OYERdN7",
+        "title": "«Серебряное кресло»",
+        "author": "Клайв Льюис",
+        "notes": "audio",
+        "createdAt": "2023-03-30 14:21:45",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 95
+        }
+    },
     "H74ogbHC-5": {
         "id": "H74ogbHC-5",
         "title": "Соглашение 3",
@@ -345,18 +357,6 @@
             "id": "336022778-yandex",
             "nickname": "PaJLaDuH",
             "booksCount": 3
-        }
-    },
-    "tpCpMiDfsE": {
-        "id": "tpCpMiDfsE",
-        "title": "Мороз",
-        "author": "Владимир Галактионович Короленко",
-        "notes": "audio",
-        "createdAt": "2023-01-06 09:27:13",
-        "user": {
-            "id": "336022778-yandex",
-            "nickname": "PaJLaDuH",
-            "booksCount": 2
         }
     }
 }
