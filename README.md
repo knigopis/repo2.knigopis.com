@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hugo](users/105/105063533945004840111-google)<sup>0</sup> 
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>419</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>1005</sup> 
 [](users/109/109363607816033953885-google)<sup>1</sup> 
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
-[](users/105/105063533945004840111-google)<sup>1</sup> 
 [](users/385/385759182-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>73</sup> 
 
 
-_29.03.2023 18:32:36_
+_30.03.2023 12:27:25_
