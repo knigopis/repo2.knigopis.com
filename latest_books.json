@@ -1,4 +1,16 @@
 {
+    "Cyr2QOczBN": {
+        "id": "Cyr2QOczBN",
+        "title": "Александр Неввский",
+        "author": "Василий Ян",
+        "notes": "",
+        "createdAt": "2023-03-31 07:15:16",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 58
+        }
+    },
     "XCg7G6IdVK": {
         "id": "XCg7G6IdVK",
         "title": "Казачий присуд",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 345
-        }
-    },
-    "bw2dWKEZi4": {
-        "id": "bw2dWKEZi4",
-        "title": "Сегодня вечером завтра",
-        "author": "Рейчел Лин Соломон",
-        "notes": "",
-        "createdAt": "2023-03-10 16:04:50",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 1004
         }
     }
 }
