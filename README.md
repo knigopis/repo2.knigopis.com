@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
+    > Хорошо взять материал для родословную
+
 * В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
     > Про зарождение Котельниково
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
-    > если веришь в Бога — можно при этом молиться, если нет — ругаться, если русский — молиться и ругаться одновременно.
 
 * «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Лев, ведьма и платяной шкаф» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>90</sup>
 
-* «Племянник чародея» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>89</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mfevralev](users/140/140966150-vkontakte)<sup>56</sup> 
+[mfevralev](users/140/140966150-vkontakte)<sup>57</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>0</sup> 
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>108</sup> 
 
 
-_31.03.2023 07:14:55_
+_31.03.2023 07:15:09_

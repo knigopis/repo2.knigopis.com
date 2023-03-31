@@ -1,4 +1,16 @@
 {
+    "XCg7G6IdVK": {
+        "id": "XCg7G6IdVK",
+        "title": "Казачий присуд",
+        "author": "Дронов",
+        "notes": "Хорошо взять материал для родословную",
+        "createdAt": "2023-03-31 07:15:09",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 57
+        }
+    },
     "gRiqzW9U-h": {
         "id": "gRiqzW9U-h",
         "title": "В родных местах",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 1004
-        }
-    },
-    "SLocRfs4Zy": {
-        "id": "SLocRfs4Zy",
-        "title": "Хоббит туда и обратно",
-        "author": "Толкин",
-        "notes": "",
-        "createdAt": "2023-03-10 15:00:11",
-        "user": {
-            "id": "109363607816033953885-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
