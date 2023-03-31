@@ -1,4 +1,16 @@
 {
+    "gRiqzW9U-h": {
+        "id": "gRiqzW9U-h",
+        "title": "В родных местах",
+        "author": "Серафимович",
+        "notes": "Про зарождение Котельниково",
+        "createdAt": "2023-03-31 07:14:55",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 56
+        }
+    },
     "ss-OYERdN7": {
         "id": "ss-OYERdN7",
         "title": "«Серебряное кресло»",
@@ -345,18 +357,6 @@
             "id": "109363607816033953885-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "3zDAxVbPqL": {
-        "id": "3zDAxVbPqL",
-        "title": "Бей или беги",
-        "author": "Саманта Янг",
-        "notes": "",
-        "createdAt": "2023-03-09 16:22:54",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 1003
         }
     }
 }

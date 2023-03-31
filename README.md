@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
+    > Про зарождение Котельниково
+
 * «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > если веришь в Бога — можно при этом молиться, если нет — ругаться, если русский — молиться и ругаться одновременно.
 
 * «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
-    > audio
 
 * «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Племянник чародея» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>89</sup>
 
-* Разработка через тестирование ~ [rNix](users/227/22742452-yandex)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>56</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>0</sup> 
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 [](users/101/101763698186264086786-google)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>108</sup> 
-[rNix](users/227/22742452-yandex)<sup>73</sup> 
 
 
-_30.03.2023 14:21:45_
+_31.03.2023 07:14:55_

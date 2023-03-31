@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
 * «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
 * Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
 * «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
@@ -30,7 +31,6 @@
 * Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
 * Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
 * Парадокс ~ [PaJLaDuH](users/336/336022778-yandex)<sup>4</sup>
-* Сон смешного человека ~ [PaJLaDuH](users/336/336022778-yandex)<sup>3</sup>
 
 
-_30.03.2023 14:21:45_
+_31.03.2023 07:14:55_
