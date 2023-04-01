@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[hugo](users/105/105063533945004840111-google)<sup>1</sup> 
+[hugo](users/105/105063533945004840111-google)<sup>2</sup> 
 [coolimzin](users/103/103740865919918334913-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>58</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101763698186264086786-google)<sup>0</sup> 
 
 
-_31.03.2023 20:06:48_
+_01.04.2023 00:37:37_
