@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112452730042794139520-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 [coolimzin](users/103/103740865919918334913-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/385/385759182-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
-[](users/101/101763698186264086786-google)<sup>0</sup> 
 
 
-_01.04.2023 00:38:48_
+_02.04.2023 21:25:28_
