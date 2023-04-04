@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>217</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 [coolimzin](users/103/103740865919918334913-google)<sup>1</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112183430504883294367-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>347</sup> 
 [suhoff mary](users/117/117227278555818237332-google)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>216</sup> 
 [](users/116/116049106351328726122-google)<sup>4</sup> 
 [sivtseva.a.yu](users/595/595923033-yandex)<sup>1</sup> 
 [](users/649/6492441105371634172-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 
 
-_02.04.2023 21:25:28_
+_04.04.2023 14:22:19_
