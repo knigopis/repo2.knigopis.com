@@ -2,5 +2,4 @@
 ---
 
 ### `` My Book
-My Author
 
