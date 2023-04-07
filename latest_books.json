@@ -1,4 +1,16 @@
 {
+    "NydkVh5qkA": {
+        "id": "NydkVh5qkA",
+        "title": "The Clot Thickens: The enduring mystery of heart disease",
+        "author": "Malcolm Kendrick",
+        "notes": "",
+        "createdAt": "2023-04-07 16:34:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 218
+        }
+    },
     "uxwy58jwKW": {
         "id": "uxwy58jwKW",
         "title": "Lontano",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 167
-        }
-    },
-    "RJqxs2eRcu": {
-        "id": "RJqxs2eRcu",
-        "title": "Собственность Альфы",
-        "author": "Екатерина Вострова",
-        "notes": "",
-        "createdAt": "2023-03-14 16:01:20",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 346
         }
     }
 }

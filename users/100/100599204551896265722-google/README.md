@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>217</sup>
+# Список прочитанных книг пользователя exulted<sup>218</sup>
 ---
 
 ## 2023
+
+### The Clot Thickens: The enduring mystery of heart disease
+Malcolm Kendrick
+> [2023-04-05] 
+
 
 ### Lontano
 Jean-Christophe Grange
