@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>341</sup>
+    > Доброе слово ничего не стоит, а пользу приносит    когда всем вредность начисляли, родственница первой стояла, и ей отсыпали сполна
+
 * «Последний континент» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
-    > audio
 
 * Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
 
-* Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>341</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>349</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>218</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>419</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>340</sup> 
 [](users/112/112599544475740205056-google)<sup>0</sup> 
 [darkxbuddha](users/115/115058436318443463985-google)<sup>4</sup> 
 [Искатель](users/101/101980499685087277277-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 
 
-_08.04.2023 18:16:02_
+_08.04.2023 20:59:42_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>341</sup>
 * «Последний континент» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup>
 * «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
 * «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
@@ -30,7 +31,6 @@
 * Гувернантка поневоле, или Зелье Судьбы ~ [butercupa](users/193/193697993-vkontakte)<sup>88</sup>
 * Кухарка тайного советника ~ [butercupa](users/193/193697993-vkontakte)<sup>87</sup>
 * Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
-* Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
 
 
-_08.04.2023 16:35:06_
+_08.04.2023 20:59:42_
