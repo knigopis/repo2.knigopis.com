@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
 * «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
 * Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
 * В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
 * Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
 * санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
-* Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
 
 
-_08.04.2023 16:34:11_
+_08.04.2023 16:34:26_

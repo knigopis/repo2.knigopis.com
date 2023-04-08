@@ -1,4 +1,16 @@
 {
+    "OWhqBGCxzJ": {
+        "id": "OWhqBGCxzJ",
+        "title": "«Последний герой»",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-04-08 16:34:26",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 97
+        }
+    },
     "STWjR1nwjn": {
         "id": "STWjR1nwjn",
         "title": "«Последняя битва»",
@@ -345,18 +357,6 @@
             "id": "116049106351328726122-google",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "_c5oQkRFNC": {
-        "id": "_c5oQkRFNC",
-        "title": "Телесная психология: как изменить судьбу через тело и вернуть женщине саму себя",
-        "author": "Ксения Кошкина",
-        "notes": "",
-        "createdAt": "2023-03-15 15:57:05",
-        "user": {
-            "id": "595923033-yandex",
-            "nickname": "sivtseva.a.yu",
-            "booksCount": 1
         }
     }
 }
