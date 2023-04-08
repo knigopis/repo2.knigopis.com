@@ -1,4 +1,16 @@
 {
+    "46dL6htQm8": {
+        "id": "46dL6htQm8",
+        "title": "Императорская академия пробуждение хаоса",
+        "author": "Мария Боталова",
+        "notes": "",
+        "createdAt": "2023-04-08 17:49:31",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 348
+        }
+    },
     "DqqlLXi_fu": {
         "id": "DqqlLXi_fu",
         "title": "«Последний континент»",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 168
-        }
-    },
-    "gpFPSE9ED6": {
-        "id": "gpFPSE9ED6",
-        "title": "Туда и обратно",
-        "author": "Троцкий Лев",
-        "notes": "",
-        "createdAt": "2023-03-17 14:50:37",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 216
         }
     }
 }

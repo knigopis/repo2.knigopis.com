@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Lala",
+        "booksCount": 348,
+        "updatedAt": "2023-04-08 17:49:31"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -106,12 +112,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-03-19 09:42:57"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 347,
-        "updatedAt": "2023-03-18 19:20:01"
     },
     "117227278555818237332-google": {
         "id": "117227278555818237332-google",
