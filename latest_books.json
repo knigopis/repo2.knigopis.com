@@ -1,4 +1,16 @@
 {
+    "DqqlLXi_fu": {
+        "id": "DqqlLXi_fu",
+        "title": "«Последний континент»",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-04-08 16:35:06",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 98
+        }
+    },
     "OWhqBGCxzJ": {
         "id": "OWhqBGCxzJ",
         "title": "«Последний герой»",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 216
-        }
-    },
-    "MMdW4Mt6MO": {
-        "id": "MMdW4Mt6MO",
-        "title": "Безумно богатые русские",
-        "author": "Элизабет Шимпфёсль",
-        "notes": "",
-        "createdAt": "2023-03-16 20:41:07",
-        "user": {
-            "id": "116049106351328726122-google",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Последний континент» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup>
 * «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
 * «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
 * Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Кухарка тайного советника ~ [butercupa](users/193/193697993-vkontakte)<sup>87</sup>
 * Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
 * Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
-* санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
 
 
-_08.04.2023 16:34:26_
+_08.04.2023 16:35:06_

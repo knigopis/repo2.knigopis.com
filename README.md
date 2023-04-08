@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Последний континент» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup>
+    > audio
+
 * «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
-    > Хорошо взять материал для родословную
 
 * В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я надену платье цвета ночи ~ [Garka](users/115/115753719718250012620-google)<sup>338</sup>
 
-* Трактир Ямайка ~ [Вит](users/300/300273923-vkontakte)<sup>107</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>218</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 
 
-_08.04.2023 16:34:26_
+_08.04.2023 16:35:06_
