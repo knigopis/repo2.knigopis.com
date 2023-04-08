@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
 * Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
 * В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
 * «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Красный цветок ~ [PaJLaDuH](users/336/336022778-yandex)<sup>7</sup>
 * санаторий ~ [](users/101/101368518035734751027-google)<sup>5</sup>
 * Верочка ~ [PaJLaDuH](users/336/336022778-yandex)<sup>6</sup>
-* Путешествие с нигилистом ~ [PaJLaDuH](users/336/336022778-yandex)<sup>5</sup>
 
 
-_31.03.2023 07:15:09_
+_08.04.2023 16:34:11_

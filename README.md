@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
+    > audio
+
 * Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
     > Хорошо взять материал для родословную
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Про зарождение Котельниково
 
 * «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
-    > audio
 
 * Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * «Конь и его мальчик» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>91</sup>
 
-* «Лев, ведьма и платяной шкаф» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>218</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 [coolimzin](users/103/103740865919918334913-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>58</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup> 
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>419</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mrpsarik](users/386/38646651-vkontakte)<sup>0</sup> 
 
 
-_07.04.2023 16:34:20_
+_08.04.2023 16:34:11_

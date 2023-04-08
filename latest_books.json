@@ -1,4 +1,16 @@
 {
+    "STWjR1nwjn": {
+        "id": "STWjR1nwjn",
+        "title": "«Последняя битва»",
+        "author": "Клайв Льюис",
+        "notes": "audio",
+        "createdAt": "2023-04-08 16:34:11",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 96
+        }
+    },
     "NydkVh5qkA": {
         "id": "NydkVh5qkA",
         "title": "The Clot Thickens: The enduring mystery of heart disease",
@@ -345,18 +357,6 @@
             "id": "595923033-yandex",
             "nickname": "sivtseva.a.yu",
             "booksCount": 1
-        }
-    },
-    "6tLIMb-mJl": {
-        "id": "6tLIMb-mJl",
-        "title": "Когда мы перестали понимать мир",
-        "author": "Б. Лабатут",
-        "notes": "",
-        "createdAt": "2023-03-14 18:51:53",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 167
         }
     }
 }
