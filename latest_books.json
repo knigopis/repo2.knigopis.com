@@ -1,4 +1,16 @@
 {
+    "zJlH30qfTQ": {
+        "id": "zJlH30qfTQ",
+        "title": "Императорская академия сердце хаоса",
+        "author": "Мария Боталова",
+        "notes": "",
+        "createdAt": "2023-04-08 17:51:50",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 350
+        }
+    },
     "lB-HekT5Xx": {
         "id": "lB-HekT5Xx",
         "title": "Императорская академия путь хаоса",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 347
-        }
-    },
-    "RVMjCntf0T": {
-        "id": "RVMjCntf0T",
-        "title": "",
-        "author": "Мюссо",
-        "notes": "",
-        "createdAt": "2023-03-18 06:32:11",
-        "user": {
-            "id": "117227278555818237332-google",
-            "nickname": "suhoff mary",
-            "booksCount": 1
         }
     }
 }
