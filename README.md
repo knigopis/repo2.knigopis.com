@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дело табак ~ [Garka](users/115/115753719718250012620-google)<sup>339</sup>
+    > Сэм Ваймс на отдыхе с семьёй. Ну да, отдохнёт, конечно)))
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>341</sup>
     > Доброе слово ничего не стоит, а пользу приносит    когда всем вредность начисляли, родственница первой стояла, и ей отсыпали сполна
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
-    > audio
 
 * «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
 
-* «Принц Каспиан» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>339</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>342</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>350</sup> 
 [Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109363607816033953885-google)<sup>1</sup> 
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
 [](users/385/385759182-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 
 
-_09.04.2023 14:46:17_
+_09.04.2023 17:10:37_

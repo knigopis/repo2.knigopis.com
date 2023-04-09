@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дело табак ~ [Garka](users/115/115753719718250012620-google)<sup>339</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>341</sup>
 * «Последний континент» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup>
 * «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
@@ -30,7 +31,6 @@
 * «Убить пересмешника» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>88</sup>
 * Гувернантка поневоле, или Зелье Судьбы ~ [butercupa](users/193/193697993-vkontakte)<sup>88</sup>
 * Кухарка тайного советника ~ [butercupa](users/193/193697993-vkontakte)<sup>87</sup>
-* Old Man's War ~ [exulted](users/100/100599204551896265722-google)<sup>211</sup>
 
 
-_08.04.2023 20:59:42_
+_09.04.2023 17:10:37_
