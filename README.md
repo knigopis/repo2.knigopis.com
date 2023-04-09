@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Корона пастуха ~ [Garka](users/115/115753719718250012620-google)<sup>341</sup>
+    > Последняя книга Плоского мира... Вот и закончились эти невероятно трогающие, смешные и очень глубоие истории от Пратчетта. Очень грустно, что больше их не будет.
+
 * На всех парах ~ [Garka](users/115/115753719718250012620-google)<sup>340</sup>
     > Мойст и железная дорога, Ветинари, Ваймс - все тут. И гоблины
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сэм Ваймс на отдыхе с семьёй. Ну да, отдохнёт, конечно)))
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>341</sup>
-    > Доброе слово ничего не стоит, а пользу приносит    когда всем вредность начисляли, родственница первой стояла, и ей отсыпали сполна
 
 * «Последний континент» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
 
-* Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>340</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>341</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>342</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>350</sup> 
 [Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/385/385759182-vkontakte)<sup>0</sup> 
 
 
-_09.04.2023 17:11:43_
+_09.04.2023 17:13:43_
