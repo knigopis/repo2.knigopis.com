@@ -1,4 +1,10 @@
 {
+    "107186097200537202336-google": {
+        "id": "107186097200537202336-google",
+        "nickname": "Rami_Ledi",
+        "booksCount": 0,
+        "updatedAt": "2023-04-09 12:25:51"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 338,
         "updatedAt": "2023-02-25 18:03:19"
-    },
-    "38646651-vkontakte": {
-        "id": "38646651-vkontakte",
-        "nickname": "mrpsarik",
-        "booksCount": 0,
-        "updatedAt": "2023-02-25 06:04:57"
     }
 }
