@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>341</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>342</sup>
 ---
 
 ## 2023
+
+### Вернуть невесту. Ловушка для попаданки
+Ардова Алиса
+> [2023-04-09] 
+
 
 ### Если твой босс монстр
 Ардова Алиса

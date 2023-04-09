@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>342</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>350</sup> 
 [Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>341</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>218</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>338</sup> 
 
 
-_09.04.2023 13:58:13_
+_09.04.2023 14:46:17_
