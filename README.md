@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ловушка для невесты 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>343</sup>
+    > Маленькие секреты, если их долго скрывать от близких, имеют обыкновение постепенно превращаться в большие, мрачные тайны, которые вредят даже самым крепким отношениям.
+
 * Корона пастуха ~ [Garka](users/115/115753719718250012620-google)<sup>341</sup>
     > Последняя книга Плоского мира... Вот и закончились эти невероятно трогающие, смешные и очень глубоие истории от Пратчетта. Очень грустно, что больше их не будет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мойст и железная дорога, Ветинари, Ваймс - все тут. И гоблины
 
 * Дело табак ~ [Garka](users/115/115753719718250012620-google)<sup>339</sup>
-    > Сэм Ваймс на отдыхе с семьёй. Ну да, отдохнёт, конечно)))
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>341</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
 
-* «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>343</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>341</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>342</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>350</sup> 
 [Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/385/385759182-vkontakte)<sup>0</sup> 
 
 
-_09.04.2023 17:13:43_
+_10.04.2023 17:50:28_
