@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Незримые академики» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>99</sup>
+    > audio
+
 * Замуж второй раз, или Ещё посмотрим, кто из нас попал! ~ [Chiffi](users/105/105831994080785626680-google)<sup>344</sup>
     > Немного переборщила, но приятное женское чтиво
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Маленькие секреты, если их долго скрывать от близких, имеют обыкновение постепенно превращаться в большие, мрачные тайны, которые вредят даже самым крепким отношениям.
 
 * Корона пастуха ~ [Garka](users/115/115753719718250012620-google)<sup>341</sup>
-    > Последняя книга Плоского мира... Вот и закончились эти невероятно трогающие, смешные и очень глубоие истории от Пратчетта. Очень грустно, что больше их не будет.
 
 * На всех парах ~ [Garka](users/115/115753719718250012620-google)<sup>340</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
 
-* Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>99</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>344</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>420</sup> 
 [tomms](users/108/108891017188838265517-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>341</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>350</sup> 
 [Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>218</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
 
 
-_12.04.2023 05:56:50_
+_12.04.2023 09:51:08_
