@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>218</sup>
+# Список прочитанных книг пользователя exulted<sup>219</sup>
 ---
 
 ## 2023
+
+### The Tunnels of Cu Chi: A Remarkable Story of War
+Tom Mangold, John Penycate
+> [2023-04-17] 
+
 
 ### The Clot Thickens: The enduring mystery of heart disease
 Malcolm Kendrick
