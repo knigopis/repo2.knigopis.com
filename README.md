@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Мор учиник Смерти» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>100</sup>
+    > audio
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>346</sup>
     > Неважно в каком мире ты живешь, важно какой мир живет в тебе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Замуж второй раз, или Ещё посмотрим, кто из нас попал! ~ [Chiffi](users/105/105831994080785626680-google)<sup>344</sup>
-    > Немного переборщила, но приятное женское чтиво
 
 * Ловушка для невесты 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>343</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
 
-* «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>100</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>346</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>99</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>420</sup> 
 [tomms](users/108/108891017188838265517-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>341</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo hugo](users/352/3528984039845110263-mailru)<sup>1</sup> 
 
 
-_14.04.2023 18:50:14_
+_17.04.2023 09:01:09_
