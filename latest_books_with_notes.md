@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Моби Дик, или Белый кит» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
 * Наследие предков ~ [Chiffi](users/105/105831994080785626680-google)<sup>347</sup>
 * «Мор учиник Смерти» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>100</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>346</sup>
@@ -30,7 +31,6 @@
 * Незримые Академики ~ [Garka](users/115/115753719718250012620-google)<sup>337</sup>
 * Трансгуманизм ~ [Вит](users/300/300273923-vkontakte)<sup>101</sup>
 * Чагин ~ [Вит](users/300/300273923-vkontakte)<sup>98</sup>
-* Женщина, у которой есть план ~ [albina_untiring](users/257/2579695-vkontakte)<sup>42</sup>
 
 
-_17.04.2023 18:19:01_
+_19.04.2023 03:49:46_

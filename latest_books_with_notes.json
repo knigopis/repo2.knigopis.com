@@ -1,4 +1,16 @@
 {
+    "PnmLonxfSH": {
+        "id": "PnmLonxfSH",
+        "title": "«Моби Дик, или Белый кит»",
+        "author": "Герман Мелвилл",
+        "notes": "audio",
+        "createdAt": "2023-04-19 03:49:46",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 101
+        }
+    },
     "pnL7eAyMYC": {
         "id": "pnL7eAyMYC",
         "title": "Наследие предков",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 98
-        }
-    },
-    "xLI_JOq46q": {
-        "id": "xLI_JOq46q",
-        "title": "Женщина, у которой есть план",
-        "author": "Мей Маск",
-        "notes": "Занимательное чтиво на тему, как можно быть женщиной с планом и тряпкой одновременно",
-        "createdAt": "2023-01-26 09:12:14",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 42
         }
     }
 }
