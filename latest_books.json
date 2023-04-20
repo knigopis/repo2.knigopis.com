@@ -1,4 +1,16 @@
 {
+    "MGd1y4uaSO": {
+        "id": "MGd1y4uaSO",
+        "title": "«Мрачный Жнец»",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-04-20 12:56:54",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 102
+        }
+    },
     "PnmLonxfSH": {
         "id": "PnmLonxfSH",
         "title": "«Моби Дик, или Белый кит»",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 56
-        }
-    },
-    "ss-OYERdN7": {
-        "id": "ss-OYERdN7",
-        "title": "«Серебряное кресло»",
-        "author": "Клайв Льюис",
-        "notes": "audio",
-        "createdAt": "2023-03-30 14:21:45",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 95
         }
     }
 }

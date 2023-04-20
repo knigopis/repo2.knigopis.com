@@ -1,4 +1,16 @@
 {
+    "MGd1y4uaSO": {
+        "id": "MGd1y4uaSO",
+        "title": "«Мрачный Жнец»",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-04-20 12:56:54",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 102
+        }
+    },
     "PnmLonxfSH": {
         "id": "PnmLonxfSH",
         "title": "«Моби Дик, или Белый кит»",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 101
-        }
-    },
-    "za8C9WgPMF": {
-        "id": "za8C9WgPMF",
-        "title": "Чагин",
-        "author": "Водолазкин Евгений",
-        "notes": "Не дочитал",
-        "createdAt": "2023-02-03 08:50:36",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 98
         }
     }
 }

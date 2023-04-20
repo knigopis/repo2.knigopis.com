@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Мрачный Жнец» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
+    > audio
+
 * «Моби Дик, или Белый кит» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Луна и Солнце - это символ мужского и женского начала. Луна - знак женственности, спокойствия, умиротворенности, света, мягкости и убаюкивающего. Солнце - пламя, неудержимое и сильное, быстрое, резкое и горячее. Соединение Солнца с Луной олицетворяет соединение Мужчины и Женщины, их жизней и судеб. Это знак любви - бесконечной и чистой, неземной. Символ того, что без одного из светил никогда не взойдет на небосвод другое, они неразлучны.
 
 * «Мор учиник Смерти» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>100</sup>
-    > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>346</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * На всех парах ~ [Garka](users/115/115753719718250012620-google)<sup>340</sup>
 
-* Дело табак ~ [Garka](users/115/115753719718250012620-google)<sup>339</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup> 
 [julia.paradoxina](users/673/673598-vkontakte)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>86</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>347</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>219</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>1005</sup> 
 
 
-_19.04.2023 19:41:49_
+_20.04.2023 12:56:54_
