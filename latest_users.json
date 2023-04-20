@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 23,
+        "updatedAt": "2023-04-20 19:39:38"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": "motodorfc",
         "booksCount": 0,
         "updatedAt": "2023-03-13 11:07:24"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 1005,
-        "updatedAt": "2023-03-11 10:11:49"
     }
 }
