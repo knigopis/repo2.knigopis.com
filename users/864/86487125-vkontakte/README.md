@@ -1,5 +1,13 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>45</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>46</sup>
 ---
+
+## 2023
+
+### Команда скелетов
+Стивен Кинг
+> [2023-04-10] 
+
+
 
 ## 2022
 

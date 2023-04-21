@@ -1,4 +1,10 @@
 {
+    "86487125-vkontakte": {
+        "id": "86487125-vkontakte",
+        "nickname": "Smekalistii",
+        "booksCount": 46,
+        "updatedAt": "2023-04-21 16:28:49"
+    },
     "112567033245172112150-google": {
         "id": "112567033245172112150-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "sivtseva.a.yu",
         "booksCount": 1,
         "updatedAt": "2023-03-15 15:57:05"
-    },
-    "6492441105371634172-mailru": {
-        "id": "6492441105371634172-mailru",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-03-14 19:21:19"
     }
 }
