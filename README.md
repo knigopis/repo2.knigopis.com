@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112567033245172112150-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>24</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup> 
 [julia.paradoxina](users/673/673598-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116049106351328726122-google)<sup>4</sup> 
 [sivtseva.a.yu](users/595/595923033-yandex)<sup>1</sup> 
 [](users/649/6492441105371634172-mailru)<sup>0</sup> 
-[motodorfc](users/112/112780369475521902606-google)<sup>0</sup> 
 
 
-_20.04.2023 19:40:35_
+_21.04.2023 16:27:37_
