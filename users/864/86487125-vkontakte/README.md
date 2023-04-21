@@ -1,7 +1,12 @@
-# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>46</sup>
+# List of books read by [Smekalistii](http://vk.com/id86487125)<sup>47</sup>
 ---
 
 ## 2023
+
+### Расплата
+Ирса Сигурдардоттир
+> [2023-04-17] 
+
 
 ### Команда скелетов
 Стивен Кинг
