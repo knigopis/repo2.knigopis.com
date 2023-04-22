@@ -1,4 +1,10 @@
 {
+    "106915386474260202605-google": {
+        "id": "106915386474260202605-google",
+        "nickname": "leo",
+        "booksCount": 8,
+        "updatedAt": "2023-04-22 08:26:49"
+    },
     "69729969-vkontakte": {
         "id": "69729969-vkontakte",
         "nickname": null,
@@ -136,12 +142,6 @@
         "nickname": "Искатель",
         "booksCount": 0,
         "updatedAt": "2023-03-22 04:59:34"
-    },
-    "106915386474260202605-google": {
-        "id": "106915386474260202605-google",
-        "nickname": "leo",
-        "booksCount": 7,
-        "updatedAt": "2023-03-21 04:35:37"
     },
     "366598618-yandex": {
         "id": "366598618-yandex",
