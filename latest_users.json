@@ -1,4 +1,10 @@
 {
+    "69729969-vkontakte": {
+        "id": "69729969-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-04-22 05:06:15"
+    },
     "86487125-vkontakte": {
         "id": "86487125-vkontakte",
         "nickname": "Smekalistii",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 4,
         "updatedAt": "2023-03-16 20:41:07"
-    },
-    "595923033-yandex": {
-        "id": "595923033-yandex",
-        "nickname": "sivtseva.a.yu",
-        "booksCount": 1,
-        "updatedAt": "2023-03-15 15:57:05"
     }
 }
