@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/697/69729969-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>47</sup> 
 [](users/112/112567033245172112150-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112183430504883294367-google)<sup>0</sup> 
 [suhoff mary](users/117/117227278555818237332-google)<sup>1</sup> 
 [](users/116/116049106351328726122-google)<sup>4</sup> 
-[sivtseva.a.yu](users/595/595923033-yandex)<sup>1</sup> 
 
 
-_21.04.2023 16:29:11_
+_22.04.2023 05:06:16_
