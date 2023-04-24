@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>347</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>348</sup>
 ---
 
 ## 2023
+
+### Жемчужная невеста
+Шаенская Анна
+> [2023-04-24] 
+
 
 ### Наследие предков
 Дашкевич Валерия
