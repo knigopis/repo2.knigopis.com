@@ -1,4 +1,10 @@
 {
+    "101945492626982767252-google": {
+        "id": "101945492626982767252-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-04-24 21:23:20"
+    },
     "112183430504883294367-google": {
         "id": "112183430504883294367-google",
         "nickname": "a_5432",
@@ -172,11 +178,5 @@
         "nickname": "suhoff mary",
         "booksCount": 1,
         "updatedAt": "2023-03-18 06:32:11"
-    },
-    "116049106351328726122-google": {
-        "id": "116049106351328726122-google",
-        "nickname": null,
-        "booksCount": 4,
-        "updatedAt": "2023-03-16 20:41:07"
     }
 }
