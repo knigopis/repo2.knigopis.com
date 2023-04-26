@@ -1,4 +1,16 @@
 {
+    "tdiGEMrBtB": {
+        "id": "tdiGEMrBtB",
+        "title": "Мое проклятие (3 части)",
+        "author": "Ардова Алиса",
+        "notes": "Женский роман, но симпатичный",
+        "createdAt": "2023-04-26 20:54:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 349
+        }
+    },
     "MGd1y4uaSO": {
         "id": "MGd1y4uaSO",
         "title": "«Мрачный Жнец»",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 337
-        }
-    },
-    "yqnTFU740H": {
-        "id": "yqnTFU740H",
-        "title": "Трансгуманизм",
-        "author": "Пелевин Виктор",
-        "notes": "Бросил. Бред. Ну не заходит мне этот бессюжетный набор штампов.",
-        "createdAt": "2023-02-03 08:54:08",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 101
         }
     }
 }

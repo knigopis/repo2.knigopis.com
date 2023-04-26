@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>348</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>349</sup>
 ---
 
 ## 2023
+
+### Мое проклятие (3 части)
+Ардова Алиса
+> [2023-04-27] Женский роман, но симпатичный
+
 
 ### Жемчужная невеста
 Шаенская Анна

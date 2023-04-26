@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мое проклятие (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>349</sup>
+    > Женский роман, но симпатичный
+
 * «Мрачный Жнец» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Наследие предков ~ [Chiffi](users/105/105831994080785626680-google)<sup>347</sup>
-    > Луна и Солнце - это символ мужского и женского начала. Луна - знак женственности, спокойствия, умиротворенности, света, мягкости и убаюкивающего. Солнце - пламя, неудержимое и сильное, быстрое, резкое и горячее. Соединение Солнца с Луной олицетворяет соединение Мужчины и Женщины, их жизней и судеб. Это знак любви - бесконечной и чистой, неземной. Символ того, что без одного из светил никогда не взойдет на небосвод другое, они неразлучны.
 
 * «Мор учиник Смерти» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>100</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Корона пастуха ~ [Garka](users/115/115753719718250012620-google)<sup>341</sup>
 
-* На всех парах ~ [Garka](users/115/115753719718250012620-google)<sup>340</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>349</sup> 
 [leo](users/106/106915386474260202605-google)<sup>9</sup> 
 [](users/101/101945492626982767252-google)<sup>0</sup> 
 [a_5432](users/112/112183430504883294367-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>348</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>171</sup> 
 [](users/697/69729969-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [suhoff mary](users/117/117227278555818237332-google)<sup>1</sup> 
 
 
-_26.04.2023 10:53:18_
+_26.04.2023 20:54:20_

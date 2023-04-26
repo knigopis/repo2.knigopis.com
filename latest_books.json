@@ -1,4 +1,16 @@
 {
+    "tdiGEMrBtB": {
+        "id": "tdiGEMrBtB",
+        "title": "Мое проклятие (3 части)",
+        "author": "Ардова Алиса",
+        "notes": "Женский роман, но симпатичный",
+        "createdAt": "2023-04-26 20:54:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 349
+        }
+    },
     "d3I6IY4Rgb": {
         "id": "d3I6IY4Rgb",
         "title": "Гадкие Лебеди",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 98
-        }
-    },
-    "OWhqBGCxzJ": {
-        "id": "OWhqBGCxzJ",
-        "title": "«Последний герой»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-04-08 16:34:26",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 97
         }
     }
 }
