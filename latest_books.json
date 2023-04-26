@@ -1,4 +1,16 @@
 {
+    "d3I6IY4Rgb": {
+        "id": "d3I6IY4Rgb",
+        "title": "Гадкие Лебеди",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2023-04-26 10:53:18",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 9
+        }
+    },
     "ui65lZlwsl": {
         "id": "ui65lZlwsl",
         "title": "Ампир V",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 97
-        }
-    },
-    "STWjR1nwjn": {
-        "id": "STWjR1nwjn",
-        "title": "«Последняя битва»",
-        "author": "Клайв Льюис",
-        "notes": "audio",
-        "createdAt": "2023-04-08 16:34:11",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 96
         }
     }
 }
