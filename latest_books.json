@@ -1,4 +1,16 @@
 {
+    "-06hh7X4Cg": {
+        "id": "-06hh7X4Cg",
+        "title": "Изгнанник",
+        "author": "Роберт Сальваторе",
+        "notes": "Тёмный эльф (2), Forgotten Realms\nПродолжение истории Дзирта. В духе первой книги. Добавляются персонажи, становится еще интереснее.",
+        "createdAt": "2023-04-27 10:14:02",
+        "user": {
+            "id": "1443824148-yandex",
+            "nickname": "ssertoria",
+            "booksCount": 6
+        }
+    },
     "Auu_gQePAo": {
         "id": "Auu_gQePAo",
         "title": "Отступник",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 340
-        }
-    },
-    "9Gl5inrMpH": {
-        "id": "9Gl5inrMpH",
-        "title": "Дело табак",
-        "author": "Пратчетт, Терри",
-        "notes": "Сэм Ваймс на отдыхе с семьёй. Ну да, отдохнёт, конечно)))",
-        "createdAt": "2023-04-09 17:10:37",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 339
         }
     }
 }

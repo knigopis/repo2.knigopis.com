@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ssertoria](users/144/1443824148-yandex)<sup>5</sup> 
+[ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
 [odetta](users/116/116089656749976654148-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>349</sup> 
 [leo](users/106/106915386474260202605-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/366/366598618-yandex)<sup>0</sup> 
 
 
-_27.04.2023 10:12:56_
+_27.04.2023 10:14:02_
