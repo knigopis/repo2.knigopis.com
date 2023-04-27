@@ -1,4 +1,16 @@
 {
+    "VPgQktgvU-": {
+        "id": "VPgQktgvU-",
+        "title": "Дочь Дроу",
+        "author": "",
+        "notes": "",
+        "createdAt": "2023-04-27 09:01:44",
+        "user": {
+            "id": "1443824148-yandex",
+            "nickname": "ssertoria",
+            "booksCount": 1
+        }
+    },
     "tdiGEMrBtB": {
         "id": "tdiGEMrBtB",
         "title": "Мое проклятие (3 части)",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 348
-        }
-    },
-    "DqqlLXi_fu": {
-        "id": "DqqlLXi_fu",
-        "title": "«Последний континент»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-04-08 16:35:06",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 98
         }
     }
 }
