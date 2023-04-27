@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ssertoria](users/144/1443824148-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>349</sup> 
 [leo](users/106/106915386474260202605-google)<sup>9</sup> 
 [](users/101/101945492626982767252-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Искатель](users/101/101980499685087277277-google)<sup>0</sup> 
 [](users/366/366598618-yandex)<sup>0</sup> 
 [](users/108/108866662388308228322-google)<sup>0</sup> 
-[suhoff mary](users/117/117227278555818237332-google)<sup>1</sup> 
 
 
-_26.04.2023 20:54:20_
+_27.04.2023 09:00:31_
