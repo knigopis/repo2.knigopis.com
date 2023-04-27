@@ -1,4 +1,16 @@
 {
+    "6aSjRu9Zuq": {
+        "id": "6aSjRu9Zuq",
+        "title": "Зона. Записки надзирателя",
+        "author": "Довлатов Сергей",
+        "notes": "",
+        "createdAt": "2023-04-27 09:50:13",
+        "user": {
+            "id": "116089656749976654148-google",
+            "nickname": "odetta",
+            "booksCount": 1
+        }
+    },
     "qz9dcQoOfh": {
         "id": "qz9dcQoOfh",
         "title": "Отречение",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 342
-        }
-    },
-    "rTT6vwgFrR": {
-        "id": "rTT6vwgFrR",
-        "title": "Наследники Ранхара",
-        "author": "Юлия Буланова",
-        "notes": "",
-        "createdAt": "2023-04-09 13:58:13",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 350
         }
     }
 }
