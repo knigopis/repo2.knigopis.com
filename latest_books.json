@@ -1,4 +1,16 @@
 {
+    "7WnKfu3Zcn": {
+        "id": "7WnKfu3Zcn",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2023-04-27 09:02:05",
+        "user": {
+            "id": "1443824148-yandex",
+            "nickname": "ssertoria",
+            "booksCount": 2
+        }
+    },
     "VPgQktgvU-": {
         "id": "VPgQktgvU-",
         "title": "Дочь Дроу",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 349
-        }
-    },
-    "46dL6htQm8": {
-        "id": "46dL6htQm8",
-        "title": "Императорская академия пробуждение хаоса",
-        "author": "Мария Боталова",
-        "notes": "",
-        "createdAt": "2023-04-08 17:49:31",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Lala",
-            "booksCount": 348
         }
     }
 }
