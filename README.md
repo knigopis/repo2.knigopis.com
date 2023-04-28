@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/114/114091474098743820596-google)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [Брюнетка](users/276/276415295-vkontakte)<sup>1</sup> 
 [ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
 [](users/112/112599544475740205056-google)<sup>0</sup> 
 [darkxbuddha](users/115/115058436318443463985-google)<sup>4</sup> 
-[Искатель](users/101/101980499685087277277-google)<sup>0</sup> 
 
 
-_28.04.2023 10:59:36_
+_28.04.2023 13:29:46_
