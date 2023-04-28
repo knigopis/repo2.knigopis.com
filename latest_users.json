@@ -1,4 +1,10 @@
 {
+    "276415295-vkontakte": {
+        "id": "276415295-vkontakte",
+        "nickname": "Брюнетка",
+        "booksCount": 0,
+        "updatedAt": "2023-04-28 09:42:09"
+    },
     "1443824148-yandex": {
         "id": "1443824148-yandex",
         "nickname": "ssertoria",
@@ -172,11 +178,5 @@
         "nickname": "Искатель",
         "booksCount": 0,
         "updatedAt": "2023-03-22 04:59:34"
-    },
-    "366598618-yandex": {
-        "id": "366598618-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-03-21 02:48:30"
     }
 }
