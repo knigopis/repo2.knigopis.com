@@ -1,4 +1,16 @@
 {
+    "sXTb6UpCNx": {
+        "id": "sXTb6UpCNx",
+        "title": "The Gray House",
+        "author": "Mariam Petrosyan",
+        "notes": "",
+        "createdAt": "2023-04-28 14:04:43",
+        "user": {
+            "id": "114091474098743820596-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "p_CY5NvV_e": {
         "id": "p_CY5NvV_e",
         "title": "Ты же ведьма!",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 420
-        }
-    },
-    "MDPHnGBeLz": {
-        "id": "MDPHnGBeLz",
-        "title": "Ловушка для невесты 2",
-        "author": "Ардова Алиса",
-        "notes": "Маленькие секреты, если их долго скрывать от близких, имеют обыкновение постепенно превращаться в большие, мрачные тайны, которые вредят даже самым крепким отношениям.",
-        "createdAt": "2023-04-10 17:50:28",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 343
         }
     }
 }
