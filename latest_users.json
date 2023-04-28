@@ -1,4 +1,10 @@
 {
+    "114091474098743820596-google": {
+        "id": "114091474098743820596-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-04-28 13:29:46"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Lala",
@@ -172,11 +178,5 @@
         "nickname": "darkxbuddha",
         "booksCount": 4,
         "updatedAt": "2023-03-23 09:49:34"
-    },
-    "101980499685087277277-google": {
-        "id": "101980499685087277277-google",
-        "nickname": "Искатель",
-        "booksCount": 0,
-        "updatedAt": "2023-03-22 04:59:34"
     }
 }
