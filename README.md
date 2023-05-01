@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Турбосуслик ~ [leo](users/106/106915386474260202605-google)<sup>10</sup>
+    > Попытка нажиться на аффирмациях-программах для подсознания
+
 * Мое проклятие (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>349</sup>
     > Женский роман, но симпатичный
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Моби Дик, или Белый кит» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
-    > audio
 
 * Наследие предков ~ [Chiffi](users/105/105831994080785626680-google)<sup>347</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ловушка для невесты 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>343</sup>
 
-* Корона пастуха ~ [Garka](users/115/115753719718250012620-google)<sup>341</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>10</sup> 
 [lomovoy79](users/271/27114245-vkontakte)<sup>1</sup> 
 [](users/114/114091474098743820596-google)<sup>1</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
 [odetta](users/116/116089656749976654148-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>349</sup> 
-[leo](users/106/106915386474260202605-google)<sup>9</sup> 
 [](users/101/101945492626982767252-google)<sup>0</sup> 
 [a_5432](users/112/112183430504883294367-google)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>171</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112599544475740205056-google)<sup>0</sup> 
 
 
-_01.05.2023 10:17:58_
+_01.05.2023 13:25:50_

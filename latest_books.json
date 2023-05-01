@@ -1,4 +1,16 @@
 {
+    "RzS6Vk37f9": {
+        "id": "RzS6Vk37f9",
+        "title": "Турбосуслик",
+        "author": "Дмитрий Лёушкин",
+        "notes": "Попытка нажиться на аффирмациях-программах для подсознания",
+        "createdAt": "2023-05-01 13:25:50",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 10
+        }
+    },
     "HKXu1WVOPg": {
         "id": "HKXu1WVOPg",
         "title": "Путь Джедая",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 219
-        }
-    },
-    "vaAEprmpkr": {
-        "id": "vaAEprmpkr",
-        "title": "«Мор учиник Смерти»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-04-17 09:01:09",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 100
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "RzS6Vk37f9": {
+        "id": "RzS6Vk37f9",
+        "title": "Турбосуслик",
+        "author": "Дмитрий Лёушкин",
+        "notes": "Попытка нажиться на аффирмациях-программах для подсознания",
+        "createdAt": "2023-05-01 13:25:50",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 10
+        }
+    },
     "tdiGEMrBtB": {
         "id": "tdiGEMrBtB",
         "title": "Мое проклятие (3 части)",
@@ -345,18 +357,6 @@
             "id": "22742452-yandex",
             "nickname": "rNix",
             "booksCount": 71
-        }
-    },
-    "wFWcWN5Q4h": {
-        "id": "wFWcWN5Q4h",
-        "title": "Незримые Академики",
-        "author": "Пратчетт, Терри",
-        "notes": "Волшебники и грают в футбол",
-        "createdAt": "2023-02-09 16:41:23",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 337
         }
     }
 }
