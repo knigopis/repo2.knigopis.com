@@ -1,4 +1,16 @@
 {
+    "HKXu1WVOPg": {
+        "id": "HKXu1WVOPg",
+        "title": "Путь Джедая",
+        "author": "Дорофеев",
+        "notes": "Тестовая запись \nИлья Стогов - 13 месяцев",
+        "createdAt": "2023-05-01 10:17:58",
+        "user": {
+            "id": "27114245-vkontakte",
+            "nickname": "lomovoy79",
+            "booksCount": 1
+        }
+    },
     "XJnP9taCkx": {
         "id": "XJnP9taCkx",
         "title": "The Gray House",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 100
-        }
-    },
-    "j8PVPGzz5n": {
-        "id": "j8PVPGzz5n",
-        "title": "",
-        "author": "",
-        "notes": "Неважно в каком мире ты живешь, важно какой мир живет в тебе",
-        "createdAt": "2023-04-14 18:50:14",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 346
         }
     }
 }
