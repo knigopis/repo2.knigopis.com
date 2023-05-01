@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>10</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>11</sup>
 ---
 
 ## 2023
+
+### Обитаемый остров
+Братья Стругацкие
+> [2023-05-01] 
+
 
 ### Турбосуслик
 Дмитрий Лёушкин
