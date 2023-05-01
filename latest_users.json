@@ -1,4 +1,10 @@
 {
+    "27114245-vkontakte": {
+        "id": "27114245-vkontakte",
+        "nickname": "lomovoy79",
+        "booksCount": 0,
+        "updatedAt": "2023-05-01 10:17:00"
+    },
     "114091474098743820596-google": {
         "id": "114091474098743820596-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-03-25 15:28:56"
-    },
-    "115058436318443463985-google": {
-        "id": "115058436318443463985-google",
-        "nickname": "darkxbuddha",
-        "booksCount": 4,
-        "updatedAt": "2023-03-23 09:49:34"
     }
 }
