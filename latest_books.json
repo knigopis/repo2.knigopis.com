@@ -1,4 +1,16 @@
 {
+    "EqH7CmuiHS": {
+        "id": "EqH7CmuiHS",
+        "title": "Академия божественных жен",
+        "author": "",
+        "notes": "Оскорбить кого то невозможно. Мы сами решаем оскорбляться или нет.",
+        "createdAt": "2023-05-02 21:18:00",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 350
+        }
+    },
     "OJ4saQt-dd": {
         "id": "OJ4saQt-dd",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 101
-        }
-    },
-    "P8U5_HSlFE": {
-        "id": "P8U5_HSlFE",
-        "title": "Однажды в Америке",
-        "author": "Гарри Грей",
-        "notes": "10",
-        "createdAt": "2023-04-18 10:57:33",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 86
         }
     }
 }
