@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* События Гражданской войны Задонье ~ [mfevralev](users/140/140966150-vkontakte)<sup>60</sup>
+    > Стр 11 найти книгу Игнатович Крестьянское движение на Дону в 1820 М 1937.
+    > 12 по 15 почему крестьяне присоединились к красным.
+    > 48 цимлянская дружина Февралёв
+
 * Наши за границей ~ [mfevralev](users/140/140966150-vkontakte)<sup>59</sup>
     > Фигня
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Оскорбить кого то невозможно. Мы сами решаем оскорбляться или нет.
 
 * Турбосуслик ~ [leo](users/106/106915386474260202605-google)<sup>10</sup>
-    > Попытка нажиться на аффирмациях-программах для подсознания
 
 * Мое проклятие (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>349</sup>
 
@@ -26,14 +30,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>346</sup>
 
-* «Незримые академики» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>99</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mfevralev](users/140/140966150-vkontakte)<sup>59</sup> 
+[mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>350</sup> 
 [leo](users/106/106915386474260202605-google)<sup>12</sup> 
 [lomovoy79](users/271/27114245-vkontakte)<sup>1</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112599544475740205056-google)<sup>0</sup> 
 
 
-_03.05.2023 00:53:25_
+_03.05.2023 00:53:43_
