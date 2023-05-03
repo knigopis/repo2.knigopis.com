@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[мишер](users/110/110444757671606245841-google)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>350</sup> 
 [leo](users/106/106915386474260202605-google)<sup>12</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [coolimzin](users/103/103740865919918334913-google)<sup>1</sup> 
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
-[](users/112/112599544475740205056-google)<sup>0</sup> 
 
 
-_03.05.2023 00:53:43_
+_03.05.2023 18:16:18_
