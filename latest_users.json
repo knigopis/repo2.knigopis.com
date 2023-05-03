@@ -1,4 +1,10 @@
 {
+    "73327956-vkontakte": {
+        "id": "73327956-vkontakte",
+        "nickname": "ksano4ka92",
+        "booksCount": 0,
+        "updatedAt": "2023-05-03 20:27:26"
+    },
     "110444757671606245841-google": {
         "id": "110444757671606245841-google",
         "nickname": "мишер",
@@ -172,11 +178,5 @@
         "nickname": "rassafel",
         "booksCount": 1,
         "updatedAt": "2023-03-29 18:32:36"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 212,
-        "updatedAt": "2023-03-28 09:22:46"
     }
 }
