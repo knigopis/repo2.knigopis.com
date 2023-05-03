@@ -1,4 +1,16 @@
 {
+    "48ZW_yWLwD": {
+        "id": "48ZW_yWLwD",
+        "title": "Наши за границей",
+        "author": "Николай Лейкин",
+        "notes": "Фигня",
+        "createdAt": "2023-05-03 00:53:25",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 59
+        }
+    },
     "EqH7CmuiHS": {
         "id": "EqH7CmuiHS",
         "title": "Академия божественных жен",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 102
-        }
-    },
-    "PnmLonxfSH": {
-        "id": "PnmLonxfSH",
-        "title": "«Моби Дик, или Белый кит»",
-        "author": "Герман Мелвилл",
-        "notes": "audio",
-        "createdAt": "2023-04-19 03:49:46",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 101
         }
     }
 }

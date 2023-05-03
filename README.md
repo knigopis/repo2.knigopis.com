@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Наши за границей ~ [mfevralev](users/140/140966150-vkontakte)<sup>59</sup>
+    > Фигня
+
 * Академия божественных жен ~ [Chiffi](users/105/105831994080785626680-google)<sup>350</sup>
     > Оскорбить кого то невозможно. Мы сами решаем оскорбляться или нет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Попытка нажиться на аффирмациях-программах для подсознания
 
 * Мое проклятие (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>349</sup>
-    > Женский роман, но симпатичный
 
 * «Мрачный Жнец» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Незримые академики» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>99</sup>
 
-* Замуж второй раз, или Ещё посмотрим, кто из нас попал! ~ [Chiffi](users/105/105831994080785626680-google)<sup>344</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>59</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>350</sup> 
 [leo](users/106/106915386474260202605-google)<sup>12</sup> 
 [lomovoy79](users/271/27114245-vkontakte)<sup>1</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 [coolimzin](users/103/103740865919918334913-google)<sup>1</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>58</sup> 
 [rassafel](users/101/101533900657595416506-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>212</sup> 
 [](users/112/112599544475740205056-google)<sup>0</sup> 
 
 
-_02.05.2023 21:18:00_
+_03.05.2023 00:53:25_
