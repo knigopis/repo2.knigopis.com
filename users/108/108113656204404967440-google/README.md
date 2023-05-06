@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>1008</sup>
+# List of books read by Janet<sup>1009</sup>
 ---
 
 ## 2023
+
+### Лунная долина
+Джек Лондон
+> [2023-04] 
+
 
 ### Дело о дерзкой разведенной
 Эрл Стэнли Гарднер
