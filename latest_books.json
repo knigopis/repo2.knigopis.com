@@ -1,4 +1,16 @@
 {
+    "eWpQVDJ5QI": {
+        "id": "eWpQVDJ5QI",
+        "title": "И вспыхнет пламя",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2023-05-06 11:33:53",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 1015
+        }
+    },
     "yyNFOnQQy7": {
         "id": "yyNFOnQQy7",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "1443824148-yandex",
             "nickname": "ssertoria",
             "booksCount": 1
-        }
-    },
-    "tdiGEMrBtB": {
-        "id": "tdiGEMrBtB",
-        "title": "Мое проклятие (3 части)",
-        "author": "Ардова Алиса",
-        "notes": "Женский роман, но симпатичный",
-        "createdAt": "2023-04-26 20:54:20",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 349
         }
     }
 }
