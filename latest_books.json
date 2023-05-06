@@ -1,4 +1,16 @@
 {
+    "O11C8D7508": {
+        "id": "O11C8D7508",
+        "title": "Дело об испуганных наследниках",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2023-05-06 11:33:13",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 1012
+        }
+    },
     "9mQf8r6NCs": {
         "id": "9mQf8r6NCs",
         "title": "За рекой, в тени деревьев",
@@ -345,18 +357,6 @@
             "id": "112183430504883294367-google",
             "nickname": "a_5432",
             "booksCount": 1
-        }
-    },
-    "2S0i6Fqteu": {
-        "id": "2S0i6Fqteu",
-        "title": "Жемчужная невеста",
-        "author": "Шаенская Анна",
-        "notes": "",
-        "createdAt": "2023-04-24 04:28:01",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 348
         }
     }
 }
