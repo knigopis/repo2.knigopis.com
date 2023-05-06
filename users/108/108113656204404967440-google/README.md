@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>1009</sup>
+# List of books read by Janet<sup>1010</sup>
 ---
 
 ## 2023
+
+### Дело о призрачной удаче
+Эрл Стэнли Гарднер
+> [2023-04] 
+
 
 ### Лунная долина
 Джек Лондон
