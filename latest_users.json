@@ -1,4 +1,10 @@
 {
+    "24342718-vkontakte": {
+        "id": "24342718-vkontakte",
+        "nickname": "Oberst",
+        "booksCount": 0,
+        "updatedAt": "2023-05-06 07:23:50"
+    },
     "73327956-vkontakte": {
         "id": "73327956-vkontakte",
         "nickname": "ksano4ka92",
@@ -172,11 +178,5 @@
         "nickname": "coolimzin",
         "booksCount": 1,
         "updatedAt": "2023-03-31 18:06:20"
-    },
-    "101533900657595416506-google": {
-        "id": "101533900657595416506-google",
-        "nickname": "rassafel",
-        "booksCount": 1,
-        "updatedAt": "2023-03-29 18:32:36"
     }
 }
