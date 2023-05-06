@@ -1,4 +1,16 @@
 {
+    "KJFYQrku1M": {
+        "id": "KJFYQrku1M",
+        "title": "Пляжное чтение",
+        "author": "Эмили Генри",
+        "notes": "",
+        "createdAt": "2023-05-06 11:34:19",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 1017
+        }
+    },
     "dUtxkbJRnX": {
         "id": "dUtxkbJRnX",
         "title": "Сойка-пересмешница",
@@ -345,18 +357,6 @@
             "id": "1443824148-yandex",
             "nickname": "ssertoria",
             "booksCount": 3
-        }
-    },
-    "7WnKfu3Zcn": {
-        "id": "7WnKfu3Zcn",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2023-04-27 09:02:05",
-        "user": {
-            "id": "1443824148-yandex",
-            "nickname": "ssertoria",
-            "booksCount": 2
         }
     }
 }
