@@ -1,4 +1,16 @@
 {
+    "rnGgw1RjFf": {
+        "id": "rnGgw1RjFf",
+        "title": "Дело о дерзкой разведенной",
+        "author": "Эрл Стэнли Гарднер",
+        "notes": "",
+        "createdAt": "2023-05-06 11:32:26",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 1008
+        }
+    },
     "SZh5PcZO6B": {
         "id": "SZh5PcZO6B",
         "title": "Дело о влюбчивой тёте",
@@ -345,18 +357,6 @@
             "id": "86487125-vkontakte",
             "nickname": "Smekalistii",
             "booksCount": 47
-        }
-    },
-    "dOe3z00J3h": {
-        "id": "dOe3z00J3h",
-        "title": "Команда скелетов",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2023-04-21 16:28:49",
-        "user": {
-            "id": "86487125-vkontakte",
-            "nickname": "Smekalistii",
-            "booksCount": 46
         }
     }
 }
