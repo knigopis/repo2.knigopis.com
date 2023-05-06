@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 1006,
+        "updatedAt": "2023-05-06 11:32:07"
+    },
     "24342718-vkontakte": {
         "id": "24342718-vkontakte",
         "nickname": "Oberst",
@@ -172,11 +178,5 @@
         "nickname": "hugo",
         "booksCount": 1,
         "updatedAt": "2023-04-01 00:38:48"
-    },
-    "103740865919918334913-google": {
-        "id": "103740865919918334913-google",
-        "nickname": "coolimzin",
-        "booksCount": 1,
-        "updatedAt": "2023-03-31 18:06:20"
     }
 }

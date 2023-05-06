@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>1006</sup> 
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
 [ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
 [мишер](users/110/110444757671606245841-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
-[coolimzin](users/103/103740865919918334913-google)<sup>1</sup> 
 
 
-_06.05.2023 07:23:50_
+_06.05.2023 11:32:07_
