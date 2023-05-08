@@ -1,4 +1,16 @@
 {
+    "Qf4cQTdXyz": {
+        "id": "Qf4cQTdXyz",
+        "title": "Жук в муравейнике",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2023-05-08 07:49:39",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 13
+        }
+    },
     "AKvSUFeJac": {
         "id": "AKvSUFeJac",
         "title": "Дело о прекрасной нищей",
@@ -345,18 +357,6 @@
             "id": "1443824148-yandex",
             "nickname": "ssertoria",
             "booksCount": 5
-        }
-    },
-    "6aSjRu9Zuq": {
-        "id": "6aSjRu9Zuq",
-        "title": "Зона. Записки надзирателя",
-        "author": "Довлатов Сергей",
-        "notes": "",
-        "createdAt": "2023-04-27 09:50:13",
-        "user": {
-            "id": "116089656749976654148-google",
-            "nickname": "odetta",
-            "booksCount": 1
         }
     }
 }
