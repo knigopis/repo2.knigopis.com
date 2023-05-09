@@ -1,4 +1,16 @@
 {
+    "dC7T8F3OdA": {
+        "id": "dC7T8F3OdA",
+        "title": "Омон Ра",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2023-05-09 11:55:06",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 15
+        }
+    },
     "yWauHGDxTj": {
         "id": "yWauHGDxTj",
         "title": "За миллиард лет до конца света",
@@ -345,18 +357,6 @@
             "id": "276415295-vkontakte",
             "nickname": "Брюнетка",
             "booksCount": 1
-        }
-    },
-    "-06hh7X4Cg": {
-        "id": "-06hh7X4Cg",
-        "title": "Изгнанник",
-        "author": "Роберт Сальваторе",
-        "notes": "Тёмный эльф (2), Forgotten Realms\nПродолжение истории Дзирта. В духе первой книги. Добавляются персонажи, становится еще интереснее.",
-        "createdAt": "2023-04-27 10:14:02",
-        "user": {
-            "id": "1443824148-yandex",
-            "nickname": "ssertoria",
-            "booksCount": 6
         }
     }
 }

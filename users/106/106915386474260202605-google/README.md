@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>14</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>15</sup>
 ---
 
 ## 2023
+
+### Омон Ра
+Виктор Пелевин
+> [2023-05-09] 
+
 
 ### За миллиард лет до конца света
 Братья Стругацкие
