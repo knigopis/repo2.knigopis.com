@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Роковая музыка» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup>
+    > audio
+
 * «Кандуит и Швамбрания» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>103</sup>
     > audio
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 48 цимлянская дружина Февралёв
 
 * Наши за границей ~ [mfevralev](users/140/140966150-vkontakte)<sup>59</sup>
-    > Фигня
 
 * Академия божественных жен ~ [Chiffi](users/105/105831994080785626680-google)<sup>350</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Наследие предков ~ [Chiffi](users/105/105831994080785626680-google)<sup>347</sup>
 
-* «Мор учиник Смерти» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>103</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup> 
 [leo](users/106/106915386474260202605-google)<sup>15</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 
 
-_10.05.2023 09:19:23_
+_10.05.2023 09:21:06_
