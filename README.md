@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Кандуит и Швамбрания» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>103</sup>
+    > audio
+
 * События Гражданской войны Задонье ~ [mfevralev](users/140/140966150-vkontakte)<sup>60</sup>
     > Стр 11 найти книгу Игнатович Крестьянское движение на Дону в 1820 М 1937.
     > 12 по 15 почему крестьяне присоединились к красным.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Фигня
 
 * Академия божественных жен ~ [Chiffi](users/105/105831994080785626680-google)<sup>350</sup>
-    > Оскорбить кого то невозможно. Мы сами решаем оскорбляться или нет.
 
 * Турбосуслик ~ [leo](users/106/106915386474260202605-google)<sup>10</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * «Мор учиник Смерти» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>100</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>346</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>103</sup> 
 [leo](users/106/106915386474260202605-google)<sup>15</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>47</sup> 
 [](users/112/112567033245172112150-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>24</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup> 
 [julia.paradoxina](users/673/673598-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>86</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>219</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 
 
-_09.05.2023 11:55:06_
+_10.05.2023 09:19:23_

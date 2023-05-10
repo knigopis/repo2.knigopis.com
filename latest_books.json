@@ -1,4 +1,16 @@
 {
+    "1Pt8EeI3BY": {
+        "id": "1Pt8EeI3BY",
+        "title": "«Кандуит и Швамбрания»",
+        "author": "Лев Кассиль",
+        "notes": "audio",
+        "createdAt": "2023-05-10 09:19:23",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 103
+        }
+    },
     "dC7T8F3OdA": {
         "id": "dC7T8F3OdA",
         "title": "Омон Ра",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 351
-        }
-    },
-    "31vraNzbRu": {
-        "id": "31vraNzbRu",
-        "title": "Первая жизнь, вторая жизнь",
-        "author": "Ольга Володарская",
-        "notes": "",
-        "createdAt": "2023-04-28 09:43:45",
-        "user": {
-            "id": "276415295-vkontakte",
-            "nickname": "Брюнетка",
-            "booksCount": 1
         }
     }
 }
