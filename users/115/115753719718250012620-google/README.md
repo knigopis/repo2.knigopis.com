@@ -1,7 +1,11 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>341</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>342</sup>
 ---
 
 ## 2023
+
+### Борьба
+> [2023-05-08] 
+
 
 ### Корона пастуха
 Пратчетт, Терри
