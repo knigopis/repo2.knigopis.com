@@ -1,4 +1,16 @@
 {
+    "x2RGHWpzC0": {
+        "id": "x2RGHWpzC0",
+        "title": "Возвращение в дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "Будущее прямиком из 1950-х",
+        "createdAt": "2023-05-12 18:12:50",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 16
+        }
+    },
     "2jJU9peRIc": {
         "id": "2jJU9peRIc",
         "title": "Борьба",
@@ -345,18 +357,6 @@
             "id": "114091474098743820596-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "Pmhr2QMp2A": {
-        "id": "Pmhr2QMp2A",
-        "title": "All Quiet on the Western Front",
-        "author": "Erich Maria Remarque",
-        "notes": "",
-        "createdAt": "2023-04-28 14:10:00",
-        "user": {
-            "id": "114091474098743820596-google",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }

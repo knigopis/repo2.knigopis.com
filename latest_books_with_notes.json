@@ -1,4 +1,16 @@
 {
+    "x2RGHWpzC0": {
+        "id": "x2RGHWpzC0",
+        "title": "Возвращение в дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "Будущее прямиком из 1950-х",
+        "createdAt": "2023-05-12 18:12:50",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 16
+        }
+    },
     "XvKkAgaxUd": {
         "id": "XvKkAgaxUd",
         "title": "«Роковая музыка»",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 107
-        }
-    },
-    "LFM8F4KW7M": {
-        "id": "LFM8F4KW7M",
-        "title": "«Конь и его мальчик»",
-        "author": "Клайв Льюис",
-        "notes": "audio",
-        "createdAt": "2023-02-20 17:07:07",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 91
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Возвращение в дивный новый мир ~ [leo](users/106/106915386474260202605-google)<sup>16</sup>
+    > Будущее прямиком из 1950-х
+
 * «Роковая музыка» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup>
     > audio
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * События Гражданской войны Задонье ~ [mfevralev](users/140/140966150-vkontakte)<sup>60</sup>
-    > Стр 11 найти книгу Игнатович Крестьянское движение на Дону в 1820 М 1937.
-    > 12 по 15 почему крестьяне присоединились к красным.
-    > 48 цимлянская дружина Февралёв
 
 * Наши за границей ~ [mfevralev](users/140/140966150-vkontakte)<sup>59</sup>
 
@@ -28,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * «Моби Дик, или Белый кит» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
 
-* Наследие предков ~ [Chiffi](users/105/105831994080785626680-google)<sup>347</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>342</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup> 
-[leo](users/106/106915386474260202605-google)<sup>15</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
 [ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 
 
-_12.05.2023 14:13:26_
+_12.05.2023 18:12:50_
