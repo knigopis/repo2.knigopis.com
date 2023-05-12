@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>350</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>351</sup>
 ---
 
 ## 2023
+
+### Второй шанс
+Звёздная Елена
+> [2023-05-13] 
+
 
 ### Академия божественных жен (три части)
 Боталова Мария
