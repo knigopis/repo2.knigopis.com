@@ -1,7 +1,11 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>351</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>352</sup>
 ---
 
 ## 2023
+
+Звёздная Елена
+> [2023-05-14] Иногда молчание хуже лжи.Ложь ранит, но молчание убивает…
+
 
 ### Второй шанс
 Звёздная Елена

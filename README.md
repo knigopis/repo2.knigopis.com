@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>352</sup>
+    > Иногда молчание хуже лжи.Ложь ранит, но молчание убивает…
+
 * Возвращение в дивный новый мир ~ [leo](users/106/106915386474260202605-google)<sup>16</sup>
     > Будущее прямиком из 1950-х
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * «Кандуит и Швамбрания» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>103</sup>
-    > audio
 
 * События Гражданской войны Задонье ~ [mfevralev](users/140/140966150-vkontakte)<sup>60</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Мрачный Жнец» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
 
-* «Моби Дик, или Белый кит» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>351</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>352</sup> 
 [leo](users/106/106915386474260202605-google)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>342</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 
 
-_12.05.2023 21:30:46_
+_13.05.2023 11:55:03_
