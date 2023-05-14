@@ -1,4 +1,10 @@
 {
+    "65468521419-odnoklassniki": {
+        "id": "65468521419-odnoklassniki",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 0,
+        "updatedAt": "2023-05-14 18:05:50"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-04-02 21:25:27"
-    },
-    "105063533945004840111-google": {
-        "id": "105063533945004840111-google",
-        "nickname": "hugo",
-        "booksCount": 1,
-        "updatedAt": "2023-04-01 00:38:48"
     }
 }
