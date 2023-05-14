@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Уловка 22 ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>105</sup>
+    > audio
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>352</sup>
     > Иногда молчание хуже лжи.Ложь ранит, но молчание убивает…
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Будущее прямиком из 1950-х
 
 * «Роковая музыка» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup>
-    > audio
 
 * «Кандуит и Швамбрания» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>103</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Мое проклятие (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>349</sup>
 
-* «Мрачный Жнец» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>105</sup> 
 [Альберт Сысоев](users/654/65468521419-odnoklassniki)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>352</sup> 
 [leo](users/106/106915386474260202605-google)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>342</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
 [ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 
 
-_14.05.2023 18:05:51_
+_14.05.2023 18:08:21_
