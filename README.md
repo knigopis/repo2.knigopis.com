@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/654/65468521419-odnoklassniki)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>352</sup> 
 [leo](users/106/106915386474260202605-google)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>342</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tomms](users/108/108891017188838265517-google)<sup>0</sup> 
 [Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
-[hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 
 
-_13.05.2023 11:55:03_
+_14.05.2023 18:05:51_
