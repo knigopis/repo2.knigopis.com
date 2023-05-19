@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>17</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>18</sup>
 ---
 
 ## 2023
+
+### Белый клык
+Джек Лондон
+> [2023-05-19] 
+
 
 ### Зов предков
 Джек Лондон
