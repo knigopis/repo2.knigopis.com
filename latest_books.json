@@ -1,4 +1,16 @@
 {
+    "BrMmARIfF0": {
+        "id": "BrMmARIfF0",
+        "title": "Всё та же я",
+        "author": "Джоджо Мойес",
+        "notes": "",
+        "createdAt": "2023-05-20 04:52:29",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Lala",
+            "booksCount": 352
+        }
+    },
     "gXjf7OI1Vj": {
         "id": "gXjf7OI1Vj",
         "title": "Белый клык",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 350
-        }
-    },
-    "OJ4saQt-dd": {
-        "id": "OJ4saQt-dd",
-        "title": "Пикник на обочине",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2023-05-02 17:55:22",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 12
         }
     }
 }
