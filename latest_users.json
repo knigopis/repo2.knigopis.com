@@ -1,4 +1,10 @@
 {
+    "105063533945004840111-google": {
+        "id": "105063533945004840111-google",
+        "nickname": "hugo",
+        "booksCount": 2,
+        "updatedAt": "2023-05-20 22:35:27"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "tomms",
         "booksCount": 0,
         "updatedAt": "2023-04-11 17:20:22"
-    },
-    "107186097200537202336-google": {
-        "id": "107186097200537202336-google",
-        "nickname": "Rami_Ledi",
-        "booksCount": 0,
-        "updatedAt": "2023-04-09 12:25:51"
     }
 }

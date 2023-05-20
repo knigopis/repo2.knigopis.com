@@ -1,4 +1,16 @@
 {
+    "zxQQ6OBvfE": {
+        "id": "zxQQ6OBvfE",
+        "title": "Jsnsj",
+        "author": "Dndnjd",
+        "notes": "",
+        "createdAt": "2023-05-20 22:35:27",
+        "user": {
+            "id": "105063533945004840111-google",
+            "nickname": "hugo",
+            "booksCount": 2
+        }
+    },
     "YxDYNaUTH6": {
         "id": "YxDYNaUTH6",
         "title": "Охотники за умами. ФБР против серийных убийц",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 60
-        }
-    },
-    "48ZW_yWLwD": {
-        "id": "48ZW_yWLwD",
-        "title": "Наши за границей",
-        "author": "Николай Лейкин",
-        "notes": "Фигня",
-        "createdAt": "2023-05-03 00:53:25",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 59
         }
     }
 }

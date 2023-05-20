@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hugo](users/105/105063533945004840111-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>343</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>352</sup> 
 [leo](users/106/106915386474260202605-google)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>219</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>420</sup> 
 [tomms](users/108/108891017188838265517-google)<sup>0</sup> 
-[Rami_Ledi](users/107/107186097200537202336-google)<sup>0</sup> 
 
 
-_20.05.2023 19:44:35_
+_20.05.2023 22:35:27_
