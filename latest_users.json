@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 34,
+        "updatedAt": "2023-05-21 19:31:26"
+    },
     "109176126475581739292-google": {
         "id": "109176126475581739292-google",
         "nickname": "Shinku",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 24,
         "updatedAt": "2023-04-20 19:40:35"
-    },
-    "673598-vkontakte": {
-        "id": "673598-vkontakte",
-        "nickname": "julia.paradoxina",
-        "booksCount": 0,
-        "updatedAt": "2023-04-19 19:41:49"
     }
 }
