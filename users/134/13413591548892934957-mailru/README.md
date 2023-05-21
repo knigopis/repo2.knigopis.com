@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>420</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>421</sup>
 ---
 
 ## 2023
+
+### История Российского государства. Ордынский период.
+Борис Акунин
+> [2023-05-20] 
+
 
 ### Голландский дом
 Энн Пэтчетт

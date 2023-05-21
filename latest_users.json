@@ -1,4 +1,10 @@
 {
+    "13413591548892934957-mailru": {
+        "id": "13413591548892934957-mailru",
+        "nickname": "Shellena",
+        "booksCount": 421,
+        "updatedAt": "2023-05-21 10:15:17"
+    },
     "3387454224572547166-mailru": {
         "id": "3387454224572547166-mailru",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 86,
         "updatedAt": "2023-04-18 10:57:33"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 219,
-        "updatedAt": "2023-04-17 11:17:16"
     }
 }

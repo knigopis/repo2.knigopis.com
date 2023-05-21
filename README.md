@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>421</sup> 
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 [](users/103/103270351651629158252-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>24</sup> 
 [julia.paradoxina](users/673/673598-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>86</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>219</sup> 
 
 
-_21.05.2023 10:08:46_
+_21.05.2023 10:15:17_
