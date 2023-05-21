@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>37</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>36</sup>
 ---
 
 ## 2023
@@ -26,10 +26,6 @@
 
 ### Queen of coin and wispers
 > [2022-09-10] 
-
-
-### Queen of coin and wispers
-> [2022-09-09] 
 
 
 ### Queen of coin and wispers
