@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>35</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>36</sup>
 ---
 
 ## 2023
@@ -77,6 +77,9 @@ Samantha Shannon
 ### Лю Яо: Возрождение клана Фу Яо
 Priest
 > [2022-03-26] 5 томов
+
+
+### Дуэль нейрохирургов
 
 
 

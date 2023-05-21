@@ -1,4 +1,16 @@
 {
+    "bDktf1LaC7": {
+        "id": "bDktf1LaC7",
+        "title": "Дуэль нейрохирургов",
+        "author": "",
+        "notes": "",
+        "createdAt": "2023-05-21 19:32:11",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 36
+        }
+    },
     "D8JLTS2ZCE": {
         "id": "D8JLTS2ZCE",
         "title": "Конец вечности",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 1011
-        }
-    },
-    "1SePO4CkBG": {
-        "id": "1SePO4CkBG",
-        "title": "Дело о призрачной удаче",
-        "author": "Эрл Стэнли Гарднер",
-        "notes": "",
-        "createdAt": "2023-05-06 11:32:48",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 1010
         }
     }
 }
