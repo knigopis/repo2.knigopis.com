@@ -5,14 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>353</sup>
+    > https://loveread.info/books/fentezi/89400-elena-zvezdnaya-dolina-drakonov-kniga-pervaya.html
+
 * Охотники за умами. ФБР против серийных убийц ~ [Garka](users/115/115753719718250012620-google)<sup>343</sup>
     > Джон Дуглас - пионер составления психологоческого портрета убийцы на основании картины его преступления. Реальные серийные убийвы и ужасающие подробности их преступлений. Автобиагрофическая книга, в которой не только  описываются трудности, с которыми Дугласт столкнулся в самом начале карьеры и продвижении нового метода поиска преступников, но и то, как он к этому пришёл и как такая специфическая прфессия с погружением в разум маньяка и постоянным столкновением с изувечинымы жертвами сказалась на его личной жизни и здоровье.
 
 * Уловка 22 ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>105</sup>
     > audio
-
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>352</sup>
-    > Иногда молчание хуже лжи.Ложь ранит, но молчание убивает…
 
 * Возвращение в дивный новый мир ~ [leo](users/106/106915386474260202605-google)<sup>16</sup>
 
@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>353</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>172</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>35</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>64</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Люля](users/107/107102414660569698047-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>105</sup> 
 [Альберт Сысоев](users/654/65468521419-odnoklassniki)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>352</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
 [ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>24</sup> 
 
 
-_22.05.2023 07:43:21_
+_22.05.2023 21:25:45_

@@ -1,7 +1,11 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>352</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>353</sup>
 ---
 
 ## 2023
+
+Звёздная Елена
+> [2023-05-23] https://loveread.info/books/fentezi/89400-elena-zvezdnaya-dolina-drakonov-kniga-pervaya.html
+
 
 ### Город драконов (семь книг)
 Звёздная Елена
