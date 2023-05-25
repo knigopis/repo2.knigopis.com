@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 106,
+        "updatedAt": "2023-05-25 10:55:30"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -70,12 +76,6 @@
         "nickname": "Люля",
         "booksCount": 0,
         "updatedAt": "2023-05-15 19:34:05"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 105,
-        "updatedAt": "2023-05-14 18:08:21"
     },
     "65468521419-odnoklassniki": {
         "id": "65468521419-odnoklassniki",
