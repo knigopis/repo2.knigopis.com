@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
 * «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>353</sup>
 * Охотники за умами. ФБР против серийных убийц ~ [Garka](users/115/115753719718250012620-google)<sup>343</sup>
@@ -30,7 +31,6 @@
 * В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
 * «Серебряное кресло» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>95</sup>
 * Соглашение 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>340</sup>
-* «Интересные времена» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>102</sup>
 
 
-_25.05.2023 10:55:30_
+_26.05.2023 09:40:13_

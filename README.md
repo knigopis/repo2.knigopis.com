@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
+    > A caucus - race and a long tale. 
+    > Продолжить.
+
 * «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
     > audio
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > https://loveread.info/books/fentezi/89400-elena-zvezdnaya-dolina-drakonov-kniga-pervaya.html
 
 * Охотники за умами. ФБР против серийных убийц ~ [Garka](users/115/115753719718250012620-google)<sup>343</sup>
-    > Джон Дуглас - пионер составления психологоческого портрета убийцы на основании картины его преступления. Реальные серийные убийвы и ужасающие подробности их преступлений. Автобиагрофическая книга, в которой не только  описываются трудности, с которыми Дугласт столкнулся в самом начале карьеры и продвижении нового метода поиска преступников, но и то, как он к этому пришёл и как такая специфическая прфессия с погружением в разум маньяка и постоянным столкновением с изувечинымы жертвами сказалась на его личной жизни и здоровье.
 
 * Уловка 22 ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>105</sup>
 
@@ -26,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Наши за границей ~ [mfevralev](users/140/140966150-vkontakte)<sup>59</sup>
 
-* Академия божественных жен ~ [Chiffi](users/105/105831994080785626680-google)<sup>350</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>353</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>172</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>35</sup> 
-[Shinku](users/109/109176126475581739292-google)<sup>64</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>421</sup> 
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 [](users/103/103270351651629158252-google)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>24</sup> 
 
 
-_25.05.2023 10:55:30_
+_26.05.2023 09:40:13_
