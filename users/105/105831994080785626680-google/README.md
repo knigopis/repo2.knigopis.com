@@ -3,9 +3,9 @@
 
 ## 2023
 
-### Долина драконов
+### Долина драконов (три части)
 Звёздная Елена
-> [2023-05-23] https://loveread.info/books/fentezi/89400-elena-zvezdnaya-dolina-drakonov-kniga-pervaya.html
+> [2023-05-26] https://loveread.info/books/fentezi/89400-elena-zvezdnaya-dolina-drakonov-kniga-pervaya.html
 
 
 ### Город драконов (семь книг)
