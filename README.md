@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111615427149312226167-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>344</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/697/69729969-vkontakte)<sup>0</sup> 
 [Smekalistii](users/864/86487125-vkontakte)<sup>47</sup> 
 [](users/112/112567033245172112150-google)<sup>0</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>24</sup> 
 
 
-_26.05.2023 21:17:55_
+_27.05.2023 04:28:51_
