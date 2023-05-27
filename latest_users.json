@@ -1,4 +1,10 @@
 {
+    "111615427149312226167-google": {
+        "id": "111615427149312226167-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-05-27 04:28:51"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-04-21 16:27:36"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 24,
-        "updatedAt": "2023-04-20 19:40:35"
     }
 }
