@@ -61,7 +61,7 @@ Lewis Carroll
 
 ### Book of Hours: Love Poems to God
 Rainer Maria Rilke
-> Fav.
+> Liebling
 
 
 ### Шуточка
