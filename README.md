@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
+    > Liebling
+
 * Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
     > A caucus - race and a long tale. 
     > Продолжить.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>353</sup>
-    > https://loveread.info/books/fentezi/89400-elena-zvezdnaya-dolina-drakonov-kniga-pervaya.html
 
 * Охотники за умами. ФБР против серийных убийц ~ [Garka](users/115/115753719718250012620-google)<sup>343</sup>
 
@@ -27,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * События Гражданской войны Задонье ~ [mfevralev](users/140/140966150-vkontakte)<sup>60</sup>
 
-* Наши за границей ~ [mfevralev](users/140/140966150-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shinku](users/109/109176126475581739292-google)<sup>66</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>220</sup> 
 [](users/111/111615427149312226167-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>344</sup> 
-[Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>353</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>172</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>47</sup> 
 
 
-_28.05.2023 06:51:36_
+_29.05.2023 09:40:24_
