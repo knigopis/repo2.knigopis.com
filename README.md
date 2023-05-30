@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Игры со смертью 4. Жмурки ~ [Chiffi](users/105/105831994080785626680-google)<sup>354</sup>
+    > типичный недолюбленный ребенок, который безумно жаждет внимания. И стоит только один раз его похвалить, как он уже готов мир бросить к твоим ногам
+
 * Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
     > Liebling
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Продолжить.
 
 * «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
-    > audio
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>353</sup>
 
@@ -27,19 +29,17 @@ Do not use pull requests to make changes here.
 
 * «Кандуит и Швамбрания» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>103</sup>
 
-* События Гражданской войны Задонье ~ [mfevralev](users/140/140966150-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>354</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>220</sup> 
 [](users/111/111615427149312226167-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>344</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>353</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>172</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>35</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>421</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Smekalistii](users/864/86487125-vkontakte)<sup>47</sup> 
 
 
-_29.05.2023 09:40:36_
+_30.05.2023 20:17:59_
