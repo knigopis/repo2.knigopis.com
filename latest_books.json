@@ -1,4 +1,16 @@
 {
+    "mt2M_ctfus": {
+        "id": "mt2M_ctfus",
+        "title": "По ком звонит колокол?",
+        "author": "Хемингуэй Эрнест",
+        "notes": "",
+        "createdAt": "2023-05-31 20:02:23",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 116
+        }
+    },
     "zvY8DQH9qj": {
         "id": "zvY8DQH9qj",
         "title": "Моби дик",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 105
-        }
-    },
-    "w--TeQCojY": {
-        "id": "w--TeQCojY",
-        "title": "Второй шанс",
-        "author": "Звёздная Елена",
-        "notes": "",
-        "createdAt": "2023-05-12 21:30:46",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 351
         }
     }
 }
