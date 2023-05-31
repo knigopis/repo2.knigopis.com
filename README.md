@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gasanalievakarina](users/563/563255998-yandex)<sup>0</sup> 
+[gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>119</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>354</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [a_5432](users/112/112183430504883294367-google)<sup>1</sup> 
 
 
-_31.05.2023 22:51:16_
+_31.05.2023 22:54:19_
