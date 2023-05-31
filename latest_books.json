@@ -1,4 +1,16 @@
 {
+    "taKBazABVl": {
+        "id": "taKBazABVl",
+        "title": "Олеся",
+        "author": "Куприн Александр Иванович",
+        "notes": "",
+        "createdAt": "2023-05-31 21:01:50",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 119
+        }
+    },
     "sFOivkn4jq": {
         "id": "sFOivkn4jq",
         "title": "Граф Монте Кристо",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Lala",
             "booksCount": 352
-        }
-    },
-    "gXjf7OI1Vj": {
-        "id": "gXjf7OI1Vj",
-        "title": "Белый клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2023-05-19 03:46:31",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 18
         }
     }
 }

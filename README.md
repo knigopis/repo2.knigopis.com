@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>118</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>119</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>354</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>220</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/697/69729969-vkontakte)<sup>0</sup> 
 
 
-_31.05.2023 20:49:53_
+_31.05.2023 21:01:50_
