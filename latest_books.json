@@ -1,4 +1,16 @@
 {
+    "S_osD5A4oF": {
+        "id": "S_osD5A4oF",
+        "title": "Художник зыбкого мира",
+        "author": "Кадзио Исигуро",
+        "notes": "",
+        "createdAt": "2023-05-31 19:57:55",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 113
+        }
+    },
     "hKTv8KVbXn": {
         "id": "hKTv8KVbXn",
         "title": "Дубровский",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 342
-        }
-    },
-    "XvKkAgaxUd": {
-        "id": "XvKkAgaxUd",
-        "title": "«Роковая музыка»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-05-10 09:21:06",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 104
         }
     }
 }
