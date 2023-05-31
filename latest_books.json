@@ -1,4 +1,16 @@
 {
+    "hKTv8KVbXn": {
+        "id": "hKTv8KVbXn",
+        "title": "Дубровский",
+        "author": "Пушкин Александр",
+        "notes": "",
+        "createdAt": "2023-05-31 19:50:35",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 112
+        }
+    },
     "DZp2X1pPre": {
         "id": "DZp2X1pPre",
         "title": "Золотой храм",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 104
-        }
-    },
-    "1Pt8EeI3BY": {
-        "id": "1Pt8EeI3BY",
-        "title": "«Кандуит и Швамбрания»",
-        "author": "Лев Кассиль",
-        "notes": "audio",
-        "createdAt": "2023-05-10 09:19:23",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 103
         }
     }
 }
