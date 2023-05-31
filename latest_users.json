@@ -1,4 +1,10 @@
 {
+    "563255998-yandex": {
+        "id": "563255998-yandex",
+        "nickname": "gasanalievakarina",
+        "booksCount": 0,
+        "updatedAt": "2023-05-31 22:51:16"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": "a_5432",
         "booksCount": 1,
         "updatedAt": "2023-04-24 19:32:56"
-    },
-    "69729969-vkontakte": {
-        "id": "69729969-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-04-22 05:06:15"
     }
 }
