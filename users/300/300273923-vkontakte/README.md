@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>108</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>109</sup>
 ---
 
 ## 2023
+
+### Жизнь и судьба
+Гроссман Василий
+> [2023-04] 
+
 
 ### Конфуций
 Корягин К. М.
