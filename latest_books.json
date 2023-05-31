@@ -1,4 +1,16 @@
 {
+    "lcX2eqHjAV": {
+        "id": "lcX2eqHjAV",
+        "title": "Сестра Кэрри",
+        "author": "Драйзер Теодор",
+        "notes": "",
+        "createdAt": "2023-05-31 19:47:33",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 110
+        }
+    },
     "jf_z0HToF_": {
         "id": "jf_z0HToF_",
         "title": "Жизнь и судьба",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 15
-        }
-    },
-    "yWauHGDxTj": {
-        "id": "yWauHGDxTj",
-        "title": "За миллиард лет до конца света",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2023-05-08 18:36:45",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 14
         }
     }
 }

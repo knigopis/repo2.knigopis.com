@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>109</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>110</sup>
 ---
 
 ## 2023
+
+### Сестра Кэрри
+Драйзер Теодор
+> [2023-04] 
+
 
 ### Жизнь и судьба
 Гроссман Василий
