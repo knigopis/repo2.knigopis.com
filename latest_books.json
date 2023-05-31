@@ -1,4 +1,16 @@
 {
+    "DZp2X1pPre": {
+        "id": "DZp2X1pPre",
+        "title": "Золотой храм",
+        "author": "Юкио Сиссима",
+        "notes": "",
+        "createdAt": "2023-05-31 19:48:37",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 111
+        }
+    },
     "lcX2eqHjAV": {
         "id": "lcX2eqHjAV",
         "title": "Сестра Кэрри",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 103
-        }
-    },
-    "dC7T8F3OdA": {
-        "id": "dC7T8F3OdA",
-        "title": "Омон Ра",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2023-05-09 11:55:06",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 15
         }
     }
 }

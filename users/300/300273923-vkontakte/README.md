@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>110</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>111</sup>
 ---
 
 ## 2023
+
+### Золотой храм
+Юкио Сиссима
+> [2023-05] 
+
 
 ### Сестра Кэрри
 Драйзер Теодор
