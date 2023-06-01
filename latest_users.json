@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 355,
+        "updatedAt": "2023-06-01 18:10:55"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -10,12 +16,6 @@
         "nickname": "gasanalievakarina",
         "booksCount": 1,
         "updatedAt": "2023-05-31 22:54:19"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 354,
-        "updatedAt": "2023-05-30 20:17:59"
     },
     "109176126475581739292-google": {
         "id": "109176126475581739292-google",
