@@ -1,4 +1,16 @@
 {
+    "5Xb7cOzLKG": {
+        "id": "5Xb7cOzLKG",
+        "title": "Остров Сахалин",
+        "author": "Чехов Антон",
+        "notes": "",
+        "createdAt": "2023-06-01 08:23:44",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 122
+        }
+    },
     "J3kZpsUH9U": {
         "id": "J3kZpsUH9U",
         "title": "Вишнёвый сад",
@@ -345,18 +357,6 @@
             "id": "109176126475581739292-google",
             "nickname": "Shinku",
             "booksCount": 63
-        }
-    },
-    "PU0uNRyEF9": {
-        "id": "PU0uNRyEF9",
-        "title": "История Российского государства. Ордынский период.",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2023-05-21 10:15:17",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 421
         }
     }
 }
