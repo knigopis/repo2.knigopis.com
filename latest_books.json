@@ -1,4 +1,16 @@
 {
+    "J3kZpsUH9U": {
+        "id": "J3kZpsUH9U",
+        "title": "Вишнёвый сад",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2023-06-01 07:42:28",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 121
+        }
+    },
     "HKLXN5hDOx": {
         "id": "HKLXN5hDOx",
         "title": "Молох",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 421
-        }
-    },
-    "zxQQ6OBvfE": {
-        "id": "zxQQ6OBvfE",
-        "title": "Jsnsj",
-        "author": "Dndnjd",
-        "notes": "",
-        "createdAt": "2023-05-20 22:35:27",
-        "user": {
-            "id": "105063533945004840111-google",
-            "nickname": "hugo",
-            "booksCount": 2
         }
     }
 }
