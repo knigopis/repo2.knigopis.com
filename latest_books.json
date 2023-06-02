@@ -1,4 +1,16 @@
 {
+    "QC_DVd9C5b": {
+        "id": "QC_DVd9C5b",
+        "title": "Тяжело быть студентом",
+        "author": "Маргарита Блинова",
+        "notes": "",
+        "createdAt": "2023-06-02 20:23:10",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 90
+        }
+    },
     "bYRCKO9nLy": {
         "id": "bYRCKO9nLy",
         "title": "Игры со смертью 3 . Дочки-матери",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 34
-        }
-    },
-    "aPzxfFoTxs": {
-        "id": "aPzxfFoTxs",
-        "title": "Путеводитель «Автостопом по Галактике»",
-        "author": "Адамс, Дуглас",
-        "notes": "",
-        "createdAt": "2023-05-21 17:59:10",
-        "user": {
-            "id": "109176126475581739292-google",
-            "nickname": "Shinku",
-            "booksCount": 64
         }
     }
 }

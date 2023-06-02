@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>90</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>355</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>122</sup> 
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
 [odetta](users/116/116089656749976654148-google)<sup>1</sup> 
 [](users/101/101945492626982767252-google)<sup>0</sup> 
-[a_5432](users/112/112183430504883294367-google)<sup>1</sup> 
 
 
-_01.06.2023 18:10:55_
+_02.06.2023 20:23:10_

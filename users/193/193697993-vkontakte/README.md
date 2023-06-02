@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>89</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>90</sup>
 ---
 
 ## 2023
+
+### Тяжело быть студентом
+Маргарита Блинова
+> [2023-06-02] 
+
 
 ### Няня для наследницы, или Ненавижу драконов!
 Алена Ягинская
