@@ -1,4 +1,16 @@
 {
+    "LEu6m0VfPi": {
+        "id": "LEu6m0VfPi",
+        "title": "Постоялец",
+        "author": "Сименон Жорж",
+        "notes": "",
+        "createdAt": "2023-06-04 18:42:57",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 123
+        }
+    },
     "Mo_dXALgr_": {
         "id": "Mo_dXALgr_",
         "title": "Погружение во мрак",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 36
-        }
-    },
-    "D8JLTS2ZCE": {
-        "id": "D8JLTS2ZCE",
-        "title": "Конец вечности",
-        "author": "Азимов",
-        "notes": "",
-        "createdAt": "2023-05-21 19:31:45",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 35
         }
     }
 }
