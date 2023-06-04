@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>344</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>345</sup>
 ---
 
 ## 2023
+
+### Погружение во мрак
+Дуглас Джон
+> [2023-06-04] 
+
 
 ### Великий Гэтсби
 Фицджеральд Фрэнсис Скотт
