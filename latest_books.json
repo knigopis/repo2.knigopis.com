@@ -1,4 +1,16 @@
 {
+    "iUfcYcp0GG": {
+        "id": "iUfcYcp0GG",
+        "title": "Обломов",
+        "author": "Иван Гончаров",
+        "notes": "",
+        "createdAt": "2023-06-05 17:12:36",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 19
+        }
+    },
     "LEu6m0VfPi": {
         "id": "LEu6m0VfPi",
         "title": "Постоялец",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 37
-        }
-    },
-    "bDktf1LaC7": {
-        "id": "bDktf1LaC7",
-        "title": "Дуэль нейрохирургов",
-        "author": "",
-        "notes": "",
-        "createdAt": "2023-05-21 19:32:11",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 36
         }
     }
 }

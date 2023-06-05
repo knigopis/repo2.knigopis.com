@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>19</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>123</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>345</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>90</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103270351651629158252-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>352</sup> 
-[leo](users/106/106915386474260202605-google)<sup>18</sup> 
 [Люля](users/107/107102414660569698047-google)<sup>0</sup> 
 [Альберт Сысоев](users/654/65468521419-odnoklassniki)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101945492626982767252-google)<sup>0</sup> 
 
 
-_04.06.2023 18:42:57_
+_05.06.2023 17:12:36_
