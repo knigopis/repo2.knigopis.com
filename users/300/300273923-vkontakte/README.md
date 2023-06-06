@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>123</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>124</sup>
 ---
 
 ## 2023
+
+### Одиссея
+Гомер
+> [2023-06] 
+
 
 ### Постоялец
 Сименон Жорж

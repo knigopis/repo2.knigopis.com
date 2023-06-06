@@ -1,4 +1,16 @@
 {
+    "7B8PAFXEK9": {
+        "id": "7B8PAFXEK9",
+        "title": "Одиссея",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2023-06-06 07:26:35",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 124
+        }
+    },
     "iUfcYcp0GG": {
         "id": "iUfcYcp0GG",
         "title": "Обломов",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 172
-        }
-    },
-    "4Vczv-2AIH": {
-        "id": "4Vczv-2AIH",
-        "title": "Биофизика",
-        "author": "Волькенштейн",
-        "notes": "",
-        "createdAt": "2023-05-21 19:32:39",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 37
         }
     }
 }
