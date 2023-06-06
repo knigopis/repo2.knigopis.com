@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>172</sup>
+# List of books read by 4apa<sup>173</sup>
 ---
 
 ## 2023
+
+### Есть стыковка
+Т. Стаффорд
+> [2023-06-07] 
+
 
 ### Удержать небо
 Лю Цысинь
