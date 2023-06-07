@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
 * Игры со смертью 4. Жмурки ~ [Chiffi](users/105/105831994080785626680-google)<sup>354</sup>
 * Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
 * Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
@@ -30,7 +31,6 @@
 * «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
 * «Последняя битва» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>96</sup>
 * Казачий присуд ~ [mfevralev](users/140/140966150-vkontakte)<sup>57</sup>
-* В родных местах ~ [mfevralev](users/140/140966150-vkontakte)<sup>56</sup>
 
 
-_30.05.2023 20:17:59_
+_07.06.2023 20:09:02_
