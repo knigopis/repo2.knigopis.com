@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>173</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>124</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114091474098743820596-google)<sup>1</sup> 
 [Брюнетка](users/276/276415295-vkontakte)<sup>1</sup> 
 [ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
-[odetta](users/116/116089656749976654148-google)<sup>1</sup> 
 
 
-_07.06.2023 20:09:02_
+_08.06.2023 11:24:23_
