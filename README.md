@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смотрящие в окно Городские легенды6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>356</sup>
+    > звонок – это вторжение, нарушение личных границ. Человек может быть занят или просто не в ресурсе для разговоров. А на сообщение ответит, когда ему будет комфортно.
+
 * Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
     > Очень понравилась книга подробным списком различных проблем, которые могут случиться при работе с данными, как на одной ноде, так и в распределенных системах. 
     > Из простого, например, чтение из реплики того, что только что записали в мастер.
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > типичный недолюбленный ребенок, который безумно жаждет внимания. И стоит только один раз его похвалить, как он уже готов мир бросить к твоим ногам
 
 * Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
-    > Liebling
 
 * Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Возвращение в дивный новый мир ~ [leo](users/106/106915386474260202605-google)<sup>16</sup>
 
-* «Роковая музыка» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>356</sup> 
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>173</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>345</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>90</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>355</sup> 
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>220</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
 
 
-_08.06.2023 11:24:23_
+_08.06.2023 15:37:58_
