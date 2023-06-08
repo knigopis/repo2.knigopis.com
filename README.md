@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>221</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>356</sup> 
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>90</sup> 
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>220</sup> 
 [](users/111/111615427149312226167-google)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>35</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
 
 
-_08.06.2023 15:37:58_
+_08.06.2023 21:34:25_
