@@ -1,4 +1,16 @@
 {
+    "IxQg4fWui1": {
+        "id": "IxQg4fWui1",
+        "title": "Да здравствует фикус!",
+        "author": "Оруэлл Джордж",
+        "notes": "",
+        "createdAt": "2023-06-09 09:29:07",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 125
+        }
+    },
     "qccIMeynle": {
         "id": "qccIMeynle",
         "title": "Cancer and the New Biology of Water",
@@ -345,18 +357,6 @@
             "id": "111615427149312226167-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "-iXNSVYfeb": {
-        "id": "-iXNSVYfeb",
-        "title": "Великий Гэтсби",
-        "author": "Фицджеральд Фрэнсис Скотт",
-        "notes": "",
-        "createdAt": "2023-05-26 21:17:55",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 344
         }
     }
 }

@@ -41,12 +41,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>125</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>221</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>356</sup> 
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>173</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>124</sup> 
 [leo](users/106/106915386474260202605-google)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>345</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>90</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
 
 
-_08.06.2023 21:34:25_
+_09.06.2023 09:29:07_
