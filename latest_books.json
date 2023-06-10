@@ -1,4 +1,16 @@
 {
+    "ibtJx2Zda2": {
+        "id": "ibtJx2Zda2",
+        "title": "Пагубники",
+        "author": "Лесков Николай",
+        "notes": "",
+        "createdAt": "2023-06-10 14:22:02",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 127
+        }
+    },
     "X89AatZEBH": {
         "id": "X89AatZEBH",
         "title": "Елена",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 110
-        }
-    },
-    "jf_z0HToF_": {
-        "id": "jf_z0HToF_",
-        "title": "Жизнь и судьба",
-        "author": "Гроссман Василий",
-        "notes": "",
-        "createdAt": "2023-05-31 19:39:24",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 109
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>126</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>127</sup>
 ---
 
 ## 2023
+
+### Пагубники
+Лесков Николай
+> [2023-06] 
+
 
 ### Елена
 Герцен Александр
