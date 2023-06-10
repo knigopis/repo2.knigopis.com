@@ -45,10 +45,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>126</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>2</sup> 
 [](users/106/106998138906207539605-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>357</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>125</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>221</sup> 
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114091474098743820596-google)<sup>1</sup> 
 
 
-_10.06.2023 06:22:21_
+_10.06.2023 11:20:55_
