@@ -45,6 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106998138906207539605-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>357</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>125</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>221</sup> 
@@ -74,7 +75,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lomovoy79](users/271/27114245-vkontakte)<sup>1</sup> 
 [](users/114/114091474098743820596-google)<sup>1</sup> 
 [Брюнетка](users/276/276415295-vkontakte)<sup>1</sup> 
-[ssertoria](users/144/1443824148-yandex)<sup>6</sup> 
 
 
-_09.06.2023 20:09:45_
+_10.06.2023 01:14:14_
