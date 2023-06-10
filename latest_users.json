@@ -1,4 +1,10 @@
 {
+    "106998138906207539605-google": {
+        "id": "106998138906207539605-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-06-10 01:14:14"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Брюнетка",
         "booksCount": 1,
         "updatedAt": "2023-04-28 09:43:45"
-    },
-    "1443824148-yandex": {
-        "id": "1443824148-yandex",
-        "nickname": "ssertoria",
-        "booksCount": 6,
-        "updatedAt": "2023-04-27 10:14:02"
     }
 }
