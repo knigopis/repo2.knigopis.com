@@ -45,7 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Alexciz](users/104/104402554069177138887-google)<sup>0</sup> 
+[Alexciz](users/104/104402554069177138887-google)<sup>1</sup> 
 [](users/106/106998138906207539605-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>357</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>125</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114091474098743820596-google)<sup>1</sup> 
 
 
-_10.06.2023 05:54:32_
+_10.06.2023 06:19:40_
