@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Марфа-посадница или покорение нова-города ~ [Вит](users/300/300273923-vkontakte)<sup>128</sup>
 * Тайный город 30 ~ [Chiffi](users/105/105831994080785626680-google)<sup>357</sup>
 * Смотрящие в окно Городские легенды6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>356</sup>
 * Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
@@ -30,7 +31,6 @@
 * На всех парах ~ [Garka](users/115/115753719718250012620-google)<sup>340</sup>
 * Дело табак ~ [Garka](users/115/115753719718250012620-google)<sup>339</sup>
 * «Последний континент» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>98</sup>
-* «Последний герой» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>97</sup>
 
 
-_09.06.2023 20:09:45_
+_11.06.2023 15:10:29_
