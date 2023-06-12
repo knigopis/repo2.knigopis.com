@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>421</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>422</sup>
 ---
 
 ## 2023
+
+### Тысяча чертей пастора Хуусконена
+Арто Паасилинна
+> [2023-06-12] 
+
 
 ### История Российского государства. Ордынский период.
 Борис Акунин
