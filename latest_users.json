@@ -1,4 +1,10 @@
 {
+    "113891504788165801147-google": {
+        "id": "113891504788165801147-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-06-13 16:44:05"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "lomovoy79",
         "booksCount": 1,
         "updatedAt": "2023-05-01 10:17:58"
-    },
-    "114091474098743820596-google": {
-        "id": "114091474098743820596-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2023-04-28 14:34:12"
     }
 }
