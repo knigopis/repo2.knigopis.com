@@ -1,4 +1,16 @@
 {
+    "BPmlOIJk8t": {
+        "id": "BPmlOIJk8t",
+        "title": "Полицейский из библиотеки",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2023-06-14 18:38:10",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 280
+        }
+    },
     "FMbSCW0saR": {
         "id": "FMbSCW0saR",
         "title": "Тысяча чертей пастора Хуусконена",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 113
-        }
-    },
-    "hKTv8KVbXn": {
-        "id": "hKTv8KVbXn",
-        "title": "Дубровский",
-        "author": "Пушкин Александр",
-        "notes": "",
-        "createdAt": "2023-05-31 19:50:35",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 112
         }
     }
 }
