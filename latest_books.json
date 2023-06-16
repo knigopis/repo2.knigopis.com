@@ -1,4 +1,16 @@
 {
+    "8AtcmmG0vX": {
+        "id": "8AtcmmG0vX",
+        "title": "Лжебогиня",
+        "author": "Валерия Чернованова",
+        "notes": "",
+        "createdAt": "2023-06-16 12:26:00",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 91
+        }
+    },
     "BPmlOIJk8t": {
         "id": "BPmlOIJk8t",
         "title": "Полицейский из библиотеки",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 114
-        }
-    },
-    "S_osD5A4oF": {
-        "id": "S_osD5A4oF",
-        "title": "Художник зыбкого мира",
-        "author": "Кадзио Исигуро",
-        "notes": "",
-        "createdAt": "2023-05-31 19:57:55",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 113
         }
     }
 }

@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>280</sup> 
 [](users/113/113891504788165801147-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>422</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>173</sup> 
 [leo](users/106/106915386474260202605-google)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>345</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>90</sup> 
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [](users/111/111615427149312226167-google)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 
 
-_14.06.2023 18:38:10_
+_16.06.2023 12:26:00_

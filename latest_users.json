@@ -1,4 +1,10 @@
 {
+    "193697993-vkontakte": {
+        "id": "193697993-vkontakte",
+        "nickname": "butercupa",
+        "booksCount": 91,
+        "updatedAt": "2023-06-16 12:26:00"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -76,12 +82,6 @@
         "nickname": "Garka",
         "booksCount": 345,
         "updatedAt": "2023-06-04 12:55:28"
-    },
-    "193697993-vkontakte": {
-        "id": "193697993-vkontakte",
-        "nickname": "butercupa",
-        "booksCount": 90,
-        "updatedAt": "2023-06-02 20:23:10"
     },
     "563255998-yandex": {
         "id": "563255998-yandex",

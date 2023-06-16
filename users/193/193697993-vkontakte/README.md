@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>90</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>91</sup>
 ---
 
 ## 2023
+
+### Лжебогиня
+Валерия Чернованова
+> [2023-06-16] 
+
 
 ### Тяжело быть студентом
 Маргарита Блинова
