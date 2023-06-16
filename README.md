@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>280</sup> 
 [](users/113/113891504788165801147-google)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>173</sup> 
-[leo](users/106/106915386474260202605-google)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>345</sup> 
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 
 
-_16.06.2023 12:26:00_
+_16.06.2023 18:55:57_
