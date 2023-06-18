@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>357</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>358</sup>
 ---
 
 ## 2023
+
+### Факультет анимагии, или Если не хочется замуж
+Снегирева Ирина
+> [2023-06-18] 
+
 
 ### Тайный город 30 Ангел мертвеца
 Панов Вадим

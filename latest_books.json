@@ -1,4 +1,16 @@
 {
+    "6WF8OFT_AU": {
+        "id": "6WF8OFT_AU",
+        "title": "Факультет анимагии, или Если не хочется замуж",
+        "author": "Снегирева Ирина",
+        "notes": "",
+        "createdAt": "2023-06-18 15:35:09",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 358
+        }
+    },
     "t5YneuqcIH": {
         "id": "t5YneuqcIH",
         "title": "Обыкновенная история",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 116
-        }
-    },
-    "zvY8DQH9qj": {
-        "id": "zvY8DQH9qj",
-        "title": "Моби дик",
-        "author": "Мелвилл Герман",
-        "notes": "",
-        "createdAt": "2023-05-31 20:01:24",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 115
         }
     }
 }
