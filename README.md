@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Падение с небес. Найти тебя ~ [Chiffi](users/105/105831994080785626680-google)<sup>359</sup>
+    > Не зашло.. http://loveread.me/read_book.php?id=85432&p=15
+
 * Марфа-посадница или покорение нова-города ~ [Вит](users/300/300273923-vkontakte)<sup>128</sup>
     > Неинтересно. Скучно
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > — Разумный подход, –
 
 * Смотрящие в окно Городские легенды6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>356</sup>
-    > звонок – это вторжение, нарушение личных границ. Человек может быть занят или просто не в ресурсе для разговоров. А на сообщение ответит, когда ему будет комфортно.
 
 * Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>353</sup>
 
-* Охотники за умами. ФБР против серийных убийц ~ [Garka](users/115/115753719718250012620-google)<sup>343</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>358</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>359</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>280</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 
 
-_18.06.2023 15:35:09_
+_19.06.2023 20:52:42_
