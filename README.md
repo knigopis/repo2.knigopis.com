@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вор времени ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup>
+    > audio
+
 * Падение с небес. Найти тебя ~ [Chiffi](users/105/105831994080785626680-google)<sup>359</sup>
     > Не зашло.. http://loveread.me/read_book.php?id=85432&p=15
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Неинтересно. Скучно
 
 * Тайный город 30 ~ [Chiffi](users/105/105831994080785626680-google)<sup>357</sup>
-    > Как выбираете?
-    > 	— По итогам перестрелки, – Только с ним давно никто перестреливаться не хочет – себе дороже получится.
-    > 	— Стреляет хорошо?
-    > 	— Вешает много.
-    > — Разумный подход, –
 
 * Смотрящие в окно Городские легенды6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>356</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>353</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>359</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
@@ -54,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>65</sup> 
 [](users/111/111615427149312226167-google)<sup>1</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>35</sup> 
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 [](users/103/103270351651629158252-google)<sup>0</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 
 
-_19.06.2023 20:52:42_
+_20.06.2023 11:45:20_
