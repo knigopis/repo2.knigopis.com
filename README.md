@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пение птиц ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup>
+    > audio
+
 * Вор времени ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не зашло.. http://loveread.me/read_book.php?id=85432&p=15
 
 * Марфа-посадница или покорение нова-города ~ [Вит](users/300/300273923-vkontakte)<sup>128</sup>
-    > Неинтересно. Скучно
 
 * Тайный город 30 ~ [Chiffi](users/105/105831994080785626680-google)<sup>357</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
 
-* «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>359</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 
 
-_20.06.2023 11:45:20_
+_21.06.2023 03:39:57_
