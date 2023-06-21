@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>360</sup>
 * Пение птиц ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup>
 * Вор времени ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup>
 * Падение с небес. Найти тебя ~ [Chiffi](users/105/105831994080785626680-google)<sup>359</sup>
@@ -12,7 +13,6 @@
 * Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
 * Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
 * «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>353</sup>
 * Охотники за умами. ФБР против серийных убийц ~ [Garka](users/115/115753719718250012620-google)<sup>343</sup>
 * Уловка 22 ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>105</sup>
 * Возвращение в дивный новый мир ~ [leo](users/106/106915386474260202605-google)<sup>16</sup>
@@ -33,4 +33,4 @@
 * Корона пастуха ~ [Garka](users/115/115753719718250012620-google)<sup>341</sup>
 
 
-_21.06.2023 03:39:57_
+_21.06.2023 19:48:00_

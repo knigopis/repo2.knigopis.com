@@ -1,4 +1,16 @@
 {
+    "JdGb4XHJxS": {
+        "id": "JdGb4XHJxS",
+        "title": "",
+        "author": "",
+        "notes": "В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться",
+        "createdAt": "2023-06-21 19:48:00",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 360
+        }
+    },
     "70tJZyN9K6": {
         "id": "70tJZyN9K6",
         "title": "Пение птиц",
@@ -345,18 +357,6 @@
             "id": "563255998-yandex",
             "nickname": "gasanalievakarina",
             "booksCount": 1
-        }
-    },
-    "taKBazABVl": {
-        "id": "taKBazABVl",
-        "title": "Олеся",
-        "author": "Куприн Александр Иванович",
-        "notes": "",
-        "createdAt": "2023-05-31 21:01:50",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 119
         }
     }
 }
