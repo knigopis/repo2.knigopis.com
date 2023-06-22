@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Беги, некромант, беги ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
+    > Блин, платный доступ. Но книга интересная https://author.today/reader/206020/1789945
+    > В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться
+
 * Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
     > 1. Принцесса особого назначения
     > 2.Ловушка для принцессы
@@ -17,7 +21,6 @@ Do not use pull requests to make changes here.
     > В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться
 
 * Пение птиц ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup>
-    > audio
 
 * Вор времени ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup>
 
@@ -31,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
 
-* Игры со смертью 4. Жмурки ~ [Chiffi](users/105/105831994080785626680-google)<sup>354</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>360</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>361</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>213</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
@@ -70,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [мишер](users/110/110444757671606245841-google)<sup>0</sup> 
 
 
-_22.06.2023 21:49:08_
+_22.06.2023 21:49:44_
