@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 213,
+        "updatedAt": "2023-06-22 07:51:30"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "мишер",
         "booksCount": 0,
         "updatedAt": "2023-05-03 18:16:17"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 60,
-        "updatedAt": "2023-05-03 00:53:43"
     }
 }

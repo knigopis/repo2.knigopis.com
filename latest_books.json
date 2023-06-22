@@ -1,4 +1,16 @@
 {
+    "-j_hwymfi3": {
+        "id": "-j_hwymfi3",
+        "title": "Открытие",
+        "author": "Дрю Карпишин",
+        "notes": "",
+        "createdAt": "2023-06-22 07:51:30",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 213
+        }
+    },
     "JdGb4XHJxS": {
         "id": "JdGb4XHJxS",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 120
-        }
-    },
-    "jRHZdw6MwB": {
-        "id": "jRHZdw6MwB",
-        "title": "Атлант расправил плечи",
-        "author": "А.Рэнд",
-        "notes": "",
-        "createdAt": "2023-05-31 22:54:19",
-        "user": {
-            "id": "563255998-yandex",
-            "nickname": "gasanalievakarina",
-            "booksCount": 1
         }
     }
 }

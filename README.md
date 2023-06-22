@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>213</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>360</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
 [ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
 [мишер](users/110/110444757671606245841-google)<sup>0</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>60</sup> 
 
 
-_21.06.2023 19:48:00_
+_22.06.2023 07:51:31_
