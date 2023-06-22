@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>24</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>25</sup>
 ---
 
 ## 2023
+
+### Купчихи, дворянки, магнатки
+УЛЬЯНОВА Галина
+> [2023-04-23] 
+
 
 ### Карибская тайна
 КРИСТИ Агата
