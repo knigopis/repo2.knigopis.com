@@ -1,4 +1,4 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>361</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>360</sup>
 ---
 
 ## 2023
@@ -10,12 +10,6 @@
 > 4.Восход Черной звезды
 > 5.Сияние Черной звезды
 > https://loveread.info/books/fentezi/10792-elena-zvezdnaya-princessa-osobogo-naznacheniya.html
-
-
-### Беги, некромант, беги
-Эл Лана
-> [2023-06-22] Блин, платный доступ. Но книга интересная https://author.today/reader/206020/1789945
-> В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться
 
 
 ### Падение с небес. Найти тебя
