@@ -1,7 +1,16 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>360</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>361</sup>
 ---
 
 ## 2023
+
+### Катриона
+> [2023-06-30] 1. Принцесса особого назначения
+> 2.Ловушка для принцессы
+> 3.Игрушка императора
+> 4.Восход Черной звезды
+> 5.Сияние Черной звезды
+> https://loveread.info/books/fentezi/10792-elena-zvezdnaya-princessa-osobogo-naznacheniya.html
+
 
 ### Беги, некромант, беги
 Эл Лана

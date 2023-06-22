@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
+    > 1. Принцесса особого назначения
+    > 2.Ловушка для принцессы
+    > 3.Игрушка императора
+    > 4.Восход Черной звезды
+    > 5.Сияние Черной звезды
+    > https://loveread.info/books/fentezi/10792-elena-zvezdnaya-princessa-osobogo-naznacheniya.html
+
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>360</sup>
     > В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться
 
@@ -12,7 +20,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Вор времени ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup>
-    > audio
 
 * Падение с небес. Найти тебя ~ [Chiffi](users/105/105831994080785626680-google)<sup>359</sup>
 
@@ -26,15 +33,13 @@ Do not use pull requests to make changes here.
 
 * Игры со смертью 4. Жмурки ~ [Chiffi](users/105/105831994080785626680-google)<sup>354</sup>
 
-* Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>361</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>213</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>360</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
@@ -65,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [мишер](users/110/110444757671606245841-google)<sup>0</sup> 
 
 
-_22.06.2023 07:51:31_
+_22.06.2023 19:57:35_
