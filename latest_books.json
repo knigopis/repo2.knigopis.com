@@ -1,4 +1,16 @@
 {
+    "p2zxVU5iv2": {
+        "id": "p2zxVU5iv2",
+        "title": "Солнечный пёс",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2023-06-23 13:23:29",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 281
+        }
+    },
     "tsf-BN5EPD": {
         "id": "tsf-BN5EPD",
         "title": "Купчихи, дворянки, магнатки",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 90
-        }
-    },
-    "bYRCKO9nLy": {
-        "id": "bYRCKO9nLy",
-        "title": "Игры со смертью 3 . Дочки-матери",
-        "author": "Тимошенко Наталья",
-        "notes": "",
-        "createdAt": "2023-06-01 18:10:55",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 355
         }
     }
 }

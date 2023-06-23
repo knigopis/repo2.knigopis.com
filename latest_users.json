@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 281,
+        "updatedAt": "2023-06-23 13:23:29"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -34,12 +40,6 @@
         "nickname": "butercupa",
         "booksCount": 91,
         "updatedAt": "2023-06-16 12:26:00"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 280,
-        "updatedAt": "2023-06-14 18:38:10"
     },
     "113891504788165801147-google": {
         "id": "113891504788165801147-google",
