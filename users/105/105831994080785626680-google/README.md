@@ -10,6 +10,7 @@
 > 4.Восход Черной звезды
 > 5.Сияние Черной звезды
 > https://loveread.info/books/fentezi/10792-elena-zvezdnaya-princessa-osobogo-naznacheniya.html
+> http://loveread.ec/read_book.php?id=10787&p=1
 
 
 ### Беги, некромант, беги
