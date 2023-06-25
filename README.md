@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Timur](users/107/107645396695684639157-google)<sup>0</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>72</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>36</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/654/65468521419-odnoklassniki)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
 [Oberst](users/243/24342718-vkontakte)<sup>0</sup> 
-[ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
 
 
-_25.06.2023 14:45:12_
+_25.06.2023 19:01:05_
