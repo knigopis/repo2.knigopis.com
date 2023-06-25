@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Калигула ~ [Shinku](users/109/109176126475581739292-google)<sup>71</sup>
+    > печаль
+
 * Беги, некромант, беги ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
     > Блин, платный доступ. Но книга интересная https://author.today/reader/206020/1789945
     > В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > https://loveread.info/books/fentezi/10792-elena-zvezdnaya-princessa-osobogo-naznacheniya.html
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>360</sup>
-    > В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться
 
 * Пение птиц ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup>
 
@@ -32,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Смотрящие в окно Городские легенды6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>356</sup>
 
-* Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shinku](users/109/109176126475581739292-google)<sup>70</sup> 
+[Shinku](users/109/109176126475581739292-google)<sup>71</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>36</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>25</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
 
 
-_25.06.2023 14:41:22_
+_25.06.2023 14:42:32_

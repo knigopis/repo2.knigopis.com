@@ -1,4 +1,16 @@
 {
+    "jnBT58hFjA": {
+        "id": "jnBT58hFjA",
+        "title": "Калигула",
+        "author": "Камю",
+        "notes": "печаль",
+        "createdAt": "2023-06-25 14:42:32",
+        "user": {
+            "id": "109176126475581739292-google",
+            "nickname": "Shinku",
+            "booksCount": 71
+        }
+    },
     "pJqkoTtX3z": {
         "id": "pJqkoTtX3z",
         "title": "Беги, некромант, беги",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 99
-        }
-    },
-    "H5w-L63r6d": {
-        "id": "H5w-L63r6d",
-        "title": "Замуж второй раз, или Ещё посмотрим, кто из нас попал!",
-        "author": "Вудворд Фрпнциска",
-        "notes": "Немного переборщила, но приятное женское чтиво",
-        "createdAt": "2023-04-12 05:56:50",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 344
         }
     }
 }
