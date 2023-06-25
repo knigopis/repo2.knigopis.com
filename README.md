@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shinku](users/109/109176126475581739292-google)<sup>71</sup> 
+[Shinku](users/109/109176126475581739292-google)<sup>72</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>36</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>25</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ksano4ka92](users/733/73327956-vkontakte)<sup>0</sup> 
 
 
-_25.06.2023 14:42:32_
+_25.06.2023 14:43:19_
