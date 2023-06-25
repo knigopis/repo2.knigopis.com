@@ -1,4 +1,16 @@
 {
+    "6-8Avs9qHq": {
+        "id": "6-8Avs9qHq",
+        "title": "Покой",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2023-06-25 14:41:22",
+        "user": {
+            "id": "109176126475581739292-google",
+            "nickname": "Shinku",
+            "booksCount": 70
+        }
+    },
     "JHl_EBJoxH": {
         "id": "JHl_EBJoxH",
         "title": "Пигмалио́н",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 124
-        }
-    },
-    "iUfcYcp0GG": {
-        "id": "iUfcYcp0GG",
-        "title": "Обломов",
-        "author": "Иван Гончаров",
-        "notes": "",
-        "createdAt": "2023-06-05 17:12:36",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 19
         }
     }
 }
