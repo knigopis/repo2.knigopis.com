@@ -1,4 +1,10 @@
 {
+    "107645396695684639157-google": {
+        "id": "107645396695684639157-google",
+        "nickname": "Timur",
+        "booksCount": 0,
+        "updatedAt": "2023-06-25 19:01:05"
+    },
     "109176126475581739292-google": {
         "id": "109176126475581739292-google",
         "nickname": "Shinku",
@@ -172,11 +178,5 @@
         "nickname": "Oberst",
         "booksCount": 0,
         "updatedAt": "2023-05-06 07:23:50"
-    },
-    "73327956-vkontakte": {
-        "id": "73327956-vkontakte",
-        "nickname": "ksano4ka92",
-        "booksCount": 0,
-        "updatedAt": "2023-05-03 20:27:26"
     }
 }
