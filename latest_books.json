@@ -1,4 +1,16 @@
 {
+    "SpW9Cw5e2m": {
+        "id": "SpW9Cw5e2m",
+        "title": "Пигмалио́н",
+        "author": "Шоу, Джордж Бе́рнард",
+        "notes": "",
+        "createdAt": "2023-06-25 14:27:43",
+        "user": {
+            "id": "109176126475581739292-google",
+            "nickname": "Shinku",
+            "booksCount": 67
+        }
+    },
     "TLEJdWrhJi": {
         "id": "TLEJdWrhJi",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 19
-        }
-    },
-    "LEu6m0VfPi": {
-        "id": "LEu6m0VfPi",
-        "title": "Постоялец",
-        "author": "Сименон Жорж",
-        "notes": "",
-        "createdAt": "2023-06-04 18:42:57",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 123
         }
     }
 }
