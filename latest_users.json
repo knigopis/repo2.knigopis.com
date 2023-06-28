@@ -1,4 +1,10 @@
 {
+    "2579695-vkontakte": {
+        "id": "2579695-vkontakte",
+        "nickname": "albina_untiring",
+        "booksCount": 43,
+        "updatedAt": "2023-06-28 12:14:09"
+    },
     "6069210-vkontakte": {
         "id": "6069210-vkontakte",
         "nickname": "dobrova_nails",
@@ -172,11 +178,5 @@
         "nickname": "Альберт Сысоев",
         "booksCount": 0,
         "updatedAt": "2023-05-14 18:05:50"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 1019,
-        "updatedAt": "2023-05-06 11:34:46"
     }
 }

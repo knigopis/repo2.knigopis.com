@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Переломный момент. Как незначительные изменения приводят к глобальным ~ [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup>
+    > Это действительно очень интересно, хотелось бы еще больше книг прочитать на тему, как делать мало для достижения многого. Как затрачивая минимум достигать максимума от этих действий, как распознать бесполезные действия
+
 * Переломный момент. Как незначительные изменения приводят к глобальным ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup>
     > Это действительно очень интересно, хотелось бы еще больше книг прочитать на тему, как делать мало для достижения многого. Как затрачивая минимум достигать максимума от этих действий, как распознать бесполезные действия
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > печаль
 
 * Беги, некромант, беги ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
-    > Блин, платный доступ. Но книга интересная https://author.today/reader/206020/1789945
-    > В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться
 
 * Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марфа-посадница или покорение нова-города ~ [Вит](users/300/300273923-vkontakte)<sup>128</sup>
 
-* Тайный город 30 ~ [Chiffi](users/105/105831994080785626680-google)<sup>357</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup> 
 [Timur](users/107/107645396695684639157-google)<sup>0</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>72</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>352</sup> 
 [Люля](users/107/107102414660569698047-google)<sup>0</sup> 
 [Альберт Сысоев](users/654/65468521419-odnoklassniki)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>1019</sup> 
 
 
-_28.06.2023 12:12:35_
+_28.06.2023 12:14:09_
