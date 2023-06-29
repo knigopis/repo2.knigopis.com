@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup> 
 [Timur](users/107/107645396695684639157-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>352</sup> 
 [Люля](users/107/107102414660569698047-google)<sup>0</sup> 
-[Альберт Сысоев](users/654/65468521419-odnoklassniki)<sup>0</sup> 
 
 
-_28.06.2023 12:14:09_
+_29.06.2023 04:14:46_
