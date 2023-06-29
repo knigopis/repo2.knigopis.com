@@ -1,4 +1,10 @@
 {
+    "762419130-vkontakte": {
+        "id": "762419130-vkontakte",
+        "nickname": "Knigger",
+        "booksCount": 0,
+        "updatedAt": "2023-06-29 04:14:45"
+    },
     "2579695-vkontakte": {
         "id": "2579695-vkontakte",
         "nickname": "albina_untiring",
@@ -172,11 +178,5 @@
         "nickname": "Люля",
         "booksCount": 0,
         "updatedAt": "2023-05-15 19:34:05"
-    },
-    "65468521419-odnoklassniki": {
-        "id": "65468521419-odnoklassniki",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 0,
-        "updatedAt": "2023-05-14 18:05:50"
     }
 }
