@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>362</sup>
+    > ты никогда не проигрываешь, ведь проиграть может лишь тот, кто сдался, а ты не сдаешься.
+
 * Переломный момент. Как незначительные изменения приводят к глобальным ~ [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup>
     > Это действительно очень интересно, хотелось бы еще больше книг прочитать на тему, как делать мало для достижения многого. Как затрачивая минимум достигать максимума от этих действий, как распознать бесполезные действия
 
@@ -12,11 +15,8 @@ Do not use pull requests to make changes here.
     > Это действительно очень интересно, хотелось бы еще больше книг прочитать на тему, как делать мало для достижения многого. Как затрачивая минимум достигать максимума от этих действий, как распознать бесполезные действия
 
 * Калигула ~ [Shinku](users/109/109176126475581739292-google)<sup>71</sup>
-    > печаль
 
 * Беги, некромант, беги ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
-
-* Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>360</sup>
 
@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>362</sup> 
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>36</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>25</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>361</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>213</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Люля](users/107/107102414660569698047-google)<sup>0</sup> 
 
 
-_29.06.2023 04:14:46_
+_30.06.2023 18:34:52_
