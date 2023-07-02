@@ -1,4 +1,16 @@
 {
+    "E6QHKIxxOU": {
+        "id": "E6QHKIxxOU",
+        "title": "Молчание ягнят",
+        "author": "Харрис Томас",
+        "notes": "Доктор Лектер помогает поймать серийного убийцу-психопата. Ну кто, если не он? рыбак рыбака...",
+        "createdAt": "2023-07-02 16:06:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 347
+        }
+    },
     "Qg6ZfB418J": {
         "id": "Qg6ZfB418J",
         "title": "Красный дракон",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 102
-        }
-    },
-    "PnmLonxfSH": {
-        "id": "PnmLonxfSH",
-        "title": "«Моби Дик, или Белый кит»",
-        "author": "Герман Мелвилл",
-        "notes": "audio",
-        "createdAt": "2023-04-19 03:49:46",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 101
         }
     }
 }

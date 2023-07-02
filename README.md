@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Молчание ягнят ~ [Garka](users/115/115753719718250012620-google)<sup>347</sup>
+    > Доктор Лектер помогает поймать серийного убийцу-психопата. Ну кто, если не он? рыбак рыбака...
+
 * Красный дракон ~ [Garka](users/115/115753719718250012620-google)<sup>346</sup>
     > Первая книга цикла о каннибале Ганнибале Лекторе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ты никогда не проигрываешь, ведь проиграть может лишь тот, кто сдался, а ты не сдаешься.
 
 * Переломный момент. Как незначительные изменения приводят к глобальным ~ [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup>
-    > Это действительно очень интересно, хотелось бы еще больше книг прочитать на тему, как делать мало для достижения многого. Как затрачивая минимум достигать максимума от этих действий, как распознать бесполезные действия
 
 * Переломный момент. Как незначительные изменения приводят к глобальным ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вор времени ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup>
 
-* Падение с небес. Найти тебя ~ [Chiffi](users/105/105831994080785626680-google)<sup>359</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>346</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>347</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>362</sup> 
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>352</sup> 
 
 
-_02.07.2023 16:05:19_
+_02.07.2023 16:06:40_
