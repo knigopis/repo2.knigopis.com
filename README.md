@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Медвежье озеро ~ [Chiffi](users/105/105831994080785626680-google)<sup>363</sup>
+    > тот круг, по которому бегут всю жизнь. Ведь чтобы из него выбраться, нужно принять сложное решение, рискнуть потерять даже то, что имеешь, прыгнуть через пропасть без страховки, сжечь за собой мосты.
+
 * Молчание ягнят ~ [Garka](users/115/115753719718250012620-google)<sup>347</sup>
     > Доктор Лектер помогает поймать серийного убийцу-психопата. Ну кто, если не он? рыбак рыбака...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая книга цикла о каннибале Ганнибале Лекторе
 
 * Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>362</sup>
-    > ты никогда не проигрываешь, ведь проиграть может лишь тот, кто сдался, а ты не сдаешься.
 
 * Переломный момент. Как незначительные изменения приводят к глобальным ~ [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Пение птиц ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup>
 
-* Вор времени ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>107</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>363</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>347</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>362</sup> 
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>352</sup> 
 
 
-_02.07.2023 16:06:40_
+_02.07.2023 20:15:41_
