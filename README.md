@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Красный дракон ~ [Garka](users/115/115753719718250012620-google)<sup>346</sup>
+    > Первая книга цикла о каннибале Ганнибале Лекторе
+
 * Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>362</sup>
     > ты никогда не проигрываешь, ведь проиграть может лишь тот, кто сдался, а ты не сдаешься.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Это действительно очень интересно, хотелось бы еще больше книг прочитать на тему, как делать мало для достижения многого. Как затрачивая минимум достигать максимума от этих действий, как распознать бесполезные действия
 
 * Переломный момент. Как незначительные изменения приводят к глобальным ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup>
-    > Это действительно очень интересно, хотелось бы еще больше книг прочитать на тему, как делать мало для достижения многого. Как затрачивая минимум достигать максимума от этих действий, как распознать бесполезные действия
 
 * Калигула ~ [Shinku](users/109/109176126475581739292-google)<sup>71</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Падение с небес. Найти тебя ~ [Chiffi](users/105/105831994080785626680-google)<sup>359</sup>
 
-* Марфа-посадница или покорение нова-города ~ [Вит](users/300/300273923-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>346</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>362</sup> 
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>173</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>345</sup> 
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 [](users/111/111615427149312226167-google)<sup>1</sup> 
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>352</sup> 
 
 
-_01.07.2023 00:54:27_
+_02.07.2023 16:05:19_

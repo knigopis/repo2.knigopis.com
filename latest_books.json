@@ -1,4 +1,16 @@
 {
+    "Qg6ZfB418J": {
+        "id": "Qg6ZfB418J",
+        "title": "Красный дракон",
+        "author": "Харрис Томас",
+        "notes": "Первая книга цикла о каннибале Ганнибале Лекторе",
+        "createdAt": "2023-07-02 16:05:19",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 346
+        }
+    },
     "H3mzXhiJet": {
         "id": "H3mzXhiJet",
         "title": "Катриона",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 357
-        }
-    },
-    "IxQg4fWui1": {
-        "id": "IxQg4fWui1",
-        "title": "Да здравствует фикус!",
-        "author": "Оруэлл Джордж",
-        "notes": "",
-        "createdAt": "2023-06-09 09:29:07",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 125
         }
     }
 }
