@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/720/720637983-vkontakte)<sup>0</sup> 
+[Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>109</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_03.07.2023 17:02:15_
+_03.07.2023 17:04:32_
