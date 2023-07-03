@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nika](users/112/112175696674200715149-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>109</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>363</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111615427149312226167-google)<sup>1</sup> 
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 [](users/103/103270351651629158252-google)<sup>0</sup> 
-[hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 
 
-_03.07.2023 12:23:10_
+_03.07.2023 16:58:38_
