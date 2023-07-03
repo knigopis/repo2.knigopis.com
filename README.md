@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ричард 3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>61</sup>
+    > Сухая книга
+
 * Медвежье озеро ~ [Chiffi](users/105/105831994080785626680-google)<sup>363</sup>
     > тот круг, по которому бегут всю жизнь. Ведь чтобы из него выбраться, нужно принять сложное решение, рискнуть потерять даже то, что имеешь, прыгнуть через пропасть без страховки, сжечь за собой мосты.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Доктор Лектер помогает поймать серийного убийцу-психопата. Ну кто, если не он? рыбак рыбака...
 
 * Красный дракон ~ [Garka](users/115/115753719718250012620-google)<sup>346</sup>
-    > Первая книга цикла о каннибале Ганнибале Лекторе
 
 * Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>362</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>360</sup>
 
-* Пение птиц ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>363</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>347</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 [](users/103/103270351651629158252-google)<sup>0</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>352</sup> 
 
 
-_02.07.2023 20:15:41_
+_03.07.2023 04:56:59_

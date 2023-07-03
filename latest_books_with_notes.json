@@ -1,4 +1,16 @@
 {
+    "_qd6oJBPt2": {
+        "id": "_qd6oJBPt2",
+        "title": "Ричард 3",
+        "author": "Елена Браун",
+        "notes": "Сухая книга",
+        "createdAt": "2023-07-03 04:56:59",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 61
+        }
+    },
     "nHfcr8QwfS": {
         "id": "nHfcr8QwfS",
         "title": "Медвежье озеро",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 10
-        }
-    },
-    "tdiGEMrBtB": {
-        "id": "tdiGEMrBtB",
-        "title": "Мое проклятие (3 части)",
-        "author": "Ардова Алиса",
-        "notes": "Женский роман, но симпатичный",
-        "createdAt": "2023-04-26 20:54:20",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 349
         }
     }
 }

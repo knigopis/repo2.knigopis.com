@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ричард 3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>61</sup>
 * Медвежье озеро ~ [Chiffi](users/105/105831994080785626680-google)<sup>363</sup>
 * Молчание ягнят ~ [Garka](users/115/115753719718250012620-google)<sup>347</sup>
 * Красный дракон ~ [Garka](users/115/115753719718250012620-google)<sup>346</sup>
@@ -30,7 +31,6 @@
 * Наши за границей ~ [mfevralev](users/140/140966150-vkontakte)<sup>59</sup>
 * Академия божественных жен ~ [Chiffi](users/105/105831994080785626680-google)<sup>350</sup>
 * Турбосуслик ~ [leo](users/106/106915386474260202605-google)<sup>10</sup>
-* Мое проклятие (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>349</sup>
 
 
-_02.07.2023 20:15:41_
+_03.07.2023 04:56:59_
