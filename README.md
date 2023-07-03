@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Творцы заклинаний ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>109</sup>
+    > audio
+
 * Ричард 3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>61</sup>
     > Сухая книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > тот круг, по которому бегут всю жизнь. Ведь чтобы из него выбраться, нужно принять сложное решение, рискнуть потерять даже то, что имеешь, прыгнуть через пропасть без страховки, сжечь за собой мосты.
 
 * Молчание ягнят ~ [Garka](users/115/115753719718250012620-google)<sup>347</sup>
-    > Доктор Лектер помогает поймать серийного убийцу-психопата. Ну кто, если не он? рыбак рыбака...
 
 * Красный дракон ~ [Garka](users/115/115753719718250012620-google)<sup>346</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Беги, некромант, беги ~ [Chiffi](users/105/105831994080785626680-google)<sup>361</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>360</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>109</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>363</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>347</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>25</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>213</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>108</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
 [](users/113/113891504788165801147-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>1</sup> 
 
 
-_03.07.2023 04:56:59_
+_03.07.2023 12:23:10_
