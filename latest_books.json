@@ -1,4 +1,16 @@
 {
+    "uZe7A1XbQL": {
+        "id": "uZe7A1XbQL",
+        "title": "Воспоминания. От крепостного права до большевиков",
+        "author": "Врангель Н.Е",
+        "notes": "",
+        "createdAt": "2023-07-04 05:27:07",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 222
+        }
+    },
     "DCl-JcaPTN": {
         "id": "DCl-JcaPTN",
         "title": "Дубровский",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 422
-        }
-    },
-    "EX9DqHoAie": {
-        "id": "EX9DqHoAie",
-        "title": "Марфа-посадница или покорение нова-города",
-        "author": "Карамзин Николай",
-        "notes": "Неинтересно. Скучно",
-        "createdAt": "2023-06-11 15:10:29",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 128
         }
     }
 }

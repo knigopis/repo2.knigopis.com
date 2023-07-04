@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 222,
+        "updatedAt": "2023-07-04 05:27:07"
+    },
     "720637983-vkontakte": {
         "id": "720637983-vkontakte",
         "nickname": "Уварова Настя",
@@ -136,12 +142,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-06-10 01:14:14"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 221,
-        "updatedAt": "2023-06-08 21:34:25"
     },
     "111792174175954051826-google": {
         "id": "111792174175954051826-google",
