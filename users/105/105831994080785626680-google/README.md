@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>363</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>364</sup>
 ---
 
 ## 2023
+
+### Казаки разбойники. Игры со смертью 5
+Тимошенко Наталья
+> [2023-07-10] https://kniga-online.com/books/detektivy-i-trillery/detektiv/322338-kazaki-razboiniki-natalya-nikolaevna-timoshenko.html
+
 
 ### Тринадцатая запись. Медвежье озеро
 > [2023-07-06] тот круг, по которому бегут всю жизнь. Ведь чтобы из него выбраться, нужно принять сложное решение, рискнуть потерять даже то, что имеешь, прыгнуть через пропасть без страховки, сжечь за собой мосты.
