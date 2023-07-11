@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вещие сестрички ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>110</sup>
+    > audio
+
 * Казаки разбойники. Игры со смертью 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>364</sup>
     > https://kniga-online.com/books/detektivy-i-trillery/detektiv/322338-kazaki-razboiniki-natalya-nikolaevna-timoshenko.html
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Ричард 3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>61</sup>
-    > Сухая книга
 
 * Медвежье озеро ~ [Chiffi](users/105/105831994080785626680-google)<sup>363</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Переломный момент. Как незначительные изменения приводят к глобальным ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup>
 
-* Калигула ~ [Shinku](users/109/109176126475581739292-google)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>110</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>364</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>222</sup> 
 [Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>109</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>61</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>347</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_09.07.2023 18:27:48_
+_11.07.2023 18:45:05_

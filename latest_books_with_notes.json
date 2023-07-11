@@ -1,4 +1,16 @@
 {
+    "vWE9U0mKbU": {
+        "id": "vWE9U0mKbU",
+        "title": "Вещие сестрички",
+        "author": "Терри Праттчет",
+        "notes": "audio",
+        "createdAt": "2023-07-11 18:45:05",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 110
+        }
+    },
     "rF5tZMEF4E": {
         "id": "rF5tZMEF4E",
         "title": "Казаки разбойники. Игры со смертью 5",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 60
-        }
-    },
-    "48ZW_yWLwD": {
-        "id": "48ZW_yWLwD",
-        "title": "Наши за границей",
-        "author": "Николай Лейкин",
-        "notes": "Фигня",
-        "createdAt": "2023-05-03 00:53:25",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 59
         }
     }
 }
