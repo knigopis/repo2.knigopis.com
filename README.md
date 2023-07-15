@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>348</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>364</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>222</sup> 
 [Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>61</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>347</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_11.07.2023 18:46:31_
+_15.07.2023 06:10:43_

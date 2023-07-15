@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>347</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>348</sup>
 ---
 
 ## 2023
+
+### Ганнибал
+Харрис Томас
+> [2023-07-05] 
+
 
 ### Молчание ягнят
 Харрис Томас
