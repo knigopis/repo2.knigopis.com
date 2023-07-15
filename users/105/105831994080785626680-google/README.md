@@ -5,7 +5,8 @@
 
 ### Казаки разбойники. Игры со смертью 5
 Тимошенко Наталья
-> [2023-07-10] https://kniga-online.com/books/detektivy-i-trillery/detektiv/322338-kazaki-razboiniki-natalya-nikolaevna-timoshenko.html
+> [2023-07-15] https://kniga-online.com/books/detektivy-i-trillery/detektiv/322338-kazaki-razboiniki-natalya-nikolaevna-timoshenko.html
+> Хороший конец серии
 
 
 ### Тринадцатая запись. Медвежье озеро
