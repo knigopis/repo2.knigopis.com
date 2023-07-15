@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ганнибал. Восхождение. ~ [Garka](users/115/115753719718250012620-google)<sup>349</sup>
+    > Описание детства доктора Лектора - расстрел семьи, смерть сестры и его месть, нацистам, съевшим Мику (Мишу).
+
 * Ведьмы за границей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Казаки разбойники. Игры со смертью 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>364</sup>
-    > https://kniga-online.com/books/detektivy-i-trillery/detektiv/322338-kazaki-razboiniki-natalya-nikolaevna-timoshenko.html
 
 * Творцы заклинаний ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>109</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>362</sup>
 
-* Переломный момент. Как незначительные изменения приводят к глобальным ~ [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>348</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>349</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>364</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>222</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_15.07.2023 06:10:43_
+_15.07.2023 06:12:33_
