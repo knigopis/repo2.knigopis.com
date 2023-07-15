@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>36</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>37</sup>
 ---
 
 ## 2023
+
+### Биология добра и зла
+Роберт Сапольски
+> [2023-07-15] 
+
 
 ### Долгая ночь
 Цзы Цзиньчэнь

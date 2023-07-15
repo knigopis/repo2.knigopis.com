@@ -1,4 +1,16 @@
 {
+    "lP2MYZjan8": {
+        "id": "lP2MYZjan8",
+        "title": "Биология добра и зла",
+        "author": "Роберт Сапольски",
+        "notes": "",
+        "createdAt": "2023-07-15 23:44:44",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 37
+        }
+    },
     "oecK_SCt2p": {
         "id": "oecK_SCt2p",
         "title": "Ганнибал. Восхождение.",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 107
-        }
-    },
-    "NPE7Q6nRuk": {
-        "id": "NPE7Q6nRuk",
-        "title": "Падение с небес. Найти тебя",
-        "author": "",
-        "notes": "Не зашло.. http://loveread.me/read_book.php?id=85432&p=15",
-        "createdAt": "2023-06-19 20:52:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 359
         }
     }
 }
