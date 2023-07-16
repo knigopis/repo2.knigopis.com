@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>173</sup>
+# List of books read by 4apa<sup>174</sup>
 ---
 
 ## 2023
+
+### Верхом на ветре
+Л. Робсон
+> [2023-07-17] 
+
 
 ### Есть стыковка
 Т. Стаффорд
