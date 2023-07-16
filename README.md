@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия проклятий ~ [Chiffi](users/105/105831994080785626680-google)<sup>365</sup>
+    > либо сразу молчите, либо доказывайте свое до последнего. Не сворачивайте с пути, если уж ступили на него.
+
 * Ганнибал. Восхождение. ~ [Garka](users/115/115753719718250012620-google)<sup>349</sup>
     > Описание детства доктора Лектора - расстрел семьи, смерть сестры и его месть, нацистам, съевшим Мику (Мишу).
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Вещие сестрички ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>110</sup>
-    > audio
 
 * Казаки разбойники. Игры со смертью 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>364</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Красный дракон ~ [Garka](users/115/115753719718250012620-google)<sup>346</sup>
 
-* Катриона ~ [Chiffi](users/105/105831994080785626680-google)<sup>362</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>365</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>37</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>349</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>364</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>222</sup> 
 [Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_15.07.2023 23:44:44_
+_16.07.2023 13:39:08_

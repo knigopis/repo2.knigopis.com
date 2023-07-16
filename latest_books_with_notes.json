@@ -1,4 +1,16 @@
 {
+    "cFmbtqAWgg": {
+        "id": "cFmbtqAWgg",
+        "title": "Академия проклятий",
+        "author": "Звёздная Елена",
+        "notes": "либо сразу молчите, либо доказывайте свое до последнего. Не сворачивайте с пути, если уж ступили на него.",
+        "createdAt": "2023-07-16 13:39:08",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 365
+        }
+    },
     "oecK_SCt2p": {
         "id": "oecK_SCt2p",
         "title": "Ганнибал. Восхождение.",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 16
-        }
-    },
-    "XvKkAgaxUd": {
-        "id": "XvKkAgaxUd",
-        "title": "«Роковая музыка»",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-05-10 09:21:06",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 104
         }
     }
 }

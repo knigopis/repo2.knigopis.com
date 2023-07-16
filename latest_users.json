@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 365,
+        "updatedAt": "2023-07-16 13:39:08"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -16,12 +22,6 @@
         "nickname": "Альберт Сысоев",
         "booksCount": 111,
         "updatedAt": "2023-07-11 18:46:31"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 364,
-        "updatedAt": "2023-07-09 18:27:48"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
