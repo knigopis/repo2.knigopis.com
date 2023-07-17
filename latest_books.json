@@ -1,4 +1,16 @@
 {
+    "KIHksjTBEg": {
+        "id": "KIHksjTBEg",
+        "title": "Емельян Пугачев т.1",
+        "author": "В.Я.Шишков",
+        "notes": "Много не о казаках",
+        "createdAt": "2023-07-17 09:19:34",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 62
+        }
+    },
     "xpN__RKXEf": {
         "id": "xpN__RKXEf",
         "title": "Верхом на ветре",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 213
-        }
-    },
-    "JdGb4XHJxS": {
-        "id": "JdGb4XHJxS",
-        "title": "",
-        "author": "",
-        "notes": "В деле перераспределения обязанностей главное не дать тому, на кого ты перекладываешь свою работу не дать опомниться",
-        "createdAt": "2023-06-21 19:48:00",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 360
         }
     }
 }

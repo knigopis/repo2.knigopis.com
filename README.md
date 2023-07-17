@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Емельян Пугачев т.1 ~ [mfevralev](users/140/140966150-vkontakte)<sup>62</sup>
+    > Много не о казаках
+
 * Академия проклятий ~ [Chiffi](users/105/105831994080785626680-google)<sup>365</sup>
     > либо сразу молчите, либо доказывайте свое до последнего. Не сворачивайте с пути, если уж ступили на него.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Описание детства доктора Лектора - расстрел семьи, смерть сестры и его месть, нацистам, съевшим Мику (Мишу).
 
 * Ведьмы за границей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup>
-    > audio
 
 * Вещие сестрички ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>110</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Молчание ягнят ~ [Garka](users/115/115753719718250012620-google)<sup>347</sup>
 
-* Красный дракон ~ [Garka](users/115/115753719718250012620-google)<sup>346</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>62</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>174</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>365</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>37</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>222</sup> 
 [Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>61</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_16.07.2023 22:43:57_
+_17.07.2023 09:19:34_

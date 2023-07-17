@@ -1,4 +1,16 @@
 {
+    "KIHksjTBEg": {
+        "id": "KIHksjTBEg",
+        "title": "Емельян Пугачев т.1",
+        "author": "В.Я.Шишков",
+        "notes": "Много не о казаках",
+        "createdAt": "2023-07-17 09:19:34",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 62
+        }
+    },
     "cFmbtqAWgg": {
         "id": "cFmbtqAWgg",
         "title": "Академия проклятий",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 105
-        }
-    },
-    "x2RGHWpzC0": {
-        "id": "x2RGHWpzC0",
-        "title": "Возвращение в дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "Будущее прямиком из 1950-х",
-        "createdAt": "2023-05-12 18:12:50",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 16
         }
     }
 }
