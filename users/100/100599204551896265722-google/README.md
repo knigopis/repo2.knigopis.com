@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>222</sup>
+# Список прочитанных книг пользователя exulted<sup>223</sup>
 ---
 
 ## 2023
@@ -61,6 +61,10 @@ John Scalzi
 ### Trotsky: A Biography
 Robert Service
 > [2023-01-09] 
+
+
+### The Secret History of the World
+Jonathan Black, Queruc
 
 
 

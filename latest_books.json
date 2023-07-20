@@ -1,4 +1,16 @@
 {
+    "6I0D2VFaCp": {
+        "id": "6I0D2VFaCp",
+        "title": "The Secret History of the World",
+        "author": "Jonathan Black, Queruc",
+        "notes": "",
+        "createdAt": "2023-07-20 16:46:52",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 223
+        }
+    },
     "KIHksjTBEg": {
         "id": "KIHksjTBEg",
         "title": "Емельян Пугачев т.1",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 361
-        }
-    },
-    "-j_hwymfi3": {
-        "id": "-j_hwymfi3",
-        "title": "Открытие",
-        "author": "Дрю Карпишин",
-        "notes": "",
-        "createdAt": "2023-06-22 07:51:30",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 213
         }
     }
 }
