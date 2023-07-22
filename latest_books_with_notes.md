@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
 * Емельян Пугачев т.1 ~ [mfevralev](users/140/140966150-vkontakte)<sup>62</sup>
 * Академия проклятий ~ [Chiffi](users/105/105831994080785626680-google)<sup>365</sup>
 * Ганнибал. Восхождение. ~ [Garka](users/115/115753719718250012620-google)<sup>349</sup>
@@ -30,7 +31,6 @@
 * Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
 * «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
 * Охотники за умами. ФБР против серийных убийц ~ [Garka](users/115/115753719718250012620-google)<sup>343</sup>
-* Уловка 22 ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>105</sup>
 
 
-_17.07.2023 09:19:34_
+_22.07.2023 16:59:01_

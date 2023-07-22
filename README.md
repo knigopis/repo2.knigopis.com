@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
+    > Видимо одна из первых книг.  Идея не плохая, но как то все сумбурно.
+
 * Емельян Пугачев т.1 ~ [mfevralev](users/140/140966150-vkontakte)<sup>62</sup>
     > Много не о казаках
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > либо сразу молчите, либо доказывайте свое до последнего. Не сворачивайте с пути, если уж ступили на него.
 
 * Ганнибал. Восхождение. ~ [Garka](users/115/115753719718250012620-google)<sup>349</sup>
-    > Описание детства доктора Лектора - расстрел семьи, смерть сестры и его месть, нацистам, съевшим Мику (Мишу).
 
 * Ведьмы за границей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Медвежье озеро ~ [Chiffi](users/105/105831994080785626680-google)<sup>363</sup>
 
-* Молчание ягнят ~ [Garka](users/115/115753719718250012620-google)<sup>347</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>366</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>224</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>62</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>174</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>365</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>37</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>349</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_20.07.2023 16:47:20_
+_22.07.2023 16:59:01_
