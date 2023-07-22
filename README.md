@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
+    > Я не бог, чтобы брать на себя смелость одаривать милостью тех, кого высший разум лишил каких-либо благ,  К тому же я четко придерживаюсь принципа, по которому каждый — творец своей собственной судьбы.
+
 * Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
     > Видимо одна из первых книг.  Идея не плохая, но как то все сумбурно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Много не о казаках
 
 * Академия проклятий ~ [Chiffi](users/105/105831994080785626680-google)<sup>365</sup>
-    > либо сразу молчите, либо доказывайте свое до последнего. Не сворачивайте с пути, если уж ступили на него.
 
 * Ганнибал. Восхождение. ~ [Garka](users/115/115753719718250012620-google)<sup>349</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ричард 3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>61</sup>
 
-* Медвежье озеро ~ [Chiffi](users/105/105831994080785626680-google)<sup>363</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>366</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>367</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>224</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>62</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>174</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_22.07.2023 16:59:01_
+_22.07.2023 20:30:09_
