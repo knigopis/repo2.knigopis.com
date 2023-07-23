@@ -1,4 +1,16 @@
 {
+    "5ifZdRHVen": {
+        "id": "5ifZdRHVen",
+        "title": "Три сапога-пара",
+        "author": "Царегко Тимофей",
+        "notes": "Подмога, как обычно, всех убила. А кого не убила- спасла. Пока разобрались, куда воюем, многих подранили.",
+        "createdAt": "2023-07-23 18:39:19",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 368
+        }
+    },
     "agviJPDDOh": {
         "id": "agviJPDDOh",
         "title": "Тайна проклятого герцога",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 36
-        }
-    },
-    "p2zxVU5iv2": {
-        "id": "p2zxVU5iv2",
-        "title": "Солнечный пёс",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2023-06-23 13:23:29",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 281
         }
     }
 }

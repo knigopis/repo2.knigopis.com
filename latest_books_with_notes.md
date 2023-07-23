@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
 * Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
 * Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
 * Емельян Пугачев т.1 ~ [mfevralev](users/140/140966150-vkontakte)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Игры со смертью 4. Жмурки ~ [Chiffi](users/105/105831994080785626680-google)<sup>354</sup>
 * Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
 * Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
-* «Санта Хрякус» ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>106</sup>
 
 
-_22.07.2023 20:30:09_
+_23.07.2023 18:39:19_
