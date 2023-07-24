@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>224</sup>
+# Список прочитанных книг пользователя exulted<sup>225</sup>
 ---
 
 ## 2023
+
+### Расшифровка
+Май Цзя
+> [2023-07-22] 
+
 
 ### The Secret History of the World
 Jonathan Black, Quercus

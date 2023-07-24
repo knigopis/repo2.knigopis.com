@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>225</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>368</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>224</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>62</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>174</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/338/3387454224572547166-mailru)<sup>0</sup> 
 
 
-_23.07.2023 18:39:19_
+_24.07.2023 19:39:41_
