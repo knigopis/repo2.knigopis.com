@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
 * Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
 * Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
 * Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
@@ -30,7 +31,6 @@
 * Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
 * Игры со смертью 4. Жмурки ~ [Chiffi](users/105/105831994080785626680-google)<sup>354</sup>
 * Das Stunden-Buch ~ [Shinku](users/109/109176126475581739292-google)<sup>66</sup>
-* Alice's Adventures in Wonderland ~ [Shinku](users/109/109176126475581739292-google)<sup>65</sup>
 
 
-_23.07.2023 18:39:19_
+_24.07.2023 21:23:21_
