@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>368</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>369</sup>
 ---
 
 ## 2023
+
+### Кровь и чернила
+Царенко Тимофей
+> [2023-07-28] 
+
 
 ### Три сапога-пара
 Царегко Тимофей
