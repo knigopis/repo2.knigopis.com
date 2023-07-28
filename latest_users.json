@@ -1,4 +1,10 @@
 {
+    "109632201206063422313-google": {
+        "id": "109632201206063422313-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-07-28 14:15:53"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "gasanalievakarina",
         "booksCount": 1,
         "updatedAt": "2023-05-31 22:54:19"
-    },
-    "111615427149312226167-google": {
-        "id": "111615427149312226167-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2023-05-27 04:29:59"
     }
 }
