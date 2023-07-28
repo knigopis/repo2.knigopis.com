@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>369</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>370</sup>
 ---
 
 ## 2023
+
+### Сильномогучее колдунмтво
+Царенко Тимофей
+> [2023-08-01] 
+
 
 ### Кровь и чернила
 Царенко Тимофей
