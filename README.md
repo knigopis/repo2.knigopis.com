@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109632201206063422313-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>175</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>422</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>369</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
 [gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
-[](users/111/111615427149312226167-google)<sup>1</sup> 
 
 
-_27.07.2023 16:43:59_
+_28.07.2023 14:15:54_
