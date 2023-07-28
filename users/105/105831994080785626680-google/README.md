@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>370</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>371</sup>
 ---
 
 ## 2023
+
+### Демоны кушают кашу
+Царенко Тимофей
+> [2023-08-02] 
+
 
 ### Сильномогучее колдунмтво
 Царенко Тимофей
