@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rnixik](users/116/116191270391964650818-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>373</sup> 
 [](users/109/109632201206063422313-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>175</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106998138906207539605-google)<sup>0</sup> 
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>74</sup> 
-[gasanalievakarina](users/563/563255998-yandex)<sup>1</sup> 
 
 
-_28.07.2023 20:23:20_
+_29.07.2023 07:45:08_
