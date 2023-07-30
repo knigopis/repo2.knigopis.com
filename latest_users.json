@@ -1,4 +1,10 @@
 {
+    "116049106351328726122-google": {
+        "id": "116049106351328726122-google",
+        "nickname": null,
+        "booksCount": 5,
+        "updatedAt": "2023-07-30 11:05:07"
+    },
     "116191270391964650818-google": {
         "id": "116191270391964650818-google",
         "nickname": "rnixik",
@@ -172,11 +178,5 @@
         "nickname": "Eule",
         "booksCount": 0,
         "updatedAt": "2023-06-08 11:24:23"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 74,
-        "updatedAt": "2023-06-07 20:09:02"
     }
 }
