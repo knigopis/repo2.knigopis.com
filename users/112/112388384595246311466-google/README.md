@@ -1,7 +1,12 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>213</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>214</sup>
 ---
 
 ## 2023
+
+### Джейн Эйр
+Шарлотта Бронте
+> [2023-08-01] 
+
 
 ### Открытие
 Дрю Карпишин

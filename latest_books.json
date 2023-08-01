@@ -1,4 +1,16 @@
 {
+    "3nvSr8Pstt": {
+        "id": "3nvSr8Pstt",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2023-08-01 12:34:08",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 214
+        }
+    },
     "_nF3wgFLVK": {
         "id": "_nF3wgFLVK",
         "title": "Стамбул. Город воспоминаний",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 109
-        }
-    },
-    "_qd6oJBPt2": {
-        "id": "_qd6oJBPt2",
-        "title": "Ричард 3",
-        "author": "Елена Браун",
-        "notes": "Сухая книга",
-        "createdAt": "2023-07-03 04:56:59",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 61
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>214</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>176</sup> 
 [](users/116/116049106351328726122-google)<sup>5</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinku](users/109/109176126475581739292-google)<sup>72</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>25</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>213</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
 [](users/113/113891504788165801147-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 
 
-_31.07.2023 14:11:42_
+_01.08.2023 12:34:08_
