@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тоширо Мифуне ~ [Shinku](users/109/109176126475581739292-google)<sup>73</sup>
+    > fav
+
 * Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Подмога, как обычно, всех убила. А кого не убила- спасла. Пока разобрались, куда воюем, многих подранили.
 
 * Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
-    > Я не бог, чтобы брать на себя смелость одаривать милостью тех, кого высший разум лишил каких-либо благ,  К тому же я четко придерживаюсь принципа, по которому каждый — творец своей собственной судьбы.
 
 * Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вещие сестрички ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>110</sup>
 
-* Казаки разбойники. Игры со смертью 5 ~ [Chiffi](users/105/105831994080785626680-google)<sup>364</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>214</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>176</sup> 
 [](users/116/116049106351328726122-google)<sup>5</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup> 
 [Timur](users/107/107645396695684639157-google)<sup>0</sup> 
-[Shinku](users/109/109176126475581739292-google)<sup>72</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>25</sup> 
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eule](users/111/111792174175954051826-google)<sup>0</sup> 
 
 
-_01.08.2023 12:34:08_
+_03.08.2023 09:42:55_

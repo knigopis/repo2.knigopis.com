@@ -1,4 +1,10 @@
 {
+    "109176126475581739292-google": {
+        "id": "109176126475581739292-google",
+        "nickname": "Shinku",
+        "booksCount": 73,
+        "updatedAt": "2023-08-03 09:42:55"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -118,12 +124,6 @@
         "nickname": "Timur",
         "booksCount": 0,
         "updatedAt": "2023-06-25 19:01:05"
-    },
-    "109176126475581739292-google": {
-        "id": "109176126475581739292-google",
-        "nickname": "Shinku",
-        "booksCount": 72,
-        "updatedAt": "2023-06-25 14:45:12"
     },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
