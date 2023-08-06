@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>349</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>350</sup>
 ---
 
 ## 2023
+
+### Фата-моргана №1
+Сборник
+> [2023-08-05] 
+
 
 ### Ганнибал. Восхождение.
 Харрис Томас

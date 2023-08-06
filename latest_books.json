@@ -1,4 +1,16 @@
 {
+    "23mkTZJ8g-": {
+        "id": "23mkTZJ8g-",
+        "title": "Фата-моргана №1",
+        "author": "Сборник",
+        "notes": "",
+        "createdAt": "2023-08-06 08:56:46",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 350
+        }
+    },
     "YTxPAcF2mt": {
         "id": "YTxPAcF2mt",
         "title": "Тоширо Мифуне",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 222
-        }
-    },
-    "DCl-JcaPTN": {
-        "id": "DCl-JcaPTN",
-        "title": "Дубровский",
-        "author": "А.С.Пушкин",
-        "notes": "",
-        "createdAt": "2023-07-03 17:04:32",
-        "user": {
-            "id": "720637983-vkontakte",
-            "nickname": "Уварова Настя",
-            "booksCount": 1
         }
     }
 }
