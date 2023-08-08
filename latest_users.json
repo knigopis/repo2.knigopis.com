@@ -1,4 +1,10 @@
 {
+    "104340068157277152722-google": {
+        "id": "104340068157277152722-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-08-08 16:55:44"
+    },
     "105336617675582005839-google": {
         "id": "105336617675582005839-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Alexciz",
         "booksCount": 2,
         "updatedAt": "2023-06-10 06:22:21"
-    },
-    "106998138906207539605-google": {
-        "id": "106998138906207539605-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-06-10 01:14:14"
     }
 }
