@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>373</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>374</sup>
 ---
 
 ## 2023
+
+### Бессимтемная отладка
+Царьков Тимофей
+> [2023-08-10] 
+
 
 ### Сны и башни
 Царенко Тимофей
