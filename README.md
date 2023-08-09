@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ArtemMihailov](users/108/108692433740296978822-google)<sup>0</sup> 
+[ArtemMihailov](users/108/108692433740296978822-google)<sup>1</sup> 
 [](users/104/104340068157277152722-google)<sup>0</sup> 
 [](users/105/105336617675582005839-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>177</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>128</sup> 
 
 
-_09.08.2023 08:53:55_
+_09.08.2023 08:54:07_
