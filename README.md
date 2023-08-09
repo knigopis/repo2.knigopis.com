@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101703358373163793526-google)<sup>0</sup> 
 [ArtemMihailov](users/108/108692433740296978822-google)<sup>1</sup> 
 [](users/104/104340068157277152722-google)<sup>0</sup> 
 [](users/105/105336617675582005839-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>20</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>91</sup> 
 [](users/113/113891504788165801147-google)<sup>0</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>128</sup> 
 
 
-_09.08.2023 08:54:07_
+_09.08.2023 16:39:56_
