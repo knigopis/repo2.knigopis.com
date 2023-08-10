@@ -1,4 +1,16 @@
 {
+    "v9Su6qPss7": {
+        "id": "v9Su6qPss7",
+        "title": "Живое и мертвое. Книга 1",
+        "author": "Михаил Костин, Алексей Гравицкий",
+        "notes": "Понравилось",
+        "createdAt": "2023-08-10 22:32:17",
+        "user": {
+            "id": "115679528795083704722-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "Ydj4RFm-jL": {
         "id": "Ydj4RFm-jL",
         "title": "Бессимтемная отладка",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 348
-        }
-    },
-    "KuUkRulqn5": {
-        "id": "KuUkRulqn5",
-        "title": "Ведьмы за границей",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-07-11 18:46:31",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 111
         }
     }
 }
