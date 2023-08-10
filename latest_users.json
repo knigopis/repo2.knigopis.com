@@ -1,4 +1,10 @@
 {
+    "16320777036928943427-mailru": {
+        "id": "16320777036928943427-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-08-10 03:56:43"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 91,
         "updatedAt": "2023-06-16 12:26:00"
-    },
-    "113891504788165801147-google": {
-        "id": "113891504788165801147-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-06-13 16:44:05"
     }
 }
