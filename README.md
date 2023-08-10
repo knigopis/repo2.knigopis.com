@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/115/115679528795083704722-google)<sup>1</sup> 
+[](users/115/115679528795083704722-google)<sup>2</sup> 
 [baka_urusai](users/115/115569136606526758964-google)<sup>0</sup> 
 [](users/118/118165305142448461387-google)<sup>0</sup> 
 [](users/163/16320777036928943427-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 
 
-_10.08.2023 22:32:17_
+_10.08.2023 22:33:44_

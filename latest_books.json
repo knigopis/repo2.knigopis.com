@@ -1,4 +1,16 @@
 {
+    "7VSadke-_h": {
+        "id": "7VSadke-_h",
+        "title": "Живое и мертвое. Книга 2. Ученик мага",
+        "author": "Михаил Костин, Алексей Гравицкий",
+        "notes": "Понравилось",
+        "createdAt": "2023-08-10 22:33:44",
+        "user": {
+            "id": "115679528795083704722-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "v9Su6qPss7": {
         "id": "v9Su6qPss7",
         "title": "Живое и мертвое. Книга 1",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 349
-        }
-    },
-    "U9JxvNMPur": {
-        "id": "U9JxvNMPur",
-        "title": "Ганнибал",
-        "author": "Харрис Томас",
-        "notes": "",
-        "createdAt": "2023-07-15 06:10:43",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 348
         }
     }
 }
