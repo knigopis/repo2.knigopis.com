@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[imkertl](users/165/16540990-yandex)<sup>0</sup> 
 [](users/115/115679528795083704722-google)<sup>2</sup> 
 [baka_urusai](users/115/115569136606526758964-google)<sup>0</sup> 
 [](users/118/118165305142448461387-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>43</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>1</sup> 
 [Timur](users/107/107645396695684639157-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>281</sup> 
 
 
-_10.08.2023 22:33:44_
+_11.08.2023 03:37:09_
