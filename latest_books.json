@@ -1,4 +1,16 @@
 {
+    "zcrhCC_Xfq": {
+        "id": "zcrhCC_Xfq",
+        "title": "Конец вечности",
+        "author": "Азимов",
+        "notes": "",
+        "createdAt": "2023-08-11 19:14:08",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 38
+        }
+    },
     "7VSadke-_h": {
         "id": "7VSadke-_h",
         "title": "Живое и мертвое. Книга 2. Ученик мага",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 37
-        }
-    },
-    "oecK_SCt2p": {
-        "id": "oecK_SCt2p",
-        "title": "Ганнибал. Восхождение.",
-        "author": "Харрис Томас",
-        "notes": "Описание детства доктора Лектора - расстрел семьи, смерть сестры и его месть, нацистам, съевшим Мику (Мишу).",
-        "createdAt": "2023-07-15 06:12:33",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 349
         }
     }
 }
