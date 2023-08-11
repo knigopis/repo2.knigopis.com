@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>37</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>38</sup>
 ---
 
 ## 2023
+
+### Red, white and royal blue
+> [2023-08] 
+
 
 ### Биология добра и зла
 Роберт Сапольски

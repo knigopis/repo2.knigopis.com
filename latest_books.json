@@ -1,4 +1,16 @@
 {
+    "tj6tuibOxC": {
+        "id": "tj6tuibOxC",
+        "title": "Red, white and royal blue",
+        "author": "",
+        "notes": "",
+        "createdAt": "2023-08-11 19:14:49",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 38
+        }
+    },
     "zcrhCC_Xfq": {
         "id": "zcrhCC_Xfq",
         "title": "Конец вечности",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 365
-        }
-    },
-    "lP2MYZjan8": {
-        "id": "lP2MYZjan8",
-        "title": "Биология добра и зла",
-        "author": "Роберт Сапольски",
-        "notes": "",
-        "createdAt": "2023-07-15 23:44:44",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 37
         }
     }
 }
