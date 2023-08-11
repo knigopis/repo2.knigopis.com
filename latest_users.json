@@ -1,4 +1,10 @@
 {
+    "103541795835665788358-google": {
+        "id": "103541795835665788358-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-08-11 06:09:21"
+    },
     "104282384947054765504-google": {
         "id": "104282384947054765504-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "albina_untiring",
         "booksCount": 43,
         "updatedAt": "2023-06-28 12:14:09"
-    },
-    "6069210-vkontakte": {
-        "id": "6069210-vkontakte",
-        "nickname": "dobrova_nails",
-        "booksCount": 1,
-        "updatedAt": "2023-06-28 12:12:35"
     }
 }
