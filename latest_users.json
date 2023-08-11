@@ -1,4 +1,10 @@
 {
+    "16540990-yandex": {
+        "id": "16540990-yandex",
+        "nickname": "imkertl",
+        "booksCount": 0,
+        "updatedAt": "2023-08-11 03:37:08"
+    },
     "115679528795083704722-google": {
         "id": "115679528795083704722-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Timur",
         "booksCount": 0,
         "updatedAt": "2023-06-25 19:01:05"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 281,
-        "updatedAt": "2023-06-23 13:23:29"
     }
 }
