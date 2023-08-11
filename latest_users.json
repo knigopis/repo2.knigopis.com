@@ -1,4 +1,10 @@
 {
+    "104282384947054765504-google": {
+        "id": "104282384947054765504-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-08-11 04:07:44"
+    },
     "16540990-yandex": {
         "id": "16540990-yandex",
         "nickname": "imkertl",
@@ -172,11 +178,5 @@
         "nickname": "dobrova_nails",
         "booksCount": 1,
         "updatedAt": "2023-06-28 12:12:35"
-    },
-    "107645396695684639157-google": {
-        "id": "107645396695684639157-google",
-        "nickname": "Timur",
-        "booksCount": 0,
-        "updatedAt": "2023-06-25 19:01:05"
     }
 }
