@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>38</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>37</sup>
 ---
 
 ## 2023
@@ -11,11 +11,6 @@
 ### Долгая ночь
 Цзы Цзиньчэнь
 > [2023-06-24] 
-
-
-### Конец вечности
-Азимов
-> [2023-05-11] 
 
 
 ### Конец вечности
