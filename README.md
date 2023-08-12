@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>226</sup> 
 [](users/104/104528443968479603994-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>38</sup> 
 [](users/103/103541795835665788358-google)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>422</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>2</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>225</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>62</sup> 
 [Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 
 
-_12.08.2023 04:44:44_
+_12.08.2023 14:02:09_
