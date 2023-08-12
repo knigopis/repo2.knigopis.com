@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>375</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>226</sup> 
 [](users/104/104528443968479603994-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>38</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [baka_urusai](users/115/115569136606526758964-google)<sup>0</sup> 
 [](users/118/118165305142448461387-google)<sup>0</sup> 
 [](users/163/16320777036928943427-mailru)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>374</sup> 
 [](users/101/101703358373163793526-google)<sup>0</sup> 
 [ArtemMihailov](users/108/108692433740296978822-google)<sup>1</sup> 
 [](users/104/104340068157277152722-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 
 
-_12.08.2023 14:02:09_
+_12.08.2023 17:40:42_

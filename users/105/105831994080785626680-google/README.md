@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>374</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>375</sup>
 ---
 
 ## 2023
+
+### Случайная невеста главы тайного сыска
+Богданова Светлана
+> [2023-08-13] 
+
 
 ### Бессистемная отладка
 Царьков Тимофей

@@ -1,4 +1,16 @@
 {
+    "MZPGvGnM-o": {
+        "id": "MZPGvGnM-o",
+        "title": "Случайная невеста главы тайного сыска",
+        "author": "Богданова Светлана",
+        "notes": "",
+        "createdAt": "2023-08-12 17:40:42",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 375
+        }
+    },
     "NkaKFg-qBE": {
         "id": "NkaKFg-qBE",
         "title": "Годы и войны",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 62
-        }
-    },
-    "xpN__RKXEf": {
-        "id": "xpN__RKXEf",
-        "title": "Верхом на ветре",
-        "author": "Л. Робсон",
-        "notes": "",
-        "createdAt": "2023-07-16 22:43:57",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 174
         }
     }
 }
