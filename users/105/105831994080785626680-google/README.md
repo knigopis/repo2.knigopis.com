@@ -5,7 +5,7 @@
 
 ### Случайная невеста главы тайного сыска
 Богданова Светлана
-> [2023-08-13] 
+> [2023-08-13] https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/339990-sluchainaya-nevesta-glavy-tainogo-syska-svetlana.html
 
 
 ### Бессистемная отладка
