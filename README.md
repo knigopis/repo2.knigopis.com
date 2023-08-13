@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Илья Чёрт ~ [Evermind](users/302/302928912-vkontakte)<sup>65</sup>
+    > Познавательно и весело
+
 * Тоширо Мифуне ~ [Shinku](users/109/109176126475581739292-google)<sup>73</sup>
     > fav
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
-    > Подмога, как обычно, всех убила. А кого не убила- спасла. Пока разобрались, куда воюем, многих подранили.
 
 * Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ведьмы за границей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup>
 
-* Вещие сестрички ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>65</sup> 
 [Porto1976](users/108/108908472397557066121-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>375</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>226</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>62</sup> 
 [Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
-[](users/101/101637604397474908542-google)<sup>0</sup> 
 
 
-_13.08.2023 09:17:57_
+_13.08.2023 12:18:36_

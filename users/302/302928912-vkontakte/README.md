@@ -1,5 +1,13 @@
-# List of books read by Evermind<sup>64</sup>
+# List of books read by Evermind<sup>65</sup>
 ---
+
+## 2023
+
+### Илья Чёрт
+Анатомия шоу-бизнеса
+> [2023-08-13] Познавательно и весело
+
+
 
 ## 2022
 
