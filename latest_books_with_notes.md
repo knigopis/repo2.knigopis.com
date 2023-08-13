@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Безмолвие Веры ~ [Chiffi](users/105/105831994080785626680-google)<sup>376</sup>
 * Илья Чёрт ~ [Evermind](users/302/302928912-vkontakte)<sup>65</sup>
 * Тоширо Мифуне ~ [Shinku](users/109/109176126475581739292-google)<sup>73</sup>
 * Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
@@ -30,7 +31,6 @@
 * Марфа-посадница или покорение нова-города ~ [Вит](users/300/300273923-vkontakte)<sup>128</sup>
 * Тайный город 30 ~ [Chiffi](users/105/105831994080785626680-google)<sup>357</sup>
 * Смотрящие в окно Городские легенды6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>356</sup>
-* Designing Data-Intensive Applications ~ [rNix](users/227/22742452-yandex)<sup>74</sup>
 
 
-_13.08.2023 12:18:36_
+_13.08.2023 13:59:19_

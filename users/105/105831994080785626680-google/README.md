@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>375</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>376</sup>
 ---
 
 ## 2023
+
+### Безмолвие Веры
+Шепот Светлана
+> [2023-08-15] https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html
+
 
 ### Случайная невеста главы тайного сыска
 Богданова Светлана

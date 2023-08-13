@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Безмолвие Веры ~ [Chiffi](users/105/105831994080785626680-google)<sup>376</sup>
+    > https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html
+
 * Илья Чёрт ~ [Evermind](users/302/302928912-vkontakte)<sup>65</sup>
     > Познавательно и весело
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > fav
 
 * Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
-    > audio
 
 * Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Ганнибал. Восхождение. ~ [Garka](users/115/115753719718250012620-google)<sup>349</sup>
 
-* Ведьмы за границей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>376</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>65</sup> 
 [Porto1976](users/108/108908472397557066121-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>375</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>226</sup> 
 [](users/104/104528443968479603994-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
 
 
-_13.08.2023 12:18:36_
+_13.08.2023 13:59:19_

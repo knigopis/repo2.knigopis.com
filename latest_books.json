@@ -1,4 +1,16 @@
 {
+    "dYt7OObkue": {
+        "id": "dYt7OObkue",
+        "title": "Безмолвие Веры",
+        "author": "Шепот Светлана",
+        "notes": "https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html",
+        "createdAt": "2023-08-13 13:59:19",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 376
+        }
+    },
     "xE5C5fFMG2": {
         "id": "xE5C5fFMG2",
         "title": "Илья Чёрт",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 366
-        }
-    },
-    "qQd6uQlKd_": {
-        "id": "qQd6uQlKd_",
-        "title": "The Secret History of the World",
-        "author": "Jonathan Black, Quercus",
-        "notes": "",
-        "createdAt": "2023-07-20 16:47:20",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 224
         }
     }
 }
