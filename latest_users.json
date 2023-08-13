@@ -1,4 +1,10 @@
 {
+    "107558849409631001804-google": {
+        "id": "107558849409631001804-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-08-13 19:37:24"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Уварова Настя",
         "booksCount": 1,
         "updatedAt": "2023-07-03 17:04:32"
-    },
-    "112175696674200715149-google": {
-        "id": "112175696674200715149-google",
-        "nickname": "Nika",
-        "booksCount": 0,
-        "updatedAt": "2023-07-03 16:58:38"
     }
 }
