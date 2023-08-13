@@ -1,4 +1,10 @@
 {
+    "108908472397557066121-google": {
+        "id": "108908472397557066121-google",
+        "nickname": "Porto1976",
+        "booksCount": 0,
+        "updatedAt": "2023-08-13 09:17:56"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-07-01 00:54:27"
-    },
-    "762419130-vkontakte": {
-        "id": "762419130-vkontakte",
-        "nickname": "Knigger",
-        "booksCount": 0,
-        "updatedAt": "2023-06-29 04:14:45"
     }
 }
