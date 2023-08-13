@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Porto1976](users/108/108908472397557066121-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>375</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>226</sup> 
 [](users/104/104528443968479603994-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Уварова Настя](users/720/720637983-vkontakte)<sup>1</sup> 
 [Nika](users/112/112175696674200715149-google)<sup>0</sup> 
 [](users/101/101637604397474908542-google)<sup>0</sup> 
-[Knigger](users/762/762419130-vkontakte)<sup>0</sup> 
 
 
-_12.08.2023 17:40:42_
+_13.08.2023 09:17:57_
