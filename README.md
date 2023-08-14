@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/689/689369-yandex)<sup>0</sup> 
 [](users/115/115492791709892549851-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>178</sup> 
 [](users/107/107558849409631001804-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>422</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>2</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>62</sup> 
 
 
-_14.08.2023 08:44:05_
+_14.08.2023 23:54:29_
