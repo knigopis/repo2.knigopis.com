@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115679528795083704722-google)<sup>3</sup> 
 [](users/689/689369-yandex)<sup>0</sup> 
 [](users/115/115492791709892549851-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>178</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103541795835665788358-google)<sup>0</sup> 
 [](users/104/104282384947054765504-google)<sup>0</sup> 
 [imkertl](users/165/16540990-yandex)<sup>0</sup> 
-[](users/115/115679528795083704722-google)<sup>2</sup> 
 [baka_urusai](users/115/115569136606526758964-google)<sup>0</sup> 
 [](users/118/118165305142448461387-google)<sup>0</sup> 
 [](users/163/16320777036928943427-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [X Æ A-12](users/115/115609550904757194526-google)<sup>2</sup> 
 
 
-_14.08.2023 23:54:29_
+_15.08.2023 08:45:32_
