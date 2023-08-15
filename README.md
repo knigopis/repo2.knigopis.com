@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anyap](users/103/103930748205001962013-google)<sup>0</sup> 
+[anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 [](users/115/115679528795083704722-google)<sup>3</sup> 
 [](users/689/689369-yandex)<sup>0</sup> 
 [](users/115/115492791709892549851-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup> 
 
 
-_15.08.2023 16:47:53_
+_15.08.2023 16:48:13_
