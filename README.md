@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115449516373977572535-google)<sup>0</sup> 
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 [](users/115/115679528795083704722-google)<sup>3</sup> 
 [](users/689/689369-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>0</sup> 
 [](users/109/109632201206063422313-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>422</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup> 
 
 
-_15.08.2023 16:48:13_
+_16.08.2023 12:07:03_
