@@ -5,7 +5,7 @@
 
 ### Безмолвие Веры
 Шепот Светлана
-> [2023-08-15] https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html
+> [2023-08-16] https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html
 
 
 ### Случайная невеста главы тайного сыска
