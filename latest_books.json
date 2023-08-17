@@ -1,4 +1,16 @@
 {
+    "Qnm8IRUIKm": {
+        "id": "Qnm8IRUIKm",
+        "title": "История российского государства. Между Азией и Европой.",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2023-08-17 22:49:46",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 423
+        }
+    },
     "qdNe3mW_mQ": {
         "id": "qdNe3mW_mQ",
         "title": "Подарок для Елки",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 112
-        }
-    },
-    "orjGbk8-qt": {
-        "id": "orjGbk8-qt",
-        "title": "The Choice",
-        "author": "Edith Eva Eger, ‎Esmé Schwall Weigand",
-        "notes": "",
-        "createdAt": "2023-07-24 20:26:35",
-        "user": {
-            "id": "115609550904757194526-google",
-            "nickname": "X Æ A-12",
-            "booksCount": 2
         }
     }
 }

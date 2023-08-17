@@ -1,4 +1,10 @@
 {
+    "13413591548892934957-mailru": {
+        "id": "13413591548892934957-mailru",
+        "nickname": "Shellena",
+        "booksCount": 423,
+        "updatedAt": "2023-08-17 22:49:46"
+    },
     "102855694228637360492-google": {
         "id": "102855694228637360492-google",
         "nickname": "LGHost ",
@@ -172,11 +178,5 @@
         "nickname": "rnixik",
         "booksCount": 0,
         "updatedAt": "2023-07-29 07:45:07"
-    },
-    "109632201206063422313-google": {
-        "id": "109632201206063422313-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-07-28 14:15:53"
     }
 }
