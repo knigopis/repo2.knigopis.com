@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>377</sup> 
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116049106351328726122-google)<sup>5</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>0</sup> 
 [](users/109/109632201206063422313-google)<sup>0</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>422</sup> 
 
 
-_17.08.2023 19:24:24_
+_17.08.2023 22:44:47_
