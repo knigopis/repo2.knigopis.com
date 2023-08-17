@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Подарок для Елки ~ [Chiffi](users/105/105831994080785626680-google)<sup>377</sup>
+    > https://readli.net/podarok-dlya-yolki/
+    > Первое: надо было крепко сжать зубы, до скрипа и тихонько сопеть в две дырочки;Второе: принять подобострастную позу;Третье: лицо должно выражать полное согласие с претензиями клиента, раскаяние, искреннее сожаление и робкую надежду на выживание, плюс шанс исправиться. И пока ты стоишь с этим сложносочинённым выражением лица можно:Четвертое: про себя придумывать для клиента заковыристые ругательства.
+    > за рулем ты Богиня,Пассажиры молятся! Пешеходы крестятся!  Да убережёт тебя Бог от дурных женщин, от хороших спасайся сам. У меня нет предрассудков и в голове полный порядок, - улыбнулась подружка, - слева - тараканы, справа - мания величия.  Бедным быть не стыдно, стыдно быть дешевым.  помни, надо быть добрее, патронов все равно на всех не хватит!  постарайся получить то, что любишь, иначе придётся полюбить то, что получила
+
 * Безмолвие Веры ~ [Chiffi](users/105/105831994080785626680-google)<sup>376</sup>
     > https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Познавательно и весело
 
 * Тоширо Мифуне ~ [Shinku](users/109/109176126475581739292-google)<sup>73</sup>
-    > fav
 
 * Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Академия проклятий ~ [Chiffi](users/105/105831994080785626680-google)<sup>365</sup>
 
-* Ганнибал. Восхождение. ~ [Garka](users/115/115753719718250012620-google)<sup>349</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>377</sup> 
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 [](users/115/115679528795083704722-google)<sup>3</sup> 
@@ -40,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115492791709892549851-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>178</sup> 
 [](users/107/107558849409631001804-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>376</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>65</sup> 
 [Porto1976](users/108/108908472397557066121-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>226</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>422</sup> 
 
 
-_16.08.2023 12:26:59_
+_17.08.2023 19:24:24_
