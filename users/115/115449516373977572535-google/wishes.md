@@ -4,3 +4,6 @@
 ### `` Anatomy of the state
 Murray Rothbard
 
+### `` Atomic Habits
+James Clear
+
