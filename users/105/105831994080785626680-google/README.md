@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>377</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>378</sup>
 ---
 
 ## 2023
+
+### Чудо в тапках
+Голицына Галина
+> [2023-08-19] 
+
 
 ### Подарок для Елки
 Шустрова Алина
