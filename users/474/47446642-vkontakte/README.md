@@ -1,7 +1,12 @@
-# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>113</sup>
+# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>114</sup>
 ---
 
 ## 2023
+
+### Ребекка
+Дафна Дюморье
+> [2023-08-17] audio
+
 
 ### Маскарад
 Терри Пратчетт

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ребекка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>114</sup>
+    > audio
+
 * Маскарад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>113</sup>
     > audio
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > за рулем ты Богиня,Пассажиры молятся! Пешеходы крестятся!  Да убережёт тебя Бог от дурных женщин, от хороших спасайся сам. У меня нет предрассудков и в голове полный порядок, - улыбнулась подружка, - слева - тараканы, справа - мания величия.  Бедным быть не стыдно, стыдно быть дешевым.  помни, надо быть добрее, патронов все равно на всех не хватит!  постарайся получить то, что любишь, иначе придётся полюбить то, что получила
 
 * Безмолвие Веры ~ [Chiffi](users/105/105831994080785626680-google)<sup>376</sup>
-    > https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html
 
 * Илья Чёрт ~ [Evermind](users/302/302928912-vkontakte)<sup>65</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
 
-* Емельян Пугачев т.1 ~ [mfevralev](users/140/140966150-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>113</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>114</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>423</sup> 
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>377</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116049106351328726122-google)<sup>5</sup> 
 
 
-_18.08.2023 02:35:26_
+_18.08.2023 02:40:53_
