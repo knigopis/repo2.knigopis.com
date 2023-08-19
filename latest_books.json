@@ -1,4 +1,16 @@
 {
+    "XG-PpyBmDo": {
+        "id": "XG-PpyBmDo",
+        "title": "Невыносимая легкость бытия",
+        "author": "Милан Кундера",
+        "notes": "",
+        "createdAt": "2023-08-19 08:29:11",
+        "user": {
+            "id": "112391692490886789680-google",
+            "nickname": "wyfinger",
+            "booksCount": 1
+        }
+    },
     "Ur9bWKmrIB": {
         "id": "Ur9bWKmrIB",
         "title": "Чудо в тапках",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 370
-        }
-    },
-    "jGhRHXRCPs": {
-        "id": "jGhRHXRCPs",
-        "title": "Младший брат",
-        "author": "К. Доктороу",
-        "notes": "",
-        "createdAt": "2023-07-27 16:43:59",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 175
         }
     }
 }
