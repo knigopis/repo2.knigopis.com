@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/103/1035563327194476370-mailru)<sup>0</sup> 
 [](users/106/106851335280025411906-google)<sup>0</sup> 
 [wyfinger](users/112/112391692490886789680-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>378</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104340068157277152722-google)<sup>0</sup> 
 [](users/105/105336617675582005839-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>350</sup> 
-[Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 
 
-_20.08.2023 12:21:49_
+_21.08.2023 06:41:21_
