@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>423</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>424</sup>
 ---
 
 ## 2023
+
+### Бобо
+Линор Горалик
+> [2023-08-21] 
+
 
 ### История российского государства. Между Азией и Европой.
 Борис Акунин
