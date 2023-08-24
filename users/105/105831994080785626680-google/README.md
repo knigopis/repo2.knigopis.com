@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>379</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>380</sup>
 ---
 
 ## 2023
+
+### Бомж -миллионер
+Голицына Галина
+> [2023-08-25] https://litmarket.ru/reader/bomzh-millioner
+
 
 ### Не праздничный салют
 Голицына Галина
