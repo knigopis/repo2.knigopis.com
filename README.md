@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
 [Murmyau](users/107/107272984290708451258-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>424</sup> 
 [](users/103/1035563327194476370-mailru)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101703358373163793526-google)<sup>0</sup> 
 [ArtemMihailov](users/108/108692433740296978822-google)<sup>1</sup> 
 [](users/104/104340068157277152722-google)<sup>0</sup> 
-[](users/105/105336617675582005839-google)<sup>0</sup> 
 
 
-_22.08.2023 18:38:54_
+_24.08.2023 07:07:04_
