@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>378</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>379</sup>
 ---
 
 ## 2023
+
+### Не праздничный салют
+Голицына Галина
+> [2023-08-24] 
+
 
 ### Чудо в тапках
 Голицына Галина
