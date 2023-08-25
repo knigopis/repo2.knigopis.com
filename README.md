@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленький свободный народец ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup>
+    > audio
+
 * Бомж -миллионер ~ [Chiffi](users/105/105831994080785626680-google)<sup>380</sup>
     > https://litmarket.ru/reader/bomzh-millioner
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Маскарад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>113</sup>
-    > audio
 
 * Подарок для Елки ~ [Chiffi](users/105/105831994080785626680-google)<sup>377</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
 
-* Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup> 
 [](users/115/115714542148878544061-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>380</sup> 
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/1035563327194476370-mailru)<sup>0</sup> 
 [](users/106/106851335280025411906-google)<sup>0</sup> 
 [wyfinger](users/112/112391692490886789680-google)<sup>1</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>114</sup> 
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtemMihailov](users/108/108692433740296978822-google)<sup>1</sup> 
 
 
-_25.08.2023 09:09:02_
+_25.08.2023 10:35:10_

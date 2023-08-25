@@ -1,4 +1,16 @@
 {
+    "u1lX7DgfJR": {
+        "id": "u1lX7DgfJR",
+        "title": "Маленький свободный народец",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-08-25 10:35:10",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 115
+        }
+    },
     "8NYg6Ygz_G": {
         "id": "8NYg6Ygz_G",
         "title": "Comment saboter un pipeline",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 176
-        }
-    },
-    "TWuJ0JvZ_i": {
-        "id": "TWuJ0JvZ_i",
-        "title": "Чистая архитектура",
-        "author": "Робер Мартин",
-        "notes": "",
-        "createdAt": "2023-07-30 11:05:07",
-        "user": {
-            "id": "116049106351328726122-google",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }
