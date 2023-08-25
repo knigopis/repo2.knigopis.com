@@ -1,4 +1,16 @@
 {
+    "8NYg6Ygz_G": {
+        "id": "8NYg6Ygz_G",
+        "title": "Comment saboter un pipeline",
+        "author": "Andreas Malm",
+        "notes": "Argumentation très claire, beaucoup de points convaincants. \nUne petite réserve sur le fait qu'il analyse les extrêmes comme un soutien aux positions modérées, en se basant notamment sur le mouvement des droits civiques : à creuser, mais je pense qu'on peut argumenter que ce sont parfois les positions extrêmes qui l'emportent.",
+        "createdAt": "2023-08-25 09:09:02",
+        "user": {
+            "id": "115714542148878544061-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "DHzfUSBDGm": {
         "id": "DHzfUSBDGm",
         "title": "Бомж -миллионер",
@@ -345,18 +357,6 @@
             "id": "116049106351328726122-google",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "A8nxBKUSzf": {
-        "id": "A8nxBKUSzf",
-        "title": "Сны и башни",
-        "author": "Царенко Тимофей",
-        "notes": "",
-        "createdAt": "2023-07-28 20:23:20",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 373
         }
     }
 }

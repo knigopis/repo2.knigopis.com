@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/115/115714542148878544061-google)<sup>0</sup> 
+[](users/115/115714542148878544061-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>380</sup> 
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
 [Murmyau](users/107/107272984290708451258-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtemMihailov](users/108/108692433740296978822-google)<sup>1</sup> 
 
 
-_25.08.2023 09:05:45_
+_25.08.2023 09:09:02_
