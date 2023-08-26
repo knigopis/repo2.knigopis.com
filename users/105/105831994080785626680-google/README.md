@@ -10,7 +10,7 @@
 
 ### Бомж -миллионер
 Голицына Галина
-> [2023-08-25] https://litmarket.ru/reader/bomzh-millioner
+> [2023-08-26] https://litmarket.ru/reader/bomzh-millioner
 > Отдыхали по хозяйству: со стола убирали, посуду мыли
 
 
