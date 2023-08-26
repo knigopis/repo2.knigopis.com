@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>380</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>381</sup>
 ---
 
 ## 2023
+
+### Финансы поют романсы
+Голицына Галина
+> [2023-08-27] https://author.today/reader/51822
+
 
 ### Бомж -миллионер
 Голицына Галина

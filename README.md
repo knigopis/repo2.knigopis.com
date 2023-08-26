@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Финансы поют романсы ~ [Chiffi](users/105/105831994080785626680-google)<sup>381</sup>
+    > https://author.today/reader/51822
+
 * Маленький свободный народец ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litmarket.ru/reader/bomzh-millioner
 
 * Ребекка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>114</sup>
-    > audio
 
 * Маскарад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>113</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
 
-* Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>381</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup> 
 [](users/115/115714542148878544061-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>380</sup> 
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
 [Murmyau](users/107/107272984290708451258-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>424</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ArtemMihailov](users/108/108692433740296978822-google)<sup>1</sup> 
 
 
-_25.08.2023 10:35:10_
+_26.08.2023 14:11:01_

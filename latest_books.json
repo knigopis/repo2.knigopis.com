@@ -1,4 +1,16 @@
 {
+    "bGVUu9Dc8m": {
+        "id": "bGVUu9Dc8m",
+        "title": "Финансы поют романсы",
+        "author": "Голицына Галина",
+        "notes": "https://author.today/reader/51822",
+        "createdAt": "2023-08-26 14:11:01",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 381
+        }
+    },
     "u1lX7DgfJR": {
         "id": "u1lX7DgfJR",
         "title": "Маленький свободный народец",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 214
-        }
-    },
-    "_nF3wgFLVK": {
-        "id": "_nF3wgFLVK",
-        "title": "Стамбул. Город воспоминаний",
-        "author": "О. Памук",
-        "notes": "",
-        "createdAt": "2023-07-31 14:11:42",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 176
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "bGVUu9Dc8m": {
+        "id": "bGVUu9Dc8m",
+        "title": "Финансы поют романсы",
+        "author": "Голицына Галина",
+        "notes": "https://author.today/reader/51822",
+        "createdAt": "2023-08-26 14:11:01",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 381
+        }
+    },
     "u1lX7DgfJR": {
         "id": "u1lX7DgfJR",
         "title": "Маленький свободный народец",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 360
-        }
-    },
-    "70tJZyN9K6": {
-        "id": "70tJZyN9K6",
-        "title": "Пение птиц",
-        "author": "Себастьян Фолкс",
-        "notes": "audio",
-        "createdAt": "2023-06-21 03:39:57",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 108
         }
     }
 }
