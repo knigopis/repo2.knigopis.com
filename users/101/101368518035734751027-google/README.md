@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/101368518035734751027/)<sup>7</sup>
+# List of books read by [](https://plus.google.com/u/0/101368518035734751027/)<sup>8</sup>
 ---
 
 ## 2023
+
+### безмолвный пациент
+алекс михаэлидес
+> [2023-08-27] 
+
 
 ### санаторий
 сара пирс
