@@ -1,4 +1,16 @@
 {
+    "lI2H1CueVz": {
+        "id": "lI2H1CueVz",
+        "title": "зникнення стефані мейлер",
+        "author": "жоель діккер",
+        "notes": "",
+        "createdAt": "2023-08-27 13:46:16",
+        "user": {
+            "id": "101368518035734751027-google",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "bGVUu9Dc8m": {
         "id": "bGVUu9Dc8m",
         "title": "Финансы поют романсы",
@@ -345,18 +357,6 @@
             "id": "109176126475581739292-google",
             "nickname": "Shinku",
             "booksCount": 73
-        }
-    },
-    "3nvSr8Pstt": {
-        "id": "3nvSr8Pstt",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2023-08-01 12:34:08",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 214
         }
     }
 }
