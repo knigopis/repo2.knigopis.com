@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Письма серебряного века ~ [Chiffi](users/105/105831994080785626680-google)<sup>382</sup>
+    > https://author.today/reader/53153
+
 * Финансы поют романсы ~ [Chiffi](users/105/105831994080785626680-google)<sup>381</sup>
     > https://author.today/reader/51822
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Бомж -миллионер ~ [Chiffi](users/105/105831994080785626680-google)<sup>380</sup>
-    > https://litmarket.ru/reader/bomzh-millioner
 
 * Ребекка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>114</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Тоширо Мифуне ~ [Shinku](users/109/109176126475581739292-google)<sup>73</sup>
 
-* Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>382</sup> 
 [](users/101/101368518035734751027-google)<sup>8</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>381</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup> 
 [](users/115/115714542148878544061-google)<sup>1</sup> 
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101703358373163793526-google)<sup>0</sup> 
 
 
-_27.08.2023 13:49:48_
+_28.08.2023 04:54:23_

@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>381</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>382</sup>
 ---
 
 ## 2023
+
+### Письма серебряного века
+Голицыно Галина
+> [2023-08-30] https://author.today/reader/53153
+
 
 ### Финансы поют романсы
 Голицына Галина
