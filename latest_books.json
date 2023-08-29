@@ -1,4 +1,16 @@
 {
+    "VC8NWeUwJ_": {
+        "id": "VC8NWeUwJ_",
+        "title": "Кладбище домашних животных",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2023-08-29 17:44:35",
+        "user": {
+            "id": "101429613411254493072-google",
+            "nickname": "myscool",
+            "booksCount": 9
+        }
+    },
     "QdqUIZI3_4": {
         "id": "QdqUIZI3_4",
         "title": "Пять языков любви. Как выразить любовь вашему спутнику.",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 178
-        }
-    },
-    "dYt7OObkue": {
-        "id": "dYt7OObkue",
-        "title": "Безмолвие Веры",
-        "author": "Шепот Светлана",
-        "notes": "https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html",
-        "createdAt": "2023-08-13 13:59:19",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 376
         }
     }
 }
