@@ -1,4 +1,16 @@
 {
+    "58tsvljwOw": {
+        "id": "58tsvljwOw",
+        "title": "Алхимик",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2023-08-29 17:43:02",
+        "user": {
+            "id": "101429613411254493072-google",
+            "nickname": "myscool",
+            "booksCount": 5
+        }
+    },
     "_e1O7gEvG5": {
         "id": "_e1O7gEvG5",
         "title": "Голос монстра",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 226
-        }
-    },
-    "tj6tuibOxC": {
-        "id": "tj6tuibOxC",
-        "title": "Red, white and royal blue",
-        "author": "",
-        "notes": "",
-        "createdAt": "2023-08-11 19:14:49",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 38
         }
     }
 }
