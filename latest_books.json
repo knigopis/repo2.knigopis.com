@@ -1,4 +1,16 @@
 {
+    "2jEkEUD4UH": {
+        "id": "2jEkEUD4UH",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2023-08-29 17:43:33",
+        "user": {
+            "id": "101429613411254493072-google",
+            "nickname": "myscool",
+            "booksCount": 6
+        }
+    },
     "58tsvljwOw": {
         "id": "58tsvljwOw",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 375
-        }
-    },
-    "NkaKFg-qBE": {
-        "id": "NkaKFg-qBE",
-        "title": "Годы и войны",
-        "author": "Горбатов Александр Васильевич",
-        "notes": "",
-        "createdAt": "2023-08-12 14:02:09",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 226
         }
     }
 }
