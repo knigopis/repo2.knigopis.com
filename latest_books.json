@@ -1,4 +1,16 @@
 {
+    "BpzcJon0zH": {
+        "id": "BpzcJon0zH",
+        "title": "Мизери",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2023-08-29 17:44:49",
+        "user": {
+            "id": "101429613411254493072-google",
+            "nickname": "myscool",
+            "booksCount": 10
+        }
+    },
     "VC8NWeUwJ_": {
         "id": "VC8NWeUwJ_",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "115679528795083704722-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "AB2jB37hJD": {
-        "id": "AB2jB37hJD",
-        "title": "Невозможность второго рода",
-        "author": "П. Стейнхардт",
-        "notes": "",
-        "createdAt": "2023-08-13 22:37:24",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 178
         }
     }
 }
