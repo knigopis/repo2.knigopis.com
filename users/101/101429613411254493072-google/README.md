@@ -1,7 +1,12 @@
-# List of books read by [myscool](https://plus.google.com/u/0/101429613411254493072/)<sup>1</sup>
+# List of books read by [myscool](https://plus.google.com/u/0/101429613411254493072/)<sup>2</sup>
 ---
 
 ## 2023
+
+### Воображаемый друг
+Стивен Чбоски
+> [2023-08-29] 
+
 
 ### Лето, прощай
 Рей Бредбери

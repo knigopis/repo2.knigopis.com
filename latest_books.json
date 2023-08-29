@@ -1,4 +1,16 @@
 {
+    "JLXvcrNRcm": {
+        "id": "JLXvcrNRcm",
+        "title": "Воображаемый друг",
+        "author": "Стивен Чбоски",
+        "notes": "",
+        "createdAt": "2023-08-29 17:28:31",
+        "user": {
+            "id": "101429613411254493072-google",
+            "nickname": "myscool",
+            "booksCount": 2
+        }
+    },
     "lyEvc1pCAG": {
         "id": "lyEvc1pCAG",
         "title": "Лето, прощай",
@@ -345,18 +357,6 @@
             "id": "115679528795083704722-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "v9Su6qPss7": {
-        "id": "v9Su6qPss7",
-        "title": "Живое и мертвое. Книга 1",
-        "author": "Михаил Костин, Алексей Гравицкий",
-        "notes": "Понравилось",
-        "createdAt": "2023-08-10 22:32:17",
-        "user": {
-            "id": "115679528795083704722-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
