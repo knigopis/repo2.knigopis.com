@@ -1,4 +1,10 @@
 {
+    "116461044320164710012-google": {
+        "id": "116461044320164710012-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-08-30 04:24:27"
+    },
     "101429613411254493072-google": {
         "id": "101429613411254493072-google",
         "nickname": "myscool",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-08-10 10:54:55"
-    },
-    "16320777036928943427-mailru": {
-        "id": "16320777036928943427-mailru",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-08-10 03:56:43"
     }
 }
