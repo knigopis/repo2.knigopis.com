@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
+    > https://litgorod.ru/books/view/19177
+
 * Письма серебряного века ~ [Chiffi](users/105/105831994080785626680-google)<sup>382</sup>
     > https://author.today/reader/53153
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://author.today/reader/51822
 
 * Маленький свободный народец ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup>
-    > audio
 
 * Бомж -миллионер ~ [Chiffi](users/105/105831994080785626680-google)<sup>380</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Илья Чёрт ~ [Evermind](users/302/302928912-vkontakte)<sup>65</sup>
 
-* Тоширо Мифуне ~ [Shinku](users/109/109176126475581739292-google)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>383</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>179</sup> 
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 [myscool](users/101/101429613411254493072-google)<sup>10</sup> 
 [](users/101/101368518035734751027-google)<sup>9</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>382</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup> 
 [](users/115/115714542148878544061-google)<sup>1</sup> 
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118165305142448461387-google)<sup>0</sup> 
 
 
-_30.08.2023 22:17:28_
+_31.08.2023 18:36:30_

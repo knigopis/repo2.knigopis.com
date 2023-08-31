@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>382</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>383</sup>
 ---
 
 ## 2023
+
+### Айше для наследника
+Блейкстар Ирен
+> [2023-09-01] https://litgorod.ru/books/view/19177
+
 
 ### Письма серебряного века
 Голицыно Галина
