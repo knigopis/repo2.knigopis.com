@@ -1,7 +1,12 @@
-# List of books read by [Alexciz](https://plus.google.com/u/0/104402554069177138887/)<sup>2</sup>
+# List of books read by [Alexciz](https://plus.google.com/u/0/104402554069177138887/)<sup>3</sup>
 ---
 
 ## 2023
+
+### Загадка сорвавшейся встречи
+Анна Устинова
+> [2023-09-02] 
+
 
 ### Кто украл роман?
 Е. Вильмонт
