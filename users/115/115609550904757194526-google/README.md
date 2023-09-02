@@ -9,7 +9,7 @@ Daniel Treisman, ‎Sergei Guriev
 
 
 ### The Choice
-Edith Eva Eger, ‎Esmé Schwall Weigand
+Edith Eva Eger, ‎Esme Schwall Weigand
 > [2023-01-01] 
 
 
