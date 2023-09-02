@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>383</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>384</sup>
 ---
 
 ## 2023
+
+### Небо и грозы Электрет
+Нуар Нинель
+> [2023-09-03] https://litgorod.ru/books/view/10128
+
 
 ### Айше для наследника
 Блейкстар Ирен

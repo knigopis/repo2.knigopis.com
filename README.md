@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Небо и грозы Электрет ~ [Chiffi](users/105/105831994080785626680-google)<sup>384</sup>
+    > https://litgorod.ru/books/view/10128
+
 * Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
     > https://litgorod.ru/books/view/19177
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://author.today/reader/53153
 
 * Финансы поют романсы ~ [Chiffi](users/105/105831994080785626680-google)<sup>381</sup>
-    > https://author.today/reader/51822
 
 * Маленький свободный народец ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Безмолвие Веры ~ [Chiffi](users/105/105831994080785626680-google)<sup>376</sup>
 
-* Илья Чёрт ~ [Evermind](users/302/302928912-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>383</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>384</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>179</sup> 
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 [myscool](users/101/101429613411254493072-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118165305142448461387-google)<sup>0</sup> 
 
 
-_31.08.2023 18:36:30_
+_02.09.2023 06:58:56_
