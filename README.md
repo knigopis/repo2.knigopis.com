@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[X Æ A-12](users/115/115609550904757194526-google)<sup>0</sup> 
+[X Æ A-12](users/115/115609550904757194526-google)<sup>1</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>384</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>179</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [imkertl](users/165/16540990-yandex)<sup>0</sup> 
 
 
-_02.09.2023 21:09:31_
+_02.09.2023 21:10:08_
