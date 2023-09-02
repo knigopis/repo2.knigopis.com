@@ -1,4 +1,10 @@
 {
+    "115609550904757194526-google": {
+        "id": "115609550904757194526-google",
+        "nickname": "X Æ A-12",
+        "booksCount": 3,
+        "updatedAt": "2023-09-02 21:08:39"
+    },
     "104402554069177138887-google": {
         "id": "104402554069177138887-google",
         "nickname": "Alexciz",
@@ -172,11 +178,5 @@
         "nickname": "imkertl",
         "booksCount": 0,
         "updatedAt": "2023-08-11 03:37:08"
-    },
-    "115569136606526758964-google": {
-        "id": "115569136606526758964-google",
-        "nickname": "baka_urusai",
-        "booksCount": 0,
-        "updatedAt": "2023-08-10 11:27:55"
     }
 }
