@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>385</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>386</sup>
 ---
 
 ## 2023
+
+### Беги от драконов
+Эл Лана
+> [2023-09-04] https://author.today/reader/181919
+
 
 ### Не заговаривай с демонами
 Эл Лана

@@ -1,4 +1,16 @@
 {
+    "mTKlj-252T": {
+        "id": "mTKlj-252T",
+        "title": "Беги от драконов",
+        "author": "Эл Лана",
+        "notes": "https://author.today/reader/181919",
+        "createdAt": "2023-09-03 21:26:18",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 386
+        }
+    },
     "ynenqZjtqo": {
         "id": "ynenqZjtqo",
         "title": "кого я смею любить",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 379
-        }
-    },
-    "JFghVV5_kE": {
-        "id": "JFghVV5_kE",
-        "title": "Бобо",
-        "author": "Линор Горалик",
-        "notes": "",
-        "createdAt": "2023-08-21 11:25:25",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 424
         }
     }
 }

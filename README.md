@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Беги от драконов ~ [Chiffi](users/105/105831994080785626680-google)<sup>386</sup>
+    > https://author.today/reader/181919
+
 * Небо и грозы Электрет ~ [Chiffi](users/105/105831994080785626680-google)<sup>384</sup>
     > https://litgorod.ru/books/view/10128
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litgorod.ru/books/view/19177
 
 * Письма серебряного века ~ [Chiffi](users/105/105831994080785626680-google)<sup>382</sup>
-    > https://author.today/reader/53153
 
 * Финансы поют романсы ~ [Chiffi](users/105/105831994080785626680-google)<sup>381</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Подарок для Елки ~ [Chiffi](users/105/105831994080785626680-google)<sup>377</sup>
 
-* Безмолвие Веры ~ [Chiffi](users/105/105831994080785626680-google)<sup>376</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>386</sup> 
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>385</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>1</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>3</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>179</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104282384947054765504-google)<sup>0</sup> 
 
 
-_03.09.2023 17:21:25_
+_03.09.2023 21:26:18_
