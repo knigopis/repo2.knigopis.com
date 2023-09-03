@@ -1,4 +1,10 @@
 {
+    "983485507-yandex": {
+        "id": "983485507-yandex",
+        "nickname": "tsveta-dozhdya",
+        "booksCount": 0,
+        "updatedAt": "2023-09-03 17:20:32"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-08-11 04:07:44"
-    },
-    "16540990-yandex": {
-        "id": "16540990-yandex",
-        "nickname": "imkertl",
-        "booksCount": 0,
-        "updatedAt": "2023-08-11 03:37:08"
     }
 }
