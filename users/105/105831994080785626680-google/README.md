@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>386</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>387</sup>
 ---
 
 ## 2023
+
+### Не ходи замуж за некроманта
+Эл Лана
+> [2023-09-06] https://author.today/reader/278526
+
 
 ### Беги от драконов
 Эл Лана

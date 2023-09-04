@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не ходи замуж за некроманта ~ [Chiffi](users/105/105831994080785626680-google)<sup>387</sup>
+    > https://author.today/reader/278526
+
 * Беги от драконов ~ [Chiffi](users/105/105831994080785626680-google)<sup>386</sup>
     > https://author.today/reader/181919
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litgorod.ru/books/view/10128
 
 * Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
-    > https://litgorod.ru/books/view/19177
 
 * Письма серебряного века ~ [Chiffi](users/105/105831994080785626680-google)<sup>382</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Маскарад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>113</sup>
 
-* Подарок для Елки ~ [Chiffi](users/105/105831994080785626680-google)<sup>377</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>387</sup> 
 [Александр Ковалев](users/141/14161137020827113329-mailru)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>386</sup> 
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>1</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103541795835665788358-google)<sup>0</sup> 
 
 
-_04.09.2023 20:01:15_
+_04.09.2023 21:06:52_
