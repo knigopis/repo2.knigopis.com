@@ -1,4 +1,10 @@
 {
+    "14161137020827113329-mailru": {
+        "id": "14161137020827113329-mailru",
+        "nickname": "Александр Ковалев",
+        "booksCount": 0,
+        "updatedAt": "2023-09-04 20:00:00"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-08-11 06:09:21"
-    },
-    "104282384947054765504-google": {
-        "id": "104282384947054765504-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-08-11 04:07:44"
     }
 }
