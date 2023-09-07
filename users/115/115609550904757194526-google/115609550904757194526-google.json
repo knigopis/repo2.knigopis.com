@@ -5,7 +5,9 @@
     "profile": "https://google.com",
     "identity": "https://plus.google.com/u/0/115609550904757194526/",
     "booksCount": 5,
-    "subscriptions": [],
+    "subscriptions": {
+        "105831994080785626680-google": 387
+    },
     "createdAt": "2023-07-24 20:04:22",
-    "updatedAt": "2023-09-07 16:12:38"
+    "updatedAt": "2023-09-07 16:14:02"
 }
