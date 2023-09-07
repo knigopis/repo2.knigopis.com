@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>387</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Porto1976](users/108/108908472397557066121-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>226</sup> 
 [](users/104/104528443968479603994-google)<sup>0</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>38</sup> 
 
 
-_07.09.2023 16:12:38_
+_07.09.2023 18:22:28_
