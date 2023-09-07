@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[X Æ A-12](users/115/115609550904757194526-google)<sup>6</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
-[X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>387</sup> 
 [Александр Ковалев](users/141/14161137020827113329-mailru)<sup>1</sup> 
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>38</sup> 
 
 
-_07.09.2023 09:36:45_
+_07.09.2023 16:12:25_
