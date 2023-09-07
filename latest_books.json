@@ -1,4 +1,16 @@
 {
+    "JCznwFUdnD": {
+        "id": "JCznwFUdnD",
+        "title": "",
+        "author": "П",
+        "notes": "",
+        "createdAt": "2023-09-07 04:34:11",
+        "user": {
+            "id": "115609550904757194526-google",
+            "nickname": "X Æ A-12",
+            "booksCount": 3
+        }
+    },
     "LdTI7n2Lnk": {
         "id": "LdTI7n2Lnk",
         "title": "D",
@@ -345,18 +357,6 @@
             "id": "101368518035734751027-google",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "bGVUu9Dc8m": {
-        "id": "bGVUu9Dc8m",
-        "title": "Финансы поют романсы",
-        "author": "Голицына Галина",
-        "notes": "https://author.today/reader/51822",
-        "createdAt": "2023-08-26 14:11:01",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 381
         }
     }
 }
