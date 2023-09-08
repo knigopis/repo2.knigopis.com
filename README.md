@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>215</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup> 
 [WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>65</sup> 
 [Porto1976](users/108/108908472397557066121-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>226</sup> 
-[](users/104/104528443968479603994-google)<sup>0</sup> 
 
 
-_08.09.2023 03:41:19_
+_08.09.2023 15:09:18_
