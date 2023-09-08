@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шляпа полная неба ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup>
+    > audio
+
 * Не ходи замуж за некроманта ~ [Chiffi](users/105/105831994080785626680-google)<sup>387</sup>
     > https://author.today/reader/278526
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://author.today/reader/181919
 
 * Небо и грозы Электрет ~ [Chiffi](users/105/105831994080785626680-google)<sup>384</sup>
-    > https://litgorod.ru/books/view/10128
 
 * Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ребекка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>114</sup>
 
-* Маскарад ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>113</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup> 
 [WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 [myscool](users/101/101429613411254493072-google)<sup>10</sup> 
 [](users/101/101368518035734751027-google)<sup>9</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup> 
 [](users/115/115714542148878544061-google)<sup>1</sup> 
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
 [Murmyau](users/107/107272984290708451258-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104528443968479603994-google)<sup>0</sup> 
 
 
-_07.09.2023 18:22:28_
+_08.09.2023 03:41:19_
