@@ -1,4 +1,16 @@
 {
+    "01g9Lfh6uD": {
+        "id": "01g9Lfh6uD",
+        "title": "Основание",
+        "author": "Азимов Айзек",
+        "notes": "ПЕрвая книга цикла по хронологии написания. Первые кризисы предсказанные Селдоном.",
+        "createdAt": "2023-09-09 11:12:36",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 353
+        }
+    },
     "awMFs0G10W": {
         "id": "awMFs0G10W",
         "title": "На пути к Основанию",
@@ -345,18 +357,6 @@
             "id": "101429613411254493072-google",
             "nickname": "myscool",
             "booksCount": 4
-        }
-    },
-    "yTC0Y8PWGB": {
-        "id": "yTC0Y8PWGB",
-        "title": "Вино из одуванчиков",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2023-08-29 17:28:36",
-        "user": {
-            "id": "101429613411254493072-google",
-            "nickname": "myscool",
-            "booksCount": 3
         }
     }
 }

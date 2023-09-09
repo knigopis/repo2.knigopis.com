@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Основание ~ [Garka](users/115/115753719718250012620-google)<sup>353</sup>
+    > ПЕрвая книга цикла по хронологии написания. Первые кризисы предсказанные Селдоном.
+
 * На пути к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>352</sup>
     > Продолжение (или точнее предыстория) не разочаровало.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Достойно. Хари Селдон прилетает на Транотор с докладом о психоистории.
 
 * Шляпа полная неба ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup>
-    > audio
 
 * Не ходи замуж за некроманта ~ [Chiffi](users/105/105831994080785626680-google)<sup>387</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Финансы поют романсы ~ [Chiffi](users/105/105831994080785626680-google)<sup>381</sup>
 
-* Маленький свободный народец ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>352</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>353</sup> 
 [](users/108/108689900996785507657-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>215</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>65</sup> 
 
 
-_09.09.2023 11:11:34_
+_09.09.2023 11:12:36_
