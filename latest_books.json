@@ -1,4 +1,16 @@
 {
+    "OiYFHDdP1c": {
+        "id": "OiYFHDdP1c",
+        "title": "Лисьи Броды",
+        "author": "Анна Старобинец",
+        "notes": "",
+        "createdAt": "2023-09-09 11:49:51",
+        "user": {
+            "id": "111120684537115120803-google",
+            "nickname": "supvobed",
+            "booksCount": 1
+        }
+    },
     "01g9Lfh6uD": {
         "id": "01g9Lfh6uD",
         "title": "Основание",
@@ -345,18 +357,6 @@
             "id": "101429613411254493072-google",
             "nickname": "myscool",
             "booksCount": 5
-        }
-    },
-    "_e1O7gEvG5": {
-        "id": "_e1O7gEvG5",
-        "title": "Голос монстра",
-        "author": "Патрик Несс",
-        "notes": "",
-        "createdAt": "2023-08-29 17:42:38",
-        "user": {
-            "id": "101429613411254493072-google",
-            "nickname": "myscool",
-            "booksCount": 4
         }
     }
 }
