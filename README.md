@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[supvobed](users/111/111120684537115120803-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>353</sup> 
 [](users/108/108689900996785507657-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>215</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/689/689369-yandex)<sup>0</sup> 
 [](users/115/115492791709892549851-google)<sup>0</sup> 
 [](users/107/107558849409631001804-google)<sup>0</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>65</sup> 
 
 
-_09.09.2023 11:12:36_
+_09.09.2023 11:49:22_
