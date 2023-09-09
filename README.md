@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Прилюдия к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>351</sup>
+    > Достойно. Хари Селдон прилетает на Транотор с докладом о психоистории.
+
 * Шляпа полная неба ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://author.today/reader/278526
 
 * Беги от драконов ~ [Chiffi](users/105/105831994080785626680-google)<sup>386</sup>
-    > https://author.today/reader/181919
 
 * Небо и грозы Электрет ~ [Chiffi](users/105/105831994080785626680-google)<sup>384</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бомж -миллионер ~ [Chiffi](users/105/105831994080785626680-google)<sup>380</sup>
 
-* Ребекка ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>114</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>351</sup> 
 [](users/108/108689900996785507657-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>215</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115492791709892549851-google)<sup>0</sup> 
 [](users/107/107558849409631001804-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>65</sup> 
-[Porto1976](users/108/108908472397557066121-google)<sup>0</sup> 
 
 
-_08.09.2023 21:49:19_
+_09.09.2023 11:10:10_

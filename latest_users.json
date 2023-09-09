@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 351,
+        "updatedAt": "2023-09-09 11:10:10"
+    },
     "108689900996785507657-google": {
         "id": "108689900996785507657-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Evermind",
         "booksCount": 65,
         "updatedAt": "2023-08-13 12:18:36"
-    },
-    "108908472397557066121-google": {
-        "id": "108908472397557066121-google",
-        "nickname": "Porto1976",
-        "booksCount": 0,
-        "updatedAt": "2023-08-13 09:17:56"
     }
 }
