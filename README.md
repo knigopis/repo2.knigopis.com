@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>180</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>353</sup> 
 [](users/108/108689900996785507657-google)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Ковалев](users/141/14161137020827113329-mailru)<sup>1</sup> 
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>3</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>179</sup> 
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 [myscool](users/101/101429613411254493072-google)<sup>10</sup> 
 [](users/101/101368518035734751027-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107558849409631001804-google)<sup>0</sup> 
 
 
-_09.09.2023 11:49:51_
+_10.09.2023 21:38:57_
