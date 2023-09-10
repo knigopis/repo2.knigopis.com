@@ -1,12 +1,7 @@
-# List of books read by 4apa<sup>181</sup>
+# List of books read by 4apa<sup>180</sup>
 ---
 
 ## 2023
-
-### Нелокальность
-Д. Массер
-> [2023-09-11] 
-
 
 ### Нелокальность
 Д. Массер
