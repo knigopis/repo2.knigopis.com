@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>387</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>388</sup>
 ---
 
 ## 2023
+
+### Имперское наследство. Забытый осколок
+Федоров Константин
+> [2023-09-12] https://litnet.com/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674
+
 
 ### Небо и грозы Электрет
 Нуар Нинель

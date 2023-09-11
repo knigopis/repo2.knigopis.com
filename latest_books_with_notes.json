@@ -1,4 +1,16 @@
 {
+    "ZXb1f0RiKk": {
+        "id": "ZXb1f0RiKk",
+        "title": "Имперское наследство. Забытый осколок",
+        "author": "Федоров Константин",
+        "notes": "https://litnet.com/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674",
+        "createdAt": "2023-09-11 19:11:55",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 388
+        }
+    },
     "01g9Lfh6uD": {
         "id": "01g9Lfh6uD",
         "title": "Основание",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 109
-        }
-    },
-    "_qd6oJBPt2": {
-        "id": "_qd6oJBPt2",
-        "title": "Ричард 3",
-        "author": "Елена Браун",
-        "notes": "Сухая книга",
-        "createdAt": "2023-07-03 04:56:59",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 61
         }
     }
 }

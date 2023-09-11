@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Имперское наследство. Забытый осколок ~ [Chiffi](users/105/105831994080785626680-google)<sup>388</sup>
+    > https://litnet.com/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674
+
 * Основание ~ [Garka](users/115/115753719718250012620-google)<sup>353</sup>
     > ПЕрвая книга цикла по хронологии написания. Первые кризисы предсказанные Селдоном.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Продолжение (или точнее предыстория) не разочаровало.
 
 * Прилюдия к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>351</sup>
-    > Достойно. Хари Селдон прилетает на Транотор с докладом о психоистории.
 
 * Шляпа полная неба ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Письма серебряного века ~ [Chiffi](users/105/105831994080785626680-google)<sup>382</sup>
 
-* Финансы поют романсы ~ [Chiffi](users/105/105831994080785626680-google)<sup>381</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>388</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>180</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>353</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>387</sup> 
 [Александр Ковалев](users/141/14161137020827113329-mailru)<sup>1</sup> 
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107558849409631001804-google)<sup>0</sup> 
 
 
-_10.09.2023 21:40:05_
+_11.09.2023 19:11:55_
