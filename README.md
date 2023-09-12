@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Синее Пламя ~ [StFox](users/108/10824953-yandex)<sup>2</sup>
+    > В мире, покинутом шестеркой древних магов почти не осталось волшебства. Однако главному герою — акробату из цирка Тэо не повезло заполучить темную метку, которая медленно но верно превращает его в чудовище. К счастью, их пути пересекаются с пожилой Лавиани — наёмной убийцей, которая покинула свой клан. Спасаясь от преследователей, они отправляются на опасный остров Летос, где бродят восставшие мертвецы, и лишь избранные могут с ними справиться.
+
 * Имперское наследство. Забытый осколок ~ [Chiffi](users/105/105831994080785626680-google)<sup>388</sup>
     > https://litnet.com/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ПЕрвая книга цикла по хронологии написания. Первые кризисы предсказанные Селдоном.
 
 * На пути к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>352</sup>
-    > Продолжение (или точнее предыстория) не разочаровало.
 
 * Прилюдия к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>351</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
 
-* Письма серебряного века ~ [Chiffi](users/105/105831994080785626680-google)<sup>382</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[StFox](users/108/10824953-yandex)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>388</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>180</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115679528795083704722-google)<sup>3</sup> 
 [](users/689/689369-yandex)<sup>0</sup> 
 [](users/115/115492791709892549851-google)<sup>0</sup> 
-[](users/107/107558849409631001804-google)<sup>0</sup> 
 
 
-_11.09.2023 19:11:55_
+_12.09.2023 06:43:33_

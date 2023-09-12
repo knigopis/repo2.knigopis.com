@@ -1,4 +1,10 @@
 {
+    "10824953-yandex": {
+        "id": "10824953-yandex",
+        "nickname": "StFox",
+        "booksCount": 2,
+        "updatedAt": "2023-09-12 06:43:33"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-08-14 08:44:04"
-    },
-    "107558849409631001804-google": {
-        "id": "107558849409631001804-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-08-13 19:37:24"
     }
 }
