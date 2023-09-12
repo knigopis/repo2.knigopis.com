@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>388</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>180</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 [](users/115/115679528795083704722-google)<sup>3</sup> 
 [](users/689/689369-yandex)<sup>0</sup> 
-[](users/115/115492791709892549851-google)<sup>0</sup> 
 
 
-_12.09.2023 06:43:33_
+_12.09.2023 21:20:07_
