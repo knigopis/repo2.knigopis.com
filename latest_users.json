@@ -1,4 +1,10 @@
 {
+    "116727437007720956503-google": {
+        "id": "116727437007720956503-google",
+        "nickname": "talia_gonch",
+        "booksCount": 0,
+        "updatedAt": "2023-09-12 21:20:07"
+    },
     "10824953-yandex": {
         "id": "10824953-yandex",
         "nickname": "StFox",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-08-14 23:54:28"
-    },
-    "115492791709892549851-google": {
-        "id": "115492791709892549851-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-08-14 08:44:04"
     }
 }
