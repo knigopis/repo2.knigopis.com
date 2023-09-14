@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ветер в ивах ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup>
+    > audio
+
 * Большие надежды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>117</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В мире, покинутом шестеркой древних магов почти не осталось волшебства. Однако главному герою — акробату из цирка Тэо не повезло заполучить темную метку, которая медленно но верно превращает его в чудовище. К счастью, их пути пересекаются с пожилой Лавиани — наёмной убийцей, которая покинула свой клан. Спасаясь от преследователей, они отправляются на опасный остров Летос, где бродят восставшие мертвецы, и лишь избранные могут с ними справиться.
 
 * Имперское наследство. Забытый осколок ~ [Chiffi](users/105/105831994080785626680-google)<sup>388</sup>
-    > https://litnet.com/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674
 
 * Основание ~ [Garka](users/115/115753719718250012620-google)<sup>353</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Беги от драконов ~ [Chiffi](users/105/105831994080785626680-google)<sup>386</sup>
 
-* Небо и грозы Электрет ~ [Chiffi](users/105/105831994080785626680-google)<sup>384</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>117</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup> 
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>388</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/689/689369-yandex)<sup>0</sup> 
 
 
-_14.09.2023 05:38:21_
+_14.09.2023 05:44:18_
