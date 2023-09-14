@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Большие надежды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>117</sup>
+    > audio
+
 * Синее Пламя ~ [StFox](users/108/10824953-yandex)<sup>2</sup>
     > В мире, покинутом шестеркой древних магов почти не осталось волшебства. Однако главному герою — акробату из цирка Тэо не повезло заполучить темную метку, которая медленно но верно превращает его в чудовище. К счастью, их пути пересекаются с пожилой Лавиани — наёмной убийцей, которая покинула свой клан. Спасаясь от преследователей, они отправляются на опасный остров Летос, где бродят восставшие мертвецы, и лишь избранные могут с ними справиться.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litnet.com/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674
 
 * Основание ~ [Garka](users/115/115753719718250012620-google)<sup>353</sup>
-    > ПЕрвая книга цикла по хронологии написания. Первые кризисы предсказанные Селдоном.
 
 * На пути к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>352</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Небо и грозы Электрет ~ [Chiffi](users/105/105831994080785626680-google)<sup>384</sup>
 
-* Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>117</sup> 
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>388</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>353</sup> 
 [](users/108/108689900996785507657-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>215</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup> 
 [WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/689/689369-yandex)<sup>0</sup> 
 
 
-_12.09.2023 21:20:07_
+_14.09.2023 05:38:21_

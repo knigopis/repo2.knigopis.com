@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 117,
+        "updatedAt": "2023-09-14 05:38:21"
+    },
     "116727437007720956503-google": {
         "id": "116727437007720956503-google",
         "nickname": "talia_gonch",
@@ -46,12 +52,6 @@
         "nickname": "ЗаяцЛис",
         "booksCount": 215,
         "updatedAt": "2023-09-08 15:09:18"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 116,
-        "updatedAt": "2023-09-08 03:41:19"
     },
     "106758454733805717947-google": {
         "id": "106758454733805717947-google",
