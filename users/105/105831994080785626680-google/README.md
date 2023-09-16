@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>388</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>389</sup>
 ---
 
 ## 2023
+
+### Имперское наследство. Сержант десанта
+Фёдоров Константин
+> [2023-09-20] https://litnet.com/ru/book/imperskoe-nasledstvo-serzhant-desanta-b36694
+
 
 ### Имперское наследство. Забытый осколок
 Федоров Константин
