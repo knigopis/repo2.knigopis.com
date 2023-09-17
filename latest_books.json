@@ -1,4 +1,16 @@
 {
+    "Go6HBk2IQk": {
+        "id": "Go6HBk2IQk",
+        "title": "Темная сторона Вселенной",
+        "author": "В. Сурдин",
+        "notes": "",
+        "createdAt": "2023-09-17 22:03:46",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 181
+        }
+    },
     "PEBiT8E4gH": {
         "id": "PEBiT8E4gH",
         "title": "Имперское наследство. Сержант десанта",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 384
-        }
-    },
-    "BQ-xtvc1VQ": {
-        "id": "BQ-xtvc1VQ",
-        "title": "Айше для наследника",
-        "author": "Блейкстар Ирен",
-        "notes": "https://litgorod.ru/books/view/19177",
-        "createdAt": "2023-08-31 18:36:30",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 383
         }
     }
 }
