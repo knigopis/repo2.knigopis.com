@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Имперское наследство. Заноза ~ [Chiffi](users/105/105831994080785626680-google)<sup>390</sup>
+    > https://litnet.com/ru/book/imperskoe-nasledstvo-zanoza-b39256
+
 * Имперское наследство. Сержант десанта ~ [Chiffi](users/105/105831994080785626680-google)<sup>389</sup>
     > https://litnet.com/ru/book/imperskoe-nasledstvo-serzhant-desanta-b36694
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Большие надежды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>117</sup>
-    > audio
 
 * Синее Пламя ~ [StFox](users/108/10824953-yandex)<sup>2</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Шляпа полная неба ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup>
 
-* Не ходи замуж за некроманта ~ [Chiffi](users/105/105831994080785626680-google)<sup>387</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>390</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>181</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>389</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>425</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup> 
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/689/689369-yandex)<sup>0</sup> 
 
 
-_17.09.2023 22:03:47_
+_18.09.2023 21:27:46_

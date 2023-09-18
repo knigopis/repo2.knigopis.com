@@ -1,4 +1,16 @@
 {
+    "EWH6svefq_": {
+        "id": "EWH6svefq_",
+        "title": "Имперское наследство. Заноза",
+        "author": "Федоров Константин",
+        "notes": "https://litnet.com/ru/book/imperskoe-nasledstvo-zanoza-b39256",
+        "createdAt": "2023-09-18 21:27:46",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 390
+        }
+    },
     "PEBiT8E4gH": {
         "id": "PEBiT8E4gH",
         "title": "Имперское наследство. Сержант десанта",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 365
-        }
-    },
-    "oecK_SCt2p": {
-        "id": "oecK_SCt2p",
-        "title": "Ганнибал. Восхождение.",
-        "author": "Харрис Томас",
-        "notes": "Описание детства доктора Лектора - расстрел семьи, смерть сестры и его месть, нацистам, съевшим Мику (Мишу).",
-        "createdAt": "2023-07-15 06:12:33",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 349
         }
     }
 }
