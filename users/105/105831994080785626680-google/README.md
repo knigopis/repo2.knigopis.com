@@ -5,7 +5,8 @@
 
 ### Имперское наследство. Сержант десанта
 Фёдоров Константин
-> [2023-09-20] https://litnet.com/ru/book/imperskoe-nasledstvo-serzhant-desanta-b36694
+> [2023-09-19] https://litnet.com/ru/book/imperskoe-nasledstvo-serzhant-desanta-b36694
+> Что такое везение. И настоящие герои никому не нужны
 
 
 ### Имперское наследство. Забытый осколок
