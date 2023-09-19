@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
+    > Прикольная, уютная книга ни о чем. Она про ветер, про кочевников и про французскую церковь.
+
 * Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
     > Выпуск 145 не чего интересного.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litnet.com/ru/book/imperskoe-nasledstvo-zanoza-b39256
 
 * Имперское наследство. Сержант десанта ~ [Chiffi](users/105/105831994080785626680-google)<sup>389</sup>
-    > https://litnet.com/ru/book/imperskoe-nasledstvo-serzhant-desanta-b36694
 
 * Ветер в ивах ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * На пути к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>352</sup>
 
-* Прилюдия к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>351</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/275/275766107-vkontakte)<sup>92</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>390</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>181</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
-[](users/115/115679528795083704722-google)<sup>3</sup> 
 
 
-_19.09.2023 16:34:05_
+_19.09.2023 20:09:46_

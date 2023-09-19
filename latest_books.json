@@ -1,4 +1,16 @@
 {
+    "d-RgzLIp8B": {
+        "id": "d-RgzLIp8B",
+        "title": "Шоколад",
+        "author": "Джоанн Хэррис",
+        "notes": "Прикольная, уютная книга ни о чем. Она про ветер, про кочевников и про французскую церковь.",
+        "createdAt": "2023-09-19 20:09:46",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 92
+        }
+    },
     "zTSwrejPkF": {
         "id": "zTSwrejPkF",
         "title": "Польская кампания 1792",
@@ -345,18 +357,6 @@
             "id": "115609550904757194526-google",
             "nickname": "X Æ A-12",
             "booksCount": 1
-        }
-    },
-    "N-iIp1J14K": {
-        "id": "N-iIp1J14K",
-        "title": "Aaa",
-        "author": "",
-        "notes": "",
-        "createdAt": "2023-09-02 21:08:39",
-        "user": {
-            "id": "115609550904757194526-google",
-            "nickname": "X Æ A-12",
-            "booksCount": 3
         }
     }
 }

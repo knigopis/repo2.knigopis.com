@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
 * Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
 * Имперское наследство. Заноза ~ [Chiffi](users/105/105831994080785626680-google)<sup>390</sup>
 * Имперское наследство. Сержант десанта ~ [Chiffi](users/105/105831994080785626680-google)<sup>389</sup>
@@ -30,7 +31,6 @@
 * Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
 * Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
 * Невеста для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>366</sup>
-* Емельян Пугачев т.1 ~ [mfevralev](users/140/140966150-vkontakte)<sup>62</sup>
 
 
-_19.09.2023 16:34:05_
+_19.09.2023 20:09:46_
