@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
+    > очень интересная книга
+
 * Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
     > Прикольная, уютная книга ни о чем. Она про ветер, про кочевников и про французскую церковь.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Выпуск 145 не чего интересного.
 
 * Имперское наследство. Заноза ~ [Chiffi](users/105/105831994080785626680-google)<sup>390</sup>
-    > https://litnet.com/ru/book/imperskoe-nasledstvo-zanoza-b39256
 
 * Имперское наследство. Сержант десанта ~ [Chiffi](users/105/105831994080785626680-google)<sup>389</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Основание ~ [Garka](users/115/115753719718250012620-google)<sup>353</sup>
 
-* На пути к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>352</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[aktoty](users/275/275766107-vkontakte)<sup>92</sup> 
+[aktoty](users/275/275766107-vkontakte)<sup>93</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>390</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>181</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 
 
-_19.09.2023 20:09:46_
+_19.09.2023 20:14:10_
