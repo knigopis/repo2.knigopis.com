@@ -1,4 +1,16 @@
 {
+    "zTSwrejPkF": {
+        "id": "zTSwrejPkF",
+        "title": "Польская кампания 1792",
+        "author": "Корягин",
+        "notes": "Выпуск 145 не чего интересного.",
+        "createdAt": "2023-09-19 16:34:05",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 63
+        }
+    },
     "EWH6svefq_": {
         "id": "EWH6svefq_",
         "title": "Имперское наследство. Заноза",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 62
-        }
-    },
-    "cFmbtqAWgg": {
-        "id": "cFmbtqAWgg",
-        "title": "Академия проклятий",
-        "author": "Звёздная Елена",
-        "notes": "либо сразу молчите, либо доказывайте свое до последнего. Не сворачивайте с пути, если уж ступили на него.",
-        "createdAt": "2023-07-16 13:39:08",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 365
         }
     }
 }

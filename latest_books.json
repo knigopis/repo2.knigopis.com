@@ -1,4 +1,16 @@
 {
+    "zTSwrejPkF": {
+        "id": "zTSwrejPkF",
+        "title": "Польская кампания 1792",
+        "author": "Корягин",
+        "notes": "Выпуск 145 не чего интересного.",
+        "createdAt": "2023-09-19 16:34:05",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 63
+        }
+    },
     "EWH6svefq_": {
         "id": "EWH6svefq_",
         "title": "Имперское наследство. Заноза",
@@ -344,18 +356,6 @@
         "user": {
             "id": "115609550904757194526-google",
             "nickname": "X Æ A-12",
-            "booksCount": 3
-        }
-    },
-    "7kAmICGTs8": {
-        "id": "7kAmICGTs8",
-        "title": "Загадка сорвавшейся встречи",
-        "author": "Анна Устинова",
-        "notes": "",
-        "createdAt": "2023-09-02 07:36:08",
-        "user": {
-            "id": "104402554069177138887-google",
-            "nickname": "Alexciz",
             "booksCount": 3
         }
     }

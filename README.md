@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
+    > Выпуск 145 не чего интересного.
+
 * Имперское наследство. Заноза ~ [Chiffi](users/105/105831994080785626680-google)<sup>390</sup>
     > https://litnet.com/ru/book/imperskoe-nasledstvo-zanoza-b39256
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litnet.com/ru/book/imperskoe-nasledstvo-serzhant-desanta-b36694
 
 * Ветер в ивах ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup>
-    > audio
 
 * Большие надежды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>117</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Прилюдия к Основанию ~ [Garka](users/115/115753719718250012620-google)<sup>351</sup>
 
-* Шляпа полная неба ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>116</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>390</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>181</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>425</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 [](users/115/115679528795083704722-google)<sup>3</sup> 
-[](users/689/689369-yandex)<sup>0</sup> 
 
 
-_18.09.2023 21:27:46_
+_19.09.2023 16:34:05_
