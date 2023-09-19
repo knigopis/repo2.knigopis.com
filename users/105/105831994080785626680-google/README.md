@@ -6,6 +6,8 @@
 ### Имперское наследство. Заноза
 Федоров Константин
 > [2023-09-21] https://litnet.com/ru/book/imperskoe-nasledstvo-zanoza-b39256
+> 
+> https://topliba.com/reader/715371
 
 
 ### Имперское наследство. Сержант десанта
