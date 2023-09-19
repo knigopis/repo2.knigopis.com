@@ -1,4 +1,16 @@
 {
+    "6RTviajEs8": {
+        "id": "6RTviajEs8",
+        "title": "Электронные платежи в интернете",
+        "author": "Дмитрий Артимович",
+        "notes": "Сказали прочитать для работы, когда начинала работать в финтехе",
+        "createdAt": "2023-09-19 20:16:24",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 94
+        }
+    },
     "Fb8lyZOBIP": {
         "id": "Fb8lyZOBIP",
         "title": "Шантарам. Том 1.",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 385
-        }
-    },
-    "A7wmgwv6GA": {
-        "id": "A7wmgwv6GA",
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2023-09-02 21:11:32",
-        "user": {
-            "id": "115609550904757194526-google",
-            "nickname": "X Æ A-12",
-            "booksCount": 1
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Электронные платежи в интернете ~ [aktoty](users/275/275766107-vkontakte)<sup>94</sup>
 * Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
 * Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
 * Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Тоширо Мифуне ~ [Shinku](users/109/109176126475581739292-google)<sup>73</sup>
 * Лорды и леди ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>112</sup>
 * Три сапога-пара ~ [Chiffi](users/105/105831994080785626680-google)<sup>368</sup>
-* Тайна проклятого герцога ~ [Chiffi](users/105/105831994080785626680-google)<sup>367</sup>
 
 
-_19.09.2023 20:14:10_
+_19.09.2023 20:16:24_
