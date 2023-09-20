@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>390</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>391</sup>
 ---
 
 ## 2023
+
+### Имперское наследство . Вольный стрелок
+Фёдоров Константин
+> [2023-09-22] https://topliba.com/books/729915
+
 
 ### Имперское наследство. Заноза
 Федоров Константин

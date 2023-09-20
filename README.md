@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Имперское наследство . Вольный стрелок ~ [Chiffi](users/105/105831994080785626680-google)<sup>391</sup>
+    > https://topliba.com/books/729915
+
 * Электронные платежи в интернете ~ [aktoty](users/275/275766107-vkontakte)<sup>94</sup>
     > Сказали прочитать для работы, когда начинала работать в финтехе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > очень интересная книга
 
 * Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
-    > Прикольная, уютная книга ни о чем. Она про ветер, про кочевников и про французскую церковь.
 
 * Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Синее Пламя ~ [StFox](users/108/10824953-yandex)<sup>2</sup>
 
-* Имперское наследство. Забытый осколок ~ [Chiffi](users/105/105831994080785626680-google)<sup>388</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>391</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>390</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>181</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>425</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 
 
-_19.09.2023 20:16:24_
+_20.09.2023 20:43:13_
