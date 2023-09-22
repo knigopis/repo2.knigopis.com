@@ -5,7 +5,7 @@
 
 ### Имперское наследство. Последний герой
 Фёдоров Константин
-> [2023-09-24] https://topliba.com/books/767216
+> [2023-09-24] https://coollib.net/b/514367-konstantin-vladimirovich-fedorov-posledniy-geroy/rread
 
 
 ### Имперское наследство . Вольный стрелок
