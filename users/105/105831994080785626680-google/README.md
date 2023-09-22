@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>391</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>392</sup>
 ---
 
 ## 2023
+
+### Имперское наследство. Последний герой
+Фёдоров Константин
+> [2023-09-24] https://topliba.com/books/767216
+
 
 ### Имперское наследство . Вольный стрелок
 Фёдоров Константин
