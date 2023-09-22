@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115095777313809768381-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>391</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wyfinger](users/112/112391692490886789680-google)<sup>1</sup> 
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 [](users/115/115449516373977572535-google)<sup>1</sup> 
-[anyap](users/103/103930748205001962013-google)<sup>1</sup> 
 
 
-_20.09.2023 20:43:13_
+_22.09.2023 18:29:26_
