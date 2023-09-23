@@ -5,8 +5,8 @@
 
 ### Имперское наследство. Последний герой
 Фёдоров Константин
-> [2023-09-24] https://coollib.net/b/514367-konstantin-vladimirovich-fedorov-posledniy-geroy/rread
-> https://readli.net/posledniy-geroy-8/
+> [2023-09-24] https://readli.net/posledniy-geroy-8/
+> То для разных целей мечты были
 
 
 ### Имперское наследство . Вольный стрелок
