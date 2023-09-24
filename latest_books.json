@@ -1,4 +1,16 @@
 {
+    "gZen2WK5y0": {
+        "id": "gZen2WK5y0",
+        "title": "Основание и Империя",
+        "author": "Азимов Айзек",
+        "notes": "",
+        "createdAt": "2023-09-24 09:10:09",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 354
+        }
+    },
     "QtGpWGq196": {
         "id": "QtGpWGq196",
         "title": "Имперское наследство. Последний герой",
@@ -345,18 +357,6 @@
             "id": "14161137020827113329-mailru",
             "nickname": "Александр Ковалев",
             "booksCount": 1
-        }
-    },
-    "mTKlj-252T": {
-        "id": "mTKlj-252T",
-        "title": "Беги от драконов",
-        "author": "Эл Лана",
-        "notes": "https://author.today/reader/181919",
-        "createdAt": "2023-09-03 21:26:18",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 386
         }
     }
 }
