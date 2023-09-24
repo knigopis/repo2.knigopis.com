@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>354</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>355</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>392</sup> 
 [](users/115/115095777313809768381-google)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 
 
-_24.09.2023 09:10:09_
+_24.09.2023 09:10:27_

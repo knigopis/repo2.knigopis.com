@@ -1,4 +1,16 @@
 {
+    "obUVHx-AEe": {
+        "id": "obUVHx-AEe",
+        "title": "Второе Основание",
+        "author": "Азимов Айзек",
+        "notes": "",
+        "createdAt": "2023-09-24 09:10:27",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 355
+        }
+    },
     "gZen2WK5y0": {
         "id": "gZen2WK5y0",
         "title": "Основание и Империя",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 387
-        }
-    },
-    "tnyQUy8IOA": {
-        "id": "tnyQUy8IOA",
-        "title": "Мельник — колдун, обманщик и сват",
-        "author": "Аблесимов Александр Онисимович",
-        "notes": "",
-        "createdAt": "2023-09-04 20:01:15",
-        "user": {
-            "id": "14161137020827113329-mailru",
-            "nickname": "Александр Ковалев",
-            "booksCount": 1
         }
     }
 }
