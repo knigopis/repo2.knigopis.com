@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>216</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>355</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>392</sup> 
 [](users/115/115095777313809768381-google)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
 [](users/108/108689900996785507657-google)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>215</sup> 
 [WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
 [](users/112/112452730042794139520-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 
 
-_24.09.2023 09:10:27_
+_24.09.2023 11:17:53_
