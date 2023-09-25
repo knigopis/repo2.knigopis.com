@@ -1,4 +1,16 @@
 {
+    "4-uQjcdj91": {
+        "id": "4-uQjcdj91",
+        "title": "Парень из преисподней",
+        "author": "Стругацкие",
+        "notes": "http://loveread.ec/read_book.php?id=63349&p=1",
+        "createdAt": "2023-09-25 16:39:52",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 393
+        }
+    },
     "QtGpWGq196": {
         "id": "QtGpWGq196",
         "title": "Имперское наследство. Последний герой",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "Evermind",
             "booksCount": 65
-        }
-    },
-    "YTxPAcF2mt": {
-        "id": "YTxPAcF2mt",
-        "title": "Тоширо Мифуне",
-        "author": "Инна Юлиусовна Генс",
-        "notes": "fav",
-        "createdAt": "2023-08-03 09:42:55",
-        "user": {
-            "id": "109176126475581739292-google",
-            "nickname": "Shinku",
-            "booksCount": 73
         }
     }
 }

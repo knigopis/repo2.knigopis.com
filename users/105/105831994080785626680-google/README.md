@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>392</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>393</sup>
 ---
 
 ## 2023
+
+### Парень из преисподней
+Стругацкие
+> [2023-09-26] http://loveread.ec/read_book.php?id=63349&p=1
+
 
 ### Имперское наследство. Последний герой
 Фёдоров Константин

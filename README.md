@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Парень из преисподней ~ [Chiffi](users/105/105831994080785626680-google)<sup>393</sup>
+    > http://loveread.ec/read_book.php?id=63349&p=1
+
 * Имперское наследство. Последний герой ~ [Chiffi](users/105/105831994080785626680-google)<sup>392</sup>
     > https://topliba.com/books/767216
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://topliba.com/books/729915
 
 * Электронные платежи в интернете ~ [aktoty](users/275/275766107-vkontakte)<sup>94</sup>
-    > Сказали прочитать для работы, когда начинала работать в финтехе
 
 * Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Ветер в ивах ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup>
 
-* Большие надежды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>393</sup> 
 [](users/101/101368518035734751027-google)<sup>10</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>216</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>355</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>392</sup> 
 [](users/115/115095777313809768381-google)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115449516373977572535-google)<sup>1</sup> 
 
 
-_25.09.2023 14:05:07_
+_25.09.2023 16:39:52_
