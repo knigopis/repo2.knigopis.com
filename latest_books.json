@@ -1,4 +1,16 @@
 {
+    "ILOJle7CZk": {
+        "id": "ILOJle7CZk",
+        "title": "Правосудие Королей",
+        "author": "Ричард Суон",
+        "notes": "Необычные фентези написанное юристом",
+        "createdAt": "2023-09-28 09:46:53",
+        "user": {
+            "id": "83820536-yandex",
+            "nickname": "lucius",
+            "booksCount": 156
+        }
+    },
     "VRsBHY6SGw": {
         "id": "VRsBHY6SGw",
         "title": "Хранительница болот",
@@ -345,18 +357,6 @@
             "id": "115609550904757194526-google",
             "nickname": "X Æ A-12",
             "booksCount": 5
-        }
-    },
-    "PvQk4SLi6K": {
-        "id": "PvQk4SLi6K",
-        "title": "П",
-        "author": "П",
-        "notes": "",
-        "createdAt": "2023-09-07 05:26:41",
-        "user": {
-            "id": "115609550904757194526-google",
-            "nickname": "X Æ A-12",
-            "booksCount": 4
         }
     }
 }

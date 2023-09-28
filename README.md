@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Правосудие Королей ~ [lucius](users/838/83820536-yandex)<sup>156</sup>
+    > Необычные фентези написанное юристом
+
 * Хранительница болот ~ [Chiffi](users/105/105831994080785626680-google)<sup>394</sup>
     > https://loveread.info/books/other/194874-hranitelnica-bolot-natalya-nikolaevna-timoshenko.html
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > http://loveread.ec/read_book.php?id=63349&p=1
 
 * Имперское наследство. Последний герой ~ [Chiffi](users/105/105831994080785626680-google)<sup>392</sup>
-    > https://topliba.com/books/767216
 
 * Имперское наследство . Вольный стрелок ~ [Chiffi](users/105/105831994080785626680-google)<sup>391</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Имперское наследство. Заноза ~ [Chiffi](users/105/105831994080785626680-google)<sup>390</sup>
 
-* Имперское наследство. Сержант десанта ~ [Chiffi](users/105/105831994080785626680-google)<sup>389</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>156</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>394</sup> 
 [](users/101/101368518035734751027-google)<sup>10</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>216</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106851335280025411906-google)<sup>0</sup> 
 [wyfinger](users/112/112391692490886789680-google)<sup>1</sup> 
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
-[](users/115/115449516373977572535-google)<sup>1</sup> 
 
 
-_25.09.2023 19:51:19_
+_28.09.2023 09:46:53_

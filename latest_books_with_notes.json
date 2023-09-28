@@ -1,4 +1,16 @@
 {
+    "ILOJle7CZk": {
+        "id": "ILOJle7CZk",
+        "title": "Правосудие Королей",
+        "author": "Ричард Суон",
+        "notes": "Необычные фентези написанное юристом",
+        "createdAt": "2023-09-28 09:46:53",
+        "user": {
+            "id": "83820536-yandex",
+            "nickname": "lucius",
+            "booksCount": 156
+        }
+    },
     "VRsBHY6SGw": {
         "id": "VRsBHY6SGw",
         "title": "Хранительница болот",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 377
-        }
-    },
-    "dYt7OObkue": {
-        "id": "dYt7OObkue",
-        "title": "Безмолвие Веры",
-        "author": "Шепот Светлана",
-        "notes": "https://kniga-online.com/books/love-/ljubovno-fantasticheskie-romany/284132-bezmolvie-very-si-shepot-svetlana-bogdanovna.html",
-        "createdAt": "2023-08-13 13:59:19",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 376
         }
     }
 }
