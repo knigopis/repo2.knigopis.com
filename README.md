@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
+    > https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985
+
 * Игра Эндера ~ [lucius](users/838/83820536-yandex)<sup>157</sup>
     > Сначала ничего вроде, потом скучно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Необычные фентези написанное юристом
 
 * Хранительница болот ~ [Chiffi](users/105/105831994080785626680-google)<sup>394</sup>
-    > https://loveread.info/books/other/194874-hranitelnica-bolot-natalya-nikolaevna-timoshenko.html
 
 * Парень из преисподней ~ [Chiffi](users/105/105831994080785626680-google)<sup>393</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
 
-* Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>395</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>426</sup> 
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>394</sup> 
 [](users/101/101368518035734751027-google)<sup>10</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>216</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>355</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 
 
-_30.09.2023 23:36:01_
+_01.10.2023 18:20:05_

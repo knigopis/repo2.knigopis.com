@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>394</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>395</sup>
 ---
 
 ## 2023
+
+### Демон: инструкция по эксплуатации
+Лана Эл
+> [2023-10-02] https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985
+
 
 ### Хранительница болот
 Тимошенко Наталья

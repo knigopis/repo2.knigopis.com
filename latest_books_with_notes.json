@@ -1,4 +1,16 @@
 {
+    "j4qbFSBht7": {
+        "id": "j4qbFSBht7",
+        "title": "Демон: инструкция по эксплуатации",
+        "author": "Лана Эл",
+        "notes": "https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985",
+        "createdAt": "2023-10-01 18:20:05",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 395
+        }
+    },
     "0vg2TppsFv": {
         "id": "0vg2TppsFv",
         "title": "Игра Эндера",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 114
-        }
-    },
-    "B31traeqnz": {
-        "id": "B31traeqnz",
-        "title": "Маскарад",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-08-18 02:35:26",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 113
         }
     }
 }
