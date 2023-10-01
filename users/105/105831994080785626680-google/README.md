@@ -4,7 +4,7 @@
 ## 2023
 
 ### Демон: инструкция по эксплуатации
-Лана Эл
+Эл Лана
 > [2023-10-02] https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985
 
 
