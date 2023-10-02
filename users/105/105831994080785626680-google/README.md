@@ -10,7 +10,9 @@
 
 ### Хранительница болот
 Тимошенко Наталья
-> [2023-09-26] https://loveread.info/books/other/194874-hranitelnica-bolot-natalya-nikolaevna-timoshenko.html
+> [2023-10-02] https://loveread.info/books/other/194874-hranitelnica-bolot-natalya-nikolaevna-timoshenko.html
+> 
+> Белорусская мистика.
 
 
 ### Парень из преисподней
