@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
+    > https://loveread.info/books/fentezi/122723-anna-shnaider-nedostoinaya.html
+
 * Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
     > https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сначала ничего вроде, потом скучно
 
 * Правосудие Королей ~ [lucius](users/838/83820536-yandex)<sup>156</sup>
-    > Необычные фентези написанное юристом
 
 * Хранительница болот ~ [Chiffi](users/105/105831994080785626680-google)<sup>394</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
 
-* Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>395</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>396</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>426</sup> 
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
 [](users/101/101368518035734751027-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 
 
-_01.10.2023 18:20:05_
+_02.10.2023 20:10:46_
