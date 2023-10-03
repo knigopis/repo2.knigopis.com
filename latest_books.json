@@ -1,4 +1,16 @@
 {
+    "VuW9NmgDkb": {
+        "id": "VuW9NmgDkb",
+        "title": "Саламандра #1",
+        "author": "Елена Викторовна Никитина",
+        "notes": "",
+        "createdAt": "2023-10-03 19:01:23",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 27
+        }
+    },
     "WJywepLtxH": {
         "id": "WJywepLtxH",
         "title": "Сварог #24. Война за мир",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 396
-        }
-    },
-    "j4qbFSBht7": {
-        "id": "j4qbFSBht7",
-        "title": "Демон: инструкция по эксплуатации",
-        "author": "Лана Эл",
-        "notes": "https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985",
-        "createdAt": "2023-10-01 18:20:05",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 395
         }
     }
 }
