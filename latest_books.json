@@ -1,4 +1,16 @@
 {
+    "WJywepLtxH": {
+        "id": "WJywepLtxH",
+        "title": "Сварог #24. Война за мир",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:55:07",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 26
+        }
+    },
     "I8oUYwTR_b": {
         "id": "I8oUYwTR_b",
         "title": "Сварог #23. Печать скорби",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 395
-        }
-    },
-    "nezLhaQw2d": {
-        "id": "nezLhaQw2d",
-        "title": "Вальхен",
-        "author": "Ольга Громова",
-        "notes": "",
-        "createdAt": "2023-09-30 23:36:01",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 426
         }
     }
 }
