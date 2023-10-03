@@ -1,4 +1,16 @@
 {
+    "bV1cBTQOPh": {
+        "id": "bV1cBTQOPh",
+        "title": "Сварог #6. Чертова Мельница",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:51:32",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 8
+        }
+    },
     "sszrTWaC1n": {
         "id": "sszrTWaC1n",
         "title": "Сварог #5. По ту сторону льда",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 389
-        }
-    },
-    "JLXOwsrPcS": {
-        "id": "JLXOwsrPcS",
-        "title": "Семнадцатый век",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2023-09-16 00:12:07",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 425
         }
     }
 }
