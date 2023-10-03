@@ -1,4 +1,16 @@
 {
+    "brJ26iw5JL": {
+        "id": "brJ26iw5JL",
+        "title": "Полный набор #3. Свой замок",
+        "author": "Милослав Князев",
+        "notes": "",
+        "createdAt": "2023-10-03 20:25:39",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 55
+        }
+    },
     "__1Iv5e8Bx": {
         "id": "__1Iv5e8Bx",
         "title": "Полный набор #2. Месть темной эльфийки",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 26
-        }
-    },
-    "I8oUYwTR_b": {
-        "id": "I8oUYwTR_b",
-        "title": "Сварог #23. Печать скорби",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:54:56",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 25
         }
     }
 }
