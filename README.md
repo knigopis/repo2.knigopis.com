@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
+    > audio
+
 * Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
     > https://loveread.info/books/fentezi/122723-anna-shnaider-nedostoinaya.html
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985
 
 * Игра Эндера ~ [lucius](users/838/83820536-yandex)<sup>157</sup>
-    > Сначала ничего вроде, потом скучно
 
 * Правосудие Королей ~ [lucius](users/838/83820536-yandex)<sup>156</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Электронные платежи в интернете ~ [aktoty](users/275/275766107-vkontakte)<sup>94</sup>
 
-* Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>396</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>426</sup> 
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>181</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>118</sup> 
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [LGHost ](users/102/102855694228637360492-google)<sup>0</sup> 
 
 
-_02.10.2023 20:10:46_
+_03.10.2023 03:28:45_

@@ -1,4 +1,16 @@
 {
+    "MXQLlzJX_x": {
+        "id": "MXQLlzJX_x",
+        "title": "Маленькие женщины",
+        "author": "Луиза Мэй Олкотт",
+        "notes": "audio",
+        "createdAt": "2023-10-03 03:28:45",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 119
+        }
+    },
     "rQ2nG99tfU": {
         "id": "rQ2nG99tfU",
         "title": "Недостойная",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 115
-        }
-    },
-    "DHzfUSBDGm": {
-        "id": "DHzfUSBDGm",
-        "title": "Бомж -миллионер",
-        "author": "Голицына Галина",
-        "notes": "https://litmarket.ru/reader/bomzh-millioner",
-        "createdAt": "2023-08-24 11:01:12",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 380
         }
     }
 }
