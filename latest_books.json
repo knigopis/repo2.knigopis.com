@@ -1,4 +1,16 @@
 {
+    "KFW7zNDMFP": {
+        "id": "KFW7zNDMFP",
+        "title": "Полный набор #1. Великая Миссия",
+        "author": "Милослав Князев",
+        "notes": "",
+        "createdAt": "2023-10-03 20:25:18",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 53
+        }
+    },
     "BpaF_eyaJs": {
         "id": "BpaF_eyaJs",
         "title": "Виконт #4. Колонист",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 24
-        }
-    },
-    "DNwSLIOzC3": {
-        "id": "DNwSLIOzC3",
-        "title": "Сварог #21. Враг Короны",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:54:25",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 23
         }
     }
 }
