@@ -1,4 +1,16 @@
 {
+    "SJ-3BTd-yD": {
+        "id": "SJ-3BTd-yD",
+        "title": "Сварог #11. Алый, как снег",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:52:34",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 13
+        }
+    },
     "HAzPYY0RPh": {
         "id": "HAzPYY0RPh",
         "title": "Сварог #10. Вертикальная вода",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 93
-        }
-    },
-    "d-RgzLIp8B": {
-        "id": "d-RgzLIp8B",
-        "title": "Шоколад",
-        "author": "Джоанн Хэррис",
-        "notes": "Прикольная, уютная книга ни о чем. Она про ветер, про кочевников и про французскую церковь.",
-        "createdAt": "2023-09-19 20:09:46",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 92
         }
     }
 }
