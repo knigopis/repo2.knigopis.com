@@ -1,4 +1,16 @@
 {
+    "L9kTKaiuPN": {
+        "id": "L9kTKaiuPN",
+        "title": "Путь демона #1. Дорога в маги",
+        "author": "Глушановский Алексей Алексеевич",
+        "notes": "",
+        "createdAt": "2023-10-03 19:22:32",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 45
+        }
+    },
     "Js3jcfEG4D": {
         "id": "Js3jcfEG4D",
         "title": "Разлом #7. Вторжение",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 16
-        }
-    },
-    "ofhEy-SOW-": {
-        "id": "ofhEy-SOW-",
-        "title": "Сварог #13. Радиант",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:53:00",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 15
         }
     }
 }
