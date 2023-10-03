@@ -1,4 +1,16 @@
 {
+    "DflfkRZRk5": {
+        "id": "DflfkRZRk5",
+        "title": "Сварог #20. Пленник Короны",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:54:16",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 22
+        }
+    },
     "Lmaotef_az": {
         "id": "Lmaotef_az",
         "title": "Сварог #19. Чужие зеркала",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 394
-        }
-    },
-    "4-uQjcdj91": {
-        "id": "4-uQjcdj91",
-        "title": "Парень из преисподней",
-        "author": "Стругацкие",
-        "notes": "http://loveread.ec/read_book.php?id=63349&p=1",
-        "createdAt": "2023-09-25 16:39:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 393
         }
     }
 }
