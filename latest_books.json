@@ -1,4 +1,16 @@
 {
+    "BQ7wRrjpj0": {
+        "id": "BQ7wRrjpj0",
+        "title": "Мастер Перемен #1",
+        "author": "Кирилл Довыдовский",
+        "notes": "",
+        "createdAt": "2023-10-03 20:46:33",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 67
+        }
+    },
     "zak2qA_KQ0": {
         "id": "zak2qA_KQ0",
         "title": "Нелюдь #1. Факультет общей магии",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 38
-        }
-    },
-    "YkH15L19xN": {
-        "id": "YkH15L19xN",
-        "title": "Бояръ-Аниме #9",
-        "author": "Владимир Кощеев",
-        "notes": "",
-        "createdAt": "2023-10-03 19:09:27",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 37
         }
     }
 }
