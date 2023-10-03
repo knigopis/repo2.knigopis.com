@@ -1,4 +1,16 @@
 {
+    "ofhEy-SOW-": {
+        "id": "ofhEy-SOW-",
+        "title": "Сварог #13. Радиант",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:53:00",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 15
+        }
+    },
     "5yWejOIt7W": {
         "id": "5yWejOIt7W",
         "title": "Сварог #12. Над самой клеткой льва",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 391
-        }
-    },
-    "6RTviajEs8": {
-        "id": "6RTviajEs8",
-        "title": "Электронные платежи в интернете",
-        "author": "Дмитрий Артимович",
-        "notes": "Сказали прочитать для работы, когда начинала работать в финтехе",
-        "createdAt": "2023-09-19 20:16:24",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 94
         }
     }
 }
