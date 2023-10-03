@@ -1,4 +1,16 @@
 {
+    "79TuV_j4WU": {
+        "id": "79TuV_j4WU",
+        "title": "Саламандра #2. Огненный путь",
+        "author": "Елена Викторовна Никитина",
+        "notes": "",
+        "createdAt": "2023-10-03 19:01:38",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 28
+        }
+    },
     "VuW9NmgDkb": {
         "id": "VuW9NmgDkb",
         "title": "Саламандра #1",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 119
-        }
-    },
-    "rQ2nG99tfU": {
-        "id": "rQ2nG99tfU",
-        "title": "Недостойная",
-        "author": "Шнайдер Анна",
-        "notes": "https://loveread.info/books/fentezi/122723-anna-shnaider-nedostoinaya.html",
-        "createdAt": "2023-10-02 20:10:46",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 396
         }
     }
 }
