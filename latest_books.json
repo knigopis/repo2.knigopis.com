@@ -1,4 +1,16 @@
 {
+    "ekwGN-bNF3": {
+        "id": "ekwGN-bNF3",
+        "title": "Сварог #2. Летающие острова",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:50:37",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 4
+        }
+    },
     "mNnHBK45jt": {
         "id": "mNnHBK45jt",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "10824953-yandex",
             "nickname": "StFox",
             "booksCount": 2
-        }
-    },
-    "ZXb1f0RiKk": {
-        "id": "ZXb1f0RiKk",
-        "title": "Имперское наследство. Забытый осколок",
-        "author": "Федоров Константин",
-        "notes": "https://litnet.com/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674",
-        "createdAt": "2023-09-11 19:11:55",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 388
         }
     }
 }
