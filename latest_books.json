@@ -1,4 +1,16 @@
 {
+    "HjMWvXwBjc": {
+        "id": "HjMWvXwBjc",
+        "title": "Сварог #8. Из ниоткуда в никуда",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:51:58",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 10
+        }
+    },
     "YnMzoGS5u1": {
         "id": "YnMzoGS5u1",
         "title": "Сварог #7. Слепые солдаты",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 390
-        }
-    },
-    "Go6HBk2IQk": {
-        "id": "Go6HBk2IQk",
-        "title": "Темная сторона Вселенной",
-        "author": "В. Сурдин",
-        "notes": "",
-        "createdAt": "2023-09-17 22:03:46",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 181
         }
     }
 }
