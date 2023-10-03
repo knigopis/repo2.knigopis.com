@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vechno7t](users/102/102483077884312127500-google)<sup>0</sup> 
 [P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>396</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Murmyau](users/107/107272984290708451258-google)<sup>0</sup> 
 [](users/103/1035563327194476370-mailru)<sup>0</sup> 
 [](users/106/106851335280025411906-google)<sup>0</sup> 
-[wyfinger](users/112/112391692490886789680-google)<sup>1</sup> 
 
 
-_03.10.2023 06:54:27_
+_03.10.2023 18:02:26_
