@@ -1,4 +1,16 @@
 {
+    "jOZMcpBsvg": {
+        "id": "jOZMcpBsvg",
+        "title": "Бояръ-Аниме #7",
+        "author": "Владимир Кощеев",
+        "notes": "",
+        "createdAt": "2023-10-03 19:09:15",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 35
+        }
+    },
     "B6zerlh6CC": {
         "id": "B6zerlh6CC",
         "title": "Бояръ-Аниме #6",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 6
-        }
-    },
-    "DVfzhWXIvR": {
-        "id": "DVfzhWXIvR",
-        "title": "Сварог #3. Нечаянный король",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:50:48",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 5
         }
     }
 }
