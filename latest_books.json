@@ -1,4 +1,16 @@
 {
+    "MFzDwHeSTS": {
+        "id": "MFzDwHeSTS",
+        "title": "Смертник из рода Валевских #2",
+        "author": "Василий Маханенко",
+        "notes": "",
+        "createdAt": "2023-10-03 18:03:54",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 2
+        }
+    },
     "V970WcIx-f": {
         "id": "V970WcIx-f",
         "title": "Смертник из рода Валевских #1",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 181
-        }
-    },
-    "OiYFHDdP1c": {
-        "id": "OiYFHDdP1c",
-        "title": "Лисьи Броды",
-        "author": "Анна Старобинец",
-        "notes": "",
-        "createdAt": "2023-09-09 11:49:51",
-        "user": {
-            "id": "111120684537115120803-google",
-            "nickname": "supvobed",
-            "booksCount": 1
         }
     }
 }
