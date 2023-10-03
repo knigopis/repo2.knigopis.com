@@ -1,4 +1,16 @@
 {
+    "3q34sWTJTK": {
+        "id": "3q34sWTJTK",
+        "title": "Полный набор #6. Империя",
+        "author": "Милослав Князев",
+        "notes": "",
+        "createdAt": "2023-10-03 20:26:12",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 58
+        }
+    },
     "ORfpG9Wt3b": {
         "id": "ORfpG9Wt3b",
         "title": "Полный набор #5. Бог Дракон",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 29
-        }
-    },
-    "79TuV_j4WU": {
-        "id": "79TuV_j4WU",
-        "title": "Саламандра #2. Огненный путь",
-        "author": "Елена Викторовна Никитина",
-        "notes": "",
-        "createdAt": "2023-10-03 19:01:38",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 28
         }
     }
 }
