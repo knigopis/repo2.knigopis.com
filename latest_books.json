@@ -1,4 +1,16 @@
 {
+    "SYRgvlVADO": {
+        "id": "SYRgvlVADO",
+        "title": "Бояръ-Аниме #8",
+        "author": "Владимир Кощеев",
+        "notes": "",
+        "createdAt": "2023-10-03 19:09:21",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 36
+        }
+    },
     "jOZMcpBsvg": {
         "id": "jOZMcpBsvg",
         "title": "Бояръ-Аниме #7",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 7
-        }
-    },
-    "y-sfNTJXvY": {
-        "id": "y-sfNTJXvY",
-        "title": "Сварог #4. Железные паруса",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:51:00",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 6
         }
     }
 }
