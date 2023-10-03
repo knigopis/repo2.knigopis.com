@@ -1,4 +1,16 @@
 {
+    "Y_2upHLBp-": {
+        "id": "Y_2upHLBp-",
+        "title": "Полный набор #8. Магия Фиора",
+        "author": "Милослав Князев",
+        "notes": "",
+        "createdAt": "2023-10-03 20:26:38",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 60
+        }
+    },
     "3SvIz0tba9": {
         "id": "3SvIz0tba9",
         "title": "Полный набор #7. Возвращение домой",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 31
-        }
-    },
-    "JDZOcvDdCB": {
-        "id": "JDZOcvDdCB",
-        "title": "Бояръ-Аниме #2",
-        "author": "Владимир Кощеев",
-        "notes": "",
-        "createdAt": "2023-10-03 19:08:34",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 30
         }
     }
 }
