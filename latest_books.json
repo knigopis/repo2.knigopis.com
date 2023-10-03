@@ -1,4 +1,16 @@
 {
+    "h6jC32iGhO": {
+        "id": "h6jC32iGhO",
+        "title": "Бояръ-Аниме #3",
+        "author": "Владимир Кощеев",
+        "notes": "",
+        "createdAt": "2023-10-03 19:08:39",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 31
+        }
+    },
     "JDZOcvDdCB": {
         "id": "JDZOcvDdCB",
         "title": "Бояръ-Аниме #2",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 2
-        }
-    },
-    "V970WcIx-f": {
-        "id": "V970WcIx-f",
-        "title": "Смертник из рода Валевских #1",
-        "author": "Василий Маханенко",
-        "notes": "",
-        "createdAt": "2023-10-03 18:03:39",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 1
         }
     }
 }
