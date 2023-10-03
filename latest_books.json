@@ -1,4 +1,16 @@
 {
+    "BJPIJe2DG6": {
+        "id": "BJPIJe2DG6",
+        "title": "Путь демона #3. Стезя чародея",
+        "author": "Глушановский Алексей Алексеевич",
+        "notes": "",
+        "createdAt": "2023-10-03 19:23:14",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 47
+        }
+    },
     "_fLQoZ4BMl": {
         "id": "_fLQoZ4BMl",
         "title": "Путь демона #2. Тропа волшебника",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 18
-        }
-    },
-    "X-ywy_Qpqi": {
-        "id": "X-ywy_Qpqi",
-        "title": "Сварог #15. Улица моя тесна",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:53:30",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 17
         }
     }
 }
