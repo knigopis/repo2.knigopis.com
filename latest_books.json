@@ -1,4 +1,16 @@
 {
+    "JDZOcvDdCB": {
+        "id": "JDZOcvDdCB",
+        "title": "Бояръ-Аниме #2",
+        "author": "Владимир Кощеев",
+        "notes": "",
+        "createdAt": "2023-10-03 19:08:34",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 30
+        }
+    },
     "p1m6bzz-Ai": {
         "id": "p1m6bzz-Ai",
         "title": "Бояръ-Аниме #1",
@@ -344,18 +356,6 @@
         "user": {
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
-            "booksCount": 1
-        }
-    },
-    "Ke7pjgw69a": {
-        "id": "Ke7pjgw69a",
-        "title": "Построение цепочки создания стоимости",
-        "author": "",
-        "notes": "",
-        "createdAt": "2023-10-03 06:54:27",
-        "user": {
-            "id": "101885615006241630614-google",
-            "nickname": "P.D.A.",
             "booksCount": 1
         }
     }
