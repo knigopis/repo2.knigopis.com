@@ -1,4 +1,16 @@
 {
+    "OKtwnBDdTq": {
+        "id": "OKtwnBDdTq",
+        "title": "Полный набор #4. Война с орками",
+        "author": "Милослав Князев",
+        "notes": "",
+        "createdAt": "2023-10-03 20:25:51",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 56
+        }
+    },
     "brJ26iw5JL": {
         "id": "brJ26iw5JL",
         "title": "Полный набор #3. Свой замок",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 27
-        }
-    },
-    "WJywepLtxH": {
-        "id": "WJywepLtxH",
-        "title": "Сварог #24. Война за мир",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:55:07",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 26
         }
     }
 }
