@@ -1,4 +1,4 @@
-# List of books read by [vechno7t](https://plus.google.com/u/0/102483077884312127500/)<sup>3</sup>
+# List of books read by vechno7t<sup>3</sup>
 ---
 
 ## 2023
@@ -13,7 +13,11 @@
 > [2023-03-09] 
 
 
-Александр Александрович Бушковnotepad
+
+## 2015
+
+### Сварог #1. Рыцарь из ниоткуда
+Александр Александрович Бушков
 
 
 
