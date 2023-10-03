@@ -1,4 +1,16 @@
 {
+    "HAzPYY0RPh": {
+        "id": "HAzPYY0RPh",
+        "title": "Сварог #10. Вертикальная вода",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:52:22",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 12
+        }
+    },
     "OVCrj_qaJr": {
         "id": "OVCrj_qaJr",
         "title": "Сварог #9. Король и его королева",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 92
-        }
-    },
-    "zTSwrejPkF": {
-        "id": "zTSwrejPkF",
-        "title": "Польская кампания 1792",
-        "author": "Корягин",
-        "notes": "Выпуск 145 не чего интересного.",
-        "createdAt": "2023-09-19 16:34:05",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 63
         }
     }
 }
