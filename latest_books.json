@@ -1,4 +1,16 @@
 {
+    "JO59wr7wjC": {
+        "id": "JO59wr7wjC",
+        "title": "Виконт #2. Обретение силы",
+        "author": "Юллем Евгений",
+        "notes": "",
+        "createdAt": "2023-10-03 19:37:13",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 50
+        }
+    },
     "OctjsU7-eK": {
         "id": "OctjsU7-eK",
         "title": "Виконт #1. Второе рождение",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 21
-        }
-    },
-    "2M4OBXCE-q": {
-        "id": "2M4OBXCE-q",
-        "title": "Сварог #18. Чужие паруса",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:53:58",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 20
         }
     }
 }
