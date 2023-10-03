@@ -1,4 +1,16 @@
 {
+    "Ke7pjgw69a": {
+        "id": "Ke7pjgw69a",
+        "title": "Построение цепочки создания стоимости",
+        "author": "",
+        "notes": "",
+        "createdAt": "2023-10-03 06:54:27",
+        "user": {
+            "id": "101885615006241630614-google",
+            "nickname": "P.D.A.",
+            "booksCount": 1
+        }
+    },
     "MXQLlzJX_x": {
         "id": "MXQLlzJX_x",
         "title": "Маленькие женщины",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 353
-        }
-    },
-    "awMFs0G10W": {
-        "id": "awMFs0G10W",
-        "title": "На пути к Основанию",
-        "author": "Азимов Айзек",
-        "notes": "Продолжение (или точнее предыстория) не разочаровало.",
-        "createdAt": "2023-09-09 11:11:34",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 352
         }
     }
 }
