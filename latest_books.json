@@ -1,4 +1,16 @@
 {
+    "OVCrj_qaJr": {
+        "id": "OVCrj_qaJr",
+        "title": "Сварог #9. Король и его королева",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:52:10",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 11
+        }
+    },
     "HjMWvXwBjc": {
         "id": "HjMWvXwBjc",
         "title": "Сварог #8. Из ниоткуда в никуда",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 63
-        }
-    },
-    "EWH6svefq_": {
-        "id": "EWH6svefq_",
-        "title": "Имперское наследство. Заноза",
-        "author": "Федоров Константин",
-        "notes": "https://litnet.com/ru/book/imperskoe-nasledstvo-zanoza-b39256",
-        "createdAt": "2023-09-18 21:27:46",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 390
         }
     }
 }
