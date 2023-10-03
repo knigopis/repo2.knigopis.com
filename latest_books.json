@@ -1,4 +1,16 @@
 {
+    "3SvIz0tba9": {
+        "id": "3SvIz0tba9",
+        "title": "Полный набор #7. Возвращение домой",
+        "author": "Милослав Князев",
+        "notes": "",
+        "createdAt": "2023-10-03 20:26:26",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 59
+        }
+    },
     "3q34sWTJTK": {
         "id": "3q34sWTJTK",
         "title": "Полный набор #6. Империя",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 30
-        }
-    },
-    "p1m6bzz-Ai": {
-        "id": "p1m6bzz-Ai",
-        "title": "Бояръ-Аниме #1",
-        "author": "Владимир Кощеев",
-        "notes": "",
-        "createdAt": "2023-10-03 19:08:28",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 29
         }
     }
 }
