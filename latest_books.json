@@ -1,4 +1,16 @@
 {
+    "B6zerlh6CC": {
+        "id": "B6zerlh6CC",
+        "title": "Бояръ-Аниме #6",
+        "author": "Владимир Кощеев",
+        "notes": "",
+        "createdAt": "2023-10-03 19:09:10",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 34
+        }
+    },
     "Y-CHwhi5WG": {
         "id": "Y-CHwhi5WG",
         "title": "Бояръ-Аниме #5",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 5
-        }
-    },
-    "ekwGN-bNF3": {
-        "id": "ekwGN-bNF3",
-        "title": "Сварог #2. Летающие острова",
-        "author": "Александр Александрович Бушков",
-        "notes": "",
-        "createdAt": "2023-10-03 18:50:37",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 4
         }
     }
 }
