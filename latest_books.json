@@ -1,4 +1,16 @@
 {
+    "I8oUYwTR_b": {
+        "id": "I8oUYwTR_b",
+        "title": "Сварог #23. Печать скорби",
+        "author": "Александр Александрович Бушков",
+        "notes": "",
+        "createdAt": "2023-10-03 18:54:56",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 25
+        }
+    },
     "ikOu8Tswqt": {
         "id": "ikOu8Tswqt",
         "title": "Сварог #22. Спаситель Короны",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 426
-        }
-    },
-    "0vg2TppsFv": {
-        "id": "0vg2TppsFv",
-        "title": "Игра Эндера",
-        "author": "Орсон Скотт Кард",
-        "notes": "Сначала ничего вроде, потом скучно",
-        "createdAt": "2023-09-28 09:48:40",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 157
         }
     }
 }
