@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
+    > По содержанию книга во многом пересекается с книгой с кабанчиком. Но здесь сложнее слог, размытее обороты и поверхностнее описаны ситуации и концепции.
+    > В этой книге со многих сторон описано то, с чем можно столкнуться при разработке микросервисов. 
+    > Есть отдельная глава о том, как проводить границы между сервисами, то есть, чем должен заниматься отдельный сервис, а чем нет. Но это довольно размыто и вся рекомендация сводится к использованию bounded contexts из DDD.
+    > Есть про разные виды тестирования и их пропорции, но при этом не затронута проблема того, как конкретно или какими инструментами можно удобно собирать систему под тестирования из самых разных версий микросервисов. А дело в том, что там много нюансов и многое зависит от конкретного продукта, поэтому в такой тонкой книге этого не описать. 
+    > Книга старается давать универсальные советы, но из-за этого они поверхностные.
+    > В целом, книгу можно почитать, особенно если заинтересовали какие-то конкретные разделы.
+
 * Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
     > audio
 
@@ -12,7 +20,6 @@ Do not use pull requests to make changes here.
     > https://loveread.info/books/fentezi/122723-anna-shnaider-nedostoinaya.html
 
 * Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
-    > https://litnet.com/ru/book/demon-instrukciya-po-ekspluatacii-b450985
 
 * Игра Эндера ~ [lucius](users/838/83820536-yandex)<sup>157</sup>
 
@@ -26,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Имперское наследство . Вольный стрелок ~ [Chiffi](users/105/105831994080785626680-google)<sup>391</sup>
 
-* Электронные платежи в интернете ~ [aktoty](users/275/275766107-vkontakte)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/227/22742452-yandex)<sup>75</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>70</sup> 
 [P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
@@ -62,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
 [Murmyau](users/107/107272984290708451258-google)<sup>0</sup> 
 [](users/103/1035563327194476370-mailru)<sup>0</sup> 
-[](users/106/106851335280025411906-google)<sup>0</sup> 
 
 
-_04.10.2023 15:38:15_
+_05.10.2023 09:22:01_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
 * Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
 * Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
 * Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
@@ -30,7 +31,6 @@
 * Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
 * Письма серебряного века ~ [Chiffi](users/105/105831994080785626680-google)<sup>382</sup>
 * Финансы поют романсы ~ [Chiffi](users/105/105831994080785626680-google)<sup>381</sup>
-* Маленький свободный народец ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>115</sup>
 
 
-_03.10.2023 03:28:45_
+_05.10.2023 09:22:01_
