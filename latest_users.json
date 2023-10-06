@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 397,
+        "updatedAt": "2023-10-06 12:37:46"
+    },
     "22742452-yandex": {
         "id": "22742452-yandex",
         "nickname": "rNix",
@@ -28,12 +34,6 @@
         "nickname": "Альберт Сысоев",
         "booksCount": 119,
         "updatedAt": "2023-10-03 03:28:45"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 396,
-        "updatedAt": "2023-10-02 20:10:46"
     },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",

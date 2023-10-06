@@ -1,4 +1,16 @@
 {
+    "sJ0CPN8AMk": {
+        "id": "sJ0CPN8AMk",
+        "title": "Осенние цветы",
+        "author": "Шнайдер Анна",
+        "notes": "https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html",
+        "createdAt": "2023-10-06 12:37:46",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 397
+        }
+    },
     "s3UVznwvFF": {
         "id": "s3UVznwvFF",
         "title": "Building Microservices: Designing Fine-Grained Systems",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 382
-        }
-    },
-    "bGVUu9Dc8m": {
-        "id": "bGVUu9Dc8m",
-        "title": "Финансы поют романсы",
-        "author": "Голицына Галина",
-        "notes": "https://author.today/reader/51822",
-        "createdAt": "2023-08-26 14:11:01",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 381
         }
     }
 }

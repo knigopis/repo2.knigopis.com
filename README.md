@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
+    > https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html
+
 * Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
     > По содержанию книга во многом пересекается с книгой с кабанчиком. Но здесь сложнее слог, размытее обороты и поверхностнее описаны ситуации и концепции.
     > В этой книге со многих сторон описано то, с чем можно столкнуться при разработке микросервисов. 
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
-    > https://loveread.info/books/fentezi/122723-anna-shnaider-nedostoinaya.html
 
 * Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
 
@@ -31,19 +33,17 @@ Do not use pull requests to make changes here.
 
 * Имперское наследство. Последний герой ~ [Chiffi](users/105/105831994080785626680-google)<sup>392</sup>
 
-* Имперское наследство . Вольный стрелок ~ [Chiffi](users/105/105831994080785626680-google)<sup>391</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>397</sup> 
 [rNix](users/227/22742452-yandex)<sup>75</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>70</sup> 
 [P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>396</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>426</sup> 
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
 [](users/101/101368518035734751027-google)<sup>10</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/1035563327194476370-mailru)<sup>0</sup> 
 
 
-_05.10.2023 09:22:01_
+_06.10.2023 12:37:46_

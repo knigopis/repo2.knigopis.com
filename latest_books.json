@@ -1,4 +1,16 @@
 {
+    "sJ0CPN8AMk": {
+        "id": "sJ0CPN8AMk",
+        "title": "Осенние цветы",
+        "author": "Шнайдер Анна",
+        "notes": "https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html",
+        "createdAt": "2023-10-06 12:37:46",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 397
+        }
+    },
     "s3UVznwvFF": {
         "id": "s3UVznwvFF",
         "title": "Building Microservices: Designing Fine-Grained Systems",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 44
-        }
-    },
-    "FbqVi5w4KS": {
-        "id": "FbqVi5w4KS",
-        "title": "Разлом #6. Академия",
-        "author": "Дмитрий Александрович Найденов",
-        "notes": "",
-        "createdAt": "2023-10-03 19:18:01",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 43
         }
     }
 }
