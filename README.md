@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обида на мужчин. Как невысказанные эмоции влияют на женское здоровье. ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup>
+    > Моллюск заглатывает песчинку, а затем наращивает вокруг нее перламутр. Слой за слоем, пока не образуется прекрасная жемчужина.
+    > Никто не делал ничего неправильно. Каждый человек делает все, что в его силах, в рамках своих знаний и представлений
+
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
     > https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html
 
@@ -17,7 +21,6 @@ Do not use pull requests to make changes here.
     > В целом, книгу можно почитать, особенно если заинтересовали какие-то конкретные разделы.
 
 * Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
-    > audio
 
 * Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
 
@@ -31,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Парень из преисподней ~ [Chiffi](users/105/105831994080785626680-google)<sup>393</sup>
 
-* Имперское наследство. Последний герой ~ [Chiffi](users/105/105831994080785626680-google)<sup>392</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>217</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>397</sup> 
 [rNix](users/227/22742452-yandex)<sup>75</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
@@ -70,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/1035563327194476370-mailru)<sup>0</sup> 
 
 
-_06.10.2023 16:36:24_
+_06.10.2023 18:53:25_
