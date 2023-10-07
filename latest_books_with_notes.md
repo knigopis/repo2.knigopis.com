@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тьма императора ~ [Chiffi](users/105/105831994080785626680-google)<sup>398</sup>
 * Обида на мужчин. Как невысказанные эмоции влияют на женское здоровье. ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup>
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
 * Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
@@ -30,7 +31,6 @@
 * Не ходи замуж за некроманта ~ [Chiffi](users/105/105831994080785626680-google)<sup>387</sup>
 * Беги от драконов ~ [Chiffi](users/105/105831994080785626680-google)<sup>386</sup>
 * Небо и грозы Электрет ~ [Chiffi](users/105/105831994080785626680-google)<sup>384</sup>
-* Айше для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>383</sup>
 
 
-_06.10.2023 18:53:25_
+_07.10.2023 09:22:47_

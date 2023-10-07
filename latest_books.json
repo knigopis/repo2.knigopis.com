@@ -1,4 +1,16 @@
 {
+    "WaMTSjbEaO": {
+        "id": "WaMTSjbEaO",
+        "title": "Тьма императора",
+        "author": "Шнайдер Анна",
+        "notes": "https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html",
+        "createdAt": "2023-10-07 09:22:47",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 398
+        }
+    },
     "_Qq3qc1UxR": {
         "id": "_Qq3qc1UxR",
         "title": "Обида на мужчин. Как невысказанные эмоции влияют на женское здоровье.",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 47
-        }
-    },
-    "_fLQoZ4BMl": {
-        "id": "_fLQoZ4BMl",
-        "title": "Путь демона #2. Тропа волшебника",
-        "author": "Глушановский Алексей Алексеевич",
-        "notes": "",
-        "createdAt": "2023-10-03 19:23:04",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 46
         }
     }
 }

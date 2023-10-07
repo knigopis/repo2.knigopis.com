@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>397</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>398</sup>
 ---
 
 ## 2023
+
+### Тьма императора
+Шнайдер Анна
+> [2023-10-08] https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
+
 
 ### Осенние цветы. Альганна
 Шнайдер Анна
