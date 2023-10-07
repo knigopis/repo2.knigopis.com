@@ -8,7 +8,7 @@
 > [2023-10-07] https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html
 
 
-### Недостойная
+### Недостойная. Альганна
 Шнайдер Анна
 > [2023-10-05] https://loveread.info/books/fentezi/122723-anna-shnaider-nedostoinaya.html
 > Милая сказка с элементами детектива.
