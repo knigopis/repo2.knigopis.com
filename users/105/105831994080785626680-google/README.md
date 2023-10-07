@@ -3,7 +3,7 @@
 
 ## 2023
 
-### Тьма императора
+### Тьма императора. Альганна
 Шнайдер Анна
 > [2023-10-08] https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
 
