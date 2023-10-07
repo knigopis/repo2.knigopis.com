@@ -3,7 +3,7 @@
 
 ## 2023
 
-### Осенние цветы
+### Осенние цветы. Альганна
 Шнайдер Анна
 > [2023-10-07] https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html
 
