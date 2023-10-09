@@ -5,7 +5,7 @@
 
 ### Тьма императора
 Шнайдер Анна
-> [2023-10-08] https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html. автор решила написать сказку с отвратительно грустным концом . Но до последней страницы было интересно
+> [2023-10-09] https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
 
 
 ### Осенние цветы. Альганна
