@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Двуликие. Клетка для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>399</sup>
+    > https://loveread.info/books/fentezi/157445-anna-shnaider-dvulikie-kletka-dlya-naslednika.html
+
 * Что я делала, пока вы рожали детей ~ [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup>
     > Мне нравится, что книга с хеппиэндом =)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мне нравится, что книга с хеппиэндом =)
 
 * Тьма императора ~ [Chiffi](users/105/105831994080785626680-google)<sup>398</sup>
-    > https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
 
 * Обида на мужчин. Как невысказанные эмоции влияют на женское здоровье. ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
 
-* Игра Эндера ~ [lucius](users/838/83820536-yandex)<sup>157</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>399</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
 [](users/112/112239748706900948406-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>398</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup> 
 [rNix](users/227/22742452-yandex)<sup>75</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115714542148878544061-google)<sup>1</sup> 
 
 
-_10.10.2023 18:09:55_
+_10.10.2023 18:27:38_

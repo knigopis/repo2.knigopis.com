@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>398</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>399</sup>
 ---
 
 ## 2023
+
+### Двуликие. Клетка для наследника
+Шнайдер Анна
+> [2023-10-12] https://loveread.info/books/fentezi/157445-anna-shnaider-dvulikie-kletka-dlya-naslednika.html
+
 
 ### Тьма императора
 Шнайдер Анна
