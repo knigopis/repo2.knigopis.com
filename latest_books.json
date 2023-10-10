@@ -1,4 +1,16 @@
 {
+    "iSu23YP-0i": {
+        "id": "iSu23YP-0i",
+        "title": "Что я делала, пока вы рожали детей",
+        "author": "Кристин Ньюман",
+        "notes": "Мне нравится, что книга с хеппиэндом =)",
+        "createdAt": "2023-10-10 18:09:55",
+        "user": {
+            "id": "2579695-vkontakte",
+            "nickname": "albina_untiring",
+            "booksCount": 44
+        }
+    },
     "NdToep8EGn": {
         "id": "NdToep8EGn",
         "title": "Что я делала, пока вы рожали детей",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 49
-        }
-    },
-    "DmnXHUV7se": {
-        "id": "DmnXHUV7se",
-        "title": "Путь демона #4. Путь демона",
-        "author": "Глушановский Алексей Алексеевич",
-        "notes": "",
-        "createdAt": "2023-10-03 19:23:22",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 48
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Что я делала, пока вы рожали детей ~ [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup>
+    > Мне нравится, что книга с хеппиэндом =)
+
 * Что я делала, пока вы рожали детей ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup>
     > Мне нравится, что книга с хеппиэндом =)
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
 
 * Обида на мужчин. Как невысказанные эмоции влияют на женское здоровье. ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup>
-    > Моллюск заглатывает песчинку, а затем наращивает вокруг нее перламутр. Слой за слоем, пока не образуется прекрасная жемчужина.
-    > Никто не делал ничего неправильно. Каждый человек делает все, что в его силах, в рамках своих знаний и представлений
 
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Игра Эндера ~ [lucius](users/838/83820536-yandex)<sup>157</sup>
 
-* Правосудие Королей ~ [lucius](users/838/83820536-yandex)<sup>156</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[albina_untiring](users/257/2579695-vkontakte)<sup>44</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
 [](users/112/112239748706900948406-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>398</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 [myscool](users/101/101429613411254493072-google)<sup>10</sup> 
 [](users/115/115714542148878544061-google)<sup>1</sup> 
-[Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
 
 
-_10.10.2023 18:08:55_
+_10.10.2023 18:09:55_
