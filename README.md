@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Что я делала, пока вы рожали детей ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup>
+    > Мне нравится, что книга с хеппиэндом =)
+
 * Тьма императора ~ [Chiffi](users/105/105831994080785626680-google)<sup>398</sup>
     > https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Никто не делал ничего неправильно. Каждый человек делает все, что в его силах, в рамках своих знаний и представлений
 
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
-    > https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html
 
 * Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Правосудие Королей ~ [lucius](users/838/83820536-yandex)<sup>156</sup>
 
-* Хранительница болот ~ [Chiffi](users/105/105831994080785626680-google)<sup>394</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
 [](users/112/112239748706900948406-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>398</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [myscool](users/101/101429613411254493072-google)<sup>10</sup> 
 [](users/115/115714542148878544061-google)<sup>1</sup> 
 [Zhani](users/109/109586026743199600506-google)<sup>0</sup> 
-[Murmyau](users/107/107272984290708451258-google)<sup>0</sup> 
 
 
-_07.10.2023 11:00:22_
+_10.10.2023 18:08:55_

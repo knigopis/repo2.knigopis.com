@@ -1,4 +1,10 @@
 {
+    "6069210-vkontakte": {
+        "id": "6069210-vkontakte",
+        "nickname": "dobrova_nails",
+        "booksCount": 2,
+        "updatedAt": "2023-10-10 18:08:55"
+    },
     "112239748706900948406-google": {
         "id": "112239748706900948406-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Zhani",
         "booksCount": 0,
         "updatedAt": "2023-08-24 07:07:03"
-    },
-    "107272984290708451258-google": {
-        "id": "107272984290708451258-google",
-        "nickname": "Murmyau",
-        "booksCount": 0,
-        "updatedAt": "2023-08-22 18:38:53"
     }
 }

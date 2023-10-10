@@ -1,4 +1,16 @@
 {
+    "NdToep8EGn": {
+        "id": "NdToep8EGn",
+        "title": "Что я делала, пока вы рожали детей",
+        "author": "Кристин Ньюман",
+        "notes": "Мне нравится, что книга с хеппиэндом =)",
+        "createdAt": "2023-10-10 18:08:55",
+        "user": {
+            "id": "6069210-vkontakte",
+            "nickname": "dobrova_nails",
+            "booksCount": 2
+        }
+    },
     "WaMTSjbEaO": {
         "id": "WaMTSjbEaO",
         "title": "Тьма императора",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 48
-        }
-    },
-    "BJPIJe2DG6": {
-        "id": "BJPIJe2DG6",
-        "title": "Путь демона #3. Стезя чародея",
-        "author": "Глушановский Алексей Алексеевич",
-        "notes": "",
-        "createdAt": "2023-10-03 19:23:14",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 47
         }
     }
 }
