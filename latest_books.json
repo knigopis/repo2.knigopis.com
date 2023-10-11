@@ -1,4 +1,16 @@
 {
+    "NhJF3CADKH": {
+        "id": "NhJF3CADKH",
+        "title": "Господин Зима",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-10-11 13:38:51",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 120
+        }
+    },
     "zniFtn-XeG": {
         "id": "zniFtn-XeG",
         "title": "Двуликие. Клетка для наследника",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 51
-        }
-    },
-    "JO59wr7wjC": {
-        "id": "JO59wr7wjC",
-        "title": "Виконт #2. Обретение силы",
-        "author": "Юллем Евгений",
-        "notes": "",
-        "createdAt": "2023-10-03 19:37:13",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 50
         }
     }
 }

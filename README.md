@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Господин Зима ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>120</sup>
+    > audio
+
 * Двуликие. Клетка для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>399</sup>
     > https://loveread.info/books/fentezi/157445-anna-shnaider-dvulikie-kletka-dlya-naslednika.html
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мне нравится, что книга с хеппиэндом =)
 
 * Что я делала, пока вы рожали детей ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup>
-    > Мне нравится, что книга с хеппиэндом =)
 
 * Тьма императора ~ [Chiffi](users/105/105831994080785626680-google)<sup>398</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
 
-* Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>120</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>399</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>70</sup> 
 [P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>426</sup> 
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
 [](users/101/101368518035734751027-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115714542148878544061-google)<sup>1</sup> 
 
 
-_10.10.2023 18:27:38_
+_11.10.2023 13:38:51_
