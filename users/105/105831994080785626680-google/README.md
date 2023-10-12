@@ -3,15 +3,15 @@
 
 ## 2023
 
+### Тьма императора. Жизнь на двоих
+Шнайдер Анна
+> [2023-10-15] https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
+> https://readli.net/zhizn-na-dvoih/ настолько терпеливым можно быть только по отношению к тому, кто тебе безразличен.
+
+
 ### Двуликие. Клетка для наследника
 Шнайдер Анна
 > [2023-10-12] https://loveread.info/books/fentezi/157445-anna-shnaider-dvulikie-kletka-dlya-naslednika.html
-
-
-### Тьма императора
-Шнайдер Анна
-> [2023-10-09] https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html
-> https://readli.net/zhizn-na-dvoih/
 
 
 ### Осенние цветы. Альганна
