@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[leo](users/106/106915386474260202605-google)<sup>21</sup> 
+[leo](users/106/106915386474260202605-google)<sup>22</sup> 
 [Natik_sad ](users/108/108898237485217151983-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>120</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>399</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 
 
-_13.10.2023 11:02:04_
+_13.10.2023 11:02:51_

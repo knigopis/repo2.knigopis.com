@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>21</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>22</sup>
 ---
 
 ## 2023
+
+### Лолита
+Владимир Набоков
+> [2023-10-13] 
+
 
 ### Generation p
 Виктор Пелевин
