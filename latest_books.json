@@ -1,4 +1,16 @@
 {
+    "7dFSDD60td": {
+        "id": "7dFSDD60td",
+        "title": "Аптека для нелюдей",
+        "author": "Герасимова Галина",
+        "notes": "https://knigolub.net/reader/7703/",
+        "createdAt": "2023-10-14 21:27:15",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 400
+        }
+    },
     "b2wYV3zU46": {
         "id": "b2wYV3zU46",
         "title": "Край Основания",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 55
-        }
-    },
-    "__1Iv5e8Bx": {
-        "id": "__1Iv5e8Bx",
-        "title": "Полный набор #2. Месть темной эльфийки",
-        "author": "Милослав Князев",
-        "notes": "",
-        "createdAt": "2023-10-03 20:25:30",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 54
         }
     }
 }

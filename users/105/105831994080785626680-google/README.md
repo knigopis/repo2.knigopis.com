@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>399</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>400</sup>
 ---
 
 ## 2023
+
+### Аптека для нелюдей
+Герасимова Галина
+> [2023-10-16] https://knigolub.net/reader/7703/
+
 
 ### Тьма императора. Жизнь на двоих
 Шнайдер Анна
