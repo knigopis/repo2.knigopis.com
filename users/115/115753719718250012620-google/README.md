@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>355</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>356</sup>
 ---
 
 ## 2023
+
+### Край Основания
+Азимов Айзек
+> [2023-10-08] 
+
 
 ### Второе Основание
 Азимов Айзек

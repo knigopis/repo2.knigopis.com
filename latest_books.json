@@ -1,4 +1,16 @@
 {
+    "b2wYV3zU46": {
+        "id": "b2wYV3zU46",
+        "title": "Край Основания",
+        "author": "Азимов Айзек",
+        "notes": "",
+        "createdAt": "2023-10-14 13:30:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 356
+        }
+    },
     "QNIaKqhAfq": {
         "id": "QNIaKqhAfq",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 54
-        }
-    },
-    "KFW7zNDMFP": {
-        "id": "KFW7zNDMFP",
-        "title": "Полный набор #1. Великая Миссия",
-        "author": "Милослав Князев",
-        "notes": "",
-        "createdAt": "2023-10-03 20:25:18",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 53
         }
     }
 }
