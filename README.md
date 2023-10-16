@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хорошие жены ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>121</sup>
+    > audio
+
 * Аптека для нелюдей ~ [Chiffi](users/105/105831994080785626680-google)<sup>400</sup>
     > https://knigolub.net/reader/7703/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Двуликие. Клетка для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>399</sup>
-    > https://loveread.info/books/fentezi/157445-anna-shnaider-dvulikie-kletka-dlya-naslednika.html
 
 * Что я делала, пока вы рожали детей ~ [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
 
-* Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>121</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>219</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>182</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>400</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>356</sup> 
 [leo](users/106/106915386474260202605-google)<sup>22</sup> 
 [Natik_sad ](users/108/108898237485217151983-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>120</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
 [](users/112/112239748706900948406-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 
 
-_15.10.2023 12:59:43_
+_16.10.2023 13:47:40_
