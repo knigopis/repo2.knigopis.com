@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Альгана. След паука ~ [Chiffi](users/105/105831994080785626680-google)<sup>401</sup>
+    > http://loveread.ec/view_global.php?id=99451
+
 * Хорошие жены ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>121</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://knigolub.net/reader/7703/
 
 * Господин Зима ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>120</sup>
-    > audio
 
 * Двуликие. Клетка для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>399</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
 
-* Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>401</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>121</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>219</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>182</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>400</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>356</sup> 
 [leo](users/106/106915386474260202605-google)<sup>22</sup> 
 [Natik_sad ](users/108/108898237485217151983-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116461044320164710012-google)<sup>0</sup> 
 
 
-_16.10.2023 13:47:40_
+_16.10.2023 20:05:11_
