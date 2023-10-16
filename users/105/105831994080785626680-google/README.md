@@ -22,7 +22,7 @@
 > [2023-10-12] https://loveread.info/books/fentezi/157445-anna-shnaider-dvulikie-kletka-dlya-naslednika.html
 
 
-### Осенние цветы. Альганна
+### Альгана. Осенние цветы.
 Шнайдер Анна
 > [2023-10-07] https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html
 > Сказочка. Но приятная и с хеппи эндом
