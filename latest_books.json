@@ -1,4 +1,16 @@
 {
+    "ckfoiGfvTr": {
+        "id": "ckfoiGfvTr",
+        "title": "Романов. Том 13",
+        "author": "Владимир Кощеев",
+        "notes": "",
+        "createdAt": "2023-10-19 20:54:37",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 74
+        }
+    },
     "CF-Gc3aPk5": {
         "id": "CF-Gc3aPk5",
         "title": "Романов. Том 12",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 63
-        }
-    },
-    "Z_i5Zn1tQs": {
-        "id": "Z_i5Zn1tQs",
-        "title": "Полный набор #10. Наследие древних",
-        "author": "Милослав Князев",
-        "notes": "",
-        "createdAt": "2023-10-03 20:27:02",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 62
         }
     }
 }
