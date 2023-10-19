@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>70</sup>
+# List of books read by vechno7t<sup>71</sup>
 ---
 
 ## 2023
+
+### Романов. Том 10
+Владимир Кощеев
+> [2023-10-17] 
+
 
 ### Смертник из рода Валевских #2
 Василий Маханенко

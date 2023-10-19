@@ -1,4 +1,16 @@
 {
+    "FWQEO53yGl": {
+        "id": "FWQEO53yGl",
+        "title": "Романов. Том 10",
+        "author": "Владимир Кощеев",
+        "notes": "",
+        "createdAt": "2023-10-19 20:53:59",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 71
+        }
+    },
     "gOHUT0LcIy": {
         "id": "gOHUT0LcIy",
         "title": "Альгана. След паука",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 60
-        }
-    },
-    "3SvIz0tba9": {
-        "id": "3SvIz0tba9",
-        "title": "Полный набор #7. Возвращение домой",
-        "author": "Милослав Князев",
-        "notes": "",
-        "createdAt": "2023-10-03 20:26:26",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 59
         }
     }
 }
