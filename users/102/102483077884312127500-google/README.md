@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>71</sup>
+# List of books read by vechno7t<sup>72</sup>
 ---
 
 ## 2023
+
+### Романов. Том 11
+Владимир Кощеев
+> [2023-10-17] 
+
 
 ### Романов. Том 10
 Владимир Кощеев
