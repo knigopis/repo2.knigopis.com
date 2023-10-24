@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>282</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>223</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>357</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>183</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 [Александр Ковалев](users/141/14161137020827113329-mailru)<sup>1</sup> 
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
-[](users/116/116461044320164710012-google)<sup>0</sup> 
 
 
-_24.10.2023 16:12:54_
+_24.10.2023 22:00:13_

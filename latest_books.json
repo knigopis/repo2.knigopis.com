@@ -1,4 +1,16 @@
 {
+    "TRU6iKNQnV": {
+        "id": "TRU6iKNQnV",
+        "title": "Тайна Крикли-Холла",
+        "author": "Герберт Джеймс",
+        "notes": "",
+        "createdAt": "2023-10-24 22:00:13",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 282
+        }
+    },
     "ocHAma8Qbf": {
         "id": "ocHAma8Qbf",
         "title": "Отрочество",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 217
-        }
-    },
-    "sJ0CPN8AMk": {
-        "id": "sJ0CPN8AMk",
-        "title": "Осенние цветы",
-        "author": "Шнайдер Анна",
-        "notes": "https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html",
-        "createdAt": "2023-10-06 12:37:46",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 397
         }
     }
 }

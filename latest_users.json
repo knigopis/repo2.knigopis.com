@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 282,
+        "updatedAt": "2023-10-24 22:00:13"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "tsveta-dozhdya",
         "booksCount": 0,
         "updatedAt": "2023-09-03 17:21:25"
-    },
-    "116461044320164710012-google": {
-        "id": "116461044320164710012-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-08-30 04:24:27"
     }
 }
