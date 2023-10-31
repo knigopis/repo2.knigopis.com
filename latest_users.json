@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 64,
+        "updatedAt": "2023-10-31 09:15:25"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -118,12 +124,6 @@
         "nickname": "aktoty",
         "booksCount": 94,
         "updatedAt": "2023-09-19 20:16:24"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 63,
-        "updatedAt": "2023-09-19 16:34:05"
     },
     "116727437007720956503-google": {
         "id": "116727437007720956503-google",

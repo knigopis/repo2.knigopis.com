@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Процес ~ [mfevralev](users/140/140966150-vkontakte)<sup>64</sup>
+    > Хрень
+
 * Маленькие мужчины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>122</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Закрутил знатно, жаль не закончена история.
 
 * Альгана. След паука ~ [Chiffi](users/105/105831994080785626680-google)<sup>401</sup>
-    > http://loveread.ec/view_global.php?id=99451
 
 * Хорошие жены ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>121</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Что я делала, пока вы рожали детей ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup>
 
-* Тьма императора ~ [Chiffi](users/105/105831994080785626680-google)<sup>398</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>224</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>122</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>282</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>10</sup> 
 [](users/115/115095777313809768381-google)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>63</sup> 
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
 
 
-_28.10.2023 13:49:09_
+_31.10.2023 09:15:25_
