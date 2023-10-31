@@ -5,7 +5,7 @@
 
 ### Альгана. След паука
 Шнайдер Анна
-> [2023-10-26] http://loveread.ec/view_global.php?id=99451
+> [2023-10-31] http://loveread.ec/view_global.php?id=99451
 > И вторая часть http://loveread.ec/view_global.php?id=99452
 
 
