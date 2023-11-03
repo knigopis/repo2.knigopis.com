@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>401</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>402</sup>
 ---
 
 ## 2023
+
+### Возвращение со звезд
+Лем Станислав
+> [2023-11-04] http://loveread.ec/view_global.php?id=21720
+
 
 ### Альгана. След паука
 Шнайдер Анна
