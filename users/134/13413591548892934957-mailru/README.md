@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>427</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>428</sup>
 ---
 
 ## 2023
+
+### В ожидании варваров
+Джозеф Кутзее
+> [2023-11-04] 
+
 
 ### Хоббит
 Джон Толкин

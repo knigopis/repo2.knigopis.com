@@ -1,4 +1,16 @@
 {
+    "LtF1XiBhSd": {
+        "id": "LtF1XiBhSd",
+        "title": "В ожидании варваров",
+        "author": "Джозеф Кутзее",
+        "notes": "",
+        "createdAt": "2023-11-04 00:29:56",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 428
+        }
+    },
     "X7Ou-CEWZq": {
         "id": "X7Ou-CEWZq",
         "title": "Возвращение со звезд",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 399
-        }
-    },
-    "iSu23YP-0i": {
-        "id": "iSu23YP-0i",
-        "title": "Что я делала, пока вы рожали детей",
-        "author": "Кристин Ньюман",
-        "notes": "Мне нравится, что книга с хеппиэндом =)",
-        "createdAt": "2023-10-10 18:09:55",
-        "user": {
-            "id": "2579695-vkontakte",
-            "nickname": "albina_untiring",
-            "booksCount": 44
         }
     }
 }
