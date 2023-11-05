@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 225,
+        "updatedAt": "2023-11-05 22:21:21"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -16,12 +22,6 @@
         "nickname": "mfevralev",
         "booksCount": 64,
         "updatedAt": "2023-10-31 09:15:25"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 224,
-        "updatedAt": "2023-10-28 13:49:09"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",

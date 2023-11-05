@@ -1,4 +1,16 @@
 {
+    "K5SRPtxwvs": {
+        "id": "K5SRPtxwvs",
+        "title": "Последние свидетели. Соло для детского голоса.",
+        "author": "Светлана Александровна Алексиевич",
+        "notes": "",
+        "createdAt": "2023-11-05 22:21:21",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 225
+        }
+    },
     "LtF1XiBhSd": {
         "id": "LtF1XiBhSd",
         "title": "В ожидании варваров",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 120
-        }
-    },
-    "zniFtn-XeG": {
-        "id": "zniFtn-XeG",
-        "title": "Двуликие. Клетка для наследника",
-        "author": "Шнайдер Анна",
-        "notes": "https://loveread.info/books/fentezi/157445-anna-shnaider-dvulikie-kletka-dlya-naslednika.html",
-        "createdAt": "2023-10-10 18:27:38",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 399
         }
     }
 }
