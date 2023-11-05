@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>225</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>226</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>428</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>402</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tsveta-dozhdya](users/983/983485507-yandex)<sup>0</sup> 
 
 
-_05.11.2023 22:21:21_
+_05.11.2023 22:21:52_
