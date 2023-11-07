@@ -1,4 +1,10 @@
 {
+    "105803270930838059244-google": {
+        "id": "105803270930838059244-google",
+        "nickname": null,
+        "booksCount": 1,
+        "updatedAt": "2023-11-07 18:32:57"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Александр Ковалев",
         "booksCount": 1,
         "updatedAt": "2023-09-04 20:01:15"
-    },
-    "983485507-yandex": {
-        "id": "983485507-yandex",
-        "nickname": "tsveta-dozhdya",
-        "booksCount": 0,
-        "updatedAt": "2023-09-03 17:21:25"
     }
 }
