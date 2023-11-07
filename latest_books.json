@@ -1,4 +1,16 @@
 {
+    "yk2W7pzYDZ": {
+        "id": "yk2W7pzYDZ",
+        "title": "Борьба за огонь",
+        "author": "Жозеф Рони-старший",
+        "notes": "",
+        "createdAt": "2023-11-07 19:30:27",
+        "user": {
+            "id": "115095777313809768381-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "oh5vO26ms0": {
         "id": "oh5vO26ms0",
         "title": "Тимур и его команда",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 356
-        }
-    },
-    "QNIaKqhAfq": {
-        "id": "QNIaKqhAfq",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2023-10-13 11:02:51",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 22
         }
     }
 }
