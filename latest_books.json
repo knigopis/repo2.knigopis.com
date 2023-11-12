@@ -1,4 +1,16 @@
 {
+    "vya4FbR4z2": {
+        "id": "vya4FbR4z2",
+        "title": "Платье цвета ночи",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-11-12 19:48:27",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 123
+        }
+    },
     "yk2W7pzYDZ": {
         "id": "yk2W7pzYDZ",
         "title": "Борьба за огонь",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 400
-        }
-    },
-    "b2wYV3zU46": {
-        "id": "b2wYV3zU46",
-        "title": "Край Основания",
-        "author": "Азимов Айзек",
-        "notes": "",
-        "createdAt": "2023-10-14 13:30:40",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 356
         }
     }
 }

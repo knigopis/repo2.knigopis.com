@@ -1,4 +1,16 @@
 {
+    "vya4FbR4z2": {
+        "id": "vya4FbR4z2",
+        "title": "Платье цвета ночи",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2023-11-12 19:48:27",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 123
+        }
+    },
     "X7Ou-CEWZq": {
         "id": "X7Ou-CEWZq",
         "title": "Возвращение со звезд",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 390
-        }
-    },
-    "PEBiT8E4gH": {
-        "id": "PEBiT8E4gH",
-        "title": "Имперское наследство. Сержант десанта",
-        "author": "Фёдоров Константин",
-        "notes": "https://litnet.com/ru/book/imperskoe-nasledstvo-serzhant-desanta-b36694",
-        "createdAt": "2023-09-16 21:02:04",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 389
         }
     }
 }
