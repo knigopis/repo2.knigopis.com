@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
+    > https://flibusta.su/book/155907-vse-budet-horosho/read/
+
 * Платье цвета ночи ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > http://loveread.ec/view_global.php?id=21720
 
 * Процес ~ [mfevralev](users/140/140966150-vkontakte)<sup>64</sup>
-    > Хрень
 
 * Маленькие мужчины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>122</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Господин Зима ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>120</sup>
 
-* Двуликие. Клетка для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>399</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>403</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup> 
 [](users/115/115095777313809768381-google)<sup>1</sup> 
 [](users/105/105803270930838059244-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>226</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>428</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>402</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>282</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>357</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Ковалев](users/141/14161137020827113329-mailru)<sup>1</sup> 
 
 
-_12.11.2023 19:48:27_
+_15.11.2023 17:33:39_

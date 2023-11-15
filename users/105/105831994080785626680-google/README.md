@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>402</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>403</sup>
 ---
 
 ## 2023
+
+### Все будет хорошо
+Звездная Елена
+> [2023-11-16] https://flibusta.su/book/155907-vse-budet-horosho/read/
+
 
 ### Возвращение со звезд
 Лем Станислав

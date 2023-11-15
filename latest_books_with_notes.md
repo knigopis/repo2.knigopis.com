@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
 * Платье цвета ночи ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup>
 * Возвращение со звезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>402</sup>
 * Процес ~ [mfevralev](users/140/140966150-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
 * Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
 * Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
-* Имперское наследство. Заноза ~ [Chiffi](users/105/105831994080785626680-google)<sup>390</sup>
 
 
-_12.11.2023 19:48:27_
+_15.11.2023 17:33:39_
