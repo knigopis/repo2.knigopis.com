@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>131</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>132</sup>
 ---
 
 ## 2023
+
+### Гамлет
+Шекспир Уильям
+> [2023-11] 
+
 
 ### Возвращение
 Ремарк Эрих Мария

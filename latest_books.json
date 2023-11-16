@@ -1,4 +1,16 @@
 {
+    "oM0rLaMFWi": {
+        "id": "oM0rLaMFWi",
+        "title": "Гамлет",
+        "author": "Шекспир Уильям",
+        "notes": "",
+        "createdAt": "2023-11-16 07:37:57",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 132
+        }
+    },
     "y5jnCbROUi": {
         "id": "y5jnCbROUi",
         "title": "Процесс",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 71
-        }
-    },
-    "gOHUT0LcIy": {
-        "id": "gOHUT0LcIy",
-        "title": "Альгана. След паука",
-        "author": "Шнайдер Анна",
-        "notes": "http://loveread.ec/view_global.php?id=99451",
-        "createdAt": "2023-10-16 20:05:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 401
         }
     }
 }
