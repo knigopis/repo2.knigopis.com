@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>132</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>133</sup>
 ---
 
 ## 2023
+
+### Август
+Герман Гессе
+> [2023-11-16] 
+
 
 ### Гамлет
 Шекспир Уильям
