@@ -1,4 +1,16 @@
 {
+    "sowaJNuSMr": {
+        "id": "sowaJNuSMr",
+        "title": "Возвращение",
+        "author": "Ремарк Эрих Мария",
+        "notes": "",
+        "createdAt": "2023-11-16 06:29:02",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 130
+        }
+    },
     "6sXLqXJpUg": {
         "id": "6sXLqXJpUg",
         "title": "Щегол",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 121
-        }
-    },
-    "ECWKnPvEQp": {
-        "id": "ECWKnPvEQp",
-        "title": "Дневники. Я могу объяснить многое.",
-        "author": "Никола Тесла",
-        "notes": "",
-        "createdAt": "2023-10-15 12:59:43",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 219
         }
     }
 }
