@@ -1,4 +1,10 @@
 {
+    "300273923-vkontakte": {
+        "id": "300273923-vkontakte",
+        "nickname": "Вит",
+        "booksCount": 129,
+        "updatedAt": "2023-11-16 06:25:42"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-09-07 09:36:45"
-    },
-    "14161137020827113329-mailru": {
-        "id": "14161137020827113329-mailru",
-        "nickname": "Александр Ковалев",
-        "booksCount": 1,
-        "updatedAt": "2023-09-04 20:01:15"
     }
 }
