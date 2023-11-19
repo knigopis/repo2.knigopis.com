@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Брак. Взаимовыгодный ~ [Chiffi](users/105/105831994080785626680-google)<sup>405</sup>
 * Операция Фея ~ [Chiffi](users/105/105831994080785626680-google)<sup>404</sup>
 * Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
 * Платье цвета ночи ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup>
@@ -30,7 +31,6 @@
 * Имперское наследство . Вольный стрелок ~ [Chiffi](users/105/105831994080785626680-google)<sup>391</sup>
 * Электронные платежи в интернете ~ [aktoty](users/275/275766107-vkontakte)<sup>94</sup>
 * Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
-* Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
 
 
-_19.11.2023 09:51:50_
+_19.11.2023 15:01:58_

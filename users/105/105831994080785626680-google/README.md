@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>404</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>405</sup>
 ---
 
 ## 2023
+
+### Брак. Взаимовыгодный
+Звездная Елена
+> [2023-11-20] https://knizhka.org/fantastika/3010-brak-vzaimovygodnyj.html
+
 
 ### Операция Фея
 Звездная Елена
