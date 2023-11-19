@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>39</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>40</sup>
 ---
 
 ## 2023
@@ -10,6 +10,11 @@
 
 ### Red, white and royal blue
 > [2023-08-11] 
+
+
+### Космобиолухи
+Громыко Ольга
+> [2023-08] 
 
 
 ### Биология добра и зла
