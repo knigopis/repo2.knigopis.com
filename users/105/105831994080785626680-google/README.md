@@ -5,7 +5,7 @@
 
 ### Операция Фея
 Звездная Елена
-> [2023-11-20] https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html
+> [2023-11-19] https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html мило, забавно
 
 
 ### Все будет хорошо
