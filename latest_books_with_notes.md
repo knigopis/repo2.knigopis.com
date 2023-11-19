@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Операция Фея ~ [Chiffi](users/105/105831994080785626680-google)<sup>404</sup>
 * Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
 * Платье цвета ночи ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup>
 * Возвращение со звезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>402</sup>
@@ -30,7 +31,6 @@
 * Электронные платежи в интернете ~ [aktoty](users/275/275766107-vkontakte)<sup>94</sup>
 * Шантарам. Том 1. ~ [aktoty](users/275/275766107-vkontakte)<sup>93</sup>
 * Шоколад ~ [aktoty](users/275/275766107-vkontakte)<sup>92</sup>
-* Польская кампания 1792 ~ [mfevralev](users/140/140966150-vkontakte)<sup>63</sup>
 
 
-_15.11.2023 17:33:39_
+_19.11.2023 09:51:50_

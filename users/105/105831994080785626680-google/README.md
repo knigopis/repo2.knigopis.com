@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>403</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>404</sup>
 ---
 
 ## 2023
+
+### Операция Фея
+Звездная Елена
+> [2023-11-20] https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html
+
 
 ### Все будет хорошо
 Звездная Елена

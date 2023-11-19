@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Операция Фея ~ [Chiffi](users/105/105831994080785626680-google)<sup>404</sup>
+    > https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html
+
 * Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
     > https://flibusta.su/book/155907-vse-budet-horosho/read/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Возвращение со звезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>402</sup>
-    > http://loveread.ec/view_global.php?id=21720
 
 * Процес ~ [mfevralev](users/140/140966150-vkontakte)<sup>64</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Аптека для нелюдей ~ [Chiffi](users/105/105831994080785626680-google)<sup>400</sup>
 
-* Господин Зима ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>120</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>404</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>133</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>403</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup> 
 [](users/115/115095777313809768381-google)<sup>1</sup> 
 [](users/105/105803270930838059244-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112452730042794139520-google)<sup>0</sup> 
 
 
-_16.11.2023 14:33:47_
+_19.11.2023 09:51:50_
