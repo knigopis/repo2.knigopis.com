@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>40</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>41</sup>
 ---
 
 ## 2023
@@ -10,6 +10,11 @@
 
 ### Red, white and royal blue
 > [2023-08-11] 
+
+
+### Космоэколухи
+Громыко О.
+> [2023-08] 
 
 
 ### Космобиолухи
