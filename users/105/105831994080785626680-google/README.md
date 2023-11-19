@@ -5,7 +5,8 @@
 
 ### Брак. Взаимовыгодный
 Звездная Елена
-> [2023-11-20] https://knizhka.org/fantastika/3010-brak-vzaimovygodnyj.html
+> [2023-11-20] https://knizhka.org/fantastika/3010-brak-vzaimovygodnyj.html 
+> https://elenazvezdnaya.ru/goodmood/brak-vzaimovygodnyj.html
 
 
 ### Операция Фея
