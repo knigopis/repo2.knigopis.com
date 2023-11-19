@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>405</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>133</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108689900996785507657-google)<sup>0</sup> 
 [WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 [X Æ A-12](users/115/115609550904757194526-google)<sup>5</sup> 
-[](users/112/112452730042794139520-google)<sup>0</sup> 
 
 
-_19.11.2023 15:01:58_
+_19.11.2023 21:57:08_
