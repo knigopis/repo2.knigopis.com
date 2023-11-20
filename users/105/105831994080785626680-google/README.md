@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>405</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>406</sup>
 ---
 
 ## 2023
+
+### Обручальные цепи или охота на дракона
+Эл Лана
+> [2023-11-21] https://knizhka.org/lyubovnaya-fantastika/14056-obruchalnye-cepi-ili-oxota-na-drakona.html
+
 
 ### Брак. Взаимовыгодный
 Звездная Елена

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обручальные цепи или охота на дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>406</sup>
+    > https://knizhka.org/lyubovnaya-fantastika/14056-obruchalnye-cepi-ili-oxota-na-drakona.html
+
 * Брак. Взаимовыгодный ~ [Chiffi](users/105/105831994080785626680-google)<sup>405</sup>
     > https://knizhka.org/fantastika/3010-brak-vzaimovygodnyj.html
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html
 
 * Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
-    > https://flibusta.su/book/155907-vse-budet-horosho/read/
 
 * Платье цвета ночи ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Альгана. След паука ~ [Chiffi](users/105/105831994080785626680-google)<sup>401</sup>
 
-* Хорошие жены ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>121</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>406</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>42</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>405</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>133</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup> 
 [](users/115/115095777313809768381-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 
 
-_20.11.2023 11:41:44_
+_20.11.2023 18:33:04_
