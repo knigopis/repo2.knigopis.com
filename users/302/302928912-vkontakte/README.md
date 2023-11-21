@@ -1,7 +1,12 @@
-# List of books read by Evermind<sup>66</sup>
+# List of books read by Evermind<sup>67</sup>
 ---
 
 ## 2023
+
+### Межзвёздный скиталец
+Джек Лондон
+> [2023-10-07] 
+
 
 ### Самый богатый человек в Вавилоне
 Дж. Самюэль Клейсон

@@ -1,4 +1,16 @@
 {
+    "_NUEeb1uDy": {
+        "id": "_NUEeb1uDy",
+        "title": "Межзвёздный скиталец",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2023-11-21 07:19:21",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "Evermind",
+            "booksCount": 67
+        }
+    },
     "VnTTRkXRE6": {
         "id": "VnTTRkXRE6",
         "title": "Самый богатый человек в Вавилоне",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 222
-        }
-    },
-    "DIo2wn1024": {
-        "id": "DIo2wn1024",
-        "title": "Свои люди - сочтёмся",
-        "author": "Александр Николаевич Островский",
-        "notes": "",
-        "createdAt": "2023-10-20 21:08:44",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 221
         }
     }
 }
