@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>66</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>406</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
 [](users/108/108689900996785507657-google)<sup>0</sup> 
-[WcL](users/106/106758454733805717947-google)<sup>0</sup> 
 
 
-_20.11.2023 18:33:04_
+_21.11.2023 07:18:52_

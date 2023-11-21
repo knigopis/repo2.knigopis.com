@@ -1,4 +1,16 @@
 {
+    "VnTTRkXRE6": {
+        "id": "VnTTRkXRE6",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Дж. Самюэль Клейсон",
+        "notes": "",
+        "createdAt": "2023-11-21 07:18:52",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "Evermind",
+            "booksCount": 66
+        }
+    },
     "C3_zdVEjQO": {
         "id": "C3_zdVEjQO",
         "title": "Обручальные цепи или охота на дракона",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 221
-        }
-    },
-    "6PZ5Zddxm_": {
-        "id": "6PZ5Zddxm_",
-        "title": "Хоббит",
-        "author": "Джон Толкин",
-        "notes": "",
-        "createdAt": "2023-10-20 13:05:27",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 427
         }
     }
 }

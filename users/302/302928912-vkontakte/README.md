@@ -1,7 +1,12 @@
-# List of books read by Evermind<sup>65</sup>
+# List of books read by Evermind<sup>66</sup>
 ---
 
 ## 2023
+
+### Самый богатый человек в Вавилоне
+Дж. Самюэль Клейсон
+> [2023-10-01] 
+
 
 ### Илья Чёрт
 Анатомия шоу-бизнеса
