@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>406</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>407</sup>
 ---
 
 ## 2023
+
+### Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг
+Дружинин Петр
+> [2023-11-23] https://knizhka.org/neotsortirovannoe/18894-antikvarnaya-kniga-ot-a-do-ya-ili-posobie-dlya-kollekcionerov-i-antikvarov-a-takzhe-dlya-vsex-lyubitelej-starinnyx-knig.html#comment
+
 
 ### Обручальные цепи или охота на дракона
 Эл Лана

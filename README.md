@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>407</sup>
+    > https://knizhka.org/neotsortirovannoe/18894-antikvarnaya-kniga-ot-a-do-ya-ili-posobie-dlya-kollekcionerov-i-antikvarov-a-takzhe-dlya-vsex-lyubitelej-starinnyx-knig.html#comment
+
 * Обручальные цепи или охота на дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>406</sup>
     > https://knizhka.org/lyubovnaya-fantastika/14056-obruchalnye-cepi-ili-oxota-na-drakona.html
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://knizhka.org/fantastika/3010-brak-vzaimovygodnyj.html
 
 * Операция Фея ~ [Chiffi](users/105/105831994080785626680-google)<sup>404</sup>
-    > https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html
 
 * Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Основание и Земля ~ [Garka](users/115/115753719718250012620-google)<sup>357</sup>
 
-* Альгана. След паука ~ [Chiffi](users/105/105831994080785626680-google)<sup>401</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>407</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>67</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>406</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>42</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>133</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108689900996785507657-google)<sup>0</sup> 
 
 
-_21.11.2023 07:19:21_
+_22.11.2023 20:12:58_
