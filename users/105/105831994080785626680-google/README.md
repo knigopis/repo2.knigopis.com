@@ -5,7 +5,7 @@
 
 ### Обручальные цепи или охота на дракона
 Эл Лана
-> [2023-11-21] https://knizhka.org/lyubovnaya-fantastika/14056-obruchalnye-cepi-ili-oxota-na-drakona.html
+> [2023-11-22] https://knizhka.org/lyubovnaya-fantastika/14056-obruchalnye-cepi-ili-oxota-na-drakona.html
 > - Бросьте, -какое недопонимание, это искренняя и незамутнённая ненависть
 > Но больше всего мне импонирует ваша честность.- Да? А где вы с ней встречались?
 
