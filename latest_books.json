@@ -1,4 +1,16 @@
 {
+    "RETdjlQ27d": {
+        "id": "RETdjlQ27d",
+        "title": "Взлёт разрешен",
+        "author": "Д. Окань",
+        "notes": "",
+        "createdAt": "2023-11-26 22:04:56",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 184
+        }
+    },
     "fm6fFU3BFH": {
         "id": "fm6fFU3BFH",
         "title": "Послемрак",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 122
-        }
-    },
-    "TRU6iKNQnV": {
-        "id": "TRU6iKNQnV",
-        "title": "Тайна Крикли-Холла",
-        "author": "Герберт Джеймс",
-        "notes": "",
-        "createdAt": "2023-10-24 22:00:13",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 282
         }
     }
 }
