@@ -1,4 +1,16 @@
 {
+    "fm6fFU3BFH": {
+        "id": "fm6fFU3BFH",
+        "title": "Послемрак",
+        "author": "Харуки Мураками",
+        "notes": "Такое себе. Ни о чем.\nЛишнее доказательство переоценённости автора.",
+        "createdAt": "2023-11-26 14:56:46",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 135
+        }
+    },
     "UJzrZTfNO9": {
         "id": "UJzrZTfNO9",
         "title": "Я, робот.",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 282
-        }
-    },
-    "ocHAma8Qbf": {
-        "id": "ocHAma8Qbf",
-        "title": "Отрочество",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2023-10-24 16:12:54",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 223
         }
     }
 }

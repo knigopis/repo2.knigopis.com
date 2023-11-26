@@ -1,4 +1,16 @@
 {
+    "fm6fFU3BFH": {
+        "id": "fm6fFU3BFH",
+        "title": "Послемрак",
+        "author": "Харуки Мураками",
+        "notes": "Такое себе. Ни о чем.\nЛишнее доказательство переоценённости автора.",
+        "createdAt": "2023-11-26 14:56:46",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 135
+        }
+    },
     "Gvntttd_z5": {
         "id": "Gvntttd_z5",
         "title": "Дом на краю ночи",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 393
-        }
-    },
-    "QtGpWGq196": {
-        "id": "QtGpWGq196",
-        "title": "Имперское наследство. Последний герой",
-        "author": "Фёдоров Константин",
-        "notes": "https://topliba.com/books/767216",
-        "createdAt": "2023-09-22 18:42:32",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 392
         }
     }
 }

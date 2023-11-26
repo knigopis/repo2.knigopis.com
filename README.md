@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Послемрак ~ [Вит](users/300/300273923-vkontakte)<sup>135</sup>
+    > Такое себе. Ни о чем.
+    > Лишнее доказательство переоценённости автора.
+
 * Дом на краю ночи ~ [Вит](users/300/300273923-vkontakte)<sup>134</sup>
     > Понравилось!
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > https://knizhka.org/neotsortirovannoe/18894-antikvarnaya-kniga-ot-a-do-ya-ili-posobie-dlya-kollekcionerov-i-antikvarov-a-takzhe-dlya-vsex-lyubitelej-starinnyx-knig.html#comment
 
 * Обручальные цепи или охота на дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>406</sup>
-    > https://knizhka.org/lyubovnaya-fantastika/14056-obruchalnye-cepi-ili-oxota-na-drakona.html
 
 * Брак. Взаимовыгодный ~ [Chiffi](users/105/105831994080785626680-google)<sup>405</sup>
 
@@ -26,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * Процес ~ [mfevralev](users/140/140966150-vkontakte)<sup>64</sup>
 
-* Маленькие мужчины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>122</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>135</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>134</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>407</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>67</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108689900996785507657-google)<sup>0</sup> 
 
 
-_26.11.2023 11:27:16_
+_26.11.2023 14:56:46_
