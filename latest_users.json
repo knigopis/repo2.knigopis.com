@@ -1,4 +1,10 @@
 {
+    "112090473416384685204-google": {
+        "id": "112090473416384685204-google",
+        "nickname": "Cr_RONIN",
+        "booksCount": 11,
+        "updatedAt": "2023-11-28 20:22:14"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "supvobed",
         "booksCount": 1,
         "updatedAt": "2023-09-09 11:49:51"
-    },
-    "108689900996785507657-google": {
-        "id": "108689900996785507657-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-09-08 21:49:19"
     }
 }

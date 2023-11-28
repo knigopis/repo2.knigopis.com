@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Cr_RONIN](users/112/112090473416384685204-google)<sup>11</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>184</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>135</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
-[](users/108/108689900996785507657-google)<sup>0</sup> 
 
 
-_26.11.2023 22:04:56_
+_28.11.2023 20:22:14_
