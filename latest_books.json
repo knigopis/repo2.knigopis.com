@@ -1,4 +1,16 @@
 {
+    "KpKxdu2jxg": {
+        "id": "KpKxdu2jxg",
+        "title": "Гаррі Поттер і смертельні реліквії",
+        "author": "",
+        "notes": "",
+        "createdAt": "2023-11-28 20:24:28",
+        "user": {
+            "id": "112090473416384685204-google",
+            "nickname": "Cr_RONIN",
+            "booksCount": 14
+        }
+    },
     "CQ6Ngd-bIo": {
         "id": "CQ6Ngd-bIo",
         "title": "Гаррі Поттер і напівкровний принц",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 428
-        }
-    },
-    "X7Ou-CEWZq": {
-        "id": "X7Ou-CEWZq",
-        "title": "Возвращение со звезд",
-        "author": "Лем Станислав",
-        "notes": "http://loveread.ec/view_global.php?id=21720",
-        "createdAt": "2023-11-03 20:45:22",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 402
         }
     }
 }
