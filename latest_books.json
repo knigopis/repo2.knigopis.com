@@ -1,4 +1,16 @@
 {
+    "K0zMKevd4d": {
+        "id": "K0zMKevd4d",
+        "title": "Тень ворона",
+        "author": "",
+        "notes": "",
+        "createdAt": "2023-12-01 11:38:15",
+        "user": {
+            "id": "3848610264283409624-mailru",
+            "nickname": "MAS",
+            "booksCount": 1
+        }
+    },
     "lZNAy79es6": {
         "id": "lZNAy79es6",
         "title": "Клуб бездомных мечтателей",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 226
-        }
-    },
-    "K5SRPtxwvs": {
-        "id": "K5SRPtxwvs",
-        "title": "Последние свидетели. Соло для детского голоса.",
-        "author": "Светлана Александровна Алексиевич",
-        "notes": "",
-        "createdAt": "2023-11-05 22:21:21",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 225
         }
     }
 }
