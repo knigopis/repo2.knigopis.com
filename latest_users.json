@@ -1,4 +1,10 @@
 {
+    "3848610264283409624-mailru": {
+        "id": "3848610264283409624-mailru",
+        "nickname": "MAS",
+        "booksCount": 0,
+        "updatedAt": "2023-12-01 11:37:20"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": "StFox",
         "booksCount": 2,
         "updatedAt": "2023-09-12 06:43:33"
-    },
-    "111120684537115120803-google": {
-        "id": "111120684537115120803-google",
-        "nickname": "supvobed",
-        "booksCount": 1,
-        "updatedAt": "2023-09-09 11:49:51"
     }
 }
