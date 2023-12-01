@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Клуб бездомных мечтателей ~ [Вит](users/300/300273923-vkontakte)<sup>136</sup>
+    > Слабовато. Особенно концовка. И как-то не раскрыт смысл, что ли.
+
 * Послемрак ~ [Вит](users/300/300273923-vkontakte)<sup>135</sup>
     > Такое себе. Ни о чем.
     > Лишнее доказательство переоценённости автора.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Понравилось!
 
 * Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>407</sup>
-    > https://knizhka.org/neotsortirovannoe/18894-antikvarnaya-kniga-ot-a-do-ya-ili-posobie-dlya-kollekcionerov-i-antikvarov-a-takzhe-dlya-vsex-lyubitelej-starinnyx-knig.html#comment
 
 * Обручальные цепи или охота на дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>406</sup>
 
@@ -27,16 +29,14 @@ Do not use pull requests to make changes here.
 
 * Возвращение со звезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>402</sup>
 
-* Процес ~ [mfevralev](users/140/140966150-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>136</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>184</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>135</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>407</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>67</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [supvobed](users/111/111120684537115120803-google)<sup>1</sup> 
 
 
-_28.11.2023 20:24:28_
+_01.12.2023 06:19:01_

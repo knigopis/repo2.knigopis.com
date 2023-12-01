@@ -1,4 +1,16 @@
 {
+    "lZNAy79es6": {
+        "id": "lZNAy79es6",
+        "title": "Клуб бездомных мечтателей",
+        "author": "Лиз Мюррей",
+        "notes": "Слабовато. Особенно концовка. И как-то не раскрыт смысл, что ли.",
+        "createdAt": "2023-12-01 06:19:01",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 136
+        }
+    },
     "KpKxdu2jxg": {
         "id": "KpKxdu2jxg",
         "title": "Гаррі Поттер і смертельні реліквії",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 225
-        }
-    },
-    "LtF1XiBhSd": {
-        "id": "LtF1XiBhSd",
-        "title": "В ожидании варваров",
-        "author": "Джозеф Кутзее",
-        "notes": "",
-        "createdAt": "2023-11-04 00:29:56",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 428
         }
     }
 }

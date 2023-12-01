@@ -1,4 +1,16 @@
 {
+    "lZNAy79es6": {
+        "id": "lZNAy79es6",
+        "title": "Клуб бездомных мечтателей",
+        "author": "Лиз Мюррей",
+        "notes": "Слабовато. Особенно концовка. И как-то не раскрыт смысл, что ли.",
+        "createdAt": "2023-12-01 06:19:01",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 136
+        }
+    },
     "fm6fFU3BFH": {
         "id": "fm6fFU3BFH",
         "title": "Послемрак",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 394
-        }
-    },
-    "4-uQjcdj91": {
-        "id": "4-uQjcdj91",
-        "title": "Парень из преисподней",
-        "author": "Стругацкие",
-        "notes": "http://loveread.ec/read_book.php?id=63349&p=1",
-        "createdAt": "2023-09-25 16:39:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 393
         }
     }
 }
