@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>407</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>408</sup>
 ---
 
 ## 2023
+
+### Граф Аверин
+Дашкевич Виктор
+> [2023-12-03] https://readli.net/graf-averin-koldun-rossiyskoy-imperii/
+
 
 ### Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг
 Дружинин Петр
