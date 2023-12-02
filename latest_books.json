@@ -1,4 +1,16 @@
 {
+    "TGVMjv-eUf": {
+        "id": "TGVMjv-eUf",
+        "title": "Божественная комедия",
+        "author": "Данте Алигьери",
+        "notes": "",
+        "createdAt": "2023-12-02 22:18:14",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 139
+        }
+    },
     "tesKcT6gpG": {
         "id": "tesKcT6gpG",
         "title": "Угрюм-река",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 129
-        }
-    },
-    "SftjSl1ofy": {
-        "id": "SftjSl1ofy",
-        "title": "Все будет хорошо",
-        "author": "Звездная Елена",
-        "notes": "https://flibusta.su/book/155907-vse-budet-horosho/read/",
-        "createdAt": "2023-11-15 17:33:39",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 403
         }
     }
 }
