@@ -5,7 +5,8 @@
 
 ### Граф Аверин
 Дашкевич Виктор
-> [2023-12-03] https://readli.net/graf-averin-koldun-rossiyskoy-imperii/
+> [2023-12-03] https://loveread.info/books/nauchnaya-fantastika/197375-graf-averin-koldun-rossiiskoi-imperii-si-viktor.html
+> https://readli.net/graf-averin-koldun-rossiyskoy-imperii/
 
 
 ### Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг
