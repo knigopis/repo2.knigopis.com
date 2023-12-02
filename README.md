@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>137</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>138</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>408</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>1</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 
 
-_02.12.2023 14:10:20_
+_02.12.2023 14:12:36_
