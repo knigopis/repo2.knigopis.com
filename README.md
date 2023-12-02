@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бабушка велела кланяться и передает, что просит прощения ~ [Вит](users/300/300273923-vkontakte)<sup>137</sup>
+    > Бросил.
+    > Ну очень уж наивное детское чтиво.
+    > Или просто наивное, или просто детское.
+
 * Граф Аверин ~ [Chiffi](users/105/105831994080785626680-google)<sup>408</sup>
     > https://readli.net/graf-averin-koldun-rossiyskoy-imperii/
 
@@ -12,8 +17,6 @@ Do not use pull requests to make changes here.
     > Слабовато. Особенно концовка. И как-то не раскрыт смысл, что ли.
 
 * Послемрак ~ [Вит](users/300/300273923-vkontakte)<sup>135</sup>
-    > Такое себе. Ни о чем.
-    > Лишнее доказательство переоценённости автора.
 
 * Дом на краю ночи ~ [Вит](users/300/300273923-vkontakte)<sup>134</sup>
 
@@ -27,16 +30,14 @@ Do not use pull requests to make changes here.
 
 * Все будет хорошо ~ [Chiffi](users/105/105831994080785626680-google)<sup>403</sup>
 
-* Платье цвета ночи ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>137</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>408</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>1</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>136</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>184</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 
 
-_01.12.2023 20:59:03_
+_02.12.2023 14:10:20_
