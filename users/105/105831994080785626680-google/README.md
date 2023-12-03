@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>408</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>409</sup>
 ---
 
 ## 2023
+
+### Императорский див
+Дашкевич Виктор
+> [2023-12-05] https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html
+
 
 ### Граф Аверин
 Дашкевич Виктор

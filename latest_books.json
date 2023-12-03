@@ -1,4 +1,16 @@
 {
+    "YSZWck1Bpo": {
+        "id": "YSZWck1Bpo",
+        "title": "Императорский див",
+        "author": "Дашкевич Виктор",
+        "notes": "https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html",
+        "createdAt": "2023-12-03 15:05:42",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 409
+        }
+    },
     "bKUiAI9ahK": {
         "id": "bKUiAI9ahK",
         "title": "Бронепароходы",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 131
-        }
-    },
-    "sowaJNuSMr": {
-        "id": "sowaJNuSMr",
-        "title": "Возвращение",
-        "author": "Ремарк Эрих Мария",
-        "notes": "",
-        "createdAt": "2023-11-16 06:29:02",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 130
         }
     }
 }
