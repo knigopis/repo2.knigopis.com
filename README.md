@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>185</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>139</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>408</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>1</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>184</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>67</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [StFox](users/108/10824953-yandex)<sup>2</sup> 
 
 
-_02.12.2023 22:18:14_
+_03.12.2023 00:15:04_
