@@ -3,9 +3,9 @@
 
 ## 2023
 
-### Императорский див
+### Императорский див. Граф Аверин2
 Дашкевич Виктор
-> [2023-12-05] https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html
+> [2023-12-03] https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html
 
 
 ### Граф Аверин
