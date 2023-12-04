@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
+[a92340oa](users/104/104805486598372775238-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>409</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>185</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>139</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 
 
-_04.12.2023 19:39:31_
+_04.12.2023 19:39:55_

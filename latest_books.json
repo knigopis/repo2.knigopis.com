@@ -1,4 +1,16 @@
 {
+    "zyZ-GAaBm1": {
+        "id": "zyZ-GAaBm1",
+        "title": "Введение в философию права",
+        "author": "Роско Паунд",
+        "notes": "",
+        "createdAt": "2023-12-04 19:39:55",
+        "user": {
+            "id": "104805486598372775238-google",
+            "nickname": "a92340oa",
+            "booksCount": 1
+        }
+    },
     "YSZWck1Bpo": {
         "id": "YSZWck1Bpo",
         "title": "Императорский див",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 132
-        }
-    },
-    "y5jnCbROUi": {
-        "id": "y5jnCbROUi",
-        "title": "Процесс",
-        "author": "Кафка Франц",
-        "notes": "",
-        "createdAt": "2023-11-16 06:30:42",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 131
         }
     }
 }
