@@ -10,7 +10,7 @@
 
 ### Граф Аверин
 Дашкевич Виктор
-> [2023-12-03] https://loveread.info/books/nauchnaya-fantastika/197375-graf-averin-koldun-rossiiskoi-imperii-si-viktor.html
+> [2023-12-02] https://loveread.info/books/nauchnaya-fantastika/197375-graf-averin-koldun-rossiiskoi-imperii-si-viktor.html
 > имперское мышление, ничего не поделаешь. Никто не будет уважать тебя, если ты выглядишь бедняком. И никто не будет уважать государство, если его служащие ютятся в каморках.
 > https://readli.net/graf-averin-koldun-rossiyskoy-imperii/
 
