@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
 * Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
 * Бабушка велела кланяться и передает, что просит прощения ~ [Вит](users/300/300273923-vkontakte)<sup>137</sup>
 * Граф Аверин ~ [Chiffi](users/105/105831994080785626680-google)<sup>408</sup>
@@ -30,7 +31,6 @@
 * Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
 * Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
 * Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
-* Демон: инструкция по эксплуатации ~ [Chiffi](users/105/105831994080785626680-google)<sup>395</sup>
 
 
-_03.12.2023 15:05:42_
+_05.12.2023 20:10:35_

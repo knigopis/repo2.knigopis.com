@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
+    > https://readli.net/koldunya-iz-ugro/#google_vignette
+
 * Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
     > https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Или просто наивное, или просто детское.
 
 * Граф Аверин ~ [Chiffi](users/105/105831994080785626680-google)<sup>408</sup>
-    > https://readli.net/graf-averin-koldun-rossiyskoy-imperii/
 
 * Клуб бездомных мечтателей ~ [Вит](users/300/300273923-vkontakte)<sup>136</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Брак. Взаимовыгодный ~ [Chiffi](users/105/105831994080785626680-google)<sup>405</sup>
 
-* Операция Фея ~ [Chiffi](users/105/105831994080785626680-google)<sup>404</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>410</sup> 
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>409</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>185</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>139</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_05.12.2023 15:57:23_
+_05.12.2023 20:10:35_
