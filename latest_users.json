@@ -1,4 +1,10 @@
 {
+    "116467737249031140129-google": {
+        "id": "116467737249031140129-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2023-12-05 15:57:23"
+    },
     "3848610264283409624-mailru": {
         "id": "3848610264283409624-mailru",
         "nickname": "MAS",
@@ -172,11 +178,5 @@
         "nickname": "aktoty",
         "booksCount": 94,
         "updatedAt": "2023-09-19 20:16:24"
-    },
-    "116727437007720956503-google": {
-        "id": "116727437007720956503-google",
-        "nickname": "talia_gonch",
-        "booksCount": 0,
-        "updatedAt": "2023-09-12 21:20:07"
     }
 }
