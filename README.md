@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>409</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
 [](users/101/101368518035734751027-google)<sup>10</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
-[talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 
 
-_05.12.2023 06:06:57_
+_05.12.2023 15:57:23_
