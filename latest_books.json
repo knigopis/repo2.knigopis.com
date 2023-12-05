@@ -1,4 +1,16 @@
 {
+    "2-aXtq8QLw": {
+        "id": "2-aXtq8QLw",
+        "title": "Контролер 1. На пороге",
+        "author": "Юрий Никитин",
+        "notes": "",
+        "createdAt": "2023-12-05 06:06:57",
+        "user": {
+            "id": "3848610264283409624-mailru",
+            "nickname": "MAS",
+            "booksCount": 2
+        }
+    },
     "zyZ-GAaBm1": {
         "id": "zyZ-GAaBm1",
         "title": "Введение в философию права",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 133
-        }
-    },
-    "oM0rLaMFWi": {
-        "id": "oM0rLaMFWi",
-        "title": "Гамлет",
-        "author": "Шекспир Уильям",
-        "notes": "",
-        "createdAt": "2023-11-16 07:37:57",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 132
         }
     }
 }

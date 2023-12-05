@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>409</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>185</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>139</sup> 
-[MAS](users/384/3848610264283409624-mailru)<sup>1</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>67</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [talia_gonch](users/116/116727437007720956503-google)<sup>0</sup> 
 
 
-_04.12.2023 19:41:37_
+_05.12.2023 06:06:57_
