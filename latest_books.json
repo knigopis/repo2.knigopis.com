@@ -1,4 +1,16 @@
 {
+    "lX_8yEVIg1": {
+        "id": "lX_8yEVIg1",
+        "title": "Поп Гапон и японские винтовки",
+        "author": "А. Аксёнов",
+        "notes": "",
+        "createdAt": "2023-12-07 22:07:33",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 186
+        }
+    },
     "TSgys-F2n9": {
         "id": "TSgys-F2n9",
         "title": "Колдунья из угро",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 405
-        }
-    },
-    "Mbws3ntFbz": {
-        "id": "Mbws3ntFbz",
-        "title": "Операция Фея",
-        "author": "Звездная Елена",
-        "notes": "https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html",
-        "createdAt": "2023-11-19 09:51:50",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 404
         }
     }
 }
