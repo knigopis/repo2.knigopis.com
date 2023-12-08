@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
 * Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
 * Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
 * Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
@@ -30,7 +31,6 @@
 * Обида на мужчин. Как невысказанные эмоции влияют на женское здоровье. ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup>
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
 * Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
-* Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
 
 
-_08.12.2023 19:00:29_
+_08.12.2023 23:54:53_

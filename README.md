@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
+    > Деревня Распадок, блогеры снимающие похоронные традиции, превращение Анки в богиню". Концовка слита.
+
 * Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
     > Незамысловатый сюжет.
     > Но хорошая передача.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/koldunya-iz-ugro/#google_vignette
 
 * Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
-    > https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html
 
 * Бабушка велела кланяться и передает, что просит прощения ~ [Вит](users/300/300273923-vkontakte)<sup>137</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>407</sup>
 
-* Обручальные цепи или охота на дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>406</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>140</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>186</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>410</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>226</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>428</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>282</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>357</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 [leo](users/106/106915386474260202605-google)<sup>22</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_08.12.2023 19:00:29_
+_08.12.2023 23:54:53_
