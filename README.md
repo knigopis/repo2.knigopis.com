@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
+    > Незамысловатый сюжет.
+    > Но хорошая передача.
+    > Концовка странная. Эти эротические сцены лишние
+
 * Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
     > https://readli.net/koldunya-iz-ugro/#google_vignette
 
@@ -12,9 +17,6 @@ Do not use pull requests to make changes here.
     > https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html
 
 * Бабушка велела кланяться и передает, что просит прощения ~ [Вит](users/300/300273923-vkontakte)<sup>137</sup>
-    > Бросил.
-    > Ну очень уж наивное детское чтиво.
-    > Или просто наивное, или просто детское.
 
 * Граф Аверин ~ [Chiffi](users/105/105831994080785626680-google)<sup>408</sup>
 
@@ -28,19 +30,17 @@ Do not use pull requests to make changes here.
 
 * Обручальные цепи или охота на дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>406</sup>
 
-* Брак. Взаимовыгодный ~ [Chiffi](users/105/105831994080785626680-google)<sup>405</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>140</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>186</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>410</sup> 
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>139</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>67</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_07.12.2023 22:07:33_
+_08.12.2023 19:00:29_

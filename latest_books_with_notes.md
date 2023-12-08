@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
 * Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
 * Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
 * Бабушка велела кланяться и передает, что просит прощения ~ [Вит](users/300/300273923-vkontakte)<sup>137</sup>
@@ -30,7 +31,6 @@
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
 * Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
 * Маленькие женщины ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>119</sup>
-* Недостойная ~ [Chiffi](users/105/105831994080785626680-google)<sup>396</sup>
 
 
-_05.12.2023 20:10:35_
+_08.12.2023 19:00:29_
