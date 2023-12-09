@@ -1,4 +1,16 @@
 {
+    "X7q310eMwQ": {
+        "id": "X7q310eMwQ",
+        "title": "Памяти Каталонии",
+        "author": "Джордж Оруэлл",
+        "notes": "Не дочитал.\nНудноватый роман. Много погружения в политику Испании периода 2 мировой. Кому-то понравится.",
+        "createdAt": "2023-12-09 19:38:32",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 141
+        }
+    },
     "HzCb_t7EF-": {
         "id": "HzCb_t7EF-",
         "title": "Пришлая 2. Судья и палач",
@@ -345,18 +357,6 @@
             "id": "6069210-vkontakte",
             "nickname": "dobrova_nails",
             "booksCount": 2
-        }
-    },
-    "WaMTSjbEaO": {
-        "id": "WaMTSjbEaO",
-        "title": "Тьма императора",
-        "author": "Шнайдер Анна",
-        "notes": "https://loveread.info/books/fentezi/123740-anna-shnaider-tma-imperatora.html",
-        "createdAt": "2023-10-07 09:22:47",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 398
         }
     }
 }

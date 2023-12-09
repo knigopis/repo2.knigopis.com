@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Памяти Каталонии ~ [Вит](users/300/300273923-vkontakte)<sup>141</sup>
+    > Не дочитал.
+    > Нудноватый роман. Много погружения в политику Испании периода 2 мировой. Кому-то понравится.
+
 * Пришлая 2. Судья и палач ~ [Chiffi](users/105/105831994080785626680-google)<sup>411</sup>
     > https://readli.net/sudya-i-palach-3/
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > В начале сюжет протекает как в не самом лучшем женском ровмане, но написано интересно, желанее бросить не возникло. И не зря - дальше интереснее.
 
 * Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
-    > Не дочитала
 
 * Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
 
@@ -26,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Граф Аверин ~ [Chiffi](users/105/105831994080785626680-google)<sup>408</sup>
 
-* Клуб бездомных мечтателей ~ [Вит](users/300/300273923-vkontakte)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>141</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>411</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>361</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>140</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>186</sup> 
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_09.12.2023 14:46:45_
+_09.12.2023 19:38:32_

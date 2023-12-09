@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Памяти Каталонии ~ [Вит](users/300/300273923-vkontakte)<sup>141</sup>
 * Пришлая 2. Судья и палач ~ [Chiffi](users/105/105831994080785626680-google)<sup>411</sup>
 * Ребекка ~ [Garka](users/115/115753719718250012620-google)<sup>360</sup>
 * Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
@@ -30,7 +31,6 @@
 * Двуликие. Клетка для наследника ~ [Chiffi](users/105/105831994080785626680-google)<sup>399</sup>
 * Что я делала, пока вы рожали детей ~ [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup>
 * Что я делала, пока вы рожали детей ~ [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup>
-* Тьма императора ~ [Chiffi](users/105/105831994080785626680-google)<sup>398</sup>
 
 
-_09.12.2023 14:46:45_
+_09.12.2023 19:38:32_
