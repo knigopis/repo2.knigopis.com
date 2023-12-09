@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 43,
+        "updatedAt": "2023-12-09 20:18:25"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -70,12 +76,6 @@
         "nickname": "Александр Сирица",
         "booksCount": 0,
         "updatedAt": "2023-11-20 11:41:43"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 42,
-        "updatedAt": "2023-11-19 22:26:15"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",

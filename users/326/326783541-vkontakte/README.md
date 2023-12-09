@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>42</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>43</sup>
 ---
 
 ## 2023
+
+### Тёмный лес
+Лю Цисинь
+> [2023-12-09] 
+
 
 ### Задача трех тел
 Лю Цисинь
