@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>358</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>359</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>140</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>186</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_09.12.2023 14:21:18_
+_09.12.2023 14:21:51_

@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>358</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>359</sup>
 ---
 
 ## 2023
+
+### Краткая история биологии
+Азимов, Айзек
+> [2023-11-02] 
+
 
 ### Харрис, Джоанн
 Евангелие от Локи
