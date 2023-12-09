@@ -1,4 +1,16 @@
 {
+    "7fiNJQkusk": {
+        "id": "7fiNJQkusk",
+        "title": "Ребекка",
+        "author": "дю Морье Дафна",
+        "notes": "В начале сюжет протекает как в не самом лучшем женском ровмане, но написано интересно, желанее бросить не возникло. И не зря - дальше интереснее.",
+        "createdAt": "2023-12-09 14:23:52",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 360
+        }
+    },
     "Xig83XD803": {
         "id": "Xig83XD803",
         "title": "Харрис, Джоанн",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 218
-        }
-    },
-    "sJ0CPN8AMk": {
-        "id": "sJ0CPN8AMk",
-        "title": "Осенние цветы",
-        "author": "Шнайдер Анна",
-        "notes": "https://loveread.info/books/fentezi/155741-anna-shnaider-osennie-cvety.html",
-        "createdAt": "2023-10-06 12:37:46",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 397
         }
     }
 }
