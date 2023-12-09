@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>360</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>361</sup>
 ---
 
 ## 2023
+
+### Фата-Моргана 2
+Сборник
+> [2023-12-09] 
+
 
 ### Ребекка
 дю Морье Дафна
