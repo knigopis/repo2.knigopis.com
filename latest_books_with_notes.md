@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
 * Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
 * Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
 * Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
@@ -30,7 +31,6 @@
 * Тьма императора ~ [Chiffi](users/105/105831994080785626680-google)<sup>398</sup>
 * Обида на мужчин. Как невысказанные эмоции влияют на женское здоровье. ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>218</sup>
 * Осенние цветы ~ [Chiffi](users/105/105831994080785626680-google)<sup>397</sup>
-* Building Microservices: Designing Fine-Grained Systems ~ [rNix](users/227/22742452-yandex)<sup>75</sup>
 
 
-_08.12.2023 23:54:53_
+_09.12.2023 14:21:18_

@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>357</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>358</sup>
 ---
 
 ## 2023
+
+### Харрис, Джоанн
+Евангелие от Локи
+> [2023-10-27] Не дочитала
+
 
 ### Основание и Земля
 Азимов, Айзек

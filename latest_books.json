@@ -1,4 +1,16 @@
 {
+    "Xig83XD803": {
+        "id": "Xig83XD803",
+        "title": "Харрис, Джоанн",
+        "author": "Евангелие от Локи",
+        "notes": "Не дочитала",
+        "createdAt": "2023-12-09 14:21:18",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 358
+        }
+    },
     "9lBmQnnyCx": {
         "id": "9lBmQnnyCx",
         "title": "Некротур",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 41
-        }
-    },
-    "15RHM2eCwT": {
-        "id": "15RHM2eCwT",
-        "title": "Космобиолухи",
-        "author": "Громыко Ольга",
-        "notes": "",
-        "createdAt": "2023-11-19 22:25:30",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 40
         }
     }
 }
