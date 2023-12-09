@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пришлая 2. Судья и палач ~ [Chiffi](users/105/105831994080785626680-google)<sup>411</sup>
+    > https://readli.net/sudya-i-palach-3/
+
 * Ребекка ~ [Garka](users/115/115753719718250012620-google)<sup>360</sup>
     > В начале сюжет протекает как в не самом лучшем женском ровмане, но написано интересно, желанее бросить не возникло. И не зря - дальше интереснее.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не дочитала
 
 * Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
-    > Деревня Распадок, блогеры снимающие похоронные традиции, превращение Анки в богиню". Концовка слита.
 
 * Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Клуб бездомных мечтателей ~ [Вит](users/300/300273923-vkontakte)<sup>136</sup>
 
-* Послемрак ~ [Вит](users/300/300273923-vkontakte)<sup>135</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>411</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>361</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>140</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>186</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>410</sup> 
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_09.12.2023 14:24:25_
+_09.12.2023 14:46:45_

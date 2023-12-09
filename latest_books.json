@@ -1,4 +1,16 @@
 {
+    "HzCb_t7EF-": {
+        "id": "HzCb_t7EF-",
+        "title": "Пришлая 2. Судья и палач",
+        "author": "Никитина Анастасия",
+        "notes": "https://readli.net/sudya-i-palach-3/",
+        "createdAt": "2023-12-09 14:46:45",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 411
+        }
+    },
     "b_o_eWvFPn": {
         "id": "b_o_eWvFPn",
         "title": "Фата-Моргана 2",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "Evermind",
             "booksCount": 67
-        }
-    },
-    "VnTTRkXRE6": {
-        "id": "VnTTRkXRE6",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Дж. Самюэль Клейсон",
-        "notes": "",
-        "createdAt": "2023-11-21 07:18:52",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "Evermind",
-            "booksCount": 66
         }
     }
 }
