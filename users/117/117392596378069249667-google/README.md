@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>186</sup>
+# List of books read by 4apa<sup>187</sup>
 ---
 
 ## 2023
+
+### Фатерланд
+Р. Харрис
+> [2023-12-13] 
+
 
 ### Поп Гапон и японские винтовки
 А. Аксёнов
