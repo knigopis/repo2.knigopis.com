@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>428</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>429</sup>
 ---
 
 ## 2023
+
+### История российского государства.Том V. Азиатская европеизация. Царь Петр Алексеевич
+Борис Акунин
+> [2023-12-13] 
+
 
 ### В ожидании варваров
 Джозеф Кутзее

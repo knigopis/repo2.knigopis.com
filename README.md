@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>429</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>227</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>43</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>141</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup> 
 [](users/115/115095777313809768381-google)<sup>1</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>428</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 [leo](users/106/106915386474260202605-google)<sup>22</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_09.12.2023 21:32:14_
+_12.12.2023 20:43:17_
