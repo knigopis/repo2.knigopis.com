@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>411</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>412</sup>
 ---
 
 ## 2023
+
+### Пришлая 3. Приговор жить
+Никитина Анастасия
+> [2023-12-14] https://readli.net/prigovor-zhit/
+
 
 ### Пришлая 2. Судья и палач
 Никитина Анастасия

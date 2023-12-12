@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пришлая 3. Приговор жить ~ [Chiffi](users/105/105831994080785626680-google)<sup>412</sup>
+    > https://readli.net/prigovor-zhit/
+
 * Памяти Каталонии ~ [Вит](users/300/300273923-vkontakte)<sup>141</sup>
     > Не дочитал.
     > Нудноватый роман. Много погружения в политику Испании периода 2 мировой. Кому-то понравится.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/sudya-i-palach-3/
 
 * Ребекка ~ [Garka](users/115/115753719718250012620-google)<sup>360</sup>
-    > В начале сюжет протекает как в не самом лучшем женском ровмане, но написано интересно, желанее бросить не возникло. И не зря - дальше интереснее.
 
 * Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
 
@@ -27,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Бабушка велела кланяться и передает, что просит прощения ~ [Вит](users/300/300273923-vkontakte)<sup>137</sup>
 
-* Граф Аверин ~ [Chiffi](users/105/105831994080785626680-google)<sup>408</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>412</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>429</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>227</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>43</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>141</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>411</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>361</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>186</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>94</sup> 
 
 
-_12.12.2023 20:43:17_
+_12.12.2023 21:18:06_

@@ -1,4 +1,16 @@
 {
+    "BDcr5PvHPA": {
+        "id": "BDcr5PvHPA",
+        "title": "Пришлая 3. Приговор жить",
+        "author": "Никитина Анастасия",
+        "notes": "https://readli.net/prigovor-zhit/",
+        "createdAt": "2023-12-12 21:18:06",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 412
+        }
+    },
     "X7q310eMwQ": {
         "id": "X7q310eMwQ",
         "title": "Памяти Каталонии",
@@ -345,18 +357,6 @@
             "id": "2579695-vkontakte",
             "nickname": "albina_untiring",
             "booksCount": 44
-        }
-    },
-    "NdToep8EGn": {
-        "id": "NdToep8EGn",
-        "title": "Что я делала, пока вы рожали детей",
-        "author": "Кристин Ньюман",
-        "notes": "Мне нравится, что книга с хеппиэндом =)",
-        "createdAt": "2023-10-10 18:08:55",
-        "user": {
-            "id": "6069210-vkontakte",
-            "nickname": "dobrova_nails",
-            "booksCount": 2
         }
     }
 }
