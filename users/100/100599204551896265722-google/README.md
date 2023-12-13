@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>228</sup>
+# Список прочитанных книг пользователя exulted<sup>229</sup>
 ---
 
 ## 2023
@@ -11,6 +11,11 @@
 ### The Fourth Phase of Water: Beyond Solid, Liquid, and Vapor
 Gerald H. Pollack
 > [2023-12-05] 
+
+
+### The Brain's Way of Healing
+Norman Doidge
+> [2023-11-29] 
 
 
 ### Годы и войны
