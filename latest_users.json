@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 227,
+        "updatedAt": "2023-12-13 18:36:36"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 10,
         "updatedAt": "2023-09-25 14:05:07"
-    },
-    "275766107-vkontakte": {
-        "id": "275766107-vkontakte",
-        "nickname": "aktoty",
-        "booksCount": 94,
-        "updatedAt": "2023-09-19 20:16:24"
     }
 }
