@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>230</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>229</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>142</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>187</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>412</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/101368518035734751027-google)<sup>10</sup> 
 
 
-_13.12.2023 18:43:04_
+_13.12.2023 18:46:49_
