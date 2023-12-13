@@ -1,4 +1,16 @@
 {
+    "C_C5IKT1wC": {
+        "id": "C_C5IKT1wC",
+        "title": "Secret Commandos. Behind Enemy Lines with the Elite Warriors of SOG",
+        "author": "John L. Plaster",
+        "notes": "",
+        "createdAt": "2023-12-13 18:43:04",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 230
+        }
+    },
     "30x2xjvElG": {
         "id": "30x2xjvElG",
         "title": "The Brain's Way of Healing",
@@ -345,18 +357,6 @@
             "id": "3848610264283409624-mailru",
             "nickname": "MAS",
             "booksCount": 2
-        }
-    },
-    "lZNAy79es6": {
-        "id": "lZNAy79es6",
-        "title": "Клуб бездомных мечтателей",
-        "author": "Лиз Мюррей",
-        "notes": "Слабовато. Особенно концовка. И как-то не раскрыт смысл, что ли.",
-        "createdAt": "2023-12-01 06:19:01",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 136
         }
     }
 }

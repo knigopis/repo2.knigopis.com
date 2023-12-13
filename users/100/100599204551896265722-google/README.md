@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>229</sup>
+# Список прочитанных книг пользователя exulted<sup>230</sup>
 ---
 
 ## 2023
@@ -16,6 +16,11 @@ Gerald H. Pollack
 ### The Brain's Way of Healing
 Norman Doidge
 > [2023-11-29] 
+
+
+### Secret Commandos. Behind Enemy Lines with the Elite Warriors of SOG
+John L. Plaster
+> [2023-11-22] 
 
 
 ### Годы и войны
