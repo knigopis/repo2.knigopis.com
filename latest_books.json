@@ -1,4 +1,16 @@
 {
+    "CqECTHCVJp": {
+        "id": "CqECTHCVJp",
+        "title": "Бесчестье",
+        "author": "Дж. М. Кутзее",
+        "notes": "",
+        "createdAt": "2023-12-15 21:38:13",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 188
+        }
+    },
     "C_C5IKT1wC": {
         "id": "C_C5IKT1wC",
         "title": "Secret Commandos. Behind Enemy Lines with the Elite Warriors of SOG",
@@ -345,18 +357,6 @@
             "id": "3848610264283409624-mailru",
             "nickname": "MAS",
             "booksCount": 1
-        }
-    },
-    "PIG4eaGd2r": {
-        "id": "PIG4eaGd2r",
-        "title": "Тест",
-        "author": "",
-        "notes": "",
-        "createdAt": "2023-12-01 11:42:27",
-        "user": {
-            "id": "3848610264283409624-mailru",
-            "nickname": "MAS",
-            "booksCount": 2
         }
     }
 }
