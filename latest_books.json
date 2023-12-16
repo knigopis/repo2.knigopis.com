@@ -1,4 +1,16 @@
 {
+    "FfqsJy5_Mk": {
+        "id": "FfqsJy5_Mk",
+        "title": "Комедии",
+        "author": "Аристофан",
+        "notes": "",
+        "createdAt": "2023-12-16 20:33:33",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 143
+        }
+    },
     "CqECTHCVJp": {
         "id": "CqECTHCVJp",
         "title": "Бесчестье",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 408
-        }
-    },
-    "2PPr-19hWS": {
-        "id": "2PPr-19hWS",
-        "title": "Тень ворона",
-        "author": "Сергей Орлов",
-        "notes": "",
-        "createdAt": "2023-12-01 11:43:46",
-        "user": {
-            "id": "3848610264283409624-mailru",
-            "nickname": "MAS",
-            "booksCount": 1
         }
     }
 }
