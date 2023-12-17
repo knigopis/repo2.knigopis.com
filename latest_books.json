@@ -1,4 +1,16 @@
 {
+    "pGdjOYnZoO": {
+        "id": "pGdjOYnZoO",
+        "title": "Жизнь на продажу",
+        "author": "Юкио Мисима",
+        "notes": "",
+        "createdAt": "2023-12-17 15:44:14",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 146
+        }
+    },
     "M5F_qr0KP8": {
         "id": "M5F_qr0KP8",
         "title": "Му-му",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 185
-        }
-    },
-    "TGVMjv-eUf": {
-        "id": "TGVMjv-eUf",
-        "title": "Божественная комедия",
-        "author": "Данте Алигьери",
-        "notes": "",
-        "createdAt": "2023-12-02 22:18:14",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 139
         }
     }
 }

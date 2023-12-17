@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>146</sup> 
 [](users/115/115095777313809768381-google)<sup>2</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>145</sup> 
 [](users/150/15053407-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>188</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>229</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
 
 
-_17.12.2023 14:19:40_
+_17.12.2023 15:44:14_
