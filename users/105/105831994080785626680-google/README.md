@@ -5,7 +5,7 @@
 
 ### Пришлая 3. Приговор жить
 Никитина Анастасия
-> [2023-12-14] https://readli.net/prigovor-zhit/
+> [2023-12-18] https://readli.net/prigovor-zhit/
 
 
 ### Пришлая 2. Судья и палач
