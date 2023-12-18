@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Записки кельды ~ [Chiffi](users/105/105831994080785626680-google)<sup>413</sup>
+    > https://readli.net/zapiski-keldyi/
+
 * Пришлая 3. Приговор жить ~ [Chiffi](users/105/105831994080785626680-google)<sup>412</sup>
     > https://readli.net/prigovor-zhit/
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Нудноватый роман. Много погружения в политику Испании периода 2 мировой. Кому-то понравится.
 
 * Пришлая 2. Судья и палач ~ [Chiffi](users/105/105831994080785626680-google)<sup>411</sup>
-    > https://readli.net/sudya-i-palach-3/
 
 * Ребекка ~ [Garka](users/115/115753719718250012620-google)<sup>360</sup>
 
@@ -27,19 +29,17 @@ Do not use pull requests to make changes here.
 
 * Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
 
-* Бабушка велела кланяться и передает, что просит прощения ~ [Вит](users/300/300273923-vkontakte)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>413</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>146</sup> 
 [](users/115/115095777313809768381-google)<sup>2</sup> 
 [](users/150/15053407-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>188</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>229</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>412</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>429</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>227</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>43</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
 
 
-_17.12.2023 15:44:14_
+_18.12.2023 21:52:29_

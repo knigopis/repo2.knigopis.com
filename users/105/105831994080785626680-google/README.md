@@ -1,7 +1,11 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>412</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>413</sup>
 ---
 
 ## 2023
+
+### Записки кельды
+> [2023-12-20] https://readli.net/zapiski-keldyi/
+
 
 ### Пришлая 3. Приговор жить
 Никитина Анастасия
