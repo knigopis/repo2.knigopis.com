@@ -1,4 +1,16 @@
 {
+    "--e0Jmllpm": {
+        "id": "--e0Jmllpm",
+        "title": "Вечная жизнь Смерти",
+        "author": "Лю Цисинь",
+        "notes": "",
+        "createdAt": "2023-12-19 18:01:18",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 44
+        }
+    },
     "OTSl0UyI_U": {
         "id": "OTSl0UyI_U",
         "title": "Катулл",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 186
-        }
-    },
-    "TSgys-F2n9": {
-        "id": "TSgys-F2n9",
-        "title": "Колдунья из угро",
-        "author": "Никитина Анастасия",
-        "notes": "https://readli.net/koldunya-iz-ugro/#google_vignette",
-        "createdAt": "2023-12-05 20:10:35",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 410
         }
     }
 }

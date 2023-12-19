@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>43</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>44</sup>
 ---
 
 ## 2023
+
+### Вечная жизнь Смерти
+Лю Цисинь
+> [2023-12-19] 
+
 
 ### Тёмный лес
 Лю Цисинь
