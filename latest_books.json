@@ -1,4 +1,16 @@
 {
+    "P5EGBf1XbZ": {
+        "id": "P5EGBf1XbZ",
+        "title": "Мысли",
+        "author": "Блез Паскаль",
+        "notes": "",
+        "createdAt": "2023-12-19 07:46:39",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 147
+        }
+    },
     "-il0TWLky7": {
         "id": "-il0TWLky7",
         "title": "Агентство «Можно всё»",
@@ -345,18 +357,6 @@
             "id": "3848610264283409624-mailru",
             "nickname": "MAS",
             "booksCount": 2
-        }
-    },
-    "zyZ-GAaBm1": {
-        "id": "zyZ-GAaBm1",
-        "title": "Введение в философию права",
-        "author": "Роско Паунд",
-        "notes": "",
-        "createdAt": "2023-12-04 19:39:55",
-        "user": {
-            "id": "104805486598372775238-google",
-            "nickname": "a92340oa",
-            "booksCount": 1
         }
     }
 }

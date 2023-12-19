@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>146</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>147</sup>
 ---
 
 ## 2023
+
+### Мысли
+Блез Паскаль
+> [2023-12-19] 
+
 
 ### Жизнь на продажу
 Юкио Мисима
