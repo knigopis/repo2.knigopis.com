@@ -1,4 +1,16 @@
 {
+    "-il0TWLky7": {
+        "id": "-il0TWLky7",
+        "title": "Агентство «Можно всё»",
+        "author": "Стив Симс",
+        "notes": "",
+        "createdAt": "2023-12-19 06:27:43",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "Evermind",
+            "booksCount": 68
+        }
+    },
     "LIDf-25rbT": {
         "id": "LIDf-25rbT",
         "title": "Записки кельды",
@@ -345,18 +357,6 @@
             "id": "104805486598372775238-google",
             "nickname": "a92340oa",
             "booksCount": 1
-        }
-    },
-    "YSZWck1Bpo": {
-        "id": "YSZWck1Bpo",
-        "title": "Императорский див",
-        "author": "Дашкевич Виктор",
-        "notes": "https://loveread.info/books/nauchnaya-fantastika/208094-imperatorskii-div-viktor-flammer-dashkevich.html",
-        "createdAt": "2023-12-03 15:05:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 409
         }
     }
 }

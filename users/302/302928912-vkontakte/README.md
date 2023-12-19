@@ -1,7 +1,12 @@
-# List of books read by Evermind<sup>67</sup>
+# List of books read by Evermind<sup>68</sup>
 ---
 
 ## 2023
+
+### Агентство «Можно всё»
+Стив Симс
+> [2023-12-18] 
+
 
 ### Межзвёздный скиталец
 Джек Лондон
