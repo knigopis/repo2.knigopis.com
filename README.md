@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>147</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>148</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>68</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>413</sup> 
 [](users/115/115095777313809768381-google)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>157</sup> 
 
 
-_19.12.2023 07:46:39_
+_19.12.2023 07:47:11_

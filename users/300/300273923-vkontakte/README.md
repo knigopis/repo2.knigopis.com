@@ -1,7 +1,12 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>147</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>148</sup>
 ---
 
 ## 2023
+
+### Катулл
+Пронин Валентин
+> [2023-12-20] 
+
 
 ### Мысли
 Блез Паскаль

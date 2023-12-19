@@ -1,4 +1,16 @@
 {
+    "OTSl0UyI_U": {
+        "id": "OTSl0UyI_U",
+        "title": "Катулл",
+        "author": "Пронин Валентин",
+        "notes": "",
+        "createdAt": "2023-12-19 07:47:11",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 148
+        }
+    },
     "P5EGBf1XbZ": {
         "id": "P5EGBf1XbZ",
         "title": "Мысли",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 410
-        }
-    },
-    "2-aXtq8QLw": {
-        "id": "2-aXtq8QLw",
-        "title": "Контролер 1. На пороге",
-        "author": "Юрий Никитин",
-        "notes": "",
-        "createdAt": "2023-12-05 06:06:57",
-        "user": {
-            "id": "3848610264283409624-mailru",
-            "nickname": "MAS",
-            "booksCount": 2
         }
     }
 }
