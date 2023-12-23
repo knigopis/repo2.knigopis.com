@@ -4,7 +4,9 @@
 ## 2023
 
 ### Хроники белого ворона 1. Записки кельды
-> [2023-12-20] https://readli.net/zapiski-keldyi/ и часть 2 https://readli.net/zapiski-keldyi-2/
+> [2023-12-20] https://readli.net/zapiski-keldyi/
+> 
+> https://readli.net/vyibor-byit-chelovekom-33/
 
 
 ### Пришлая 3. Приговор жить
