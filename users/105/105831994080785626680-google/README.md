@@ -9,6 +9,7 @@
 > https://readli.net/zapiski-keldyi/
 > 
 > https://readli.net/vyibor-byit-chelovekom-33/
+>  целях воспитания можно использовать не только кнут, но и пряник, если он достаточно чёрствый
 
 
 ### Пришлая 3. Приговор жить
