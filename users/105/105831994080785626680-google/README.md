@@ -4,7 +4,9 @@
 ## 2023
 
 ### Хроники белого ворона 1. Записки кельды
-> [2023-12-20] https://readli.net/zapiski-keldyi/
+Войлошниковы Владимир И Ольга
+> [2023-12-20] https://readli.net/serie/31183/
+> https://readli.net/zapiski-keldyi/
 > 
 > https://readli.net/vyibor-byit-chelovekom-33/
 
