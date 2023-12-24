@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Bynyd](users/114/114466008310968989620-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>228</sup> 
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>75</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
 [P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
-[lucius](users/838/83820536-yandex)<sup>157</sup> 
 
 
-_24.12.2023 12:22:15_
+_24.12.2023 16:32:54_
