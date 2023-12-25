@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Женитьба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>230</sup>
+    > Это просто старый бабий башмак, а не человек, насмешка над человеком, сатира на человека!
+
 * Пастушья корона ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/zapiski-keldyi/
 
 * Пришлая 3. Приговор жить ~ [Chiffi](users/105/105831994080785626680-google)<sup>412</sup>
-    > https://readli.net/prigovor-zhit/
 
 * Памяти Каталонии ~ [Вит](users/300/300273923-vkontakte)<sup>141</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
 
-* Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>230</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>229</sup> 
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
 
 
-_25.12.2023 09:38:23_
+_25.12.2023 19:52:39_
