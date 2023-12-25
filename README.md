@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пастушья корона ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup>
+    > audio
+
 * Записки кельды ~ [Chiffi](users/105/105831994080785626680-google)<sup>413</sup>
     > https://readli.net/zapiski-keldyi/
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/prigovor-zhit/
 
 * Памяти Каталонии ~ [Вит](users/300/300273923-vkontakte)<sup>141</sup>
-    > Не дочитал.
-    > Нудноватый роман. Много погружения в политику Испании периода 2 мировой. Кому-то понравится.
 
 * Пришлая 2. Судья и палач ~ [Chiffi](users/105/105831994080785626680-google)<sup>411</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
 
-* Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>229</sup> 
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 [](users/115/115095777313809768381-google)<sup>3</sup> 
@@ -53,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>123</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 [leo](users/106/106915386474260202605-google)<sup>22</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
 
 
-_25.12.2023 09:03:30_
+_25.12.2023 09:38:23_
