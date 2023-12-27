@@ -1,4 +1,10 @@
 {
+    "110996617505160240010-google": {
+        "id": "110996617505160240010-google",
+        "nickname": "MacKor",
+        "booksCount": 0,
+        "updatedAt": "2023-12-27 03:01:33"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Alexciz",
         "booksCount": 4,
         "updatedAt": "2023-10-04 15:38:15"
-    },
-    "101885615006241630614-google": {
-        "id": "101885615006241630614-google",
-        "nickname": "P.D.A.",
-        "booksCount": 1,
-        "updatedAt": "2023-10-03 06:54:27"
     }
 }
