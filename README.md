@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тэсс из рода д'Эрбервиллей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>126</sup>
+    > audio
+
 * Мидлмарч ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>125</sup>
     > audio
     > Отборное гавно
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Это просто старый бабий башмак, а не человек, насмешка над человеком, сатира на человека!
 
 * Пастушья корона ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup>
-    > audio
 
 * Записки кельды ~ [Chiffi](users/105/105831994080785626680-google)<sup>413</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
 
-* Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>125</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>126</sup> 
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>230</sup> 
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
 
 
-_27.12.2023 04:00:25_
+_27.12.2023 04:07:14_
