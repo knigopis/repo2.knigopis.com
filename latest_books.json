@@ -1,4 +1,16 @@
 {
+    "V5UP8IaaVJ": {
+        "id": "V5UP8IaaVJ",
+        "title": "Американская ржавчина",
+        "author": "Филипп Майер",
+        "notes": "",
+        "createdAt": "2023-12-27 11:14:36",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 149
+        }
+    },
     "ShQ-CnAKqN": {
         "id": "ShQ-CnAKqN",
         "title": "Тэсс из рода д'Эрбервиллей",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 429
-        }
-    },
-    "Q6OM_8fqbs": {
-        "id": "Q6OM_8fqbs",
-        "title": "Ярмарка тщеславия",
-        "author": "Уильям Мейкпис Теккерей",
-        "notes": "",
-        "createdAt": "2023-12-09 21:32:14",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 227
         }
     }
 }
