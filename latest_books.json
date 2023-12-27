@@ -1,4 +1,16 @@
 {
+    "kjdOejWTSF": {
+        "id": "kjdOejWTSF",
+        "title": "Энеида",
+        "author": "Вергилий",
+        "notes": "",
+        "createdAt": "2023-12-27 11:15:21",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 150
+        }
+    },
     "V5UP8IaaVJ": {
         "id": "V5UP8IaaVJ",
         "title": "Американская ржавчина",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 412
-        }
-    },
-    "FizbUscuox": {
-        "id": "FizbUscuox",
-        "title": "История российского государства.Том V. Азиатская европеизация. Царь Петр Алексеевич",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2023-12-12 20:43:17",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 429
         }
     }
 }
