@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MacKor](users/110/110996617505160240010-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>230</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup> 
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112239748706900948406-google)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>75</sup> 
 [Alexciz](users/104/104402554069177138887-google)<sup>4</sup> 
-[P.D.A.](users/101/101885615006241630614-google)<sup>1</sup> 
 
 
-_25.12.2023 19:52:39_
+_27.12.2023 03:01:34_
