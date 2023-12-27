@@ -1,4 +1,16 @@
 {
+    "u35cxqdGYU": {
+        "id": "u35cxqdGYU",
+        "title": "Кодекс Охотника 15",
+        "author": "Юрий Винокуров, Олег Сапфир",
+        "notes": "",
+        "createdAt": "2023-12-27 03:02:23",
+        "user": {
+            "id": "110996617505160240010-google",
+            "nickname": "MacKor",
+            "booksCount": 1
+        }
+    },
     "7qhaxiwVMU": {
         "id": "7qhaxiwVMU",
         "title": "Женитьба",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 141
-        }
-    },
-    "HzCb_t7EF-": {
-        "id": "HzCb_t7EF-",
-        "title": "Пришлая 2. Судья и палач",
-        "author": "Никитина Анастасия",
-        "notes": "https://readli.net/sudya-i-palach-3/",
-        "createdAt": "2023-12-09 14:46:45",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 411
         }
     }
 }
