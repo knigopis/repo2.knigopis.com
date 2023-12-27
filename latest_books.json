@@ -1,4 +1,16 @@
 {
+    "SBzDQmnypj": {
+        "id": "SBzDQmnypj",
+        "title": "Невыносимая лёгкость бытия",
+        "author": "Милан Кундера",
+        "notes": "",
+        "createdAt": "2023-12-27 20:34:26",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 430
+        }
+    },
     "kjdOejWTSF": {
         "id": "kjdOejWTSF",
         "title": "Энеида",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 187
-        }
-    },
-    "BDcr5PvHPA": {
-        "id": "BDcr5PvHPA",
-        "title": "Пришлая 3. Приговор жить",
-        "author": "Никитина Анастасия",
-        "notes": "https://readli.net/prigovor-zhit/",
-        "createdAt": "2023-12-12 21:18:06",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 412
         }
     }
 }

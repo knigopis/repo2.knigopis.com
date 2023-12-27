@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>429</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>430</sup>
 ---
 
 ## 2023
+
+### Невыносимая лёгкость бытия
+Милан Кундера
+> [2023-12-27] 
+
 
 ### История российского государства.Том V. Азиатская европеизация. Царь Петр Алексеевич
 Борис Акунин
