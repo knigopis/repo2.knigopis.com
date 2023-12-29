@@ -1,4 +1,16 @@
 {
+    "WYxO6vR2kw": {
+        "id": "WYxO6vR2kw",
+        "title": "Джен Эйр",
+        "author": "Бронте Шарлотта",
+        "notes": "",
+        "createdAt": "2023-12-29 13:11:05",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 362
+        }
+    },
     "ofXtq0nEv0": {
         "id": "ofXtq0nEv0",
         "title": "Петронелла",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 227
-        }
-    },
-    "eeacAtdCf9": {
-        "id": "eeacAtdCf9",
-        "title": "Памятник крестоносцу",
-        "author": "Арчибальд Кронин",
-        "notes": "",
-        "createdAt": "2023-12-13 16:06:46",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 142
         }
     }
 }
