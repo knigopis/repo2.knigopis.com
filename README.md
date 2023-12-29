@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>362</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>363</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>430</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>150</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>75</sup> 
 
 
-_29.12.2023 13:11:05_
+_29.12.2023 13:11:12_
