@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не все нас попадают ~ [Chiffi](users/105/105831994080785626680-google)<sup>414</sup>
+    > https://readli.net/serie/30575/
+
 * Тэсс из рода д'Эрбервиллей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>126</sup>
     > audio
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Отборное гавно
 
 * Женитьба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>230</sup>
-    > Это просто старый бабий башмак, а не человек, насмешка над человеком, сатира на человека!
 
 * Пастушья корона ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Ребекка ~ [Garka](users/115/115753719718250012620-google)<sup>360</sup>
 
-* Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>414</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>364</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>430</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>68</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>413</sup> 
 [](users/150/15053407-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>188</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>229</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>75</sup> 
 
 
-_29.12.2023 13:11:59_
+_30.12.2023 15:21:56_

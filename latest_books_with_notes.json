@@ -1,4 +1,16 @@
 {
+    "Pjbt9P6XCm": {
+        "id": "Pjbt9P6XCm",
+        "title": "Не все нас попадают",
+        "author": "",
+        "notes": "https://readli.net/serie/30575/",
+        "createdAt": "2023-12-30 15:21:56",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 414
+        }
+    },
     "ShQ-CnAKqN": {
         "id": "ShQ-CnAKqN",
         "title": "Тэсс из рода д'Эрбервиллей",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 357
-        }
-    },
-    "gOHUT0LcIy": {
-        "id": "gOHUT0LcIy",
-        "title": "Альгана. След паука",
-        "author": "Шнайдер Анна",
-        "notes": "http://loveread.ec/view_global.php?id=99451",
-        "createdAt": "2023-10-16 20:05:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 401
         }
     }
 }
