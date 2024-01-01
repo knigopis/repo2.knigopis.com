@@ -1,5 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>414</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>415</sup>
 ---
+
+## 2024
+
+### Кикимора для хама
+Малышкина Яна
+> [2024-01-01] Милая, смешная пустяшка  https://litnet.com/book/kikimora-dlya-hama-b94805?utm_medium=repost&utm_campaign=94805&utm_term=0&utm_source=native
+
+
 
 ## 2023
 
