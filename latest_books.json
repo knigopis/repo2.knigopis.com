@@ -1,4 +1,16 @@
 {
+    "qV5EjOYiph": {
+        "id": "qV5EjOYiph",
+        "title": "Маленькая жизнь",
+        "author": "Ханья Янагихара",
+        "notes": "",
+        "createdAt": "2024-01-02 20:40:00",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 151
+        }
+    },
     "5FhIiRrvui": {
         "id": "5FhIiRrvui",
         "title": "Икона DOOM",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 144
-        }
-    },
-    "FfqsJy5_Mk": {
-        "id": "FfqsJy5_Mk",
-        "title": "Комедии",
-        "author": "Аристофан",
-        "notes": "",
-        "createdAt": "2023-12-16 20:33:33",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 143
         }
     }
 }

@@ -1,5 +1,13 @@
-# List of books read by [Вит](http://vk.com/id300273923)<sup>150</sup>
+# List of books read by [Вит](http://vk.com/id300273923)<sup>151</sup>
 ---
+
+## 2024
+
+### Маленькая жизнь
+Ханья Янагихара
+> [2024-01] 
+
+
 
 ## 2023
 
