@@ -1,4 +1,10 @@
 {
+    "117840259784706659154-google": {
+        "id": "117840259784706659154-google",
+        "nickname": "lpetrov",
+        "booksCount": 0,
+        "updatedAt": "2024-01-02 11:46:32"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-10-07 11:00:22"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 75,
-        "updatedAt": "2023-10-05 09:22:01"
     }
 }
