@@ -1,4 +1,16 @@
 {
+    "5FhIiRrvui": {
+        "id": "5FhIiRrvui",
+        "title": "Икона DOOM",
+        "author": "Джон Ромеро",
+        "notes": "",
+        "createdAt": "2024-01-02 11:47:29",
+        "user": {
+            "id": "117840259784706659154-google",
+            "nickname": "lpetrov",
+            "booksCount": 1
+        }
+    },
     "Sgxji7Vwyo": {
         "id": "Sgxji7Vwyo",
         "title": "Кикимора для хама",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 143
-        }
-    },
-    "CqECTHCVJp": {
-        "id": "CqECTHCVJp",
-        "title": "Бесчестье",
-        "author": "Дж. М. Кутзее",
-        "notes": "",
-        "createdAt": "2023-12-15 21:38:13",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 188
         }
     }
 }
