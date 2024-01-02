@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lpetrov](users/117/117840259784706659154-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>415</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>364</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
 [](users/112/112239748706900948406-google)<sup>0</sup> 
-[rNix](users/227/22742452-yandex)<sup>75</sup> 
 
 
-_01.01.2024 11:35:32_
+_02.01.2024 11:46:33_
