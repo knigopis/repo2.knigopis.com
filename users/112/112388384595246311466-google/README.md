@@ -1,5 +1,13 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>230</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>231</sup>
 ---
+
+## 2024
+
+### Вверх по лестнице, ведущей вниз
+Бел Кауфман
+> [2024-01-03] 
+
+
 
 ## 2023
 
