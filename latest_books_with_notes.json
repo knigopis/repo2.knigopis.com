@@ -1,4 +1,16 @@
 {
+    "HvwN6V_eKU": {
+        "id": "HvwN6V_eKU",
+        "title": "Второй шанс. Книга вторая",
+        "author": "Звёздная Елена",
+        "notes": "https://readli.net/chitat-online/?b=1251442&pg=1",
+        "createdAt": "2024-01-05 22:26:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 417
+        }
+    },
     "jT2dh94OJw": {
         "id": "jT2dh94OJw",
         "title": "Жених или невеста",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 402
-        }
-    },
-    "-OM9F8H8wm": {
-        "id": "-OM9F8H8wm",
-        "title": "Процес",
-        "author": "Франц Кафка",
-        "notes": "Хрень",
-        "createdAt": "2023-10-31 09:15:25",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 64
         }
     }
 }

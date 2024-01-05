@@ -1,4 +1,16 @@
 {
+    "HvwN6V_eKU": {
+        "id": "HvwN6V_eKU",
+        "title": "Второй шанс. Книга вторая",
+        "author": "Звёздная Елена",
+        "notes": "https://readli.net/chitat-online/?b=1251442&pg=1",
+        "createdAt": "2024-01-05 22:26:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 417
+        }
+    },
     "jT2dh94OJw": {
         "id": "jT2dh94OJw",
         "title": "Жених или невеста",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 146
-        }
-    },
-    "M5F_qr0KP8": {
-        "id": "M5F_qr0KP8",
-        "title": "Му-му",
-        "author": "Иван Тургенев",
-        "notes": "",
-        "createdAt": "2023-12-17 14:19:40",
-        "user": {
-            "id": "115095777313809768381-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
