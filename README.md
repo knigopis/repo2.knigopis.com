@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>417</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>416</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>231</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>151</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112239748706900948406-google)<sup>0</sup> 
 
 
-_05.01.2024 22:17:35_
+_05.01.2024 22:17:51_
