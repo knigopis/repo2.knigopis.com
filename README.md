@@ -5,9 +5,8 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Жених или невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>416</sup>
-    > Милая добрая сказки с элементами детектива 
-    > https://litnet.com/ru/reader/zhenih-ili-nevesta-b78977?c=646656&p=1
+* Жених или невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
+    > https://litnet.com/book/zhenih-ili-nevesta-b78977?utm_medium=repost&utm_campaign=78977&utm_term=0&utm_source=native
 
 * Кикимора для хама ~ [Chiffi](users/105/105831994080785626680-google)<sup>415</sup>
     > Милая, смешная пустяшка  https://litnet.com/book/kikimora-dlya-hama-b94805?utm_medium=repost&utm_campaign=94805&utm_term=0&utm_source=native
@@ -34,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>416</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>417</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>231</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>151</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112239748706900948406-google)<sup>0</sup> 
 
 
-_05.01.2024 22:15:53_
+_05.01.2024 22:17:35_
