@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>415</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>416</sup>
 ---
 
 ## 2024
+
+### Жених или невеста
+Малышкина Яна
+> [2024-01-05] Милая добрая сказки с элементами детектива 
+> https://litnet.com/ru/reader/zhenih-ili-nevesta-b78977?c=646656&p=1
+
 
 ### Кикимора для хама
 Малышкина Яна

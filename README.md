@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жених или невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>416</sup>
+    > Милая добрая сказки с элементами детектива 
+    > https://litnet.com/ru/reader/zhenih-ili-nevesta-b78977?c=646656&p=1
+
 * Кикимора для хама ~ [Chiffi](users/105/105831994080785626680-google)<sup>415</sup>
     > Милая, смешная пустяшка  https://litnet.com/book/kikimora-dlya-hama-b94805?utm_medium=repost&utm_campaign=94805&utm_term=0&utm_source=native
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/serie/30575/
 
 * Тэсс из рода д'Эрбервиллей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>126</sup>
-    > audio
 
 * Мидлмарч ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>125</sup>
 
@@ -26,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Памяти Каталонии ~ [Вит](users/300/300273923-vkontakte)<sup>141</sup>
 
-* Пришлая 2. Судья и палач ~ [Chiffi](users/105/105831994080785626680-google)<sup>411</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>416</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>231</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>151</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>415</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>364</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>430</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112239748706900948406-google)<sup>0</sup> 
 
 
-_03.01.2024 19:29:52_
+_05.01.2024 22:15:53_
