@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Второй шанс. Книга третья ~ [Chiffi](users/105/105831994080785626680-google)<sup>418</sup>
+    > https://readli.net/vtoroy-shans-kniga-tretya/
+
 * Тошнота ~ [Вит](users/300/300273923-vkontakte)<sup>152</sup>
     > Довольно непростое чтиво. Если это произведение, точнее автора ставят в один ряд экзистенциалистов вместе с Достоевским, то я много не понимаю)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/chitat-online/?b=1251442&pg=1
 
 * Жених или невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
-    > https://litnet.com/book/zhenih-ili-nevesta-b78977?utm_medium=repost&utm_campaign=78977&utm_term=0&utm_source=native
 
 * Кикимора для хама ~ [Chiffi](users/105/105831994080785626680-google)<sup>415</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Пастушья корона ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup>
 
-* Записки кельды ~ [Chiffi](users/105/105831994080785626680-google)<sup>413</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>418</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>152</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>417</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>231</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>364</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
 
 
-_06.01.2024 18:04:13_
+_06.01.2024 20:28:42_

@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>417</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>418</sup>
 ---
 
 ## 2024
+
+### Второй шанс. Книга третья
+Звёздная Елена
+> [2024-01-07] https://readli.net/vtoroy-shans-kniga-tretya/
+
 
 ### Второй шанс. Книга вторая
 Звёздная Елена
