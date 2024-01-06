@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тошнота ~ [Вит](users/300/300273923-vkontakte)<sup>152</sup>
+    > Довольно непростое чтиво. Если это произведение, точнее автора ставят в один ряд экзистенциалистов вместе с Достоевским, то я много не понимаю)
+
 * Второй шанс. Книга вторая ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
     > https://readli.net/chitat-online/?b=1251442&pg=1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litnet.com/book/zhenih-ili-nevesta-b78977?utm_medium=repost&utm_campaign=78977&utm_term=0&utm_source=native
 
 * Кикимора для хама ~ [Chiffi](users/105/105831994080785626680-google)<sup>415</sup>
-    > Милая, смешная пустяшка  https://litnet.com/book/kikimora-dlya-hama-b94805?utm_medium=repost&utm_campaign=94805&utm_term=0&utm_source=native
 
 * Не все нас попадают ~ [Chiffi](users/105/105831994080785626680-google)<sup>414</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Записки кельды ~ [Chiffi](users/105/105831994080785626680-google)<sup>413</sup>
 
-* Пришлая 3. Приговор жить ~ [Chiffi](users/105/105831994080785626680-google)<sup>412</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>152</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>417</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>231</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>151</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>364</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112239748706900948406-google)<sup>0</sup> 
 
 
-_05.01.2024 22:26:20_
+_06.01.2024 16:10:20_

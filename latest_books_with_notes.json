@@ -1,4 +1,16 @@
 {
+    "MC84n1ljcz": {
+        "id": "MC84n1ljcz",
+        "title": "Тошнота",
+        "author": "Жан Поль Сартр",
+        "notes": "Довольно непростое чтиво. Если это произведение, точнее автора ставят в один ряд экзистенциалистов вместе с Достоевским, то я много не понимаю)",
+        "createdAt": "2024-01-06 16:10:20",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 152
+        }
+    },
     "HvwN6V_eKU": {
         "id": "HvwN6V_eKU",
         "title": "Второй шанс. Книга вторая",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 123
-        }
-    },
-    "X7Ou-CEWZq": {
-        "id": "X7Ou-CEWZq",
-        "title": "Возвращение со звезд",
-        "author": "Лем Станислав",
-        "notes": "http://loveread.ec/view_global.php?id=21720",
-        "createdAt": "2023-11-03 20:45:22",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 402
         }
     }
 }
