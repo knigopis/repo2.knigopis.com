@@ -13,13 +13,13 @@
 ### `50` Профессиональные технологии нарезки
 Джеффри Эллиот, Джеймс П. Дьюан
 
-### `` Жених или невеста
-Малышкина Яна
-> https://litnet.com/book/zhenih-ili-nevesta-b78977?utm_medium=repost&utm_campaign=78977&utm_term=0&utm_source=native
-
 ### `` Имперское наследство 6
 Федоров Константин
 > https://litnet.com/ru/reader/vremenno-bez-nazvaniya-b366983?c=3821643&p=1
+
+### `` Второй шанс. Книга третья
+Звёздная Елена
+> https://readli.net/vtoroy-shans-kniga-tretya/
 
 ### `` Кукловод
 Ленивая Панда
