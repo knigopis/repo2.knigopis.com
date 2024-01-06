@@ -1,4 +1,10 @@
 {
+    "109176126475581739292-google": {
+        "id": "109176126475581739292-google",
+        "nickname": "Shinku",
+        "booksCount": 74,
+        "updatedAt": "2024-01-06 18:04:13"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": "dobrova_nails",
         "booksCount": 2,
         "updatedAt": "2023-10-10 18:08:55"
-    },
-    "112239748706900948406-google": {
-        "id": "112239748706900948406-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-10-07 11:00:22"
     }
 }

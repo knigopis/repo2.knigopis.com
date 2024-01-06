@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>152</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>417</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>231</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Natik_sad ](users/108/108898237485217151983-google)<sup>0</sup> 
 [albina_untiring](users/257/2579695-vkontakte)<sup>44</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>2</sup> 
-[](users/112/112239748706900948406-google)<sup>0</sup> 
 
 
-_06.01.2024 16:10:20_
+_06.01.2024 18:04:13_
