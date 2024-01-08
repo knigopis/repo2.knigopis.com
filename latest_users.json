@@ -1,4 +1,10 @@
 {
+    "15877369199589457581-mailru": {
+        "id": "15877369199589457581-mailru",
+        "nickname": "Светлана Сетдекова",
+        "booksCount": 0,
+        "updatedAt": "2024-01-08 17:17:24"
+    },
     "275766107-vkontakte": {
         "id": "275766107-vkontakte",
         "nickname": "aktoty",
@@ -172,11 +178,5 @@
         "nickname": "leo",
         "booksCount": 22,
         "updatedAt": "2023-10-13 11:02:51"
-    },
-    "108898237485217151983-google": {
-        "id": "108898237485217151983-google",
-        "nickname": "Natik_sad ",
-        "booksCount": 0,
-        "updatedAt": "2023-10-11 15:35:33"
     }
 }
