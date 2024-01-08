@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [aktoty](users/275/275766107-vkontakte)<sup>95</sup>
+    > Прикольная книга, но экранизация говно, интересно было узнать многие факты про церковь
+
 * Второй шанс. Книга третья ~ [Chiffi](users/105/105831994080785626680-google)<sup>418</sup>
     > https://readli.net/vtoroy-shans-kniga-tretya/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Довольно непростое чтиво. Если это произведение, точнее автора ставят в один ряд экзистенциалистов вместе с Достоевским, то я много не понимаю)
 
 * Второй шанс. Книга вторая ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
-    > https://readli.net/chitat-online/?b=1251442&pg=1
 
 * Жених или невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Женитьба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>230</sup>
 
-* Пастушья корона ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>124</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 [](users/113/113821158776347521407-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>418</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 [leo](users/106/106915386474260202605-google)<sup>22</sup> 
 [Natik_sad ](users/108/108898237485217151983-google)<sup>0</sup> 
-[albina_untiring](users/257/2579695-vkontakte)<sup>44</sup> 
 
 
-_07.01.2024 22:09:03_
+_08.01.2024 09:37:55_

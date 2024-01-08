@@ -1,5 +1,12 @@
-# List of books read by [aktoty](http://vk.com/id275766107)<sup>94</sup>
+# List of books read by [aktoty](http://vk.com/id275766107)<sup>95</sup>
 ---
+
+## 2024
+
+Дэн Браун
+> [2024-01-06] Прикольная книга, но экранизация говно, интересно было узнать многие факты про церковь
+
+
 
 ## 2023
 

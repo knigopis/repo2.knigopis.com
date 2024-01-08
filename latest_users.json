@@ -1,4 +1,10 @@
 {
+    "275766107-vkontakte": {
+        "id": "275766107-vkontakte",
+        "nickname": "aktoty",
+        "booksCount": 95,
+        "updatedAt": "2024-01-08 09:37:55"
+    },
     "113821158776347521407-google": {
         "id": "113821158776347521407-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Natik_sad ",
         "booksCount": 0,
         "updatedAt": "2023-10-11 15:35:33"
-    },
-    "2579695-vkontakte": {
-        "id": "2579695-vkontakte",
-        "nickname": "albina_untiring",
-        "booksCount": 44,
-        "updatedAt": "2023-10-10 18:09:55"
     }
 }

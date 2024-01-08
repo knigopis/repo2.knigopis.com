@@ -1,4 +1,16 @@
 {
+    "_Jmz6DZSoA": {
+        "id": "_Jmz6DZSoA",
+        "title": "",
+        "author": "Дэн Браун",
+        "notes": "Прикольная книга, но экранизация говно, интересно было узнать многие факты про церковь",
+        "createdAt": "2024-01-08 09:37:55",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 95
+        }
+    },
     "AaQeno3y7m": {
         "id": "AaQeno3y7m",
         "title": "Второй шанс. Книга третья",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 404
-        }
-    },
-    "SftjSl1ofy": {
-        "id": "SftjSl1ofy",
-        "title": "Все будет хорошо",
-        "author": "Звездная Елена",
-        "notes": "https://flibusta.su/book/155907-vse-budet-horosho/read/",
-        "createdAt": "2023-11-15 17:33:39",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 403
         }
     }
 }
