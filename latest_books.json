@@ -1,4 +1,16 @@
 {
+    "y2SK2GtJg7": {
+        "id": "y2SK2GtJg7",
+        "title": "Бумажная принцесса",
+        "author": "Эрин Уатт",
+        "notes": "",
+        "createdAt": "2024-01-08 20:14:15",
+        "user": {
+            "id": "19644235-vkontakte",
+            "nickname": "zeleniyk",
+            "booksCount": 1
+        }
+    },
     "_Jmz6DZSoA": {
         "id": "_Jmz6DZSoA",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 44
-        }
-    },
-    "OTSl0UyI_U": {
-        "id": "OTSl0UyI_U",
-        "title": "Катулл",
-        "author": "Пронин Валентин",
-        "notes": "",
-        "createdAt": "2023-12-19 07:47:11",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 148
         }
     }
 }
