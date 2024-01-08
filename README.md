@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zeleniyk](users/196/19644235-vkontakte)<sup>0</sup> 
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 [](users/113/113821158776347521407-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
-[leo](users/106/106915386474260202605-google)<sup>22</sup> 
 
 
-_08.01.2024 17:17:24_
+_08.01.2024 20:13:00_
