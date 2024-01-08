@@ -1,4 +1,16 @@
 {
+    "6uU5cZLkYo": {
+        "id": "6uU5cZLkYo",
+        "title": "Жареные зелёные помидоры в кафе \"Полустанок\"",
+        "author": "Фэнни Флэгг",
+        "notes": "",
+        "createdAt": "2024-01-08 22:20:03",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 153
+        }
+    },
     "y2SK2GtJg7": {
         "id": "y2SK2GtJg7",
         "title": "Бумажная принцесса",
@@ -345,18 +357,6 @@
             "id": "115095777313809768381-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "--e0Jmllpm": {
-        "id": "--e0Jmllpm",
-        "title": "Вечная жизнь Смерти",
-        "author": "Лю Цисинь",
-        "notes": "",
-        "createdAt": "2023-12-19 18:01:18",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 44
         }
     }
 }
