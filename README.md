@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заводной апельсин ~ [Вит](users/300/300273923-vkontakte)<sup>154</sup>
+    > Бросил. Муть какая-то. Быдло
+
 *  ~ [aktoty](users/275/275766107-vkontakte)<sup>95</sup>
     > Прикольная книга, но экранизация говно, интересно было узнать многие факты про церковь
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/vtoroy-shans-kniga-tretya/
 
 * Тошнота ~ [Вит](users/300/300273923-vkontakte)<sup>152</sup>
-    > Довольно непростое чтиво. Если это произведение, точнее автора ставят в один ряд экзистенциалистов вместе с Достоевским, то я много не понимаю)
 
 * Второй шанс. Книга вторая ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Мидлмарч ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>125</sup>
 
-* Женитьба ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>230</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>154</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>233</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>153</sup> 
 [zeleniyk](users/196/19644235-vkontakte)<sup>1</sup> 
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 
 
-_09.01.2024 20:46:25_
+_11.01.2024 17:55:44_

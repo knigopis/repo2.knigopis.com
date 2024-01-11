@@ -1,4 +1,16 @@
 {
+    "X60TMXWSh_": {
+        "id": "X60TMXWSh_",
+        "title": "Заводной апельсин",
+        "author": "Энтони Берджис",
+        "notes": "Бросил. Муть какая-то. Быдло",
+        "createdAt": "2024-01-11 17:55:44",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 154
+        }
+    },
     "SzTmgqqHMR": {
         "id": "SzTmgqqHMR",
         "title": "Каштанка",
@@ -345,18 +357,6 @@
             "id": "114466008310968989620-google",
             "nickname": "Bynyd",
             "booksCount": 2
-        }
-    },
-    "KY5GnXn_iE": {
-        "id": "KY5GnXn_iE",
-        "title": "Эрагон",
-        "author": "Кристофер Паолини",
-        "notes": "",
-        "createdAt": "2023-12-24 16:33:28",
-        "user": {
-            "id": "114466008310968989620-google",
-            "nickname": "Bynyd",
-            "booksCount": 1
         }
     }
 }

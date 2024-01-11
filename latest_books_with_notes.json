@@ -1,4 +1,16 @@
 {
+    "X60TMXWSh_": {
+        "id": "X60TMXWSh_",
+        "title": "Заводной апельсин",
+        "author": "Энтони Берджис",
+        "notes": "Бросил. Муть какая-то. Быдло",
+        "createdAt": "2024-01-11 17:55:44",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 154
+        }
+    },
     "_Jmz6DZSoA": {
         "id": "_Jmz6DZSoA",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 405
-        }
-    },
-    "Mbws3ntFbz": {
-        "id": "Mbws3ntFbz",
-        "title": "Операция Фея",
-        "author": "Звездная Елена",
-        "notes": "https://knizhka.org/lyubovnaya-fantastika/12374-operaciya-feya-cel-obmanut-demona.html",
-        "createdAt": "2023-11-19 09:51:50",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 404
         }
     }
 }
