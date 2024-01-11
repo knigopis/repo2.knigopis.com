@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вы признаны опасным ~ [Chiffi](users/105/105831994080785626680-google)<sup>419</sup>
+    > Они были приспособлены к жизни в новом мире не больше, чем черепаха к супу: вроде бы эти двое неплохо совмещаются, но понятно, что ненадолго и без всякой радостной перспективы для черепахи.
+
 * Заводной апельсин ~ [Вит](users/300/300273923-vkontakte)<sup>154</sup>
     > Бросил. Муть какая-то. Быдло
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прикольная книга, но экранизация говно, интересно было узнать многие факты про церковь
 
 * Второй шанс. Книга третья ~ [Chiffi](users/105/105831994080785626680-google)<sup>418</sup>
-    > https://readli.net/vtoroy-shans-kniga-tretya/
 
 * Тошнота ~ [Вит](users/300/300273923-vkontakte)<sup>152</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Тэсс из рода д'Эрбервиллей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>126</sup>
 
-* Мидлмарч ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>125</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>419</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>154</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>233</sup> 
 [zeleniyk](users/196/19644235-vkontakte)<sup>1</sup> 
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 [](users/113/113821158776347521407-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>418</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>364</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 
 
-_11.01.2024 17:55:44_
+_11.01.2024 20:04:15_
