@@ -1,4 +1,16 @@
 {
+    "latQ7HgArJ": {
+        "id": "latQ7HgArJ",
+        "title": "Моя рыба будет жить",
+        "author": "Рут Озаки",
+        "notes": "Не дочитал. Скучно стало",
+        "createdAt": "2024-01-14 11:46:39",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 155
+        }
+    },
     "wzUm6Drkfa": {
         "id": "wzUm6Drkfa",
         "title": "Вы признаны опасным",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 124
-        }
-    },
-    "bDglUsijYP": {
-        "id": "bDglUsijYP",
-        "title": "Загадочная история Бенджамина Баттона",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2023-12-25 09:03:29",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 229
         }
     }
 }
