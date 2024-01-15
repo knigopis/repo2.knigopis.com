@@ -1,4 +1,16 @@
 {
+    "GMuVOSrGsi": {
+        "id": "GMuVOSrGsi",
+        "title": "Фиолетовый луч",
+        "author": "Паустовский Константи",
+        "notes": "",
+        "createdAt": "2024-01-15 04:23:15",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 232
+        }
+    },
     "ckHu90lLpW": {
         "id": "ckHu90lLpW",
         "title": "Люди, принесшие холод. Книга 1. Лес и степь",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 125
-        }
-    },
-    "u35cxqdGYU": {
-        "id": "u35cxqdGYU",
-        "title": "Кодекс Охотника 15",
-        "author": "Юрий Винокуров, Олег Сапфир",
-        "notes": "",
-        "createdAt": "2023-12-27 03:02:23",
-        "user": {
-            "id": "110996617505160240010-google",
-            "nickname": "MacKor",
-            "booksCount": 1
         }
     }
 }
