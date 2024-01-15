@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>230</sup>
+# Список прочитанных книг пользователя exulted<sup>231</sup>
 ---
 
 ## 2024
@@ -6,6 +6,11 @@
 ### The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering
 Norman Finkelstein
 > [2024-01-11] 
+
+
+### Люди, принесшие холод. Книга 1. Лес и степь
+Нестеров Вадим
+> [2024-01-05] 
 
 
 

@@ -1,4 +1,16 @@
 {
+    "ckHu90lLpW": {
+        "id": "ckHu90lLpW",
+        "title": "Люди, принесшие холод. Книга 1. Лес и степь",
+        "author": "Нестеров Вадим",
+        "notes": "",
+        "createdAt": "2024-01-15 04:22:48",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 231
+        }
+    },
     "-idZKYfR_P": {
         "id": "-idZKYfR_P",
         "title": "The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering",
@@ -345,18 +357,6 @@
             "id": "110996617505160240010-google",
             "nickname": "MacKor",
             "booksCount": 1
-        }
-    },
-    "7qhaxiwVMU": {
-        "id": "7qhaxiwVMU",
-        "title": "Женитьба",
-        "author": "Николай Васильевич Гоголь",
-        "notes": "Это просто старый бабий башмак, а не человек, насмешка над человеком, сатира на человека!",
-        "createdAt": "2023-12-25 19:52:39",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 230
         }
     }
 }
