@@ -1,5 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>229</sup>
+# Список прочитанных книг пользователя exulted<sup>230</sup>
 ---
+
+## 2024
+
+### The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering
+Norman Finkelstein
+> [2024-01-11] 
+
+
 
 ## 2023
 

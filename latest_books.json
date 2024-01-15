@@ -1,4 +1,16 @@
 {
+    "-idZKYfR_P": {
+        "id": "-idZKYfR_P",
+        "title": "The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering",
+        "author": "Norman Finkelstein",
+        "notes": "",
+        "createdAt": "2024-01-15 04:20:14",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 230
+        }
+    },
     "latQ7HgArJ": {
         "id": "latQ7HgArJ",
         "title": "Моя рыба будет жить",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 230
-        }
-    },
-    "Z1xAORYg5D": {
-        "id": "Z1xAORYg5D",
-        "title": "Пастушья корона",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2023-12-25 09:38:23",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 124
         }
     }
 }
