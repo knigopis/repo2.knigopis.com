@@ -1,4 +1,16 @@
 {
+    "pa-wuVjMlP": {
+        "id": "pa-wuVjMlP",
+        "title": "Серёг Кьеркегор",
+        "author": "Управление Страхом",
+        "notes": "Ознакомился",
+        "createdAt": "2024-01-16 19:27:04",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 160
+        }
+    },
     "latQ7HgArJ": {
         "id": "latQ7HgArJ",
         "title": "Моя рыба будет жить",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 134
-        }
-    },
-    "2Hfh4_32Ze": {
-        "id": "2Hfh4_32Ze",
-        "title": "Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг",
-        "author": "Дружинин Петр",
-        "notes": "https://knizhka.org/neotsortirovannoe/18894-antikvarnaya-kniga-ot-a-do-ya-ili-posobie-dlya-kollekcionerov-i-antikvarov-a-takzhe-dlya-vsex-lyubitelej-starinnyx-knig.html#comment",
-        "createdAt": "2023-11-22 20:12:58",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 407
         }
     }
 }

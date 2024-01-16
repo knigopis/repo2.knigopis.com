@@ -1,4 +1,16 @@
 {
+    "pa-wuVjMlP": {
+        "id": "pa-wuVjMlP",
+        "title": "Серёг Кьеркегор",
+        "author": "Управление Страхом",
+        "notes": "Ознакомился",
+        "createdAt": "2024-01-16 19:27:04",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 160
+        }
+    },
     "ik7uuunWE2": {
         "id": "ik7uuunWE2",
         "title": "Три сестры",
@@ -345,18 +357,6 @@
             "id": "103456291402547350560-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "SBzDQmnypj": {
-        "id": "SBzDQmnypj",
-        "title": "Невыносимая лёгкость бытия",
-        "author": "Милан Кундера",
-        "notes": "",
-        "createdAt": "2023-12-27 20:34:26",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 430
         }
     }
 }

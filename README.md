@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Серёг Кьеркегор ~ [Вит](users/300/300273923-vkontakte)<sup>160</sup>
+    > Ознакомился
+
 * Моя рыба будет жить ~ [Вит](users/300/300273923-vkontakte)<sup>155</sup>
     > Не дочитал. Скучно стало
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Они были приспособлены к жизни в новом мире не больше, чем черепаха к супу: вроде бы эти двое неплохо совмещаются, но понятно, что ненадолго и без всякой радостной перспективы для черепахи.
 
 * Заводной апельсин ~ [Вит](users/300/300273923-vkontakte)<sup>154</sup>
-    > Бросил. Муть какая-то. Быдло
 
 *  ~ [aktoty](users/275/275766107-vkontakte)<sup>95</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кикимора для хама ~ [Chiffi](users/105/105831994080785626680-google)<sup>415</sup>
 
-* Не все нас попадают ~ [Chiffi](users/105/105831994080785626680-google)<sup>414</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>159</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>232</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>419</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>233</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 
 
-_16.01.2024 19:26:19_
+_16.01.2024 19:27:04_
