@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vokyalop](users/320/32096418-yandex)<sup>0</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>232</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>419</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
-[vechno7t](users/102/102483077884312127500-google)<sup>77</sup> 
 
 
-_16.01.2024 19:27:04_
+_18.01.2024 11:28:57_
