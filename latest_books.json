@@ -1,4 +1,16 @@
 {
+    "kEDtpZBpNQ": {
+        "id": "kEDtpZBpNQ",
+        "title": "Необычайные приключения Тартарена из Тараскона",
+        "author": "Альфонс Доде",
+        "notes": "",
+        "createdAt": "2024-01-18 11:30:05",
+        "user": {
+            "id": "32096418-yandex",
+            "nickname": "vokyalop",
+            "booksCount": 1
+        }
+    },
     "pa-wuVjMlP": {
         "id": "pa-wuVjMlP",
         "title": "Серёг Кьеркегор",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 362
-        }
-    },
-    "ofXtq0nEv0": {
-        "id": "ofXtq0nEv0",
-        "title": "Петронелла",
-        "author": "",
-        "notes": "",
-        "createdAt": "2023-12-28 11:52:13",
-        "user": {
-            "id": "103456291402547350560-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

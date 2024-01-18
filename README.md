@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vokyalop](users/320/32096418-yandex)<sup>0</sup> 
+[vokyalop](users/320/32096418-yandex)<sup>1</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>232</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>419</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 
 
-_18.01.2024 11:28:57_
+_18.01.2024 11:30:05_
