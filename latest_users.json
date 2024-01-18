@@ -1,4 +1,10 @@
 {
+    "32096418-yandex": {
+        "id": "32096418-yandex",
+        "nickname": "vokyalop",
+        "booksCount": 0,
+        "updatedAt": "2024-01-18 11:28:57"
+    },
     "300273923-vkontakte": {
         "id": "300273923-vkontakte",
         "nickname": "Вит",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 64,
         "updatedAt": "2023-10-31 09:15:25"
-    },
-    "102483077884312127500-google": {
-        "id": "102483077884312127500-google",
-        "nickname": "vechno7t",
-        "booksCount": 77,
-        "updatedAt": "2023-10-19 20:55:21"
     }
 }
