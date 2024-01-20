@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>419</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>420</sup>
 ---
 
 ## 2024
+
+### Маша без медведя
+Войлошниковы Владимир И Ольга
+> [2024-01-21] http://flibusta.site/b/768457/read
+
 
 ### Вы признаны опасным
 Михалкова Елена
