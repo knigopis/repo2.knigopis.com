@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>189</sup>
+# List of books read by 4apa<sup>190</sup>
 ---
 
 ## 2024
+
+### Однажды в Голливуде
+К. Тарантино
+> [2024-01-14] 
+
 
 ### Неудобное прошлое
 Н. Эппле
