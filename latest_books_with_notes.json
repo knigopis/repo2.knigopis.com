@@ -1,4 +1,16 @@
 {
+    "hni1bGivLb": {
+        "id": "hni1bGivLb",
+        "title": "Сбежать от князя тьмы",
+        "author": "Шаенская Анна",
+        "notes": "https://readli.net/sbezhat-ot-knyazya-tmyi-zapretnaya-nevesta/",
+        "createdAt": "2024-01-21 19:37:57",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 421
+        }
+    },
     "mLwpubTVA5": {
         "id": "mLwpubTVA5",
         "title": "Маша без медведя",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 136
-        }
-    },
-    "fm6fFU3BFH": {
-        "id": "fm6fFU3BFH",
-        "title": "Послемрак",
-        "author": "Харуки Мураками",
-        "notes": "Такое себе. Ни о чем.\nЛишнее доказательство переоценённости автора.",
-        "createdAt": "2023-11-26 14:56:46",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 135
         }
     }
 }

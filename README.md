@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сбежать от князя тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>421</sup>
+    > https://readli.net/sbezhat-ot-knyazya-tmyi-zapretnaya-nevesta/
+
 * Маша без медведя ~ [Chiffi](users/105/105831994080785626680-google)<sup>420</sup>
     > http://flibusta.site/b/768457/read
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ознакомился
 
 * Моя рыба будет жить ~ [Вит](users/300/300273923-vkontakte)<sup>155</sup>
-    > Не дочитал. Скучно стало
 
 * Вы признаны опасным ~ [Chiffi](users/105/105831994080785626680-google)<sup>419</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Второй шанс. Книга вторая ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
 
-* Жених или невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>420</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>421</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>161</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>190</sup> 
 [vokyalop](users/320/32096418-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 
 
-_20.01.2024 20:20:13_
+_21.01.2024 19:37:57_

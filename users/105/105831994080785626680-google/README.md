@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>420</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>421</sup>
 ---
 
 ## 2024
+
+### Сбежать от князя тьмы
+Шаенская Анна
+> [2024-01-21] https://readli.net/sbezhat-ot-knyazya-tmyi-zapretnaya-nevesta/
+
 
 ### Маша без медведя
 Войлошниковы Владимир И Ольга
