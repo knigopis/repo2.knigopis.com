@@ -5,8 +5,8 @@
 
 ### Маша без медведя
 Войлошниковы Владимир И Ольга
-> [2024-01-21] http://flibusta.site/b/768457/read
-> Вторая https://author.today/reader/323974
+> [2024-01-21] http://flibusta.site/b/768457/read и https://readli.net/masha-bez-medvedya/
+> Вторая часть в процессе  https://author.today/reader/323974
 
 
 ### Вы признаны опасным
