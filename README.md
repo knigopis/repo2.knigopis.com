@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как украсть дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>422</sup>
+    > https://loveread.com.ua/anna-shaenskaya-kak-ukrast-drakona.html
+
 * Бельканто ~ [mfevralev](users/140/140966150-vkontakte)<sup>65</sup>
     > Норм
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/sbezhat-ot-knyazya-tmyi-zapretnaya-nevesta/
 
 * Маша без медведя ~ [Chiffi](users/105/105831994080785626680-google)<sup>420</sup>
-    > http://flibusta.site/b/768457/read
 
 * Серёг Кьеркегор ~ [Вит](users/300/300273923-vkontakte)<sup>160</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Второй шанс. Книга третья ~ [Chiffi](users/105/105831994080785626680-google)<sup>418</sup>
 
-* Тошнота ~ [Вит](users/300/300273923-vkontakte)<sup>152</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>422</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>65</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>431</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>421</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>161</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>190</sup> 
 [vokyalop](users/320/32096418-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 
 
-_23.01.2024 14:58:03_
+_23.01.2024 20:37:41_

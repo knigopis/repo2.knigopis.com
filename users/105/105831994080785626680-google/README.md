@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>421</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>422</sup>
 ---
 
 ## 2024
+
+### Как украсть дракона
+Шаенская Анна
+> [2024-01-23] https://loveread.com.ua/anna-shaenskaya-kak-ukrast-drakona.html
+
 
 ### Сбежать от князя тьмы
 Шаенская Анна

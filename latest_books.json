@@ -1,4 +1,16 @@
 {
+    "mXsHxf-0O9": {
+        "id": "mXsHxf-0O9",
+        "title": "Как украсть дракона",
+        "author": "Шаенская Анна",
+        "notes": "https://loveread.com.ua/anna-shaenskaya-kak-ukrast-drakona.html",
+        "createdAt": "2024-01-23 20:37:41",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 422
+        }
+    },
     "7B0TRjxdNy": {
         "id": "7B0TRjxdNy",
         "title": "Бельканто",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 417
-        }
-    },
-    "raLKA9u7Pg": {
-        "id": "raLKA9u7Pg",
-        "title": "Вверх по лестнице, ведущей вниз",
-        "author": "Бел Кауфман",
-        "notes": "",
-        "createdAt": "2024-01-03 19:29:52",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 231
         }
     }
 }
