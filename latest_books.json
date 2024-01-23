@@ -1,4 +1,16 @@
 {
+    "DkPQjGXMOO": {
+        "id": "DkPQjGXMOO",
+        "title": "История российского государства. Эпоха цариц",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2024-01-23 06:53:54",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 431
+        }
+    },
     "hni1bGivLb": {
         "id": "hni1bGivLb",
         "title": "Сбежать от князя тьмы",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 151
-        }
-    },
-    "5FhIiRrvui": {
-        "id": "5FhIiRrvui",
-        "title": "Икона DOOM",
-        "author": "Джон Ромеро",
-        "notes": "",
-        "createdAt": "2024-01-02 11:47:29",
-        "user": {
-            "id": "117840259784706659154-google",
-            "nickname": "lpetrov",
-            "booksCount": 1
         }
     }
 }
