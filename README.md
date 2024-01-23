@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бельканто ~ [mfevralev](users/140/140966150-vkontakte)<sup>65</sup>
+    > Норм
+
 * Сбежать от князя тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>421</sup>
     > https://readli.net/sbezhat-ot-knyazya-tmyi-zapretnaya-nevesta/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > http://flibusta.site/b/768457/read
 
 * Серёг Кьеркегор ~ [Вит](users/300/300273923-vkontakte)<sup>160</sup>
-    > Ознакомился
 
 * Моя рыба будет жить ~ [Вит](users/300/300273923-vkontakte)<sup>155</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тошнота ~ [Вит](users/300/300273923-vkontakte)<sup>152</sup>
 
-* Второй шанс. Книга вторая ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>65</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>431</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>421</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>161</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>64</sup> 
 
 
-_23.01.2024 06:53:55_
+_23.01.2024 14:58:03_

@@ -1,4 +1,16 @@
 {
+    "7B0TRjxdNy": {
+        "id": "7B0TRjxdNy",
+        "title": "Бельканто",
+        "author": "Энн Пэтчерт",
+        "notes": "Норм",
+        "createdAt": "2024-01-23 14:58:03",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 65
+        }
+    },
     "hni1bGivLb": {
         "id": "hni1bGivLb",
         "title": "Сбежать от князя тьмы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 408
-        }
-    },
-    "lZNAy79es6": {
-        "id": "lZNAy79es6",
-        "title": "Клуб бездомных мечтателей",
-        "author": "Лиз Мюррей",
-        "notes": "Слабовато. Особенно концовка. И как-то не раскрыт смысл, что ли.",
-        "createdAt": "2023-12-01 06:19:01",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 136
         }
     }
 }

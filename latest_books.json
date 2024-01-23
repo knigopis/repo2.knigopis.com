@@ -1,4 +1,16 @@
 {
+    "7B0TRjxdNy": {
+        "id": "7B0TRjxdNy",
+        "title": "Бельканто",
+        "author": "Энн Пэтчерт",
+        "notes": "Норм",
+        "createdAt": "2024-01-23 14:58:03",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 65
+        }
+    },
     "DkPQjGXMOO": {
         "id": "DkPQjGXMOO",
         "title": "История российского государства. Эпоха цариц",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 231
-        }
-    },
-    "qV5EjOYiph": {
-        "id": "qV5EjOYiph",
-        "title": "Маленькая жизнь",
-        "author": "Ханья Янагихара",
-        "notes": "",
-        "createdAt": "2024-01-02 20:40:00",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 151
         }
     }
 }
