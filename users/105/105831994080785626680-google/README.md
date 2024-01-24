@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>422</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>423</sup>
 ---
 
 ## 2024
+
+### Академия мечтателей
+Шаенская Анна
+> [2024-01-25] https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-akademiya-mechtatelei
+
 
 ### Как украсть дракона
 Шаенская Анна

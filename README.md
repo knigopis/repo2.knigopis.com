@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия мечтателей ~ [Chiffi](users/105/105831994080785626680-google)<sup>423</sup>
+    > https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-akademiya-mechtatelei
+
 * Как украсть дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>422</sup>
     > https://loveread.com.ua/anna-shaenskaya-kak-ukrast-drakona.html
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Норм
 
 * Сбежать от князя тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>421</sup>
-    > https://readli.net/sbezhat-ot-knyazya-tmyi-zapretnaya-nevesta/
 
 * Маша без медведя ~ [Chiffi](users/105/105831994080785626680-google)<sup>420</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [aktoty](users/275/275766107-vkontakte)<sup>95</sup>
 
-* Второй шанс. Книга третья ~ [Chiffi](users/105/105831994080785626680-google)<sup>418</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>422</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>423</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>65</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>431</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>161</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 
 
-_23.01.2024 20:37:41_
+_24.01.2024 21:21:41_
