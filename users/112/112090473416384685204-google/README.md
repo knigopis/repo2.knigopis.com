@@ -1,5 +1,13 @@
-# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>14</sup>
+# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>15</sup>
 ---
+
+## 2024
+
+### Відьмак
+Сапковський
+> [2024-01-24] Всі романи
+
+
 
 ## 2023
 

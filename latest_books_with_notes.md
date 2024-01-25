@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
 * Академия мечтателей ~ [Chiffi](users/105/105831994080785626680-google)<sup>423</sup>
 * Как украсть дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>422</sup>
 * Бельканто ~ [mfevralev](users/140/140966150-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
 * Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
 * Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
-* Императорский див ~ [Chiffi](users/105/105831994080785626680-google)<sup>409</sup>
 
 
-_24.01.2024 21:21:41_
+_25.01.2024 23:16:31_

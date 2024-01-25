@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
+    > Всі романи
+
 * Академия мечтателей ~ [Chiffi](users/105/105831994080785626680-google)<sup>423</sup>
     > https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-akademiya-mechtatelei
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://loveread.com.ua/anna-shaenskaya-kak-ukrast-drakona.html
 
 * Бельканто ~ [mfevralev](users/140/140966150-vkontakte)<sup>65</sup>
-    > Норм
 
 * Сбежать от князя тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>421</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Заводной апельсин ~ [Вит](users/300/300273923-vkontakte)<sup>154</sup>
 
-*  ~ [aktoty](users/275/275766107-vkontakte)<sup>95</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>423</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>65</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>431</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>14</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 
 
-_24.01.2024 21:21:41_
+_25.01.2024 23:16:31_
