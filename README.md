@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Королева падающих заезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>424</sup>
+    > https://loveread.com.ua/anna-shaenskaya-koroleva-padayushchih-zvezd.html
+
 * Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
     > Всі романи
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-akademiya-mechtatelei
 
 * Как украсть дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>422</sup>
-    > https://loveread.com.ua/anna-shaenskaya-kak-ukrast-drakona.html
 
 * Бельканто ~ [mfevralev](users/140/140966150-vkontakte)<sup>65</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Вы признаны опасным ~ [Chiffi](users/105/105831994080785626680-google)<sup>419</sup>
 
-* Заводной апельсин ~ [Вит](users/300/300273923-vkontakte)<sup>154</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>424</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>432</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>423</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>65</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>161</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>190</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 
 
-_26.01.2024 21:22:57_
+_26.01.2024 22:26:04_

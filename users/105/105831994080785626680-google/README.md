@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>423</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>424</sup>
 ---
 
 ## 2024
+
+### Королева падающих заезд
+Шаенская Анна
+> [2024-01-28] https://loveread.com.ua/anna-shaenskaya-koroleva-padayushchih-zvezd.html
+
 
 ### Академия мечтателей
 Шаенская Анна

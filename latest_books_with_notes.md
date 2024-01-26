@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Королева падающих заезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>424</sup>
 * Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
 * Академия мечтателей ~ [Chiffi](users/105/105831994080785626680-google)<sup>423</sup>
 * Как украсть дракона ~ [Chiffi](users/105/105831994080785626680-google)<sup>422</sup>
@@ -30,7 +31,6 @@
 * Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
 * Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
 * Год чудес ~ [Вит](users/300/300273923-vkontakte)<sup>140</sup>
-* Колдунья из угро ~ [Chiffi](users/105/105831994080785626680-google)<sup>410</sup>
 
 
-_25.01.2024 23:16:31_
+_26.01.2024 22:26:04_
