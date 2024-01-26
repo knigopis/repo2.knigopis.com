@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>431</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>432</sup>
 ---
 
 ## 2024
+
+### Завод "Свобода"
+Ксения Букша
+> [2024-01-27] 
+
 
 ### История российского государства. Эпоха цариц
 Борис Акунин
