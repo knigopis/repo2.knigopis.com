@@ -1,4 +1,10 @@
 {
+    "18475011-vkontakte": {
+        "id": "18475011-vkontakte",
+        "nickname": "алекс 136",
+        "booksCount": 0,
+        "updatedAt": "2024-01-28 06:50:01"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2023-11-26 11:27:16"
-    },
-    "14993074907293954836-mailru": {
-        "id": "14993074907293954836-mailru",
-        "nickname": "Александр Сирица",
-        "booksCount": 0,
-        "updatedAt": "2023-11-20 11:41:43"
     }
 }
