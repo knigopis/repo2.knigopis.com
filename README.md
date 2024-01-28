@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>424</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>432</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>2</sup> 
-[Александр Сирица](users/149/14993074907293954836-mailru)<sup>0</sup> 
 
 
-_26.01.2024 22:26:04_
+_28.01.2024 06:50:02_
