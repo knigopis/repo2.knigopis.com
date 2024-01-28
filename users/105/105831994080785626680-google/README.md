@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>424</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>425</sup>
 ---
 
 ## 2024
+
+### Невеста до рассвета
+Шаенская Анна
+> [2024-01-30] https://loveread.com.ua/nevesta-do-rassveta-anna-shaenskaya.html
+
 
 ### Королева падающих заезд
 Шаенская Анна
