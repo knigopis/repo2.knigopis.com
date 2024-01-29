@@ -1,4 +1,16 @@
 {
+    "rLg3KAx4b8": {
+        "id": "rLg3KAx4b8",
+        "title": "Дюна",
+        "author": "Херберт Фрэнк",
+        "notes": "Книга 1\nКнига 2\nКнига 3\nМессия Дюны",
+        "createdAt": "2024-01-29 12:17:03",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 365
+        }
+    },
     "bh0-KWEi_4": {
         "id": "bh0-KWEi_4",
         "title": "Невеста до рассвета",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 358
-        }
-    },
-    "9lBmQnnyCx": {
-        "id": "9lBmQnnyCx",
-        "title": "Некротур",
-        "author": "Ольга Рубанок",
-        "notes": "Деревня Распадок, блогеры снимающие похоронные традиции, превращение Анки в богиню\". Концовка слита.",
-        "createdAt": "2023-12-08 23:54:53",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 283
         }
     }
 }

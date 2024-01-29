@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дюна ~ [Garka](users/115/115753719718250012620-google)<sup>365</sup>
+    > Книга 1
+    > Книга 2
+    > Книга 3
+    > Мессия Дюны
+
 * Невеста до рассвета ~ [Chiffi](users/105/105831994080785626680-google)<sup>425</sup>
     > https://loveread.com.ua/nevesta-do-rassveta-anna-shaenskaya.html
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > https://loveread.com.ua/anna-shaenskaya-koroleva-padayushchih-zvezd.html
 
 * Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
-    > Всі романи
 
 * Академия мечтателей ~ [Chiffi](users/105/105831994080785626680-google)<sup>423</sup>
 
@@ -26,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Серёг Кьеркегор ~ [Вит](users/300/300273923-vkontakte)<sup>160</sup>
 
-* Моя рыба будет жить ~ [Вит](users/300/300273923-vkontakte)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>365</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>425</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>432</sup> 
@@ -49,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113821158776347521407-google)<sup>0</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>364</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>126</sup> 
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 
 
-_28.01.2024 16:55:11_
+_29.01.2024 12:17:03_

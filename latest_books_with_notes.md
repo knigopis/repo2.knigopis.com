@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дюна ~ [Garka](users/115/115753719718250012620-google)<sup>365</sup>
 * Невеста до рассвета ~ [Chiffi](users/105/105831994080785626680-google)<sup>425</sup>
 * Королева падающих заезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>424</sup>
 * Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
@@ -30,7 +31,6 @@
 * Пришлая 2. Судья и палач ~ [Chiffi](users/105/105831994080785626680-google)<sup>411</sup>
 * Ребекка ~ [Garka](users/115/115753719718250012620-google)<sup>360</sup>
 * Харрис, Джоанн ~ [Garka](users/115/115753719718250012620-google)<sup>358</sup>
-* Некротур ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup>
 
 
-_28.01.2024 16:55:11_
+_29.01.2024 12:17:03_

@@ -1,4 +1,16 @@
 {
+    "rLg3KAx4b8": {
+        "id": "rLg3KAx4b8",
+        "title": "Дюна",
+        "author": "Херберт Фрэнк",
+        "notes": "Книга 1\nКнига 2\nКнига 3\nМессия Дюны",
+        "createdAt": "2024-01-29 12:17:03",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 365
+        }
+    },
     "bh0-KWEi_4": {
         "id": "bh0-KWEi_4",
         "title": "Невеста до рассвета",
@@ -345,18 +357,6 @@
             "id": "19644235-vkontakte",
             "nickname": "zeleniyk",
             "booksCount": 1
-        }
-    },
-    "_Jmz6DZSoA": {
-        "id": "_Jmz6DZSoA",
-        "title": "",
-        "author": "Дэн Браун",
-        "notes": "Прикольная книга, но экранизация говно, интересно было узнать многие факты про церковь",
-        "createdAt": "2024-01-08 09:37:55",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 95
         }
     }
 }

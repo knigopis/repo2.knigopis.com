@@ -1,5 +1,16 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>364</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>365</sup>
 ---
+
+## 2024
+
+### Дюна
+Херберт Фрэнк
+> [2024-01-28] Книга 1
+> Книга 2
+> Книга 3
+> Мессия Дюны
+
+
 
 ## 2023
 
