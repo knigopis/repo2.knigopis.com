@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>425</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>426</sup>
 ---
 
 ## 2024
+
+### Брак на поражение
+Шаенская Анна
+> [2024-02-03] https://loveread.com.ua/anna-shaenskaya-brak-na-porazhenie.html
+
 
 ### Невеста до рассвета
 Шаенская Анна

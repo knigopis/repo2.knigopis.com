@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Брак на поражение ~ [Chiffi](users/105/105831994080785626680-google)<sup>426</sup>
+    > https://loveread.com.ua/anna-shaenskaya-brak-na-porazhenie.html
+
 * Дюна ~ [Garka](users/115/115753719718250012620-google)<sup>365</sup>
     > Книга 1
     > Книга 2
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > https://loveread.com.ua/nevesta-do-rassveta-anna-shaenskaya.html
 
 * Королева падающих заезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>424</sup>
-    > https://loveread.com.ua/anna-shaenskaya-koroleva-padayushchih-zvezd.html
 
 * Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
 
@@ -29,15 +31,13 @@ Do not use pull requests to make changes here.
 
 * Маша без медведя ~ [Chiffi](users/105/105831994080785626680-google)<sup>420</sup>
 
-* Серёг Кьеркегор ~ [Вит](users/300/300273923-vkontakte)<sup>160</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>426</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>365</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>425</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>432</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 
 
-_29.01.2024 12:17:03_
+_31.01.2024 22:28:11_
