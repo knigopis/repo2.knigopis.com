@@ -1,5 +1,13 @@
-# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>126</sup>
+# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>127</sup>
 ---
+
+## 2024
+
+### Пирамиды
+Терри Пратчетт
+> [2024-02-03] audio
+
+
 
 ## 2023
 

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пирамиды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup>
+    > audio
+
 * Брак на поражение ~ [Chiffi](users/105/105831994080785626680-google)<sup>426</sup>
     > https://loveread.com.ua/anna-shaenskaya-brak-na-porazhenie.html
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Мессия Дюны
 
 * Невеста до рассвета ~ [Chiffi](users/105/105831994080785626680-google)<sup>425</sup>
-    > https://loveread.com.ua/nevesta-do-rassveta-anna-shaenskaya.html
 
 * Королева падающих заезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>424</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Сбежать от князя тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>421</sup>
 
-* Маша без медведя ~ [Chiffi](users/105/105831994080785626680-google)<sup>420</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>426</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>365</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>126</sup> 
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 [](users/115/115095777313809768381-google)<sup>3</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 
 
-_31.01.2024 22:28:11_
+_05.02.2024 04:04:41_
