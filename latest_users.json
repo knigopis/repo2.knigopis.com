@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 191,
+        "updatedAt": "2024-02-05 21:34:09"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -46,12 +52,6 @@
         "nickname": "Вит",
         "booksCount": 161,
         "updatedAt": "2024-01-20 13:52:26"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 190,
-        "updatedAt": "2024-01-20 08:55:25"
     },
     "32096418-yandex": {
         "id": "32096418-yandex",

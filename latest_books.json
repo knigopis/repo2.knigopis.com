@@ -1,4 +1,16 @@
 {
+    "3O6vQv7H7p": {
+        "id": "3O6vQv7H7p",
+        "title": "Авторитарная Россия",
+        "author": "В. Гельман",
+        "notes": "",
+        "createdAt": "2024-02-05 21:34:09",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 191
+        }
+    },
     "U0E7_MWdyh": {
         "id": "U0E7_MWdyh",
         "title": "Пирамиды",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 233
-        }
-    },
-    "yLwNTIXcGU": {
-        "id": "yLwNTIXcGU",
-        "title": "Десять негритят",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2024-01-09 10:12:37",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 232
         }
     }
 }
