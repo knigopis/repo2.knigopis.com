@@ -1,4 +1,16 @@
 {
+    "SnY1uiAs81": {
+        "id": "SnY1uiAs81",
+        "title": "Артефактор под прикрытием",
+        "author": "Шаенская Анна",
+        "notes": "http://loveread.ec/view_global.php?id=105480",
+        "createdAt": "2024-02-06 20:57:54",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 427
+        }
+    },
     "U0E7_MWdyh": {
         "id": "U0E7_MWdyh",
         "title": "Пирамиды",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 141
-        }
-    },
-    "HzCb_t7EF-": {
-        "id": "HzCb_t7EF-",
-        "title": "Пришлая 2. Судья и палач",
-        "author": "Никитина Анастасия",
-        "notes": "https://readli.net/sudya-i-palach-3/",
-        "createdAt": "2023-12-09 14:46:45",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 411
         }
     }
 }

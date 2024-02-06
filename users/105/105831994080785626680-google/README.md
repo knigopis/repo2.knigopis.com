@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>426</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>427</sup>
 ---
 
 ## 2024
+
+### Артефактор под прикрытием
+Шаенская Анна
+> [2024-02-10] http://loveread.ec/view_global.php?id=105480
+
 
 ### Брак на поражение
 Шаенская Анна

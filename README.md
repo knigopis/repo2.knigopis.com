@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>427</sup>
+    > http://loveread.ec/view_global.php?id=105480
+
 * Пирамиды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup>
     > audio
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > https://loveread.com.ua/anna-shaenskaya-brak-na-porazhenie.html
 
 * Дюна ~ [Garka](users/115/115753719718250012620-google)<sup>365</sup>
-    > Книга 1
-    > Книга 2
-    > Книга 3
-    > Мессия Дюны
 
 * Невеста до рассвета ~ [Chiffi](users/105/105831994080785626680-google)<sup>425</sup>
 
@@ -29,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Бельканто ~ [mfevralev](users/140/140966150-vkontakte)<sup>65</sup>
 
-* Сбежать от князя тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>421</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>427</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>191</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>426</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>365</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>432</sup> 
@@ -68,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 
 
-_05.02.2024 21:34:09_
+_06.02.2024 20:57:54_

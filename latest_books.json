@@ -1,4 +1,16 @@
 {
+    "SnY1uiAs81": {
+        "id": "SnY1uiAs81",
+        "title": "Артефактор под прикрытием",
+        "author": "Шаенская Анна",
+        "notes": "http://loveread.ec/view_global.php?id=105480",
+        "createdAt": "2024-02-06 20:57:54",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 427
+        }
+    },
     "3O6vQv7H7p": {
         "id": "3O6vQv7H7p",
         "title": "Авторитарная Россия",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 154
-        }
-    },
-    "SzTmgqqHMR": {
-        "id": "SzTmgqqHMR",
-        "title": "Каштанка",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2024-01-09 20:46:25",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 233
         }
     }
 }
