@@ -1,4 +1,16 @@
 {
+    "MAhm5xQ60C": {
+        "id": "MAhm5xQ60C",
+        "title": "Elon Musk",
+        "author": "W. Isaacson",
+        "notes": "",
+        "createdAt": "2024-02-09 10:18:39",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 192
+        }
+    },
     "GB-UrQ3uUX": {
         "id": "GB-UrQ3uUX",
         "title": "Воскресение",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 230
-        }
-    },
-    "latQ7HgArJ": {
-        "id": "latQ7HgArJ",
-        "title": "Моя рыба будет жить",
-        "author": "Рут Озаки",
-        "notes": "Не дочитал. Скучно стало",
-        "createdAt": "2024-01-14 11:46:39",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 155
         }
     }
 }

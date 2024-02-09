@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>191</sup>
+# List of books read by 4apa<sup>192</sup>
 ---
 
 ## 2024
+
+### Elon Musk
+W. Isaacson
+> [2024-02-09] 
+
 
 ### Авторитарная Россия
 В. Гельман
