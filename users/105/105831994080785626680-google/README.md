@@ -6,6 +6,7 @@
 ### Fila vitae. Нити жизни
 Тимошенко Наталья
 > [2024-02-10] https://loveread.info/books/detektivy/223430-fila-vitae-niti-zhizni-natalya-nikolaevna-timoshenko.html
+> Опять встреча с знакомыми героями. Ужастик с элементами детектива
 
 
 ### Артефактор под прикрытием
