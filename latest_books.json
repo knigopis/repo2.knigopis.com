@@ -1,4 +1,16 @@
 {
+    "JYaJnp6WOi": {
+        "id": "JYaJnp6WOi",
+        "title": "Академия попаданцев",
+        "author": "",
+        "notes": "https://readli.net/akademiya-popadantsev/",
+        "createdAt": "2024-02-10 16:36:30",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 429
+        }
+    },
     "MAhm5xQ60C": {
         "id": "MAhm5xQ60C",
         "title": "Elon Musk",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 231
-        }
-    },
-    "-idZKYfR_P": {
-        "id": "-idZKYfR_P",
-        "title": "The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering",
-        "author": "Norman Finkelstein",
-        "notes": "",
-        "createdAt": "2024-01-15 04:20:14",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 230
         }
     }
 }

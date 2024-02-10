@@ -1,4 +1,4 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>428</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>429</sup>
 ---
 
 ## 2024
@@ -6,6 +6,10 @@
 ### Артефактор под прикрытием
 Шаенская Анна
 > [2024-02-15] http://loveread.ec/view_global.php?id=105480
+
+
+### Академия попаданцев
+> [2024-02-13] https://readli.net/akademiya-popadantsev/
 
 
 ### Fila vitae. Нити жизни

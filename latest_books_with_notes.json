@@ -1,4 +1,16 @@
 {
+    "JYaJnp6WOi": {
+        "id": "JYaJnp6WOi",
+        "title": "Академия попаданцев",
+        "author": "",
+        "notes": "https://readli.net/akademiya-popadantsev/",
+        "createdAt": "2024-02-10 16:36:30",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 429
+        }
+    },
     "Mq5ZPWVdA6": {
         "id": "Mq5ZPWVdA6",
         "title": "Fila vitae. Нити жизни",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 413
-        }
-    },
-    "BDcr5PvHPA": {
-        "id": "BDcr5PvHPA",
-        "title": "Пришлая 3. Приговор жить",
-        "author": "Никитина Анастасия",
-        "notes": "https://readli.net/prigovor-zhit/",
-        "createdAt": "2023-12-12 21:18:06",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 412
         }
     }
 }
