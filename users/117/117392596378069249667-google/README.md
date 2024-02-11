@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>192</sup>
+# List of books read by 4apa<sup>193</sup>
 ---
 
 ## 2024
+
+### Покорность
+М. Уэльбек
+> [2024-02-11] 
+
 
 ### Elon Musk
 W. Isaacson
