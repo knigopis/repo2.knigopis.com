@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>430</sup>
+    > https://readli.net/nevesta-pod-prikryitiem-2/
+
 * Академия попаданцев ~ [Chiffi](users/105/105831994080785626680-google)<sup>429</sup>
     > https://readli.net/akademiya-popadantsev/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://loveread.info/books/detektivy/223430-fila-vitae-niti-zhizni-natalya-nikolaevna-timoshenko.html
 
 * Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>427</sup>
-    > http://loveread.ec/view_global.php?id=105480
 
 * Пирамиды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Відьмак ~ [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup>
 
-* Академия мечтателей ~ [Chiffi](users/105/105831994080785626680-google)<sup>423</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>430</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>193</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>429</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>234</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>365</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105803270930838059244-google)<sup>2</sup> 
 
 
-_11.02.2024 13:20:17_
+_11.02.2024 22:27:38_
