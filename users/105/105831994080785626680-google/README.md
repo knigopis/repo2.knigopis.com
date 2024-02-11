@@ -9,7 +9,8 @@
 
 
 ### Академия попаданцев
-> [2024-02-13] https://readli.net/akademiya-popadantsev/
+Боталова Мария, Флат Екатерина
+> [2024-02-11] https://readli.net/akademiya-popadantsev/
 
 
 ### Fila vitae. Нити жизни
