@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>193</sup>
+# List of books read by 4apa<sup>194</sup>
 ---
 
 ## 2024
+
+### Серотонин
+М. Уэльбек
+> [2024-02-11] 
+
 
 ### Покорность
 М. Уэльбек
