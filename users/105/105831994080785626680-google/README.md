@@ -67,6 +67,7 @@
 > [2024-01-21] http://flibusta.site/b/768457/read и https://readli.net/masha-bez-medvedya/
 > Вторая часть в процессе  https://author.today/reader/323974
 > Симпатично. Про попаданцев и магию. Хотелось бы дочитать
+> https://readli.net/chitat-online/?b=1272205&pg=1
 
 
 ### Вы признаны опасным
