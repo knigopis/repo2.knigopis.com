@@ -13,6 +13,14 @@
 > [2024-02-14] https://readli.net/nevesta-pod-prikryitiem-2/
 
 
+### Маша без медведя
+Войлошниковы Владимир И Ольга
+> [2024-02-13] http://flibusta.site/b/768457/read и https://readli.net/masha-bez-medvedya/
+> Вторая часть в процессе  https://author.today/reader/323974
+> Симпатично. Про попаданцев и магию. Хотелось бы дочитать
+> https://readli.net/chitat-online/?b=1272205&pg=1
+
+
 ### Академия попаданцев
 Боталова Мария, Флат Екатерина
 > [2024-02-11] https://readli.net/akademiya-popadantsev/
@@ -60,14 +68,6 @@
 ### Сбежать от князя тьмы
 Шаенская Анна
 > [2024-01-22] https://readli.net/sbezhat-ot-knyazya-tmyi-zapretnaya-nevesta/
-
-
-### Маша без медведя
-Войлошниковы Владимир И Ольга
-> [2024-01-21] http://flibusta.site/b/768457/read и https://readli.net/masha-bez-medvedya/
-> Вторая часть в процессе  https://author.today/reader/323974
-> Симпатично. Про попаданцев и магию. Хотелось бы дочитать
-> https://readli.net/chitat-online/?b=1272205&pg=1
 
 
 ### Вы признаны опасным
