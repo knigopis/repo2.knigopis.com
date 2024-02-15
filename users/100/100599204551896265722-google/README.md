@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>232</sup>
+# Список прочитанных книг пользователя exulted<sup>233</sup>
 ---
 
 ## 2024
+
+### Viking Raid: A Robert Fairchild Novel
+Matthew McCleery
+> [2024-01-13] 
+
 
 ### The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering
 Norman Finkelstein
