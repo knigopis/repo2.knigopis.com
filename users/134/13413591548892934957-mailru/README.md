@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>432</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>433</sup>
 ---
 
 ## 2024
+
+### Молчание цвета
+Наринэ Абгарян
+> [2024-02-17] 
+
 
 ### Завод "Свобода"
 Ксения Букша
