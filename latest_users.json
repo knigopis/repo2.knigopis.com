@@ -1,4 +1,10 @@
 {
+    "117932212421048968285-google": {
+        "id": "117932212421048968285-google",
+        "nickname": "SashaSizo0",
+        "booksCount": 0,
+        "updatedAt": "2024-02-17 15:20:07"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "MAS",
         "booksCount": 2,
         "updatedAt": "2023-12-05 06:06:57"
-    },
-    "104805486598372775238-google": {
-        "id": "104805486598372775238-google",
-        "nickname": "a92340oa",
-        "booksCount": 0,
-        "updatedAt": "2023-12-04 19:41:36"
     }
 }
