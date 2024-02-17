@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>23</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>233</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>431</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>235</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 [a92340oa](users/104/104805486598372775238-google)<sup>0</sup> 
-[](users/105/105803270930838059244-google)<sup>2</sup> 
 
 
-_15.02.2024 19:20:51_
+_17.02.2024 07:52:22_

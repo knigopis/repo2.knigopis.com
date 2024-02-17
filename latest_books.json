@@ -1,4 +1,16 @@
 {
+    "rZZvtcW9B9": {
+        "id": "rZZvtcW9B9",
+        "title": "Все хреново",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2024-02-17 07:52:22",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 23
+        }
+    },
     "Umt41OO1NO": {
         "id": "Umt41OO1NO",
         "title": "Viking Raid: A Robert Fairchild Novel",
@@ -345,18 +357,6 @@
             "id": "32096418-yandex",
             "nickname": "vokyalop",
             "booksCount": 1
-        }
-    },
-    "pa-wuVjMlP": {
-        "id": "pa-wuVjMlP",
-        "title": "Серёг Кьеркегор",
-        "author": "Управление Страхом",
-        "notes": "Ознакомился",
-        "createdAt": "2024-01-16 19:27:04",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 160
         }
     }
 }
