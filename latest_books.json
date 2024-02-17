@@ -1,4 +1,16 @@
 {
+    "11WRbB4fB6": {
+        "id": "11WRbB4fB6",
+        "title": "Собачье Сердце",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2024-02-17 08:18:54",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 24
+        }
+    },
     "rZZvtcW9B9": {
         "id": "rZZvtcW9B9",
         "title": "Все хреново",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 189
-        }
-    },
-    "kEDtpZBpNQ": {
-        "id": "kEDtpZBpNQ",
-        "title": "Необычайные приключения Тартарена из Тараскона",
-        "author": "Альфонс Доде",
-        "notes": "",
-        "createdAt": "2024-01-18 11:30:05",
-        "user": {
-            "id": "32096418-yandex",
-            "nickname": "vokyalop",
-            "booksCount": 1
         }
     }
 }
