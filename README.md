@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[SashaSizo0](users/117/117932212421048968285-google)<sup>0</sup> 
+[SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>433</sup> 
 [leo](users/106/106915386474260202605-google)<sup>24</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>233</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 
 
-_17.02.2024 15:20:07_
+_17.02.2024 15:21:25_
