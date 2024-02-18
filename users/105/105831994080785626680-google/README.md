@@ -1,4 +1,4 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>431</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>432</sup>
 ---
 
 ## 2024
@@ -6,6 +6,11 @@
 ### Вернуться
 Войлошниковы
 > [2024-02-29] https://readli.net/serie/35082/
+
+
+### Марс вызывает Венеру
+Саммер Майя
+> [2024-02-18] https://litnet.com/book/zapretnaya-lyubov-mars-vyzyvaet-veneru-b463883?utm_medium=repost&utm_campaign=463883&utm_term=0&utm_source=native
 
 
 ### Артефактор под прикрытием

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Марс вызывает Венеру ~ [Chiffi](users/105/105831994080785626680-google)<sup>432</sup>
+    > https://litnet.com/book/zapretnaya-lyubov-mars-vyzyvaet-veneru-b463883?utm_medium=repost&utm_campaign=463883&utm_term=0&utm_source=native
+
 * Вернуться ~ [Chiffi](users/105/105831994080785626680-google)<sup>431</sup>
     > https://readli.net/serie/35082/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/nevesta-pod-prikryitiem-2/
 
 * Академия попаданцев ~ [Chiffi](users/105/105831994080785626680-google)<sup>429</sup>
-    > https://readli.net/akademiya-popadantsev/
 
 * Fila vitae. Нити жизни ~ [Chiffi](users/105/105831994080785626680-google)<sup>428</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Невеста до рассвета ~ [Chiffi](users/105/105831994080785626680-google)<sup>425</sup>
 
-* Королева падающих заезд ~ [Chiffi](users/105/105831994080785626680-google)<sup>424</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>432</sup> 
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>433</sup> 
 [leo](users/106/106915386474260202605-google)<sup>24</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>233</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>431</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>235</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>194</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 
 
-_17.02.2024 15:21:25_
+_18.02.2024 19:14:53_
