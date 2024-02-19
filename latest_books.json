@@ -1,4 +1,16 @@
 {
+    "S_-zpNUqsa": {
+        "id": "S_-zpNUqsa",
+        "title": "12 правил жизни: противоядие от хаоса",
+        "author": "Джордан Питерсон",
+        "notes": "10 из 10",
+        "createdAt": "2024-02-19 07:42:28",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "Evermind",
+            "booksCount": 69
+        }
+    },
     "Iu9O-GgWKx": {
         "id": "Iu9O-GgWKx",
         "title": "Марс вызывает Венеру",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 421
-        }
-    },
-    "mLwpubTVA5": {
-        "id": "mLwpubTVA5",
-        "title": "Маша без медведя",
-        "author": "Войлошниковы Владимир И Ольга",
-        "notes": "http://flibusta.site/b/768457/read",
-        "createdAt": "2024-01-20 20:20:12",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 420
         }
     }
 }

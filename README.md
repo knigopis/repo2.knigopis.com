@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 12 правил жизни: противоядие от хаоса ~ [Evermind](users/302/302928912-vkontakte)<sup>69</sup>
+    > 10 из 10
+
 * Марс вызывает Венеру ~ [Chiffi](users/105/105831994080785626680-google)<sup>432</sup>
     > https://litnet.com/book/zapretnaya-lyubov-mars-vyzyvaet-veneru-b463883?utm_medium=repost&utm_campaign=463883&utm_term=0&utm_source=native
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/serie/35082/
 
 * Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>430</sup>
-    > https://readli.net/nevesta-pod-prikryitiem-2/
 
 * Академия попаданцев ~ [Chiffi](users/105/105831994080785626680-google)<sup>429</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дюна ~ [Garka](users/115/115753719718250012620-google)<sup>365</sup>
 
-* Невеста до рассвета ~ [Chiffi](users/105/105831994080785626680-google)<sup>425</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>432</sup> 
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>433</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>68</sup> 
 [](users/150/15053407-yandex)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup> 
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 
 
-_18.02.2024 19:14:53_
+_19.02.2024 07:42:28_

@@ -1,5 +1,13 @@
-# List of books read by Evermind<sup>68</sup>
+# List of books read by Evermind<sup>69</sup>
 ---
+
+## 2024
+
+### 12 правил жизни: противоядие от хаоса
+Джордан Питерсон
+> [2024-02-18] 10 из 10
+
+
 
 ## 2023
 

@@ -1,4 +1,16 @@
 {
+    "S_-zpNUqsa": {
+        "id": "S_-zpNUqsa",
+        "title": "12 правил жизни: противоядие от хаоса",
+        "author": "Джордан Питерсон",
+        "notes": "10 из 10",
+        "createdAt": "2024-02-19 07:42:28",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "Evermind",
+            "booksCount": 69
+        }
+    },
     "Iu9O-GgWKx": {
         "id": "Iu9O-GgWKx",
         "title": "Марс вызывает Венеру",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 126
-        }
-    },
-    "m7DsRJaN-b": {
-        "id": "m7DsRJaN-b",
-        "title": "Мидлмарч",
-        "author": "Джордж Элиот",
-        "notes": "audio\nОтборное гавно",
-        "createdAt": "2023-12-27 04:00:25",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 125
         }
     }
 }
