@@ -1,4 +1,16 @@
 {
+    "ON8FHbr2Mw": {
+        "id": "ON8FHbr2Mw",
+        "title": "Деревня",
+        "author": "Иван Алексеевич Бунин",
+        "notes": "",
+        "createdAt": "2024-02-21 07:46:48",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 236
+        }
+    },
     "nKVeDt5jxO": {
         "id": "nKVeDt5jxO",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 65
-        }
-    },
-    "DkPQjGXMOO": {
-        "id": "DkPQjGXMOO",
-        "title": "История российского государства. Эпоха цариц",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2024-01-23 06:53:54",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 431
         }
     }
 }
