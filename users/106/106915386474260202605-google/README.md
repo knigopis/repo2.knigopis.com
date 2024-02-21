@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>24</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>25</sup>
 ---
 
 ## 2024
+
+### Жизнь
+Ги Де Мопассан
+> [2024-02-21] 
+
 
 ### Собачье Сердце
 Михаил Булгаков
