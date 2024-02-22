@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
+    > Прослушала до 44%, очень нудно.
+
 * 12 правил жизни: противоядие от хаоса ~ [Evermind](users/302/302928912-vkontakte)<sup>69</sup>
     > 10 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://litnet.com/book/zapretnaya-lyubov-mars-vyzyvaet-veneru-b463883?utm_medium=repost&utm_campaign=463883&utm_term=0&utm_source=native
 
 * Вернуться ~ [Chiffi](users/105/105831994080785626680-google)<sup>431</sup>
-    > https://readli.net/serie/35082/
 
 * Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>430</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Брак на поражение ~ [Chiffi](users/105/105831994080785626680-google)<sup>426</sup>
 
-* Дюна ~ [Garka](users/115/115753719718250012620-google)<sup>365</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>236</sup> 
 [leo](users/106/106915386474260202605-google)<sup>25</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
 [](users/150/15053407-yandex)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>283</sup> 
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 [MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 
 
-_21.02.2024 07:46:49_
+_22.02.2024 01:54:24_
