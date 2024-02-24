@@ -1,4 +1,10 @@
 {
+    "116424012935321035501-google": {
+        "id": "116424012935321035501-google",
+        "nickname": "tester",
+        "booksCount": 0,
+        "updatedAt": "2024-02-24 03:35:47"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-12-05 15:57:23"
-    },
-    "3848610264283409624-mailru": {
-        "id": "3848610264283409624-mailru",
-        "nickname": "MAS",
-        "booksCount": 2,
-        "updatedAt": "2023-12-05 06:06:57"
     }
 }
