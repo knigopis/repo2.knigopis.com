@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tester](users/116/116424012935321035501-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>236</sup> 
 [leo](users/106/106915386474260202605-google)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
 [](users/150/15053407-yandex)<sup>0</sup> 
 [](users/116/116467737249031140129-google)<sup>0</sup> 
-[MAS](users/384/3848610264283409624-mailru)<sup>2</sup> 
 
 
-_22.02.2024 01:54:24_
+_24.02.2024 03:35:48_
