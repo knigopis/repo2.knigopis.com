@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поющие в терновнике ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup>
+    > audio
+
 * Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
     > Прослушала до 44%, очень нудно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10 из 10
 
 * Марс вызывает Венеру ~ [Chiffi](users/105/105831994080785626680-google)<sup>432</sup>
-    > https://litnet.com/book/zapretnaya-lyubov-mars-vyzyvaet-veneru-b463883?utm_medium=repost&utm_campaign=463883&utm_term=0&utm_source=native
 
 * Вернуться ~ [Chiffi](users/105/105831994080785626680-google)<sup>431</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пирамиды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup>
 
-* Брак на поражение ~ [Chiffi](users/105/105831994080785626680-google)<sup>426</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>236</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>433</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>233</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>194</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>365</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 
 
-_24.02.2024 03:35:48_
+_24.02.2024 18:04:21_

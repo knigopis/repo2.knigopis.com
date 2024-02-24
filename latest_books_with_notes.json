@@ -1,4 +1,16 @@
 {
+    "B-oIoGUmIP": {
+        "id": "B-oIoGUmIP",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "audio",
+        "createdAt": "2024-02-24 18:04:21",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 128
+        }
+    },
     "80CaAMdi1G": {
         "id": "80CaAMdi1G",
         "title": "Номер 16",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 415
-        }
-    },
-    "Pjbt9P6XCm": {
-        "id": "Pjbt9P6XCm",
-        "title": "Не все нас попадают",
-        "author": "",
-        "notes": "https://readli.net/serie/30575/",
-        "createdAt": "2023-12-30 15:21:56",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 414
         }
     }
 }

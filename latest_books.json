@@ -1,4 +1,16 @@
 {
+    "B-oIoGUmIP": {
+        "id": "B-oIoGUmIP",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "audio",
+        "createdAt": "2024-02-24 18:04:21",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 128
+        }
+    },
     "80CaAMdi1G": {
         "id": "80CaAMdi1G",
         "title": "Номер 16",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 423
-        }
-    },
-    "mXsHxf-0O9": {
-        "id": "mXsHxf-0O9",
-        "title": "Как украсть дракона",
-        "author": "Шаенская Анна",
-        "notes": "https://loveread.com.ua/anna-shaenskaya-kak-ukrast-drakona.html",
-        "createdAt": "2024-01-23 20:37:41",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 422
         }
     }
 }
