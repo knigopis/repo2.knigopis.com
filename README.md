@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Вит](users/300/300273923-vkontakte)<sup>162</sup> 
+[Вит](users/300/300273923-vkontakte)<sup>163</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>66</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 
 
-_26.02.2024 06:42:02_
+_26.02.2024 06:44:04_

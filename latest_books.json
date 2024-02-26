@@ -1,4 +1,16 @@
 {
+    "CDZnHUJXlq": {
+        "id": "CDZnHUJXlq",
+        "title": "Перекрёстки",
+        "author": "Джонатан Франзен",
+        "notes": "",
+        "createdAt": "2024-02-26 06:44:04",
+        "user": {
+            "id": "300273923-vkontakte",
+            "nickname": "Вит",
+            "booksCount": 163
+        }
+    },
     "5jiihKY2nO": {
         "id": "5jiihKY2nO",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 424
-        }
-    },
-    "ZT2tMz4mIa": {
-        "id": "ZT2tMz4mIa",
-        "title": "Завод \"Свобода\"",
-        "author": "Ксения Букша",
-        "notes": "",
-        "createdAt": "2024-01-26 21:22:57",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 432
         }
     }
 }
