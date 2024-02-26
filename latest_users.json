@@ -1,4 +1,10 @@
 {
+    "300273923-vkontakte": {
+        "id": "300273923-vkontakte",
+        "nickname": "Вит",
+        "booksCount": 162,
+        "updatedAt": "2024-02-26 06:42:02"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -88,12 +94,6 @@
         "nickname": "Cr_RONIN",
         "booksCount": 15,
         "updatedAt": "2024-01-25 23:16:31"
-    },
-    "300273923-vkontakte": {
-        "id": "300273923-vkontakte",
-        "nickname": "Вит",
-        "booksCount": 161,
-        "updatedAt": "2024-01-20 13:52:26"
     },
     "32096418-yandex": {
         "id": "32096418-yandex",

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фауст ~ [Вит](users/300/300273923-vkontakte)<sup>162</sup>
+    > Первая часть заша, дальше каша
+
 * Здоровый сон ~ [mfevralev](users/140/140966150-vkontakte)<sup>66</sup>
     > Есть полезные советы
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
-    > Прослушала до 44%, очень нудно.
 
 * 12 правил жизни: противоядие от хаоса ~ [Evermind](users/302/302928912-vkontakte)<sup>69</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Fila vitae. Нити жизни ~ [Chiffi](users/105/105831994080785626680-google)<sup>428</sup>
 
-* Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>427</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Вит](users/300/300273923-vkontakte)<sup>162</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>66</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>365</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>161</sup> 
 [vokyalop](users/320/32096418-yandex)<sup>1</sup> 
 [zeleniyk](users/196/19644235-vkontakte)<sup>1</sup> 
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 
 
-_26.02.2024 04:22:52_
+_26.02.2024 06:42:02_
