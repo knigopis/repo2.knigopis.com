@@ -1,4 +1,16 @@
 {
+    "WomuGkxL8x": {
+        "id": "WomuGkxL8x",
+        "title": "Мелкие боги",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2024-02-26 07:33:08",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 129
+        }
+    },
     "JAj0TGWt4X": {
         "id": "JAj0TGWt4X",
         "title": "Поправки",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 365
-        }
-    },
-    "bh0-KWEi_4": {
-        "id": "bh0-KWEi_4",
-        "title": "Невеста до рассвета",
-        "author": "Шаенская Анна",
-        "notes": "https://loveread.com.ua/nevesta-do-rassveta-anna-shaenskaya.html",
-        "createdAt": "2024-01-28 16:55:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 425
         }
     }
 }

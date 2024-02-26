@@ -1,4 +1,16 @@
 {
+    "WomuGkxL8x": {
+        "id": "WomuGkxL8x",
+        "title": "Мелкие боги",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2024-02-26 07:33:08",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 129
+        }
+    },
     "5jiihKY2nO": {
         "id": "5jiihKY2nO",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "300273923-vkontakte",
             "nickname": "Вит",
             "booksCount": 152
-        }
-    },
-    "HvwN6V_eKU": {
-        "id": "HvwN6V_eKU",
-        "title": "Второй шанс. Книга вторая",
-        "author": "Звёздная Елена",
-        "notes": "https://readli.net/chitat-online/?b=1251442&pg=1",
-        "createdAt": "2024-01-05 22:26:20",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 417
         }
     }
 }

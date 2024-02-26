@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мелкие боги ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>129</sup>
+    > audio
+
 * Фауст ~ [Вит](users/300/300273923-vkontakte)<sup>162</sup>
     > Первая часть заша, дальше каша
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Есть полезные советы
 
 * Поющие в терновнике ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup>
-    > audio
 
 * Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Академия попаданцев ~ [Chiffi](users/105/105831994080785626680-google)<sup>429</sup>
 
-* Fila vitae. Нити жизни ~ [Chiffi](users/105/105831994080785626680-google)<sup>428</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>129</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>66</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>236</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116467737249031140129-google)<sup>0</sup> 
 
 
-_26.02.2024 06:44:36_
+_26.02.2024 07:33:08_
