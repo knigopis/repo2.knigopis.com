@@ -1,4 +1,16 @@
 {
+    "1MyYwtZvRC": {
+        "id": "1MyYwtZvRC",
+        "title": "Здоровый сон",
+        "author": "Шон Стивенсон",
+        "notes": "Есть полезные советы",
+        "createdAt": "2024-02-26 04:22:52",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 66
+        }
+    },
     "B-oIoGUmIP": {
         "id": "B-oIoGUmIP",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "112090473416384685204-google",
             "nickname": "Cr_RONIN",
             "booksCount": 15
-        }
-    },
-    "OuBc0e2O5f": {
-        "id": "OuBc0e2O5f",
-        "title": "Академия мечтателей",
-        "author": "Шаенская Анна",
-        "notes": "https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-akademiya-mechtatelei",
-        "createdAt": "2024-01-24 21:21:41",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 423
         }
     }
 }

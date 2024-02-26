@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Здоровый сон ~ [mfevralev](users/140/140966150-vkontakte)<sup>66</sup>
 * Поющие в терновнике ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup>
 * Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
 * 12 правил жизни: противоядие от хаоса ~ [Evermind](users/302/302928912-vkontakte)<sup>69</sup>
@@ -30,7 +31,6 @@
 * Тошнота ~ [Вит](users/300/300273923-vkontakte)<sup>152</sup>
 * Второй шанс. Книга вторая ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
 * Жених или невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>417</sup>
-* Кикимора для хама ~ [Chiffi](users/105/105831994080785626680-google)<sup>415</sup>
 
 
-_24.02.2024 18:04:21_
+_26.02.2024 04:22:52_
