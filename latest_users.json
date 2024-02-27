@@ -1,4 +1,10 @@
 {
+    "116407812532669338806-google": {
+        "id": "116407812532669338806-google",
+        "nickname": "Ahushiling",
+        "booksCount": 0,
+        "updatedAt": "2024-02-27 03:51:33"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2023-12-16 20:31:53"
-    },
-    "116467737249031140129-google": {
-        "id": "116467737249031140129-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-12-05 15:57:23"
     }
 }
