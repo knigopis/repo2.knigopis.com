@@ -1,4 +1,16 @@
 {
+    "2A97RnBWns": {
+        "id": "2A97RnBWns",
+        "title": "95-й. Сны о будущем прошлом",
+        "author": "Войлошников Владимир и Ольга",
+        "notes": "https://readli.net/95-y-snyi-o-budushhem-proshlom-2/",
+        "createdAt": "2024-02-27 14:24:07",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 433
+        }
+    },
     "WomuGkxL8x": {
         "id": "WomuGkxL8x",
         "title": "Мелкие боги",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 418
-        }
-    },
-    "MC84n1ljcz": {
-        "id": "MC84n1ljcz",
-        "title": "Тошнота",
-        "author": "Жан Поль Сартр",
-        "notes": "Довольно непростое чтиво. Если это произведение, точнее автора ставят в один ряд экзистенциалистов вместе с Достоевским, то я много не понимаю)",
-        "createdAt": "2024-01-06 16:10:20",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 152
         }
     }
 }
