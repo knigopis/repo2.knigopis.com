@@ -1,7 +1,12 @@
-# List of books read by [Ahushiling](https://plus.google.com/u/0/116407812532669338806/)<sup>1</sup>
+# List of books read by [Ahushiling](https://plus.google.com/u/0/116407812532669338806/)<sup>2</sup>
 ---
 
 ## 2024
+
+### Викинг. Гнев Севера
+Александр Мазин
+> [2024-02] 
+
 
 ### Варяг. Сквозь огонь
 Александр Мазин

@@ -1,4 +1,16 @@
 {
+    "SPDsdYGkpV": {
+        "id": "SPDsdYGkpV",
+        "title": "Викинг. Гнев Севера",
+        "author": "Александр Мазин",
+        "notes": "",
+        "createdAt": "2024-02-27 03:58:53",
+        "user": {
+            "id": "116407812532669338806-google",
+            "nickname": "Ahushiling",
+            "booksCount": 2
+        }
+    },
     "7XhtXRXvGY": {
         "id": "7XhtXRXvGY",
         "title": "Варяг. Сквозь огонь",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 127
-        }
-    },
-    "URWxc-Rumj": {
-        "id": "URWxc-Rumj",
-        "title": "Брак на поражение",
-        "author": "Шаенская Анна",
-        "notes": "https://loveread.com.ua/anna-shaenskaya-brak-na-porazhenie.html",
-        "createdAt": "2024-01-31 22:28:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 426
         }
     }
 }
