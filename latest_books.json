@@ -1,4 +1,16 @@
 {
+    "ZCyrZ24orq": {
+        "id": "ZCyrZ24orq",
+        "title": "Франкенштейн, или современный Прометей",
+        "author": "Мэри Шелли",
+        "notes": "audio",
+        "createdAt": "2024-02-28 16:25:19",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 130
+        }
+    },
     "2A97RnBWns": {
         "id": "2A97RnBWns",
         "title": "95-й. Сны о будущем прошлом",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 427
-        }
-    },
-    "3O6vQv7H7p": {
-        "id": "3O6vQv7H7p",
-        "title": "Авторитарная Россия",
-        "author": "В. Гельман",
-        "notes": "",
-        "createdAt": "2024-02-05 21:34:09",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 191
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "ZCyrZ24orq": {
+        "id": "ZCyrZ24orq",
+        "title": "Франкенштейн, или современный Прометей",
+        "author": "Мэри Шелли",
+        "notes": "audio",
+        "createdAt": "2024-02-28 16:25:19",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 130
+        }
+    },
     "2A97RnBWns": {
         "id": "2A97RnBWns",
         "title": "95-й. Сны о будущем прошлом",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 95
-        }
-    },
-    "AaQeno3y7m": {
-        "id": "AaQeno3y7m",
-        "title": "Второй шанс. Книга третья",
-        "author": "Звёздная Елена",
-        "notes": "https://readli.net/vtoroy-shans-kniga-tretya/",
-        "createdAt": "2024-01-06 20:28:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 418
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Франкенштейн, или современный Прометей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup>
+    > audio
+
 * 95-й. Сны о будущем прошлом ~ [Chiffi](users/105/105831994080785626680-google)<sup>433</sup>
     > https://readli.net/95-y-snyi-o-budushhem-proshlom-2/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Фауст ~ [Вит](users/300/300273923-vkontakte)<sup>162</sup>
-    > Первая часть заша, дальше каша
 
 * Здоровый сон ~ [mfevralev](users/140/140966150-vkontakte)<sup>66</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Вернуться ~ [Chiffi](users/105/105831994080785626680-google)<sup>431</sup>
 
-* Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>430</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>433</sup> 
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>129</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>66</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/150/15053407-yandex)<sup>0</sup> 
 
 
-_27.02.2024 14:24:07_
+_28.02.2024 16:25:19_
