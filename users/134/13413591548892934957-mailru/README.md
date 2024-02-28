@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>433</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>434</sup>
 ---
 
 ## 2024
+
+### Унеси ты мое горе
+Катерина Гордеева
+> [2024-02-29] 
+
 
 ### Молчание цвета
 Наринэ Абгарян

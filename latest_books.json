@@ -1,4 +1,16 @@
 {
+    "7FB7hk_sVW": {
+        "id": "7FB7hk_sVW",
+        "title": "Унеси ты мое горе",
+        "author": "Катерина Гордеева",
+        "notes": "",
+        "createdAt": "2024-02-28 20:27:33",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 434
+        }
+    },
     "ZCyrZ24orq": {
         "id": "ZCyrZ24orq",
         "title": "Франкенштейн, или современный Прометей",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 428
-        }
-    },
-    "SnY1uiAs81": {
-        "id": "SnY1uiAs81",
-        "title": "Артефактор под прикрытием",
-        "author": "Шаенская Анна",
-        "notes": "http://loveread.ec/view_global.php?id=105480",
-        "createdAt": "2024-02-06 20:57:54",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 427
         }
     }
 }
