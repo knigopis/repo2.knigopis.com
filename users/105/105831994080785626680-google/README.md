@@ -5,7 +5,7 @@
 
 ### 95-й. Сны о будущем прошлом
 Войлошников Владимир и Ольга
-> [2024-02-29] https://readli.net/95-y-snyi-o-budushhem-proshlom-2/
+> [2024-03-01] https://readli.net/95-y-snyi-o-budushhem-proshlom-2/
 
 
 ### СССР: вернуться в детство
