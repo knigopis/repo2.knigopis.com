@@ -1,4 +1,4 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>435</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>434</sup>
 ---
 
 ## 2024
@@ -21,10 +21,6 @@
 ### История российского государства. Эпоха цариц
 Борис Акунин
 > [2024-01-23] 
-
-
-### ооаоал
-слслсл
 
 
 
