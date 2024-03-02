@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>433</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>434</sup>
 ---
 
 ## 2024
+
+### Артефактор под прикрытием
+Шаенская Анна
+> [2024-03-04] https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem
+
 
 ### 95-й. Сны о будущем прошлом
 Войлошников Владимир и Ольга

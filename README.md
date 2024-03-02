@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>434</sup>
+    > https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem
+
 * Франкенштейн, или современный Прометей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/95-y-snyi-o-budushhem-proshlom-2/
 
 * Мелкие боги ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>129</sup>
-    > audio
 
 * Фауст ~ [Вит](users/300/300273923-vkontakte)<sup>162</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Марс вызывает Венеру ~ [Chiffi](users/105/105831994080785626680-google)<sup>432</sup>
 
-* Вернуться ~ [Chiffi](users/105/105831994080785626680-google)<sup>431</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>434</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>434</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>433</sup> 
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/150/15053407-yandex)<sup>0</sup> 
 
 
-_01.03.2024 17:15:53_
+_02.03.2024 20:32:14_

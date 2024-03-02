@@ -1,4 +1,16 @@
 {
+    "OIKZIOfS5N": {
+        "id": "OIKZIOfS5N",
+        "title": "Артефактор под прикрытием",
+        "author": "Шаенская Анна",
+        "notes": "https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem",
+        "createdAt": "2024-03-02 20:32:14",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 434
+        }
+    },
     "fur3tqBMD2": {
         "id": "fur3tqBMD2",
         "title": "ооаоал",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 192
-        }
-    },
-    "GB-UrQ3uUX": {
-        "id": "GB-UrQ3uUX",
-        "title": "Воскресение",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2024-02-07 15:23:32",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 234
         }
     }
 }
