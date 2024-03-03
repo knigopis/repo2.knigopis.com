@@ -1,4 +1,16 @@
 {
+    "YcGm4OywHG": {
+        "id": "YcGm4OywHG",
+        "title": "Звонок - 0. Рождение",
+        "author": "Кодзи Судзуки",
+        "notes": "",
+        "createdAt": "2024-03-03 17:13:21",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 285
+        }
+    },
     "OIKZIOfS5N": {
         "id": "OIKZIOfS5N",
         "title": "Артефактор под прикрытием",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 429
-        }
-    },
-    "MAhm5xQ60C": {
-        "id": "MAhm5xQ60C",
-        "title": "Elon Musk",
-        "author": "W. Isaacson",
-        "notes": "",
-        "createdAt": "2024-02-09 10:18:39",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 192
         }
     }
 }

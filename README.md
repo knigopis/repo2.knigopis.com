@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>285</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>434</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>434</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>66</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>236</sup> 
 [leo](users/106/106915386474260202605-google)<sup>25</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/150/15053407-yandex)<sup>0</sup> 
 
 
-_02.03.2024 20:32:14_
+_03.03.2024 17:13:21_
