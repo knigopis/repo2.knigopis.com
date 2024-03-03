@@ -176,10 +176,12 @@
 
 
 ### Граф Аверин
-Дашкевич Виктор
+Дашкевич Виктор (Фламмер Виктор)
 > [2023-12-02] https://loveread.info/books/nauchnaya-fantastika/197375-graf-averin-koldun-rossiiskoi-imperii-si-viktor.html
 > имперское мышление, ничего не поделаешь. Никто не будет уважать тебя, если ты выглядишь бедняком. И никто не будет уважать государство, если его служащие ютятся в каморках.
 > https://readli.net/graf-averin-koldun-rossiyskoy-imperii/
+> 
+> http://loveread.ec/biography-author.php?author=Viktor-Flammer
 
 
 ### Антикварная книга от А до Я, или пособие для коллекционеров и антикваров, а также для всех любителей старинных книг
