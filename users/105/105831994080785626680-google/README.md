@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>434</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>435</sup>
 ---
 
 ## 2024
+
+### Они не люди
+Дашкевич Виктор (Фламмер)
+> [2024-03-05] http://loveread.ec/read_book.php?id=110046&p=1
+> Третья книга про графа Аверина
+
 
 ### Артефактор под прикрытием
 Шаенская Анна

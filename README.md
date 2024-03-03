@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Они не люди ~ [Chiffi](users/105/105831994080785626680-google)<sup>435</sup>
+    > http://loveread.ec/read_book.php?id=110046&p=1
+    > Третья книга про графа Аверина
+
 * Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>434</sup>
     > https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * 95-й. Сны о будущем прошлом ~ [Chiffi](users/105/105831994080785626680-google)<sup>433</sup>
-    > https://readli.net/95-y-snyi-o-budushhem-proshlom-2/
 
 * Мелкие боги ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>129</sup>
 
@@ -26,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * 12 правил жизни: противоядие от хаоса ~ [Evermind](users/302/302928912-vkontakte)<sup>69</sup>
 
-* Марс вызывает Венеру ~ [Chiffi](users/105/105831994080785626680-google)<sup>432</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>435</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>285</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>434</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>434</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup> 
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/150/15053407-yandex)<sup>0</sup> 
 
 
-_03.03.2024 17:13:21_
+_03.03.2024 21:51:10_
