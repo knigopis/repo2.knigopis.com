@@ -1,4 +1,10 @@
 {
+    "105132765868492364316-google": {
+        "id": "105132765868492364316-google",
+        "nickname": "telkantto",
+        "booksCount": 0,
+        "updatedAt": "2024-03-05 11:36:20"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Askaliya",
         "booksCount": 44,
         "updatedAt": "2023-12-19 18:01:18"
-    },
-    "15053407-yandex": {
-        "id": "15053407-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2023-12-16 20:31:53"
     }
 }
