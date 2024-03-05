@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>435</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>285</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>434</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
-[](users/150/15053407-yandex)<sup>0</sup> 
 
 
-_03.03.2024 21:51:10_
+_05.03.2024 11:36:21_
