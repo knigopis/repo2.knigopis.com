@@ -1,4 +1,16 @@
 {
+    "dqRXnIW1bx": {
+        "id": "dqRXnIW1bx",
+        "title": "Мужские правила",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2024-03-06 16:26:16",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 26
+        }
+    },
     "LKkJbBdsa_": {
         "id": "LKkJbBdsa_",
         "title": "Они не люди",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 430
-        }
-    },
-    "KP10bcoi0s": {
-        "id": "KP10bcoi0s",
-        "title": "Покорность",
-        "author": "М. Уэльбек",
-        "notes": "",
-        "createdAt": "2024-02-11 13:20:17",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 193
         }
     }
 }

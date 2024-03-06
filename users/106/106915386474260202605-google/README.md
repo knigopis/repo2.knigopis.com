@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>25</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>26</sup>
 ---
 
 ## 2024
+
+### Мужские правила
+Марк Мэнсон
+> [2024-03-06] 
+
 
 ### Жизнь
 Ги Де Мопассан
