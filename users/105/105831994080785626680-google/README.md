@@ -1,4 +1,4 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>435</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>434</sup>
 ---
 
 ## 2024
@@ -37,11 +37,6 @@
 ### Марс вызывает Венеру
 Саммер Майя
 > [2024-02-18] https://litnet.com/book/zapretnaya-lyubov-mars-vyzyvaet-veneru-b463883?utm_medium=repost&utm_campaign=463883&utm_term=0&utm_source=native
-
-
-### Артефактор под прикрытием
-Шаенская Анна
-> [2024-02-15] http://loveread.ec/view_global.php?id=105480
 
 
 ### Невеста под прикрытием
