@@ -3,6 +3,14 @@
 
 ## 2024
 
+### Маша без медведя (2части)и Маша и медведь
+Войлошников Владимир И Войлошникова Ольга
+> [2024-03-10] http://flibusta.site/b/768457/read и https://readli.net/masha-bez-medvedya/
+> Вторая часть в процессе  https://author.today/reader/323974
+> Симпатично. Про попаданцев и магию. Хотелось бы дочитать
+> https://readli.net/chitat-online/?b=1272205&pg=1
+
+
 ### Артефактор под прикрытием (две части)
 Шаенская Анна
 > [2024-03-07] https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem
@@ -42,14 +50,6 @@
 ### Невеста под прикрытием
 Боталова Мария
 > [2024-02-14] https://readli.net/nevesta-pod-prikryitiem-2/
-
-
-### Маша без медведя
-Войлошниковы Владимир И Ольга
-> [2024-02-13] http://flibusta.site/b/768457/read и https://readli.net/masha-bez-medvedya/
-> Вторая часть в процессе  https://author.today/reader/323974
-> Симпатично. Про попаданцев и магию. Хотелось бы дочитать
-> https://readli.net/chitat-online/?b=1272205&pg=1
 
 
 ### Академия попаданцев
