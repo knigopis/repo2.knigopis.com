@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>195</sup>
+# List of books read by 4apa<sup>196</sup>
 ---
 
 ## 2024
+
+### Стеклянный небосвод
+Д. Собел
+> [2024-03-01] 
+
 
 ### Серотонин
 М. Уэльбек
