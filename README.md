@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>237</sup> 
 [leo](users/106/106915386474260202605-google)<sup>26</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>434</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 [](users/115/115095777313809768381-google)<sup>3</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>44</sup> 
 
 
-_09.03.2024 09:28:02_
+_10.03.2024 05:44:48_
