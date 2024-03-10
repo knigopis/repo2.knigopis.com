@@ -16,6 +16,9 @@
 > [2024-03-07] https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem
 > 
 > http://loveread.ec/view_global.php?id=105480
+> http://loveread.ec/read_book.php?id=105224
+> 
+> Вторая часть слишком тягучая.
 
 
 ### Они не люди
