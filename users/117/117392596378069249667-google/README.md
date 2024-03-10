@@ -1,4 +1,4 @@
-# List of books read by 4apa<sup>194</sup>
+# List of books read by 4apa<sup>195</sup>
 ---
 
 ## 2024
@@ -11,6 +11,11 @@
 ### Покорность
 М. Уэльбек
 > [2024-02-11] 
+
+
+### Уничтожить
+М. Уэльбек
+> [2024-02-10] 
 
 
 ### Elon Musk
