@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>195</sup>
+# List of books read by 4apa<sup>196</sup>
 ---
 
 ## 2024
+
+### Неудобное прошлое
+Н. Эппле
+> [2024-02-25] 
+
 
 ### Серотонин
 М. Уэльбек
