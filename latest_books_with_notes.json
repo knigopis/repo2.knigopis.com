@@ -1,4 +1,16 @@
 {
+    "qrsLtJvjZ3": {
+        "id": "qrsLtJvjZ3",
+        "title": "Казаки в первой Русско-Турецкой войне",
+        "author": "Венков",
+        "notes": "Про полки что несли службу",
+        "createdAt": "2024-03-10 16:11:01",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 67
+        }
+    },
     "LKkJbBdsa_": {
         "id": "LKkJbBdsa_",
         "title": "Они не люди",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 419
-        }
-    },
-    "X60TMXWSh_": {
-        "id": "X60TMXWSh_",
-        "title": "Заводной апельсин",
-        "author": "Энтони Берджис",
-        "notes": "Бросил. Муть какая-то. Быдло",
-        "createdAt": "2024-01-11 17:55:44",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 154
         }
     }
 }

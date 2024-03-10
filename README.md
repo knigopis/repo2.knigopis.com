@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Казаки в первой Русско-Турецкой войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>67</sup>
+    > Про полки что несли службу
+
 * Они не люди ~ [Chiffi](users/105/105831994080785626680-google)<sup>435</sup>
     > http://loveread.ec/read_book.php?id=110046&p=1
     > Третья книга про графа Аверина
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem
 
 * Франкенштейн, или современный Прометей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup>
-    > audio
 
 * 95-й. Сны о будущем прошлом ~ [Chiffi](users/105/105831994080785626680-google)<sup>433</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
 
-* 12 правил жизни: противоядие от хаоса ~ [Evermind](users/302/302928912-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
 [Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>237</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup> 
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>66</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 
 
-_10.03.2024 15:49:51_
+_10.03.2024 16:11:01_

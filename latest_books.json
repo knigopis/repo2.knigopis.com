@@ -1,4 +1,16 @@
 {
+    "qrsLtJvjZ3": {
+        "id": "qrsLtJvjZ3",
+        "title": "Казаки в первой Русско-Турецкой войне",
+        "author": "Венков",
+        "notes": "Про полки что несли службу",
+        "createdAt": "2024-03-10 16:11:01",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 67
+        }
+    },
     "ojJ0ZKbk7H": {
         "id": "ojJ0ZKbk7H",
         "title": "В ожидании варворов",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 24
-        }
-    },
-    "rZZvtcW9B9": {
-        "id": "rZZvtcW9B9",
-        "title": "Все хреново",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2024-02-17 07:52:22",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 23
         }
     }
 }
