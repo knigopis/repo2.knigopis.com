@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>365</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>366</sup>
 ---
 
 ## 2024
+
+### И пели птицы
+Фолкс Себастьян
+> [2024-02-26] 
+
 
 ### Дюна
 Херберт Фрэнк

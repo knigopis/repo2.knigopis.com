@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>366</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>435</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>233</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>365</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
 [vokyalop](users/320/32096418-yandex)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 
 
-_13.03.2024 19:10:49_
+_14.03.2024 09:53:28_
