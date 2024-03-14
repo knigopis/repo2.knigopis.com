@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вдали от обезумевшей толпы ~ [Garka](users/115/115753719718250012620-google)<sup>367</sup>
+    > Очень скучно, предсказуемо и нелепо
+
 * Казаки в первой Русско-Турецкой войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>67</sup>
     > Про полки что несли службу
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Третья книга про графа Аверина
 
 * Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>434</sup>
-    > https://loveread.com.ua/site/bookread?subdomain=anna-shaenskaya-artefaktor-pod-prikrytiem
 
 * Франкенштейн, или современный Прометей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Поющие в терновнике ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup>
 
-* Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>366</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>367</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>435</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 
 
-_14.03.2024 09:53:28_
+_14.03.2024 09:54:39_
