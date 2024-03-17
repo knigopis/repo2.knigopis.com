@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>367</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>368</sup>
 ---
 
 ## 2024
+
+### Герметикон. Последний адмирал Заграты
+Панов, Вадим
+> [2024-03-16] 
+
 
 ### Вдали от обезумевшей толпы
 Гарди Томас
