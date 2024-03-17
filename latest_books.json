@@ -1,4 +1,16 @@
 {
+    "r08HEDV82Y": {
+        "id": "r08HEDV82Y",
+        "title": "Изумительный Морис и его просвещенные грызуны",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2024-03-17 19:08:37",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 131
+        }
+    },
     "yXwt7f99B7": {
         "id": "yXwt7f99B7",
         "title": "Герметикон. Последний адмирал Заграты",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 25
-        }
-    },
-    "S_-zpNUqsa": {
-        "id": "S_-zpNUqsa",
-        "title": "12 правил жизни: противоядие от хаоса",
-        "author": "Джордан Питерсон",
-        "notes": "10 из 10",
-        "createdAt": "2024-02-19 07:42:28",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "Evermind",
-            "booksCount": 69
         }
     }
 }

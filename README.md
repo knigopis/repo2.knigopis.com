@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Изумительный Морис и его просвещенные грызуны ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup>
+    > audio
+
 * Вдали от обезумевшей толпы ~ [Garka](users/115/115753719718250012620-google)<sup>367</sup>
     > Очень скучно, предсказуемо и нелепо
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Про полки что несли службу
 
 * Они не люди ~ [Chiffi](users/105/105831994080785626680-google)<sup>435</sup>
-    > http://loveread.ec/read_book.php?id=110046&p=1
-    > Третья книга про графа Аверина
 
 * Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>434</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Здоровый сон ~ [mfevralev](users/140/140966150-vkontakte)<sup>66</sup>
 
-* Поющие в терновнике ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>368</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>435</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
@@ -44,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>285</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>434</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup> 
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 
 
-_17.03.2024 09:13:19_
+_17.03.2024 19:08:37_
