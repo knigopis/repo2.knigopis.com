@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>436</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>437</sup>
 ---
 
 ## 2024
+
+### Мертвые Игры. Книга 3. О темных лордах и магии крови
+Звёздная Елена
+> [2024-03-20] http://loveread.ec/read_book.php?id=72308&p=1
+
 
 ### О магах-отступниках и таинственных ритуалах
 Звёздная Елена
