@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>437</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>438</sup>
 ---
 
 ## 2024
+
+### О смертельных схватках и их победителях
+Звёздная Елена
+> [2024-03-21] http://loveread.ec/read_book.php?id=99018&p=1
+
 
 ### Мертвые Игры. Книга 3. О темных лордах и магии крови
 Звёздная Елена
