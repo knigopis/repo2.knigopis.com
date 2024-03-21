@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мертвые Игры 6. Дыхание смерти ~ [Chiffi](users/105/105831994080785626680-google)<sup>440</sup>
+    > http://loveread.ec/read_book.php?id=99020&p=1
+
 * Мертвые Игры 5. Игры со смертью ~ [Chiffi](users/105/105831994080785626680-google)<sup>439</sup>
     > http://loveread.ec/read_book.php?id=99019&p=1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > http://loveread.ec/read_book.php?id=99018&p=1
 
 * Мертвые Игры. Книга 3. О темных лордах и магии крови ~ [Chiffi](users/105/105831994080785626680-google)<sup>437</sup>
-    > http://loveread.ec/read_book.php?id=72308&p=1
 
 * О магах-отступниках и таинственных ритуалах ~ [Chiffi](users/105/105831994080785626680-google)<sup>436</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Артефактор под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>434</sup>
 
-* Франкенштейн, или современный Прометей ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>130</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>439</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>440</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>368</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 
 
-_20.03.2024 18:37:26_
+_21.03.2024 17:36:15_

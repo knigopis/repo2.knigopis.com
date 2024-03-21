@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>439</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>440</sup>
 ---
 
 ## 2024
+
+### Мертвые Игры 6. Дыхание смерти
+Звёздная Елена
+> [2024-03-21] http://loveread.ec/read_book.php?id=99020&p=1
+
 
 ### Мертвые Игры 5. Игры со смертью
 Звёздная Елена
