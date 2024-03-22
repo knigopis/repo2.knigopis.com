@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>440</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>441</sup>
 ---
 
 ## 2024
+
+### Мертвые Игры 7. Бой со смертью
+Звёздная Елена
+> [2024-03-24] http://loveread.ec/read_book.php?id=99021&p=69
+> Утром днепрогес(((
+
 
 ### Мертвые Игры 6. Дыхание смерти
 Звёздная Елена
