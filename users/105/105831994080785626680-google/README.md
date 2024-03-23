@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>441</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>442</sup>
 ---
 
 ## 2024
+
+### Мертвые Игры 8. Норт и Риа
+Звёздная Елена
+> [2024-03-23] http://loveread.ec/read_book.php?id=99022&p=1
+
 
 ### Мертвые Игры 7. Бой со смертью
 Звёздная Елена
