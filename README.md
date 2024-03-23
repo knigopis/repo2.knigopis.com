@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лесная ведунья ~ [Chiffi](users/105/105831994080785626680-google)<sup>443</sup>
+    > http://loveread.ec/read_book.php?id=86959&p=1
+
 * Мертвые Игры 8. Норт и Риа ~ [Chiffi](users/105/105831994080785626680-google)<sup>442</sup>
     > http://loveread.ec/read_book.php?id=99022&p=1
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Утром днепрогес(((
 
 * Мертвые Игры 6. Дыхание смерти ~ [Chiffi](users/105/105831994080785626680-google)<sup>440</sup>
-    > http://loveread.ec/read_book.php?id=99020&p=1
 
 * Мертвые Игры 5. Игры со смертью ~ [Chiffi](users/105/105831994080785626680-google)<sup>439</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Вдали от обезумевшей толпы ~ [Garka](users/115/115753719718250012620-google)<sup>367</sup>
 
-* Казаки в первой Русско-Турецкой войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>442</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>443</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>368</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>3</sup> 
 
 
-_23.03.2024 19:01:44_
+_23.03.2024 19:26:08_

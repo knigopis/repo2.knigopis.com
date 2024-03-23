@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>442</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>443</sup>
 ---
 
 ## 2024
+
+### Лесная ведунья
+Звёздная Елена
+> [2024-03-24] http://loveread.ec/read_book.php?id=86959&p=1
+
 
 ### Мертвые Игры 8. Норт и Риа
 Звёздная Елена
