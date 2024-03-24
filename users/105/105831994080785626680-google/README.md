@@ -7,6 +7,7 @@
 Бюсси Мишель
 > [2024-03-26] http://loveread.ec/read_book.php?id=63049&p=1
 > Про Живерни
+> Сад Моне https://kartinki.pics/pics/12764-sad-kloda-mone.html
 
 
 ### Лесная ведунья
