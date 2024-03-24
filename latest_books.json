@@ -1,4 +1,16 @@
 {
+    "RDXCBE0Dbl": {
+        "id": "RDXCBE0Dbl",
+        "title": "Бесы",
+        "author": "Ф.М. Достоевский",
+        "notes": "",
+        "createdAt": "2024-03-24 18:57:28",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 27
+        }
+    },
     "mdIDub_m_O": {
         "id": "mdIDub_m_O",
         "title": "Чёрные кувшинки",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 433
-        }
-    },
-    "SPDsdYGkpV": {
-        "id": "SPDsdYGkpV",
-        "title": "Викинг. Гнев Севера",
-        "author": "Александр Мазин",
-        "notes": "",
-        "createdAt": "2024-02-27 03:58:53",
-        "user": {
-            "id": "116407812532669338806-google",
-            "nickname": "Ahushiling",
-            "booksCount": 2
         }
     }
 }

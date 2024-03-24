@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>27</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>444</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>3</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
 [Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>237</sup> 
-[leo](users/106/106915386474260202605-google)<sup>26</sup> 
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>285</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>434</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 
 
-_24.03.2024 17:30:16_
+_24.03.2024 18:57:28_
