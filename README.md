@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dobrova_nails](users/606/6069210-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>443</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>368</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103456291402547350560-google)<sup>1</sup> 
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
-[](users/115/115095777313809768381-google)<sup>3</sup> 
 
 
-_23.03.2024 19:26:08_
+_24.03.2024 14:49:54_
