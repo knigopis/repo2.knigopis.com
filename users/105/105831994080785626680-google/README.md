@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>443</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>444</sup>
 ---
 
 ## 2024
+
+### Чёрные кувшинки
+Бюсси Мишель
+> [2024-03-26] http://loveread.ec/read_book.php?id=63049&p=1
+> Про Живерни
+
 
 ### Лесная ведунья
 Звёздная Елена
