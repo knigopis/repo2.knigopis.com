@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пожарский 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>445</sup>
 * Чёрные кувшинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>444</sup>
 * Лесная ведунья ~ [Chiffi](users/105/105831994080785626680-google)<sup>443</sup>
 * Мертвые Игры 8. Норт и Риа ~ [Chiffi](users/105/105831994080785626680-google)<sup>442</sup>
@@ -30,7 +31,6 @@
 * Fila vitae. Нити жизни ~ [Chiffi](users/105/105831994080785626680-google)<sup>428</sup>
 * Пирамиды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup>
 * Брак на поражение ~ [Chiffi](users/105/105831994080785626680-google)<sup>426</sup>
-* Дюна ~ [Garka](users/115/115753719718250012620-google)<sup>365</sup>
 
 
-_24.03.2024 17:30:16_
+_25.03.2024 22:46:02_

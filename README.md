@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пожарский 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>445</sup>
+    > https://author.today/reader/337852/3097645
+
 * Чёрные кувшинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>444</sup>
     > http://loveread.ec/read_book.php?id=63049&p=1
     > Про Живерни
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > http://loveread.ec/read_book.php?id=86959&p=1
 
 * Мертвые Игры 8. Норт и Риа ~ [Chiffi](users/105/105831994080785626680-google)<sup>442</sup>
-    > http://loveread.ec/read_book.php?id=99022&p=1
 
 * Мертвые Игры 7. Бой со смертью ~ [Chiffi](users/105/105831994080785626680-google)<sup>441</sup>
 
@@ -27,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * О магах-отступниках и таинственных ритуалах ~ [Chiffi](users/105/105831994080785626680-google)<sup>436</sup>
 
-* Изумительный Морис и его просвещенные грызуны ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>445</sup> 
 [leo](users/106/106915386474260202605-google)<sup>27</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>444</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>3</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>368</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 
 
-_24.03.2024 18:57:28_
+_25.03.2024 22:46:02_
