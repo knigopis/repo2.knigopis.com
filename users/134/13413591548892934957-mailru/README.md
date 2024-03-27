@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>434</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>435</sup>
 ---
 
 ## 2024
+
+### История российского государства. Первая сверхдержава
+Борис Акунин
+> [2024-03-03] 
+
 
 ### Унеси ты мое горе
 Катерина Гордеева

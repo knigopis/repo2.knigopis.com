@@ -1,4 +1,16 @@
 {
+    "gOMRBH0qBa": {
+        "id": "gOMRBH0qBa",
+        "title": "История российского государства. Первая сверхдержава",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2024-03-27 18:34:48",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 435
+        }
+    },
     "NtibpiZnWl": {
         "id": "NtibpiZnWl",
         "title": "Рассказ неутонувшего в открытом море",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 435
-        }
-    },
-    "7FB7hk_sVW": {
-        "id": "7FB7hk_sVW",
-        "title": "Унеси ты мое горе",
-        "author": "Катерина Гордеева",
-        "notes": "",
-        "createdAt": "2024-02-28 20:27:33",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 434
         }
     }
 }
