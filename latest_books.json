@@ -1,4 +1,16 @@
 {
+    "NtibpiZnWl": {
+        "id": "NtibpiZnWl",
+        "title": "Рассказ неутонувшего в открытом море",
+        "author": "Гарсиа Маркес Габриэль",
+        "notes": "Бросила на 9%.",
+        "createdAt": "2024-03-27 07:43:53",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 286
+        }
+    },
     "ogqBDlj-MV": {
         "id": "ogqBDlj-MV",
         "title": "Пожарский 1",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 434
-        }
-    },
-    "ZCyrZ24orq": {
-        "id": "ZCyrZ24orq",
-        "title": "Франкенштейн, или современный Прометей",
-        "author": "Мэри Шелли",
-        "notes": "audio",
-        "createdAt": "2024-02-28 16:25:19",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 130
         }
     }
 }

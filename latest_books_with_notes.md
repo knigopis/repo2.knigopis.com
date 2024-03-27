@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рассказ неутонувшего в открытом море ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup>
 * Пожарский 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>445</sup>
 * Чёрные кувшинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>444</sup>
 * Лесная ведунья ~ [Chiffi](users/105/105831994080785626680-google)<sup>443</sup>
@@ -30,7 +31,6 @@
 * Академия попаданцев ~ [Chiffi](users/105/105831994080785626680-google)<sup>429</sup>
 * Fila vitae. Нити жизни ~ [Chiffi](users/105/105831994080785626680-google)<sup>428</sup>
 * Пирамиды ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>127</sup>
-* Брак на поражение ~ [Chiffi](users/105/105831994080785626680-google)<sup>426</sup>
 
 
-_25.03.2024 22:46:02_
+_27.03.2024 07:43:53_

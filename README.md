@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказ неутонувшего в открытом море ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup>
+    > Бросила на 9%.
+
 * Пожарский 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>445</sup>
     > https://author.today/reader/337852/3097645
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Про Живерни
 
 * Лесная ведунья ~ [Chiffi](users/105/105831994080785626680-google)<sup>443</sup>
-    > http://loveread.ec/read_book.php?id=86959&p=1
 
 * Мертвые Игры 8. Норт и Риа ~ [Chiffi](users/105/105831994080785626680-google)<sup>442</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Мертвые Игры. Книга 3. О темных лордах и магии крови ~ [Chiffi](users/105/105831994080785626680-google)<sup>437</sup>
 
-* О магах-отступниках и таинственных ритуалах ~ [Chiffi](users/105/105831994080785626680-google)<sup>436</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>445</sup> 
 [leo](users/106/106915386474260202605-google)<sup>27</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>3</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>237</sup> 
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>285</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>434</sup> 
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 
 
-_25.03.2024 22:46:02_
+_27.03.2024 07:43:53_
