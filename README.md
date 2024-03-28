@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mailforlesha](users/836/836484549-yandex)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>435</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>445</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
 [](users/103/103456291402547350560-google)<sup>1</sup> 
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
-[Bynyd](users/114/114466008310968989620-google)<sup>2</sup> 
 
 
-_27.03.2024 18:34:48_
+_28.03.2024 19:32:36_
