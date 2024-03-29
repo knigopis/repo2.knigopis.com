@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>233</sup>
+# Список прочитанных книг пользователя exulted<sup>234</sup>
 ---
 
 ## 2024
+
+### Шторм Z. У вас нет других нас
+Туленков Даниил
+> [2024-03-29] 
+
 
 ### Viking Raid: A Robert Fairchild Novel
 Matthew McCleery

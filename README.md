@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>234</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>436</sup> 
 [mailforlesha](users/836/836484549-yandex)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>233</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
 [vokyalop](users/320/32096418-yandex)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
 
 
-_28.03.2024 20:35:47_
+_29.03.2024 10:33:34_
