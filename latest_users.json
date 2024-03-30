@@ -1,4 +1,10 @@
 {
+    "47446642-vkontakte": {
+        "id": "47446642-vkontakte",
+        "nickname": "Альберт Сысоев",
+        "booksCount": 132,
+        "updatedAt": "2024-03-30 12:33:48"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -40,12 +46,6 @@
         "nickname": "dobrova_nails",
         "booksCount": 3,
         "updatedAt": "2024-03-24 14:49:54"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 131,
-        "updatedAt": "2024-03-17 19:08:37"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

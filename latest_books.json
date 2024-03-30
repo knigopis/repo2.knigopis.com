@@ -1,4 +1,16 @@
 {
+    "ir4s8tK8-c": {
+        "id": "ir4s8tK8-c",
+        "title": "Гроздья гнева",
+        "author": "Джон Стейнбек",
+        "notes": "audio",
+        "createdAt": "2024-03-30 12:33:48",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 132
+        }
+    },
     "Ops9USQIWd": {
         "id": "Ops9USQIWd",
         "title": "Шторм Z. У вас нет других нас",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 237
-        }
-    },
-    "dqRXnIW1bx": {
-        "id": "dqRXnIW1bx",
-        "title": "Мужские правила",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2024-03-06 16:26:16",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 26
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гроздья гнева ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup>
+    > audio
+
 * Рассказ неутонувшего в открытом море ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup>
     > Бросила на 9%.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > https://author.today/reader/337852/3097645
 
 * Чёрные кувшинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>444</sup>
-    > http://loveread.ec/read_book.php?id=63049&p=1
-    > Про Живерни
 
 * Лесная ведунья ~ [Chiffi](users/105/105831994080785626680-google)<sup>443</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * О смертельных схватках и их победителях ~ [Chiffi](users/105/105831994080785626680-google)<sup>438</sup>
 
-* Мертвые Игры. Книга 3. О темных лордах и магии крови ~ [Chiffi](users/105/105831994080785626680-google)<sup>437</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>234</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>436</sup> 
 [mailforlesha](users/836/836484549-yandex)<sup>2</sup> 
@@ -41,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>445</sup> 
 [leo](users/106/106915386474260202605-google)<sup>27</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>3</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>368</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [MacKor](users/110/110996617505160240010-google)<sup>1</sup> 
 
 
-_29.03.2024 10:33:34_
+_30.03.2024 12:33:48_
