@@ -1,4 +1,10 @@
 {
+    "267805152-yandex": {
+        "id": "267805152-yandex",
+        "nickname": "smogleev",
+        "booksCount": 0,
+        "updatedAt": "2024-03-31 07:08:18"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2023-12-28 11:52:13"
-    },
-    "110996617505160240010-google": {
-        "id": "110996617505160240010-google",
-        "nickname": "MacKor",
-        "booksCount": 1,
-        "updatedAt": "2023-12-27 03:02:23"
     }
 }
