@@ -1,4 +1,16 @@
 {
+    "o4fD6qVtDh": {
+        "id": "o4fD6qVtDh",
+        "title": "Вишневый сад",
+        "author": "Чехов",
+        "notes": "",
+        "createdAt": "2024-03-31 07:09:01",
+        "user": {
+            "id": "267805152-yandex",
+            "nickname": "smogleev",
+            "booksCount": 1
+        }
+    },
     "ir4s8tK8-c": {
         "id": "ir4s8tK8-c",
         "title": "Гроздья гнева",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 195
-        }
-    },
-    "M_0hsc4iZW": {
-        "id": "M_0hsc4iZW",
-        "title": "Тайная опора. Привязанность в жизни ребёнка.",
-        "author": "Людмила Владимировна Петрановская",
-        "notes": "",
-        "createdAt": "2024-03-09 09:28:02",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 237
         }
     }
 }

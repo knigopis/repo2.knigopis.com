@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[smogleev](users/267/267805152-yandex)<sup>0</sup> 
+[smogleev](users/267/267805152-yandex)<sup>1</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>234</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>436</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103456291402547350560-google)<sup>1</sup> 
 
 
-_31.03.2024 07:08:18_
+_31.03.2024 07:09:01_
