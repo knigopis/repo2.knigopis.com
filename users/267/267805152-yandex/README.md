@@ -1,7 +1,12 @@
-# List of books read by smogleev<sup>2</sup>
+# List of books read by smogleev<sup>3</sup>
 ---
 
 ## 2024
+
+### Мастер и Маргарита
+Булгаков
+> [2024-03] 
+
 
 ### Теория спора
 Поварнин

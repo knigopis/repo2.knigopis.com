@@ -1,4 +1,16 @@
 {
+    "Yx5Ocy6wX8": {
+        "id": "Yx5Ocy6wX8",
+        "title": "Мастер и Маргарита",
+        "author": "Булгаков",
+        "notes": "",
+        "createdAt": "2024-03-31 07:11:05",
+        "user": {
+            "id": "267805152-yandex",
+            "nickname": "smogleev",
+            "booksCount": 3
+        }
+    },
     "s5PJFyovfF": {
         "id": "s5PJFyovfF",
         "title": "Теория спора",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 67
-        }
-    },
-    "ojJ0ZKbk7H": {
-        "id": "ojJ0ZKbk7H",
-        "title": "В ожидании варворов",
-        "author": "Д. Кутзее",
-        "notes": "",
-        "createdAt": "2024-03-10 15:49:51",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 197
         }
     }
 }
