@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>45</sup> 
 [smogleev](users/267/267805152-yandex)<sup>3</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>234</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113821158776347521407-google)<sup>0</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 [lpetrov](users/117/117840259784706659154-google)<sup>1</sup> 
-[](users/103/103456291402547350560-google)<sup>1</sup> 
 
 
-_31.03.2024 07:11:05_
+_31.03.2024 20:05:54_
