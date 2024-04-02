@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>99</sup>
+# List of books read by vechno7t<sup>100</sup>
 ---
 
 ## 2024
+
+### Неудержимый #22
+Андрей Боярский
+> [2024-04-01] 
+
 
 ### Неудержимый #21
 Андрей Боярский
