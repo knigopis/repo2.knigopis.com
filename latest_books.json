@@ -1,4 +1,16 @@
 {
+    "lQ6uG36RFx": {
+        "id": "lQ6uG36RFx",
+        "title": "Неудержимый #15",
+        "author": "Андрей Боярский",
+        "notes": "",
+        "createdAt": "2024-04-02 17:47:43",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 93
+        }
+    },
     "JkUYP-CG4e": {
         "id": "JkUYP-CG4e",
         "title": "Неудержимый #14",
@@ -345,18 +357,6 @@
             "id": "106915386474260202605-google",
             "nickname": "leo",
             "booksCount": 27
-        }
-    },
-    "mdIDub_m_O": {
-        "id": "mdIDub_m_O",
-        "title": "Чёрные кувшинки",
-        "author": "Бюсси Мишель",
-        "notes": "http://loveread.ec/read_book.php?id=63049&p=1\nПро Живерни",
-        "createdAt": "2024-03-24 17:30:16",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 444
         }
     }
 }
