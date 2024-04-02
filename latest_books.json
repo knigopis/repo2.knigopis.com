@@ -1,4 +1,16 @@
 {
+    "uVFunRMCUT": {
+        "id": "uVFunRMCUT",
+        "title": "Неудержимый #4",
+        "author": "Андрей Боярский",
+        "notes": "",
+        "createdAt": "2024-04-02 17:46:00",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 81
+        }
+    },
     "RBnKExN1Mi": {
         "id": "RBnKExN1Mi",
         "title": "Неудержимый #3",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 131
-        }
-    },
-    "yXwt7f99B7": {
-        "id": "yXwt7f99B7",
-        "title": "Герметикон. Последний адмирал Заграты",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-03-17 09:13:19",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 368
         }
     }
 }
