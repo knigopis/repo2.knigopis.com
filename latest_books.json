@@ -1,4 +1,16 @@
 {
+    "BmxTqlsY5N": {
+        "id": "BmxTqlsY5N",
+        "title": "Неудержимый #18",
+        "author": "Андрей Боярский",
+        "notes": "",
+        "createdAt": "2024-04-02 17:48:21",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 96
+        }
+    },
     "i_9Gx3dMkB": {
         "id": "i_9Gx3dMkB",
         "title": "Неудержимый #17",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 435
-        }
-    },
-    "NtibpiZnWl": {
-        "id": "NtibpiZnWl",
-        "title": "Рассказ неутонувшего в открытом море",
-        "author": "Гарсиа Маркес Габриэль",
-        "notes": "Бросила на 9%.",
-        "createdAt": "2024-03-27 07:43:53",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 286
         }
     }
 }
