@@ -1,4 +1,10 @@
 {
+    "102483077884312127500-google": {
+        "id": "102483077884312127500-google",
+        "nickname": "vechno7t",
+        "booksCount": 78,
+        "updatedAt": "2024-04-02 17:45:35"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": "Shinku",
         "booksCount": 74,
         "updatedAt": "2024-01-06 18:04:13"
-    },
-    "117840259784706659154-google": {
-        "id": "117840259784706659154-google",
-        "nickname": "lpetrov",
-        "booksCount": 1,
-        "updatedAt": "2024-01-02 11:47:29"
     }
 }
