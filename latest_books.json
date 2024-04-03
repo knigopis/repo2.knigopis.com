@@ -1,4 +1,16 @@
 {
+    "Iqk9GI_sUR": {
+        "id": "Iqk9GI_sUR",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2024-04-03 05:20:30",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 28
+        }
+    },
     "_XnZu_Sjt7": {
         "id": "_XnZu_Sjt7",
         "title": "Неудержимый #22",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 132
-        }
-    },
-    "Ops9USQIWd": {
-        "id": "Ops9USQIWd",
-        "title": "Шторм Z. У вас нет других нас",
-        "author": "Туленков Даниил",
-        "notes": "",
-        "createdAt": "2024-03-29 10:33:34",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 234
         }
     }
 }
