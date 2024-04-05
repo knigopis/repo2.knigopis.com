@@ -1,4 +1,16 @@
 {
+    "6q0kYz0fwA": {
+        "id": "6q0kYz0fwA",
+        "title": "Интимная Русь",
+        "author": "Адамович, Серегина",
+        "notes": "",
+        "createdAt": "2024-04-05 14:39:03",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 437
+        }
+    },
     "Iqk9GI_sUR": {
         "id": "Iqk9GI_sUR",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "267805152-yandex",
             "nickname": "smogleev",
             "booksCount": 1
-        }
-    },
-    "ir4s8tK8-c": {
-        "id": "ir4s8tK8-c",
-        "title": "Гроздья гнева",
-        "author": "Джон Стейнбек",
-        "notes": "audio",
-        "createdAt": "2024-03-30 12:33:48",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 132
         }
     }
 }
