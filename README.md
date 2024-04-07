@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Имперское наследство 6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>447</sup>
+    > Ощущение, что должно быть продолжение, но.....
+    > https://litnet.com/ru/reader/vremenno-bez-nazvaniya-b366983?c=3821643&p=1
+    > https://readli.net/posledniy-geroy-8/
+
 * Гроздья гнева ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup>
     > audio
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Бросила на 9%.
 
 * Пожарский 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>445</sup>
-    > https://author.today/reader/337852/3097645
 
 * Чёрные кувшинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>444</sup>
 
@@ -26,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мертвые Игры 5. Игры со смертью ~ [Chiffi](users/105/105831994080785626680-google)<sup>439</sup>
 
-* О смертельных схватках и их победителях ~ [Chiffi](users/105/105831994080785626680-google)<sup>438</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>446</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>447</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>437</sup> 
 [leo](users/106/106915386474260202605-google)<sup>28</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>99</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 
 
-_05.04.2024 16:52:23_
+_07.04.2024 19:39:21_

@@ -1,4 +1,4 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>446</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>447</sup>
 ---
 
 ## 2024
@@ -248,6 +248,13 @@
 ### Пришлая 1. Колдунья из угро
 Никитина Анастасия
 > [2023-12-09] https://readli.net/koldunya-iz-ugro/#google_vignette
+
+
+### Имперское наследство 6
+Федоров Константин
+> [2023-12-07] Ощущение, что должно быть продолжение, но.....
+> https://litnet.com/ru/reader/vremenno-bez-nazvaniya-b366983?c=3821643&p=1
+> https://readli.net/posledniy-geroy-8/
 
 
 ### Императорский див. Граф Аверин2
