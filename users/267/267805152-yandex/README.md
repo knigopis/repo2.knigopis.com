@@ -1,7 +1,12 @@
-# List of books read by smogleev<sup>3</sup>
+# List of books read by smogleev<sup>4</sup>
 ---
 
 ## 2024
+
+### Фауст
+Гете
+> [2024-04-08] 
+
 
 ### Мастер и Маргарита
 Булгаков

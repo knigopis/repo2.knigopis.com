@@ -1,4 +1,10 @@
 {
+    "267805152-yandex": {
+        "id": "267805152-yandex",
+        "nickname": "smogleev",
+        "booksCount": 4,
+        "updatedAt": "2024-04-08 16:27:36"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -28,12 +34,6 @@
         "nickname": "Askaliya",
         "booksCount": 45,
         "updatedAt": "2024-03-31 20:05:54"
-    },
-    "267805152-yandex": {
-        "id": "267805152-yandex",
-        "nickname": "smogleev",
-        "booksCount": 3,
-        "updatedAt": "2024-03-31 07:11:05"
     },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",

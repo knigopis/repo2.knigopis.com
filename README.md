@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[smogleev](users/267/267805152-yandex)<sup>4</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>447</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>437</sup> 
 [leo](users/106/106915386474260202605-google)<sup>28</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>99</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>45</sup> 
-[smogleev](users/267/267805152-yandex)<sup>3</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>234</sup> 
 [mailforlesha](users/836/836484549-yandex)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 
 
-_07.04.2024 19:39:21_
+_08.04.2024 16:27:36_
