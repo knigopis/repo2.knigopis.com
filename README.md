@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>447</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>437</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 [](users/113/113821158776347521407-google)<sup>0</sup> 
-[Shinku](users/109/109176126475581739292-google)<sup>74</sup> 
 
 
-_08.04.2024 16:27:36_
+_10.04.2024 07:22:34_
