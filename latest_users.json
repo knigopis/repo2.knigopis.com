@@ -1,4 +1,10 @@
 {
+    "109176126475581739292-google": {
+        "id": "109176126475581739292-google",
+        "nickname": "Shinku",
+        "booksCount": 73,
+        "updatedAt": "2024-04-12 12:28:09"
+    },
     "109089966297718972425-google": {
         "id": "109089966297718972425-google",
         "nickname": "isaeva_baby",
@@ -172,11 +178,5 @@
         "nickname": "aktoty",
         "booksCount": 95,
         "updatedAt": "2024-01-08 09:37:55"
-    },
-    "113821158776347521407-google": {
-        "id": "113821158776347521407-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2024-01-07 22:09:02"
     }
 }
