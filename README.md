@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>370</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>371</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>448</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_14.04.2024 09:22:19_
+_14.04.2024 09:22:47_

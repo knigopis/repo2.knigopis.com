@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>370</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>371</sup>
 ---
 
 ## 2024
+
+### Герметикон. Крардонийская петля
+Панов, Вадим
+> [2024-04-09] 
+
 
 ### Герметикон. Кардонийская рулетка
 Панов, Вадим
