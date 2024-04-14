@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трудно быть богом ~ [Garka](users/115/115753719718250012620-google)<sup>372</sup>
+    > Аудио( Румата-Антон)
+
 * Пожарский 2 (часть) ~ [Chiffi](users/105/105831994080785626680-google)<sup>448</sup>
     > https://author.today/reader/342048/3147648
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/posledniy-geroy-8/
 
 * Гроздья гнева ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup>
-    > audio
 
 * Рассказ неутонувшего в открытом море ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мертвые Игры 7. Бой со смертью ~ [Chiffi](users/105/105831994080785626680-google)<sup>441</sup>
 
-* Мертвые Игры 6. Дыхание смерти ~ [Chiffi](users/105/105831994080785626680-google)<sup>440</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>371</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>372</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>448</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_14.04.2024 09:22:47_
+_14.04.2024 09:24:24_
