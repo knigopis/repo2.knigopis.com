@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>448</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>449</sup>
 ---
 
 ## 2024
+
+### Солнце мое
+Войлошниковы
+> [2024-04-14] https://coollib.net/b/710969/read#r19
+
 
 ### Пожарский 2 (часть)
 Войлошниковы

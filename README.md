@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Солнце мое ~ [Chiffi](users/105/105831994080785626680-google)<sup>449</sup>
+    > https://coollib.net/b/710969/read#r19
+
 * Трудно быть богом ~ [Garka](users/115/115753719718250012620-google)<sup>372</sup>
     > Аудио( Румата-Антон)
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > https://author.today/reader/342048/3147648
 
 * Имперское наследство 6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>447</sup>
-    > Ощущение, что должно быть продолжение, но.....
-    > https://litnet.com/ru/reader/vremenno-bez-nazvaniya-b366983?c=3821643&p=1
-    > https://readli.net/posledniy-geroy-8/
 
 * Гроздья гнева ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup>
 
@@ -28,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Мертвые Игры 8. Норт и Риа ~ [Chiffi](users/105/105831994080785626680-google)<sup>442</sup>
 
-* Мертвые Игры 7. Бой со смертью ~ [Chiffi](users/105/105831994080785626680-google)<sup>441</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>449</sup> 
 [leo](users/106/106915386474260202605-google)<sup>29</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>372</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>448</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_14.04.2024 17:44:04_
+_14.04.2024 19:34:02_

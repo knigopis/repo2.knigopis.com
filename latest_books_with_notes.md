@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Солнце мое ~ [Chiffi](users/105/105831994080785626680-google)<sup>449</sup>
 * Трудно быть богом ~ [Garka](users/115/115753719718250012620-google)<sup>372</sup>
 * Пожарский 2 (часть) ~ [Chiffi](users/105/105831994080785626680-google)<sup>448</sup>
 * Имперское наследство 6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>447</sup>
@@ -30,7 +31,6 @@
 * Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
 * 12 правил жизни: противоядие от хаоса ~ [Evermind](users/302/302928912-vkontakte)<sup>69</sup>
 * Марс вызывает Венеру ~ [Chiffi](users/105/105831994080785626680-google)<sup>432</sup>
-* Вернуться ~ [Chiffi](users/105/105831994080785626680-google)<sup>431</sup>
 
 
-_14.04.2024 09:24:24_
+_14.04.2024 19:34:02_
