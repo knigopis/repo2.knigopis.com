@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пожарский 2 (часть) ~ [Chiffi](users/105/105831994080785626680-google)<sup>448</sup>
+    > https://author.today/reader/342048/3147648
+
 * Имперское наследство 6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>447</sup>
     > Ощущение, что должно быть продолжение, но.....
     > https://litnet.com/ru/reader/vremenno-bez-nazvaniya-b366983?c=3821643&p=1
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Рассказ неутонувшего в открытом море ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup>
-    > Бросила на 9%.
 
 * Пожарский 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>445</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Мертвые Игры 6. Дыхание смерти ~ [Chiffi](users/105/105831994080785626680-google)<sup>440</sup>
 
-* Мертвые Игры 5. Игры со смертью ~ [Chiffi](users/105/105831994080785626680-google)<sup>439</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>448</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>447</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>437</sup> 
 [leo](users/106/106915386474260202605-google)<sup>28</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>99</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_12.04.2024 12:28:10_
+_14.04.2024 06:31:10_
