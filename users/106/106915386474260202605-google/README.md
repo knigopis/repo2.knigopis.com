@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>28</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>29</sup>
 ---
 
 ## 2024
+
+### Дао Дэ Дзин
+Лао Цзы (Кониси, Толстой)
+> [2024-04-14] 
+
 
 ### Пролетая над гнездом кукушки
 Кен Кизи
