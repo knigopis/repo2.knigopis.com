@@ -1,4 +1,16 @@
 {
+    "NghZySvnQe": {
+        "id": "NghZySvnQe",
+        "title": "Герметикон. Красный камни Белого",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-04-14 09:21:51",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 369
+        }
+    },
     "JoMTocA-pc": {
         "id": "JoMTocA-pc",
         "title": "Пожарский 2 (часть)",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 45
-        }
-    },
-    "Yx5Ocy6wX8": {
-        "id": "Yx5Ocy6wX8",
-        "title": "Мастер и Маргарита",
-        "author": "Булгаков",
-        "notes": "",
-        "createdAt": "2024-03-31 07:11:05",
-        "user": {
-            "id": "267805152-yandex",
-            "nickname": "smogleev",
-            "booksCount": 3
         }
     }
 }

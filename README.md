@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>369</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>448</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mailforlesha](users/836/836484549-yandex)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>3</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>368</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
 [Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_14.04.2024 06:31:10_
+_14.04.2024 09:21:51_
