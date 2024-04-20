@@ -1,4 +1,16 @@
 {
+    "lz7T34Useq": {
+        "id": "lz7T34Useq",
+        "title": "Герметикон. Сокровища чистого разума",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-04-20 13:28:39",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 374
+        }
+    },
     "TbAtD9Qauz": {
         "id": "TbAtD9Qauz",
         "title": "Солярис",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 88
-        }
-    },
-    "i6otKwisd2": {
-        "id": "i6otKwisd2",
-        "title": "Неудержимый #9",
-        "author": "Андрей Боярский",
-        "notes": "",
-        "createdAt": "2024-04-02 17:46:54",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 87
         }
     }
 }
