@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тонкое искуство пофигизма ~ [Garka](users/115/115753719718250012620-google)<sup>375</sup>
+    > Инструкция к жизни - не однозначная, но точно полезная. Если не применять к себе советы, то просто поржать)
+
 * Краткие ответы на большие вопросы ~ [Garka](users/115/115753719718250012620-google)<sup>373</sup>
     > Аудио
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://coollib.net/b/710969/read#r19
 
 * Трудно быть богом ~ [Garka](users/115/115753719718250012620-google)<sup>372</sup>
-    > Аудио( Румата-Антон)
 
 * Пожарский 2 (часть) ~ [Chiffi](users/105/105831994080785626680-google)<sup>448</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чёрные кувшинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>444</sup>
 
-* Лесная ведунья ~ [Chiffi](users/105/105831994080785626680-google)<sup>443</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>374</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>375</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>46</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>438</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>449</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_20.04.2024 13:28:39_
+_20.04.2024 13:43:41_

@@ -1,4 +1,16 @@
 {
+    "D62VRwRRcl": {
+        "id": "D62VRwRRcl",
+        "title": "Тонкое искуство пофигизма",
+        "author": "Мэнсон Марк",
+        "notes": "Инструкция к жизни - не однозначная, но точно полезная. Если не применять к себе советы, то просто поржать)",
+        "createdAt": "2024-04-20 13:43:41",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 375
+        }
+    },
     "s4qI71ESmG": {
         "id": "s4qI71ESmG",
         "title": "Краткие ответы на большие вопросы",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 284
-        }
-    },
-    "S_-zpNUqsa": {
-        "id": "S_-zpNUqsa",
-        "title": "12 правил жизни: противоядие от хаоса",
-        "author": "Джордан Питерсон",
-        "notes": "10 из 10",
-        "createdAt": "2024-02-19 07:42:28",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "Evermind",
-            "booksCount": 69
         }
     }
 }
