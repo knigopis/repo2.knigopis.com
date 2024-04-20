@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кратчайшая история времени ~ [Garka](users/115/115753719718250012620-google)<sup>376</sup>
 * Тонкое искуство пофигизма ~ [Garka](users/115/115753719718250012620-google)<sup>375</sup>
 * Краткие ответы на большие вопросы ~ [Garka](users/115/115753719718250012620-google)<sup>373</sup>
 * Солнце мое ~ [Chiffi](users/105/105831994080785626680-google)<sup>449</sup>
@@ -30,7 +31,6 @@
 * Фауст ~ [Вит](users/300/300273923-vkontakte)<sup>162</sup>
 * Здоровый сон ~ [mfevralev](users/140/140966150-vkontakte)<sup>66</sup>
 * Поющие в терновнике ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>128</sup>
-* Номер 16 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>284</sup>
 
 
-_20.04.2024 13:43:41_
+_20.04.2024 16:49:45_
