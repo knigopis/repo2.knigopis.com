@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>29</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>30</sup>
 ---
 
 ## 2024
+
+### Тонкое искусство пофигизма
+Марк Мэнсон
+> [2024-04-21] 
+
 
 ### Дао Дэ Дзин
 Лао Цзы (Кониси, Толстой)

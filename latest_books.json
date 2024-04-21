@@ -1,4 +1,16 @@
 {
+    "F6HebjZt0z": {
+        "id": "F6HebjZt0z",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2024-04-21 16:25:07",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 30
+        }
+    },
     "3jUCPq0e16": {
         "id": "3jUCPq0e16",
         "title": "Кратчайшая история времени",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 91
-        }
-    },
-    "_WMNkAivtG": {
-        "id": "_WMNkAivtG",
-        "title": "Неудержимый #12",
-        "author": "Андрей Боярский",
-        "notes": "",
-        "createdAt": "2024-04-02 17:47:23",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 90
         }
     }
 }
