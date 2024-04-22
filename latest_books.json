@@ -1,4 +1,16 @@
 {
+    "0YRwTkXO1y": {
+        "id": "0YRwTkXO1y",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2024-04-22 17:43:49",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 238
+        }
+    },
     "Eeee6R-yBI": {
         "id": "Eeee6R-yBI",
         "title": "Событие",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 95
-        }
-    },
-    "Z04nOei_hb": {
-        "id": "Z04nOei_hb",
-        "title": "Неудержимый #16",
-        "author": "Андрей Боярский",
-        "notes": "",
-        "createdAt": "2024-04-02 17:47:55",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 94
         }
     }
 }
