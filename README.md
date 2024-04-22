@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[niyan](users/110/110517883439678622021-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>450</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>439</sup> 
 [leo](users/106/106915386474260202605-google)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vokyalop](users/320/32096418-yandex)<sup>1</sup> 
 [zeleniyk](users/196/19644235-vkontakte)<sup>1</sup> 
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
-[aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_22.04.2024 04:51:41_
+_22.04.2024 11:23:34_
