@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>449</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>450</sup>
 ---
 
 ## 2024
+
+### Невеста под прикрытием
+Боталова Мария
+> [2024-04-24] https://readli.net/nevesta-pod-prikryitiem-2/
+
 
 ### Чёрные кувшинки
 Бюсси Мишель

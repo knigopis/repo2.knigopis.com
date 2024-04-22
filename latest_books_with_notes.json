@@ -1,4 +1,16 @@
 {
+    "BuIG-6JFny": {
+        "id": "BuIG-6JFny",
+        "title": "Невеста под прикрытием",
+        "author": "Боталова Мария",
+        "notes": "https://readli.net/nevesta-pod-prikryitiem-2/",
+        "createdAt": "2024-04-22 04:51:41",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 450
+        }
+    },
     "3jUCPq0e16": {
         "id": "3jUCPq0e16",
         "title": "Кратчайшая история времени",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 66
-        }
-    },
-    "B-oIoGUmIP": {
-        "id": "B-oIoGUmIP",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "audio",
-        "createdAt": "2024-02-24 18:04:21",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 128
         }
     }
 }

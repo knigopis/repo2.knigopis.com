@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>450</sup>
+    > https://readli.net/nevesta-pod-prikryitiem-2/
+
 * Кратчайшая история времени ~ [Garka](users/115/115753719718250012620-google)<sup>376</sup>
     > Аудио
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Инструкция к жизни - не однозначная, но точно полезная. Если не применять к себе советы, то просто поржать)
 
 * Краткие ответы на большие вопросы ~ [Garka](users/115/115753719718250012620-google)<sup>373</sup>
-    > Аудио
 
 * Солнце мое ~ [Chiffi](users/105/105831994080785626680-google)<sup>449</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Рассказ неутонувшего в открытом море ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup>
 
-* Пожарский 1 ~ [Chiffi](users/105/105831994080785626680-google)<sup>445</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>450</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>439</sup> 
 [leo](users/106/106915386474260202605-google)<sup>30</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>376</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>46</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>449</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>95</sup> 
 
 
-_21.04.2024 18:01:05_
+_22.04.2024 04:51:41_
