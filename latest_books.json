@@ -1,4 +1,16 @@
 {
+    "Ehf24uYHIU": {
+        "id": "Ehf24uYHIU",
+        "title": "Personal values",
+        "author": "Mark Manson",
+        "notes": "",
+        "createdAt": "2024-04-23 14:32:47",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 31
+        }
+    },
     "0YRwTkXO1y": {
         "id": "0YRwTkXO1y",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 96
-        }
-    },
-    "i_9Gx3dMkB": {
-        "id": "i_9Gx3dMkB",
-        "title": "Неудержимый #17",
-        "author": "Андрей Боярский",
-        "notes": "",
-        "createdAt": "2024-04-02 17:48:06",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 95
         }
     }
 }

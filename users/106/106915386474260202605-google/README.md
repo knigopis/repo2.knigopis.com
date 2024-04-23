@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>30</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>31</sup>
 ---
 
 ## 2024
+
+### Personal values
+Mark Manson
+> [2024-04-23] 
+
 
 ### Тонкое искусство пофигизма
 Марк Мэнсон
