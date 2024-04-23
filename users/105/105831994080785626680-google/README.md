@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>450</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>451</sup>
 ---
 
 ## 2024
+
+### Мерло красное или мурло страстное
+Ардмир Мари
+> [2024-04-28] https://readli.net/merlo-krasnoe-ili-murlo-strastnoe/
+
 
 ### Невеста под прикрытием
 Боталова Мария

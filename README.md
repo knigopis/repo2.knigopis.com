@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мерло красное или мурло страстное ~ [Chiffi](users/105/105831994080785626680-google)<sup>451</sup>
+    > https://readli.net/merlo-krasnoe-ili-murlo-strastnoe/
+
 * Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>450</sup>
     > https://readli.net/nevesta-pod-prikryitiem-2/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Тонкое искуство пофигизма ~ [Garka](users/115/115753719718250012620-google)<sup>375</sup>
-    > Инструкция к жизни - не однозначная, но точно полезная. Если не применять к себе советы, то просто поржать)
 
 * Краткие ответы на большие вопросы ~ [Garka](users/115/115753719718250012620-google)<sup>373</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Гроздья гнева ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup>
 
-* Рассказ неутонувшего в открытом море ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>451</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>238</sup> 
 [niyan](users/110/110517883439678622021-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>450</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>439</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>376</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>46</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_23.04.2024 14:32:47_
+_23.04.2024 19:50:43_
