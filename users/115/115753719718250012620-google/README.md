@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>376</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>377</sup>
 ---
 
 ## 2024
+
+### Герметикон. Прошлое должно умереть.
+Панов, Вадим
+> [2024-04-28] 
+
 
 ### Кратчайшая история времени
 Хокинг, Стивен

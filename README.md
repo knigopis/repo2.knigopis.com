@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>377</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>451</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>238</sup> 
 [niyan](users/110/110517883439678622021-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>439</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>376</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>46</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_23.04.2024 19:50:43_
+_28.04.2024 10:19:25_

@@ -1,4 +1,16 @@
 {
+    "dOatv147QU": {
+        "id": "dOatv147QU",
+        "title": "Герметикон. Прошлое должно умереть.",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-04-28 10:19:25",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 377
+        }
+    },
     "WUzn-DJDLY": {
         "id": "WUzn-DJDLY",
         "title": "Мерло красное или мурло страстное",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 98
-        }
-    },
-    "eK-L9U3w3j": {
-        "id": "eK-L9U3w3j",
-        "title": "Неудержимый #19",
-        "author": "Андрей Боярский",
-        "notes": "",
-        "createdAt": "2024-04-02 17:48:31",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 97
         }
     }
 }
