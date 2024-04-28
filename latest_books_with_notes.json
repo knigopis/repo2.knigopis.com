@@ -1,4 +1,16 @@
 {
+    "NgU1LSYWMd": {
+        "id": "NgU1LSYWMd",
+        "title": "Мы",
+        "author": "Замятин, Евгений",
+        "notes": "Аудио",
+        "createdAt": "2024-04-28 15:38:38",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 378
+        }
+    },
     "WUzn-DJDLY": {
         "id": "WUzn-DJDLY",
         "title": "Мерло красное или мурло страстное",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 129
-        }
-    },
-    "5jiihKY2nO": {
-        "id": "5jiihKY2nO",
-        "title": "Фауст",
-        "author": "Гёте",
-        "notes": "Первая часть заша, дальше каша",
-        "createdAt": "2024-02-26 06:42:02",
-        "user": {
-            "id": "300273923-vkontakte",
-            "nickname": "Вит",
-            "booksCount": 162
         }
     }
 }

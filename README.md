@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мы ~ [Garka](users/115/115753719718250012620-google)<sup>378</sup>
+    > Аудио
+
 * Мерло красное или мурло страстное ~ [Chiffi](users/105/105831994080785626680-google)<sup>451</sup>
     > https://readli.net/merlo-krasnoe-ili-murlo-strastnoe/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/nevesta-pod-prikryitiem-2/
 
 * Кратчайшая история времени ~ [Garka](users/115/115753719718250012620-google)<sup>376</sup>
-    > Аудио
 
 * Тонкое искуство пофигизма ~ [Garka](users/115/115753719718250012620-google)<sup>375</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Имперское наследство 6 ~ [Chiffi](users/105/105831994080785626680-google)<sup>447</sup>
 
-* Гроздья гнева ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>377</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>378</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>451</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>238</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_28.04.2024 10:19:25_
+_28.04.2024 15:38:38_
