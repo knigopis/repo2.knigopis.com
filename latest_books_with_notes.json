@@ -1,4 +1,16 @@
 {
+    "MCxB8ai3BW": {
+        "id": "MCxB8ai3BW",
+        "title": "Белый варвар",
+        "author": "Радмир Мари",
+        "notes": "https://readli.net/belyiy-varvar/",
+        "createdAt": "2024-04-28 17:42:05",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 452
+        }
+    },
     "NgU1LSYWMd": {
         "id": "NgU1LSYWMd",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 433
-        }
-    },
-    "WomuGkxL8x": {
-        "id": "WomuGkxL8x",
-        "title": "Мелкие боги",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2024-02-26 07:33:08",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 129
         }
     }
 }

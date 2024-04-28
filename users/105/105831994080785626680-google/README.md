@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>451</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>452</sup>
 ---
 
 ## 2024
+
+### Белый варвар
+Радмир Мари
+> [2024-04-30] https://readli.net/belyiy-varvar/
+
 
 ### Мерло красное или мурло страстное
 Ардмир Мари
