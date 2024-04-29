@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>452</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>453</sup>
 ---
 
 ## 2024
+
+### Лесная ведунья 2
+Звёздная Елена
+> [2024-05-01] http://loveread.ec/read_book.php?id=96878&p=1
+
 
 ### Белый варвар
 Радмир Мари

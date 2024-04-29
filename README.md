@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лесная ведунья 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>453</sup>
+    > http://loveread.ec/read_book.php?id=96878&p=1
+
 * Белый варвар ~ [Chiffi](users/105/105831994080785626680-google)<sup>452</sup>
     > https://readli.net/belyiy-varvar/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Мерло красное или мурло страстное ~ [Chiffi](users/105/105831994080785626680-google)<sup>451</sup>
-    > https://readli.net/merlo-krasnoe-ili-murlo-strastnoe/
 
 * Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>450</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трудно быть богом ~ [Garka](users/115/115753719718250012620-google)<sup>372</sup>
 
-* Пожарский 2 (часть) ~ [Chiffi](users/105/105831994080785626680-google)<sup>448</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>452</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>453</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>378</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>238</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_28.04.2024 17:42:05_
+_29.04.2024 19:41:26_
