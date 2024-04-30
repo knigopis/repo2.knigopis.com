@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>453</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>454</sup>
 ---
 
 ## 2024
+
+### Стальной барон
+Арадмир Мари
+> [2024-05-02] https://readli.net/stalnoy-baron/
+
 
 ### Лесная ведунья 2
 Звёздная Елена
