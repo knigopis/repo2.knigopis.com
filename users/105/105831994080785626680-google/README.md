@@ -5,7 +5,7 @@
 
 ### Стальной барон
 Арадмир Мари
-> [2024-05-02] https://readli.net/stalnoy-baron/
+> [2024-05-01] https://readli.net/stalnoy-baron/
 
 
 ### Лесная ведунья 2
