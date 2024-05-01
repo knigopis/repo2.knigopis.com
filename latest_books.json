@@ -1,4 +1,16 @@
 {
+    "AfHfR8kFtO": {
+        "id": "AfHfR8kFtO",
+        "title": "Пехотная баллада",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2024-05-01 06:28:14",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 133
+        }
+    },
     "iX4Ek9VcHf": {
         "id": "iX4Ek9VcHf",
         "title": "Стальной барон",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 446
-        }
-    },
-    "6q0kYz0fwA": {
-        "id": "6q0kYz0fwA",
-        "title": "Интимная Русь",
-        "author": "Адамович, Серегина",
-        "notes": "",
-        "createdAt": "2024-04-05 14:39:03",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 437
         }
     }
 }
