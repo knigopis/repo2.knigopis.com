@@ -1,4 +1,16 @@
 {
+    "fn3GhMT7ua": {
+        "id": "fn3GhMT7ua",
+        "title": "Движущиеся картинки",
+        "author": "Терри Пратчетт",
+        "notes": "audio",
+        "createdAt": "2024-05-01 06:29:09",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 134
+        }
+    },
     "AfHfR8kFtO": {
         "id": "AfHfR8kFtO",
         "title": "Пехотная баллада",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 67
-        }
-    },
-    "LKkJbBdsa_": {
-        "id": "LKkJbBdsa_",
-        "title": "Они не люди",
-        "author": "Дашкевич Виктор (Фламмер)",
-        "notes": "http://loveread.ec/read_book.php?id=110046&p=1\nТретья книга про графа Аверина",
-        "createdAt": "2024-03-03 21:51:10",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 435
         }
     }
 }

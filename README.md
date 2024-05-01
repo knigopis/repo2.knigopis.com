@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Движущиеся картинки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>134</sup>
+    > audio
+
 * Пехотная баллада ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>133</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/stalnoy-baron/
 
 * Лесная ведунья 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>453</sup>
-    > http://loveread.ec/read_book.php?id=96878&p=1
 
 * Белый варвар ~ [Chiffi](users/105/105831994080785626680-google)<sup>452</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тонкое искуство пофигизма ~ [Garka](users/115/115753719718250012620-google)<sup>375</sup>
 
-* Краткие ответы на большие вопросы ~ [Garka](users/115/115753719718250012620-google)<sup>373</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>133</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>134</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>454</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>378</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_01.05.2024 06:28:14_
+_01.05.2024 06:29:09_
