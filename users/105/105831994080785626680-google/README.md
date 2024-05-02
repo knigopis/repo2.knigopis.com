@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>454</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>455</sup>
 ---
 
 ## 2024
+
+### Лесная ведунья 3
+Звёздная Елена
+> [2024-05-04] http://loveread.ec/read_book.php?id=100503&p=1
+
 
 ### Лесная ведунья 2
 Звёздная Елена
