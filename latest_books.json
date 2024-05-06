@@ -1,4 +1,16 @@
 {
+    "65XfJGQXAn": {
+        "id": "65XfJGQXAn",
+        "title": "Завет воды",
+        "author": "Абрахам Вергезе",
+        "notes": "",
+        "createdAt": "2024-05-06 18:50:45",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 440
+        }
+    },
     "MYi9zWpx14": {
         "id": "MYi9zWpx14",
         "title": "Лесная ведунья 3",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 369
-        }
-    },
-    "JoMTocA-pc": {
-        "id": "JoMTocA-pc",
-        "title": "Пожарский 2 (часть)",
-        "author": "Войлошниковы",
-        "notes": "https://author.today/reader/342048/3147648",
-        "createdAt": "2024-04-14 06:31:10",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 448
         }
     }
 }
