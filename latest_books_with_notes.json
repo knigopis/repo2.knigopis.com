@@ -1,4 +1,16 @@
 {
+    "6ajoxZUJ02": {
+        "id": "6ajoxZUJ02",
+        "title": "Идеальный мир для лекаря",
+        "author": "Сапфир Олег, Ковтунов Алексей",
+        "notes": "Налоло серии. Пока интересно",
+        "createdAt": "2024-05-07 19:14:40",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 456
+        }
+    },
     "MYi9zWpx14": {
         "id": "MYi9zWpx14",
         "title": "Лесная ведунья 3",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 131
-        }
-    },
-    "9zibSvOUvh": {
-        "id": "9zibSvOUvh",
-        "title": "Вдали от обезумевшей толпы",
-        "author": "Гарди Томас",
-        "notes": "Очень скучно, предсказуемо и нелепо",
-        "createdAt": "2024-03-14 09:54:38",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 367
         }
     }
 }

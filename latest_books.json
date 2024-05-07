@@ -1,4 +1,16 @@
 {
+    "6ajoxZUJ02": {
+        "id": "6ajoxZUJ02",
+        "title": "Идеальный мир для лекаря",
+        "author": "Сапфир Олег, Ковтунов Алексей",
+        "notes": "Налоло серии. Пока интересно",
+        "createdAt": "2024-05-07 19:14:40",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 456
+        }
+    },
     "65XfJGQXAn": {
         "id": "65XfJGQXAn",
         "title": "Завет воды",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 370
-        }
-    },
-    "NghZySvnQe": {
-        "id": "NghZySvnQe",
-        "title": "Герметикон. Красный камни Белого",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-04-14 09:21:51",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 369
         }
     }
 }

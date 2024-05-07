@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Идеальный мир для лекаря ~ [Chiffi](users/105/105831994080785626680-google)<sup>456</sup>
+    > Налоло серии. Пока интересно
+
 * Лесная ведунья 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>455</sup>
     > http://loveread.ec/read_book.php?id=100503&p=1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Пехотная баллада ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>133</sup>
-    > audio
 
 * Стальной барон ~ [Chiffi](users/105/105831994080785626680-google)<sup>454</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>450</sup>
 
-* Кратчайшая история времени ~ [Garka](users/115/115753719718250012620-google)<sup>376</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>456</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>440</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>455</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>239</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>134</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>378</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_06.05.2024 18:50:45_
+_07.05.2024 19:14:40_
