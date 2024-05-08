@@ -1,4 +1,16 @@
 {
+    "MkpcVtF2s7": {
+        "id": "MkpcVtF2s7",
+        "title": "Последний день приговорённого к смерти",
+        "author": "Виктор Мари Гюго",
+        "notes": "",
+        "createdAt": "2024-05-08 12:03:23",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 240
+        }
+    },
     "_tmeurB7b4": {
         "id": "_tmeurB7b4",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 372
-        }
-    },
-    "ACWVn6OhcB": {
-        "id": "ACWVn6OhcB",
-        "title": "Герметикон. Крардонийская петля",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-04-14 09:22:47",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 371
         }
     }
 }
