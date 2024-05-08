@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лолита ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>135</sup>
+    > audio
+
 * Идеальный мир для лекаря ~ [Chiffi](users/105/105831994080785626680-google)<sup>456</sup>
     > Налоло серии. Пока интересно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > http://loveread.ec/read_book.php?id=100503&p=1
 
 * Движущиеся картинки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>134</sup>
-    > audio
 
 * Пехотная баллада ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>133</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Мерло красное или мурло страстное ~ [Chiffi](users/105/105831994080785626680-google)<sup>451</sup>
 
-* Невеста под прикрытием ~ [Chiffi](users/105/105831994080785626680-google)<sup>450</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>135</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>456</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>440</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>239</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>134</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>378</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
 [niyan](users/110/110517883439678622021-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_07.05.2024 19:14:40_
+_08.05.2024 11:22:29_
