@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>378</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>379</sup>
 ---
 
 ## 2024
+
+### Герметикон. Скопление неприятностей
+Панов, Вадим
+> [2024-05-05] 
+
 
 ### Мы
 Замятин, Евгений
