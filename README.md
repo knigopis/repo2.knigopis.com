@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герметикон. Не видя звёзд ~ [Garka](users/115/115753719718250012620-google)<sup>380</sup>
+    > "Амуш" в составе XIX Астрологической экспедиции отправляется на Мартину, планету, где погибла XIII экспедиция. С планеты невозможно уйти, дальний глаз не видит звёзд...
+
 * Лолита ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>135</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Налоло серии. Пока интересно
 
 * Лесная ведунья 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>455</sup>
-    > http://loveread.ec/read_book.php?id=100503&p=1
 
 * Движущиеся картинки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>134</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мы ~ [Garka](users/115/115753719718250012620-google)<sup>378</sup>
 
-* Мерло красное или мурло страстное ~ [Chiffi](users/105/105831994080785626680-google)<sup>451</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>379</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>380</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>240</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>135</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>456</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_12.05.2024 13:32:18_
+_12.05.2024 13:34:24_
