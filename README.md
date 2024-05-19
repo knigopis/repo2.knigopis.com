@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пожарский 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>457</sup>
+    > https://author.today/reader/348710/3224321
+    > Скорее всего, последняя книга цикла. Жаль. Очень интересное обращение со сказками и реальностью.
+
 * Герметикон. Не видя звёзд ~ [Garka](users/115/115753719718250012620-google)<sup>380</sup>
     > "Амуш" в составе XIX Астрологической экспедиции отправляется на Мартину, планету, где погибла XIII экспедиция. С планеты невозможно уйти, дальний глаз не видит звёзд...
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Идеальный мир для лекаря ~ [Chiffi](users/105/105831994080785626680-google)<sup>456</sup>
-    > Налоло серии. Пока интересно
 
 * Лесная ведунья 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>455</sup>
 
@@ -26,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Белый варвар ~ [Chiffi](users/105/105831994080785626680-google)<sup>452</sup>
 
-* Мы ~ [Garka](users/115/115753719718250012620-google)<sup>378</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>457</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>380</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>240</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>135</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>456</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>440</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
 [niyan](users/110/110517883439678622021-google)<sup>1</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_12.05.2024 13:34:24_
+_19.05.2024 07:16:25_
