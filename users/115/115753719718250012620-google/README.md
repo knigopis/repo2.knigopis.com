@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>380</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>381</sup>
 ---
 
 ## 2024
+
+### Бог как иллюзия
+Докинз, Ричард
+> [2024-05-20] Аудио
+
 
 ### Герметикон. Не видя звёзд
 Панов, Вадим

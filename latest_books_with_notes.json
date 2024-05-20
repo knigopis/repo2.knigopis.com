@@ -1,4 +1,16 @@
 {
+    "QM2dgD27d9": {
+        "id": "QM2dgD27d9",
+        "title": "Бог как иллюзия",
+        "author": "Докинз, Ричард",
+        "notes": "Аудио",
+        "createdAt": "2024-05-20 16:51:31",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 381
+        }
+    },
     "bkzh8c3S7s": {
         "id": "bkzh8c3S7s",
         "title": "Вдовий плат",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 440
-        }
-    },
-    "nXrdh89IkD": {
-        "id": "nXrdh89IkD",
-        "title": "Мертвые Игры 5. Игры со смертью",
-        "author": "Звёздная Елена",
-        "notes": "http://loveread.ec/read_book.php?id=99019&p=1",
-        "createdAt": "2024-03-20 18:37:26",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 439
         }
     }
 }
