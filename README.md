@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вдовий плат ~ [mfevralev](users/140/140966150-vkontakte)<sup>68</sup>
+    > Нормик
+
 * Пожарский 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>457</sup>
     > https://author.today/reader/348710/3224321
     > Скорее всего, последняя книга цикла. Жаль. Очень интересное обращение со сказками и реальностью.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > "Амуш" в составе XIX Астрологической экспедиции отправляется на Мартину, планету, где погибла XIII экспедиция. С планеты невозможно уйти, дальний глаз не видит звёзд...
 
 * Лолита ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>135</sup>
-    > audio
 
 * Идеальный мир для лекаря ~ [Chiffi](users/105/105831994080785626680-google)<sup>456</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Лесная ведунья 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>453</sup>
 
-* Белый варвар ~ [Chiffi](users/105/105831994080785626680-google)<sup>452</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>457</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>380</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>240</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mailforlesha](users/836/836484549-yandex)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
 [dobrova_nails](users/606/6069210-vkontakte)<sup>3</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>67</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
 [Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_19.05.2024 07:16:25_
+_20.05.2024 13:32:14_

@@ -1,4 +1,16 @@
 {
+    "bkzh8c3S7s": {
+        "id": "bkzh8c3S7s",
+        "title": "Вдовий плат",
+        "author": "Борис Акунин",
+        "notes": "Нормик",
+        "createdAt": "2024-05-20 13:32:14",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 68
+        }
+    },
     "MLyjYcUQUk": {
         "id": "MLyjYcUQUk",
         "title": "Пожарский 3",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 439
-        }
-    },
-    "DYvXUydWNh": {
-        "id": "DYvXUydWNh",
-        "title": "О смертельных схватках и их победителях",
-        "author": "Звёздная Елена",
-        "notes": "http://loveread.ec/read_book.php?id=99018&p=1",
-        "createdAt": "2024-03-19 22:21:58",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 438
         }
     }
 }
