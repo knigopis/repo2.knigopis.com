@@ -1,4 +1,16 @@
 {
+    "5QM6hnWQbj": {
+        "id": "5QM6hnWQbj",
+        "title": "Герметикон. Трио неизвестности",
+        "author": "Панов, Вадим",
+        "notes": "Аномалия Пустоты, где у двух планет один спутник, к тому же состоящий практически полностью из астрелия. Урийцы намного технически превосходят Герметикон.",
+        "createdAt": "2024-05-21 16:52:22",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 382
+        }
+    },
     "QM2dgD27d9": {
         "id": "QM2dgD27d9",
         "title": "Бог как иллюзия",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 47
-        }
-    },
-    "tViETXUHp9": {
-        "id": "tViETXUHp9",
-        "title": "We set the dark on fire",
-        "author": "",
-        "notes": "",
-        "createdAt": "2024-04-18 19:17:43",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 46
         }
     }
 }
