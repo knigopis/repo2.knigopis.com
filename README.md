@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>382</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>457</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
 [vokyalop](users/320/32096418-yandex)<sup>1</sup> 
 [zeleniyk](users/196/19644235-vkontakte)<sup>1</sup> 
-[Светлана Сетдекова](users/158/15877369199589457581-mailru)<sup>0</sup> 
 
 
-_21.05.2024 16:52:22_
+_22.05.2024 18:11:59_
