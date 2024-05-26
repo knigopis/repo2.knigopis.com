@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убить пересмешника ~ [aktoty](users/275/275766107-vkontakte)<sup>96</sup>
+    > Интересная книга про Америку и запечетление того времнни
+
 * Герметикон. Трио неизвестности ~ [Garka](users/115/115753719718250012620-google)<sup>382</sup>
     > Аномалия Пустоты, где у двух планет один спутник, к тому же состоящий практически полностью из астрелия. Урийцы намного технически превосходят Герметикон.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Вдовий плат ~ [mfevralev](users/140/140966150-vkontakte)<sup>68</sup>
-    > Нормик
 
 * Пожарский 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>457</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Движущиеся картинки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>134</sup>
 
-* Пехотная баллада ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>133</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/275/275766107-vkontakte)<sup>96</sup> 
 [](users/115/115095777313809768381-google)<sup>4</sup> 
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
 
 
-_26.05.2024 06:28:19_
+_26.05.2024 06:41:55_

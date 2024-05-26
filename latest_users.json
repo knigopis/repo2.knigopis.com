@@ -1,4 +1,10 @@
 {
+    "275766107-vkontakte": {
+        "id": "275766107-vkontakte",
+        "nickname": "aktoty",
+        "booksCount": 96,
+        "updatedAt": "2024-05-26 06:41:55"
+    },
     "115095777313809768381-google": {
         "id": "115095777313809768381-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "алекс 136",
         "booksCount": 0,
         "updatedAt": "2024-01-28 06:50:01"
-    },
-    "112090473416384685204-google": {
-        "id": "112090473416384685204-google",
-        "nickname": "Cr_RONIN",
-        "booksCount": 15,
-        "updatedAt": "2024-01-25 23:16:31"
     }
 }

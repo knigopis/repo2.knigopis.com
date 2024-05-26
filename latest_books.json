@@ -1,4 +1,16 @@
 {
+    "U5x6hxcizS": {
+        "id": "U5x6hxcizS",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "Интересная книга про Америку и запечетление того времнни",
+        "createdAt": "2024-05-26 06:41:55",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 96
+        }
+    },
     "IniXTzGUg7": {
         "id": "IniXTzGUg7",
         "title": "Тимур и его команда",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 375
-        }
-    },
-    "lz7T34Useq": {
-        "id": "lz7T34Useq",
-        "title": "Герметикон. Сокровища чистого разума",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-04-20 13:28:39",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 374
         }
     }
 }
