@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115095777313809768381-google)<sup>4</sup> 
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>382</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>15</sup> 
-[vokyalop](users/320/32096418-yandex)<sup>1</sup> 
 
 
-_22.05.2024 22:16:23_
+_26.05.2024 06:28:19_
