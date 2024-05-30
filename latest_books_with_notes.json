@@ -1,4 +1,16 @@
 {
+    "UE61bNvVaC": {
+        "id": "UE61bNvVaC",
+        "title": "Чарли и шоколадная фабрика",
+        "author": "Роальд Даль",
+        "notes": "audio",
+        "createdAt": "2024-05-30 07:19:44",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 136
+        }
+    },
     "U5x6hxcizS": {
         "id": "U5x6hxcizS",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 443
-        }
-    },
-    "qZg82oM-X5": {
-        "id": "qZg82oM-X5",
-        "title": "Мертвые Игры 8. Норт и Риа",
-        "author": "Звёздная Елена",
-        "notes": "http://loveread.ec/read_book.php?id=99022&p=1",
-        "createdAt": "2024-03-23 19:01:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 442
         }
     }
 }
