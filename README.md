@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повести Белкина ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>138</sup>
+    > audio
+
 * ВП и ВВВ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>137</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Убить пересмешника ~ [aktoty](users/275/275766107-vkontakte)<sup>96</sup>
-    > Интересная книга про Америку и запечетление того времнни
 
 * Герметикон. Трио неизвестности ~ [Garka](users/115/115753719718250012620-google)<sup>382</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лолита ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>135</sup>
 
-* Идеальный мир для лекаря ~ [Chiffi](users/105/105831994080785626680-google)<sup>456</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>137</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>138</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>96</sup> 
 [](users/115/115095777313809768381-google)<sup>4</sup> 
 [](users/358/358594589-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 
 
-_02.06.2024 06:32:57_
+_02.06.2024 06:33:54_

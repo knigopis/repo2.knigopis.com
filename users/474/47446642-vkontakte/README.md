@@ -1,7 +1,12 @@
-# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>137</sup>
+# List of books read by [Альберт Сысоев](http://vk.com/id47446642)<sup>138</sup>
 ---
 
 ## 2024
+
+### Повести Белкина
+Александр Пушкин
+> [2024-06-01] audio
+
 
 ### ВП и ВВВ
 Алан Милн

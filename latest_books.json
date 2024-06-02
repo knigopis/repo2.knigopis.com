@@ -1,4 +1,16 @@
 {
+    "VDOhf6HkzN": {
+        "id": "VDOhf6HkzN",
+        "title": "Повести Белкина",
+        "author": "Александр Пушкин",
+        "notes": "audio",
+        "createdAt": "2024-06-02 06:33:54",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 138
+        }
+    },
     "13wlqCLbe9": {
         "id": "13wlqCLbe9",
         "title": "ВП и ВВВ",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 439
-        }
-    },
-    "F6HebjZt0z": {
-        "id": "F6HebjZt0z",
-        "title": "Тонкое искусство пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2024-04-21 16:25:07",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 30
         }
     }
 }

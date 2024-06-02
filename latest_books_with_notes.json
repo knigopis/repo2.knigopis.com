@@ -1,4 +1,16 @@
 {
+    "VDOhf6HkzN": {
+        "id": "VDOhf6HkzN",
+        "title": "Повести Белкина",
+        "author": "Александр Пушкин",
+        "notes": "audio",
+        "createdAt": "2024-06-02 06:33:54",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 138
+        }
+    },
     "13wlqCLbe9": {
         "id": "13wlqCLbe9",
         "title": "ВП и ВВВ",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 445
-        }
-    },
-    "mdIDub_m_O": {
-        "id": "mdIDub_m_O",
-        "title": "Чёрные кувшинки",
-        "author": "Бюсси Мишель",
-        "notes": "http://loveread.ec/read_book.php?id=63049&p=1\nПро Живерни",
-        "createdAt": "2024-03-24 17:30:16",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 444
         }
     }
 }
