@@ -1,4 +1,16 @@
 {
+    "8PQgCNbnzG": {
+        "id": "8PQgCNbnzG",
+        "title": "Бутылка.Книга для тех, кто любит выпить",
+        "author": "Гайнанова Юля",
+        "notes": "Просто история двух женщин",
+        "createdAt": "2024-06-03 09:14:19",
+        "user": {
+            "id": "6069210-vkontakte",
+            "nickname": "dobrova",
+            "booksCount": 4
+        }
+    },
     "VDOhf6HkzN": {
         "id": "VDOhf6HkzN",
         "title": "Повести Белкина",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 450
-        }
-    },
-    "iMgcluVFpq": {
-        "id": "iMgcluVFpq",
-        "title": "Ничто, кроме сердца",
-        "author": "Гриша Пророков",
-        "notes": "",
-        "createdAt": "2024-04-21 18:01:05",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 439
         }
     }
 }

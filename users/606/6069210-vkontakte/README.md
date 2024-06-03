@@ -1,7 +1,12 @@
-# List of books read by [dobrova_nails](http://vk.com/id6069210)<sup>3</sup>
+# List of books read by dobrova<sup>4</sup>
 ---
 
 ## 2024
+
+### Бутылка.Книга для тех, кто любит выпить
+Гайнанова Юля
+> [2024-04-01] Просто история двух женщин
+
 
 ### Ход королевы
 Уолтер Тевис

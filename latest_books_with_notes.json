@@ -1,4 +1,16 @@
 {
+    "8PQgCNbnzG": {
+        "id": "8PQgCNbnzG",
+        "title": "Бутылка.Книга для тех, кто любит выпить",
+        "author": "Гайнанова Юля",
+        "notes": "Просто история двух женщин",
+        "createdAt": "2024-06-03 09:14:19",
+        "user": {
+            "id": "6069210-vkontakte",
+            "nickname": "dobrova",
+            "booksCount": 4
+        }
+    },
     "VDOhf6HkzN": {
         "id": "VDOhf6HkzN",
         "title": "Повести Белкина",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 286
-        }
-    },
-    "ogqBDlj-MV": {
-        "id": "ogqBDlj-MV",
-        "title": "Пожарский 1",
-        "author": "Войлошников Владимир И Ольга",
-        "notes": "https://author.today/reader/337852/3097645",
-        "createdAt": "2024-03-25 22:46:02",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 445
         }
     }
 }
