@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Али и Нино ~ [dobrova](users/606/6069210-vkontakte)<sup>5</sup>
+    > Прочитала очень быстро. Действительно шедевр литературы. Рекомендую.
+
 * Бутылка.Книга для тех, кто любит выпить ~ [dobrova](users/606/6069210-vkontakte)<sup>4</sup>
     > Просто история двух женщин
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * ВП и ВВВ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>137</sup>
-    > audio
 
 * Чарли и шоколадная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>136</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пожарский 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>457</sup>
 
-* Герметикон. Не видя звёзд ~ [Garka](users/115/115753719718250012620-google)<sup>380</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dobrova](users/606/6069210-vkontakte)<sup>4</sup> 
+[dobrova](users/606/6069210-vkontakte)<sup>5</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>138</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>96</sup> 
 [](users/115/115095777313809768381-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 
 
-_03.06.2024 09:14:19_
+_03.06.2024 09:15:12_

@@ -1,4 +1,16 @@
 {
+    "kjMP9t7XQC": {
+        "id": "kjMP9t7XQC",
+        "title": "Али и Нино",
+        "author": "Курбан Али",
+        "notes": "Прочитала очень быстро. Действительно шедевр литературы. Рекомендую.",
+        "createdAt": "2024-06-03 09:15:12",
+        "user": {
+            "id": "6069210-vkontakte",
+            "nickname": "dobrova",
+            "booksCount": 5
+        }
+    },
     "8PQgCNbnzG": {
         "id": "8PQgCNbnzG",
         "title": "Бутылка.Книга для тех, кто любит выпить",
@@ -345,18 +357,6 @@
             "id": "110517883439678622021-google",
             "nickname": "niyan",
             "booksCount": 1
-        }
-    },
-    "BuIG-6JFny": {
-        "id": "BuIG-6JFny",
-        "title": "Невеста под прикрытием",
-        "author": "Боталова Мария",
-        "notes": "https://readli.net/nevesta-pod-prikryitiem-2/",
-        "createdAt": "2024-04-22 04:51:41",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 450
         }
     }
 }
