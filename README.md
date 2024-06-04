@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Моя космическая станция ~ [Chiffi](users/105/105831994080785626680-google)<sup>458</sup>
+    > https://litmir.club/books_in_series/?id=33288
+    > Прочитала 4 части. Ощущение, что читаешь описание игры. Может , и интересно, но больше точно пока не осилю
+    > 
+    > смертей "сильных" духом людей, сломленных обстоятельствами. Но я никогда не была сильной, скорее очень слабой. Находясь на вершине, сильные чувствуют себя уверенно ровно до того момента, пока их жизнь кардинально не перевернётся, зачастую в таком случае они внутренне ломаются, и лишь небольшая часть из них может вновь воспрянуть и начать действовать, но большинство заканчивает как те парни. Мне было легче, я изначально была слабой, и привыкла ко всем трудностям, что происходили со мной на протяжении жизни. И только благодаря этому смогла быстро перестроиться в изменившемся мире. Поэтому, я, слабая, всё еще жива, а сильные…
+
 * Али и Нино ~ [dobrova](users/606/6069210-vkontakte)<sup>5</sup>
     > Прочитала очень быстро. Действительно шедевр литературы. Рекомендую.
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > Просто история двух женщин
 
 * Повести Белкина ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>138</sup>
-    > audio
 
 * ВП и ВВВ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>137</sup>
 
@@ -26,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Вдовий плат ~ [mfevralev](users/140/140966150-vkontakte)<sup>68</sup>
 
-* Пожарский 3 ~ [Chiffi](users/105/105831994080785626680-google)<sup>457</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>458</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>5</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>138</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>96</sup> 
@@ -41,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>382</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>457</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>240</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>440</sup> 
 [leo](users/106/106915386474260202605-google)<sup>31</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 
 
-_03.06.2024 09:15:12_
+_04.06.2024 17:08:56_
