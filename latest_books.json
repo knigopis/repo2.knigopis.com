@@ -1,4 +1,16 @@
 {
+    "RVMKSRaHjJ": {
+        "id": "RVMKSRaHjJ",
+        "title": "Эссенциализм",
+        "author": "Грег МакКеон",
+        "notes": "",
+        "createdAt": "2024-06-06 14:22:21",
+        "user": {
+            "id": "106915386474260202605-google",
+            "nickname": "leo",
+            "booksCount": 32
+        }
+    },
     "A6980UZInS": {
         "id": "A6980UZInS",
         "title": "Правда",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 451
-        }
-    },
-    "Ehf24uYHIU": {
-        "id": "Ehf24uYHIU",
-        "title": "Personal values",
-        "author": "Mark Manson",
-        "notes": "",
-        "createdAt": "2024-04-23 14:32:47",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 31
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>31</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>32</sup>
 ---
 
 ## 2024
+
+### Эссенциализм
+Грег МакКеон
+> [2024-06-06] 
+
 
 ### Personal values
 Mark Manson
