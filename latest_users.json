@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": "Elixir",
+        "booksCount": 442,
+        "updatedAt": "2024-06-08 12:32:30"
+    },
     "106915386474260202605-google": {
         "id": "106915386474260202605-google",
         "nickname": "leo",
@@ -172,11 +178,5 @@
         "nickname": "SashaSizo0",
         "booksCount": 1,
         "updatedAt": "2024-02-17 15:21:25"
-    },
-    "18475011-vkontakte": {
-        "id": "18475011-vkontakte",
-        "nickname": "алекс 136",
-        "booksCount": 0,
-        "updatedAt": "2024-01-28 06:50:01"
     }
 }

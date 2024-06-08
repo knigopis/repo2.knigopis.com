@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>442</sup> 
 [leo](users/106/106915386474260202605-google)<sup>32</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>139</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>458</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
-[алекс 136](users/184/18475011-vkontakte)<sup>0</sup> 
 
 
-_06.06.2024 14:22:21_
+_08.06.2024 12:32:30_

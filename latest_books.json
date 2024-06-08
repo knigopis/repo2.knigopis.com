@@ -1,4 +1,16 @@
 {
+    "Z1bz5KRoaN": {
+        "id": "Z1bz5KRoaN",
+        "title": "Лекции по русской литературе",
+        "author": "Набоков, Владимир",
+        "notes": "",
+        "createdAt": "2024-06-08 12:32:30",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 442
+        }
+    },
     "RVMKSRaHjJ": {
         "id": "RVMKSRaHjJ",
         "title": "Эссенциализм",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 377
-        }
-    },
-    "WUzn-DJDLY": {
-        "id": "WUzn-DJDLY",
-        "title": "Мерло красное или мурло страстное",
-        "author": "Ардмир Мари",
-        "notes": "https://readli.net/merlo-krasnoe-ili-murlo-strastnoe/",
-        "createdAt": "2024-04-23 19:50:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 451
         }
     }
 }

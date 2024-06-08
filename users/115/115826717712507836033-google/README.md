@@ -1,5 +1,13 @@
-# List of books read by Elixir<sup>441</sup>
+# List of books read by Elixir<sup>442</sup>
 ---
+
+## 2024
+
+### Лекции по русской литературе
+Набоков, Владимир
+> [2024-06-08] 
+
+
 
 ## 2022
 
