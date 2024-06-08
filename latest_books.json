@@ -1,4 +1,16 @@
 {
+    "oI1zsmSe9D": {
+        "id": "oI1zsmSe9D",
+        "title": "Кафе на краю земли",
+        "author": "Джон П. Стрелеки",
+        "notes": "",
+        "createdAt": "2024-06-08 16:04:53",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 443
+        }
+    },
     "Z1bz5KRoaN": {
         "id": "Z1bz5KRoaN",
         "title": "Лекции по русской литературе",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 378
-        }
-    },
-    "dOatv147QU": {
-        "id": "dOatv147QU",
-        "title": "Герметикон. Прошлое должно умереть.",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-04-28 10:19:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 377
         }
     }
 }
