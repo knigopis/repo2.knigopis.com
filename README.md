@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герметикон. Сады пяти Стремлений ~ [Garka](users/115/115753719718250012620-google)<sup>383</sup>
+    > Галилей привёл "Амуш" через идеальный шторм на другой конец Герметикона - на планету, потерянную во времена Белого Мора (Траймонго).
+
 * Иванов-сан ~ [Chiffi](users/105/105831994080785626680-google)<sup>461</sup>
     > https://readli.net/ivanov-san/
     > будем читать и Такидзиро Решетникова и Будущего меня зовут Фудзивара и, конечно, Ивановв-сан. 
@@ -23,8 +26,6 @@ Do not use pull requests to make changes here.
     > https://flibusta.site/s/92188 мармеладная зефирка для девочек. Но приятная
 
 * Парень из преисподней. Повесть о дружбе и недружбе ~ [Chiffi](users/105/105831994080785626680-google)<sup>459</sup>
-    > http://loveread.ec/read_book.php?id=63349&p=28
-    > есть люди, которые могут выдержать удар судьбы, а есть люди, которые ломаются. Первым рассказывают правду, вторым рассказывают сказки.
 
 * Правда ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>139</sup>
 
@@ -38,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * ВП и ВВВ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>137</sup>
 
-* Чарли и шоколадная фабрика ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>383</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>461</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
 [leo](users/106/106915386474260202605-google)<sup>32</sup> 
@@ -54,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>4</sup> 
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>382</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>240</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>440</sup> 
@@ -77,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 
 
-_10.06.2024 19:41:07_
+_11.06.2024 16:20:00_
