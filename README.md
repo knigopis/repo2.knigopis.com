@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тонкое искуство пофигизма ~ [Garka](users/115/115753719718250012620-google)<sup>384</sup>
+    > Аудио
+
 * Герметикон. Сады пяти Стремлений ~ [Garka](users/115/115753719718250012620-google)<sup>383</sup>
     > Галилей привёл "Амуш" через идеальный шторм на другой конец Герметикона - на планету, потерянную во времена Белого Мора (Траймонго).
 
@@ -22,8 +25,6 @@ Do not use pull requests to make changes here.
     > Япoнcкий фэншуй — этo дeлo тaкoe, accимeтpичнoe. Тoлькo дикиe люди вce poвнeнькo лeпят. А нacлeдники дpeвних гepoeв любимую икeбaну cунут нa кpaй шкaфa и будут eй любoвaтьcя. Пoкa дpугиe paбoтaют.
 
 * Хрустальная невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>460</sup>
-    > Разговор напоминал шахматную партию, и я в ней была королём. Вроде почётно, но самостоятельности ноль и полностью зависишь от других фигур. В интригах важны баланс и осторожность
-    > https://flibusta.site/s/92188 мармеладная зефирка для девочек. Но приятная
 
 * Парень из преисподней. Повесть о дружбе и недружбе ~ [Chiffi](users/105/105831994080785626680-google)<sup>459</sup>
 
@@ -37,14 +38,12 @@ Do not use pull requests to make changes here.
 
 * Повести Белкина ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>138</sup>
 
-* ВП и ВВВ ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>383</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>384</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>461</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
 [leo](users/106/106915386474260202605-google)<sup>32</sup> 
@@ -76,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 
 
-_11.06.2024 16:20:00_
+_11.06.2024 16:20:22_

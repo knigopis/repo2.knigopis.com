@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>383</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>384</sup>
 ---
 
 ## 2024
+
+### Тонкое искуство пофигизма
+Мэнсон Марк
+> [2024-06-11] Аудио
+
 
 ### Герметикон. Сады пяти Стремлений
 Панов, Вадим

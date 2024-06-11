@@ -1,4 +1,16 @@
 {
+    "1hnCD0pubs": {
+        "id": "1hnCD0pubs",
+        "title": "Тонкое искуство пофигизма",
+        "author": "Мэнсон Марк",
+        "notes": "Аудио",
+        "createdAt": "2024-06-11 16:20:21",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 384
+        }
+    },
     "YRG1s37Bdl": {
         "id": "YRG1s37Bdl",
         "title": "Герметикон. Сады пяти Стремлений",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 239
-        }
-    },
-    "fn3GhMT7ua": {
-        "id": "fn3GhMT7ua",
-        "title": "Движущиеся картинки",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2024-05-01 06:29:09",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 134
         }
     }
 }
