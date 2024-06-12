@@ -1,4 +1,16 @@
 {
+    "yvebCoDKvu": {
+        "id": "yvebCoDKvu",
+        "title": "Тайный город. Войны начинают неудачники",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-06-12 09:30:37",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 385
+        }
+    },
     "1hnCD0pubs": {
         "id": "1hnCD0pubs",
         "title": "Тонкое искуство пофигизма",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 455
-        }
-    },
-    "fO7k7Non59": {
-        "id": "fO7k7Non59",
-        "title": "Олеся",
-        "author": "Александр Иванович Куприн",
-        "notes": "",
-        "createdAt": "2024-05-01 17:22:02",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 239
         }
     }
 }

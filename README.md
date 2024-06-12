@@ -43,7 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>384</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>385</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>461</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
 [leo](users/106/106915386474260202605-google)<sup>32</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 
 
-_11.06.2024 16:20:22_
+_12.06.2024 09:30:37_
