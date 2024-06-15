@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>462</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>463</sup>
 ---
 
 ## 2024
+
+### Гадючий яр
+Тимошенко Наталья
+> [2024-06-15] http://flibusta.site/b/782072/read
+
 
 ### Авантюристы на всю голову
 Шаенская Анна

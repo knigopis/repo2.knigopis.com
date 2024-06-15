@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гадючий яр ~ [Chiffi](users/105/105831994080785626680-google)<sup>463</sup>
+    > http://flibusta.site/b/782072/read
+
 * Авантюристы на всю голову ~ [Chiffi](users/105/105831994080785626680-google)<sup>462</sup>
     > http://flibusta.site/b/668634/read
     > - Дайте угадаю, это условие было прописано на трёхсотой странице договора, мелким шрифтом, невидимыми чернилами, на утерянном древнегномьем диалекте? Нет.На сто десятой, - невозмутимо уточнил Трорин, - чтобы увидеть эту надпись, бумагу необходимо всего лишь нагреть над свечой.
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Герметикон. Сады пяти Стремлений ~ [Garka](users/115/115753719718250012620-google)<sup>383</sup>
-    > Галилей привёл "Амуш" через идеальный шторм на другой конец Герметикона - на планету, потерянную во времена Белого Мора (Траймонго).
 
 * Иванов-сан ~ [Chiffi](users/105/105831994080785626680-google)<sup>461</sup>
 
@@ -31,15 +33,13 @@ Do not use pull requests to make changes here.
 
 * Али и Нино ~ [dobrova](users/606/6069210-vkontakte)<sup>5</sup>
 
-* Бутылка.Книга для тех, кто любит выпить ~ [dobrova](users/606/6069210-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>463</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>462</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>385</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>139</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 
 
-_15.06.2024 13:14:14_
+_15.06.2024 20:35:01_
