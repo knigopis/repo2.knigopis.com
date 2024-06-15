@@ -38,10 +38,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leo](users/106/106915386474260202605-google)<sup>33</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>462</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>385</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
-[leo](users/106/106915386474260202605-google)<sup>32</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>139</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>5</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>96</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 
 
-_12.06.2024 21:04:41_
+_15.06.2024 13:14:14_

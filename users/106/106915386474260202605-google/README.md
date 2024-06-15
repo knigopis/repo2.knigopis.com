@@ -1,7 +1,12 @@
-# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>32</sup>
+# List of books read by [leo](https://plus.google.com/u/0/106915386474260202605/)<sup>33</sup>
 ---
 
 ## 2024
+
+### Демиан
+Герман Гессе
+> [2024-07-15] 
+
 
 ### Эссенциализм
 Грег МакКеон
