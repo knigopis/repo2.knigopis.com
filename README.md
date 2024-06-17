@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Столпы Земли ~ [rnixik](users/116/116191270391964650818-google)<sup>76</sup>
+    > Одна из лучших для меня книг именно из-за удержания моего внимания. Если кратко, это история о строительстве собора в монастыре, а также несколько историй любви. В книге описана жизнь нескольких поколений. В книге довольно много жестокости.
+    > Понравилось, как описана жизнь в замках, передвижение по опасным большим дорогам и многое другое.
+
 * Гадючий яр ~ [Chiffi](users/105/105831994080785626680-google)<sup>463</sup>
     > http://flibusta.site/b/782072/read
 
@@ -17,7 +21,6 @@ Do not use pull requests to make changes here.
     > Зачастую героизм - это просто отсутствие выбора.
 
 * Тонкое искуство пофигизма ~ [Garka](users/115/115753719718250012620-google)<sup>384</sup>
-    > Аудио
 
 * Герметикон. Сады пяти Стремлений ~ [Garka](users/115/115753719718250012620-google)<sup>383</sup>
 
@@ -31,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Моя космическая станция ~ [Chiffi](users/105/105831994080785626680-google)<sup>458</sup>
 
-* Али и Нино ~ [dobrova](users/606/6069210-vkontakte)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rnixik](users/116/116191270391964650818-google)<sup>75</sup> 
+[rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>463</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>385</sup> 
@@ -70,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_17.06.2024 08:28:39_
+_17.06.2024 08:31:07_
