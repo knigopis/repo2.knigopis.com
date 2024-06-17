@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сады пяти стремлений. Герметикон 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>464</sup>
+    > http://flibusta.site/b/748668/read
+    > Интересное предположение, которое объясняет всё, не объясняя ничего.– Хочу напомнить, что я занимаюсь вашими налогами, поэтому в таких вещах являюсь большим специалистом.
+    > Вам не кажется, что обстоятельства изменились?– Они не могли измениться, мы просто о них узнали.– Война в наши планы не входила.– Война редко входит в планы. Она просто случается.
+
 * Собор Парижской Богоматери ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup>
     > Вот он, вечный закон прилива и отлива народного благоволения!
 
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > Понравилось, как описана жизнь в замках, передвижение по опасным большим дорогам и многое другое.
 
 * Гадючий яр ~ [Chiffi](users/105/105831994080785626680-google)<sup>463</sup>
-    > http://flibusta.site/b/782072/read
 
 * Авантюристы на всю голову ~ [Chiffi](users/105/105831994080785626680-google)<sup>462</sup>
 
@@ -27,16 +31,14 @@ Do not use pull requests to make changes here.
 
 * Парень из преисподней. Повесть о дружбе и недружбе ~ [Chiffi](users/105/105831994080785626680-google)<sup>459</sup>
 
-* Правда ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>139</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>464</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>463</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>385</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_17.06.2024 19:32:40_
+_17.06.2024 20:34:54_
