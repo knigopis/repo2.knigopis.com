@@ -1,4 +1,16 @@
 {
+    "nTdzt0w0vH": {
+        "id": "nTdzt0w0vH",
+        "title": "Собор Парижской Богоматери",
+        "author": "Виктор Мари Гюго",
+        "notes": "Вот он, вечный закон прилива и отлива народного благоволения!",
+        "createdAt": "2024-06-17 19:32:40",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 241
+        }
+    },
     "zMk9H9OQ7M": {
         "id": "zMk9H9OQ7M",
         "title": "Столпы Земли",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 452
-        }
-    },
-    "NgU1LSYWMd": {
-        "id": "NgU1LSYWMd",
-        "title": "Мы",
-        "author": "Замятин, Евгений",
-        "notes": "Аудио",
-        "createdAt": "2024-04-28 15:38:38",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 378
         }
     }
 }
