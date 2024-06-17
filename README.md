@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rnixik](users/116/116191270391964650818-google)<sup>75</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>463</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>385</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
-[SashaSizo0](users/117/117932212421048968285-google)<sup>1</sup> 
 
 
-_15.06.2024 20:35:01_
+_17.06.2024 08:28:39_
