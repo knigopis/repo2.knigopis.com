@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>385</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>386</sup>
 ---
 
 ## 2024
+
+### Тайный город. Командор войны
+Панов, Вадим
+> [2024-06-19] 
+
 
 ### Тайный город. Войны начинают неудачники
 Панов, Вадим

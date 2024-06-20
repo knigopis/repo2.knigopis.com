@@ -36,11 +36,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>386</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>464</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>385</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>139</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>5</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_17.06.2024 20:34:54_
+_20.06.2024 10:00:44_
