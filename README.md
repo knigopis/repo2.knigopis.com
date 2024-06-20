@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Записки охотника ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup>
+    > audio
+
 * Сады пяти стремлений. Герметикон 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>464</sup>
     > http://flibusta.site/b/748668/read
     > Интересное предположение, которое объясняет всё, не объясняя ничего.– Хочу напомнить, что я занимаюсь вашими налогами, поэтому в таких вещах являюсь большим специалистом.
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > Вот он, вечный закон прилива и отлива народного благоволения!
 
 * Столпы Земли ~ [rnixik](users/116/116191270391964650818-google)<sup>76</sup>
-    > Одна из лучших для меня книг именно из-за удержания моего внимания. Если кратко, это история о строительстве собора в монастыре, а также несколько историй любви. В книге описана жизнь нескольких поколений. В книге довольно много жестокости.
-    > Понравилось, как описана жизнь в замках, передвижение по опасным большим дорогам и многое другое.
 
 * Гадючий яр ~ [Chiffi](users/105/105831994080785626680-google)<sup>463</sup>
 
@@ -29,20 +30,18 @@ Do not use pull requests to make changes here.
 
 * Хрустальная невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>460</sup>
 
-* Парень из преисподней. Повесть о дружбе и недружбе ~ [Chiffi](users/105/105831994080785626680-google)<sup>459</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>386</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>464</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>444</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>139</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>5</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>96</sup> 
 [](users/115/115095777313809768381-google)<sup>4</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_20.06.2024 10:00:44_
+_20.06.2024 12:46:03_
