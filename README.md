@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Просто работа ~ [Chiffi](users/105/105831994080785626680-google)<sup>465</sup>
+    > https://readli.net/prosto-rabota-2/
+    > Странно, но интересно. И нестандартный, но приятный хеппи энд
+
 * Записки охотника ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup>
     > audio
 
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Вам не кажется, что обстоятельства изменились?– Они не могли измениться, мы просто о них узнали.– Война в наши планы не входила.– Война редко входит в планы. Она просто случается.
 
 * Собор Парижской Богоматери ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup>
-    > Вот он, вечный закон прилива и отлива народного благоволения!
 
 * Столпы Земли ~ [rnixik](users/116/116191270391964650818-google)<sup>76</sup>
 
@@ -28,16 +31,14 @@ Do not use pull requests to make changes here.
 
 * Иванов-сан ~ [Chiffi](users/105/105831994080785626680-google)<sup>461</sup>
 
-* Хрустальная невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>460</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>465</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>386</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>464</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_20.06.2024 12:46:03_
+_21.06.2024 21:44:57_

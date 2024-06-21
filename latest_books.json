@@ -1,4 +1,16 @@
 {
+    "6npaao3RqA": {
+        "id": "6npaao3RqA",
+        "title": "Просто работа",
+        "author": "Борисов Олег",
+        "notes": "https://readli.net/prosto-rabota-2/\nСтранно, но интересно. И нестандартный, но приятный хеппи энд",
+        "createdAt": "2024-06-21 21:44:57",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 465
+        }
+    },
     "c_i8JUMx9V": {
         "id": "c_i8JUMx9V",
         "title": "Записки охотника",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 381
-        }
-    },
-    "bkzh8c3S7s": {
-        "id": "bkzh8c3S7s",
-        "title": "Вдовий плат",
-        "author": "Борис Акунин",
-        "notes": "Нормик",
-        "createdAt": "2024-05-20 13:32:14",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 68
         }
     }
 }

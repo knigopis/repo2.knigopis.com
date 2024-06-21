@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>464</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>465</sup>
 ---
 
 ## 2024
+
+### Просто работа
+Борисов Олег
+> [2024-06-22] https://readli.net/prosto-rabota-2/
+> Странно, но интересно. И нестандартный, но приятный хеппи энд
+
 
 ### Сады пяти стремлений. Герметикон 10
 Панов Вадим

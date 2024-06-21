@@ -1,4 +1,16 @@
 {
+    "6npaao3RqA": {
+        "id": "6npaao3RqA",
+        "title": "Просто работа",
+        "author": "Борисов Олег",
+        "notes": "https://readli.net/prosto-rabota-2/\nСтранно, но интересно. И нестандартный, но приятный хеппи энд",
+        "createdAt": "2024-06-21 21:44:57",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 465
+        }
+    },
     "c_i8JUMx9V": {
         "id": "c_i8JUMx9V",
         "title": "Записки охотника",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 133
-        }
-    },
-    "iX4Ek9VcHf": {
-        "id": "iX4Ek9VcHf",
-        "title": "Стальной барон",
-        "author": "Арадмир Мари",
-        "notes": "https://readli.net/stalnoy-baron/",
-        "createdAt": "2024-04-30 18:19:03",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 454
         }
     }
 }
