@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>465</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>466</sup>
 ---
 
 ## 2024
+
+### Форсайт
+Лукьяненко Сергей
+> [2024-06-22] 
+
 
 ### Просто работа
 Борисов Олег

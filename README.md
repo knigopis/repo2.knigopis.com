@@ -36,8 +36,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>466</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>441</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>465</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>386</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_22.06.2024 20:02:26_
+_22.06.2024 20:26:44_
