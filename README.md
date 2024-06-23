@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Агнесса ~ [Chiffi](users/105/105831994080785626680-google)<sup>467</sup>
+    > https://author.today/reader/297937
+    > Своеобразное чувство юмора
+
 * Просто работа ~ [Chiffi](users/105/105831994080785626680-google)<sup>465</sup>
     > https://readli.net/prosto-rabota-2/
     > Странно, но интересно. И нестандартный, но приятный хеппи энд
@@ -13,9 +17,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Сады пяти стремлений. Герметикон 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>464</sup>
-    > http://flibusta.site/b/748668/read
-    > Интересное предположение, которое объясняет всё, не объясняя ничего.– Хочу напомнить, что я занимаюсь вашими налогами, поэтому в таких вещах являюсь большим специалистом.
-    > Вам не кажется, что обстоятельства изменились?– Они не могли измениться, мы просто о них узнали.– Война в наши планы не входила.– Война редко входит в планы. Она просто случается.
 
 * Собор Парижской Богоматери ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup>
 
@@ -29,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Герметикон. Сады пяти Стремлений ~ [Garka](users/115/115753719718250012620-google)<sup>383</sup>
 
-* Иванов-сан ~ [Chiffi](users/105/105831994080785626680-google)<sup>461</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>466</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>467</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>441</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>386</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_22.06.2024 20:26:44_
+_23.06.2024 20:22:43_

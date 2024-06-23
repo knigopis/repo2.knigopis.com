@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>466</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>467</sup>
 ---
 
 ## 2024
+
+### Агнесса
+Борисов Олег
+> [2024-06-23] https://author.today/reader/297937
+> Своеобразное чувство юмора
+
 
 ### Форсайт
 Лукьяненко Сергей

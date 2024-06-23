@@ -1,4 +1,16 @@
 {
+    "rZqUW4Zw7J": {
+        "id": "rZqUW4Zw7J",
+        "title": "Агнесса",
+        "author": "Борисов Олег",
+        "notes": "https://author.today/reader/297937\nСвоеобразное чувство юмора",
+        "createdAt": "2024-06-23 20:22:43",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 467
+        }
+    },
     "fCNNbofVWF": {
         "id": "fCNNbofVWF",
         "title": "Форсайт",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 96
-        }
-    },
-    "IniXTzGUg7": {
-        "id": "IniXTzGUg7",
-        "title": "Тимур и его команда",
-        "author": "Аркадий Гайдар",
-        "notes": "",
-        "createdAt": "2024-05-26 06:28:19",
-        "user": {
-            "id": "115095777313809768381-google",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }
