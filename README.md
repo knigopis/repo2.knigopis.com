@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[1231кфыа](users/692/692142137-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>467</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>441</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 [tester](users/116/116424012935321035501-google)<sup>0</sup> 
-[Evermind](users/302/302928912-vkontakte)<sup>69</sup> 
 
 
-_23.06.2024 20:22:43_
+_25.06.2024 16:29:00_
