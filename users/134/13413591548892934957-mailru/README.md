@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>441</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>442</sup>
 ---
 
 ## 2024
+
+### Элена знает
+Клаудия Пиньеро
+> [2024-06-28] 
+
 
 ### Мати
 Кузебай Герд
