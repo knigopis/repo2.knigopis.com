@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/115095777313809768381/)<sup>4</sup>
+# List of books read by [](https://plus.google.com/u/0/115095777313809768381/)<sup>5</sup>
 ---
 
 ## 2024
+
+### Бусый волк
+Мария Семенова
+> [2024-06-30] 
+
 
 ### Тимур и его команда
 Аркадий Гайдар
