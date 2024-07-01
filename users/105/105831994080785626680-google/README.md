@@ -1,7 +1,15 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>467</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>468</sup>
 ---
 
 ## 2024
+
+### Темная империя (три части)
+Звездная Елена
+> [2024-07-01] http://loveread.ec/read_book.php?id=99327&p=1
+> «Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»
+> http://loveread.ec/read_book.php?id=99328&p=1
+> http://loveread.ec/read_book.php?id=99329&p=1
+
 
 ### Агнесса
 Борисов Олег
