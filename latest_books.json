@@ -1,4 +1,16 @@
 {
+    "JwPSeq50xo": {
+        "id": "JwPSeq50xo",
+        "title": "Гуттаперчевый мальчик",
+        "author": "Дмитрий Васильевич Григорович",
+        "notes": "",
+        "createdAt": "2024-07-01 07:02:08",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 243
+        }
+    },
     "mb2WSwHaNZ": {
         "id": "mb2WSwHaNZ",
         "title": "Бусый волк",
@@ -345,18 +357,6 @@
             "id": "6069210-vkontakte",
             "nickname": "dobrova",
             "booksCount": 5
-        }
-    },
-    "8PQgCNbnzG": {
-        "id": "8PQgCNbnzG",
-        "title": "Бутылка.Книга для тех, кто любит выпить",
-        "author": "Гайнанова Юля",
-        "notes": "Просто история двух женщин",
-        "createdAt": "2024-06-03 09:14:19",
-        "user": {
-            "id": "6069210-vkontakte",
-            "nickname": "dobrova",
-            "booksCount": 4
         }
     }
 }

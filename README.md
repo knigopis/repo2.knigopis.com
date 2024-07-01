@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>243</sup> 
 [](users/115/115095777313809768381-google)<sup>5</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>442</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>242</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>467</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 
 
-_30.06.2024 14:13:40_
+_01.07.2024 07:02:08_
