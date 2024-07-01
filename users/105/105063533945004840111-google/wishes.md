@@ -35,7 +35,7 @@ Satoshi Nakamoto
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
 
-### `7` Java Concurrency in Practice
+### `9` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `7` Just for Fun
