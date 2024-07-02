@@ -1,15 +1,7 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>470</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>469</sup>
 ---
 
 ## 2024
-
-### Темная империя
-Звездная Елена
-> [2024-07-01] http://loveread.ec/read_book.php?id=99327&p=1
-> «Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»
-> http://loveread.ec/read_book.php?id=99328&p=1
-> http://loveread.ec/read_book.php?id=99329&p=1
-
 
 ### Темная империя
 Звездная Елена
