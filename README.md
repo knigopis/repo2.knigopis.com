@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>469</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>243</sup> 
 [](users/115/115095777313809768381-google)<sup>5</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
-[Вит](users/300/300273923-vkontakte)<sup>164</sup> 
 
 
-_02.07.2024 20:57:30_
+_02.07.2024 23:53:29_
