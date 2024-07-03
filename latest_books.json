@@ -1,4 +1,16 @@
 {
+    "65ezfKqMW3": {
+        "id": "65ezfKqMW3",
+        "title": "Истории книжных магазинов",
+        "author": "Мария Ивашкина",
+        "notes": "",
+        "createdAt": "2024-07-03 15:44:22",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 443
+        }
+    },
     "v6Tfng3LuT": {
         "id": "v6Tfng3LuT",
         "title": "тест",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 442
-        }
-    },
-    "RVMKSRaHjJ": {
-        "id": "RVMKSRaHjJ",
-        "title": "Эссенциализм",
-        "author": "Грег МакКеон",
-        "notes": "",
-        "createdAt": "2024-06-06 14:22:21",
-        "user": {
-            "id": "106915386474260202605-google",
-            "nickname": "leo",
-            "booksCount": 32
         }
     }
 }

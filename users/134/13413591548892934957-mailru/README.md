@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>442</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>443</sup>
 ---
 
 ## 2024
+
+### Истории книжных магазинов
+Мария Ивашкина
+> [2024-07-03] 
+
 
 ### Элена знает
 Клаудия Пиньеро
