@@ -1,4 +1,16 @@
 {
+    "CSv-N_BJW5": {
+        "id": "CSv-N_BJW5",
+        "title": "Великий Гэтсби",
+        "author": "Френсис Скотт Фицджеральд",
+        "notes": "audio",
+        "createdAt": "2024-07-04 05:47:24",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 141
+        }
+    },
     "GhlGTWzrSc": {
         "id": "GhlGTWzrSc",
         "title": "Темная империя",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 135
-        }
-    },
-    "6ajoxZUJ02": {
-        "id": "6ajoxZUJ02",
-        "title": "Идеальный мир для лекаря",
-        "author": "Сапфир Олег, Ковтунов Алексей",
-        "notes": "Налоло серии. Пока интересно",
-        "createdAt": "2024-05-07 19:14:40",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 456
         }
     }
 }

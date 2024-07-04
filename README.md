@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Великий Гэтсби ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>141</sup>
+    > audio
+
 * Темная империя ~ [Chiffi](users/105/105831994080785626680-google)<sup>470</sup>
     > http://loveread.ec/read_book.php?id=99327&p=1
     > «Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»
@@ -18,8 +21,6 @@ Do not use pull requests to make changes here.
     > http://loveread.ec/read_book.php?id=99329&p=1
 
 * Агнесса ~ [Chiffi](users/105/105831994080785626680-google)<sup>467</sup>
-    > https://author.today/reader/297937
-    > Своеобразное чувство юмора
 
 * Просто работа ~ [Chiffi](users/105/105831994080785626680-google)<sup>465</sup>
 
@@ -33,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Гадючий яр ~ [Chiffi](users/105/105831994080785626680-google)<sup>463</sup>
 
-* Авантюристы на всю голову ~ [Chiffi](users/105/105831994080785626680-google)<sup>462</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>141</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>443</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>469</sup> 
@@ -47,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>5</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>140</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>386</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
@@ -72,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 
 
-_03.07.2024 15:44:22_
+_04.07.2024 05:47:24_
