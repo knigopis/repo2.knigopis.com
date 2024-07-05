@@ -32,11 +32,11 @@ Satoshi Nakamoto
 ### `12` Совершенный код
 Стив Макконнелл
 
+### `10` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
-
-### `9` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `7` Just for Fun
 Linus Torvalds, David Diamond
