@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Друзья, любимые и одна большая ужасная вещь ~ [Garka](users/115/115753719718250012620-google)<sup>388</sup>
+    > Аудио
+
 * Великий Гэтсби ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>141</sup>
     > audio
 
@@ -15,10 +18,6 @@ Do not use pull requests to make changes here.
     > http://loveread.ec/read_book.php?id=99329&p=1
 
 * Темная империя (три части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>468</sup>
-    > http://loveread.ec/read_book.php?id=99327&p=1
-    > «Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»
-    > http://loveread.ec/read_book.php?id=99328&p=1
-    > http://loveread.ec/read_book.php?id=99329&p=1
 
 * Агнесса ~ [Chiffi](users/105/105831994080785626680-google)<sup>467</sup>
 
@@ -32,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Столпы Земли ~ [rnixik](users/116/116191270391964650818-google)<sup>76</sup>
 
-* Гадючий яр ~ [Chiffi](users/105/105831994080785626680-google)<sup>463</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>387</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>388</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>141</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>443</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
@@ -71,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 
 
-_05.07.2024 21:33:00_
+_05.07.2024 21:34:12_
