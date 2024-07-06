@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Медвежье озеро 2. Украденный ключ ~ [Chiffi](users/105/105831994080785626680-google)<sup>470</sup>
+    > Обычно, когда мужчина влюблен в женщину, он желает близости с ней. Он окружает ее заботой и при возможности осыпает подарками, что само по себе приносит ему удовлетворение, но хочет он именно физической близости и при удачном стечении обстоятельств рано или поздно получает ее. Дальше в списке желаний идут сложившиеся в нашем сознании атрибуты счастливой совместной жизни: свадьба, общий дом, дети и все такое.
+
 * Друзья, любимые и одна большая ужасная вещь ~ [Garka](users/115/115753719718250012620-google)<sup>388</sup>
     > Аудио
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Темная империя ~ [Chiffi](users/105/105831994080785626680-google)<sup>470</sup>
-    > http://loveread.ec/read_book.php?id=99327&p=1
-    > «Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»
-    > http://loveread.ec/read_book.php?id=99328&p=1
-    > http://loveread.ec/read_book.php?id=99329&p=1
 
 * Темная империя (три части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>468</sup>
 
@@ -29,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Собор Парижской Богоматери ~ [ЗаяцЛис](users/112/112388384595246311466-google)<sup>241</sup>
 
-* Столпы Земли ~ [rnixik](users/116/116191270391964650818-google)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>470</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>388</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>141</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>443</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>469</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>243</sup> 
 [](users/115/115095777313809768381-google)<sup>5</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
@@ -68,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 
 
-_05.07.2024 21:34:12_
+_06.07.2024 18:16:13_
