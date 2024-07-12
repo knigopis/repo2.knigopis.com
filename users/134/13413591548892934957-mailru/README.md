@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>443</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>444</sup>
 ---
 
 ## 2024
+
+### Увлечь за 100 слов
+Луиза Уиллдер
+> [2024-07-12] 
+
 
 ### Истории книжных магазинов
 Мария Ивашкина
