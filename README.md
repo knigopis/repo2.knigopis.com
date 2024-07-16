@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Держи марку ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>143</sup>
+    > audio
+
 * Рассказ Служанки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>142</sup>
     > audio
 
@@ -18,10 +21,6 @@ Do not use pull requests to make changes here.
     > Житейская хитрость не гарантирует наличие ума
 
 * Все ведьмы рыжие. И Будь моей ведьмой ~ [Chiffi](users/105/105831994080785626680-google)<sup>471</sup>
-    > Сказка для взрослых девочек с элементами уж совсем фантастики)) но боевые белки в зелёных банданах и боевые ёжики это что то. http://loveread.ec/read_book.php?id=25081&p=1
-    > http://loveread.ec/view_global.php?id=26921
-    > я думаю, правильные родители обязаны сделать две вещи — быть счастливыми и принимать своих детей такими, какие они есть
-    > категория Drachenfutter Буквальный перевод «Корм для дракона», Это общий термин для подарков, преподносимых в том случае, если муж провинился.
 
 * Медвежье озеро 2. Украденный ключ ~ [Chiffi](users/105/105831994080785626680-google)<sup>470</sup>
 
@@ -35,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Агнесса ~ [Chiffi](users/105/105831994080785626680-google)<sup>467</sup>
 
-* Просто работа ~ [Chiffi](users/105/105831994080785626680-google)<sup>465</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>142</sup> 
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>143</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>472</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>444</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>235</sup> 
@@ -74,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ahushiling](users/116/116407812532669338806-google)<sup>2</sup> 
 
 
-_16.07.2024 07:25:04_
+_16.07.2024 07:25:47_
