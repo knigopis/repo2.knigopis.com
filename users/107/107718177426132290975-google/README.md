@@ -1,4 +1,4 @@
-# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>12</sup>
+# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>13</sup>
 ---
 
 ## 2023
@@ -47,6 +47,10 @@
 
 
 ## 2019
+
+### Портрет Дориана Грея
+Оскар Уайлд
+
 
 ### Дина Рубина
 Крепче Веселись

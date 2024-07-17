@@ -1,4 +1,16 @@
 {
+    "9lwA5cgn5e": {
+        "id": "9lwA5cgn5e",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайлд",
+        "notes": "",
+        "createdAt": "2024-07-17 16:23:02",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 13
+        }
+    },
     "BIAw_Tq6vN": {
         "id": "BIAw_Tq6vN",
         "title": "Дина Рубина",
@@ -345,18 +357,6 @@
             "id": "115095777313809768381-google",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "fO_rqUFXoB": {
-        "id": "fO_rqUFXoB",
-        "title": "Элена знает",
-        "author": "Клаудия Пиньеро",
-        "notes": "",
-        "createdAt": "2024-06-29 11:18:31",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 442
         }
     }
 }
