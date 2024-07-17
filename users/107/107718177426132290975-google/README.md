@@ -1,4 +1,4 @@
-# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>11</sup>
+# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>12</sup>
 ---
 
 ## 2023
@@ -47,6 +47,10 @@
 
 
 ## 2019
+
+### Дина Рубина
+Крепче Веселись
+
 
 ### Дина Рубина
 Всегда, всегда?
