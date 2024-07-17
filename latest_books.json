@@ -1,4 +1,16 @@
 {
+    "NyjbOailct": {
+        "id": "NyjbOailct",
+        "title": "Обыкновенная история",
+        "author": "Иван Гончаров",
+        "notes": "",
+        "createdAt": "2024-07-17 16:17:50",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 10
+        }
+    },
     "zTYbJkNjPs": {
         "id": "zTYbJkNjPs",
         "title": "Белые ночи",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 242
-        }
-    },
-    "htkB-M5JS9": {
-        "id": "htkB-M5JS9",
-        "title": "йца123",
-        "author": "123124",
-        "notes": "12кфыа",
-        "createdAt": "2024-06-25 16:29:12",
-        "user": {
-            "id": "692142137-vkontakte",
-            "nickname": "1231кфыа",
-            "booksCount": 1
         }
     }
 }
