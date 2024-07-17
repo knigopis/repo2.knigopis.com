@@ -1,4 +1,16 @@
 {
+    "i-hwqWTp2s": {
+        "id": "i-hwqWTp2s",
+        "title": "Люди которые всегда со мной",
+        "author": "Наринэ Абгарян",
+        "notes": "",
+        "createdAt": "2024-07-17 16:28:45",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 17
+        }
+    },
     "6pdAgE1rk0": {
         "id": "6pdAgE1rk0",
         "title": "Гений дзюдо",
@@ -345,18 +357,6 @@
             "id": "105622323107798948661-google",
             "nickname": "zik999",
             "booksCount": 1
-        }
-    },
-    "GhlGTWzrSc": {
-        "id": "GhlGTWzrSc",
-        "title": "Темная империя",
-        "author": "Звездная Елена",
-        "notes": "http://loveread.ec/read_book.php?id=99327&p=1\n«Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»\nhttp://loveread.ec/read_book.php?id=99328&p=1\nhttp://loveread.ec/read_book.php?id=99329&p=1",
-        "createdAt": "2024-07-02 20:55:27",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 470
         }
     }
 }
