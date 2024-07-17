@@ -1,4 +1,16 @@
 {
+    "CxqZiHqwkt": {
+        "id": "CxqZiHqwkt",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2024-07-17 16:12:44",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 6
+        }
+    },
     "ef758QJwV4": {
         "id": "ef758QJwV4",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 441
-        }
-    },
-    "6npaao3RqA": {
-        "id": "6npaao3RqA",
-        "title": "Просто работа",
-        "author": "Борисов Олег",
-        "notes": "https://readli.net/prosto-rabota-2/\nСтранно, но интересно. И нестандартный, но приятный хеппи энд",
-        "createdAt": "2024-06-21 21:44:57",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 465
         }
     }
 }
