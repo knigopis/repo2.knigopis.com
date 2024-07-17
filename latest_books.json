@@ -1,4 +1,16 @@
 {
+    "fYLvHRBuia": {
+        "id": "fYLvHRBuia",
+        "title": "Убийство в восточном экспрессе",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2024-07-17 16:23:58",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 14
+        }
+    },
     "9lwA5cgn5e": {
         "id": "9lwA5cgn5e",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 243
-        }
-    },
-    "mb2WSwHaNZ": {
-        "id": "mb2WSwHaNZ",
-        "title": "Бусый волк",
-        "author": "Мария Семенова",
-        "notes": "",
-        "createdAt": "2024-06-30 14:13:40",
-        "user": {
-            "id": "115095777313809768381-google",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }
