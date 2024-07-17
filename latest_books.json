@@ -1,4 +1,16 @@
 {
+    "6pdAgE1rk0": {
+        "id": "6pdAgE1rk0",
+        "title": "Гений дзюдо",
+        "author": "Борис Минаев",
+        "notes": "",
+        "createdAt": "2024-07-17 16:27:34",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 16
+        }
+    },
     "OSll21lKoL": {
         "id": "OSll21lKoL",
         "title": "Из моего окна",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 470
-        }
-    },
-    "rWl3K75XmS": {
-        "id": "rWl3K75XmS",
-        "title": "Темная империя (три части)",
-        "author": "Звездная Елена",
-        "notes": "http://loveread.ec/read_book.php?id=99327&p=1\n«Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»\nhttp://loveread.ec/read_book.php?id=99328&p=1\nhttp://loveread.ec/read_book.php?id=99329&p=1",
-        "createdAt": "2024-07-01 08:52:40",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 468
         }
     }
 }

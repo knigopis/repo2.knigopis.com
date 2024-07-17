@@ -1,4 +1,4 @@
-# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>15</sup>
+# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>16</sup>
 ---
 
 ## 2023
@@ -58,6 +58,10 @@
 
 
 ## 2019
+
+### Гений дзюдо
+Борис Минаев
+
 
 ### Портрет Дориана Грея
 Оскар Уайлд
