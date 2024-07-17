@@ -1,7 +1,11 @@
-# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>1</sup>
+# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>2</sup>
 ---
 
 ## 2023
+
+### Герой нашего времени
+Михаил Лермонтов
+
 
 ### Мастер и Маргарита
 Михаил Булгаков

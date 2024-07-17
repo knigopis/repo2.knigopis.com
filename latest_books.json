@@ -1,4 +1,16 @@
 {
+    "mf2TtnV-mK": {
+        "id": "mf2TtnV-mK",
+        "title": "Герой нашего времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2024-07-17 16:10:18",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 2
+        }
+    },
     "AE8EE_Lt9J": {
         "id": "AE8EE_Lt9J",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 464
-        }
-    },
-    "nTdzt0w0vH": {
-        "id": "nTdzt0w0vH",
-        "title": "Собор Парижской Богоматери",
-        "author": "Виктор Мари Гюго",
-        "notes": "Вот он, вечный закон прилива и отлива народного благоволения!",
-        "createdAt": "2024-06-17 19:32:40",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 241
         }
     }
 }
