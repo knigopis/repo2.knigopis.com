@@ -1,4 +1,10 @@
 {
+    "275766107-vkontakte": {
+        "id": "275766107-vkontakte",
+        "nickname": "aktoty",
+        "booksCount": 97,
+        "updatedAt": "2024-07-17 09:43:18"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -82,12 +88,6 @@
         "nickname": "dobrova",
         "booksCount": 5,
         "updatedAt": "2024-06-03 09:15:12"
-    },
-    "275766107-vkontakte": {
-        "id": "275766107-vkontakte",
-        "nickname": "aktoty",
-        "booksCount": 96,
-        "updatedAt": "2024-05-26 06:41:55"
     },
     "358594589-vkontakte": {
         "id": "358594589-vkontakte",

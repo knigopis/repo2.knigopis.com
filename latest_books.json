@@ -1,4 +1,16 @@
 {
+    "dhBosWmxdQ": {
+        "id": "dhBosWmxdQ",
+        "title": "Скотный Двор",
+        "author": "Джордж Оруэлл",
+        "notes": "Прикольная, рассказывает про СССР, на примере животных. Но немного правда глаза щиплет, было неприятно читать.",
+        "createdAt": "2024-07-17 09:43:18",
+        "user": {
+            "id": "275766107-vkontakte",
+            "nickname": "aktoty",
+            "booksCount": 97
+        }
+    },
     "RVolqjQV1T": {
         "id": "RVolqjQV1T",
         "title": "Что-то не так с Гелвинами",
@@ -345,18 +357,6 @@
             "id": "116191270391964650818-google",
             "nickname": "rnixik",
             "booksCount": 76
-        }
-    },
-    "d0ec7qgrof": {
-        "id": "d0ec7qgrof",
-        "title": "Гадючий яр",
-        "author": "Тимошенко Наталья",
-        "notes": "http://flibusta.site/b/782072/read",
-        "createdAt": "2024-06-15 20:35:01",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 463
         }
     }
 }
