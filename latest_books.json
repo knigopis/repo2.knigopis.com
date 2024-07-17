@@ -1,4 +1,16 @@
 {
+    "JYlj8SaUPB": {
+        "id": "JYlj8SaUPB",
+        "title": "451° по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2024-07-17 17:32:10",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 19
+        }
+    },
     "SLXEJAaOH1": {
         "id": "SLXEJAaOH1",
         "title": "Завещание с того света",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 141
-        }
-    },
-    "65ezfKqMW3": {
-        "id": "65ezfKqMW3",
-        "title": "Истории книжных магазинов",
-        "author": "Мария Ивашкина",
-        "notes": "",
-        "createdAt": "2024-07-03 15:44:22",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 443
         }
     }
 }
