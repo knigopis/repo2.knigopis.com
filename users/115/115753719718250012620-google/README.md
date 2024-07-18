@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>388</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>389</sup>
 ---
 
 ## 2024
+
+### И в аду есть герои
+Панов, Вадим
+> [2024-07-18] 
+
 
 ### Друзья, любимые и одна большая ужасная вещь
 Перри, Меттью
