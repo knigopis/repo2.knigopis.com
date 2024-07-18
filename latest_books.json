@@ -1,4 +1,16 @@
 {
+    "cdZBVxwvzF": {
+        "id": "cdZBVxwvzF",
+        "title": "Загадай любовь",
+        "author": "Ася Лавринович",
+        "notes": "",
+        "createdAt": "2024-07-18 09:06:14",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 20
+        }
+    },
     "JYlj8SaUPB": {
         "id": "JYlj8SaUPB",
         "title": "451° по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 387
-        }
-    },
-    "CSv-N_BJW5": {
-        "id": "CSv-N_BJW5",
-        "title": "Великий Гэтсби",
-        "author": "Френсис Скотт Фицджеральд",
-        "notes": "audio",
-        "createdAt": "2024-07-04 05:47:24",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 141
         }
     }
 }
