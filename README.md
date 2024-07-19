@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>445</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>7</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>390</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>97</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>445</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>472</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>444</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>235</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>243</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 
 
-_19.07.2024 11:51:35_
+_19.07.2024 20:43:08_

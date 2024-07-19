@@ -1,4 +1,16 @@
 {
+    "01hxW7wWwS": {
+        "id": "01hxW7wWwS",
+        "title": "Ветер уносит мертвые листья",
+        "author": "Екатерина Манойло",
+        "notes": "",
+        "createdAt": "2024-07-19 20:43:08",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 445
+        }
+    },
     "PliRFOZPEm": {
         "id": "PliRFOZPEm",
         "title": "Опасные личности. Как их вычислить и не дать манипулировать собой",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 472
-        }
-    },
-    "Zfm2VwP167": {
-        "id": "Zfm2VwP167",
-        "title": "Увлечь за 100 слов",
-        "author": "Луиза Уиллдер",
-        "notes": "",
-        "createdAt": "2024-07-12 20:33:21",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 444
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>444</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>445</sup>
 ---
 
 ## 2024
+
+### Ветер уносит мертвые листья
+Екатерина Манойло
+> [2024-07-20] 
+
 
 ### Увлечь за 100 слов
 Луиза Уиллдер
