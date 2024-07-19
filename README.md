@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Делай деньги! ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup>
+    > audio
+
 * Скотный Двор ~ [aktoty](users/275/275766107-vkontakte)<sup>97</sup>
     > Прикольная, рассказывает про СССР, на примере животных. Но немного правда глаза щиплет, было неприятно читать.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Рассказ Служанки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>142</sup>
-    > audio
 
 * День чёрной собаки (Феликс Вербин - 1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>472</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Темная империя ~ [Chiffi](users/105/105831994080785626680-google)<sup>470</sup>
 
-* Темная империя (три части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>468</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>390</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>20</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>97</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>445</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>143</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>472</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>444</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>235</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 
 
-_18.07.2024 15:01:13_
+_19.07.2024 04:08:09_
