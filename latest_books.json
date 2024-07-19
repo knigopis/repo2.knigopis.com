@@ -1,4 +1,16 @@
 {
+    "xvCjx31f8a": {
+        "id": "xvCjx31f8a",
+        "title": "Материнская власть. Психологические последствия в жизни взрослых людей. Как начать жить своей жизнью",
+        "author": "Елена Новоселова",
+        "notes": "Всем надо читать",
+        "createdAt": "2024-07-19 11:46:09",
+        "user": {
+            "id": "6069210-vkontakte",
+            "nickname": "dobrova",
+            "booksCount": 6
+        }
+    },
     "YG1ZlMIGvD": {
         "id": "YG1ZlMIGvD",
         "title": "Делай деньги!",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 471
-        }
-    },
-    "FoIi5sks9V": {
-        "id": "FoIi5sks9V",
-        "title": "Тревожный месяц вересень",
-        "author": "Смирнов Виктор Васильевич",
-        "notes": "",
-        "createdAt": "2024-07-07 16:47:21",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 235
         }
     }
 }

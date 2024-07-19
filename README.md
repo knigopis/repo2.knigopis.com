@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Материнская власть. Психологические последствия в жизни взрослых людей. Как начать жить своей жизнью ~ [dobrova](users/606/6069210-vkontakte)<sup>6</sup>
+    > Всем надо читать
+
 * Делай деньги! ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup>
     > audio
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прикольная, рассказывает про СССР, на примере животных. Но немного правда глаза щиплет, было неприятно читать.
 
 * Держи марку ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>143</sup>
-    > audio
 
 * Рассказ Служанки ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>142</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Великий Гэтсби ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>141</sup>
 
-* Темная империя ~ [Chiffi](users/105/105831994080785626680-google)<sup>470</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dobrova](users/606/6069210-vkontakte)<sup>6</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>390</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>20</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
-[dobrova](users/606/6069210-vkontakte)<sup>5</sup> 
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 
 
-_19.07.2024 04:08:09_
+_19.07.2024 11:46:09_

@@ -1,4 +1,16 @@
 {
+    "xvCjx31f8a": {
+        "id": "xvCjx31f8a",
+        "title": "Материнская власть. Психологические последствия в жизни взрослых людей. Как начать жить своей жизнью",
+        "author": "Елена Новоселова",
+        "notes": "Всем надо читать",
+        "createdAt": "2024-07-19 11:46:09",
+        "user": {
+            "id": "6069210-vkontakte",
+            "nickname": "dobrova",
+            "booksCount": 6
+        }
+    },
     "YG1ZlMIGvD": {
         "id": "YG1ZlMIGvD",
         "title": "Делай деньги!",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 138
-        }
-    },
-    "13wlqCLbe9": {
-        "id": "13wlqCLbe9",
-        "title": "ВП и ВВВ",
-        "author": "Алан Милн",
-        "notes": "audio",
-        "createdAt": "2024-06-02 06:32:57",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 137
         }
     }
 }

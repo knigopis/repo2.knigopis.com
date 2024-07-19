@@ -1,4 +1,10 @@
 {
+    "6069210-vkontakte": {
+        "id": "6069210-vkontakte",
+        "nickname": "dobrova",
+        "booksCount": 6,
+        "updatedAt": "2024-07-19 11:46:09"
+    },
     "47446642-vkontakte": {
         "id": "47446642-vkontakte",
         "nickname": "Альберт Сысоев",
@@ -88,12 +94,6 @@
         "nickname": "leo",
         "booksCount": 33,
         "updatedAt": "2024-06-15 13:14:14"
-    },
-    "6069210-vkontakte": {
-        "id": "6069210-vkontakte",
-        "nickname": "dobrova",
-        "booksCount": 5,
-        "updatedAt": "2024-06-03 09:15:12"
     },
     "358594589-vkontakte": {
         "id": "358594589-vkontakte",
