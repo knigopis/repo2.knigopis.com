@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dobrova](users/606/6069210-vkontakte)<sup>6</sup> 
+[dobrova](users/606/6069210-vkontakte)<sup>7</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>390</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 
 
-_19.07.2024 11:46:09_
+_19.07.2024 11:51:35_
