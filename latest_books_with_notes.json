@@ -1,4 +1,16 @@
 {
+    "9EfX0hhIdQ": {
+        "id": "9EfX0hhIdQ",
+        "title": "Ешь, двигайся, спи",
+        "author": "Том Рат",
+        "notes": "Стоит прочитать всем, но в ней ничего нового - еда, физические нагрузки, сон - основа всего :)",
+        "createdAt": "2024-07-20 20:48:03",
+        "user": {
+            "id": "6069210-vkontakte",
+            "nickname": "dobrova",
+            "booksCount": 8
+        }
+    },
     "xvCjx31f8a": {
         "id": "xvCjx31f8a",
         "title": "Материнская власть. Психологические последствия в жизни взрослых людей. Как начать жить своей жизнью",
@@ -345,18 +357,6 @@
             "id": "6069210-vkontakte",
             "nickname": "dobrova",
             "booksCount": 4
-        }
-    },
-    "VDOhf6HkzN": {
-        "id": "VDOhf6HkzN",
-        "title": "Повести Белкина",
-        "author": "Александр Пушкин",
-        "notes": "audio",
-        "createdAt": "2024-06-02 06:33:54",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 138
         }
     }
 }

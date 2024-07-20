@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ешь, двигайся, спи ~ [dobrova](users/606/6069210-vkontakte)<sup>8</sup>
+    > Стоит прочитать всем, но в ней ничего нового - еда, физические нагрузки, сон - основа всего :)
+
 * Материнская власть. Психологические последствия в жизни взрослых людей. Как начать жить своей жизнью ~ [dobrova](users/606/6069210-vkontakte)<sup>6</sup>
     > Всем надо читать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > audio
 
 * Скотный Двор ~ [aktoty](users/275/275766107-vkontakte)<sup>97</sup>
-    > Прикольная, рассказывает про СССР, на примере животных. Но немного правда глаза щиплет, было неприятно читать.
 
 * Держи марку ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>143</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Друзья, любимые и одна большая ужасная вещь ~ [Garka](users/115/115753719718250012620-google)<sup>388</sup>
 
-* Великий Гэтсби ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>141</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dobrova](users/606/6069210-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>244</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>445</sup> 
-[dobrova](users/606/6069210-vkontakte)<sup>7</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>390</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 
 
-_20.07.2024 12:44:17_
+_20.07.2024 20:48:03_
