@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>473</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>244</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
 [Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
-[telkantto](users/105/105132765868492364316-google)<sup>0</sup> 
 
 
-_23.07.2024 18:43:54_
+_25.07.2024 02:21:30_

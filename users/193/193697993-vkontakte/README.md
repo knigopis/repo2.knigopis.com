@@ -1,5 +1,13 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>91</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>92</sup>
 ---
+
+## 2024
+
+### Жена неверного маршала, или Пиццерия попаданки
+Матильда Аваланж
+> [2024-07-25] 
+
+
 
 ## 2023
 
