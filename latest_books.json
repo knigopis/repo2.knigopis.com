@@ -1,4 +1,16 @@
 {
+    "pqs9pj0jqP": {
+        "id": "pqs9pj0jqP",
+        "title": "Заветы",
+        "author": "Маргарет Этвуд",
+        "notes": "audio",
+        "createdAt": "2024-07-25 08:50:55",
+        "user": {
+            "id": "47446642-vkontakte",
+            "nickname": "Альберт Сысоев",
+            "booksCount": 145
+        }
+    },
     "10ujge0eWJ": {
         "id": "10ujge0eWJ",
         "title": "Жена неверного маршала, или Пиццерия попаданки",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 1
-        }
-    },
-    "dhBosWmxdQ": {
-        "id": "dhBosWmxdQ",
-        "title": "Скотный Двор",
-        "author": "Джордж Оруэлл",
-        "notes": "Прикольная, рассказывает про СССР, на примере животных. Но немного правда глаза щиплет, было неприятно читать.",
-        "createdAt": "2024-07-17 09:43:18",
-        "user": {
-            "id": "275766107-vkontakte",
-            "nickname": "aktoty",
-            "booksCount": 97
         }
     }
 }
