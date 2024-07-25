@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>473</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mailforlesha](users/836/836484549-yandex)<sup>2</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>197</sup> 
-[Belkinv](users/117/117655821011958723100-google)<sup>0</sup> 
 
 
-_25.07.2024 08:50:55_
+_25.07.2024 10:18:09_
