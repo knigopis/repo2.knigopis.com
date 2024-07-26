@@ -1,4 +1,16 @@
 {
+    "Q9YWf9I0Yw": {
+        "id": "Q9YWf9I0Yw",
+        "title": "Мессия дюны",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2024-07-26 18:15:26",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 87
+        }
+    },
     "3PX1iY-rjA": {
         "id": "3PX1iY-rjA",
         "title": "Дюна",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 3
-        }
-    },
-    "mf2TtnV-mK": {
-        "id": "mf2TtnV-mK",
-        "title": "Герой нашего времени",
-        "author": "Михаил Лермонтов",
-        "notes": "",
-        "createdAt": "2024-07-17 16:10:18",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 2
         }
     }
 }
