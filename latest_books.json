@@ -1,4 +1,16 @@
 {
+    "U1N2X7wZU9": {
+        "id": "U1N2X7wZU9",
+        "title": "Южная Корея изнутри",
+        "author": "Ирина Мун",
+        "notes": "",
+        "createdAt": "2024-07-26 18:23:10",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 95
+        }
+    },
     "yXPDwsu4cU": {
         "id": "yXPDwsu4cU",
         "title": "Япония изнутри",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 12
-        }
-    },
-    "NyjbOailct": {
-        "id": "NyjbOailct",
-        "title": "Обыкновенная история",
-        "author": "Иван Гончаров",
-        "notes": "",
-        "createdAt": "2024-07-17 16:17:50",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 10
         }
     }
 }
