@@ -1,4 +1,16 @@
 {
+    "Cxfty04-Dr": {
+        "id": "Cxfty04-Dr",
+        "title": "Хочу и буду",
+        "author": "Михаил Лабковский",
+        "notes": "",
+        "createdAt": "2024-07-26 18:16:35",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 89
+        }
+    },
     "I6BCb5Y170": {
         "id": "I6BCb5Y170",
         "title": "Дети дюны",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 5
-        }
-    },
-    "SllmKn2JYT": {
-        "id": "SllmKn2JYT",
-        "title": "Подсказчик",
-        "author": "Донато Карризи",
-        "notes": "",
-        "createdAt": "2024-07-17 16:11:13",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 4
         }
     }
 }
