@@ -1,4 +1,16 @@
 {
+    "JtRLnkYtbq": {
+        "id": "JtRLnkYtbq",
+        "title": "Финансист. Оплот. Стоик",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2024-07-26 18:17:57",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 90
+        }
+    },
     "Cxfty04-Dr": {
         "id": "Cxfty04-Dr",
         "title": "Хочу и буду",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 6
-        }
-    },
-    "ef758QJwV4": {
-        "id": "ef758QJwV4",
-        "title": "Гордость и предубеждение",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2024-07-17 16:11:56",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 5
         }
     }
 }
