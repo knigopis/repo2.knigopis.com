@@ -1,4 +1,16 @@
 {
+    "3PX1iY-rjA": {
+        "id": "3PX1iY-rjA",
+        "title": "Дюна",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2024-07-26 18:14:59",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 86
+        }
+    },
     "pqs9pj0jqP": {
         "id": "pqs9pj0jqP",
         "title": "Заветы",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 2
-        }
-    },
-    "AE8EE_Lt9J": {
-        "id": "AE8EE_Lt9J",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2024-07-17 16:09:35",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 1
         }
     }
 }

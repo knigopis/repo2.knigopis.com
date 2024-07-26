@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 86,
+        "updatedAt": "2024-07-26 18:14:59"
+    },
     "103098990387296691783-google": {
         "id": "103098990387296691783-google",
         "nickname": "seqquell",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 286,
         "updatedAt": "2024-03-27 07:43:53"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 197,
-        "updatedAt": "2024-03-10 15:49:51"
     }
 }
