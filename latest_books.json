@@ -1,4 +1,16 @@
 {
+    "yXPDwsu4cU": {
+        "id": "yXPDwsu4cU",
+        "title": "Япония изнутри",
+        "author": "Марина Чижова",
+        "notes": "",
+        "createdAt": "2024-07-26 18:22:22",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 94
+        }
+    },
     "wGgHhyNNiL": {
         "id": "wGgHhyNNiL",
         "title": "Азазель. Турецкий гамбит. Левиафан",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 10
-        }
-    },
-    "zTYbJkNjPs": {
-        "id": "zTYbJkNjPs",
-        "title": "Белые ночи",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2024-07-17 16:15:57",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 9
         }
     }
 }
