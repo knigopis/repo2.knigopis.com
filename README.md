@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>93</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>95</sup> 
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>473</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>8</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>244</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>286</sup> 
 
 
-_26.07.2024 18:23:10_
+_26.07.2024 18:25:21_
