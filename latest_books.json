@@ -1,4 +1,16 @@
 {
+    "-uOfFCSh_8": {
+        "id": "-uOfFCSh_8",
+        "title": "Кольцо Царя Соломона",
+        "author": "Конрад Лоренц",
+        "notes": "",
+        "createdAt": "2024-07-27 06:55:00",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 96
+        }
+    },
     "V3-7L882xW": {
         "id": "V3-7L882xW",
         "title": "Поиски утраченного завтра",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 15
-        }
-    },
-    "fYLvHRBuia": {
-        "id": "fYLvHRBuia",
-        "title": "Убийство в восточном экспрессе",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2024-07-17 16:23:58",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 14
         }
     }
 }
