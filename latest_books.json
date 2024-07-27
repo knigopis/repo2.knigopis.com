@@ -1,4 +1,16 @@
 {
+    "QQ7Pf46nyi": {
+        "id": "QQ7Pf46nyi",
+        "title": "Мышление. Системный подход",
+        "author": "Андрей Курпатов",
+        "notes": "",
+        "createdAt": "2024-07-27 06:57:13",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 98
+        }
+    },
     "ZHkCyU-fAc": {
         "id": "ZHkCyU-fAc",
         "title": "Сборник рассказов. Муж которого я купила",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 17
-        }
-    },
-    "6pdAgE1rk0": {
-        "id": "6pdAgE1rk0",
-        "title": "Гений дзюдо",
-        "author": "Борис Минаев",
-        "notes": "",
-        "createdAt": "2024-07-17 16:27:34",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 16
         }
     }
 }
