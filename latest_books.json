@@ -1,4 +1,16 @@
 {
+    "XxdUDk51Kb": {
+        "id": "XxdUDk51Kb",
+        "title": "Как победить панические атаки",
+        "author": "Андрей Курпатов",
+        "notes": "",
+        "createdAt": "2024-07-27 07:07:51",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 105
+        }
+    },
     "5sK-zF0ZNA": {
         "id": "5sK-zF0ZNA",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "6069210-vkontakte",
             "nickname": "dobrova",
             "booksCount": 6
-        }
-    },
-    "YG1ZlMIGvD": {
-        "id": "YG1ZlMIGvD",
-        "title": "Делай деньги!",
-        "author": "Терри Пратчетт",
-        "notes": "audio",
-        "createdAt": "2024-07-19 04:08:09",
-        "user": {
-            "id": "47446642-vkontakte",
-            "nickname": "Альберт Сысоев",
-            "booksCount": 144
         }
     }
 }
