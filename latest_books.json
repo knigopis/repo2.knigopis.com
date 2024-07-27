@@ -1,4 +1,16 @@
 {
+    "nsZ8g8yZDC": {
+        "id": "nsZ8g8yZDC",
+        "title": "Король, дама, валет",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2024-07-27 07:04:24",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 103
+        }
+    },
     "b2HviWhlIP": {
         "id": "b2HviWhlIP",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 390
-        }
-    },
-    "_NoX-rR_jp": {
-        "id": "_NoX-rR_jp",
-        "title": "И в аду есть герои",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-07-18 14:58:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 389
         }
     }
 }
