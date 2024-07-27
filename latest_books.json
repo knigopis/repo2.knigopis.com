@@ -1,4 +1,16 @@
 {
+    "5sK-zF0ZNA": {
+        "id": "5sK-zF0ZNA",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2024-07-27 07:06:14",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 104
+        }
+    },
     "nsZ8g8yZDC": {
         "id": "nsZ8g8yZDC",
         "title": "Король, дама, валет",
@@ -345,18 +357,6 @@
             "id": "47446642-vkontakte",
             "nickname": "Альберт Сысоев",
             "booksCount": 144
-        }
-    },
-    "1vav8xbZ2T": {
-        "id": "1vav8xbZ2T",
-        "title": "Тайный город. Атака по правилам",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-07-18 15:01:13",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 390
         }
     }
 }
