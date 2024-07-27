@@ -1,4 +1,16 @@
 {
+    "b2HviWhlIP": {
+        "id": "b2HviWhlIP",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2024-07-27 07:03:37",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 102
+        }
+    },
     "37OuTAHYea": {
         "id": "37OuTAHYea",
         "title": "Двенадцать стульев",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 389
-        }
-    },
-    "cdZBVxwvzF": {
-        "id": "cdZBVxwvzF",
-        "title": "Загадай любовь",
-        "author": "Ася Лавринович",
-        "notes": "",
-        "createdAt": "2024-07-18 09:06:14",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 20
         }
     }
 }
