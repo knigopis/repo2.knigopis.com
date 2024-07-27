@@ -1,4 +1,16 @@
 {
+    "GLHVWmGmmR": {
+        "id": "GLHVWmGmmR",
+        "title": "Думай медленно... Решай быстро",
+        "author": "Даниэль Канеман",
+        "notes": "",
+        "createdAt": "2024-07-27 06:58:36",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 99
+        }
+    },
     "QQ7Pf46nyi": {
         "id": "QQ7Pf46nyi",
         "title": "Мышление. Системный подход",
@@ -345,18 +357,6 @@
             "id": "107718177426132290975-google",
             "nickname": "Dinara ",
             "booksCount": 18
-        }
-    },
-    "i-hwqWTp2s": {
-        "id": "i-hwqWTp2s",
-        "title": "Люди которые всегда со мной",
-        "author": "Наринэ Абгарян",
-        "notes": "",
-        "createdAt": "2024-07-17 16:28:45",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 17
         }
     }
 }
