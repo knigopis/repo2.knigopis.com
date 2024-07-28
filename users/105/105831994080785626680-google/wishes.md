@@ -50,4 +50,5 @@
 > Док https://readli.net/chitat-online/?b=237941&pg=1
 > Доченька https://readli.net/dochenka-desant-svoih-ne-brosaet/
 > Мама https://readli.net/mama-ne-plach/
+> дураками рождаются, но нельзя дураком оставаться до пенсии. Это привелегия лишь генералов.
 
