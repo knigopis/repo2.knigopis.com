@@ -1,4 +1,10 @@
 {
+    "103541795835665788358-google": {
+        "id": "103541795835665788358-google",
+        "nickname": "Dumnin",
+        "booksCount": 1,
+        "updatedAt": "2024-07-28 01:53:27"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -172,11 +178,5 @@
         "nickname": "mailforlesha",
         "booksCount": 2,
         "updatedAt": "2024-03-28 19:33:32"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 286,
-        "updatedAt": "2024-03-27 07:43:53"
     }
 }
