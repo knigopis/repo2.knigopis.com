@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 [Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>474</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>99</sup> 
-[mailforlesha](users/836/836484549-yandex)<sup>2</sup> 
 
 
-_28.07.2024 01:53:27_
+_28.07.2024 14:25:35_
