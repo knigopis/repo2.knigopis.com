@@ -1,4 +1,10 @@
 {
+    "116182444618955408830-google": {
+        "id": "116182444618955408830-google",
+        "nickname": "Iry",
+        "booksCount": 0,
+        "updatedAt": "2024-07-28 14:25:35"
+    },
     "103541795835665788358-google": {
         "id": "103541795835665788358-google",
         "nickname": "Dumnin",
@@ -172,11 +178,5 @@
         "nickname": "vechno7t",
         "booksCount": 99,
         "updatedAt": "2024-04-02 17:49:26"
-    },
-    "836484549-yandex": {
-        "id": "836484549-yandex",
-        "nickname": "mailforlesha",
-        "booksCount": 2,
-        "updatedAt": "2024-03-28 19:33:32"
     }
 }
