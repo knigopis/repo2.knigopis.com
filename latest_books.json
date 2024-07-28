@@ -1,4 +1,16 @@
 {
+    "SG2eQ6bP9n": {
+        "id": "SG2eQ6bP9n",
+        "title": "Тайный город. Наложницы ненависти",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-07-28 21:01:28",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 391
+        }
+    },
     "5_5lfzD2tE": {
         "id": "5_5lfzD2tE",
         "title": "Господин Изобретатель. Часть I.",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 445
-        }
-    },
-    "PliRFOZPEm": {
-        "id": "PliRFOZPEm",
-        "title": "Опасные личности. Как их вычислить и не дать манипулировать собой",
-        "author": "Джо Наварро",
-        "notes": "",
-        "createdAt": "2024-07-19 11:51:35",
-        "user": {
-            "id": "6069210-vkontakte",
-            "nickname": "dobrova",
-            "booksCount": 7
         }
     }
 }

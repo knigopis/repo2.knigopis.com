@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>390</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>391</sup>
 ---
 
 ## 2024
+
+### Тайный город. Наложницы ненависти
+Панов, Вадим
+> [2024-07-27] 
+
 
 ### Тайный город. И в аду есть герои
 Панов, Вадим
