@@ -45,3 +45,9 @@
 > https://author.today/reader/358197
 > Сepгeй cмoтpeл cвязaннoму пpямo в пepeнocицу, чтo oбычнo у чeлoвeкa вызывaeт нeлoвкoe oщущeниe, будтo взгляд нaпpaвлeн cквoзь нeгo (дядькa бeзoпacник нaучил,
 
+### `` Док. Доченька. Мама
+Борисов Олег
+> Док https://readli.net/chitat-online/?b=237941&pg=1
+> Доченька https://readli.net/dochenka-desant-svoih-ne-brosaet/
+> Мама https://readli.net/mama-ne-plach/
+
