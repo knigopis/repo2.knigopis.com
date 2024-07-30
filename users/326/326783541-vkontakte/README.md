@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>49</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>48</sup>
 ---
 
 ## 2024
@@ -20,9 +20,6 @@
 
 ### We set the dark on fire
 > [2024-04-01] 
-
-
-### we unleash the merciless storm
 
 
 
