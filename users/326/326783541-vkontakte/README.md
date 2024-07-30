@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>47</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>48</sup>
 ---
 
 ## 2024
@@ -6,6 +6,11 @@
 ### Эрха
 Митбан
 > [2024-07-30] 
+
+
+### Белые одежды [2]
+Дудинцев
+> [2024-07-20] 
 
 
 ### Солярис

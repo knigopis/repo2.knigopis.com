@@ -1,4 +1,16 @@
 {
+    "vKppWnIS9f": {
+        "id": "vKppWnIS9f",
+        "title": "Белые одежды [2]",
+        "author": "Дудинцев",
+        "notes": "",
+        "createdAt": "2024-07-30 20:59:57",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 48
+        }
+    },
     "DQJ3W2hTIC": {
         "id": "DQJ3W2hTIC",
         "title": "Эрха",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 473
-        }
-    },
-    "9EfX0hhIdQ": {
-        "id": "9EfX0hhIdQ",
-        "title": "Ешь, двигайся, спи",
-        "author": "Том Рат",
-        "notes": "Стоит прочитать всем, но в ней ничего нового - еда, физические нагрузки, сон - основа всего :)",
-        "createdAt": "2024-07-20 20:48:03",
-        "user": {
-            "id": "6069210-vkontakte",
-            "nickname": "dobrova",
-            "booksCount": 8
         }
     }
 }
