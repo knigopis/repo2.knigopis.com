@@ -1,6 +1,8 @@
 # Wish list of books by [Askaliya](http://vk.com/id326783541)
 ---
 
+### `27` we unleash the merciless storm
+
 ### `` Поднося вино
 
 ### `` Топить в вине бушующее пламя печали
@@ -30,7 +32,4 @@ Reed Zoe
 ### `` Машенька
 Набоков
 > Сентимент
-
-### `` Солярис
-Лем
 
