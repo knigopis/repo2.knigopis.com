@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>47</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>475</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>391</sup> 
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
@@ -67,11 +68,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 [niyan](users/110/110517883439678622021-google)<sup>1</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>46</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>99</sup> 
 
 
-_30.07.2024 16:30:16_
+_30.07.2024 20:59:26_

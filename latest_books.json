@@ -1,4 +1,16 @@
 {
+    "DQJ3W2hTIC": {
+        "id": "DQJ3W2hTIC",
+        "title": "Эрха",
+        "author": "Митбан",
+        "notes": "",
+        "createdAt": "2024-07-30 20:59:26",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 47
+        }
+    },
     "jFjmmA6iOL": {
         "id": "jFjmmA6iOL",
         "title": "Приручитель женщин монстров (три части)",
@@ -345,18 +357,6 @@
             "id": "6069210-vkontakte",
             "nickname": "dobrova",
             "booksCount": 8
-        }
-    },
-    "ckbPOmx0Am": {
-        "id": "ckbPOmx0Am",
-        "title": "Мальчик, которого растили как собаку",
-        "author": "Брюс Перри, Майя Салавец",
-        "notes": "",
-        "createdAt": "2024-07-20 12:44:17",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 244
         }
     }
 }
