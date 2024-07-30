@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>474</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>475</sup>
 ---
 
 ## 2024
+
+### Приручитель женщин монстров (три части)
+Дорничев Дмитрий
+> [2024-07-30] http://flibusta.site/b/788632
+> https://flibusta.site/s/92367
+
 
 ### Поиски утраченного завтра
 Лукьяненко Сергей
