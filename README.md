@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>48</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>475</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>391</sup> 
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vechno7t](users/102/102483077884312127500-google)<sup>99</sup> 
 
 
-_30.07.2024 20:59:57_
+_30.07.2024 21:00:44_
