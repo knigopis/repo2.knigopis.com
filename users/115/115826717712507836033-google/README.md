@@ -1,7 +1,12 @@
-# List of books read by Elixir<sup>445</sup>
+# List of books read by Elixir<sup>446</sup>
 ---
 
 ## 2024
+
+### Не бьёт, просто обижает
+Эванс Патрисия
+> [2024-08-02] 
+
 
 ### Что-то не так с Гэлвинами
 Колкен Роберт
