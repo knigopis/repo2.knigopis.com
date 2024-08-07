@@ -1,7 +1,12 @@
-# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>20</sup>
+# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>21</sup>
 ---
 
 ## 2024
+
+### Маньяк Гуревич
+Дина Рубина
+> [2024-08-07] 
+
 
 ### Загадай любовь
 Ася Лавринович

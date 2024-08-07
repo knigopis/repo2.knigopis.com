@@ -1,4 +1,16 @@
 {
+    "CLCZD6eP1J": {
+        "id": "CLCZD6eP1J",
+        "title": "Маньяк Гуревич",
+        "author": "Дина Рубина",
+        "notes": "",
+        "createdAt": "2024-08-07 18:36:53",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 21
+        }
+    },
     "jRVoLCLZD5": {
         "id": "jRVoLCLZD5",
         "title": "Не бьёт, просто обижает",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 87
-        }
-    },
-    "3PX1iY-rjA": {
-        "id": "3PX1iY-rjA",
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "notes": "",
-        "createdAt": "2024-07-26 18:14:59",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 86
         }
     }
 }
