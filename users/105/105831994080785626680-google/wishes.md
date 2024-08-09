@@ -13,7 +13,7 @@
 ### `50` Профессиональные технологии нарезки
 Джеффри Эллиот, Джеймс П. Дьюан
 
-### `` Пожиратель душ
+### `` Пожиратель душ. Цикл из 18 книг
 Дорничев Дмитрий
 > https://loveread.com.ua/site/bookread?subdomain=pozhiratel-dush-kompilyaciya-knigi-1-18-dmitrii-dornichev
 
