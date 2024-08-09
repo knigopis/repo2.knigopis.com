@@ -1,4 +1,16 @@
 {
+    "ZoRiL92aKO": {
+        "id": "ZoRiL92aKO",
+        "title": "Будь моей мамой. Искалеченное детство.",
+        "author": "Кэти Гласс",
+        "notes": "",
+        "createdAt": "2024-08-09 07:55:55",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 245
+        }
+    },
     "CLCZD6eP1J": {
         "id": "CLCZD6eP1J",
         "title": "Маньяк Гуревич",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 88
-        }
-    },
-    "Q9YWf9I0Yw": {
-        "id": "Q9YWf9I0Yw",
-        "title": "Мессия дюны",
-        "author": "Фрэнк Герберт",
-        "notes": "",
-        "createdAt": "2024-07-26 18:15:26",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 87
         }
     }
 }
