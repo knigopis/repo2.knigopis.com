@@ -1,4 +1,16 @@
 {
+    "BM0MUQ0-4h": {
+        "id": "BM0MUQ0-4h",
+        "title": "Хозяйка ювелирной мастерской",
+        "author": "Шаенская Анна",
+        "notes": "http://flibusta.site/b/670486/read неплохая идея, хороший язык. Но слишком много сладостей и суффиксов и темп (сначала долго и не быстро, потом галопом по Европа)",
+        "createdAt": "2024-08-11 21:44:07",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 476
+        }
+    },
     "ZoRiL92aKO": {
         "id": "ZoRiL92aKO",
         "title": "Будь моей мамой. Искалеченное детство.",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 89
-        }
-    },
-    "I6BCb5Y170": {
-        "id": "I6BCb5Y170",
-        "title": "Дети дюны",
-        "author": "Фрэнк Герберт",
-        "notes": "",
-        "createdAt": "2024-07-26 18:15:35",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 88
         }
     }
 }
