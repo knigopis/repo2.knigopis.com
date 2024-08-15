@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>446</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>447</sup>
 ---
 
 ## 2024
+
+### Аромат изгнания
+Ондин Хайят
+> [2024-08-05] 
+
 
 ### Течения
 Даша Благова
