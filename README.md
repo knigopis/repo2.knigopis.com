@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Выбор варианта ~ [Chiffi](users/105/105831994080785626680-google)<sup>478</sup>
+    > https://readli.net/vyibor-varianta/
+    > Попаданство, но без фантастики (почти)
+    > Надо поучиться рукоделия и запомнить рецепты)))
+
 * Док. Доченька. Мама ~ [Chiffi](users/105/105831994080785626680-google)<sup>477</sup>
     > Док https://readli.net/chitat-online/?b=237941&pg=1
     > Доченька https://readli.net/dochenka-desant-svoih-ne-brosaet/
@@ -22,8 +27,6 @@ Do not use pull requests to make changes here.
     > http://flibusta.site/b/670486/read неплохая идея, хороший язык. Но слишком много сладостей и суффиксов и темп (сначала долго и не быстро, потом галопом по Европа)
 
 * Приручитель женщин монстров (три части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>475</sup>
-    > http://flibusta.site/b/788632
-    > https://flibusta.site/s/92367
 
 * Господин Изобретатель. Часть I. ~ [Dumnin](users/103/103541795835665788358-google)<sup>1</sup>
 
@@ -37,15 +40,13 @@ Do not use pull requests to make changes here.
 
 * Материнская власть. Психологические последствия в жизни взрослых людей. Как начать жить своей жизнью ~ [dobrova](users/606/6069210-vkontakte)<sup>6</sup>
 
-* Делай деньги! ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>478</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>447</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>477</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>245</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>21</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>446</sup> 
@@ -76,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vechno7t](users/102/102483077884312127500-google)<sup>99</sup> 
 
 
-_15.08.2024 22:43:58_
+_17.08.2024 08:41:45_

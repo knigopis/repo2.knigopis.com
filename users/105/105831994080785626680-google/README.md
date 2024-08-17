@@ -1,7 +1,14 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>477</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>478</sup>
 ---
 
 ## 2024
+
+### Выбор варианта
+Ром Полина
+> [2024-08-17] https://readli.net/vyibor-varianta/
+> Попаданство, но без фантастики (почти)
+> Надо поучиться рукоделия и запомнить рецепты)))
+
 
 ### Док. Доченька. Мама
 Борисов Олег
