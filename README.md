@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[justiceheart](users/404/40488888-vkontakte)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>447</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>478</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [niyan](users/110/110517883439678622021-google)<sup>1</sup> 
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
-[smogleev](users/267/267805152-yandex)<sup>4</sup> 
 
 
-_19.08.2024 04:36:04_
+_19.08.2024 08:04:46_
