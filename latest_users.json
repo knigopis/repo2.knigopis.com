@@ -1,4 +1,10 @@
 {
+    "25457836-vkontakte": {
+        "id": "25457836-vkontakte",
+        "nickname": "maribed",
+        "booksCount": 0,
+        "updatedAt": "2024-08-19 14:45:22"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "Shinku",
         "booksCount": 73,
         "updatedAt": "2024-04-12 12:28:09"
-    },
-    "109089966297718972425-google": {
-        "id": "109089966297718972425-google",
-        "nickname": "isaeva_baby",
-        "booksCount": 0,
-        "updatedAt": "2024-04-10 07:22:33"
     }
 }
