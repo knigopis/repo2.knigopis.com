@@ -1,4 +1,16 @@
 {
+    "S7UP4hc6gf": {
+        "id": "S7UP4hc6gf",
+        "title": "Женское здоровье",
+        "author": "№4/2006, апрель.",
+        "notes": "Журнал, 112 страниц.",
+        "createdAt": "2024-08-19 02:47:20",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 24
+        }
+    },
     "WJA_wTISmq": {
         "id": "WJA_wTISmq",
         "title": "Жизнь на пенсии",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 474
-        }
-    },
-    "FsBITBt7Q4": {
-        "id": "FsBITBt7Q4",
-        "title": "Отвергнутая невеста. Хозяйка заброшенного дома",
-        "author": "Константин Фрес",
-        "notes": "",
-        "createdAt": "2024-07-26 18:25:21",
-        "user": {
-            "id": "193697993-vkontakte",
-            "nickname": "butercupa",
-            "booksCount": 93
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Женское здоровье ~ [Юлиания](users/693/69389439-vkontakte)<sup>24</sup>
+    > Журнал, 112 страниц.
+
 * Жизнь на пенсии ~ [Юлиания](users/693/69389439-vkontakte)<sup>23</sup>
     > Журнал, 32 страницы.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Журнал. 140 страниц
 
 * Лебёдушка ~ [Юлиания](users/693/69389439-vkontakte)<sup>21</sup>
-    > 8 страниц. Прочитала за 3,5 минуты
-    > Стихи, поэма.
 
 * Марди Гра ~ [Юлиания](users/693/69389439-vkontakte)<sup>20</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Господин Изобретатель. Часть I. ~ [Dumnin](users/103/103541795835665788358-google)<sup>1</sup>
 
-* Поиски утраченного завтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>474</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Юлиания](users/693/69389439-vkontakte)<sup>23</sup> 
+[Юлиания](users/693/69389439-vkontakte)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>478</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>447</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>245</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
 
 
-_19.08.2024 02:46:09_
+_19.08.2024 02:47:20_
