@@ -1,4 +1,16 @@
 {
+    "A0D9mTBVaB": {
+        "id": "A0D9mTBVaB",
+        "title": "Сезон Туманов",
+        "author": "Евгений Гуляковский",
+        "notes": "",
+        "createdAt": "2024-08-19 08:06:17",
+        "user": {
+            "id": "40488888-vkontakte",
+            "nickname": "justiceheart",
+            "booksCount": 2
+        }
+    },
     "Kuoftb5UtN": {
         "id": "Kuoftb5UtN",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 100
-        }
-    },
-    "GLHVWmGmmR": {
-        "id": "GLHVWmGmmR",
-        "title": "Думай медленно... Решай быстро",
-        "author": "Даниэль Канеман",
-        "notes": "",
-        "createdAt": "2024-07-27 06:58:36",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 99
         }
     }
 }
