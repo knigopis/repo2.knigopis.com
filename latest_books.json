@@ -1,4 +1,16 @@
 {
+    "kMwCmqCXjB": {
+        "id": "kMwCmqCXjB",
+        "title": "Добрые советы.",
+        "author": "Февраль 2005.",
+        "notes": "Журнал, 114 страниц.",
+        "createdAt": "2024-08-19 02:49:02",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 26
+        }
+    },
     "tYBqkEJM7M": {
         "id": "tYBqkEJM7M",
         "title": "Лиза.",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 97
-        }
-    },
-    "-uOfFCSh_8": {
-        "id": "-uOfFCSh_8",
-        "title": "Кольцо Царя Соломона",
-        "author": "Конрад Лоренц",
-        "notes": "",
-        "createdAt": "2024-07-27 06:55:00",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 96
         }
     }
 }
