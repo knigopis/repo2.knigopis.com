@@ -1,4 +1,16 @@
 {
+    "WJA_wTISmq": {
+        "id": "WJA_wTISmq",
+        "title": "Жизнь на пенсии",
+        "author": "№3, 2022",
+        "notes": "Журнал, 32 страницы.",
+        "createdAt": "2024-08-19 02:46:09",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 23
+        }
+    },
     "cnN3fm-fRd": {
         "id": "cnN3fm-fRd",
         "title": "Добрые советы",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 93
-        }
-    },
-    "U1N2X7wZU9": {
-        "id": "U1N2X7wZU9",
-        "title": "Южная Корея изнутри",
-        "author": "Ирина Мун",
-        "notes": "",
-        "createdAt": "2024-07-26 18:23:10",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 95
         }
     }
 }

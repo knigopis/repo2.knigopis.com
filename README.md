@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жизнь на пенсии ~ [Юлиания](users/693/69389439-vkontakte)<sup>23</sup>
+    > Журнал, 32 страницы.
+
 * Добрые советы ~ [Юлиания](users/693/69389439-vkontakte)<sup>22</sup>
     > Журнал. 140 страниц
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Стихи, поэма.
 
 * Марди Гра ~ [Юлиания](users/693/69389439-vkontakte)<sup>20</sup>
-    > После смерти своего напарника Берк Бейзил - полицейский из отдела по борьбе с наркотиками - поклялся сделать все, чтобы упечь за решетку главу нью-орлеанской мафии, наркобарона и по совместительству успешного адвоката Пинки Дюваля, который помог убийце избежать правосудия. Пинки казался всесильным и неуязвимым, но ровно до тех пор, пока Берк не узнал о существовании жены Пинки, молодой красавицы Реми…
-    > Подробнее: https://www.labirint.ru/reviews/goods/300268/
 
 * Выбор варианта ~ [Chiffi](users/105/105831994080785626680-google)<sup>478</sup>
 
@@ -28,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Поиски утраченного завтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>474</sup>
 
-* Заветы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Юлиания](users/693/69389439-vkontakte)<sup>22</sup> 
+[Юлиания](users/693/69389439-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>478</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>447</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>245</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
 
 
-_19.08.2024 02:45:16_
+_19.08.2024 02:46:09_
