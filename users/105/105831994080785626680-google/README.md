@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>478</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>479</sup>
 ---
 
 ## 2024
+
+### Красная королева
+Ром Полина
+> [2024-08-19] https://readli.net/krasnaya-koroleva-4/
+
 
 ### Выбор варианта
 Ром Полина

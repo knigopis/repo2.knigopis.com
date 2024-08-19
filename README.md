@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Красная королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>479</sup>
+    > https://readli.net/krasnaya-koroleva-4/
+
 * Сказать жизни – да! ~ [Elixir](users/115/115826717712507836033-google)<sup>447</sup>
     > Найдено у Rainbow
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Журнал, 114 страниц.
 
 * Лиза. ~ [Юлиания](users/693/69389439-vkontakte)<sup>25</sup>
-    > Журнал, 30 страниц.
 
 * Женское здоровье ~ [Юлиания](users/693/69389439-vkontakte)<sup>24</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Выбор варианта ~ [Chiffi](users/105/105831994080785626680-google)<sup>478</sup>
 
-* Док. Доченька. Мама ~ [Chiffi](users/105/105831994080785626680-google)<sup>477</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>479</sup> 
 [maribed](users/254/25457836-vkontakte)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>448</sup> 
 [justiceheart](users/404/40488888-vkontakte)<sup>7</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>447</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>478</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>245</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>21</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 
 
-_19.08.2024 14:45:22_
+_19.08.2024 15:54:16_
