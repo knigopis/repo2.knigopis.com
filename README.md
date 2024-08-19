@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>448</sup> 
 [justiceheart](users/404/40488888-vkontakte)<sup>7</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>447</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>478</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>447</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>245</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>21</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [isaeva_baby](users/109/109089966297718972425-google)<sup>0</sup> 
 
 
-_19.08.2024 08:39:15_
+_19.08.2024 14:30:05_

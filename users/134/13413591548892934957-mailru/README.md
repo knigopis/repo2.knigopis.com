@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>447</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>448</sup>
 ---
 
 ## 2024
+
+### Голод. Нетолстый роман
+Светлана Павлова
+> [2024-08-19] 
+
 
 ### Аромат изгнания
 Ондин Хайят
