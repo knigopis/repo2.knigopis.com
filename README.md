@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сказать жизни – да! ~ [Elixir](users/115/115826717712507836033-google)<sup>447</sup>
+    > Найдено у Rainbow
+
 * Добрые советы. ~ [Юлиания](users/693/69389439-vkontakte)<sup>26</sup>
     > Журнал, 114 страниц.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Журнал, 30 страниц.
 
 * Женское здоровье ~ [Юлиания](users/693/69389439-vkontakte)<sup>24</sup>
-    > Журнал, 112 страниц.
 
 * Жизнь на пенсии ~ [Юлиания](users/693/69389439-vkontakte)<sup>23</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Док. Доченька. Мама ~ [Chiffi](users/105/105831994080785626680-google)<sup>477</sup>
 
-* Хозяйка ювелирной мастерской ~ [Chiffi](users/105/105831994080785626680-google)<sup>476</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>447</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>478</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>447</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>245</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>21</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>446</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>48</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>391</sup> 
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [smogleev](users/267/267805152-yandex)<sup>4</sup> 
 
 
-_19.08.2024 02:49:02_
+_19.08.2024 04:36:04_

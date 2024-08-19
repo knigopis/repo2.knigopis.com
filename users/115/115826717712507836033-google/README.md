@@ -1,7 +1,12 @@
-# List of books read by Elixir<sup>446</sup>
+# List of books read by Elixir<sup>447</sup>
 ---
 
 ## 2024
+
+### Сказать жизни – да!
+Франкл, Виктор
+> [2024-08-19] Найдено у Rainbow
+
 
 ### Не бьёт, просто обижает
 Эванс Патрисия

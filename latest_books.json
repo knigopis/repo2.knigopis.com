@@ -1,4 +1,16 @@
 {
+    "vQot77T22p": {
+        "id": "vQot77T22p",
+        "title": "Сказать жизни – да!",
+        "author": "Франкл, Виктор",
+        "notes": "Найдено у Rainbow",
+        "createdAt": "2024-08-19 04:36:03",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 447
+        }
+    },
     "kMwCmqCXjB": {
         "id": "kMwCmqCXjB",
         "title": "Добрые советы.",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 98
-        }
-    },
-    "ZHkCyU-fAc": {
-        "id": "ZHkCyU-fAc",
-        "title": "Сборник рассказов. Муж которого я купила",
-        "author": "Ацн Рэнд",
-        "notes": "",
-        "createdAt": "2024-07-27 06:55:34",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 97
         }
     }
 }
