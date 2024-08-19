@@ -1,7 +1,11 @@
-# List of books read by [justiceheart](http://vk.com/id40488888)<sup>5</sup>
+# List of books read by [justiceheart](http://vk.com/id40488888)<sup>6</sup>
 ---
 
 ## 2024
+
+### Белое облако Чингисхана
+Чингиз Айтматов
+
 
 ### Пегий пёс, бегущий краем моря
 Чингиз Айтматов
