@@ -1,4 +1,16 @@
 {
+    "ZGSFAmTcuQ": {
+        "id": "ZGSFAmTcuQ",
+        "title": "Пегий пёс, бегущий краем моря",
+        "author": "Чингиз Айтматов",
+        "notes": "",
+        "createdAt": "2024-08-19 08:18:19",
+        "user": {
+            "id": "40488888-vkontakte",
+            "nickname": "justiceheart",
+            "booksCount": 5
+        }
+    },
     "I916N2Q04-": {
         "id": "I916N2Q04-",
         "title": "Бахиана",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 103
-        }
-    },
-    "b2HviWhlIP": {
-        "id": "b2HviWhlIP",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2024-07-27 07:03:37",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 102
         }
     }
 }
