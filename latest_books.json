@@ -1,4 +1,16 @@
 {
+    "cnN3fm-fRd": {
+        "id": "cnN3fm-fRd",
+        "title": "Добрые советы",
+        "author": "Март 2005",
+        "notes": "Журнал. 140 страниц",
+        "createdAt": "2024-08-19 02:45:16",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 22
+        }
+    },
     "pDDmirpPF-": {
         "id": "pDDmirpPF-",
         "title": "Лебёдушка",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 95
-        }
-    },
-    "yXPDwsu4cU": {
-        "id": "yXPDwsu4cU",
-        "title": "Япония изнутри",
-        "author": "Марина Чижова",
-        "notes": "",
-        "createdAt": "2024-07-26 18:22:22",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 94
         }
     }
 }
