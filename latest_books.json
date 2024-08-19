@@ -1,4 +1,16 @@
 {
+    "a0yYZxMZoF": {
+        "id": "a0yYZxMZoF",
+        "title": "Сын Сумерек и Света",
+        "author": "Олег Авраменко",
+        "notes": "",
+        "createdAt": "2024-08-19 08:10:08",
+        "user": {
+            "id": "40488888-vkontakte",
+            "nickname": "justiceheart",
+            "booksCount": 3
+        }
+    },
     "A0D9mTBVaB": {
         "id": "A0D9mTBVaB",
         "title": "Сезон Туманов",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 101
-        }
-    },
-    "akxf88RYaZ": {
-        "id": "akxf88RYaZ",
-        "title": "Унесённые ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2024-07-27 07:02:14",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 100
         }
     }
 }
