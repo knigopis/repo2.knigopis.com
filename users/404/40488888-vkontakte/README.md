@@ -1,7 +1,11 @@
-# List of books read by [justiceheart](http://vk.com/id40488888)<sup>7</sup>
+# List of books read by [justiceheart](http://vk.com/id40488888)<sup>8</sup>
 ---
 
 ## 2024
+
+### Пегий пес, бегущий краем моря
+Чингиз Айтматов
+
 
 ### Джамиля
 Чингиз Айтматов
