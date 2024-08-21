@@ -1,7 +1,12 @@
-# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>21</sup>
+# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>22</sup>
 ---
 
 ## 2024
+
+### Теория зла
+Донато Карризи
+> [2024-08-21] 
+
 
 ### Маньяк Гуревич
 Дина Рубина
