@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>246</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>479</sup> 
 [maribed](users/254/25457836-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 [niyan](users/110/110517883439678622021-google)<sup>1</sup> 
-[Shinku](users/109/109176126475581739292-google)<sup>73</sup> 
 
 
-_20.08.2024 18:22:29_
+_21.08.2024 10:16:23_
