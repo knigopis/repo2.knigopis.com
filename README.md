@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Империя ангелов. Пер. с франц. 2019.-- 448с. ~ [realest1954](users/439/439398-vkontakte)<sup>4</sup>
+    > Фэнтези. На любителя.
+
 * Сочинения. Том третий ~ [realest1954](users/439/439398-vkontakte)<sup>3</sup>
     > Восточный экспресс. И еще 11 рассказов. 335с.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/krasnaya-koroleva-4/
 
 * Сказать жизни – да! ~ [Elixir](users/115/115826717712507836033-google)<sup>447</sup>
-    > Найдено у Rainbow
 
 * Добрые советы. ~ [Юлиания](users/693/69389439-vkontakte)<sup>26</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лебёдушка ~ [Юлиания](users/693/69389439-vkontakte)<sup>21</sup>
 
-* Марди Гра ~ [Юлиания](users/693/69389439-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[realest1954](users/439/439398-vkontakte)<sup>3</sup> 
+[realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>246</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 
 
-_23.08.2024 06:34:08_
+_23.08.2024 06:37:10_
