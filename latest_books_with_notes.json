@@ -1,4 +1,16 @@
 {
+    "zJu0_CaQWv": {
+        "id": "zJu0_CaQWv",
+        "title": "Сочинения. Том третий",
+        "author": "Агата Кристи",
+        "notes": "Восточный экспресс. И еще 11 рассказов. 335с.",
+        "createdAt": "2024-08-23 06:34:08",
+        "user": {
+            "id": "439398-vkontakte",
+            "nickname": "realest1954",
+            "booksCount": 3
+        }
+    },
     "0ao1RJIWB4": {
         "id": "0ao1RJIWB4",
         "title": "Красная королева",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 470
-        }
-    },
-    "rWl3K75XmS": {
-        "id": "rWl3K75XmS",
-        "title": "Темная империя (три части)",
-        "author": "Звездная Елена",
-        "notes": "http://loveread.ec/read_book.php?id=99327&p=1\n«Иногда нас заставляют думать о значимом, чтобы скрыть очевидное»\nhttp://loveread.ec/read_book.php?id=99328&p=1\nhttp://loveread.ec/read_book.php?id=99329&p=1",
-        "createdAt": "2024-07-01 08:52:40",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 468
         }
     }
 }

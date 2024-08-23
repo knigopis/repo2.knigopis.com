@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сочинения. Том третий ~ [realest1954](users/439/439398-vkontakte)<sup>3</sup>
+    > Восточный экспресс. И еще 11 рассказов. 335с.
+
 * Красная королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>479</sup>
     > https://readli.net/krasnaya-koroleva-4/
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Найдено у Rainbow
 
 * Добрые советы. ~ [Юлиания](users/693/69389439-vkontakte)<sup>26</sup>
-    > Журнал, 114 страниц.
 
 * Лиза. ~ [Юлиания](users/693/69389439-vkontakte)<sup>25</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марди Гра ~ [Юлиания](users/693/69389439-vkontakte)<sup>20</sup>
 
-* Выбор варианта ~ [Chiffi](users/105/105831994080785626680-google)<sup>478</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[realest1954](users/439/439398-vkontakte)<sup>3</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>246</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
-[niyan](users/110/110517883439678622021-google)<sup>1</sup> 
 
 
-_21.08.2024 18:53:28_
+_23.08.2024 06:34:08_
