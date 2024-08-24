@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Соединенные штаты России (две части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>480</sup>
+    > https://readli.net/soedinennyie-shtatyi-rossii/
+    > каждый поступок совершенный публично, подобен камню, брошенному на гладь озера. Круги, расходящиеся по воде — это людские мнения и разговоры.
+    > Ибо кто чист душой, тот почти так же чист и разумом, и не способны они вести за собой стадо
+
 * Империя ангелов. Пер. с франц. 2019.-- 448с. ~ [realest1954](users/439/439398-vkontakte)<sup>4</sup>
     > Фэнтези. На любителя.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Восточный экспресс. И еще 11 рассказов. 335с.
 
 * Красная королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>479</sup>
-    > https://readli.net/krasnaya-koroleva-4/
 
 * Сказать жизни – да! ~ [Elixir](users/115/115826717712507836033-google)<sup>447</sup>
 
@@ -26,18 +30,16 @@ Do not use pull requests to make changes here.
 
 * Добрые советы ~ [Юлиания](users/693/69389439-vkontakte)<sup>22</sup>
 
-* Лебёдушка ~ [Юлиания](users/693/69389439-vkontakte)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>480</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>246</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>479</sup> 
 [maribed](users/254/25457836-vkontakte)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>448</sup> 
 [justiceheart](users/404/40488888-vkontakte)<sup>7</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 
 
-_23.08.2024 06:37:10_
+_24.08.2024 14:53:55_
