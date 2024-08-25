@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хозяйка замка Эдвенч ~ [Chiffi](users/105/105831994080785626680-google)<sup>481</sup>
+    > https://readli.net/hozyayka-zamka-edvench/
+    > Конфи важно, чтобы мясо жирное было и без воды готовилось. Свинину вот хорошо брать, или гуся по осени. На куски разделала и смальца еще щедро кинь, не жалей. И посоли покрепче. И готовить начинай в сковороде большой, а как жижа вся испарится, скидай в горшок. И тама в собственном жиру его томи. А потом прямо в энтом самом горшке и снеси в погреб. Жир застынет, и храниться долго-долго будет. А как запонадобится, так только достань, а оно уже и готовое. В суп можно добавлять али в кашу.
+
 * Соединенные штаты России (две части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>480</sup>
     > https://readli.net/soedinennyie-shtatyi-rossii/
     > каждый поступок совершенный публично, подобен камню, брошенному на гладь озера. Круги, расходящиеся по воде — это людские мнения и разговоры.
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Фэнтези. На любителя.
 
 * Сочинения. Том третий ~ [realest1954](users/439/439398-vkontakte)<sup>3</sup>
-    > Восточный экспресс. И еще 11 рассказов. 335с.
 
 * Красная королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>479</sup>
 
@@ -28,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Жизнь на пенсии ~ [Юлиания](users/693/69389439-vkontakte)<sup>23</sup>
 
-* Добрые советы ~ [Юлиания](users/693/69389439-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>480</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>481</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 
 
-_24.08.2024 14:53:55_
+_25.08.2024 05:47:55_
