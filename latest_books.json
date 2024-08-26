@@ -1,4 +1,16 @@
 {
+    "u0Lyj3vTOf": {
+        "id": "u0Lyj3vTOf",
+        "title": "Счастливый карман, полный денег",
+        "author": "Камерон Дэвид",
+        "notes": "",
+        "createdAt": "2024-08-26 12:37:35",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 448
+        }
+    },
     "dOoo1HqjXs": {
         "id": "dOoo1HqjXs",
         "title": "Хозяйка замка Эдвенч",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 245
-        }
-    },
-    "CLCZD6eP1J": {
-        "id": "CLCZD6eP1J",
-        "title": "Маньяк Гуревич",
-        "author": "Дина Рубина",
-        "notes": "",
-        "createdAt": "2024-08-07 18:36:53",
-        "user": {
-            "id": "107718177426132290975-google",
-            "nickname": "Dinara ",
-            "booksCount": 21
         }
     }
 }
