@@ -36,12 +36,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>247</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>448</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>481</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>246</sup> 
 [maribed](users/254/25457836-vkontakte)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>448</sup> 
 [justiceheart](users/404/40488888-vkontakte)<sup>7</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 
 
-_26.08.2024 12:37:35_
+_29.08.2024 12:21:12_
