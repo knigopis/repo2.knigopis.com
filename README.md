@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/113/113248293394986559131-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>49</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>247</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>448</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 [Lala](users/761/76187635-vkontakte)<sup>351</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>68</sup> 
 
 
-_29.08.2024 22:48:16_
+_31.08.2024 11:42:12_
