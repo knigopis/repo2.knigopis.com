@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[KamilAkhmetov](users/116/116472858042498200155-google)<sup>0</sup> 
+[KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>161</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>49</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>247</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 
 
-_01.09.2024 11:20:04_
+_01.09.2024 11:20:43_
