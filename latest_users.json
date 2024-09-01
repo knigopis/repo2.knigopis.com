@@ -1,4 +1,10 @@
 {
+    "116472858042498200155-google": {
+        "id": "116472858042498200155-google",
+        "nickname": "KamilAkhmetov",
+        "booksCount": 0,
+        "updatedAt": "2024-09-01 11:20:03"
+    },
     "113248293394986559131-google": {
         "id": "113248293394986559131-google",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2024-05-22 22:16:23"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Lala",
-        "booksCount": 351,
-        "updatedAt": "2024-05-22 18:11:59"
     }
 }
