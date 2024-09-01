@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[KamilAkhmetov](users/116/116472858042498200155-google)<sup>0</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>161</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>49</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>247</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 [](users/358/358594589-vkontakte)<sup>0</sup> 
-[Lala](users/761/76187635-vkontakte)<sup>351</sup> 
 
 
-_31.08.2024 16:04:41_
+_01.09.2024 11:20:04_
