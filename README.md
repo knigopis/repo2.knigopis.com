@@ -45,6 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>449</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>484</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>161</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 [maribed](users/254/25457836-vkontakte)<sup>0</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>448</sup> 
 [justiceheart](users/404/40488888-vkontakte)<sup>7</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>391</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 
 
-_03.09.2024 14:25:46_
+_04.09.2024 23:44:17_
