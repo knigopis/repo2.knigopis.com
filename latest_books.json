@@ -1,4 +1,16 @@
 {
+    "sG9bdgW9Rc": {
+        "id": "sG9bdgW9Rc",
+        "title": "Тайный город. Кафедра странников",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-09-05 09:38:16",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 394
+        }
+    },
     "1wdQffh4OF": {
         "id": "1wdQffh4OF",
         "title": "Тайный город. Тень Инквизитора",
@@ -345,18 +357,6 @@
             "id": "40488888-vkontakte",
             "nickname": "justiceheart",
             "booksCount": 2
-        }
-    },
-    "Kuoftb5UtN": {
-        "id": "Kuoftb5UtN",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2024-08-19 08:05:46",
-        "user": {
-            "id": "40488888-vkontakte",
-            "nickname": "justiceheart",
-            "booksCount": 1
         }
     }
 }

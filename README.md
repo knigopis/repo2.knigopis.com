@@ -47,7 +47,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>393</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>394</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>485</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>449</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
@@ -79,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 
 
-_05.09.2024 09:37:43_
+_05.09.2024 09:38:16_
