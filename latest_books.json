@@ -1,4 +1,16 @@
 {
+    "1wdQffh4OF": {
+        "id": "1wdQffh4OF",
+        "title": "Тайный город. Тень Инквизитора",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-09-05 09:37:43",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 393
+        }
+    },
     "uFhAIObA__": {
         "id": "uFhAIObA__",
         "title": "Тайный город. Куколка последней надежды",
@@ -345,18 +357,6 @@
             "id": "40488888-vkontakte",
             "nickname": "justiceheart",
             "booksCount": 1
-        }
-    },
-    "vQot77T22p": {
-        "id": "vQot77T22p",
-        "title": "Сказать жизни – да!",
-        "author": "Франкл, Виктор",
-        "notes": "Найдено у Rainbow",
-        "createdAt": "2024-08-19 04:36:03",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 447
         }
     }
 }
