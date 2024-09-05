@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пожарский 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>485</sup>
+    > https://author.today/reader/358197
+    > Сepгeй cмoтpeл cвязaннoму пpямo в пepeнocицу, чтo oбычнo у чeлoвeкa вызывaeт нeлoвкoe oщущeниe, будтo взгляд нaпpaвлeн cквoзь нeгo (дядькa бeзoпacник нaучил,
+    > 
+    > Кончилось. Даже немного жалко.
+
 * Стерва. Подвид королевская ~ [Chiffi](users/105/105831994080785626680-google)<sup>484</sup>
     > http://flibusta.site/b/285162/read
     > Интересно, но перебор. Все хотят, половина насилует.. 
@@ -23,8 +29,6 @@ Do not use pull requests to make changes here.
     > деньги  способ решить проблему, не перекладывая ее на плечи других
 
 * Хозяйка замка Эдвенч ~ [Chiffi](users/105/105831994080785626680-google)<sup>481</sup>
-    > https://readli.net/hozyayka-zamka-edvench/
-    > Конфи важно, чтобы мясо жирное было и без воды готовилось. Свинину вот хорошо брать, или гуся по осени. На куски разделала и смальца еще щедро кинь, не жалей. И посоли покрепче. И готовить начинай в сковороде большой, а как жижа вся испарится, скидай в горшок. И тама в собственном жиру его томи. А потом прямо в энтом самом горшке и снеси в погреб. Жир застынет, и храниться долго-долго будет. А как запонадобится, так только достань, а оно уже и готовое. В суп можно добавлять али в кашу.
 
 * Соединенные штаты России (две части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>480</sup>
 
@@ -38,15 +42,13 @@ Do not use pull requests to make changes here.
 
 * Добрые советы. ~ [Юлиания](users/693/69389439-vkontakte)<sup>26</sup>
 
-* Лиза. ~ [Юлиания](users/693/69389439-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>485</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>449</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>484</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>161</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>49</sup> 
@@ -77,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 
 
-_04.09.2024 23:44:17_
+_05.09.2024 06:40:08_
