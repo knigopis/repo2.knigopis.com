@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>486</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>248</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>449</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>449</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>161</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>49</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/358/358594589-vkontakte)<sup>0</sup> 
 
 
-_09.09.2024 19:33:51_
+_11.09.2024 20:26:14_

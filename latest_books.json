@@ -1,4 +1,16 @@
 {
+    "daCiFp2Pdc": {
+        "id": "daCiFp2Pdc",
+        "title": "Остров доктора Моро",
+        "author": "",
+        "notes": "",
+        "createdAt": "2024-09-11 20:26:14",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 50
+        }
+    },
     "d2TPZVmYOt": {
         "id": "d2TPZVmYOt",
         "title": "Год крысы",
@@ -345,18 +357,6 @@
             "id": "40488888-vkontakte",
             "nickname": "justiceheart",
             "booksCount": 6
-        }
-    },
-    "ZGSFAmTcuQ": {
-        "id": "ZGSFAmTcuQ",
-        "title": "Пегий пёс, бегущий краем моря",
-        "author": "Чингиз Айтматов",
-        "notes": "",
-        "createdAt": "2024-08-19 08:18:19",
-        "user": {
-            "id": "40488888-vkontakte",
-            "nickname": "justiceheart",
-            "booksCount": 5
         }
     }
 }
