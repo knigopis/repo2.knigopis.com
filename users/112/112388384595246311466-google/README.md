@@ -1,7 +1,12 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>248</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>249</sup>
 ---
 
 ## 2024
+
+### Я больше не одна
+Джерри Хилл
+> [2024-09-12] 
+
 
 ### Чёрный
 Ричард Райт
