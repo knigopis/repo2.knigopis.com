@@ -1,4 +1,16 @@
 {
+    "X-Moq-ECG7": {
+        "id": "X-Moq-ECG7",
+        "title": "С неба упали три яблока",
+        "author": "Наринэ Абгарян",
+        "notes": "",
+        "createdAt": "2024-09-12 08:08:54",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 450
+        }
+    },
     "daCiFp2Pdc": {
         "id": "daCiFp2Pdc",
         "title": "Остров доктора Моро",
@@ -345,18 +357,6 @@
             "id": "40488888-vkontakte",
             "nickname": "justiceheart",
             "booksCount": 7
-        }
-    },
-    "TFbNZ_jNKg": {
-        "id": "TFbNZ_jNKg",
-        "title": "Белое облако Чингисхана",
-        "author": "Чингиз Айтматов",
-        "notes": "",
-        "createdAt": "2024-08-19 08:28:56",
-        "user": {
-            "id": "40488888-vkontakte",
-            "nickname": "justiceheart",
-            "booksCount": 6
         }
     }
 }
