@@ -5,6 +5,16 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Великий и ужасный (шесть книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>487</sup>
+    > https://readli.net/serie/33854/ отличный, добрый и интересный цикл про попаданцев.залпом за несколько дней.
+    >  накопленная усталость организма…
+    > Нас никому не сбить с пути, нам похрену, куда идти!
+    > Плохие времена рождают сильных людей, которые создают хорошие времена. Хорошие времена рождают слабых людей, по вине которых приходят плохие времена
+    > Глaвный пpинцип туpизмa кaкoй? Пpaвильнo: взять пoбoльшe, унecти пoдaльшe и вce этo тaм coжpaть!
+    > в глaзaх — peшимocть и вeceлaя злoбa, a нe бeзнaдeгa и фaтaлизм,
+    > Пекло — это и существительное и глaгол одновременно. Зaвисит от удaрения
+    >  жизни всегдa — то до дофигa, то нифигa.
+
 * Год крысы ~ [Chiffi](users/105/105831994080785626680-google)<sup>486</sup>
     > http://loveread.ec/series-books.php?id=798
     >  подошвы отлипло, а запах остался.
@@ -17,10 +27,6 @@ Do not use pull requests to make changes here.
     > Кончилось. Даже немного жалко.
 
 * Стерва. Подвид королевская ~ [Chiffi](users/105/105831994080785626680-google)<sup>484</sup>
-    > http://flibusta.site/b/285162/read
-    > Интересно, но перебор. Все хотят, половина насилует.. 
-    > 
-    > В этом все торговцы - их доброе к вам отношение, измеряется ровно на столько, насколько вы запускаете руку в их карман
 
 * Борекудан. Кобун. Вакагасира.Оябун ~ [Chiffi](users/105/105831994080785626680-google)<sup>483</sup>
 
@@ -34,18 +40,16 @@ Do not use pull requests to make changes here.
 
 * Красная королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>479</sup>
 
-* Сказать жизни – да! ~ [Elixir](users/115/115826717712507836033-google)<sup>447</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>487</sup> 
 [](users/858/858967472-vkontakte)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>51</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>249</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>450</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>486</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>449</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>394</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
@@ -73,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 
 
-_15.09.2024 00:23:39_
+_15.09.2024 20:10:29_
