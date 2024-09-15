@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/858/858967472-vkontakte)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>51</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>249</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>450</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
-[](users/358/358594589-vkontakte)<sup>0</sup> 
 
 
-_12.09.2024 23:13:34_
+_15.09.2024 00:23:39_
