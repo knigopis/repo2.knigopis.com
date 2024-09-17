@@ -1,4 +1,16 @@
 {
+    "1HUjieRrrZ": {
+        "id": "1HUjieRrrZ",
+        "title": "Лисьи Броды",
+        "author": "Анна Стробинец",
+        "notes": "",
+        "createdAt": "2024-09-17 21:04:53",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 52
+        }
+    },
     "3Xjuqzbm7q": {
         "id": "3Xjuqzbm7q",
         "title": "Великий и ужасный (шесть книг)",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 246
-        }
-    },
-    "0ao1RJIWB4": {
-        "id": "0ao1RJIWB4",
-        "title": "Красная королева",
-        "author": "Ром Полина",
-        "notes": "https://readli.net/krasnaya-koroleva-4/",
-        "createdAt": "2024-08-19 15:54:16",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 479
         }
     }
 }

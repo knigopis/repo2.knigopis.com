@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>51</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>52</sup>
 ---
 
 ## 2024
+
+### Лисьи Броды
+Анна Стробинец
+> [2024-09-17] 
+
 
 ### Машина времени
 Уэллс
