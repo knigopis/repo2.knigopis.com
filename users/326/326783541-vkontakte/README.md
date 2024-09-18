@@ -1,4 +1,4 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>52</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>53</sup>
 ---
 
 ## 2024
@@ -30,6 +30,10 @@
 ### Белые одежды [2]
 Дудинцев
 > [2024-07-20] 
+
+
+### Цветы для Элджернона
+> [2024-05] 
 
 
 ### Солярис
