@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
+    > Лучше  плохо решaть свои проблемы, чем хорошо чужие
+    > https://readli.net/nevesta-samozvanka-2/
+
 * Великий и ужасный (шесть книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>487</sup>
     > https://readli.net/serie/33854/ отличный, добрый и интересный цикл про попаданцев.залпом за несколько дней.
     >  накопленная усталость организма…
@@ -21,10 +25,6 @@ Do not use pull requests to make changes here.
     > Если к собачьему хвосту привязали трещотку, то собаке надо думать, как от нее избавиться, а не как убежать подальше
 
 * Пожарский 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>485</sup>
-    > https://author.today/reader/358197
-    > Сepгeй cмoтpeл cвязaннoму пpямo в пepeнocицу, чтo oбычнo у чeлoвeкa вызывaeт нeлoвкoe oщущeниe, будтo взгляд нaпpaвлeн cквoзь нeгo (дядькa бeзoпacник нaучил,
-    > 
-    > Кончилось. Даже немного жалко.
 
 * Стерва. Подвид королевская ~ [Chiffi](users/105/105831994080785626680-google)<sup>484</sup>
 
@@ -38,15 +38,13 @@ Do not use pull requests to make changes here.
 
 * Сочинения. Том третий ~ [realest1954](users/439/439398-vkontakte)<sup>3</sup>
 
-* Красная королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>479</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>488</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>53</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>487</sup> 
 [](users/858/858967472-vkontakte)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>249</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>450</sup> 
@@ -77,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 
 
-_18.09.2024 16:06:01_
+_18.09.2024 20:21:52_

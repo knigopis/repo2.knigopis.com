@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>487</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>488</sup>
 ---
 
 ## 2024
+
+### Невеста-самозванка
+Флат Екатерина
+> [2024-09-18] Лучше  плохо решaть свои проблемы, чем хорошо чужие
+> https://readli.net/nevesta-samozvanka-2/
+
 
 ### Великий и ужасный (шесть книг)
 Кабпа Евгений
