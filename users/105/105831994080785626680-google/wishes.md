@@ -48,9 +48,12 @@
 Хармон Эми
 > http://loveread.me/view_global.php?id=90042
 
-> Лучше  плохо решaть свои проблемы, чем хорошо чужие
-
 ### `` Орден Кракена
 Сапфир Олег
 > https://readli.net/orden-krakena/
+
+### `` Приручитель женщин монстров (пять части)
+Дорничев Дмитрий
+> http://flibusta.site/b/788632
+> https://flibusta.site/s/92367
 
