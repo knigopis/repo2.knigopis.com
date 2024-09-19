@@ -48,6 +48,9 @@
 Хармон Эми
 > http://loveread.me/view_global.php?id=90042
 
+### `` Трон знания
+> http://loveread.ec/read_book.php?id=92655&p=1
+
 ### `` Идеальный мир для лекаря
 Сапфир Олег
 > https://searchfloor.org/search/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B8%D1%80%20%D0%B4%D0%BB%D1%8F%20%D0%9B%D0%B5%D0%BA%D0%B0%D1%80%D1%8F
