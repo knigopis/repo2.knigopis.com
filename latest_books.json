@@ -1,4 +1,16 @@
 {
+    "uX8tXjECl1": {
+        "id": "uX8tXjECl1",
+        "title": "Стон горы",
+        "author": "Ясунари Кавабата",
+        "notes": "",
+        "createdAt": "2024-09-24 19:32:40",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 250
+        }
+    },
     "mx004gpron": {
         "id": "mx004gpron",
         "title": "Град обреченный",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 480
-        }
-    },
-    "SCu8mMt4T6": {
-        "id": "SCu8mMt4T6",
-        "title": "Империя ангелов. Пер. с франц. 2019.-- 448с.",
-        "author": "Вербер Б.",
-        "notes": "Фэнтези. На любителя.",
-        "createdAt": "2024-08-23 06:37:10",
-        "user": {
-            "id": "439398-vkontakte",
-            "nickname": "realest1954",
-            "booksCount": 4
         }
     }
 }
