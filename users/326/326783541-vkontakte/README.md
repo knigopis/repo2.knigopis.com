@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>53</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>54</sup>
 ---
 
 ## 2024
+
+### Град обреченный
+Стругацкие
+> [2024-09-24] 
+
 
 ### Лисьи Броды
 Анна Стробинец

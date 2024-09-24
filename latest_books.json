@@ -1,4 +1,16 @@
 {
+    "mx004gpron": {
+        "id": "mx004gpron",
+        "title": "Град обреченный",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2024-09-24 17:24:16",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 54
+        }
+    },
     "MLiKVfkn8E": {
         "id": "MLiKVfkn8E",
         "title": "Невеста-самозванка",
@@ -345,18 +357,6 @@
             "id": "439398-vkontakte",
             "nickname": "realest1954",
             "booksCount": 4
-        }
-    },
-    "zJu0_CaQWv": {
-        "id": "zJu0_CaQWv",
-        "title": "Сочинения. Том третий",
-        "author": "Агата Кристи",
-        "notes": "Восточный экспресс. И еще 11 рассказов. 335с.",
-        "createdAt": "2024-08-23 06:34:08",
-        "user": {
-            "id": "439398-vkontakte",
-            "nickname": "realest1954",
-            "booksCount": 3
         }
     }
 }
