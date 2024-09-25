@@ -1,4 +1,16 @@
 {
+    "uE1hDvaZYp": {
+        "id": "uE1hDvaZYp",
+        "title": "Хозяйка старой усадьбы",
+        "author": "Элен Скор",
+        "notes": "",
+        "createdAt": "2024-09-25 20:05:39",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 94
+        }
+    },
     "uX8tXjECl1": {
         "id": "uX8tXjECl1",
         "title": "Стон горы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 481
-        }
-    },
-    "bndrK5bjz_": {
-        "id": "bndrK5bjz_",
-        "title": "Соединенные штаты России (две части)",
-        "author": "Ром Полина, Лис Дмитрий",
-        "notes": "https://readli.net/soedinennyie-shtatyi-rossii/\nкаждый поступок совершенный публично, подобен камню, брошенному на гладь озера. Круги, расходящиеся по воде — это людские мнения и разговоры.\nИбо кто чист душой, тот почти так же чист и разумом, и не способны они вести за собой стадо",
-        "createdAt": "2024-08-24 14:53:55",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 480
         }
     }
 }

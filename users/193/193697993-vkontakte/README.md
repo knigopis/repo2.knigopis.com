@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>93</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>94</sup>
 ---
 
 ## 2024
+
+### Хозяйка старой усадьбы
+Элен Скор
+> [2024-09-25] 
+
 
 ### Отвергнутая невеста. Хозяйка заброшенного дома
 Константин Фрес

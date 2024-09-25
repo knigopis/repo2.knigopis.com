@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>94</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>250</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>54</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>487</sup> 
@@ -61,7 +62,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 [Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>93</sup> 
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>8</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 
 
-_24.09.2024 19:32:40_
+_25.09.2024 20:05:39_
