@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* √Жизнь. Математика как способ стать счастливее и жить дольше ~ [dobrova](users/606/6069210-vkontakte)<sup>9</sup>
+    > Не понравилась
+
 * Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
     > Лучше  плохо решaть свои проблемы, чем хорошо чужие
     > https://readli.net/nevesta-samozvanka-2/
@@ -20,9 +23,6 @@ Do not use pull requests to make changes here.
     >  жизни всегдa — то до дофигa, то нифигa.
 
 * Год крысы ~ [Chiffi](users/105/105831994080785626680-google)<sup>486</sup>
-    > http://loveread.ec/series-books.php?id=798
-    >  подошвы отлипло, а запах остался.
-    > Если к собачьему хвосту привязали трещотку, то собаке надо думать, как от нее избавиться, а не как убежать подальше
 
 * Пожарский 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>485</sup>
 
@@ -36,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Империя ангелов. Пер. с франц. 2019.-- 448с. ~ [realest1954](users/439/439398-vkontakte)<sup>4</sup>
 
-* Сочинения. Том третий ~ [realest1954](users/439/439398-vkontakte)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>94</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>250</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>54</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
-[dobrova](users/606/6069210-vkontakte)<sup>8</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>97</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>235</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
@@ -75,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [leo](users/106/106915386474260202605-google)<sup>33</sup> 
 
 
-_25.09.2024 20:05:39_
+_27.09.2024 12:46:56_
