@@ -1,4 +1,16 @@
 {
+    "EyFFa87TWc": {
+        "id": "EyFFa87TWc",
+        "title": "Я беременна, что делать?",
+        "author": "Ольга Белоконь",
+        "notes": "",
+        "createdAt": "2024-10-02 17:54:04",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 251
+        }
+    },
     "UlFCmkxts_": {
         "id": "UlFCmkxts_",
         "title": "√Жизнь. Математика как способ стать счастливее и жить дольше",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 247
-        }
-    },
-    "u0Lyj3vTOf": {
-        "id": "u0Lyj3vTOf",
-        "title": "Счастливый карман, полный денег",
-        "author": "Камерон Дэвид",
-        "notes": "",
-        "createdAt": "2024-08-26 12:37:35",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 448
         }
     }
 }

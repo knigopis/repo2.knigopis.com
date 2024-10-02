@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 251,
+        "updatedAt": "2024-10-02 17:54:04"
+    },
     "6069210-vkontakte": {
         "id": "6069210-vkontakte",
         "nickname": "dobrova",
@@ -10,12 +16,6 @@
         "nickname": "butercupa",
         "booksCount": 94,
         "updatedAt": "2024-09-25 20:05:39"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 250,
-        "updatedAt": "2024-09-24 19:32:40"
     },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
