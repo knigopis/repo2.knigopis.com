@@ -1,4 +1,16 @@
 {
+    "g-64PHcPoW": {
+        "id": "g-64PHcPoW",
+        "title": "Поп Гапон и японские винтовки",
+        "author": "Андрей Аксенов",
+        "notes": "",
+        "createdAt": "2024-10-03 17:43:14",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 451
+        }
+    },
     "EyFFa87TWc": {
         "id": "EyFFa87TWc",
         "title": "Я беременна, что делать?",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 49
-        }
-    },
-    "3-YhZq_Lrm": {
-        "id": "3-YhZq_Lrm",
-        "title": "Дочь Аушвица. Моя дорога к жизни. «Я пережила Холокост и всё равно научилась любить жизнь»",
-        "author": "Малкольм Брабант, Това Фридман",
-        "notes": "",
-        "createdAt": "2024-08-29 12:21:12",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 247
         }
     }
 }

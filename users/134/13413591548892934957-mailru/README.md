@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>450</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>451</sup>
 ---
 
 ## 2024
+
+### Поп Гапон и японские винтовки
+Андрей Аксенов
+> [2024-10-02] 
+
 
 ### С неба упали три яблока
 Наринэ Абгарян
