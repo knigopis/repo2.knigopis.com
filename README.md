@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>451</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>251</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
-[leo](users/106/106915386474260202605-google)<sup>33</sup> 
 
 
-_03.10.2024 17:43:14_
+_05.10.2024 23:33:51_
