@@ -48,10 +48,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>252</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>488</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>451</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>251</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>94</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>54</sup> 
@@ -80,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_06.10.2024 15:09:55_
+_07.10.2024 13:55:18_
