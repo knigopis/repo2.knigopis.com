@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>235</sup>
+# Список прочитанных книг пользователя exulted<sup>236</sup>
 ---
 
 ## 2024
+
+### Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms
+Travis Christofferson
+> [2024-10-06] ASIN: ‎B01N25FPY9
+
 
 ### Тревожный месяц вересень
 Смирнов Виктор Васильевич

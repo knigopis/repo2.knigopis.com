@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
+    > ASIN: ‎B01N25FPY9
+
 * Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
     > http://loveread.ec/read_book.php?id=92655&p=1
     > Брак – это клетка для женщин. Мужчина всегда найдёт потайной выход.
@@ -26,8 +29,6 @@ Do not use pull requests to make changes here.
     > Не понравилась
 
 * Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
-    > Лучше  плохо решaть свои проблемы, чем хорошо чужие
-    > https://readli.net/nevesta-samozvanka-2/
 
 * Великий и ужасный (шесть книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>487</sup>
 
@@ -41,13 +42,12 @@ Do not use pull requests to make changes here.
 
 * Хозяйка замка Эдвенч ~ [Chiffi](users/105/105831994080785626680-google)<sup>481</sup>
 
-* Соединенные штаты России (две части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>480</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>236</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>252</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>488</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
@@ -72,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>97</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>235</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 [](users/115/115095777313809768381-google)<sup>5</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
@@ -80,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_07.10.2024 13:55:18_
+_08.10.2024 08:31:49_

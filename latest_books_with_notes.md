@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
 * Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 * √Жизнь. Математика как способ стать счастливее и жить дольше ~ [dobrova](users/606/6069210-vkontakte)<sup>9</sup>
 * Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
@@ -30,7 +31,6 @@
 * Поиски утраченного завтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>474</sup>
 * Заветы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup>
 * Кто то просит прощения (Феликс Вербин 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>473</sup>
-* Ешь, двигайся, спи ~ [dobrova](users/606/6069210-vkontakte)<sup>8</sup>
 
 
-_06.10.2024 15:09:55_
+_08.10.2024 08:31:49_
