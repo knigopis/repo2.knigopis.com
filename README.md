@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
+    > Пара рассказов интересные, но большая часть скучная чушь
+
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
     > ASIN: ‎B01N25FPY9
 
@@ -26,7 +29,6 @@ Do not use pull requests to make changes here.
     > Катарсис... Это определение подходит для конца:  интересно, затягивающие, гнетуще по ходу. Спасибо, за хороший и добрый конец
 
 * √Жизнь. Математика как способ стать счастливее и жить дольше ~ [dobrova](users/606/6069210-vkontakte)<sup>9</sup>
-    > Не понравилась
 
 * Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 
@@ -40,13 +42,12 @@ Do not use pull requests to make changes here.
 
 * Борекудан. Кобун. Вакагасира.Оябун ~ [Chiffi](users/105/105831994080785626680-google)<sup>483</sup>
 
-* Хозяйка замка Эдвенч ~ [Chiffi](users/105/105831994080785626680-google)<sup>481</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>395</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>236</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>252</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>488</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>54</sup> 
 [](users/858/858967472-vkontakte)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>449</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>394</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>161</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
@@ -79,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_08.10.2024 08:31:49_
+_10.10.2024 08:55:13_
