@@ -1,4 +1,16 @@
 {
+    "15LQiLBvGO": {
+        "id": "15LQiLBvGO",
+        "title": "Сказка о самоубийстве",
+        "author": "Александр Полярный",
+        "notes": "",
+        "createdAt": "2024-10-10 14:56:41",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 253
+        }
+    },
     "GLovERwkGW": {
         "id": "GLovERwkGW",
         "title": "Большая маленькая ложь",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 483
-        }
-    },
-    "ChfxK_p-Th": {
-        "id": "ChfxK_p-Th",
-        "title": "Старик и море",
-        "author": "Э. Хэмингуэй",
-        "notes": "",
-        "createdAt": "2024-09-01 11:20:43",
-        "user": {
-            "id": "116472858042498200155-google",
-            "nickname": "KamilAkhmetov",
-            "booksCount": 1
         }
     }
 }
