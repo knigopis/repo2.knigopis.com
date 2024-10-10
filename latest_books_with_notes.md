@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
 * Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
 * Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
@@ -30,7 +31,6 @@
 * Приручитель женщин монстров (три части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>475</sup>
 * Господин Изобретатель. Часть I. ~ [Dumnin](users/103/103541795835665788358-google)<sup>1</sup>
 * Поиски утраченного завтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>474</sup>
-* Заветы ~ [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup>
 
 
-_10.10.2024 08:55:13_
+_10.10.2024 08:57:31_
