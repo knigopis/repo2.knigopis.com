@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>489</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>490</sup>
 ---
 
 ## 2024
+
+### Долг Ранмарна
+Звездная Елена
+> [2024-10-12] https://moreknig.org/reader/234644/
+> Всего 18 страниц....
+
 
 ### Академия Ранмарн
 Звездная Елена

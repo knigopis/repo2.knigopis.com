@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Долг Ранмарна ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
+    > https://moreknig.org/reader/234644/
+    > Всего 18 страниц....
+
 * Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
     > http://flibusta.site/b/264408/read
     > если мы не будем растить своих победителей… нас уничтожат чужие герои…
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > Отлично прописаны персонажи, эмоции каждого ощущаются физически. Не самый мой любимый жанр, но эту книгу прочитала с удовольствием.
 
 * Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
-    > Пара рассказов интересные, но большая часть скучная чушь
 
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
 
@@ -29,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Год крысы ~ [Chiffi](users/105/105831994080785626680-google)<sup>486</sup>
 
-* Пожарский 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>485</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>489</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>490</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>253</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>396</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>236</sup> 
@@ -68,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_12.10.2024 18:06:40_
+_12.10.2024 19:14:03_
