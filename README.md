@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>490</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>489</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>253</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>396</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>236</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_12.10.2024 19:14:03_
+_12.10.2024 19:14:38_
