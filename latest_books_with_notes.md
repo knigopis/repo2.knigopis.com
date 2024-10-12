@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
 * Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
 * Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
@@ -30,7 +31,6 @@
 * Хозяйка ювелирной мастерской ~ [Chiffi](users/105/105831994080785626680-google)<sup>476</sup>
 * Приручитель женщин монстров (три части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>475</sup>
 * Господин Изобретатель. Часть I. ~ [Dumnin](users/103/103541795835665788358-google)<sup>1</sup>
-* Поиски утраченного завтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>474</sup>
 
 
-_10.10.2024 08:57:31_
+_12.10.2024 18:06:40_

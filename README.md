@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
+    > http://flibusta.site/b/264408/read
+    > если мы не будем растить своих победителей… нас уничтожат чужие герои…
+    > когда я буду называть каждый пункт, соответствующая запись будет вспыхивать перед обучающимися. Таким образом я задействую зрительную и слуховую память, в конце занятия они будут записывать основные пункты под диктовку, это задействует моторную и повторно слуховую память.
+    > Нельзя ничего создать, если вокруг атмосфера страха и ненависти, а в атмосфере всеобщего восхищения творческий потенциал становится почти неограниченным
+
 * Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
     > Отлично прописаны персонажи, эмоции каждого ощущаются физически. Не самый мой любимый жанр, но эту книгу прочитала с удовольствием.
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > Пара рассказов интересные, но большая часть скучная чушь
 
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
-    > ASIN: ‎B01N25FPY9
 
 * Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 
@@ -26,17 +31,15 @@ Do not use pull requests to make changes here.
 
 * Пожарский 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>485</sup>
 
-* Стерва. Подвид королевская ~ [Chiffi](users/105/105831994080785626680-google)<sup>484</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>489</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>253</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>396</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>236</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>488</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>451</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_10.10.2024 14:56:41_
+_12.10.2024 18:06:40_
