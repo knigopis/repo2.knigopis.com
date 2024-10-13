@@ -29,11 +29,11 @@ Satoshi Nakamoto
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `15` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
 ### `12` Совершенный код
 Стив Макконнелл
-
-### `10` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
