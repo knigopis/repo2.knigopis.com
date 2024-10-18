@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>451</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>452</sup>
 ---
 
 ## 2024
+
+### Архипелаг ГУЛАГ
+Александр Солженицын
+> [2024-10-18] 
+
 
 ### Поп Гапон и японские винтовки
 Андрей Аксенов
