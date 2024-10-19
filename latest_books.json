@@ -1,4 +1,16 @@
 {
+    "-Bu51KBtrR": {
+        "id": "-Bu51KBtrR",
+        "title": "Дом, в котором горит свет",
+        "author": "Сафари Эльчин",
+        "notes": "",
+        "createdAt": "2024-10-19 12:22:09",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 450
+        }
+    },
     "FmogxiiDeV": {
         "id": "FmogxiiDeV",
         "title": "Архипелаг ГУЛАГ",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 392
-        }
-    },
-    "yYWz7shBia": {
-        "id": "yYWz7shBia",
-        "title": "Пожарский 4",
-        "author": "Войлошниковы",
-        "notes": "https://author.today/reader/358197\nСepгeй cмoтpeл cвязaннoму пpямo в пepeнocицу, чтo oбычнo у чeлoвeкa вызывaeт нeлoвкoe oщущeниe, будтo взгляд нaпpaвлeн cквoзь нeгo (дядькa бeзoпacник нaучил,\n\nКончилось. Даже немного жалко.",
-        "createdAt": "2024-09-05 06:40:08",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 485
         }
     }
 }
