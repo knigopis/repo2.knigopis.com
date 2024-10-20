@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>450</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>451</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>452</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>489</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>253</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_19.10.2024 12:22:09_
+_20.10.2024 11:01:43_

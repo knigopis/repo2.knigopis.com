@@ -1,4 +1,16 @@
 {
+    "8z40gJsRdD": {
+        "id": "8z40gJsRdD",
+        "title": "Дневник шизофренички",
+        "author": "Сешей Маргарит",
+        "notes": "",
+        "createdAt": "2024-10-20 11:01:43",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 451
+        }
+    },
     "-Bu51KBtrR": {
         "id": "-Bu51KBtrR",
         "title": "Дом, в котором горит свет",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 393
-        }
-    },
-    "uFhAIObA__": {
-        "id": "uFhAIObA__",
-        "title": "Тайный город. Куколка последней надежды",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-09-05 09:37:14",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 392
         }
     }
 }
