@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butercupa](users/193/193697993-vkontakte)<sup>95</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>451</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>452</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>489</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>236</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>94</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>54</sup> 
 [](users/858/858967472-vkontakte)<sup>0</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_20.10.2024 11:01:43_
+_20.10.2024 20:27:24_

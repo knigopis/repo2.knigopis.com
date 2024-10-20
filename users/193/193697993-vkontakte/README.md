@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>94</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>95</sup>
 ---
 
 ## 2024
+
+### Просто выжить
+Полина Ром
+> [2024-10-20] 
+
 
 ### Хозяйка старой усадьбы
 Элен Скор

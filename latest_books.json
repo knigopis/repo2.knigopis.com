@@ -1,4 +1,16 @@
 {
+    "uDkbzm8XnF": {
+        "id": "uDkbzm8XnF",
+        "title": "Просто выжить",
+        "author": "Полина Ром",
+        "notes": "",
+        "createdAt": "2024-10-20 20:27:24",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 95
+        }
+    },
     "8z40gJsRdD": {
         "id": "8z40gJsRdD",
         "title": "Дневник шизофренички",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 394
-        }
-    },
-    "1wdQffh4OF": {
-        "id": "1wdQffh4OF",
-        "title": "Тайный город. Тень Инквизитора",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-09-05 09:37:43",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 393
         }
     }
 }
