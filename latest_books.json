@@ -1,4 +1,16 @@
 {
+    "0VjaMSNQoo": {
+        "id": "0VjaMSNQoo",
+        "title": "Внутри убийцы",
+        "author": "Майк Омер",
+        "notes": "",
+        "createdAt": "2024-10-21 17:07:54",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 254
+        }
+    },
     "uDkbzm8XnF": {
         "id": "uDkbzm8XnF",
         "title": "Просто выжить",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 449
-        }
-    },
-    "sG9bdgW9Rc": {
-        "id": "sG9bdgW9Rc",
-        "title": "Тайный город. Кафедра странников",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-09-05 09:38:16",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 394
         }
     }
 }
