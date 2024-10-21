@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>452</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>453</sup>
 ---
 
 ## 2024
+
+### Валсарб
+Хелена Побяржина
+> [2024-10-20] 
+
 
 ### Архипелаг ГУЛАГ
 Александр Солженицын
