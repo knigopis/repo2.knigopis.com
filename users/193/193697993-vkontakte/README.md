@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>95</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>96</sup>
 ---
 
 ## 2024
+
+### Герцогиня на год, или Пробный брак с призванной
+Екатерина Стрелецкая
+> [2024-10-22] 
+
 
 ### Просто выжить
 Полина Ром

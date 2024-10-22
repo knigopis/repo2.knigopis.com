@@ -1,4 +1,16 @@
 {
+    "d2t98JjN9i": {
+        "id": "d2t98JjN9i",
+        "title": "Герцогиня на год, или Пробный брак с призванной",
+        "author": "Екатерина Стрелецкая",
+        "notes": "",
+        "createdAt": "2024-10-22 16:02:34",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 96
+        }
+    },
     "lPjhz1Csxc": {
         "id": "lPjhz1Csxc",
         "title": "Валсарб",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 486
-        }
-    },
-    "9fBTDcqTPA": {
-        "id": "9fBTDcqTPA",
-        "title": "Чёрный",
-        "author": "Ричард Райт",
-        "notes": "",
-        "createdAt": "2024-09-08 14:07:11",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 248
         }
     }
 }
