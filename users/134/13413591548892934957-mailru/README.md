@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>453</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>454</sup>
 ---
 
 ## 2024
+
+### Тетрадь Катерины Суворовой
+Линор Горалик
+> [2024-10-20] 
+
 
 ### Валсарб
 Хелена Побяржина

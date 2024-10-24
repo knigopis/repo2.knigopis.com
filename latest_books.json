@@ -1,4 +1,16 @@
 {
+    "Ny4-pXopCP": {
+        "id": "Ny4-pXopCP",
+        "title": "Тетрадь Катерины Суворовой",
+        "author": "Линор Горалик",
+        "notes": "",
+        "createdAt": "2024-10-24 14:37:04",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 454
+        }
+    },
     "d2t98JjN9i": {
         "id": "d2t98JjN9i",
         "title": "Герцогиня на год, или Пробный брак с призванной",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 50
-        }
-    },
-    "d2TPZVmYOt": {
-        "id": "d2TPZVmYOt",
-        "title": "Год крысы",
-        "author": "Громыко Ольга",
-        "notes": "http://loveread.ec/series-books.php?id=798\n подошвы отлипло, а запах остался.\nЕсли к собачьему хвосту привязали трещотку, то собаке надо думать, как от нее избавиться, а не как убежать подальше",
-        "createdAt": "2024-09-09 19:33:51",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 486
         }
     }
 }
