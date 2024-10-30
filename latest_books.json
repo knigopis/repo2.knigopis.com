@@ -1,4 +1,16 @@
 {
+    "651uifWiWh": {
+        "id": "651uifWiWh",
+        "title": "Маленькое счастье Клары",
+        "author": "Анна Лерн",
+        "notes": "",
+        "createdAt": "2024-10-30 22:40:11",
+        "user": {
+            "id": "193697993-vkontakte",
+            "nickname": "butercupa",
+            "booksCount": 97
+        }
+    },
     "Ny4-pXopCP": {
         "id": "Ny4-pXopCP",
         "title": "Тетрадь Катерины Суворовой",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 450
-        }
-    },
-    "daCiFp2Pdc": {
-        "id": "daCiFp2Pdc",
-        "title": "Остров доктора Моро",
-        "author": "",
-        "notes": "",
-        "createdAt": "2024-09-11 20:26:14",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 50
         }
     }
 }

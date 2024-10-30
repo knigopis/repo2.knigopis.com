@@ -1,7 +1,12 @@
-# List of books read by [butercupa](http://vk.com/id193697993)<sup>96</sup>
+# List of books read by [butercupa](http://vk.com/id193697993)<sup>97</sup>
 ---
 
 ## 2024
+
+### Маленькое счастье Клары
+Анна Лерн
+> [2024-10-31] 
+
 
 ### Герцогиня на год, или Пробный брак с призванной
 Екатерина Стрелецкая
