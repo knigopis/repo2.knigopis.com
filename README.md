@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Что вы скрываете, Хандзо-сан? (4 книги) ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
+    > https://searchfloor.org/search?authors=%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%A5%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%20%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2&series=%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%A5%D0%B0%D0%BD%D0%B4%D0%B7%D0%BE
+    > Сначала было любопытно. Но пятую даже не буду начинать-устала
+
 * Долг Ранмарна ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
     > https://moreknig.org/reader/234644/
     > Всего 18 страниц....
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > Нельзя ничего создать, если вокруг атмосфера страха и ненависти, а в атмосфере всеобщего восхищения творческий потенциал становится почти неограниченным
 
 * Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
-    > Отлично прописаны персонажи, эмоции каждого ощущаются физически. Не самый мой любимый жанр, но эту книгу прочитала с удовольствием.
 
 * Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
 
@@ -30,18 +33,16 @@ Do not use pull requests to make changes here.
 
 * Великий и ужасный (шесть книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>487</sup>
 
-* Год крысы ~ [Chiffi](users/105/105831994080785626680-google)<sup>486</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>490</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>455</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>452</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>254</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>489</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>396</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>236</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
@@ -69,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_05.11.2024 08:09:08_
+_05.11.2024 20:29:48_
