@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>454</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>455</sup>
 ---
 
 ## 2024
+
+### Южный Ветер
+Даша Благова
+> [2024-11-04] 
+
 
 ### Тетрадь Катерины Суворовой
 Линор Горалик
