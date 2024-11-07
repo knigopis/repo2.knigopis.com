@@ -102,8 +102,7 @@
 Дорничев Дмитрий
 > https://loveread.com.ua/site/bookread?subdomain=pozhiratel-dush-kompilyaciya-knigi-1-18-dmitrii-dornichev
 
-### `` Что вы скрываете, Хандзо-сан? (4 книги)
-Молотов Виктор, Харченко Сергей
-> https://searchfloor.org/search?authors=%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%A5%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%20%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2&series=%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%A5%D0%B0%D0%BD%D0%B4%D0%B7%D0%BE
-> Сначала было любопытно. Но пятую даже не буду начинать-устала
+### `` Собиратели душ. Демонология по Волкову 1.
+Тимошенко Наталья
+> http://flibusta.site/b/803786
 
