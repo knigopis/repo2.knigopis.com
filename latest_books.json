@@ -1,4 +1,16 @@
 {
+    "5WIH3aLDBD": {
+        "id": "5WIH3aLDBD",
+        "title": "Лес",
+        "author": "Светлана Тюльбашева",
+        "notes": "",
+        "createdAt": "2024-11-08 12:26:49",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 3
+        }
+    },
     "GbpAq7cQd9": {
         "id": "GbpAq7cQd9",
         "title": "Гарпун дьявола",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 54
-        }
-    },
-    "MLiKVfkn8E": {
-        "id": "MLiKVfkn8E",
-        "title": "Невеста-самозванка",
-        "author": "Флат Екатерина",
-        "notes": "Лучше  плохо решaть свои проблемы, чем хорошо чужие\nhttps://readli.net/nevesta-samozvanka-2/",
-        "createdAt": "2024-09-18 20:21:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 488
         }
     }
 }
