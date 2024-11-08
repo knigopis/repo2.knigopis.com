@@ -1,4 +1,10 @@
 {
+    "174598622-vkontakte": {
+        "id": "174598622-vkontakte",
+        "nickname": "zehan_v",
+        "booksCount": 0,
+        "updatedAt": "2024-11-08 12:15:31"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": "1231кфыа",
         "booksCount": 1,
         "updatedAt": "2024-06-25 16:29:12"
-    },
-    "116191270391964650818-google": {
-        "id": "116191270391964650818-google",
-        "nickname": "rnixik",
-        "booksCount": 76,
-        "updatedAt": "2024-06-17 08:31:07"
     }
 }
