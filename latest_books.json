@@ -1,4 +1,16 @@
 {
+    "GbpAq7cQd9": {
+        "id": "GbpAq7cQd9",
+        "title": "Гарпун дьявола",
+        "author": "Тони Бранто",
+        "notes": "",
+        "createdAt": "2024-11-08 12:21:05",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 2
+        }
+    },
     "s6onXMwqNl": {
         "id": "s6onXMwqNl",
         "title": "Колодец и бабочка",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 488
-        }
-    },
-    "A2j5577P4V": {
-        "id": "A2j5577P4V",
-        "title": "Цветы для Элджернона",
-        "author": "",
-        "notes": "",
-        "createdAt": "2024-09-18 16:06:01",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 53
         }
     }
 }
