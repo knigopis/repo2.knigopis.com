@@ -1,4 +1,16 @@
 {
+    "s6onXMwqNl": {
+        "id": "s6onXMwqNl",
+        "title": "Колодец и бабочка",
+        "author": "Елена Михалкова",
+        "notes": "Серия «Расследования Макара Илюшина и Сергея Бабкина»",
+        "createdAt": "2024-11-08 12:18:07",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 1
+        }
+    },
     "PINnTs78A8": {
         "id": "PINnTs78A8",
         "title": "Земля Онлайн",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 53
-        }
-    },
-    "1HUjieRrrZ": {
-        "id": "1HUjieRrrZ",
-        "title": "Лисьи Броды",
-        "author": "Анна Стробинец",
-        "notes": "",
-        "createdAt": "2024-09-17 21:04:53",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 52
         }
     }
 }
