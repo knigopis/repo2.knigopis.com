@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>236</sup>
+# Список прочитанных книг пользователя exulted<sup>237</sup>
 ---
 
 ## 2024
+
+### Dissolving Illusions
+Suzanne Humphries, Roman Bystrianyk
+> [2024-11-05] 
+
 
 ### Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms
 Travis Christofferson
