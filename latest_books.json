@@ -1,4 +1,16 @@
 {
+    "DXUIuaWBMq": {
+        "id": "DXUIuaWBMq",
+        "title": "«Мотель \"Вечерняя заря\"»",
+        "author": "Симона Сент-Джеймс",
+        "notes": "",
+        "createdAt": "2024-11-09 07:24:56",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 6
+        }
+    },
     "SEDMIWZubS": {
         "id": "SEDMIWZubS",
         "title": "Домик под скалой",
@@ -345,18 +357,6 @@
             "id": "193697993-vkontakte",
             "nickname": "butercupa",
             "booksCount": 94
-        }
-    },
-    "uX8tXjECl1": {
-        "id": "uX8tXjECl1",
-        "title": "Стон горы",
-        "author": "Ясунари Кавабата",
-        "notes": "",
-        "createdAt": "2024-09-24 19:32:40",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 250
         }
     }
 }
