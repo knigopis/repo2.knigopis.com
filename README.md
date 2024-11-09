@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Собиратели душ. Демонология по Волкову 1. ~ [Chiffi](users/105/105831994080785626680-google)<sup>491</sup>
+    > http://flibusta.site/b/803786
+    > Интересно, затягивает. Хочется продолжения
+
 * Что вы скрываете, Хандзо-сан? (4 книги) ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
     > https://searchfloor.org/search?authors=%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%A5%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%20%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2&series=%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%A5%D0%B0%D0%BD%D0%B4%D0%B7%D0%BE
     > Сначала было любопытно. Но пятую даже не буду начинать-устала
@@ -14,10 +18,6 @@ Do not use pull requests to make changes here.
     > Всего 18 страниц....
 
 * Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
-    > http://flibusta.site/b/264408/read
-    > если мы не будем растить своих победителей… нас уничтожат чужие герои…
-    > когда я буду называть каждый пункт, соответствующая запись будет вспыхивать перед обучающимися. Таким образом я задействую зрительную и слуховую память, в конце занятия они будут записывать основные пункты под диктовку, это задействует моторную и повторно слуховую память.
-    > Нельзя ничего создать, если вокруг атмосфера страха и ненависти, а в атмосфере всеобщего восхищения творческий потенциал становится почти неограниченным
 
 * Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
 
@@ -31,17 +31,15 @@ Do not use pull requests to make changes here.
 
 * Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 
-* Великий и ужасный (шесть книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>487</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>491</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>6</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>55</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>490</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>455</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>452</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
@@ -70,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 
 
-_09.11.2024 11:09:50_
+_09.11.2024 16:12:55_
