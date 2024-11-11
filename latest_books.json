@@ -1,4 +1,16 @@
 {
+    "S5X-eDDtdl": {
+        "id": "S5X-eDDtdl",
+        "title": "Глаза тьмы",
+        "author": "Кунц Рей",
+        "notes": "https://readli.net/glaza-tmyi/. Про вирус, который мы потом узнали как корона",
+        "createdAt": "2024-11-11 21:51:23",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 492
+        }
+    },
     "tMxNokvNQC": {
         "id": "tMxNokvNQC",
         "title": "«Ярость»",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 450
-        }
-    },
-    "FmogxiiDeV": {
-        "id": "FmogxiiDeV",
-        "title": "Архипелаг ГУЛАГ",
-        "author": "Александр Солженицын",
-        "notes": "",
-        "createdAt": "2024-10-18 21:49:38",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 452
         }
     }
 }

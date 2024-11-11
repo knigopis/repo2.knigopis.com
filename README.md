@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
+    > https://readli.net/glaza-tmyi/. Про вирус, который мы потом узнали как корона
+
 * Собиратели душ. Демонология по Волкову 1. ~ [Chiffi](users/105/105831994080785626680-google)<sup>491</sup>
     > http://flibusta.site/b/803786
     > Интересно, затягивает. Хочется продолжения
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > Сначала было любопытно. Но пятую даже не буду начинать-устала
 
 * Долг Ранмарна ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
-    > https://moreknig.org/reader/234644/
-    > Всего 18 страниц....
 
 * Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
 
@@ -29,15 +30,13 @@ Do not use pull requests to make changes here.
 
 * √Жизнь. Математика как способ стать счастливее и жить дольше ~ [dobrova](users/606/6069210-vkontakte)<sup>9</sup>
 
-* Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>492</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>15</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>491</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>55</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>455</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 
 
-_11.11.2024 17:06:35_
+_11.11.2024 21:51:23_
