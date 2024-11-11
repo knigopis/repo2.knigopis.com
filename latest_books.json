@@ -1,4 +1,16 @@
 {
+    "hNs6njQa2B": {
+        "id": "hNs6njQa2B",
+        "title": "Контейнер",
+        "author": "А. М. Олликайнен",
+        "notes": "",
+        "createdAt": "2024-11-11 09:55:44",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 11
+        }
+    },
     "uuRIqx2xB9": {
         "id": "uuRIqx2xB9",
         "title": "Полярный круг",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 396
-        }
-    },
-    "0v_rUK79e7": {
-        "id": "0v_rUK79e7",
-        "title": "Тайный город. Правила крови",
-        "author": "Сборник",
-        "notes": "Пара рассказов интересные, но большая часть скучная чушь",
-        "createdAt": "2024-10-10 08:55:12",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 395
         }
     }
 }
