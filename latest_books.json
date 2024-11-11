@@ -1,4 +1,16 @@
 {
+    "uuRIqx2xB9": {
+        "id": "uuRIqx2xB9",
+        "title": "Полярный круг",
+        "author": "Лиза Марклунд",
+        "notes": "",
+        "createdAt": "2024-11-11 09:55:13",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 10
+        }
+    },
     "fXrXdJM-BY": {
         "id": "fXrXdJM-BY",
         "title": "Трясина",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 395
-        }
-    },
-    "bHSAh4js1p": {
-        "id": "bHSAh4js1p",
-        "title": "Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms",
-        "author": "Travis Christofferson",
-        "notes": "ASIN: ‎B01N25FPY9",
-        "createdAt": "2024-10-08 08:31:49",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 236
         }
     }
 }
