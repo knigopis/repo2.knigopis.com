@@ -1,4 +1,16 @@
 {
+    "NSR9udKvDr": {
+        "id": "NSR9udKvDr",
+        "title": "Скрытая бухта",
+        "author": "Мария Орунья",
+        "notes": "Серия «Валентина Редондо и Оливер Гордон»",
+        "createdAt": "2024-11-11 09:51:36",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 7
+        }
+    },
     "Byr3t240hV": {
         "id": "Byr3t240hV",
         "title": "Брокен-Харбор",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 488
-        }
-    },
-    "g-64PHcPoW": {
-        "id": "g-64PHcPoW",
-        "title": "Поп Гапон и японские винтовки",
-        "author": "Андрей Аксенов",
-        "notes": "",
-        "createdAt": "2024-10-03 17:43:14",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 451
         }
     }
 }
