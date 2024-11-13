@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>455</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>456</sup>
 ---
 
 ## 2024
+
+### Вафельное сердце
+Мария Парр
+> [2024-11-13] 
+
 
 ### Южный Ветер
 Даша Благова
