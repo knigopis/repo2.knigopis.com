@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* А. З. ~ [Chiffi](users/105/105831994080785626680-google)<sup>493</sup>
+    > https://litnet.com/ru/book/a-z-b412464
+    > Мистика. Интересная, но слишком мрачная
+
 * Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
     > https://readli.net/glaza-tmyi/. Про вирус, который мы потом узнали как корона
 
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Интересно, затягивает. Хочется продолжения
 
 * Что вы скрываете, Хандзо-сан? (4 книги) ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
-    > https://searchfloor.org/search?authors=%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%A5%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%20%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2&series=%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%A5%D0%B0%D0%BD%D0%B4%D0%B7%D0%BE
-    > Сначала было любопытно. Но пятую даже не буду начинать-устала
 
 * Долг Ранмарна ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
 
@@ -28,16 +30,14 @@ Do not use pull requests to make changes here.
 
 * Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 
-* √Жизнь. Математика как способ стать счастливее и жить дольше ~ [dobrova](users/606/6069210-vkontakte)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>493</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>456</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>16</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>492</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>55</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>452</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 
 
-_13.11.2024 15:20:44_
+_13.11.2024 21:20:13_

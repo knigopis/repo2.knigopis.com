@@ -1,4 +1,16 @@
 {
+    "30WrQDsPtN": {
+        "id": "30WrQDsPtN",
+        "title": "А. З.",
+        "author": "Такаббир",
+        "notes": "https://litnet.com/ru/book/a-z-b412464\nМистика. Интересная, но слишком мрачная",
+        "createdAt": "2024-11-13 21:20:13",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 493
+        }
+    },
     "S5X-eDDtdl": {
         "id": "S5X-eDDtdl",
         "title": "Глаза тьмы",
@@ -345,18 +357,6 @@
             "id": "69389439-vkontakte",
             "nickname": "Юлиания",
             "booksCount": 20
-        }
-    },
-    "iKjX36v1U-": {
-        "id": "iKjX36v1U-",
-        "title": "Выбор варианта",
-        "author": "Ром Полина",
-        "notes": "https://readli.net/vyibor-varianta/\nПопаданство, но без фантастики (почти)\nНадо поучиться рукоделия и запомнить рецепты)))",
-        "createdAt": "2024-08-17 08:41:45",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 478
         }
     }
 }

@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>492</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>493</sup>
 ---
 
 ## 2024
+
+### А. З.
+Такаббир
+> [2024-11-13] https://litnet.com/ru/book/a-z-b412464
+> Мистика. Интересная, но слишком мрачная
+
 
 ### Собиратели душ. Демонология по Волкову 1.
 Тимошенко Наталья
