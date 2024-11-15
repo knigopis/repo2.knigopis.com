@@ -1,4 +1,16 @@
 {
+    "d6xOa2M2NM": {
+        "id": "d6xOa2M2NM",
+        "title": "«Две недели в сентябре»",
+        "author": "Р. С. Шеррифф",
+        "notes": "",
+        "createdAt": "2024-11-15 02:27:15",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 17
+        }
+    },
     "30WrQDsPtN": {
         "id": "30WrQDsPtN",
         "title": "А. З.",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 453
-        }
-    },
-    "0VjaMSNQoo": {
-        "id": "0VjaMSNQoo",
-        "title": "Внутри убийцы",
-        "author": "Майк Омер",
-        "notes": "",
-        "createdAt": "2024-10-21 17:07:54",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 254
         }
     }
 }
