@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>456</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>457</sup>
 ---
 
 ## 2024
+
+### Вратарь и море
+Мария Парр
+> [2024-11-15] 
+
 
 ### Вафельное сердце
 Мария Парр
