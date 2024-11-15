@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>457</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>458</sup>
 ---
 
 ## 2024
+
+### Поход на Бар-Хото
+Леонид Юзефович
+> [2024-11-16] 
+
 
 ### Вратарь и море
 Мария Парр
