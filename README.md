@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>458</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>17</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>493</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 [](users/115/115095777313809768381-google)<sup>5</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
-[1231кфыа](users/692/692142137-vkontakte)<sup>1</sup> 
 
 
-_15.11.2024 21:51:01_
+_17.11.2024 06:19:15_
