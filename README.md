@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказ Служанки ~ [aktoty](users/275/275766107-vkontakte)<sup>98</sup>
+    > Книга про репрессию женщин, но с непонятным концом. Нужно много чего знать чтобы понять книгу. Но наверно еще нужно много обдумать в голове
+
 * А. З. ~ [Chiffi](users/105/105831994080785626680-google)<sup>493</sup>
     > https://litnet.com/ru/book/a-z-b412464
     > Мистика. Интересная, но слишком мрачная
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/glaza-tmyi/. Про вирус, который мы потом узнали как корона
 
 * Собиратели душ. Демонология по Волкову 1. ~ [Chiffi](users/105/105831994080785626680-google)<sup>491</sup>
-    > http://flibusta.site/b/803786
-    > Интересно, затягивает. Хочется продолжения
 
 * Что вы скрываете, Хандзо-сан? (4 книги) ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
 
-* Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>458</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>17</sup> 
@@ -61,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
-[aktoty](users/275/275766107-vkontakte)<sup>97</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 [](users/115/115095777313809768381-google)<sup>5</sup> 
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
 
 
-_17.11.2024 06:19:15_
+_17.11.2024 21:13:39_
