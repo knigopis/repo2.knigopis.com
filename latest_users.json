@@ -1,4 +1,10 @@
 {
+    "103558184911332019716-google": {
+        "id": "103558184911332019716-google",
+        "nickname": "Slam41 ",
+        "booksCount": 0,
+        "updatedAt": "2024-11-17 06:19:14"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "hugo",
         "booksCount": 42,
         "updatedAt": "2024-06-26 16:32:14"
-    },
-    "692142137-vkontakte": {
-        "id": "692142137-vkontakte",
-        "nickname": "1231кфыа",
-        "booksCount": 1,
-        "updatedAt": "2024-06-25 16:29:12"
     }
 }
