@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>17</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>18</sup>
 ---
 
 ## 2024
+
+### День между пятницей и воскресеньем
+Ирина Лейк
+> [2024-11-17] 
+
 
 ### «Две недели в сентябре»
 Р. С. Шеррифф
