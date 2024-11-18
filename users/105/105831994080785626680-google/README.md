@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>493</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>494</sup>
 ---
 
 ## 2024
+
+### Крупа бывает разная-будет продолжение
+Дашкевич Виктор
+> [2024-11-18] https://author.today/work/314271
+
 
 ### А. З.
 Такаббир

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
+    > https://author.today/work/314271
+
 * Рассказ Служанки ~ [aktoty](users/275/275766107-vkontakte)<sup>98</sup>
     > Книга про репрессию женщин, но с непонятным концом. Нужно много чего знать чтобы понять книгу. Но наверно еще нужно много обдумать в голове
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Мистика. Интересная, но слишком мрачная
 
 * Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
-    > https://readli.net/glaza-tmyi/. Про вирус, который мы потом узнали как корона
 
 * Собиратели душ. Демонология по Волкову 1. ~ [Chiffi](users/105/105831994080785626680-google)<sup>491</sup>
 
@@ -27,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
 
-* Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>494</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>18</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>458</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>493</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>55</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>452</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hugo](users/105/105063533945004840111-google)<sup>42</sup> 
 
 
-_18.11.2024 08:23:36_
+_18.11.2024 21:13:11_

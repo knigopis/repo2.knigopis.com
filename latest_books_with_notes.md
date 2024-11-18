@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
 * Рассказ Служанки ~ [aktoty](users/275/275766107-vkontakte)<sup>98</sup>
 * А. З. ~ [Chiffi](users/105/105831994080785626680-google)<sup>493</sup>
 * Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
@@ -30,7 +31,6 @@
 * Женское здоровье ~ [Юлиания](users/693/69389439-vkontakte)<sup>24</sup>
 * Жизнь на пенсии ~ [Юлиания](users/693/69389439-vkontakte)<sup>23</sup>
 * Добрые советы ~ [Юлиания](users/693/69389439-vkontakte)<sup>22</sup>
-* Лебёдушка ~ [Юлиания](users/693/69389439-vkontakte)<sup>21</sup>
 
 
-_17.11.2024 21:13:39_
+_18.11.2024 21:13:11_
