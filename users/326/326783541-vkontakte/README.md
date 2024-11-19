@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>55</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>56</sup>
 ---
 
 ## 2024
+
+### Безмолвное чтение (5 томов)
+Priest
+> [2024-11-19] 
+
 
 ### Земля Онлайн
 > [2024-11-08] 
