@@ -1,4 +1,16 @@
 {
+    "O3CjYIMS32": {
+        "id": "O3CjYIMS32",
+        "title": "«Прислуга»",
+        "author": "Кэтрин Стокетт",
+        "notes": "",
+        "createdAt": "2024-11-20 08:05:08",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 19
+        }
+    },
     "aCbMiZ_oJr": {
         "id": "aCbMiZ_oJr",
         "title": "Безмолвное чтение (5 томов)",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 55
-        }
-    },
-    "GLibXV4oKK": {
-        "id": "GLibXV4oKK",
-        "title": "Что вы скрываете, Хандзо-сан? (4 книги)",
-        "author": "Молотов Виктор, Харченко Сергей",
-        "notes": "https://searchfloor.org/search?authors=%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%A5%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%20%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2&series=%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%A5%D0%B0%D0%BD%D0%B4%D0%B7%D0%BE\nСначала было любопытно. Но пятую даже не буду начинать-устала",
-        "createdAt": "2024-11-05 20:29:48",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 490
         }
     }
 }
