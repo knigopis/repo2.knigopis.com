@@ -1,4 +1,16 @@
 {
+    "b7DRhVq9GU": {
+        "id": "b7DRhVq9GU",
+        "title": "Кадавры",
+        "author": "Алексей Поляринов",
+        "notes": "",
+        "createdAt": "2024-11-20 11:11:21",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 459
+        }
+    },
     "O3CjYIMS32": {
         "id": "O3CjYIMS32",
         "title": "«Прислуга»",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 1
-        }
-    },
-    "PINnTs78A8": {
-        "id": "PINnTs78A8",
-        "title": "Земля Онлайн",
-        "author": "",
-        "notes": "",
-        "createdAt": "2024-11-07 23:15:25",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 55
         }
     }
 }

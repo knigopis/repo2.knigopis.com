@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>458</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>459</sup>
 ---
 
 ## 2024
+
+### Кадавры
+Алексей Поляринов
+> [2024-11-20] 
+
 
 ### Поход на Бар-Хото
 Леонид Юзефович
