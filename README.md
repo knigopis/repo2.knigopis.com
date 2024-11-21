@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>287</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>459</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>19</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>56</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 [](users/115/115095777313809768381-google)<sup>5</sup> 
-[hugo](users/105/105063533945004840111-google)<sup>42</sup> 
 
 
-_20.11.2024 11:11:21_
+_21.11.2024 15:03:49_
