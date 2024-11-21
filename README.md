@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Злодейка в пресветлый академи ~ [Chiffi](users/105/105831994080785626680-google)<sup>495</sup>
+    > http://loveread.ec/view_global.php?id=109575
+    > В истерику впадать рано, пока широкая грудь, на которой можно порыдать, не в состоянии принять на себя такой ценный груз.
+
 * Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
     > https://author.today/work/314271
 
@@ -12,8 +16,6 @@ Do not use pull requests to make changes here.
     > Книга про репрессию женщин, но с непонятным концом. Нужно много чего знать чтобы понять книгу. Но наверно еще нужно много обдумать в голове
 
 * А. З. ~ [Chiffi](users/105/105831994080785626680-google)<sup>493</sup>
-    > https://litnet.com/ru/book/a-z-b412464
-    > Мистика. Интересная, но слишком мрачная
 
 * Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
 
@@ -27,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
 
-* Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>495</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>287</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>459</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>19</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>56</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>494</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115095777313809768381-google)<sup>5</sup> 
 
 
-_21.11.2024 15:03:49_
+_21.11.2024 21:10:52_
