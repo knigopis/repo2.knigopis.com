@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>3</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>4</sup>
 ---
 
 ## 2024
+
+### Охота на пиранью
+Александр Бушков
+> [2024-11-23] 
+
 
 ### Рассказы о Родине
 Дмитрий Глуховский
