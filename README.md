@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тень за моим плечом ~ [Chiffi](users/105/105831994080785626680-google)<sup>496</sup>
+    > http://flibusta.site/b/642434/read
+
 * Злодейка в пресветлый академи ~ [Chiffi](users/105/105831994080785626680-google)<sup>495</sup>
     > http://loveread.ec/view_global.php?id=109575
     > В истерику впадать рано, пока широкая грудь, на которой можно порыдать, не в состоянии принять на себя такой ценный груз.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > https://author.today/work/314271
 
 * Рассказ Служанки ~ [aktoty](users/275/275766107-vkontakte)<sup>98</sup>
-    > Книга про репрессию женщин, но с непонятным концом. Нужно много чего знать чтобы понять книгу. Но наверно еще нужно много обдумать в голове
 
 * А. З. ~ [Chiffi](users/105/105831994080785626680-google)<sup>493</sup>
 
@@ -27,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
 
-* Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>496</sup> 
 [](users/105/105803270930838059244-google)<sup>5</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>495</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>287</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>459</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>19</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 
 
-_23.11.2024 16:36:57_
+_25.11.2024 19:40:38_

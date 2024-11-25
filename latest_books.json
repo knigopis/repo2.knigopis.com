@@ -1,4 +1,16 @@
 {
+    "qySKvBkMqL": {
+        "id": "qySKvBkMqL",
+        "title": "Тень за моим плечом",
+        "author": "Тимошенко Наталья",
+        "notes": "http://flibusta.site/b/642434/read",
+        "createdAt": "2024-11-25 19:40:38",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 496
+        }
+    },
     "EvNbPtcm1W": {
         "id": "EvNbPtcm1W",
         "title": "Волкодав",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 491
-        }
-    },
-    "xovh_d_zTM": {
-        "id": "xovh_d_zTM",
-        "title": "Dissolving Illusions",
-        "author": "Suzanne Humphries, Roman Bystrianyk",
-        "notes": "",
-        "createdAt": "2024-11-09 11:09:50",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 237
         }
     }
 }
