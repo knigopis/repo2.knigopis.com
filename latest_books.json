@@ -1,4 +1,16 @@
 {
+    "vV86pqUeyX": {
+        "id": "vV86pqUeyX",
+        "title": "«День чёрной собаки»",
+        "author": "Вадим Панов",
+        "notes": "",
+        "createdAt": "2024-11-26 08:14:22",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 20
+        }
+    },
     "SK8aKu-O-2": {
         "id": "SK8aKu-O-2",
         "title": "«Две недели в сентябре»",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 7
-        }
-    },
-    "m6Ptuttjld": {
-        "id": "m6Ptuttjld",
-        "title": "Собиратели душ. Демонология по Волкову 1.",
-        "author": "Тимошенко Наталья",
-        "notes": "http://flibusta.site/b/803786\nИнтересно, затягивает. Хочется продолжения",
-        "createdAt": "2024-11-09 16:12:55",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 491
         }
     }
 }

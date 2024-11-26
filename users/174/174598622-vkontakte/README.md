@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>19</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>20</sup>
 ---
 
 ## 2024
+
+### «День чёрной собаки»
+Вадим Панов
+> [2024-11-23] 
+
 
 ### День между пятницей и воскресеньем
 Ирина Лейк
