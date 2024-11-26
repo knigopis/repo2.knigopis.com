@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>20</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>496</sup> 
 [](users/105/105803270930838059244-google)<sup>5</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>287</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>459</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>19</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>56</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 
 
-_25.11.2024 19:40:38_
+_26.11.2024 08:11:47_
