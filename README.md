@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
+    > http://flibusta.site/b/659599/read
+    > Конец серии
+
 * Тень за моим плечом ~ [Chiffi](users/105/105831994080785626680-google)<sup>496</sup>
     > http://flibusta.site/b/642434/read
 
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > В истерику впадать рано, пока широкая грудь, на которой можно порыдать, не в состоянии принять на себя такой ценный груз.
 
 * Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
-    > https://author.today/work/314271
 
 * Рассказ Служанки ~ [aktoty](users/275/275766107-vkontakte)<sup>98</sup>
 
@@ -27,15 +30,13 @@ Do not use pull requests to make changes here.
 
 * Долг Ранмарна ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
 
-* Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>497</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>21</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>496</sup> 
 [](users/105/105803270930838059244-google)<sup>5</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>287</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>459</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 
 
-_26.11.2024 17:47:31_
+_29.11.2024 18:54:27_

@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>496</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>497</sup>
 ---
 
 ## 2024
+
+### Ловушка сбывшихся кошмаров. Секретное досье 11
+Тимошенко Наталь, Обухова Лена
+> [2024-11-29] http://flibusta.site/b/659599/read
+> Конец серии
+
 
 ### Тень за моим плечом
 Тимошенко Наталья

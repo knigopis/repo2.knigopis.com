@@ -1,4 +1,16 @@
 {
+    "-u2w_CjAPl": {
+        "id": "-u2w_CjAPl",
+        "title": "Ловушка сбывшихся кошмаров. Секретное досье 11",
+        "author": "Тимошенко Наталь, Обухова Лена",
+        "notes": "http://flibusta.site/b/659599/read\nКонец серии",
+        "createdAt": "2024-11-29 18:54:27",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 497
+        }
+    },
     "SRpflJsnVx": {
         "id": "SRpflJsnVx",
         "title": "«Медвежий угол»",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 8
-        }
-    },
-    "NSR9udKvDr": {
-        "id": "NSR9udKvDr",
-        "title": "Скрытая бухта",
-        "author": "Мария Орунья",
-        "notes": "Серия «Валентина Редондо и Оливер Гордон»",
-        "createdAt": "2024-11-11 09:51:36",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 7
         }
     }
 }
