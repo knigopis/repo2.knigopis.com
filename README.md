@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лес ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>288</sup>
+    > Две девушки скрывались от полиции и уже состарились, главный персонаж их маленький внук.
+
 * Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
     > http://flibusta.site/b/659599/read
     > Конец серии
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > http://flibusta.site/b/642434/read
 
 * Злодейка в пресветлый академи ~ [Chiffi](users/105/105831994080785626680-google)<sup>495</sup>
-    > http://loveread.ec/view_global.php?id=109575
-    > В истерику впадать рано, пока широкая грудь, на которой можно порыдать, не в состоянии принять на себя такой ценный груз.
 
 * Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
 
@@ -28,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Что вы скрываете, Хандзо-сан? (4 книги) ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
 
-* Долг Ранмарна ~ [Chiffi](users/105/105831994080785626680-google)<sup>490</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>288</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>497</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>21</sup> 
 [](users/105/105803270930838059244-google)<sup>5</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>287</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>459</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>56</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 
 
-_29.11.2024 18:54:27_
+_30.11.2024 07:29:03_
