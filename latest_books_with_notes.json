@@ -1,4 +1,16 @@
 {
+    "bRumwZTlR1": {
+        "id": "bRumwZTlR1",
+        "title": "Его темная целительница",
+        "author": "Крааш Кира",
+        "notes": "я решила, что как настоящая леди буду игнорировать очевидное",
+        "createdAt": "2024-12-01 22:17:52",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 498
+        }
+    },
     "YW3Bw807KE": {
         "id": "YW3Bw807KE",
         "title": "Лес",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 447
-        }
-    },
-    "kMwCmqCXjB": {
-        "id": "kMwCmqCXjB",
-        "title": "Добрые советы.",
-        "author": "Февраль 2005.",
-        "notes": "Журнал, 114 страниц.",
-        "createdAt": "2024-08-19 02:49:02",
-        "user": {
-            "id": "69389439-vkontakte",
-            "nickname": "Юлиания",
-            "booksCount": 26
         }
     }
 }

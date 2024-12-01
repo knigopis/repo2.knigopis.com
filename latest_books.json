@@ -1,4 +1,16 @@
 {
+    "bRumwZTlR1": {
+        "id": "bRumwZTlR1",
+        "title": "Его темная целительница",
+        "author": "Крааш Кира",
+        "notes": "я решила, что как настоящая леди буду игнорировать очевидное",
+        "createdAt": "2024-12-01 22:17:52",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 498
+        }
+    },
     "5mXK8lOw7c": {
         "id": "5mXK8lOw7c",
         "title": "Уровень шума (рассказ)",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 12
-        }
-    },
-    "hNs6njQa2B": {
-        "id": "hNs6njQa2B",
-        "title": "Контейнер",
-        "author": "А. М. Олликайнен",
-        "notes": "",
-        "createdAt": "2024-11-11 09:55:44",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 11
         }
     }
 }
