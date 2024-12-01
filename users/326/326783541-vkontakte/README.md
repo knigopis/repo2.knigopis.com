@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>56</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>57</sup>
 ---
 
 ## 2024
+
+### Уровень шума (рассказ)
+> [2024-11-30] 
+
 
 ### Безмолвное чтение (5 томов)
 Priest
