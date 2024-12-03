@@ -1,4 +1,16 @@
 {
+    "k-of1I5XKY": {
+        "id": "k-of1I5XKY",
+        "title": "Пусть все горит",
+        "author": "Уилл Дин",
+        "notes": "Остановилась на 9 части из 33. Ужасная хрень.",
+        "createdAt": "2024-12-03 19:27:41",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 289
+        }
+    },
     "bRumwZTlR1": {
         "id": "bRumwZTlR1",
         "title": "Его темная целительница",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 13
-        }
-    },
-    "wH85IQEyx0": {
-        "id": "wH85IQEyx0",
-        "title": "«Конец лета»",
-        "author": "Андерс де ла Мотт",
-        "notes": "",
-        "createdAt": "2024-11-11 10:49:24",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 12
         }
     }
 }

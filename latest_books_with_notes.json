@@ -1,4 +1,16 @@
 {
+    "k-of1I5XKY": {
+        "id": "k-of1I5XKY",
+        "title": "Пусть все горит",
+        "author": "Уилл Дин",
+        "notes": "Остановилась на 9 части из 33. Ужасная хрень.",
+        "createdAt": "2024-12-03 19:27:41",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 289
+        }
+    },
     "bRumwZTlR1": {
         "id": "bRumwZTlR1",
         "title": "Его темная целительница",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 479
-        }
-    },
-    "vQot77T22p": {
-        "id": "vQot77T22p",
-        "title": "Сказать жизни – да!",
-        "author": "Франкл, Виктор",
-        "notes": "Найдено у Rainbow",
-        "createdAt": "2024-08-19 04:36:03",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 447
         }
     }
 }

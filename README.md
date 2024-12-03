@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пусть все горит ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup>
+    > Остановилась на 9 части из 33. Ужасная хрень.
+
 * Его темная целительница ~ [Chiffi](users/105/105831994080785626680-google)<sup>498</sup>
     > я решила, что как настоящая леди буду игнорировать очевидное
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Две девушки скрывались от полиции и уже состарились, главный персонаж их маленький внук.
 
 * Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
-    > http://flibusta.site/b/659599/read
-    > Конец серии
 
 * Тень за моим плечом ~ [Chiffi](users/105/105831994080785626680-google)<sup>496</sup>
 
@@ -27,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
 
-* Собиратели душ. Демонология по Волкову 1. ~ [Chiffi](users/105/105831994080785626680-google)<sup>491</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>498</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>57</sup> 
 [](users/105/105803270930838059244-google)<sup>4</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>453</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>288</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>21</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>459</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zik999](users/105/105622323107798948661-google)<sup>0</sup> 
 
 
-_01.12.2024 22:17:52_
+_03.12.2024 19:27:41_

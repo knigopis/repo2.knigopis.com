@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пусть все горит ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup>
 * Его темная целительница ~ [Chiffi](users/105/105831994080785626680-google)<sup>498</sup>
 * Лес ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>288</sup>
 * Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
@@ -30,7 +31,6 @@
 * Империя ангелов. Пер. с франц. 2019.-- 448с. ~ [realest1954](users/439/439398-vkontakte)<sup>4</sup>
 * Сочинения. Том третий ~ [realest1954](users/439/439398-vkontakte)<sup>3</sup>
 * Красная королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>479</sup>
-* Сказать жизни – да! ~ [Elixir](users/115/115826717712507836033-google)<sup>447</sup>
 
 
-_01.12.2024 22:17:52_
+_03.12.2024 19:27:41_
