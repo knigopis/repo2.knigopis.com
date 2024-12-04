@@ -1,4 +1,16 @@
 {
+    "2T26F0u5di": {
+        "id": "2T26F0u5di",
+        "title": "Тайный город. Королевский крест",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-12-04 16:17:12",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 397
+        }
+    },
     "k-of1I5XKY": {
         "id": "k-of1I5XKY",
         "title": "Пусть все горит",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 14
-        }
-    },
-    "qOYsCndGJa": {
-        "id": "qOYsCndGJa",
-        "title": "«Дело Аляски Сандерс»",
-        "author": "«Дело Аляски Сандерс»",
-        "notes": "",
-        "createdAt": "2024-11-11 10:53:41",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 13
         }
     }
 }
