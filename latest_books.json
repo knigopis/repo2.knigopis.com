@@ -1,4 +1,16 @@
 {
+    "_pp902V6IO": {
+        "id": "_pp902V6IO",
+        "title": "Тайный город. День Дракона",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-12-04 16:18:33",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 399
+        }
+    },
     "zGm2rP0rZD": {
         "id": "zGm2rP0rZD",
         "title": "Тайный город. Царь горы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 492
-        }
-    },
-    "tMxNokvNQC": {
-        "id": "tMxNokvNQC",
-        "title": "«Ярость»",
-        "author": "Алекс Михаэлидес",
-        "notes": "",
-        "createdAt": "2024-11-11 17:06:35",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 15
         }
     }
 }
