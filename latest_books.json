@@ -1,4 +1,16 @@
 {
+    "sfHh0mc2k3": {
+        "id": "sfHh0mc2k3",
+        "title": "Тайный город. Запах страха",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-12-04 16:18:54",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 400
+        }
+    },
     "_pp902V6IO": {
         "id": "_pp902V6IO",
         "title": "Тайный город. День Дракона",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 16
-        }
-    },
-    "S5X-eDDtdl": {
-        "id": "S5X-eDDtdl",
-        "title": "Глаза тьмы",
-        "author": "Кунц Рей",
-        "notes": "https://readli.net/glaza-tmyi/. Про вирус, который мы потом узнали как корона",
-        "createdAt": "2024-11-11 21:51:23",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 492
         }
     }
 }

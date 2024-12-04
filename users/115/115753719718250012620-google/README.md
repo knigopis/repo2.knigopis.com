@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>399</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>400</sup>
 ---
 
 ## 2024
+
+### Тайный город. Запах страха
+Панов, Вадим
+> [2024-12-05] 
+
 
 ### Тайный город. День Дракона
 Панов, Вадим
