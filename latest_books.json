@@ -1,4 +1,16 @@
 {
+    "zGm2rP0rZD": {
+        "id": "zGm2rP0rZD",
+        "title": "Тайный город. Царь горы",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2024-12-04 16:18:04",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 398
+        }
+    },
     "2T26F0u5di": {
         "id": "2T26F0u5di",
         "title": "Тайный город. Королевский крест",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 15
-        }
-    },
-    "0XRqQcPP0F": {
-        "id": "0XRqQcPP0F",
-        "title": "Дурная кровь",
-        "author": "Роберт Гэлбрейт",
-        "notes": "Серия: Корморан Страйк",
-        "createdAt": "2024-11-11 10:56:40",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 14
         }
     }
 }
