@@ -1,4 +1,16 @@
 {
+    "GQ_WQjUE72": {
+        "id": "GQ_WQjUE72",
+        "title": "Смерть на фуникулере",
+        "author": "Тони Бранто",
+        "notes": "",
+        "createdAt": "2024-12-07 18:13:34",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 24
+        }
+    },
     "VjgK4VZ09T": {
         "id": "VjgK4VZ09T",
         "title": "«Дикий зверь»",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 457
-        }
-    },
-    "30WrQDsPtN": {
-        "id": "30WrQDsPtN",
-        "title": "А. З.",
-        "author": "Такаббир",
-        "notes": "https://litnet.com/ru/book/a-z-b412464\nМистика. Интересная, но слишком мрачная",
-        "createdAt": "2024-11-13 21:20:13",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 493
         }
     }
 }
