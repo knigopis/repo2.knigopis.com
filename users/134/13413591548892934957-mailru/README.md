@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>459</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>460</sup>
 ---
 
 ## 2024
+
+### Скоро Москва
+Анна Шипилова
+> [2024-12-08] 
+
 
 ### Кадавры
 Алексей Поляринов

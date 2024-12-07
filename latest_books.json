@@ -1,4 +1,16 @@
 {
+    "jXzk7JD1xH": {
+        "id": "jXzk7JD1xH",
+        "title": "Скоро Москва",
+        "author": "Анна Шипилова",
+        "notes": "",
+        "createdAt": "2024-12-07 20:16:31",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 460
+        }
+    },
     "BJIBkGTtdU": {
         "id": "BJIBkGTtdU",
         "title": "Волчье кладбище",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 98
-        }
-    },
-    "d7olY_aCOI": {
-        "id": "d7olY_aCOI",
-        "title": "Поход на Бар-Хото",
-        "author": "Леонид Юзефович",
-        "notes": "",
-        "createdAt": "2024-11-15 21:51:01",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 458
         }
     }
 }
