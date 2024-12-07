@@ -1,4 +1,16 @@
 {
+    "VjgK4VZ09T": {
+        "id": "VjgK4VZ09T",
+        "title": "«Дикий зверь»",
+        "author": "Жоэль Диккер",
+        "notes": "",
+        "createdAt": "2024-12-07 18:12:37",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 23
+        }
+    },
     "suNyD2l8vL": {
         "id": "suNyD2l8vL",
         "title": "«Опасная игра бабули. Руководство по раскрытию собственного убийства»",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 493
-        }
-    },
-    "2kgSzFS3N1": {
-        "id": "2kgSzFS3N1",
-        "title": "Вафельное сердце",
-        "author": "Мария Парр",
-        "notes": "",
-        "createdAt": "2024-11-13 15:20:44",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 456
         }
     }
 }
