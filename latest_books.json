@@ -1,4 +1,16 @@
 {
+    "suNyD2l8vL": {
+        "id": "suNyD2l8vL",
+        "title": "«Опасная игра бабули. Руководство по раскрытию собственного убийства»",
+        "author": "Кристен Перрин",
+        "notes": "",
+        "createdAt": "2024-12-07 18:09:18",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 22
+        }
+    },
     "sfHh0mc2k3": {
         "id": "sfHh0mc2k3",
         "title": "Тайный город. Запах страха",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 456
-        }
-    },
-    "Pa8bfOq0xE": {
-        "id": "Pa8bfOq0xE",
-        "title": "«Вниз по темной реке»",
-        "author": "Карен Одден",
-        "notes": "",
-        "createdAt": "2024-11-13 06:39:59",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 16
         }
     }
 }

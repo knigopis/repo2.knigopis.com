@@ -1,4 +1,10 @@
 {
+    "174598622-vkontakte": {
+        "id": "174598622-vkontakte",
+        "nickname": "zehan_v",
+        "booksCount": 22,
+        "updatedAt": "2024-12-07 18:09:18"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -34,12 +40,6 @@
         "nickname": "Elixir",
         "booksCount": 453,
         "updatedAt": "2024-11-30 08:08:44"
-    },
-    "174598622-vkontakte": {
-        "id": "174598622-vkontakte",
-        "nickname": "zehan_v",
-        "booksCount": 21,
-        "updatedAt": "2024-11-26 17:47:31"
     },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
