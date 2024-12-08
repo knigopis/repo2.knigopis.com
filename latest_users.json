@@ -1,4 +1,10 @@
 {
+    "5373417-vkontakte": {
+        "id": "5373417-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2024-12-08 21:36:29"
+    },
     "118445323552824972692-google": {
         "id": "118445323552824972692-google",
         "nickname": "Книголикая",
@@ -172,11 +178,5 @@
         "nickname": "seqquell",
         "booksCount": 0,
         "updatedAt": "2024-07-25 10:18:09"
-    },
-    "47446642-vkontakte": {
-        "id": "47446642-vkontakte",
-        "nickname": "Альберт Сысоев",
-        "booksCount": 145,
-        "updatedAt": "2024-07-25 08:50:55"
     }
 }
