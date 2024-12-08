@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/537/5373417-vkontakte)<sup>0</sup> 
 [Книголикая](users/118/118445323552824972692-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>460</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
-[Альберт Сысоев](users/474/47446642-vkontakte)<sup>145</sup> 
 
 
-_08.12.2024 15:19:01_
+_08.12.2024 21:36:30_
