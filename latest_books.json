@@ -1,4 +1,16 @@
 {
+    "LEwjqH8XlY": {
+        "id": "LEwjqH8XlY",
+        "title": "Дурной сон Дэнни Кофлина",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2024-12-10 22:46:34",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 290
+        }
+    },
     "TmYpPt2A6Q": {
         "id": "TmYpPt2A6Q",
         "title": "Позже",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 494
-        }
-    },
-    "rPD7FCgp8R": {
-        "id": "rPD7FCgp8R",
-        "title": "День между пятницей и воскресеньем",
-        "author": "Ирина Лейк",
-        "notes": "",
-        "createdAt": "2024-11-18 08:23:36",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 18
         }
     }
 }
