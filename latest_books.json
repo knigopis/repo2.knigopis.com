@@ -1,4 +1,16 @@
 {
+    "M_dN4Mplj6": {
+        "id": "M_dN4Mplj6",
+        "title": "Вскрытие покажет. Записки увлеченного судмедэксперта",
+        "author": "Решетун Алексей",
+        "notes": "Аудио",
+        "createdAt": "2024-12-12 14:01:28",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 401
+        }
+    },
     "LEwjqH8XlY": {
         "id": "LEwjqH8XlY",
         "title": "Дурной сон Дэнни Кофлина",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 56
-        }
-    },
-    "4KsXEoDh0m": {
-        "id": "4KsXEoDh0m",
-        "title": "Крупа бывает разная-будет продолжение",
-        "author": "Дашкевич Виктор",
-        "notes": "https://author.today/work/314271",
-        "createdAt": "2024-11-18 21:13:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 494
         }
     }
 }

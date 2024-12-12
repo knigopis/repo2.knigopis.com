@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вскрытие покажет. Записки увлеченного судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>401</sup>
+    > Аудио
+
 * Пусть все горит ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup>
     > Остановилась на 9 части из 33. Ужасная хрень.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > я решила, что как настоящая леди буду игнорировать очевидное
 
 * Лес ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>288</sup>
-    > Две девушки скрывались от полиции и уже состарились, главный персонаж их маленький внук.
 
 * Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * А. З. ~ [Chiffi](users/105/105831994080785626680-google)<sup>493</sup>
 
-* Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>401</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>290</sup> 
 [](users/537/5373417-vkontakte)<sup>0</sup> 
 [Книголикая](users/118/118445323552824972692-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>460</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>25</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>400</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>498</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>57</sup> 
 [](users/105/105803270930838059244-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 
 
-_10.12.2024 22:46:34_
+_12.12.2024 14:01:29_
