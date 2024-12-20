@@ -1,4 +1,16 @@
 {
+    "Ma_RrxAn3j": {
+        "id": "Ma_RrxAn3j",
+        "title": "Дом в соснах",
+        "author": "Ана Рейес",
+        "notes": "",
+        "createdAt": "2024-12-20 18:17:36",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 27
+        }
+    },
     "265treFxsu": {
         "id": "265treFxsu",
         "title": "«Советы по домоводству для наемного убийцы»",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 287
-        }
-    },
-    "b7DRhVq9GU": {
-        "id": "b7DRhVq9GU",
-        "title": "Кадавры",
-        "author": "Алексей Поляринов",
-        "notes": "",
-        "createdAt": "2024-11-20 11:11:21",
-        "user": {
-            "id": "13413591548892934957-mailru",
-            "nickname": "Shellena",
-            "booksCount": 459
         }
     }
 }
