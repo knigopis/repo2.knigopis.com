@@ -1,4 +1,16 @@
 {
+    "265treFxsu": {
+        "id": "265treFxsu",
+        "title": "«Советы по домоводству для наемного убийцы»",
+        "author": "Халльгрима Хельгасона",
+        "notes": "",
+        "createdAt": "2024-12-20 18:10:59",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 26
+        }
+    },
     "Lzb_4VCEva": {
         "id": "Lzb_4VCEva",
         "title": "Идеальный мир для лекаря 1-26",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 459
-        }
-    },
-    "O3CjYIMS32": {
-        "id": "O3CjYIMS32",
-        "title": "«Прислуга»",
-        "author": "Кэтрин Стокетт",
-        "notes": "",
-        "createdAt": "2024-11-20 08:05:08",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 19
         }
     }
 }
