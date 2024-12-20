@@ -1,4 +1,16 @@
 {
+    "MsluJnO3Bm": {
+        "id": "MsluJnO3Bm",
+        "title": "Убийства и кексики. Детективное агентство «Благотворительный магазин»",
+        "author": "Питер Боланд",
+        "notes": "",
+        "createdAt": "2024-12-20 18:19:54",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 28
+        }
+    },
     "Ma_RrxAn3j": {
         "id": "Ma_RrxAn3j",
         "title": "Дом в соснах",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 495
-        }
-    },
-    "5H3IVsJQU6": {
-        "id": "5H3IVsJQU6",
-        "title": "Нервный срыв",
-        "author": "Бернадетт Энн Перис",
-        "notes": "",
-        "createdAt": "2024-11-21 15:03:49",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 287
         }
     }
 }
