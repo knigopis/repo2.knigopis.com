@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105803270930838059244-google)<sup>5</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>29</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>499</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>401</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Книголикая](users/118/118445323552824972692-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>460</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>57</sup> 
-[](users/105/105803270930838059244-google)<sup>4</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>453</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 
 
-_22.12.2024 08:45:40_
+_22.12.2024 09:13:40_
