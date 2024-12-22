@@ -1,4 +1,16 @@
 {
+    "LLdvPnkhlw": {
+        "id": "LLdvPnkhlw",
+        "title": "«Дамский справочник пакостей»",
+        "author": "Мэнди Коллинз",
+        "notes": "",
+        "createdAt": "2024-12-22 08:45:40",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 29
+        }
+    },
     "MsluJnO3Bm": {
         "id": "MsluJnO3Bm",
         "title": "Убийства и кексики. Детективное агентство «Благотворительный магазин»",
@@ -345,18 +357,6 @@
             "id": "105803270930838059244-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "h4wIhIvdph": {
-        "id": "h4wIhIvdph",
-        "title": "Злодейка в пресветлый академи",
-        "author": "Крааш Кира",
-        "notes": "http://loveread.ec/view_global.php?id=109575\nВ истерику впадать рано, пока широкая грудь, на которой можно порыдать, не в состоянии принять на себя такой ценный груз.",
-        "createdAt": "2024-11-21 21:10:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 495
         }
     }
 }

@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>28</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>29</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>499</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>401</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>290</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 
 
-_20.12.2024 18:19:54_
+_22.12.2024 08:45:40_
