@@ -1,4 +1,16 @@
 {
+    "xW4tvCLvk7": {
+        "id": "xW4tvCLvk7",
+        "title": "Трое из Леса",
+        "author": "Юрий Никитин",
+        "notes": "",
+        "createdAt": "2024-12-24 22:03:27",
+        "user": {
+            "id": "105803270930838059244-google",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "7Sp68tU5o0": {
         "id": "7Sp68tU5o0",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 20
-        }
-    },
-    "qySKvBkMqL": {
-        "id": "qySKvBkMqL",
-        "title": "Тень за моим плечом",
-        "author": "Тимошенко Наталья",
-        "notes": "http://flibusta.site/b/642434/read",
-        "createdAt": "2024-11-25 19:40:38",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 496
         }
     }
 }
