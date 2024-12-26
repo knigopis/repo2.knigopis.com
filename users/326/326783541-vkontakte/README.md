@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>57</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>58</sup>
 ---
 
 ## 2024
+
+### Физика белка
+Финкельштейн
+> [2024-12-26] 
+
 
 ### Уровень шума (рассказ)
 > [2024-11-30] 
