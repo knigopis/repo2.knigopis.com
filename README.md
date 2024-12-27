@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Amorphis](users/111/111813311426128919318-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>58</sup> 
 [](users/105/105803270930838059244-google)<sup>10</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>29</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 [Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
-[seqquell](users/103/103098990387296691783-google)<sup>0</sup> 
 
 
-_26.12.2024 00:35:56_
+_27.12.2024 21:15:07_
