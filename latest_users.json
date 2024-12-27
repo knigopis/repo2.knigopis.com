@@ -1,4 +1,10 @@
 {
+    "111813311426128919318-google": {
+        "id": "111813311426128919318-google",
+        "nickname": "Amorphis",
+        "booksCount": 0,
+        "updatedAt": "2024-12-27 21:15:06"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 105,
         "updatedAt": "2024-07-27 07:07:51"
-    },
-    "103098990387296691783-google": {
-        "id": "103098990387296691783-google",
-        "nickname": "seqquell",
-        "booksCount": 0,
-        "updatedAt": "2024-07-25 10:18:09"
     }
 }
