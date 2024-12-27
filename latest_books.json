@@ -1,4 +1,16 @@
 {
+    "IHsgAsFf-w": {
+        "id": "IHsgAsFf-w",
+        "title": "",
+        "author": "Дин Кунц",
+        "notes": "",
+        "createdAt": "2024-12-27 21:15:37",
+        "user": {
+            "id": "111813311426128919318-google",
+            "nickname": "Amorphis",
+            "booksCount": 1
+        }
+    },
     "8tNj6kb8ua": {
         "id": "8tNj6kb8ua",
         "title": "Физика белка",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 288
-        }
-    },
-    "-u2w_CjAPl": {
-        "id": "-u2w_CjAPl",
-        "title": "Ловушка сбывшихся кошмаров. Секретное досье 11",
-        "author": "Тимошенко Наталь, Обухова Лена",
-        "notes": "http://flibusta.site/b/659599/read\nКонец серии",
-        "createdAt": "2024-11-29 18:54:27",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 497
         }
     }
 }
