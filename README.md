@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пригласи меня войти ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup>
+    > Невероятная нудятина, жалею о прочтении.
+
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>499</sup>
     > Начало серии. Пока интересно. Пока 26 книг 
     > https://searchfloor.org/search?authors=%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80,%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9A%D0%BE%D0%B2%D1%82%D1%83%D0%BD%D0%BE%D0%B2&series=%D0%9B%D0%B5%D0%BA%D0%B0%D1%80%D1%8C
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Пусть все горит ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup>
-    > Остановилась на 9 части из 33. Ужасная хрень.
 
 * Его темная целительница ~ [Chiffi](users/105/105831994080785626680-google)<sup>498</sup>
 
@@ -34,20 +36,18 @@ Do not use pull requests to make changes here.
 
 * Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
 
-* Рассказ Служанки ~ [aktoty](users/275/275766107-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup> 
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>58</sup> 
 [](users/105/105803270930838059244-google)<sup>10</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>29</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>499</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>401</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>290</sup> 
 [](users/537/5373417-vkontakte)<sup>0</sup> 
 [Книголикая](users/118/118445323552824972692-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>460</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 
 
-_27.12.2024 21:15:37_
+_30.12.2024 12:21:12_
