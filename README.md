@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Корни дуба. Впечатления и размышления об Англии и англичанах Книга ~ [lucius](users/113/113248293394986559131-google)<sup>162</sup>
+    > Отличный обзор на Англию и англичан. После прочтения многое становится ясным
+
 * Пригласи меня войти ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup>
     > Невероятная нудятина, жалею о прочтении.
 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > когда говоришь честно, пусть и не всю информацию, никто не заподозрит тебя во лжи.
 
 * Вскрытие покажет. Записки увлеченного судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>401</sup>
-    > Аудио
 
 * Пусть все горит ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Злодейка в пресветлый академи ~ [Chiffi](users/105/105831994080785626680-google)<sup>495</sup>
 
-* Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/113/113248293394986559131-google)<sup>162</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup> 
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>58</sup> 
@@ -61,7 +62,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 [](users/858/858967472-vkontakte)<sup>0</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
-[lucius](users/113/113248293394986559131-google)<sup>161</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 
 
-_30.12.2024 12:21:12_
+_01.01.2025 04:55:42_

@@ -1,4 +1,10 @@
 {
+    "113248293394986559131-google": {
+        "id": "113248293394986559131-google",
+        "nickname": "lucius",
+        "booksCount": 162,
+        "updatedAt": "2025-01-01 04:55:42"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -118,12 +124,6 @@
         "nickname": "KamilAkhmetov",
         "booksCount": 1,
         "updatedAt": "2024-09-01 11:20:43"
-    },
-    "113248293394986559131-google": {
-        "id": "113248293394986559131-google",
-        "nickname": "lucius",
-        "booksCount": 161,
-        "updatedAt": "2024-08-31 16:04:41"
     },
     "439398-vkontakte": {
         "id": "439398-vkontakte",
