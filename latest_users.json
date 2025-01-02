@@ -1,4 +1,10 @@
 {
+    "174598622-vkontakte": {
+        "id": "174598622-vkontakte",
+        "nickname": "zehan_v",
+        "booksCount": 30,
+        "updatedAt": "2025-01-02 09:20:13"
+    },
     "113248293394986559131-google": {
         "id": "113248293394986559131-google",
         "nickname": "lucius",
@@ -28,12 +34,6 @@
         "nickname": null,
         "booksCount": 10,
         "updatedAt": "2024-12-24 22:33:35"
-    },
-    "174598622-vkontakte": {
-        "id": "174598622-vkontakte",
-        "nickname": "zehan_v",
-        "booksCount": 29,
-        "updatedAt": "2024-12-22 08:45:40"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",

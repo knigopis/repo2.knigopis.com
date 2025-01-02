@@ -1,4 +1,16 @@
 {
+    "o_S8aYu0ur": {
+        "id": "o_S8aYu0ur",
+        "title": "Зажги свечу",
+        "author": "Мейв Бинчи",
+        "notes": "",
+        "createdAt": "2025-01-02 09:20:13",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 30
+        }
+    },
     "QGmU8N5QRE": {
         "id": "QGmU8N5QRE",
         "title": "Корни дуба. Впечатления и размышления об Англии и англичанах Книга",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 498
-        }
-    },
-    "5mXK8lOw7c": {
-        "id": "5mXK8lOw7c",
-        "title": "Уровень шума (рассказ)",
-        "author": "",
-        "notes": "",
-        "createdAt": "2024-12-01 19:12:02",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 57
         }
     }
 }

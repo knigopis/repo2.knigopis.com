@@ -41,12 +41,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>30</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>162</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup> 
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>58</sup> 
 [](users/105/105803270930838059244-google)<sup>10</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>29</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>499</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>401</sup> 
 [](users/537/5373417-vkontakte)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 
 
-_01.01.2025 04:55:42_
+_02.01.2025 09:20:13_
