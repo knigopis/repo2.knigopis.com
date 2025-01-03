@@ -1,4 +1,16 @@
 {
+    "Fepeo3Rxkz": {
+        "id": "Fepeo3Rxkz",
+        "title": "Маус",
+        "author": "Арт Шпигельман",
+        "notes": "",
+        "createdAt": "2025-01-03 10:27:44",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 461
+        }
+    },
     "o_S8aYu0ur": {
         "id": "o_S8aYu0ur",
         "title": "Зажги свечу",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 289
-        }
-    },
-    "bRumwZTlR1": {
-        "id": "bRumwZTlR1",
-        "title": "Его темная целительница",
-        "author": "Крааш Кира",
-        "notes": "я решила, что как настоящая леди буду игнорировать очевидное",
-        "createdAt": "2024-12-01 22:17:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 498
         }
     }
 }

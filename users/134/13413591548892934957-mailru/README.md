@@ -1,5 +1,13 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>460</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>461</sup>
 ---
+
+## 2025
+
+### Маус
+Арт Шпигельман
+> [2025-01-03] 
+
+
 
 ## 2024
 
