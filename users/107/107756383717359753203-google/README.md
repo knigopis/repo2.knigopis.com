@@ -1,7 +1,11 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>6</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>7</sup>
 ---
 
 ## 2024
+
+### Башня Ласточки
+А. Сапковский
+
 
 ### Час презрения
 А. Сапковский
