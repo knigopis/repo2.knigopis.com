@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>29</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>30</sup>
 ---
 
 ## 2025
@@ -119,6 +119,10 @@
 
 
 ## 2020
+
+### Зов Ктулху
+Г. Ф. Лавкрафт
+
 
 ### Пикник на обочине
 А. и Б. Стругацкие
