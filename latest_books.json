@@ -1,4 +1,16 @@
 {
+    "9CBBEuBBzL": {
+        "id": "9CBBEuBBzL",
+        "title": "Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2025-01-04 22:20:39",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "SBPcvFKAMO": {
         "id": "SBPcvFKAMO",
         "title": "Последнее желание",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 22
-        }
-    },
-    "sfHh0mc2k3": {
-        "id": "sfHh0mc2k3",
-        "title": "Тайный город. Запах страха",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-12-04 16:18:54",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 400
         }
     }
 }
