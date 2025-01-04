@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107756383717359753203-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>461</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>30</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>162</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 [Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>105</sup> 
 
 
-_03.01.2025 10:27:44_
+_04.01.2025 22:15:40_
