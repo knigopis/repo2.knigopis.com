@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>32</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>33</sup>
 ---
 
 ## 2025
@@ -80,6 +80,10 @@
 
 
 ## 2021
+
+### Священная книга оборотня
+В. Пелевин
+
 
 ### Чапаев и пустота
 В. Пелевин
