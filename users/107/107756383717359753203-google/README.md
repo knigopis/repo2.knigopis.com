@@ -1,7 +1,11 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>7</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>8</sup>
 ---
 
 ## 2024
+
+### Владычица озера
+А. Сапковский
+
 
 ### Башня Ласточки
 А. Сапковский
