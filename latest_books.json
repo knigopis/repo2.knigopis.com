@@ -1,4 +1,16 @@
 {
+    "xHWNMceXy4": {
+        "id": "xHWNMceXy4",
+        "title": "Меч предназначения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2025-01-04 22:19:39",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "bcp91XzFfz": {
         "id": "bcp91XzFfz",
         "title": "Голем",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 399
-        }
-    },
-    "zGm2rP0rZD": {
-        "id": "zGm2rP0rZD",
-        "title": "Тайный город. Царь горы",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-12-04 16:18:04",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 398
         }
     }
 }
