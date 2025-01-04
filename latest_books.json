@@ -1,4 +1,16 @@
 {
+    "H3Zgy0ktYk": {
+        "id": "H3Zgy0ktYk",
+        "title": "Под колесом",
+        "author": "Г. Гессе",
+        "notes": "",
+        "createdAt": "2025-01-04 22:39:16",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 26
+        }
+    },
     "i0bBSQC4Z2": {
         "id": "i0bBSQC4Z2",
         "title": "Росхальде",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 291
-        }
-    },
-    "IHsgAsFf-w": {
-        "id": "IHsgAsFf-w",
-        "title": "",
-        "author": "Дин Кунц",
-        "notes": "",
-        "createdAt": "2024-12-27 21:15:37",
-        "user": {
-            "id": "111813311426128919318-google",
-            "nickname": "Amorphis",
-            "booksCount": 1
         }
     }
 }
