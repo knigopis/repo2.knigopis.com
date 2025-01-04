@@ -1,4 +1,16 @@
 {
+    "MALW1oTBtQ": {
+        "id": "MALW1oTBtQ",
+        "title": "Записки судмедэксперта",
+        "author": "А. Ломачинский",
+        "notes": "",
+        "createdAt": "2025-01-04 22:42:19",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 29
+        }
+    },
     "cWZZaFS-UO": {
         "id": "cWZZaFS-UO",
         "title": "Луна и грош",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 461
-        }
-    },
-    "o_S8aYu0ur": {
-        "id": "o_S8aYu0ur",
-        "title": "Зажги свечу",
-        "author": "Мейв Бинчи",
-        "notes": "",
-        "createdAt": "2025-01-02 09:20:13",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 30
         }
     }
 }

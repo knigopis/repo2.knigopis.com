@@ -1,5 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>28</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>29</sup>
 ---
+
+## 2025
+
+### Записки судмедэксперта
+А. Ломачинский
+
+
 
 ## 2024
 
