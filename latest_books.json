@@ -1,4 +1,16 @@
 {
+    "36m0RIPlk4": {
+        "id": "36m0RIPlk4",
+        "title": "Час презрения",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2025-01-04 22:21:01",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "9CBBEuBBzL": {
         "id": "9CBBEuBBzL",
         "title": "Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 23
-        }
-    },
-    "suNyD2l8vL": {
-        "id": "suNyD2l8vL",
-        "title": "«Опасная игра бабули. Руководство по раскрытию собственного убийства»",
-        "author": "Кристен Перрин",
-        "notes": "",
-        "createdAt": "2024-12-07 18:09:18",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 22
         }
     }
 }

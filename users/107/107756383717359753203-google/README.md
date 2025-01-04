@@ -1,7 +1,11 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>5</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>6</sup>
 ---
 
 ## 2024
+
+### Час презрения
+А. Сапковский
+
 
 ### Кровь эльфов
 Анджей Сапковский
