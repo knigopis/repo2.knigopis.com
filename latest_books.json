@@ -1,4 +1,16 @@
 {
+    "0Pj4lorvhr": {
+        "id": "0Pj4lorvhr",
+        "title": "Процесс",
+        "author": "Ф. Кафка",
+        "notes": "",
+        "createdAt": "2025-01-04 22:35:00",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "R-MXybhCB7": {
         "id": "R-MXybhCB7",
         "title": "Узорный покров",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 29
-        }
-    },
-    "MsluJnO3Bm": {
-        "id": "MsluJnO3Bm",
-        "title": "Убийства и кексики. Детективное агентство «Благотворительный магазин»",
-        "author": "Питер Боланд",
-        "notes": "",
-        "createdAt": "2024-12-20 18:19:54",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 28
         }
     }
 }
