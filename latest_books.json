@@ -1,4 +1,16 @@
 {
+    "Bt0b6H81Sf": {
+        "id": "Bt0b6H81Sf",
+        "title": "Нарцисс и Златоуст",
+        "author": "Г. Гессе",
+        "notes": "",
+        "createdAt": "2025-01-04 22:39:44",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 27
+        }
+    },
     "H3Zgy0ktYk": {
         "id": "H3Zgy0ktYk",
         "title": "Под колесом",
@@ -345,18 +357,6 @@
             "id": "113248293394986559131-google",
             "nickname": "lucius",
             "booksCount": 162
-        }
-    },
-    "jh7SQWCb1Z": {
-        "id": "jh7SQWCb1Z",
-        "title": "Пригласи меня войти",
-        "author": "Дженнифер Макмахон",
-        "notes": "Невероятная нудятина, жалею о прочтении.",
-        "createdAt": "2024-12-30 12:21:12",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 291
         }
     }
 }
