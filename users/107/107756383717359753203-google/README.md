@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>27</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>28</sup>
 ---
 
 ## 2024
@@ -35,6 +35,10 @@
 
 
 ## 2023
+
+### Луна и грош
+С. Моэм
+
 
 ### Нарцисс и Златоуст
 Г. Гессе
