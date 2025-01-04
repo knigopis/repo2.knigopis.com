@@ -1,4 +1,16 @@
 {
+    "nR3zb2fBtu": {
+        "id": "nR3zb2fBtu",
+        "title": "Пикник на обочине",
+        "author": "А. и Б. Стругацкие",
+        "notes": "",
+        "createdAt": "2025-01-04 22:37:31",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "vOS4p3aM8Y": {
         "id": "vOS4p3aM8Y",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "105803270930838059244-google",
             "nickname": null,
             "booksCount": 8
-        }
-    },
-    "7Sp68tU5o0": {
-        "id": "7Sp68tU5o0",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2024-12-24 22:02:37",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }
