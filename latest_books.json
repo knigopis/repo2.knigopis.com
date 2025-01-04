@@ -1,4 +1,16 @@
 {
+    "ga50yrCk3e": {
+        "id": "ga50yrCk3e",
+        "title": "451° по Фаренгейту",
+        "author": "Рэй Бредбери",
+        "notes": "",
+        "createdAt": "2025-01-04 22:17:28",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "Fepeo3Rxkz": {
         "id": "Fepeo3Rxkz",
         "title": "Маус",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 397
-        }
-    },
-    "k-of1I5XKY": {
-        "id": "k-of1I5XKY",
-        "title": "Пусть все горит",
-        "author": "Уилл Дин",
-        "notes": "Остановилась на 9 части из 33. Ужасная хрень.",
-        "createdAt": "2024-12-03 19:27:41",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 289
         }
     }
 }
