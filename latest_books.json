@@ -1,4 +1,16 @@
 {
+    "LNE15I9FUt": {
+        "id": "LNE15I9FUt",
+        "title": "На Западном фронте без перемен",
+        "author": "Э.М. Ремарк",
+        "notes": "",
+        "createdAt": "2025-01-04 22:31:36",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "L1TWxUCQJ7": {
         "id": "L1TWxUCQJ7",
         "title": "Дары волхвов",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 401
-        }
-    },
-    "LEwjqH8XlY": {
-        "id": "LEwjqH8XlY",
-        "title": "Дурной сон Дэнни Кофлина",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2024-12-10 22:46:34",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 290
         }
     }
 }
