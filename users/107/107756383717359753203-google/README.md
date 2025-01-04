@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>40</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>41</sup>
 ---
 
 ## 2025
@@ -84,6 +84,10 @@
 
 
 ## 2021
+
+### Война и мир
+Л.Н. Толстой
+
 
 ### Недоросль
 Д. Фонвизин
