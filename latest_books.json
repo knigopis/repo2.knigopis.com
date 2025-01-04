@@ -1,4 +1,16 @@
 {
+    "mus19uTt0x": {
+        "id": "mus19uTt0x",
+        "title": "Прощай, оружие!",
+        "author": "Э. Хемингуэй",
+        "notes": "",
+        "createdAt": "2025-01-04 22:32:22",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "LNE15I9FUt": {
         "id": "LNE15I9FUt",
         "title": "На Западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 499
-        }
-    },
-    "M_dN4Mplj6": {
-        "id": "M_dN4Mplj6",
-        "title": "Вскрытие покажет. Записки увлеченного судмедэксперта",
-        "author": "Решетун Алексей",
-        "notes": "Аудио",
-        "createdAt": "2024-12-12 14:01:28",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 401
         }
     }
 }
