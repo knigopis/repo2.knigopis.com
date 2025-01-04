@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>31</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>32</sup>
 ---
 
 ## 2025
@@ -42,6 +42,10 @@
 
 
 ## 2023
+
+### Ампир V
+В. Пелевин
+
 
 ### Нарцисс и Златоуст
 Г. Гессе
