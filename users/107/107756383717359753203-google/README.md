@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>42</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>43</sup>
 ---
 
 ## 2025
@@ -61,6 +61,10 @@
 
 
 ## 2022
+
+### Голод
+К. Гамсун
+
 
 ### Т
 В. Пелевин
