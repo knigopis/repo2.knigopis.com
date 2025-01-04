@@ -1,4 +1,16 @@
 {
+    "i0bBSQC4Z2": {
+        "id": "i0bBSQC4Z2",
+        "title": "Росхальде",
+        "author": "Г. Гессе",
+        "notes": "",
+        "createdAt": "2025-01-04 22:38:58",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 25
+        }
+    },
     "H8bWYBJi7a": {
         "id": "H8bWYBJi7a",
         "title": "Демиан",
@@ -345,18 +357,6 @@
             "id": "111813311426128919318-google",
             "nickname": "Amorphis",
             "booksCount": 1
-        }
-    },
-    "8tNj6kb8ua": {
-        "id": "8tNj6kb8ua",
-        "title": "Физика белка",
-        "author": "Финкельштейн",
-        "notes": "",
-        "createdAt": "2024-12-26 00:35:56",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 58
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>24</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>25</sup>
 ---
 
 ## 2024
@@ -46,6 +46,10 @@
 
 
 ## 2022
+
+### Росхальде
+Г. Гессе
+
 
 ### Трудно быть богом
 А. и Б. Стругацкие
