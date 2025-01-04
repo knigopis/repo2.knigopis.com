@@ -1,4 +1,16 @@
 {
+    "bcp91XzFfz": {
+        "id": "bcp91XzFfz",
+        "title": "Голем",
+        "author": "Густав Майринк",
+        "notes": "",
+        "createdAt": "2025-01-04 22:18:26",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "ga50yrCk3e": {
         "id": "ga50yrCk3e",
         "title": "451° по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 398
-        }
-    },
-    "2T26F0u5di": {
-        "id": "2T26F0u5di",
-        "title": "Тайный город. Королевский крест",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2024-12-04 16:17:12",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 397
         }
     }
 }
