@@ -1,4 +1,16 @@
 {
+    "Nk7PHRVvAj": {
+        "id": "Nk7PHRVvAj",
+        "title": "Убить пересмешника",
+        "author": "Х. Ли",
+        "notes": "",
+        "createdAt": "2025-01-05 13:21:52",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 48
+        }
+    },
     "iXRXAoYGO3": {
         "id": "iXRXAoYGO3",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "vOS4p3aM8Y": {
-        "id": "vOS4p3aM8Y",
-        "title": "Трудно быть богом",
-        "author": "А. и Б. Стругацкие",
-        "notes": "",
-        "createdAt": "2025-01-04 22:36:56",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
