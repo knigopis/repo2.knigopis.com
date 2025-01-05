@@ -1,4 +1,16 @@
 {
+    "dml0pI__Yv": {
+        "id": "dml0pI__Yv",
+        "title": "Рождественские каникулы",
+        "author": "С. Моэм",
+        "notes": "",
+        "createdAt": "2025-01-05 13:17:17",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 45
+        }
+    },
     "hwXuutdt-0": {
         "id": "hwXuutdt-0",
         "title": "Тайные виды на гору Фудзи",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "0Pj4lorvhr": {
-        "id": "0Pj4lorvhr",
-        "title": "Процесс",
-        "author": "Ф. Кафка",
-        "notes": "",
-        "createdAt": "2025-01-04 22:35:00",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }
