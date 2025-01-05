@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>45</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>46</sup>
 ---
 
 ## 2024
@@ -39,6 +39,10 @@
 
 
 ## 2023
+
+### Острие бритвы
+С. Моэм
+
 
 ### Ампир V
 В. Пелевин

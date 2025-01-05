@@ -1,4 +1,16 @@
 {
+    "2ZdWBhAPlr": {
+        "id": "2ZdWBhAPlr",
+        "title": "Острие бритвы",
+        "author": "С. Моэм",
+        "notes": "",
+        "createdAt": "2025-01-05 13:18:05",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 46
+        }
+    },
     "dml0pI__Yv": {
         "id": "dml0pI__Yv",
         "title": "Рождественские каникулы",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 19
-        }
-    },
-    "nD1v47tso9": {
-        "id": "nD1v47tso9",
-        "title": "Превращение",
-        "author": "Ф. Кафка",
-        "notes": "",
-        "createdAt": "2025-01-04 22:35:27",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 18
         }
     }
 }
