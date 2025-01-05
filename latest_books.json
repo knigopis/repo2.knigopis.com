@@ -1,4 +1,16 @@
 {
+    "hwXuutdt-0": {
+        "id": "hwXuutdt-0",
+        "title": "Тайные виды на гору Фудзи",
+        "author": "В. Пелевин",
+        "notes": "",
+        "createdAt": "2025-01-05 13:14:36",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 44
+        }
+    },
     "ZWUJhZDctE": {
         "id": "ZWUJhZDctE",
         "title": "Март, октябрь, Мальва",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "R-MXybhCB7": {
-        "id": "R-MXybhCB7",
-        "title": "Узорный покров",
-        "author": "С. Моэм",
-        "notes": "",
-        "createdAt": "2025-01-04 22:34:13",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 16
         }
     }
 }
