@@ -1,4 +1,16 @@
 {
+    "E_SWNGmKgl": {
+        "id": "E_SWNGmKgl",
+        "title": "«Советы по домоводству для наемного убийцы»",
+        "author": "Халльгрима Хельгасона",
+        "notes": "",
+        "createdAt": "2025-01-07 08:39:50",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 32
+        }
+    },
     "rzfxcAVKqu": {
         "id": "rzfxcAVKqu",
         "title": "Жребий праведных грешниц",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 23
-        }
-    },
-    "rQF5maZSZe": {
-        "id": "rQF5maZSZe",
-        "title": "Сиддхартха",
-        "author": "Г. Гессе",
-        "notes": "",
-        "createdAt": "2025-01-04 22:38:10",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }
