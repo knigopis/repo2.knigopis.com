@@ -1,4 +1,16 @@
 {
+    "2SQnuIWUMr": {
+        "id": "2SQnuIWUMr",
+        "title": "«Медвежий угол»",
+        "author": "Бакман Фредерик",
+        "notes": "",
+        "createdAt": "2025-01-07 12:52:01",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 32
+        }
+    },
     "E_SWNGmKgl": {
         "id": "E_SWNGmKgl",
         "title": "«Советы по домоводству для наемного убийцы»",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 24
-        }
-    },
-    "B60xe-PJe0": {
-        "id": "B60xe-PJe0",
-        "title": "Степной волк",
-        "author": "Г. Гессе",
-        "notes": "",
-        "createdAt": "2025-01-04 22:38:29",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 23
         }
     }
 }
