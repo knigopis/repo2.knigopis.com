@@ -1,4 +1,4 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>32</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>31</sup>
 ---
 
 ## 2025
@@ -151,10 +151,6 @@
 ### «Медвежий угол»
 Бакман Фредерик
 > [2023-01] 
-
-
-### «Медвежий угол»
-Фредрик Бакман
 
 
 
