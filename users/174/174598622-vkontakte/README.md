@@ -1,4 +1,4 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>31</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>32</sup>
 ---
 
 ## 2025
@@ -147,6 +147,11 @@
 
 
 ## 2023
+
+### «Мы против вас»
+Бакман Фредерик
+> [2023-01] 
+
 
 ### «Медвежий угол»
 Бакман Фредерик

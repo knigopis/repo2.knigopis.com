@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>31</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>32</sup> 
 [](users/107/107756383717359753203-google)<sup>48</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>462</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>162</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
 
 
-_07.01.2025 12:52:20_
+_07.01.2025 12:53:07_
