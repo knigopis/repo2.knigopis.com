@@ -1,4 +1,16 @@
 {
+    "rzfxcAVKqu": {
+        "id": "rzfxcAVKqu",
+        "title": "Жребий праведных грешниц",
+        "author": "Наталья Нестерова",
+        "notes": "1. Сибиряки\n2. Стать огнем\n3. Возвращение\n4. Наследники",
+        "createdAt": "2025-01-07 08:22:44",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 31
+        }
+    },
     "Nk7PHRVvAj": {
         "id": "Nk7PHRVvAj",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 22
-        }
-    },
-    "nR3zb2fBtu": {
-        "id": "nR3zb2fBtu",
-        "title": "Пикник на обочине",
-        "author": "А. и Б. Стругацкие",
-        "notes": "",
-        "createdAt": "2025-01-04 22:37:31",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 21
         }
     }
 }
