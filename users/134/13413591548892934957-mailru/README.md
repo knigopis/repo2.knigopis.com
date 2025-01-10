@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>462</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>463</sup>
 ---
 
 ## 2025
+
+### Звери малой земли
+Чухе Ким
+> [2025-01-10] 
+
 
 ### Март, октябрь, Мальва
 Люба Макаревская
