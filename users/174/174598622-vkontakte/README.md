@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>32</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>33</sup>
 ---
 
 ## 2025
+
+### Утес чайки
+Шарлотта Лин
+> [2025-01-10] 
+
 
 ### Жребий праведных грешниц
 Наталья Нестерова
