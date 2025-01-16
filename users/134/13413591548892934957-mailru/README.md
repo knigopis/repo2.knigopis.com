@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>463</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>464</sup>
 ---
 
 ## 2025
+
+### Руки женщин моей семьи были не для письма
+Егана Джаббарова
+> [2025-01-16] 
+
 
 ### Звери малой земли
 Чухе Ким
