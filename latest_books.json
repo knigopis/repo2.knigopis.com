@@ -1,4 +1,16 @@
 {
+    "DH98O5lcn1": {
+        "id": "DH98O5lcn1",
+        "title": "Паутина противостояния (сборник)",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2025-01-18 19:47:27",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 402
+        }
+    },
     "5R3w1FRwjq": {
         "id": "5R3w1FRwjq",
         "title": "Руки женщин моей семьи были не для письма",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 30
-        }
-    },
-    "MALW1oTBtQ": {
-        "id": "MALW1oTBtQ",
-        "title": "Записки судмедэксперта",
-        "author": "А. Ломачинский",
-        "notes": "",
-        "createdAt": "2025-01-04 22:42:19",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 29
         }
     }
 }

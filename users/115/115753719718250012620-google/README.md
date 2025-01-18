@@ -1,5 +1,13 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>401</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>402</sup>
 ---
+
+## 2025
+
+### Паутина противостояния (сборник)
+Панов, Вадим
+> [2025-01-15] 
+
+
 
 ## 2024
 
