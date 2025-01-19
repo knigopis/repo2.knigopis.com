@@ -1,4 +1,16 @@
 {
+    "Fs6v6Ux58j": {
+        "id": "Fs6v6Ux58j",
+        "title": "Маленькая жизнь",
+        "author": "Янагихара Ханья",
+        "notes": "",
+        "createdAt": "2025-01-19 09:56:56",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 454
+        }
+    },
     "DH98O5lcn1": {
         "id": "DH98O5lcn1",
         "title": "Паутина противостояния (сборник)",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 31
-        }
-    },
-    "z8no0-Esql": {
-        "id": "z8no0-Esql",
-        "title": "Зов Ктулху",
-        "author": "Г. Ф. Лавкрафт",
-        "notes": "",
-        "createdAt": "2025-01-04 22:43:50",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 30
         }
     }
 }

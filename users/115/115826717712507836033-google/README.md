@@ -1,5 +1,13 @@
-# List of books read by Elixir<sup>453</sup>
+# List of books read by Elixir<sup>454</sup>
 ---
+
+## 2025
+
+### Маленькая жизнь
+Янагихара Ханья
+> [2025-01-19] 
+
+
 
 ## 2024
 
