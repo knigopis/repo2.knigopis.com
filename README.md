@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>34</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>35</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>454</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>402</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>464</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
 
 
-_20.01.2025 06:48:23_
+_20.01.2025 06:49:44_
