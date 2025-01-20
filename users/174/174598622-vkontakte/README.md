@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>33</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>34</sup>
 ---
 
 ## 2025
+
+### «Смерть по уик-эндам»
+А.К. Баантье
+> [2025-01-19] 
+
 
 ### Утес чайки
 Шарлотта Лин
