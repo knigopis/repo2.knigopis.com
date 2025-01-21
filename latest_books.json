@@ -1,4 +1,16 @@
 {
+    "V6oVTL7RkP": {
+        "id": "V6oVTL7RkP",
+        "title": "Нормальные люди",
+        "author": "Салли Руни",
+        "notes": "маленький ром ком",
+        "createdAt": "2025-01-21 19:54:24",
+        "user": {
+            "id": "115891840326495240870-google",
+            "nickname": "aktoty",
+            "booksCount": 99
+        }
+    },
     "6A9jFAXMqn": {
         "id": "6A9jFAXMqn",
         "title": "На каменной плите Книга, Фред Варгас",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 34
-        }
-    },
-    "brXwO1SSua": {
-        "id": "brXwO1SSua",
-        "title": "Священная книга оборотня",
-        "author": "В. Пелевин",
-        "notes": "",
-        "createdAt": "2025-01-04 22:45:45",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 33
         }
     }
 }
