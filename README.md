@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/115/115891840326495240870-google)<sup>0</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>35</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>454</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>402</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [justiceheart](users/404/40488888-vkontakte)<sup>7</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
-[Dumnin](users/103/103541795835665788358-google)<sup>1</sup> 
 
 
-_20.01.2025 06:49:44_
+_21.01.2025 14:46:04_
