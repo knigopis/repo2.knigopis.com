@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>35</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>36</sup>
 ---
 
 ## 2025
+
+### «Под скорбной луной»
+Карен Одден
+> [2025-01-21] 
+
 
 ### «Смерть по уик-эндам»
 А.К. Баантье
