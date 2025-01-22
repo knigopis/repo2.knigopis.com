@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
+    > Нудно, растянуто, бессмысленно, не интересно, с излишним внимание к женской груди. 0/10.
+
 * Жребий праведных грешниц ~ [zehan_v](users/174/174598622-vkontakte)<sup>31</sup>
     > 1. Сибиряки
     > 2. Стать огнем
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Отличный обзор на Англию и англичан. После прочтения многое становится ясным
 
 * Пригласи меня войти ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup>
-    > Невероятная нудятина, жалею о прочтении.
 
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>499</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
 
-* Тень за моим плечом ~ [Chiffi](users/105/105831994080785626680-google)<sup>496</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup> 
 [](users/105/105803270930838059244-google)<sup>10</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>99</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>35</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>464</sup> 
 [](users/107/107756383717359753203-google)<sup>48</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>162</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup> 
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>499</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 
 
-_21.01.2025 23:29:19_
+_22.01.2025 13:04:25_
