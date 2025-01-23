@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Красивый мальчик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup>
+    > 6/10
+
 * Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
     > Нудно, растянуто, бессмысленно, не интересно, с излишним внимание к женской груди. 0/10.
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > 4. Наследники
 
 * Корни дуба. Впечатления и размышления об Англии и англичанах Книга ~ [lucius](users/113/113248293394986559131-google)<sup>162</sup>
-    > Отличный обзор на Англию и англичан. После прочтения многое становится ясным
 
 * Пригласи меня войти ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup>
 
@@ -29,15 +31,13 @@ Do not use pull requests to make changes here.
 
 * Лес ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>288</sup>
 
-* Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>36</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup> 
 [](users/105/105803270930838059244-google)<sup>10</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>99</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>454</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 
 
-_22.01.2025 13:27:43_
+_23.01.2025 07:46:09_
