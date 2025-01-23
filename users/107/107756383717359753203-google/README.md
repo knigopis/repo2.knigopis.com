@@ -1,5 +1,13 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>48</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>49</sup>
 ---
+
+## 2025
+
+### Башня шутов
+Анджей Сапковский
+> [2025-01-22] 
+
+
 
 ## 2024
 

@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107756383717359753203-google)<sup>49</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>36</sup> 
 [](users/105/105803270930838059244-google)<sup>10</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>454</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>402</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>464</sup> 
-[](users/107/107756383717359753203-google)<sup>48</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>162</sup> 
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>58</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 
 
-_23.01.2025 07:46:09_
+_23.01.2025 16:11:37_
