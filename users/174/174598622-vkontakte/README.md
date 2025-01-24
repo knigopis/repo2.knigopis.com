@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>36</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>37</sup>
 ---
 
 ## 2025
+
+### Тайна пациента
+Лорет Энн Уай
+> [2025-01-24] 
+
 
 ### «Под скорбной луной»
 Карен Одден
