@@ -1,6 +1,9 @@
 # List of the latest books with notes
 ---
 
+* Навь. Цикл Русский бояръ
+
+ (6 книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>500</sup>
 * Красивый мальчик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup>
 * Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
 * Жребий праведных грешниц ~ [zehan_v](users/174/174598622-vkontakte)<sup>31</sup>
@@ -30,7 +33,6 @@
 * Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 * Великий и ужасный (шесть книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>487</sup>
 * Год крысы ~ [Chiffi](users/105/105831994080785626680-google)<sup>486</sup>
-* Пожарский 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>485</sup>
 
 
-_23.01.2025 07:46:09_
+_29.01.2025 21:23:06_
