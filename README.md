@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Скрытые картинки ~ [zehan_v](users/174/174598622-vkontakte)<sup>39</sup>
+    > Современная проза
+    > Джейсон Рекулик родился и вырос в Нью Джерси. Он администратор-издатель и креативный директор «Quirk Books», независимого издательства, опубликовавшего множество бестселлеров по версии «New York Times», в том числе открывшего знаменитый бестселлер «Дом странных детей мисс Перегрин»
+
 * «Да – тогда и сейчас». ~ [zehan_v](users/174/174598622-vkontakte)<sup>38</sup>
     > Мэри Бет Кин- американская писательница. Родилась в 1977 году в Бронксе, г. Нью-Йорк в семье ирландцев.
     > Семейная драма о нервном срыве и его последствиях
@@ -26,7 +30,6 @@ Do not use pull requests to make changes here.
     > Лучше перебдеть и передавить крыс волками, чем поставить против них обычных котов.
 
 * Красивый мальчик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup>
-    > 6/10
 
 * Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
 
@@ -40,14 +43,12 @@ Do not use pull requests to make changes here.
 
 * Вскрытие покажет. Записки увлеченного судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>401</sup>
 
-* Пусть все горит ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>38</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>500</sup> 
 [](users/107/107756383717359753203-google)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>403</sup> 
@@ -79,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 
 
-_30.01.2025 06:18:24_
+_30.01.2025 11:11:32_
