@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Да – тогда и сейчас». ~ [zehan_v](users/174/174598622-vkontakte)<sup>38</sup>
+    > Мэри Бет Кин- американская писательница. Родилась в 1977 году в Бронксе, г. Нью-Йорк в семье ирландцев.
+    > Семейная драма о нервном срыве и его последствиях
+
 * Навь. Цикл Русский бояръ
 
  (6 книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>500</sup>
@@ -25,7 +29,6 @@ Do not use pull requests to make changes here.
     > 6/10
 
 * Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
-    > Нудно, растянуто, бессмысленно, не интересно, с излишним внимание к женской груди. 0/10.
 
 * Жребий праведных грешниц ~ [zehan_v](users/174/174598622-vkontakte)<sup>31</sup>
 
@@ -39,16 +42,14 @@ Do not use pull requests to make changes here.
 
 * Пусть все горит ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>289</sup>
 
-* Его темная целительница ~ [Chiffi](users/105/105831994080785626680-google)<sup>498</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>38</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>500</sup> 
 [](users/107/107756383717359753203-google)<sup>50</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>37</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>403</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup> 
 [](users/105/105803270930838059244-google)<sup>10</sup> 
@@ -78,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Iry](users/116/116182444618955408830-google)<sup>0</sup> 
 
 
-_29.01.2025 21:23:06_
+_30.01.2025 06:18:24_
