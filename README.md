@@ -47,7 +47,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Carleutto](users/118/118270319028469737508-google)<sup>50</sup> 
+[Carleutto](users/118/118270319028469737508-google)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>501</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>39</sup> 
 [](users/107/107756383717359753203-google)<sup>50</sup> 
@@ -79,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Юлиания](users/693/69389439-vkontakte)<sup>26</sup> 
 
 
-_03.02.2025 12:06:21_
+_03.02.2025 12:06:53_
