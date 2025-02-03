@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>93</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>94</sup>
 ---
 
 ## 2024
+
+### Робинзон Крузо
+Даниэль Дефо
+> [2024-05] 
+
 
 ### Палата № 6
 Антон Чехов
