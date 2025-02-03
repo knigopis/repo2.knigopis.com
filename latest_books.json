@@ -1,4 +1,16 @@
 {
+    "TVfIf56B2l": {
+        "id": "TVfIf56B2l",
+        "title": "451° по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2025-02-03 11:52:30",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 24
+        }
+    },
     "PZvQHxc7Bs": {
         "id": "PZvQHxc7Bs",
         "title": "Души",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 37
-        }
-    },
-    "0t-F48-fyk": {
-        "id": "0t-F48-fyk",
-        "title": "Тайный город. Головокружение",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2025-01-23 17:11:54",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 403
         }
     }
 }
