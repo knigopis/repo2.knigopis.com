@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>97</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>98</sup>
 ---
 
 ## 2024
+
+### Вскрытие покажет: Записки увлеченного судмедэксперта
+Алексей Решетун
+> [2024-09] 
+
 
 ### Малая Глуша
 Мария Галина
