@@ -5,7 +5,7 @@
 
 ### Огненный перст
 Борис Акунин
-> [2022-12] https://www.livelib.ru/book/1004614123-kompromiss-sergej-dovlatov
+> [2022-12] 
 
 
 ### Князь Клюква
