@@ -1,4 +1,16 @@
 {
+    "Jgu2hmXRkA": {
+        "id": "Jgu2hmXRkA",
+        "title": "Хроники странствующего кота",
+        "author": "Хиро Арикава",
+        "notes": "",
+        "createdAt": "2025-02-03 11:50:09",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 15
+        }
+    },
     "EZkC6zfGNc": {
         "id": "EZkC6zfGNc",
         "title": "Девочка, которая любила Тома Гордона",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 454
-        }
-    },
-    "DH98O5lcn1": {
-        "id": "DH98O5lcn1",
-        "title": "Паутина противостояния (сборник)",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2025-01-18 19:47:27",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 402
         }
     }
 }

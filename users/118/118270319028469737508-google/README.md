@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>14</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>15</sup>
 ---
 
 ## 2021
+
+### Хроники странствующего кота
+Хиро Арикава
+> [2021-12] 
+
 
 ### Девочка, которая любила Тома Гордона
 Стивен Кинг
