@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>58</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>59</sup>
 ---
 
 ## 2023
+
+### Черный обелиск
+Эрих Мария Ремарк
+> [2023-04] 
+
 
 ### Пищеблок
 Алексей Иванов
