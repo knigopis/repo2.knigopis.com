@@ -1,5 +1,13 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>51</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>52</sup>
 ---
+
+## 2023
+
+### Чёрный, как тайна, синий, как смерть
+Елена Бриолле
+> [2023-01] 
+
+
 
 ## 2022
 
