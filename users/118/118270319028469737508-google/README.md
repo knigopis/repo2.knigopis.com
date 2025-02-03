@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>103</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>104</sup>
 ---
 
 ## 2024
+
+### Лестница ведьм
+Наталья Тимошенко, Лена Обухова
+> [2024-09] 
+
 
 ### Тишина старого кладбища
 Наталья Тимошенко, Лена Обухова
