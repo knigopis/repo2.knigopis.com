@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>33</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>34</sup>
 ---
 
 ## 2022
+
+### Подсказчик
+Донато Карризи
+> [2022-06] 
+
 
 ### Чумной остров
 Мари Хермансон
