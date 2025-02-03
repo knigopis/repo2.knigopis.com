@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>59</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>60</sup>
 ---
 
 ## 2023
+
+### Кошачья голова
+Татьяна Мастрюкова
+> [2023-05] 
+
 
 ### Черный обелиск
 Эрих Мария Ремарк
