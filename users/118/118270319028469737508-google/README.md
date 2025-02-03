@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>47</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>48</sup>
 ---
 
 ## 2022
+
+### Кладбищенские истории
+Борис Акунин
+> [2022-11] 
+
 
 ### Вдовий плат
 Борис Акунин
