@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>106</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>107</sup>
 ---
 
 ## 2024
+
+### Грабитель с детским зонтиком
+Арм Коста
+> [2024-09] 
+
 
 ### Любимчик Эпохи
 Катя Качур
