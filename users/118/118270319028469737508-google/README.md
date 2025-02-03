@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>55</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>56</sup>
 ---
 
 ## 2023
+
+### Собачья смерть
+Борис Акунин, Григорий Чхартишвили
+> [2023-02] 
+
 
 ### Севастопольские рассказы
 Лев Толстой
