@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>65</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>66</sup>
 ---
 
 ## 2023
+
+### Чокнутые
+Владимир Кунин
+> [2023-06] 
+
 
 ### Зона
 Сергей Довлатов
