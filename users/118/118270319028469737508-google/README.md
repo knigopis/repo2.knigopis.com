@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>81</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>82</sup>
 ---
 
 ## 2024
+
+### Путешествие с дикими гусями
+Татьяна Русуберг
+> [2024-03] 
+
 
 ### Дубровский
 Александр Пушкин
