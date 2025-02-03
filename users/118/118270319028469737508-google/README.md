@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>101</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>102</sup>
 ---
 
 ## 2024
+
+### Легенды древнего озера
+Наталья Тимошенко, Лена Обухова
+> [2024-09] 
+
 
 ### Город мертвых отражений
 Наталья Тимошенко, Лена Обухова
