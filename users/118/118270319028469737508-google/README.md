@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>32</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>33</sup>
 ---
 
 ## 2022
+
+### Чумной остров
+Мари Хермансон
+> [2022-05] 
+
 
 ### «Магазин снов» мистера Талергута
 Мие Ли
