@@ -1,4 +1,16 @@
 {
+    "taWcp3Z3H6": {
+        "id": "taWcp3Z3H6",
+        "title": "Эмпайр Фоллз",
+        "author": "Ричард Руссо",
+        "notes": "",
+        "createdAt": "2025-02-03 11:51:29",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 20
+        }
+    },
     "jmUZ4mAeO-": {
         "id": "jmUZ4mAeO-",
         "title": "Вкус дыма",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 36
-        }
-    },
-    "C2WWck-m9C": {
-        "id": "C2WWck-m9C",
-        "title": "Зимние призраки",
-        "author": "Дэн Симмонс",
-        "notes": "Нудно, растянуто, бессмысленно, не интересно, с излишним внимание к женской груди. 0/10.",
-        "createdAt": "2025-01-22 13:04:25",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 292
         }
     }
 }
