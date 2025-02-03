@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>464</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>465</sup>
 ---
 
 ## 2025
+
+### Лекарство для империи. История Российского государства. Царь-освободитель и царь-миротворец
+Борис Акунин
+> [2025-02-04] 
+
 
 ### Руки женщин моей семьи были не для письма
 Егана Джаббарова
