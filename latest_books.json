@@ -1,4 +1,16 @@
 {
+    "gyVPYN7ogu": {
+        "id": "gyVPYN7ogu",
+        "title": "Коронация, или Последний из романов",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2025-02-03 12:39:14",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 78
+        }
+    },
     "snTX8J3UB7": {
         "id": "snTX8J3UB7",
         "title": "Статский советник",
@@ -345,18 +357,6 @@
             "id": "118270319028469737508-google",
             "nickname": "Carleutto",
             "booksCount": 48
-        }
-    },
-    "y9Uesnd-UZ": {
-        "id": "y9Uesnd-UZ",
-        "title": "Вдовий плат",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2025-02-03 12:05:43",
-        "user": {
-            "id": "118270319028469737508-google",
-            "nickname": "Carleutto",
-            "booksCount": 47
         }
     }
 }
