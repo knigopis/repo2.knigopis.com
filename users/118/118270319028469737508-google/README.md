@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>71</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>72</sup>
 ---
 
 ## 2023
+
+### На войне как на войне
+Виктор Курочкин
+> [2023-10] 
+
 
 ### Авиатор
 Евгений Водолазкин
