@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>24</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>25</sup>
 ---
 
 ## 2022
+
+### Скотный двор
+Джордж Оруэлл
+> [2022-03] 
+
 
 ### 451° по Фаренгейту
 Рэй Брэдбери
