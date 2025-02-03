@@ -1,4 +1,16 @@
 {
+    "slCyMq361J": {
+        "id": "slCyMq361J",
+        "title": "Аспект дьявола",
+        "author": "Крейг Расселл",
+        "notes": "",
+        "createdAt": "2025-02-03 11:50:42",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 17
+        }
+    },
     "lhoujH6lVZ": {
         "id": "lhoujH6lVZ",
         "title": "Вторая жизнь Уве",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 35
-        }
-    },
-    "VR_wWATCx-": {
-        "id": "VR_wWATCx-",
-        "title": "«Смерть по уик-эндам»",
-        "author": "А.К. Баантье",
-        "notes": "",
-        "createdAt": "2025-01-20 06:48:23",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 34
         }
     }
 }

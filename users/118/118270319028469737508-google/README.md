@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>16</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>17</sup>
 ---
 
 ## 2022
+
+### Аспект дьявола
+Крейг Расселл
+> [2022-01] 
+
 
 ### Вторая жизнь Уве
 Фредрик Бакман
