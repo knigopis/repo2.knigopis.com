@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>27</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>28</sup>
 ---
 
 ## 2022
+
+### Ученица. Предать, чтобы обрести себя
+Тара Вестовер
+> [2022-04] 
+
 
 ### Зулейха открывает глаза
 Гузель Яхина
