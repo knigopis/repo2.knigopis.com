@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>13</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>14</sup>
 ---
 
 ## 2021
+
+### Девочка, которая любила Тома Гордона
+Стивен Кинг
+> [2021-12] 
+
 
 ### Цветы для Элджернона
 Дэниел Киз
