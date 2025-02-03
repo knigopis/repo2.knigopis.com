@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>8</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>9</sup>
 ---
 
 ## 2021
+
+### Мизери
+Стивен Кинг
+> [2021-11] 
+
 
 ### Над кукушкиным гнездом
 Кен Кизи
