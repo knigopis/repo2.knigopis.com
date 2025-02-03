@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>18</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>19</sup>
 ---
 
 ## 2022
+
+### Вкус дыма
+Ханна Кент
+> [2022-01] 
+
 
 ### Элегантность ежика
 Мюриель Барбери
