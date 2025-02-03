@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>95</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>96</sup>
 ---
 
 ## 2024
+
+### Последний день лета
+Андрей Подшибякин
+> [2024-07] 
+
 
 ### Собака Баскервилей
 Артур Конан Дойл
