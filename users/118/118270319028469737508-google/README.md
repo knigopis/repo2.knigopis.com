@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>42</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>43</sup>
 ---
 
 ## 2022
+
+### Машина времени. Рассказы (сборник)
+Герберт Уэллс
+> [2022-08] 
+
 
 ### Машина времени
 Герберт Уэллс
