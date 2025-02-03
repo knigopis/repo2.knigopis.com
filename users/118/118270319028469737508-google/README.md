@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>109</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>110</sup>
 ---
 
 ## 2024
+
+### Метель
+Владимир Сорокин
+> [2024-10] 
+
 
 ### Кремулятор
 Саша Филипенко
