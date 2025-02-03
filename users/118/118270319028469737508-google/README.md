@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>86</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>87</sup>
 ---
 
 ## 2024
+
+### Машенька
+Владимир Набоков
+> [2024-04] 
+
 
 ### Собачье сердце
 Михаил Булгаков
