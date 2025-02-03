@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>72</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>73</sup>
 ---
 
 ## 2023
+
+### Азазель
+Борис Акунин
+> [2023-10] 
+
 
 ### На войне как на войне
 Виктор Курочкин
