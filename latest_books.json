@@ -1,4 +1,16 @@
 {
+    "HraaTpIPYi": {
+        "id": "HraaTpIPYi",
+        "title": "Элеанор Олифант в полном порядке",
+        "author": "Гейл Ханимен",
+        "notes": "",
+        "createdAt": "2025-02-03 11:52:03",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 22
+        }
+    },
     "bRMnKMFnBj": {
         "id": "bRMnKMFnBj",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 49
-        }
-    },
-    "C4Lnsr7lS_": {
-        "id": "C4Lnsr7lS_",
-        "title": "Красивый мальчик",
-        "author": "Дэвид Шефф",
-        "notes": "6/10",
-        "createdAt": "2025-01-23 07:46:08",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 293
         }
     }
 }
