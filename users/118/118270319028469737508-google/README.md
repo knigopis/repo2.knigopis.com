@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>43</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>44</sup>
 ---
 
 ## 2022
+
+### Пища богов
+Герберт Уэллс
+> [2022-09] 
+
 
 ### Машина времени. Рассказы (сборник)
 Герберт Уэллс
