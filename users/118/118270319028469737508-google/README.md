@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>44</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>45</sup>
 ---
 
 ## 2022
+
+### Он уходя спросил
+Борис Акунин
+> [2022-10] 
+
 
 ### Пища богов
 Герберт Уэллс
