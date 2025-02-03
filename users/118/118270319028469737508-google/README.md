@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>83</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>84</sup>
 ---
 
 ## 2024
+
+### Скоро конец света
+Микита Франко
+> [2024-04] 
+
 
 ### День опричника
 Владимир Сорокин
