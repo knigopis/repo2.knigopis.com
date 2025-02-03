@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>125</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>126</sup>
 ---
 
 ## 2025
+
+### Джейн Эйр
+Шарлотта Бронте
+> [2025-01] 
+
 
 ### Хроника гнусных времен
 Татьяна Устинова
