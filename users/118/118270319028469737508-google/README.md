@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>67</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>68</sup>
 ---
 
 ## 2023
+
+### Дом алфавита
+Юсси Адлер-Ольсен
+> [2023-06] 
+
 
 ### Зона
 Сергей Довлатов
