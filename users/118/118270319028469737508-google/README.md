@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>53</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>54</sup>
 ---
 
 ## 2023
+
+### Зелёная миля
+Стивен Кинг
+> [2023-01] 
+
 
 ### Долорес Клейборн
 Стивен Кинг
