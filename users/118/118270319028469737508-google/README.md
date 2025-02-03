@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>78</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>79</sup>
 ---
 
 ## 2024
+
+### Петровы в гриппе и вокруг него
+Алексей Сальников
+> [2024-02] 
+
 
 ### Коронация, или Последний из романов
 Борис Акунин
