@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>96</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>97</sup>
 ---
 
 ## 2024
+
+### Малая Глуша
+Мария Галина
+> [2024-09] 
+
 
 ### Последний день лета
 Андрей Подшибякин
