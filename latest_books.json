@@ -1,4 +1,16 @@
 {
+    "N73g6u7qea": {
+        "id": "N73g6u7qea",
+        "title": "Похороните меня за плинтусом",
+        "author": "Павел Санаев",
+        "notes": "",
+        "createdAt": "2025-02-03 11:52:55",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 26
+        }
+    },
     "Ie9pltbm8_": {
         "id": "Ie9pltbm8_",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 500
-        }
-    },
-    "HNJcwAUt9w": {
-        "id": "HNJcwAUt9w",
-        "title": "Жутко громко и запредельно близко",
-        "author": "Джонатан Сафран Фоер",
-        "notes": "",
-        "createdAt": "2025-01-28 14:58:01",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 50
         }
     }
 }
