@@ -1,4 +1,16 @@
 {
+    "biBAYn-REb": {
+        "id": "biBAYn-REb",
+        "title": "Город. Штурм Грозного глазами лейтенанта спецназа",
+        "author": "Андрей Загорцев",
+        "notes": "",
+        "createdAt": "2025-02-03 13:00:04",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 115
+        }
+    },
     "aLoolzGqM4": {
         "id": "aLoolzGqM4",
         "title": "Чапаев и Пустота",
@@ -345,18 +357,6 @@
             "id": "118270319028469737508-google",
             "nickname": "Carleutto",
             "booksCount": 86
-        }
-    },
-    "fkfRK2GKZy": {
-        "id": "fkfRK2GKZy",
-        "title": "Завтра была война",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2025-02-03 12:45:08",
-        "user": {
-            "id": "118270319028469737508-google",
-            "nickname": "Carleutto",
-            "booksCount": 85
         }
     }
 }
