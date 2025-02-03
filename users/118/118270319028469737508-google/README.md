@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>34</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>35</sup>
 ---
 
 ## 2022
+
+### Мальчик в полосатой пижаме
+Джон Бойн
+> [2022-06] 
+
 
 ### Подсказчик
 Донато Карризи
