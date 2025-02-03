@@ -1,4 +1,16 @@
 {
+    "9O1WAdgy1h": {
+        "id": "9O1WAdgy1h",
+        "title": "Роковые яйца",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2025-02-03 10:55:37",
+        "user": {
+            "id": "118270319028469737508-google",
+            "nickname": "Carleutto",
+            "booksCount": 6
+        }
+    },
     "H1Gb6CTJvX": {
         "id": "H1Gb6CTJvX",
         "title": "Записки на манжетах.",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 31
-        }
-    },
-    "Nk7PHRVvAj": {
-        "id": "Nk7PHRVvAj",
-        "title": "Убить пересмешника",
-        "author": "Х. Ли",
-        "notes": "",
-        "createdAt": "2025-01-05 13:21:52",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 48
         }
     }
 }
