@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>117</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>118</sup>
 ---
 
 ## 2024
+
+### Мартин Иден
+Джек Лондон
+> [2024-10] 
+
 
 ### А зори здесь тихие...
 Борис Васильев
