@@ -1,7 +1,12 @@
-# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>60</sup>
+# List of books read by [Carleutto](https://plus.google.com/u/0/118270319028469737508/)<sup>61</sup>
 ---
 
 ## 2023
+
+### Семь смертей Эвелины Хардкасл
+Стюарт Тёртон
+> [2023-05] 
+
 
 ### Кошачья голова
 Татьяна Мастрюкова
