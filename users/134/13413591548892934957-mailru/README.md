@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>465</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>466</sup>
 ---
 
 ## 2025
+
+### День опричника
+Владимир Сорокин
+> [2025-02-05] 
+
 
 ### Лекарство для империи. История Российского государства. Царь-освободитель и царь-миротворец
 Борис Акунин
