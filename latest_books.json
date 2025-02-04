@@ -1,4 +1,16 @@
 {
+    "f0kiAubS6_": {
+        "id": "f0kiAubS6_",
+        "title": "Дочь фортуны",
+        "author": "Исабель Альенде",
+        "notes": "",
+        "createdAt": "2025-02-04 17:25:03",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 40
+        }
+    },
     "CIX2JFcdsL": {
         "id": "CIX2JFcdsL",
         "title": "Лекарство для империи. История Российского государства. Царь-освободитель и царь-миротворец",
@@ -345,18 +357,6 @@
             "id": "118270319028469737508-google",
             "nickname": "Carleutto",
             "booksCount": 98
-        }
-    },
-    "U68LeMIcp9": {
-        "id": "U68LeMIcp9",
-        "title": "Малая Глуша",
-        "author": "Мария Галина",
-        "notes": "",
-        "createdAt": "2025-02-03 12:52:08",
-        "user": {
-            "id": "118270319028469737508-google",
-            "nickname": "Carleutto",
-            "booksCount": 97
         }
     }
 }

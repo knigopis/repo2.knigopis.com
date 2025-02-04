@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>39</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>40</sup>
 ---
 
 ## 2025
+
+### Дочь фортуны
+Исабель Альенде
+> [2025-02-03] 
+
 
 ### «Да – тогда и сейчас».
 Мэри Бет Кин
