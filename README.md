@@ -47,6 +47,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Акс](users/105/105584644059159770670-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>466</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>40</sup> 
 [евгения](users/108/108327816194861875647-google)<sup>0</sup> 
@@ -76,7 +77,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 [maribed](users/254/25457836-vkontakte)<sup>0</sup> 
-[justiceheart](users/404/40488888-vkontakte)<sup>7</sup> 
 
 
-_04.02.2025 20:37:07_
+_05.02.2025 11:26:36_
