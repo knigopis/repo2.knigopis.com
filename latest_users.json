@@ -1,4 +1,10 @@
 {
+    "105584644059159770670-google": {
+        "id": "105584644059159770670-google",
+        "nickname": "Акс",
+        "booksCount": 0,
+        "updatedAt": "2025-02-05 11:26:36"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "maribed",
         "booksCount": 0,
         "updatedAt": "2024-08-19 14:45:22"
-    },
-    "40488888-vkontakte": {
-        "id": "40488888-vkontakte",
-        "nickname": "justiceheart",
-        "booksCount": 7,
-        "updatedAt": "2024-08-19 08:39:14"
     }
 }
