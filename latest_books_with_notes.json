@@ -1,4 +1,16 @@
 {
+    "rMpuZDQ7EQ": {
+        "id": "rMpuZDQ7EQ",
+        "title": "Жена башмачника",
+        "author": "Адриан Трижиани.",
+        "notes": "История двух итальянцев, перебравшихся в начале прошлого века из горной деревушки в Нью Йорк. События начинаются, когда главные герои еще дети и охватят всю историю их жизни.",
+        "createdAt": "2025-02-06 09:26:11",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 41
+        }
+    },
     "ZS_5QGNIlO": {
         "id": "ZS_5QGNIlO",
         "title": "Идеальный мир для лекаря 1-26",
@@ -345,18 +357,6 @@
             "id": "6069210-vkontakte",
             "nickname": "dobrova",
             "booksCount": 9
-        }
-    },
-    "MLiKVfkn8E": {
-        "id": "MLiKVfkn8E",
-        "title": "Невеста-самозванка",
-        "author": "Флат Екатерина",
-        "notes": "Лучше  плохо решaть свои проблемы, чем хорошо чужие\nhttps://readli.net/nevesta-samozvanka-2/",
-        "createdAt": "2024-09-18 20:21:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 488
         }
     }
 }

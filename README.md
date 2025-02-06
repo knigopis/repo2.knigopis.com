@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
+    > История двух итальянцев, перебравшихся в начале прошлого века из горной деревушки в Нью Йорк. События начинаются, когда главные герои еще дети и охватят всю историю их жизни.
+
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
     > https://searchfloor.org/search/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B8%D1%80%20%D0%B4%D0%BB%D1%8F%20%D0%9B%D0%B5%D0%BA%D0%B0%D1%80%D1%8F
     > — Мужики, а вы контракты свои вообще читали? 
@@ -23,8 +26,6 @@ Do not use pull requests to make changes here.
     > Джейсон Рекулик родился и вырос в Нью Джерси. Он администратор-издатель и креативный директор «Quirk Books», независимого издательства, опубликовавшего множество бестселлеров по версии «New York Times», в том числе открывшего знаменитый бестселлер «Дом странных детей мисс Перегрин»
 
 * «Да – тогда и сейчас». ~ [zehan_v](users/174/174598622-vkontakte)<sup>38</sup>
-    > Мэри Бет Кин- американская писательница. Родилась в 1977 году в Бронксе, г. Нью-Йорк в семье ирландцев.
-    > Семейная драма о нервном срыве и его последствиях
 
 * Навь. Цикл Русский бояръ
 
@@ -40,16 +41,14 @@ Do not use pull requests to make changes here.
 
 * Пригласи меня войти ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup>
 
-* Вскрытие покажет. Записки увлеченного судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>401</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>41</sup> 
 [Акс](users/105/105584644059159770670-google)<sup>1</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>466</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>40</sup> 
 [евгения](users/108/108327816194861875647-google)<sup>0</sup> 
 [Carleutto](users/118/118270319028469737508-google)<sup>129</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>501</sup> 
@@ -79,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [maribed](users/254/25457836-vkontakte)<sup>0</sup> 
 
 
-_05.02.2025 11:29:27_
+_06.02.2025 09:26:11_

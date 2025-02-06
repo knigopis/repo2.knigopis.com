@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
 * Скрытые картинки ~ [zehan_v](users/174/174598622-vkontakte)<sup>39</sup>
 * «Да – тогда и сейчас». ~ [zehan_v](users/174/174598622-vkontakte)<sup>38</sup>
@@ -32,7 +33,6 @@
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
 * Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 * √Жизнь. Математика как способ стать счастливее и жить дольше ~ [dobrova](users/606/6069210-vkontakte)<sup>9</sup>
-* Невеста-самозванка ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 
 
-_03.02.2025 06:48:30_
+_06.02.2025 09:26:11_
