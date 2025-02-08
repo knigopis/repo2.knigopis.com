@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>454</sup>
+# List of books read by Elixir<sup>455</sup>
 ---
 
 ## 2025
@@ -6,6 +6,10 @@
 ### Маленькая жизнь
 Янагихара Ханья
 > [2025-01-19] 
+
+
+### День опричника
+Сорокин Владимир
 
 
 
