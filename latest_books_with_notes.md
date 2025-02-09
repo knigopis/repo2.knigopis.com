@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дом на краю ночи ~ [zehan_v](users/174/174598622-vkontakte)<sup>42</sup>
 * Добрый человек ~ [Chiffi](users/105/105831994080785626680-google)<sup>502</sup>
 * Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
@@ -32,7 +33,6 @@
 * Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
 * Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
 * Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
-* Трон знания ~ [Chiffi](users/105/105831994080785626680-google)<sup>488</sup>
 
 
-_08.02.2025 20:44:16_
+_09.02.2025 08:48:39_
