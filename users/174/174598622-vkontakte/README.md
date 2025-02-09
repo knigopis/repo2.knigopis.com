@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>42</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>43</sup>
 ---
 
 ## 2025
+
+### Дом на краю темноты
+Райли Сейгер
+> [2025-02-08] 
+
 
 ### Дочь фортуны
 Исабель Альенде
