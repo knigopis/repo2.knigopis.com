@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нас здесь не было. Холодный мир и Золотой код ~ [Chiffi](users/105/105831994080785626680-google)<sup>503</sup>
 * Дом на краю ночи ~ [zehan_v](users/174/174598622-vkontakte)<sup>42</sup>
 * Добрый человек ~ [Chiffi](users/105/105831994080785626680-google)<sup>502</sup>
 * Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
@@ -32,7 +33,6 @@
 * Академия Ранмарн ~ [Chiffi](users/105/105831994080785626680-google)<sup>489</sup>
 * Большая маленькая ложь ~ [Garka](users/115/115753719718250012620-google)<sup>396</sup>
 * Тайный город. Правила крови ~ [Garka](users/115/115753719718250012620-google)<sup>395</sup>
-* Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms ~ [exulted](users/100/100599204551896265722-google)<sup>236</sup>
 
 
-_09.02.2025 08:48:39_
+_12.02.2025 21:09:22_
