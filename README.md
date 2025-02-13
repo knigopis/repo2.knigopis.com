@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
+    > Ирландская писательница и журналистка Мейв Бинчи (1940-2012)
+    > Кэти и Том подружились в кулинарном колледже и теперь надеются покорить Дублин, создав кейтеринговую компанию "Алое перо".
+
 * Нас здесь не было. Холодный мир и Золотой код ~ [Chiffi](users/105/105831994080785626680-google)<sup>503</sup>
     > Интересно, но не окончено((
     > http://flibusta.site/b/422301/read
@@ -18,9 +22,6 @@ Do not use pull requests to make changes here.
     > Сага о четырёх поколениях охватывает столетие, раскрывая перед читателем жизнь и быт крошечного итальянского островка со всеми радостями и невзгодами, которые выпадают на судьбу героев.
 
 * Добрый человек ~ [Chiffi](users/105/105831994080785626680-google)<sup>502</sup>
-    > http://flibusta.site/b/785717/read
-    > физика, как точная наука утверждает, что работа на замкнутой траектории равна нулю и не имеет смысла. 
-    > будем основательно, кропотливо и вдумчиво, максимально используя логику и повышенную усидчивость. Стандартный и универсальный метод всех ботанов при отсутствии творческих способностей к чему-либо.
 
 * Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
 
@@ -36,16 +37,14 @@ Do not use pull requests to make changes here.
 
 * Красивый мальчик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup>
 
-* Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>44</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>503</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>59</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>43</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>455</sup> 
 [](users/105/105803270930838059244-google)<sup>11</sup> 
@@ -75,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_12.02.2025 21:09:22_
+_13.02.2025 07:39:22_
