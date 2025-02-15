@@ -1,7 +1,13 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>466</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>467</sup>
 ---
 
 ## 2025
+
+### А вдруг?..
+Тревога: как она управляет нами, а мы – ею
+Роланд Паульсен
+> [2025-02-15] 
+
 
 ### День опричника
 Владимир Сорокин
