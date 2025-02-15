@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
+    > На седьмой день и Господь отдыхал. А вы что, лучше, что ли?
+    > Бог помогает тем, кто сам шевелится
+    > http://flibusta.site/b/772259/read
+
 * Приручитель женщин-монстров 15 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>504</sup>
     > http://flibusta.site/b/788632
     > https://flibusta.site/s/92367
@@ -17,8 +22,6 @@ Do not use pull requests to make changes here.
     > Эльма приезжает из Рейкьявика в прибрежный Акранес, ее родной исландский городок с гнетущей атмосферой, чтобы разобраться в своей жизни. Едва она устраивается на работу следователем, как ей приходится столкнуться с ужасным делом: в районе заброшенного маяка подростки находят труп женщины. Самоубийство или убийство? Вскоре выясняется, что покойную знали все... но мало кто хочет о ней говорить
 
 * Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
-    > Ирландская писательница и журналистка Мейв Бинчи (1940-2012)
-    > Кэти и Том подружились в кулинарном колледже и теперь надеются покорить Дублин, создав кейтеринговую компанию "Алое перо".
 
 * Нас здесь не было. Холодный мир и Золотой код ~ [Chiffi](users/105/105831994080785626680-google)<sup>503</sup>
 
@@ -32,14 +35,12 @@ Do not use pull requests to make changes here.
 
 * Скрытые картинки ~ [zehan_v](users/174/174598622-vkontakte)<sup>39</sup>
 
-* «Да – тогда и сейчас». ~ [zehan_v](users/174/174598622-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>504</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>505</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>45</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>59</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
@@ -71,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_15.02.2025 08:14:46_
+_15.02.2025 16:04:29_
