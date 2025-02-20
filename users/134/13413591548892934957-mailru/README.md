@@ -1,7 +1,12 @@
-# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>467</sup>
+# List of books read by [Shellena](https://my.mail.ru/mail/e-burkova/)<sup>468</sup>
 ---
 
 ## 2025
+
+### Чужая сторона
+Ольга Харитонова
+> [2025-02-20] 
+
 
 ### А вдруг?..
 Тревога: как она управляет нами, а мы – ею

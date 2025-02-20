@@ -40,8 +40,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>468</sup> 
 [](users/105/105803270930838059244-google)<sup>12</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>467</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>505</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>45</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>59</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_17.02.2025 00:33:43_
+_20.02.2025 15:38:29_
