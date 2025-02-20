@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
+    > Завораживающая мистика. Страшновато, но интересно . Продолжение цикла про Медвежье озеро. 
+    > https://loveread.com.ua/tihie-shagi-lena-aleksandrovna-obuhova/page-71.html
+
 * Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
     > На седьмой день и Господь отдыхал. А вы что, лучше, что ли?
     > Бог помогает тем, кто сам шевелится
@@ -16,10 +20,6 @@ Do not use pull requests to make changes here.
     > не было внутреннего стержня. Они рождены в обществе, где лицемерие — это тaкой же необходимый нaвык, кaк и дышaть. Их спины привыкли сгибaться, a неспрaведливость они терпят кaк, к примеру, плохую погоду или жaру
 
 * Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
-    > Эва Бьёрг Айисдоттир - исландская писательница
-    > Подробнее на livelib.ru:
-    > https://www.livelib.ru/author/1790647-eva-bjorg-ajisdottir
-    > Эльма приезжает из Рейкьявика в прибрежный Акранес, ее родной исландский городок с гнетущей атмосферой, чтобы разобраться в своей жизни. Едва она устраивается на работу следователем, как ей приходится столкнуться с ужасным делом: в районе заброшенного маяка подростки находят труп женщины. Самоубийство или убийство? Вскоре выясняется, что покойную знали все... но мало кто хочет о ней говорить
 
 * Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
 
@@ -33,16 +33,14 @@ Do not use pull requests to make changes here.
 
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
 
-* Скрытые картинки ~ [zehan_v](users/174/174598622-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>506</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>468</sup> 
 [](users/105/105803270930838059244-google)<sup>12</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>505</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>45</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>59</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
@@ -72,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_20.02.2025 15:38:29_
+_20.02.2025 19:39:14_
