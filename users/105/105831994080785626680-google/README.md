@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>506</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>507</sup>
 ---
 
 ## 2025
+
+### Джутовая маска
+Обухова Лена
+> [2025-02-23] https://loveread.com.ua/dzhutovaya-maska-lena-aleksandrovna-obuhova.html
+> трудно ждать от женщины учета твоих интересов, если она о них не знает
+
 
 ### Метаморфозы Катрин
 Ром Полина

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Джутовая маска ~ [Chiffi](users/105/105831994080785626680-google)<sup>507</sup>
+    > https://loveread.com.ua/dzhutovaya-maska-lena-aleksandrovna-obuhova.html
+    > трудно ждать от женщины учета твоих интересов, если она о них не знает
+
 * Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
     > Завораживающая мистика. Страшновато, но интересно . Продолжение цикла про Медвежье озеро. 
     > https://loveread.com.ua/tihie-shagi-lena-aleksandrovna-obuhova/page-71.html
@@ -15,9 +19,6 @@ Do not use pull requests to make changes here.
     > http://flibusta.site/b/772259/read
 
 * Приручитель женщин-монстров 15 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>504</sup>
-    > http://flibusta.site/b/788632
-    > https://flibusta.site/s/92367
-    > не было внутреннего стержня. Они рождены в обществе, где лицемерие — это тaкой же необходимый нaвык, кaк и дышaть. Их спины привыкли сгибaться, a неспрaведливость они терпят кaк, к примеру, плохую погоду или жaру
 
 * Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
 
@@ -31,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
 
-* Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>506</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>507</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>468</sup> 
 [](users/105/105803270930838059244-google)<sup>12</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>45</sup> 
@@ -70,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_20.02.2025 19:39:14_
+_23.02.2025 18:55:22_
