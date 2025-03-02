@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>59</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>60</sup>
 ---
 
 ## 2025
+
+### Открытая книга
+Каверин
+> [2025-03-02] 
+
 
 ### Всё решено
 Сапольски
