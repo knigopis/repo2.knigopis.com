@@ -1,4 +1,16 @@
 {
+    "p45NM6qU9a": {
+        "id": "p45NM6qU9a",
+        "title": "Семь сестер. Сестра ветра",
+        "author": "Люсинда Райли",
+        "notes": "Алли",
+        "createdAt": "2025-03-03 18:22:34",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 47
+        }
+    },
     "_d11wGv2DW": {
         "id": "_d11wGv2DW",
         "title": "Семь сестёр",
@@ -345,18 +357,6 @@
             "id": "118270319028469737508-google",
             "nickname": "Carleutto",
             "booksCount": 129
-        }
-    },
-    "2JWLhA4Cbj": {
-        "id": "2JWLhA4Cbj",
-        "title": "Голос монстра",
-        "author": "Патрик Несс",
-        "notes": "",
-        "createdAt": "2025-02-03 13:03:51",
-        "user": {
-            "id": "118270319028469737508-google",
-            "nickname": "Carleutto",
-            "booksCount": 128
         }
     }
 }

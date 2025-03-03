@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семь сестер. Сестра ветра ~ [zehan_v](users/174/174598622-vkontakte)<sup>47</sup>
+    > Алли
+
 * Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
     > Майя
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > трудно ждать от женщины учета твоих интересов, если она о них не знает
 
 * Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
-    > Завораживающая мистика. Страшновато, но интересно . Продолжение цикла про Медвежье озеро. 
-    > https://loveread.com.ua/tihie-shagi-lena-aleksandrovna-obuhova/page-71.html
 
 * Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
 
@@ -28,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Дом на краю ночи ~ [zehan_v](users/174/174598622-vkontakte)<sup>42</sup>
 
-* Добрый человек ~ [Chiffi](users/105/105831994080785626680-google)<sup>502</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>46</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>47</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>61</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>507</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_03.03.2025 18:21:39_
+_03.03.2025 18:22:34_

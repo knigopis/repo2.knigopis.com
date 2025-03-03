@@ -1,4 +1,16 @@
 {
+    "p45NM6qU9a": {
+        "id": "p45NM6qU9a",
+        "title": "Семь сестер. Сестра ветра",
+        "author": "Люсинда Райли",
+        "notes": "Алли",
+        "createdAt": "2025-03-03 18:22:34",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 47
+        }
+    },
     "_d11wGv2DW": {
         "id": "_d11wGv2DW",
         "title": "Семь сестёр",
@@ -345,18 +357,6 @@
             "id": "275766107-vkontakte",
             "nickname": "aktoty",
             "booksCount": 98
-        }
-    },
-    "30WrQDsPtN": {
-        "id": "30WrQDsPtN",
-        "title": "А. З.",
-        "author": "Такаббир",
-        "notes": "https://litnet.com/ru/book/a-z-b412464\nМистика. Интересная, но слишком мрачная",
-        "createdAt": "2024-11-13 21:20:13",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 493
         }
     }
 }
