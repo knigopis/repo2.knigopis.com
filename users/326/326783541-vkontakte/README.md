@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>60</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>61</sup>
 ---
 
 ## 2025
+
+### Пикник на обочине
+Стругацкие
+> [2025-03-03] 
+
 
 ### Открытая книга
 Каверин

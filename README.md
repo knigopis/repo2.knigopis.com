@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>60</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>61</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>507</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>468</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_02.03.2025 12:35:41_
+_03.03.2025 16:42:03_
