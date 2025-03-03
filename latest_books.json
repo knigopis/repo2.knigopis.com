@@ -1,4 +1,16 @@
 {
+    "_d11wGv2DW": {
+        "id": "_d11wGv2DW",
+        "title": "Семь сестёр",
+        "author": "Люсинда Райли",
+        "notes": "Майя",
+        "createdAt": "2025-03-03 18:21:39",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 46
+        }
+    },
     "YK25dVDRnh": {
         "id": "YK25dVDRnh",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "118270319028469737508-google",
             "nickname": "Carleutto",
             "booksCount": 128
-        }
-    },
-    "zrTH8qt_fW": {
-        "id": "zrTH8qt_fW",
-        "title": "Обыкновенная история",
-        "author": "Иван Гончаров",
-        "notes": "",
-        "createdAt": "2025-02-03 13:03:40",
-        "user": {
-            "id": "118270319028469737508-google",
-            "nickname": "Carleutto",
-            "booksCount": 127
         }
     }
 }

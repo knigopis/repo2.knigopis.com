@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
+    > Майя
+
 * Джутовая маска ~ [Chiffi](users/105/105831994080785626680-google)<sup>507</sup>
     > https://loveread.com.ua/dzhutovaya-maska-lena-aleksandrovna-obuhova.html
     > трудно ждать от женщины учета твоих интересов, если она о них не знает
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > https://loveread.com.ua/tihie-shagi-lena-aleksandrovna-obuhova/page-71.html
 
 * Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
-    > На седьмой день и Господь отдыхал. А вы что, лучше, что ли?
-    > Бог помогает тем, кто сам шевелится
-    > http://flibusta.site/b/772259/read
 
 * Приручитель женщин-монстров 15 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>504</sup>
 
@@ -30,19 +30,17 @@ Do not use pull requests to make changes here.
 
 * Добрый человек ~ [Chiffi](users/105/105831994080785626680-google)<sup>502</sup>
 
-* Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>46</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>61</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>507</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>468</sup> 
 [](users/105/105803270930838059244-google)<sup>12</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>45</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 [Акс](users/105/105584644059159770670-google)<sup>1</sup> 
 [евгения](users/108/108327816194861875647-google)<sup>0</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_03.03.2025 16:42:03_
+_03.03.2025 18:21:39_

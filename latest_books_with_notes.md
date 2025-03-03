@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
 * Джутовая маска ~ [Chiffi](users/105/105831994080785626680-google)<sup>507</sup>
 * Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
 * Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
@@ -32,7 +33,6 @@
 * Крупа бывает разная-будет продолжение ~ [Chiffi](users/105/105831994080785626680-google)<sup>494</sup>
 * Рассказ Служанки ~ [aktoty](users/275/275766107-vkontakte)<sup>98</sup>
 * А. З. ~ [Chiffi](users/105/105831994080785626680-google)<sup>493</sup>
-* Глаза тьмы ~ [Chiffi](users/105/105831994080785626680-google)<sup>492</sup>
 
 
-_23.02.2025 18:55:22_
+_03.03.2025 18:21:39_
