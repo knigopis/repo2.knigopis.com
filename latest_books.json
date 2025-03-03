@@ -1,4 +1,16 @@
 {
+    "45x4b052GC": {
+        "id": "45x4b052GC",
+        "title": "Сем сестер. Сестра тени",
+        "author": "Люсинда Райли",
+        "notes": "Стар. Англия",
+        "createdAt": "2025-03-03 18:23:38",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 48
+        }
+    },
     "p45NM6qU9a": {
         "id": "p45NM6qU9a",
         "title": "Семь сестер. Сестра ветра",
@@ -345,18 +357,6 @@
             "id": "13413591548892934957-mailru",
             "nickname": "Shellena",
             "booksCount": 465
-        }
-    },
-    "7iXsViYdfH": {
-        "id": "7iXsViYdfH",
-        "title": "Убийство Роджера Экройда",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2025-02-03 13:04:03",
-        "user": {
-            "id": "118270319028469737508-google",
-            "nickname": "Carleutto",
-            "booksCount": 129
         }
     }
 }
