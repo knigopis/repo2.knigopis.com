@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>48</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>49</sup>
 ---
 
 ## 2025
+
+### Семь сестер. Сестра жемчуга
+Люсинда Райли
+> [2025-03-03] Сиси. Австралия
+
 
 ### Алое перо
 Мейв Бинчи

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семь сестер. Сестра жемчуга ~ [zehan_v](users/174/174598622-vkontakte)<sup>49</sup>
+    > Сиси. Австралия
+
 * Сем сестер. Сестра тени ~ [zehan_v](users/174/174598622-vkontakte)<sup>48</sup>
     > Стар. Англия
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Алли
 
 * Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
-    > Майя
 
 * Джутовая маска ~ [Chiffi](users/105/105831994080785626680-google)<sup>507</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
 
-* Нас здесь не было. Холодный мир и Золотой код ~ [Chiffi](users/105/105831994080785626680-google)<sup>503</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>48</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>49</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>61</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>507</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_03.03.2025 18:23:38_
+_03.03.2025 18:24:51_
