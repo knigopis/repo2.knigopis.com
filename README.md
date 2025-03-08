@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>49</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>61</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>254</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 [](users/858/858967472-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_03.03.2025 18:24:51_
+_08.03.2025 17:02:17_
