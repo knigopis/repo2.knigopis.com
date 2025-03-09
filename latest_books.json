@@ -1,4 +1,16 @@
 {
+    "PEP1Rlz-Z3": {
+        "id": "PEP1Rlz-Z3",
+        "title": "Чёрное облако",
+        "author": "Фред Хойл",
+        "notes": "",
+        "createdAt": "2025-03-09 20:16:43",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 62
+        }
+    },
     "yXCTszEcz4": {
         "id": "yXCTszEcz4",
         "title": "Встреча",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 41
-        }
-    },
-    "sgdbu5kPMG": {
-        "id": "sgdbu5kPMG",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2025-02-05 11:29:27",
-        "user": {
-            "id": "105584644059159770670-google",
-            "nickname": "Акс",
-            "booksCount": 1
         }
     }
 }

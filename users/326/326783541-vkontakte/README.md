@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>61</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>62</sup>
 ---
 
 ## 2025
+
+### Чёрное облако
+Фред Хойл
+> [2025-03-09] 
+
 
 ### Пикник на обочине
 Стругацкие
