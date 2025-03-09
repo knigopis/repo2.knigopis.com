@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>294</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>49</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>61</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Carleutto](users/118/118270319028469737508-google)<sup>129</sup> 
 [](users/107/107756383717359753203-google)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>403</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>99</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>162</sup> 
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_08.03.2025 17:02:17_
+_09.03.2025 17:07:16_
