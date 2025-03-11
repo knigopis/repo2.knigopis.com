@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>294</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>22</sup> 
-[teslykww](users/507/50777839-vkontakte)<sup>0</sup> 
 
 
-_09.03.2025 20:16:43_
+_11.03.2025 20:07:31_
