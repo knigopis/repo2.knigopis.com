@@ -1,4 +1,16 @@
 {
+    "bdP5_5lUss": {
+        "id": "bdP5_5lUss",
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "notes": "",
+        "createdAt": "2025-03-11 20:13:31",
+        "user": {
+            "id": "112090473416384685204-google",
+            "nickname": "Cr_RONIN",
+            "booksCount": 16
+        }
+    },
     "PEP1Rlz-Z3": {
         "id": "PEP1Rlz-Z3",
         "title": "Чёрное облако",
@@ -345,18 +357,6 @@
             "id": "105803270930838059244-google",
             "nickname": null,
             "booksCount": 11
-        }
-    },
-    "rMpuZDQ7EQ": {
-        "id": "rMpuZDQ7EQ",
-        "title": "Жена башмачника",
-        "author": "Адриан Трижиани.",
-        "notes": "История двух итальянцев, перебравшихся в начале прошлого века из горной деревушки в Нью Йорк. События начинаются, когда главные герои еще дети и охватят всю историю их жизни.",
-        "createdAt": "2025-02-06 09:26:11",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 41
         }
     }
 }

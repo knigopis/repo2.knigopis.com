@@ -1,7 +1,12 @@
-# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>15</sup>
+# List of books read by [Cr_RONIN](https://plus.google.com/u/0/112090473416384685204/)<sup>16</sup>
 ---
 
 ## 2024
+
+### Dune
+Frank Herbert
+> [2024-04] 
+
 
 ### Відьмак
 Сапковський
