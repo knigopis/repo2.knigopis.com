@@ -1,4 +1,10 @@
 {
+    "117421856236745123056-google": {
+        "id": "117421856236745123056-google",
+        "nickname": "CR_RONIN",
+        "booksCount": 0,
+        "updatedAt": "2025-03-11 20:07:30"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": "Dinara ",
         "booksCount": 22,
         "updatedAt": "2024-08-21 18:53:28"
-    },
-    "50777839-vkontakte": {
-        "id": "50777839-vkontakte",
-        "nickname": "teslykww",
-        "booksCount": 0,
-        "updatedAt": "2024-08-21 10:16:22"
     }
 }
