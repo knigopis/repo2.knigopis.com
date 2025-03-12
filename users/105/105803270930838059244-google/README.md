@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>12</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>13</sup>
 ---
 
 ## 2025
+
+### Левша
+Николай Лесков
+> [2025-03-12] 
+
 
 ### Страна багровых туч
 Аркадий и Борис Стругацкие
