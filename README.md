@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна мертвого ректора.2 книги 
+Серия: Граф Аверин. Колдун Российской империи ~ [Chiffi](users/105/105831994080785626680-google)<sup>509</sup>
+    > http://flibusta.site/a/218814
+    > https://fantasy-worlds.org/lib/id37432/
+
 * Особняк Ведьмы 7 Частей ~ [Chiffi](users/105/105831994080785626680-google)<sup>508</sup>
     > http://flibusta.site/b/792524
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Сиси. Австралия
 
 * Сем сестер. Сестра тени ~ [zehan_v](users/174/174598622-vkontakte)<sup>48</sup>
-    > Стар. Англия
 
 * Семь сестер. Сестра ветра ~ [zehan_v](users/174/174598622-vkontakte)<sup>47</sup>
 
@@ -26,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Приручитель женщин-монстров 15 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>504</sup>
 
-* Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>508</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>509</sup> 
 [](users/105/105803270930838059244-google)<sup>13</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 
 
-_15.03.2025 16:05:57_
+_15.03.2025 16:11:40_

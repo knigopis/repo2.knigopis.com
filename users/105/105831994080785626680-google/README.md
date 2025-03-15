@@ -1,7 +1,14 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>508</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>509</sup>
 ---
 
 ## 2025
+
+### Тайна мертвого ректора.2 книги 
+Серия: Граф Аверин. Колдун Российской империи
+Дашкевич Виктор
+> [2025-03-01] http://flibusta.site/a/218814
+> https://fantasy-worlds.org/lib/id37432/
+
 
 ### Джутовая маска
 Обухова Лена
