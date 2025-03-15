@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Особняк Ведьмы 7 Частей ~ [Chiffi](users/105/105831994080785626680-google)<sup>508</sup>
 * Семь сестер. Сестра жемчуга ~ [zehan_v](users/174/174598622-vkontakte)<sup>49</sup>
 * Сем сестер. Сестра тени ~ [zehan_v](users/174/174598622-vkontakte)<sup>48</sup>
 * Семь сестер. Сестра ветра ~ [zehan_v](users/174/174598622-vkontakte)<sup>47</sup>
@@ -32,7 +33,6 @@
 * Лес ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>288</sup>
 * Ловушка сбывшихся кошмаров. Секретное досье 11 ~ [Chiffi](users/105/105831994080785626680-google)<sup>497</sup>
 * Тень за моим плечом ~ [Chiffi](users/105/105831994080785626680-google)<sup>496</sup>
-* Злодейка в пресветлый академи ~ [Chiffi](users/105/105831994080785626680-google)<sup>495</sup>
 
 
-_03.03.2025 18:24:51_
+_15.03.2025 16:05:57_

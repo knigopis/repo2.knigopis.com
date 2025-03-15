@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Особняк Ведьмы 7 Частей ~ [Chiffi](users/105/105831994080785626680-google)<sup>508</sup>
+    > http://flibusta.site/b/792524
+
 * Семь сестер. Сестра жемчуга ~ [zehan_v](users/174/174598622-vkontakte)<sup>49</sup>
     > Сиси. Австралия
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Стар. Англия
 
 * Семь сестер. Сестра ветра ~ [zehan_v](users/174/174598622-vkontakte)<sup>47</sup>
-    > Алли
 
 * Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
 
-* Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>508</sup> 
 [](users/105/105803270930838059244-google)<sup>13</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>49</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>507</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>468</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 [Акс](users/105/105584644059159770670-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 
 
-_12.03.2025 06:47:03_
+_15.03.2025 16:05:57_
