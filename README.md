@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
 [](users/105/105803270930838059244-google)<sup>15</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>509</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>49</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>468</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 [Акс](users/105/105584644059159770670-google)<sup>1</sup> 
 [евгения](users/108/108327816194861875647-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 
 
-_17.03.2025 01:56:36_
+_18.03.2025 16:20:51_

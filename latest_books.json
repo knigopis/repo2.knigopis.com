@@ -1,4 +1,16 @@
 {
+    "WeoAS42oXw": {
+        "id": "WeoAS42oXw",
+        "title": "До самого рая",
+        "author": "Ханья Янагихара",
+        "notes": "",
+        "createdAt": "2025-03-18 16:20:51",
+        "user": {
+            "id": "13413591548892934957-mailru",
+            "nickname": "Shellena",
+            "booksCount": 469
+        }
+    },
     "biG4VZUgCn": {
         "id": "biG4VZUgCn",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 59
-        }
-    },
-    "UhPFoz8e_M": {
-        "id": "UhPFoz8e_M",
-        "title": "Дом на краю темноты",
-        "author": "Райли Сейгер",
-        "notes": "",
-        "createdAt": "2025-02-09 08:50:57",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 43
         }
     }
 }
