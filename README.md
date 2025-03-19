@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
 [](users/105/105803270930838059244-google)<sup>15</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>509</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 [](users/858/858967472-vkontakte)<sup>0</sup> 
 [KamilAkhmetov](users/116/116472858042498200155-google)<sup>1</sup> 
-[realest1954](users/439/439398-vkontakte)<sup>4</sup> 
 
 
-_18.03.2025 16:20:51_
+_19.03.2025 14:11:53_
