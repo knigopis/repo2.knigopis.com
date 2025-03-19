@@ -1,4 +1,10 @@
 {
+    "105094667890867197709-google": {
+        "id": "105094667890867197709-google",
+        "nickname": "Лунев Виталий",
+        "booksCount": 0,
+        "updatedAt": "2025-03-19 14:11:51"
+    },
     "13413591548892934957-mailru": {
         "id": "13413591548892934957-mailru",
         "nickname": "Shellena",
@@ -172,11 +178,5 @@
         "nickname": "KamilAkhmetov",
         "booksCount": 1,
         "updatedAt": "2024-09-01 11:20:43"
-    },
-    "439398-vkontakte": {
-        "id": "439398-vkontakte",
-        "nickname": "realest1954",
-        "booksCount": 4,
-        "updatedAt": "2024-08-23 06:37:10"
     }
 }
