@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 [Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
-[](users/858/858967472-vkontakte)<sup>0</sup> 
 
 
-_19.03.2025 14:12:57_
+_20.03.2025 07:47:30_
