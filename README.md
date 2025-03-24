@@ -40,12 +40,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105803270930838059244-google)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>511</sup> 
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 [Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
-[](users/105/105803270930838059244-google)<sup>15</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>62</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 
 
-_21.03.2025 22:42:25_
+_24.03.2025 12:48:02_
