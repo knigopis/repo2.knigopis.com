@@ -1,4 +1,16 @@
 {
+    "WNXSxDU9ij": {
+        "id": "WNXSxDU9ij",
+        "title": "Семь сестер. Сестра солнца",
+        "author": "Люсинда Райли",
+        "notes": "6. Электра Кения",
+        "createdAt": "2025-03-26 06:36:26",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 51
+        }
+    },
     "ka72bz1sYj": {
         "id": "ka72bz1sYj",
         "title": "«Семь сестёр».Сестра луны",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 401
-        }
-    },
-    "k-of1I5XKY": {
-        "id": "k-of1I5XKY",
-        "title": "Пусть все горит",
-        "author": "Уилл Дин",
-        "notes": "Остановилась на 9 части из 33. Ужасная хрень.",
-        "createdAt": "2024-12-03 19:27:41",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 289
         }
     }
 }
