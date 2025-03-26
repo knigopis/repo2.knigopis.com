@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Семь сестёр».Сестра луны ~ [zehan_v](users/174/174598622-vkontakte)<sup>50</sup>
+    > 4.Тигги Деплеси
+
 * (бесчело)вечность ~ [Chiffi](users/105/105831994080785626680-google)<sup>511</sup>
     > https://flibusta.site/s/85443
     > Яр(к)ость
@@ -18,8 +21,6 @@ Do not use pull requests to make changes here.
 
 * Тайна мертвого ректора.2 книги 
 Серия: Граф Аверин. Колдун Российской империи ~ [Chiffi](users/105/105831994080785626680-google)<sup>509</sup>
-    > http://flibusta.site/a/218814
-    > https://fantasy-worlds.org/lib/id37432/
 
 * Особняк Ведьмы 7 Частей ~ [Chiffi](users/105/105831994080785626680-google)<sup>508</sup>
 
@@ -33,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Джутовая маска ~ [Chiffi](users/105/105831994080785626680-google)<sup>507</sup>
 
-* Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>50</sup> 
 [](users/105/105803270930838059244-google)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>511</sup> 
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
@@ -51,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>294</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>49</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 [Акс](users/105/105584644059159770670-google)<sup>1</sup> 
@@ -72,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 
 
-_24.03.2025 12:48:02_
+_26.03.2025 06:32:40_
