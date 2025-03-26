@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rnixik](users/116/116191270391964650818-google)<sup>77</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>53</sup> 
 [](users/105/105803270930838059244-google)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>511</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
-[dobrova](users/606/6069210-vkontakte)<sup>9</sup> 
 
 
-_26.03.2025 06:39:37_
+_26.03.2025 10:08:36_
