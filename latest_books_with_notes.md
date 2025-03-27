@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Демонология по Волкову (2части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>512</sup>
 * Семь сестер . Потерянная сестра ~ [zehan_v](users/174/174598622-vkontakte)<sup>52</sup>
 * Семь сестер. Сестра солнца ~ [zehan_v](users/174/174598622-vkontakte)<sup>51</sup>
 * «Семь сестёр».Сестра луны ~ [zehan_v](users/174/174598622-vkontakte)<sup>50</sup>
@@ -33,7 +34,6 @@
 * Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
 * Жребий праведных грешниц ~ [zehan_v](users/174/174598622-vkontakte)<sup>31</sup>
 * Корни дуба. Впечатления и размышления об Англии и англичанах Книга ~ [lucius](users/113/113248293394986559131-google)<sup>162</sup>
-* Пригласи меня войти ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>291</sup>
 
 
-_26.03.2025 06:37:49_
+_27.03.2025 13:44:12_

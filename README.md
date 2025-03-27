@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Демонология по Волкову (2части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>512</sup>
+    > http://flibusta.site/b/810607
+    > Точно будет продолжение. Мистика, детектив, любовь
+
 * Семь сестер . Потерянная сестра ~ [zehan_v](users/174/174598622-vkontakte)<sup>52</sup>
     > 7. Мэрри . Ирландия
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 6. Электра Кения
 
 * «Семь сестёр».Сестра луны ~ [zehan_v](users/174/174598622-vkontakte)<sup>50</sup>
-    > 4.Тигги Деплеси
 
 * (бесчело)вечность ~ [Chiffi](users/105/105831994080785626680-google)<sup>511</sup>
 
@@ -27,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Сем сестер. Сестра тени ~ [zehan_v](users/174/174598622-vkontakte)<sup>48</sup>
 
-* Семь сестер. Сестра ветра ~ [zehan_v](users/174/174598622-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>512</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>53</sup> 
 [](users/105/105803270930838059244-google)<sup>16</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>511</sup> 
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 [Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 
 
-_26.03.2025 10:08:47_
+_27.03.2025 13:44:12_
