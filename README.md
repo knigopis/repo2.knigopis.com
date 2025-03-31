@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия горгулий (4 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>513</sup>
+    > https://flibusta.site/s/80091
+    > На удивление приятная сказка. Про любовь, но без рюшей,соплей и прочей ерунды
+
 * Демонология по Волкову (2части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>512</sup>
     > http://flibusta.site/b/810607
     > Точно будет продолжение. Мистика, детектив, любовь
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > 7. Мэрри . Ирландия
 
 * Семь сестер. Сестра солнца ~ [zehan_v](users/174/174598622-vkontakte)<sup>51</sup>
-    > 6. Электра Кения
 
 * «Семь сестёр».Сестра луны ~ [zehan_v](users/174/174598622-vkontakte)<sup>50</sup>
 
@@ -28,15 +31,13 @@ Do not use pull requests to make changes here.
 
 * Семь сестер. Сестра жемчуга ~ [zehan_v](users/174/174598622-vkontakte)<sup>49</sup>
 
-* Сем сестер. Сестра тени ~ [zehan_v](users/174/174598622-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>513</sup> 
 [](users/105/105803270930838059244-google)<sup>17</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>512</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>53</sup> 
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 
 
-_31.03.2025 06:08:02_
+_31.03.2025 18:53:21_
