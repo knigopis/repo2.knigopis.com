@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
 * Что дальше, миссис Норидж? ~ [zehan_v](users/174/174598622-vkontakte)<sup>54</sup>
 * Академия горгулий (4 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>513</sup>
 * Демонология по Волкову (2части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>512</sup>
@@ -33,7 +34,6 @@
 
  (6 книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>500</sup>
 * Красивый мальчик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup>
-* Зимние призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>292</sup>
 
 
-_01.04.2025 05:15:36_
+_01.04.2025 05:19:44_
