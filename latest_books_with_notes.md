@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
 * Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
 * Что дальше, миссис Норидж? ~ [zehan_v](users/174/174598622-vkontakte)<sup>54</sup>
 * Академия горгулий (4 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>513</sup>
@@ -33,7 +34,6 @@
 * Навь. Цикл Русский бояръ
 
  (6 книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>500</sup>
-* Красивый мальчик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>293</sup>
 
 
-_01.04.2025 05:19:44_
+_06.04.2025 06:49:36_
