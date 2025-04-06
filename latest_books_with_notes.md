@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Дневник служанки» ~ [zehan_v](users/174/174598622-vkontakte)<sup>57</sup>
 * «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
 * Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
 * Что дальше, миссис Норидж? ~ [zehan_v](users/174/174598622-vkontakte)<sup>54</sup>
@@ -31,9 +32,6 @@
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
 * Скрытые картинки ~ [zehan_v](users/174/174598622-vkontakte)<sup>39</sup>
 * «Да – тогда и сейчас». ~ [zehan_v](users/174/174598622-vkontakte)<sup>38</sup>
-* Навь. Цикл Русский бояръ
-
- (6 книг) ~ [Chiffi](users/105/105831994080785626680-google)<sup>500</sup>
 
 
-_06.04.2025 06:49:36_
+_06.04.2025 06:59:15_
