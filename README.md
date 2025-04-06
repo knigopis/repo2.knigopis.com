@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>63</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>57</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>513</sup> 
 [](users/105/105803270930838059244-google)<sup>17</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>294</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>458</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 
 
-_06.04.2025 06:59:15_
+_06.04.2025 23:37:18_

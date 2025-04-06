@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>62</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>63</sup>
 ---
 
 ## 2025
+
+### Ложная слепота
+> [2025-04-07] 
+
 
 ### Чёрное облако
 Фред Хойл
