@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хрустальное озеро ~ [zehan_v](users/174/174598622-vkontakte)<sup>58</sup>
 * «Дневник служанки» ~ [zehan_v](users/174/174598622-vkontakte)<sup>57</sup>
 * «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
 * Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
@@ -31,7 +32,6 @@
 * Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
 * Скрытые картинки ~ [zehan_v](users/174/174598622-vkontakte)<sup>39</sup>
-* «Да – тогда и сейчас». ~ [zehan_v](users/174/174598622-vkontakte)<sup>38</sup>
 
 
-_06.04.2025 06:59:15_
+_07.04.2025 05:00:56_
