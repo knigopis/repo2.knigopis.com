@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ангел мертвеца . Тайный город 40 ~ [Chiffi](users/105/105831994080785626680-google)<sup>514</sup>
 * Хрустальное озеро ~ [zehan_v](users/174/174598622-vkontakte)<sup>58</sup>
 * «Дневник служанки» ~ [zehan_v](users/174/174598622-vkontakte)<sup>57</sup>
 * «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
@@ -31,7 +32,6 @@
 * Добрый человек ~ [Chiffi](users/105/105831994080785626680-google)<sup>502</sup>
 * Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
 * Идеальный мир для лекаря 1-26 ~ [Chiffi](users/105/105831994080785626680-google)<sup>501</sup>
-* Скрытые картинки ~ [zehan_v](users/174/174598622-vkontakte)<sup>39</sup>
 
 
-_07.04.2025 05:00:56_
+_09.04.2025 17:00:34_
