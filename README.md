@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>60</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>515</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>63</sup> 
 [](users/105/105803270930838059244-google)<sup>17</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 
 
-_14.04.2025 09:31:44_
+_14.04.2025 09:32:53_
