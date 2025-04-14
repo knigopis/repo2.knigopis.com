@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>58</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>59</sup>
 ---
 
 ## 2025
+
+### Девушки, которые лгут
+Эва Бьёрг Айисдоттир
+> [2025-04-13] 
+
 
 ### Хрустальное озеро
 Мейв Бинчи
