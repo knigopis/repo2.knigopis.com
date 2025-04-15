@@ -1,4 +1,16 @@
 {
+    "dkF6abUn9M": {
+        "id": "dkF6abUn9M",
+        "title": "Мифы Карелии и Ингерманландии",
+        "author": "А.Н. Николаева",
+        "notes": "",
+        "createdAt": "2025-04-15 20:23:53",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 51
+        }
+    },
     "z96gCsOych": {
         "id": "z96gCsOych",
         "title": "Уроки итальянского",
@@ -345,18 +357,6 @@
             "id": "112090473416384685204-google",
             "nickname": "Cr_RONIN",
             "booksCount": 16
-        }
-    },
-    "PEP1Rlz-Z3": {
-        "id": "PEP1Rlz-Z3",
-        "title": "Чёрное облако",
-        "author": "Фред Хойл",
-        "notes": "",
-        "createdAt": "2025-03-09 20:16:43",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 62
         }
     }
 }
