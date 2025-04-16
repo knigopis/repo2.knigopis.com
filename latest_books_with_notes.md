@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The One. Единственный ~ [Chiffi](users/105/105831994080785626680-google)<sup>516</sup>
 * Высшая каста. Тайный город 41 ~ [Chiffi](users/105/105831994080785626680-google)<sup>515</sup>
 * Ангел мертвеца . Тайный город 40 ~ [Chiffi](users/105/105831994080785626680-google)<sup>514</sup>
 * Хрустальное озеро ~ [zehan_v](users/174/174598622-vkontakte)<sup>58</sup>
@@ -31,7 +32,6 @@
 * Нас здесь не было. Холодный мир и Золотой код ~ [Chiffi](users/105/105831994080785626680-google)<sup>503</sup>
 * Дом на краю ночи ~ [zehan_v](users/174/174598622-vkontakte)<sup>42</sup>
 * Добрый человек ~ [Chiffi](users/105/105831994080785626680-google)<sup>502</sup>
-* Жена башмачника ~ [zehan_v](users/174/174598622-vkontakte)<sup>41</sup>
 
 
-_11.04.2025 18:31:49_
+_16.04.2025 20:24:58_

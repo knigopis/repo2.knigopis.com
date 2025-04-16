@@ -1,4 +1,16 @@
 {
+    "76tL36sBnP": {
+        "id": "76tL36sBnP",
+        "title": "The One. Единственный",
+        "author": "Маррс Джон",
+        "notes": "http://flibusta.site/b/578442/read\nНе надо приписывать свои решения генетике или компьютеру. И никакой ДНК тест не заставит двух мужчин переспать или изменить мужу и манипулировать им",
+        "createdAt": "2025-04-16 20:24:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 516
+        }
+    },
     "dkF6abUn9M": {
         "id": "dkF6abUn9M",
         "title": "Мифы Карелии и Ингерманландии",
@@ -345,18 +357,6 @@
             "id": "105803270930838059244-google",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "bdP5_5lUss": {
-        "id": "bdP5_5lUss",
-        "title": "Dune",
-        "author": "Frank Herbert",
-        "notes": "",
-        "createdAt": "2025-03-11 20:13:31",
-        "user": {
-            "id": "112090473416384685204-google",
-            "nickname": "Cr_RONIN",
-            "booksCount": 16
         }
     }
 }
