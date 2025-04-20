@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
 * Исследование о природе и причинах богатства народов ~ [Garka](users/115/115753719718250012620-google)<sup>405</sup>
 * The One. Единственный ~ [Chiffi](users/105/105831994080785626680-google)<sup>516</sup>
 * Высшая каста. Тайный город 41 ~ [Chiffi](users/105/105831994080785626680-google)<sup>515</sup>
@@ -31,7 +32,6 @@
 * Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
 * Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
 * Нас здесь не было. Холодный мир и Золотой код ~ [Chiffi](users/105/105831994080785626680-google)<sup>503</sup>
-* Дом на краю ночи ~ [zehan_v](users/174/174598622-vkontakte)<sup>42</sup>
 
 
-_17.04.2025 13:59:45_
+_20.04.2025 08:18:10_
