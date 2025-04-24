@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>64</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>65</sup>
 ---
 
 ## 2025
+
+### «Скрытые глубины»
+Энн Кливз
+> [2025-04-24] Серия «Вера Стенхоуп» - 3
+
 
 ### Свойство памяти
 Полина Елизарова

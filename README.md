@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
+    > Серия «Вера Стенхоуп» - 3
+
 * «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
     > Варвара Сергеевна Самоварова — бывший следователь, майор полиции.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Основа экономики как мировой, так и экономики предприятия. Для человека не имеющего отношения к финансам или только начинающего изучение будет интересно. Для тех, у кого есть экономическое образование, ничего кардинально нового не будет. На основе этой книги проходит обучения во всех высших учебних заведениях мира
 
 * The One. Единственный ~ [Chiffi](users/105/105831994080785626680-google)<sup>516</sup>
-    > http://flibusta.site/b/578442/read
-    > Не надо приписывать свои решения генетике или компьютеру. И никакой ДНК тест не заставит двух мужчин переспать или изменить мужу и манипулировать им
 
 * Высшая каста. Тайный город 41 ~ [Chiffi](users/105/105831994080785626680-google)<sup>515</sup>
 
@@ -27,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
 
-* Что дальше, миссис Норидж? ~ [zehan_v](users/174/174598622-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>65</sup> 
 [](users/105/105803270930838059244-google)<sup>18</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>64</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>407</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>516</sup> 
 [](users/107/107756383717359753203-google)<sup>51</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vokabresch](users/109/109100428262719456108-google)<sup>0</sup> 
 
 
-_22.04.2025 04:35:23_
+_24.04.2025 04:28:34_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
 * «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
 * Исследование о природе и причинах богатства народов ~ [Garka](users/115/115753719718250012620-google)<sup>405</sup>
 * The One. Единственный ~ [Chiffi](users/105/105831994080785626680-google)<sup>516</sup>
@@ -31,7 +32,6 @@
 * Приручитель женщин-монстров 15 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>504</sup>
 * Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
 * Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
-* Нас здесь не было. Холодный мир и Золотой код ~ [Chiffi](users/105/105831994080785626680-google)<sup>503</sup>
 
 
-_20.04.2025 08:18:10_
+_24.04.2025 04:28:34_
