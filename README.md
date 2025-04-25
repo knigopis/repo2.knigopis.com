@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Linas](users/111/111754056754751183886-google)<sup>1</sup> 
+[Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>65</sup> 
 [](users/105/105803270930838059244-google)<sup>18</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>407</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_25.04.2025 02:18:26_
+_25.04.2025 02:26:14_
