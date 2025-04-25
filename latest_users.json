@@ -1,4 +1,10 @@
 {
+    "111754056754751183886-google": {
+        "id": "111754056754751183886-google",
+        "nickname": "Linas",
+        "booksCount": 0,
+        "updatedAt": "2025-04-25 02:17:10"
+    },
     "174598622-vkontakte": {
         "id": "174598622-vkontakte",
         "nickname": "zehan_v",
@@ -172,11 +178,5 @@
         "nickname": "butercupa",
         "booksCount": 97,
         "updatedAt": "2024-10-30 22:40:11"
-    },
-    "109100428262719456108-google": {
-        "id": "109100428262719456108-google",
-        "nickname": "vokabresch",
-        "booksCount": 0,
-        "updatedAt": "2024-10-05 23:33:50"
     }
 }
