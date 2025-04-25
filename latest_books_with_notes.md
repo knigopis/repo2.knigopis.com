@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
 * «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
 * «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
 * Исследование о природе и причинах богатства народов ~ [Garka](users/115/115753719718250012620-google)<sup>405</sup>
@@ -31,7 +32,6 @@
 * Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
 * Приручитель женщин-монстров 15 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>504</sup>
 * Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
-* Алое перо ~ [zehan_v](users/174/174598622-vkontakte)<sup>44</sup>
 
 
-_24.04.2025 04:28:34_
+_25.04.2025 20:57:13_

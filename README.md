@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
+    > https://readli.net/serie/30771/
+    > Будем воспитывaть кнутом и пряником. Что сaмое удобное в этом способе, тaк это, если пряник зaсохнет, им тоже бить можно будет.
+    > Ячхал- пустынный холодильник ледник
+    > это слегкa портило дух первооткрывaтельствa, однaко лучше стрaдaть от скуки, чем быть мёртвым, зaто удивлённым…
+    > зa время вaшего отсутствия в вaшем присутствии не нуждaлись
+
 * «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
     > Серия «Вера Стенхоуп» - 3
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Варвара Сергеевна Самоварова — бывший следователь, майор полиции.
 
 * Исследование о природе и причинах богатства народов ~ [Garka](users/115/115753719718250012620-google)<sup>405</sup>
-    > Основа экономики как мировой, так и экономики предприятия. Для человека не имеющего отношения к финансам или только начинающего изучение будет интересно. Для тех, у кого есть экономическое образование, ничего кардинально нового не будет. На основе этой книги проходит обучения во всех высших учебних заведениях мира
 
 * The One. Единственный ~ [Chiffi](users/105/105831994080785626680-google)<sup>516</sup>
 
@@ -26,19 +32,17 @@ Do not use pull requests to make changes here.
 
 * «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
 
-* Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>517</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>459</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>65</sup> 
 [](users/105/105803270930838059244-google)<sup>18</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>407</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>516</sup> 
 [](users/107/107756383717359753203-google)<sup>51</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>63</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
@@ -65,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_25.04.2025 06:30:03_
+_25.04.2025 20:57:13_
