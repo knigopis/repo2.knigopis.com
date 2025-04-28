@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>18</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>19</sup>
 ---
 
 ## 2025
+
+### Николай Николаевич
+Юз Алешковский
+> [2025-04-28] 
+
 
 ### Мастер и Маргарита
 Михаил Булгаков

@@ -37,11 +37,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105803270930838059244-google)<sup>19</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>517</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>459</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>65</sup> 
-[](users/105/105803270930838059244-google)<sup>18</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>407</sup> 
 [](users/107/107756383717359753203-google)<sup>51</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>63</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_25.04.2025 20:57:13_
+_28.04.2025 01:38:11_
