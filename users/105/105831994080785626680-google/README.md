@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>517</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>518</sup>
 ---
 
 ## 2025
+
+### Престидижитатор Сталина
+Квинтус Номен
+> [2025-04-30] http://flibusta.site/b/712881
+> Попаданец в прошлое. Не плохо
+
 
 ### Демиург
 Дорничев Дмитрий, Белов Артем

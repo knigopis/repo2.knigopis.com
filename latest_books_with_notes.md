@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Престидижитатор Сталина ~ [Chiffi](users/105/105831994080785626680-google)<sup>518</sup>
 * Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
 * «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
 * «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
@@ -31,7 +32,6 @@
 * Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
 * Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
 * Приручитель женщин-монстров 15 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>504</sup>
-* Скрип на лестнице ~ [zehan_v](users/174/174598622-vkontakte)<sup>45</sup>
 
 
-_25.04.2025 20:57:13_
+_30.04.2025 18:28:02_

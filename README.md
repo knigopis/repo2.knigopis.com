@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Престидижитатор Сталина ~ [Chiffi](users/105/105831994080785626680-google)<sup>518</sup>
+    > http://flibusta.site/b/712881
+    > Попаданец в прошлое. Не плохо
+
 * Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
     > https://readli.net/serie/30771/
     > Будем воспитывaть кнутом и пряником. Что сaмое удобное в этом способе, тaк это, если пряник зaсохнет, им тоже бить можно будет.
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > Серия «Вера Стенхоуп» - 3
 
 * «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
-    > Варвара Сергеевна Самоварова — бывший следователь, майор полиции.
 
 * Исследование о природе и причинах богатства народов ~ [Garka](users/115/115753719718250012620-google)<sup>405</sup>
 
@@ -30,15 +33,13 @@ Do not use pull requests to make changes here.
 
 * «Дневник служанки» ~ [zehan_v](users/174/174598622-vkontakte)<sup>57</sup>
 
-* «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>518</sup> 
 [](users/105/105803270930838059244-google)<sup>19</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>517</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>459</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>65</sup> 
@@ -69,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_28.04.2025 01:38:11_
+_30.04.2025 18:28:02_

@@ -1,4 +1,16 @@
 {
+    "1DNSQ7PqZ2": {
+        "id": "1DNSQ7PqZ2",
+        "title": "Престидижитатор Сталина",
+        "author": "Квинтус Номен",
+        "notes": "http://flibusta.site/b/712881\nПопаданец в прошлое. Не плохо",
+        "createdAt": "2025-04-30 18:28:01",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 518
+        }
+    },
     "dXJVoEg89Q": {
         "id": "dXJVoEg89Q",
         "title": "Николай Николаевич",
@@ -345,18 +357,6 @@
             "id": "116191270391964650818-google",
             "nickname": "rnixik",
             "booksCount": 77
-        }
-    },
-    "5m0PtSsmK_": {
-        "id": "5m0PtSsmK_",
-        "title": "Семь сестёр. Атлас. История Па Солта",
-        "author": "Люсинда Райли, Автор: Гарри Уиттакер",
-        "notes": "",
-        "createdAt": "2025-03-26 06:39:37",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 53
         }
     }
 }
