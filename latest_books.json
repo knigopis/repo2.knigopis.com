@@ -1,4 +1,16 @@
 {
+    "cZ2Ruuc-K0": {
+        "id": "cZ2Ruuc-K0",
+        "title": "“Снежное забвение”",
+        "author": "Энн Кливз",
+        "notes": "",
+        "createdAt": "2025-05-03 13:17:02",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 66
+        }
+    },
     "1DNSQ7PqZ2": {
         "id": "1DNSQ7PqZ2",
         "title": "Престидижитатор Сталина",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 512
-        }
-    },
-    "4NKivUU-HQ": {
-        "id": "4NKivUU-HQ",
-        "title": "Тест",
-        "author": "Тест",
-        "notes": "",
-        "createdAt": "2025-03-26 10:08:36",
-        "user": {
-            "id": "116191270391964650818-google",
-            "nickname": "rnixik",
-            "booksCount": 77
         }
     }
 }

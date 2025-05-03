@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>65</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>66</sup>
 ---
 
 ## 2025
+
+### “Снежное забвение”
+Энн Кливз
+> [2025-05-02] 
+
 
 ### «Скрытые глубины»
 Энн Кливз
