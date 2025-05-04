@@ -38,10 +38,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>66</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>518</sup> 
 [](users/105/105803270930838059244-google)<sup>19</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>459</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>407</sup> 
 [](users/107/107756383717359753203-google)<sup>51</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_03.05.2025 13:17:02_
+_04.05.2025 10:13:14_
