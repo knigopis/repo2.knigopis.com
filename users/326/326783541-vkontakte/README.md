@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>63</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>64</sup>
 ---
 
 ## 2025
+
+### Трудно быть богом
+Стругацкие
+> [2025-05-04] 
+
 
 ### Ложная слепота
 > [2025-04-07] 

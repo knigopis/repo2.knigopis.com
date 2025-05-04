@@ -1,4 +1,16 @@
 {
+    "6OANY8TZQ4": {
+        "id": "6OANY8TZQ4",
+        "title": "Трудно быть богом",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2025-05-04 10:29:21",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 64
+        }
+    },
     "ESC-JS6I6W": {
         "id": "ESC-JS6I6W",
         "title": "Мимоза",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 513
-        }
-    },
-    "4W7B0tsFyB": {
-        "id": "4W7B0tsFyB",
-        "title": "Пиковая дама",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2025-03-31 06:08:02",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }
