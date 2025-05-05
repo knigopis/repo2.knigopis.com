@@ -1,4 +1,16 @@
 {
+    "N396gDSXZF": {
+        "id": "N396gDSXZF",
+        "title": "Тайный город. Зелёный гамбит",
+        "author": "Панов, Вадим",
+        "notes": "",
+        "createdAt": "2025-05-05 09:27:25",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 408
+        }
+    },
     "6OANY8TZQ4": {
         "id": "6OANY8TZQ4",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 54
-        }
-    },
-    "2uJtu0vAVX": {
-        "id": "2uJtu0vAVX",
-        "title": "Академия горгулий (4 части)",
-        "author": "Обухова Лена",
-        "notes": "https://flibusta.site/s/80091\nНа удивление приятная сказка. Про любовь, но без рюшей,соплей и прочей ерунды",
-        "createdAt": "2025-03-31 18:53:21",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 513
         }
     }
 }

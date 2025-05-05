@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>407</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>408</sup>
 ---
 
 ## 2025
+
+### Тайный город. Зелёный гамбит
+Панов, Вадим
+> [2025-04-20] 
+
 
 ### Тайный город. Дикие персы
 Панов, Вадим
