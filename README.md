@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный город. Дураки умирают первыми. ~ [Garka](users/115/115753719718250012620-google)<sup>409</sup>
+    > Очень слабо. Бред.
+
 * Престидижитатор Сталина ~ [Chiffi](users/105/105831994080785626680-google)<sup>518</sup>
     > http://flibusta.site/b/712881
     > Попаданец в прошлое. Не плохо
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > зa время вaшего отсутствия в вaшем присутствии не нуждaлись
 
 * «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
-    > Серия «Вера Стенхоуп» - 3
 
 * «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
 
@@ -31,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Хрустальное озеро ~ [zehan_v](users/174/174598622-vkontakte)<sup>58</sup>
 
-* «Дневник служанки» ~ [zehan_v](users/174/174598622-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>408</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>64</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>66</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_05.05.2025 09:27:25_
+_05.05.2025 09:29:12_
