@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
+    > Год написания - 2023
+    > Иинспектор Тэсс Фокс
+    > Слабо, разочаровала концовка
+
 * Тайный город. Дураки умирают первыми. ~ [Garka](users/115/115753719718250012620-google)<sup>409</sup>
     > Очень слабо. Бред.
 
@@ -13,11 +18,6 @@ Do not use pull requests to make changes here.
     > Попаданец в прошлое. Не плохо
 
 * Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
-    > https://readli.net/serie/30771/
-    > Будем воспитывaть кнутом и пряником. Что сaмое удобное в этом способе, тaк это, если пряник зaсохнет, им тоже бить можно будет.
-    > Ячхал- пустынный холодильник ледник
-    > это слегкa портило дух первооткрывaтельствa, однaко лучше стрaдaть от скуки, чем быть мёртвым, зaто удивлённым…
-    > зa время вaшего отсутствия в вaшем присутствии не нуждaлись
 
 * «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
 
@@ -31,17 +31,15 @@ Do not use pull requests to make changes here.
 
 * Ангел мертвеца . Тайный город 40 ~ [Chiffi](users/105/105831994080785626680-google)<sup>514</sup>
 
-* Хрустальное озеро ~ [zehan_v](users/174/174598622-vkontakte)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>67</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>64</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>66</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>518</sup> 
 [](users/105/105803270930838059244-google)<sup>19</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
@@ -70,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_05.05.2025 09:29:12_
+_07.05.2025 07:52:24_

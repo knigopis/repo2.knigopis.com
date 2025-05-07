@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
 * Тайный город. Дураки умирают первыми. ~ [Garka](users/115/115753719718250012620-google)<sup>409</sup>
 * Престидижитатор Сталина ~ [Chiffi](users/105/105831994080785626680-google)<sup>518</sup>
 * Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
@@ -31,7 +32,6 @@
 * Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
 * Джутовая маска ~ [Chiffi](users/105/105831994080785626680-google)<sup>507</sup>
 * Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
-* Метаморфозы Катрин ~ [Chiffi](users/105/105831994080785626680-google)<sup>505</sup>
 
 
-_05.05.2025 09:29:12_
+_07.05.2025 07:52:24_
