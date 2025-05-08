@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>64</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>65</sup>
 ---
 
 ## 2025
+
+### Шестой год
+> [2025-05-08] Фанфик
+
 
 ### Трудно быть богом
 Стругацкие

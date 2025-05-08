@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
 * Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
 * Тайный город. Дураки умирают первыми. ~ [Garka](users/115/115753719718250012620-google)<sup>409</sup>
 * Престидижитатор Сталина ~ [Chiffi](users/105/105831994080785626680-google)<sup>518</sup>
@@ -31,7 +32,6 @@
 * Семь сестер. Сестра ветра ~ [zehan_v](users/174/174598622-vkontakte)<sup>47</sup>
 * Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
 * Джутовая маска ~ [Chiffi](users/105/105831994080785626680-google)<sup>507</sup>
-* Тихие шаги ~ [Chiffi](users/105/105831994080785626680-google)<sup>506</sup>
 
 
-_07.05.2025 07:52:24_
+_08.05.2025 17:08:27_

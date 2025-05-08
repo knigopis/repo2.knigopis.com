@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
+    > Фанфик
+
 * Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
     > Год написания - 2023
     > Иинспектор Тэсс Фокс
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > Очень слабо. Бред.
 
 * Престидижитатор Сталина ~ [Chiffi](users/105/105831994080785626680-google)<sup>518</sup>
-    > http://flibusta.site/b/712881
-    > Попаданец в прошлое. Не плохо
 
 * Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
 
@@ -29,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Высшая каста. Тайный город 41 ~ [Chiffi](users/105/105831994080785626680-google)<sup>515</sup>
 
-* Ангел мертвеца . Тайный город 40 ~ [Chiffi](users/105/105831994080785626680-google)<sup>514</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>1</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>67</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>64</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>518</sup> 
 [](users/105/105803270930838059244-google)<sup>19</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 
 
-_08.05.2025 16:45:51_
+_08.05.2025 17:08:27_
