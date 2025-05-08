@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Сандро](users/108/108237148933511407715-google)<sup>0</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>67</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>64</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
-[butercupa](users/193/193697993-vkontakte)<sup>97</sup> 
 
 
-_07.05.2025 07:52:24_
+_08.05.2025 16:42:36_
