@@ -35,13 +35,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105803270930838059244-google)<sup>20</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>2</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>67</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>518</sup> 
-[](users/105/105803270930838059244-google)<sup>19</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [](users/107/107756383717359753203-google)<sup>51</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 
 
-_10.05.2025 05:14:35_
+_12.05.2025 06:55:54_
