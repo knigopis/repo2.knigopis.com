@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[777](users/110/110447263603270793076-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>20</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>2</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Книголикая](users/118/118445323552824972692-google)<sup>1</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>237</sup> 
 
 
-_12.05.2025 06:55:54_
+_14.05.2025 08:50:12_
