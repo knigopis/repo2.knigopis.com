@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
 * Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
 * Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
@@ -31,7 +32,6 @@
 * Семь сестер. Сестра жемчуга ~ [zehan_v](users/174/174598622-vkontakte)<sup>49</sup>
 * Сем сестер. Сестра тени ~ [zehan_v](users/174/174598622-vkontakte)<sup>48</sup>
 * Семь сестер. Сестра ветра ~ [zehan_v](users/174/174598622-vkontakte)<sup>47</sup>
-* Семь сестёр ~ [zehan_v](users/174/174598622-vkontakte)<sup>46</sup>
 
 
-_16.05.2025 08:51:58_
+_16.05.2025 08:53:24_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
+    > Серия: Вера Стенхоуп -5
+
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
     > Серия: Вера Стенхоуп -4
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
-    > Год написания - 2023
-    > Иинспектор Тэсс Фокс
-    > Слабо, разочаровала концовка
 
 * Тайный город. Дураки умирают первыми. ~ [Garka](users/115/115753719718250012620-google)<sup>409</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Исследование о природе и причинах богатства народов ~ [Garka](users/115/115753719718250012620-google)<sup>405</sup>
 
-* The One. Единственный ~ [Chiffi](users/105/105831994080785626680-google)<sup>516</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>68</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>69</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>20</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>2</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 
 
-_16.05.2025 08:51:58_
+_16.05.2025 08:53:24_
