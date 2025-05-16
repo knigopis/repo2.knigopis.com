@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>67</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>68</sup>
 ---
 
 ## 2025
+
+### Немые голоса
+Энн Кливз
+> [2025-05-15] Серия: Вера Стенхоуп -4
+
 
 ### Туз, дама, смерть
 Дженни Блэкхерст

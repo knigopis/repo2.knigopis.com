@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
+    > Серия: Вера Стенхоуп -4
+
 * Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
     > Фанфик
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Слабо, разочаровала концовка
 
 * Тайный город. Дураки умирают первыми. ~ [Garka](users/115/115753719718250012620-google)<sup>409</sup>
-    > Очень слабо. Бред.
 
 * Престидижитатор Сталина ~ [Chiffi](users/105/105831994080785626680-google)<sup>518</sup>
 
@@ -28,18 +30,16 @@ Do not use pull requests to make changes here.
 
 * The One. Единственный ~ [Chiffi](users/105/105831994080785626680-google)<sup>516</sup>
 
-* Высшая каста. Тайный город 41 ~ [Chiffi](users/105/105831994080785626680-google)<sup>515</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>68</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>20</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>2</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>67</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>518</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 
 
-_14.05.2025 08:50:12_
+_16.05.2025 08:51:58_
