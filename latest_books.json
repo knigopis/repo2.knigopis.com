@@ -1,4 +1,16 @@
 {
+    "CgLS7wWy8O": {
+        "id": "CgLS7wWy8O",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2025-05-16 18:43:23",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 256
+        }
+    },
     "1OTqWT_U8f": {
         "id": "1OTqWT_U8f",
         "title": "Комната из стекла",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 60
-        }
-    },
-    "LDRdnN78pZ": {
-        "id": "LDRdnN78pZ",
-        "title": "Девушки, которые лгут",
-        "author": "Эва Бьёрг Айисдоттир",
-        "notes": "",
-        "createdAt": "2025-04-14 09:24:21",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 59
         }
     }
 }

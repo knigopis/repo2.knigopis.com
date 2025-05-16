@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>256</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>69</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>20</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>294</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>255</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 [Акс](users/105/105584644059159770670-google)<sup>1</sup> 
 [евгения](users/108/108327816194861875647-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 
 
-_16.05.2025 08:53:24_
+_16.05.2025 18:43:23_
