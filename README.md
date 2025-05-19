@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>69</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/537/5373417-vkontakte)<sup>0</sup> 
 [Книголикая](users/118/118445323552824972692-google)<sup>1</sup> 
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
-[Slam41 ](users/103/103558184911332019716-google)<sup>0</sup> 
 
 
-_18.05.2025 14:54:22_
+_19.05.2025 19:07:43_
