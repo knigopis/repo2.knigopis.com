@@ -1,4 +1,10 @@
 {
+    "115529136518387382118-google": {
+        "id": "115529136518387382118-google",
+        "nickname": "LongGemin",
+        "booksCount": 0,
+        "updatedAt": "2025-05-19 19:07:42"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "aktoty",
         "booksCount": 98,
         "updatedAt": "2024-11-17 21:13:39"
-    },
-    "103558184911332019716-google": {
-        "id": "103558184911332019716-google",
-        "nickname": "Slam41 ",
-        "booksCount": 0,
-        "updatedAt": "2024-11-17 06:19:14"
     }
 }
