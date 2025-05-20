@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105803270930838059244-google)<sup>21</sup> 
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>69</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
-[](users/105/105803270930838059244-google)<sup>20</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>2</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 
 
-_19.05.2025 19:07:43_
+_20.05.2025 03:57:41_

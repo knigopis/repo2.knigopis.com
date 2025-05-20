@@ -1,4 +1,16 @@
 {
+    "f8wDBXQPzv": {
+        "id": "f8wDBXQPzv",
+        "title": "Фарамунд",
+        "author": "Юрий Никитин",
+        "notes": "",
+        "createdAt": "2025-05-20 03:57:41",
+        "user": {
+            "id": "105803270930838059244-google",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "obJwUGAxPv": {
         "id": "obJwUGAxPv",
         "title": "Ты здесь, БОюог?\nЭто я, Маргарет",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 51
-        }
-    },
-    "z96gCsOych": {
-        "id": "z96gCsOych",
-        "title": "Уроки итальянского",
-        "author": "Мейв Бинчи",
-        "notes": "",
-        "createdAt": "2025-04-14 09:32:53",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 61
         }
     }
 }
