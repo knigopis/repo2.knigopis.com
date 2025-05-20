@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* "Собиратели ракушек" ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
 * Супруги по соседству ~ [zehan_v](users/174/174598622-vkontakte)<sup>70</sup>
 * Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
@@ -31,7 +32,6 @@
 Серия: Граф Аверин. Колдун Российской империи ~ [Chiffi](users/105/105831994080785626680-google)<sup>509</sup>
 * Особняк Ведьмы 7 Частей ~ [Chiffi](users/105/105831994080785626680-google)<sup>508</sup>
 * Семь сестер. Сестра жемчуга ~ [zehan_v](users/174/174598622-vkontakte)<sup>49</sup>
-* Сем сестер. Сестра тени ~ [zehan_v](users/174/174598622-vkontakte)<sup>48</sup>
 
 
-_20.05.2025 07:55:39_
+_20.05.2025 08:08:10_

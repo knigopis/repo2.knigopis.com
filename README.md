@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* "Собиратели ракушек" ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
+    > Семейная сага
+    > картина "Собиратели ракушек"
+    > Главный персонаж — Пенелопа, ей 64 года, она мать троих уже взрослых детей. Сильная, умная женщина, которая пережила войну, трагическую любовь, раннюю смерть матери, а под старость неблагодарность детей.
+
 * Супруги по соседству ~ [zehan_v](users/174/174598622-vkontakte)<sup>70</sup>
     > Шери Лапенья. канадская писательница, автор детективных триллеров
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Серия: Вера Стенхоуп -5
 
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
-    > Серия: Вера Стенхоуп -4
 
 * Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
 
@@ -26,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
 
-* «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zehan_v](users/174/174598622-vkontakte)<sup>70</sup> 
+[zehan_v](users/174/174598622-vkontakte)<sup>72</sup> 
 [](users/105/105803270930838059244-google)<sup>22</sup> 
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 
 
-_20.05.2025 07:55:39_
+_20.05.2025 08:08:10_
