@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Супруги по соседству ~ [zehan_v](users/174/174598622-vkontakte)<sup>70</sup>
+    > Шери Лапенья. канадская писательница, автор детективных триллеров
+
 * Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
     > Серия: Вера Стенхоуп -5
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Серия: Вера Стенхоуп -4
 
 * Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
-    > Фанфик
 
 * Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * «Ночное солнце» ~ [zehan_v](users/174/174598622-vkontakte)<sup>62</sup>
 
-* Исследование о природе и причинах богатства народов ~ [Garka](users/115/115753719718250012620-google)<sup>405</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zehan_v](users/174/174598622-vkontakte)<sup>70</sup> 
 [](users/105/105803270930838059244-google)<sup>22</sup> 
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>69</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>2</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 
 
-_20.05.2025 04:47:57_
+_20.05.2025 07:55:39_
