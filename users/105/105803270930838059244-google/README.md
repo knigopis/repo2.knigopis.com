@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>22</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>23</sup>
 ---
 
 ## 2025
+
+### Те же и Скунс
+Мария Семёнова
+> [2025-05-21] 
+
 
 ### Николай Николаевич
 Юз Алешковский
