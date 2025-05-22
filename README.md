@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Щенок Монти или развесили меня ~ [Сандро](users/108/108237148933511407715-google)<sup>3</sup>
+    > Очень прикольная книга про собака где дедушка заболел а у него была собакам Дейзи такса а у них уже была собака Монти ну они сначала не подружились а потом подружились
+
 * "Собиратели ракушек" ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
     > Семейная сага
     > картина "Собиратели ракушек"
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Шери Лапенья. канадская писательница, автор детективных триллеров
 
 * Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
-    > Серия: Вера Стенхоуп -5
 
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
 
@@ -28,19 +30,17 @@ Do not use pull requests to make changes here.
 
 * Демиург ~ [Chiffi](users/105/105831994080785626680-google)<sup>517</sup>
 
-* «Скрытые глубины» ~ [zehan_v](users/174/174598622-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 [](users/105/105803270930838059244-google)<sup>23</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>71</sup> 
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
-[Сандро](users/108/108237148933511407715-google)<sup>2</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 
 
-_21.05.2025 07:03:52_
+_22.05.2025 07:32:13_

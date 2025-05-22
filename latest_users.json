@@ -1,4 +1,10 @@
 {
+    "108237148933511407715-google": {
+        "id": "108237148933511407715-google",
+        "nickname": "Сандро",
+        "booksCount": 3,
+        "updatedAt": "2025-05-22 07:32:13"
+    },
     "105803270930838059244-google": {
         "id": "105803270930838059244-google",
         "nickname": null,
@@ -28,12 +34,6 @@
         "nickname": "777",
         "booksCount": 0,
         "updatedAt": "2025-05-14 08:50:11"
-    },
-    "108237148933511407715-google": {
-        "id": "108237148933511407715-google",
-        "nickname": "Сандро",
-        "booksCount": 2,
-        "updatedAt": "2025-05-10 05:14:35"
     },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
