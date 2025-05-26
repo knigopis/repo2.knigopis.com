@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Айгуль](users/110/110628523588337726163-google)<sup>0</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 [](users/105/105803270930838059244-google)<sup>23</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>71</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 [](users/537/5373417-vkontakte)<sup>0</sup> 
 [Книголикая](users/118/118445323552824972692-google)<sup>1</sup> 
-[aktoty](users/275/275766107-vkontakte)<sup>98</sup> 
 
 
-_22.05.2025 07:32:13_
+_26.05.2025 15:09:52_
