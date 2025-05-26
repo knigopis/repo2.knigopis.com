@@ -1,4 +1,10 @@
 {
+    "114697375851244071129-google": {
+        "id": "114697375851244071129-google",
+        "nickname": "noch' nezhna",
+        "booksCount": 0,
+        "updatedAt": "2025-05-26 20:10:18"
+    },
     "110628523588337726163-google": {
         "id": "110628523588337726163-google",
         "nickname": "Айгуль",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2024-12-08 21:36:29"
-    },
-    "118445323552824972692-google": {
-        "id": "118445323552824972692-google",
-        "nickname": "Книголикая",
-        "booksCount": 1,
-        "updatedAt": "2024-12-08 15:19:01"
     }
 }
