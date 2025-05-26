@@ -1,4 +1,10 @@
 {
+    "110628523588337726163-google": {
+        "id": "110628523588337726163-google",
+        "nickname": "Айгуль",
+        "booksCount": 0,
+        "updatedAt": "2025-05-26 15:09:51"
+    },
     "108237148933511407715-google": {
         "id": "108237148933511407715-google",
         "nickname": "Сандро",
@@ -172,11 +178,5 @@
         "nickname": "Книголикая",
         "booksCount": 1,
         "updatedAt": "2024-12-08 15:19:01"
-    },
-    "275766107-vkontakte": {
-        "id": "275766107-vkontakte",
-        "nickname": "aktoty",
-        "booksCount": 98,
-        "updatedAt": "2024-11-17 21:13:39"
     }
 }
