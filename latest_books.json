@@ -1,4 +1,16 @@
 {
+    "a_AbE7yOMm": {
+        "id": "a_AbE7yOMm",
+        "title": "Человек в высоком замке",
+        "author": "Филип Дик",
+        "notes": "",
+        "createdAt": "2025-05-28 22:55:45",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 66
+        }
+    },
     "L0H8FmnMuc": {
         "id": "L0H8FmnMuc",
         "title": "Ведьмак. Последнее желание.",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 65
-        }
-    },
-    "H2KK-ntsvD": {
-        "id": "H2KK-ntsvD",
-        "title": "Святой Грааль-2",
-        "author": "Юрий Никитин",
-        "notes": "",
-        "createdAt": "2025-04-22 04:35:23",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 18
         }
     }
 }

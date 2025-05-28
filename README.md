@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>66</sup> 
 [](users/105/105803270930838059244-google)<sup>24</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>72</sup> 
 [noch' nezhna](users/114/114697375851244071129-google)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>518</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/537/5373417-vkontakte)<sup>0</sup> 
 
 
-_28.05.2025 12:29:40_
+_28.05.2025 22:55:45_
