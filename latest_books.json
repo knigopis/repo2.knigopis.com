@@ -1,4 +1,16 @@
 {
+    "L0H8FmnMuc": {
+        "id": "L0H8FmnMuc",
+        "title": "Ведьмак. Последнее желание.",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2025-05-28 12:29:40",
+        "user": {
+            "id": "105803270930838059244-google",
+            "nickname": null,
+            "booksCount": 24
+        }
+    },
     "nAEwWKRbWy": {
         "id": "nAEwWKRbWy",
         "title": "«Последний гость на свадьбе»",
@@ -345,18 +357,6 @@
             "id": "105803270930838059244-google",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "czzcxfmObO": {
-        "id": "czzcxfmObO",
-        "title": "\"Черная сирень\"",
-        "author": "Полина Елизарова",
-        "notes": "",
-        "createdAt": "2025-04-20 08:22:44",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 64
         }
     }
 }
