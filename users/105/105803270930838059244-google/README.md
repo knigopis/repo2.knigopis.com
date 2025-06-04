@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>27</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>26</sup>
 ---
 
 ## 2025
@@ -86,13 +86,6 @@
 
 ### Фарамунд
 Юрий Никитин
-
-
-
-## 2006
-
-### Крючок для Пираньи
-Александр Бушков
 
 
 
