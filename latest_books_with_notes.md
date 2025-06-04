@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Меж двух миров ~ [Chiffi](users/105/105831994080785626680-google)<sup>519</sup>
 * Ложь без спасения ~ [zehan_v](users/174/174598622-vkontakte)<sup>73</sup>
 * «Последний гость на свадьбе» ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
 * Щенок Монти или развесили меня ~ [Сандро](users/108/108237148933511407715-google)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Семь сестер. Сестра солнца ~ [zehan_v](users/174/174598622-vkontakte)<sup>51</sup>
 * «Семь сестёр».Сестра луны ~ [zehan_v](users/174/174598622-vkontakte)<sup>50</sup>
 * (бесчело)вечность ~ [Chiffi](users/105/105831994080785626680-google)<sup>511</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>510</sup>
 
 
-_02.06.2025 11:36:06_
+_04.06.2025 19:10:18_
