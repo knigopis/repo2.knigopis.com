@@ -1,4 +1,16 @@
 {
+    "_hKvuvVk-U": {
+        "id": "_hKvuvVk-U",
+        "title": "Культ зверя и славянские оборотни",
+        "author": "М. Голубева",
+        "notes": "",
+        "createdAt": "2025-06-06 21:23:37",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 53
+        }
+    },
     "HciQsMLwC5": {
         "id": "HciQsMLwC5",
         "title": "Хозяйка розария",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 460
-        }
-    },
-    "cZ2Ruuc-K0": {
-        "id": "cZ2Ruuc-K0",
-        "title": "“Снежное забвение”",
-        "author": "Энн Кливз",
-        "notes": "",
-        "createdAt": "2025-05-03 13:17:02",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 66
         }
     }
 }
