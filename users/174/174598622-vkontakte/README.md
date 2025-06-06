@@ -1,7 +1,12 @@
-# List of books read by [zehan_v](http://vk.com/id174598622)<sup>73</sup>
+# List of books read by [zehan_v](http://vk.com/id174598622)<sup>74</sup>
 ---
 
 ## 2025
+
+### Хозяйка розария
+Шарлотта Линк
+> [2025-06-06] 
+
 
 ### Ложь без спасения
 Шарлотта Линк

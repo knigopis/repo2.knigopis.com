@@ -1,4 +1,16 @@
 {
+    "HciQsMLwC5": {
+        "id": "HciQsMLwC5",
+        "title": "Хозяйка розария",
+        "author": "Шарлотта Линк",
+        "notes": "",
+        "createdAt": "2025-06-06 07:44:16",
+        "user": {
+            "id": "174598622-vkontakte",
+            "nickname": "zehan_v",
+            "booksCount": 74
+        }
+    },
     "qQHFkTz_kr": {
         "id": "qQHFkTz_kr",
         "title": "Меж двух миров",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 66
-        }
-    },
-    "1DNSQ7PqZ2": {
-        "id": "1DNSQ7PqZ2",
-        "title": "Престидижитатор Сталина",
-        "author": "Квинтус Номен",
-        "notes": "http://flibusta.site/b/712881\nПопаданец в прошлое. Не плохо",
-        "createdAt": "2025-04-30 18:28:01",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 518
         }
     }
 }
