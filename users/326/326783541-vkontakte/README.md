@@ -1,7 +1,11 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>66</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>67</sup>
 ---
 
 ## 2025
+
+### Драко Малфой и мучительное испытание любовью
+> [2025-06-08] Фанфик
+
 
 ### Человек в высоком замке
 Филип Дик

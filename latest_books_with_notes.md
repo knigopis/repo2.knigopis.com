@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Драко Малфой и мучительное испытание любовью ~ [Askaliya](users/326/326783541-vkontakte)<sup>67</sup>
 * Меж двух миров ~ [Chiffi](users/105/105831994080785626680-google)<sup>519</sup>
 * Ложь без спасения ~ [zehan_v](users/174/174598622-vkontakte)<sup>73</sup>
 * «Последний гость на свадьбе» ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
@@ -30,7 +31,6 @@
 * Семь сестер . Потерянная сестра ~ [zehan_v](users/174/174598622-vkontakte)<sup>52</sup>
 * Семь сестер. Сестра солнца ~ [zehan_v](users/174/174598622-vkontakte)<sup>51</sup>
 * «Семь сестёр».Сестра луны ~ [zehan_v](users/174/174598622-vkontakte)<sup>50</sup>
-* (бесчело)вечность ~ [Chiffi](users/105/105831994080785626680-google)<sup>511</sup>
 
 
-_04.06.2025 19:10:18_
+_09.06.2025 09:35:36_
