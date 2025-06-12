@@ -1,4 +1,16 @@
 {
+    "Qmw2UMewI9": {
+        "id": "Qmw2UMewI9",
+        "title": "Хищные вещи века",
+        "author": "Стругацкие",
+        "notes": "Коля рекомендует",
+        "createdAt": "2025-06-12 12:00:35",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 68
+        }
+    },
     "KXb_onyQuQ": {
         "id": "KXb_onyQuQ",
         "title": "Драко Малфой и мучительное испытание любовью",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 408
-        }
-    },
-    "6OANY8TZQ4": {
-        "id": "6OANY8TZQ4",
-        "title": "Трудно быть богом",
-        "author": "Стругацкие",
-        "notes": "",
-        "createdAt": "2025-05-04 10:29:21",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 64
         }
     }
 }

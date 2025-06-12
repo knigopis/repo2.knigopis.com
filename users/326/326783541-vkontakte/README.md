@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>67</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>68</sup>
 ---
 
 ## 2025
+
+### Хищные вещи века
+Стругацкие
+> [2025-06-12] Коля рекомендует
+
 
 ### Драко Малфой и мучительное испытание любовью
 Фанфик

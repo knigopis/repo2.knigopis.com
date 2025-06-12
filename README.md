@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хищные вещи века ~ [Askaliya](users/326/326783541-vkontakte)<sup>68</sup>
+    > Коля рекомендует
+
 * Драко Малфой и мучительное испытание любовью ~ [Askaliya](users/326/326783541-vkontakte)<sup>67</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Он вроде как самая большая шишка, но при этом самого маленького деревца. А эти хоть и маленькие, но от высоченных деревьев.
 
 * Ложь без спасения ~ [zehan_v](users/174/174598622-vkontakte)<sup>73</sup>
-    > На Лазурном Берегу Франции бесследно исчезает Петер Симон, известный всем, кто его знал, как успешный бизнесмен, любящий муж и заботливый отец. Его молодая жена Лаура предпринимает отчаянные попытки разыскать горячо любимого супруга. Но обнаруживается страшная правда, в одночасье обрушившая все иллюзии тихого семейного счастья. Ее муж – этот лжец и изменник – оказался вовсе не тем, за кого так успешно себя выдавал долгое время. И теперь это внезапно открывшееся знание грозит ей смертельной опасностью…
 
 * «Последний гость на свадьбе» ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
 
-* Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>67</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>68</sup> 
 [](users/107/107756383717359753203-google)<sup>53</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>74</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>519</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/537/5373417-vkontakte)<sup>0</sup> 
 
 
-_09.06.2025 09:35:36_
+_12.06.2025 12:00:35_
