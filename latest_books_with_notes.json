@@ -1,4 +1,16 @@
 {
+    "Tzdfue-fOv": {
+        "id": "Tzdfue-fOv",
+        "title": "Онлайн игра для ленивого злодея",
+        "author": "Дорничев Дмитрий",
+        "notes": "https://author.today/reader/453989\nhttps://author.today/work/series/24811\nПохоже, что должно быть продолжение, но..",
+        "createdAt": "2025-06-15 17:37:43",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 520
+        }
+    },
     "Qmw2UMewI9": {
         "id": "Qmw2UMewI9",
         "title": "Хищные вещи века",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 52
-        }
-    },
-    "WNXSxDU9ij": {
-        "id": "WNXSxDU9ij",
-        "title": "Семь сестер. Сестра солнца",
-        "author": "Люсинда Райли",
-        "notes": "6. Электра Кения",
-        "createdAt": "2025-03-26 06:36:26",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 51
         }
     }
 }

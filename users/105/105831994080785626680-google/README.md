@@ -1,7 +1,14 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>519</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>520</sup>
 ---
 
 ## 2025
+
+### Онлайн игра для ленивого злодея
+Дорничев Дмитрий
+> [2025-06-10] https://author.today/reader/453989
+> https://author.today/work/series/24811
+> Похоже, что должно быть продолжение, но..
+
 
 ### Меж двух миров
 Ласточкин Дмитрий

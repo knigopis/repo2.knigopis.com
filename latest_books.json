@@ -1,4 +1,16 @@
 {
+    "Tzdfue-fOv": {
+        "id": "Tzdfue-fOv",
+        "title": "Онлайн игра для ленивого злодея",
+        "author": "Дорничев Дмитрий",
+        "notes": "https://author.today/reader/453989\nhttps://author.today/work/series/24811\nПохоже, что должно быть продолжение, но..",
+        "createdAt": "2025-06-15 17:37:43",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 520
+        }
+    },
     "Qmw2UMewI9": {
         "id": "Qmw2UMewI9",
         "title": "Хищные вещи века",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 409
-        }
-    },
-    "N396gDSXZF": {
-        "id": "N396gDSXZF",
-        "title": "Тайный город. Зелёный гамбит",
-        "author": "Панов, Вадим",
-        "notes": "",
-        "createdAt": "2025-05-05 09:27:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 408
         }
     }
 }
