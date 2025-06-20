@@ -1,4 +1,16 @@
 {
+    "MpZ6kUjM_g": {
+        "id": "MpZ6kUjM_g",
+        "title": "Понедельник начинается в субботу",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2025-06-20 10:01:38",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 69
+        }
+    },
     "Tzdfue-fOv": {
         "id": "Tzdfue-fOv",
         "title": "Онлайн игра для ленивого злодея",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 67
-        }
-    },
-    "I5psYlOF4x": {
-        "id": "I5psYlOF4x",
-        "title": "Тайный город. Дураки умирают первыми.",
-        "author": "Панов, Вадим и Точинов, Виктор",
-        "notes": "Очень слабо. Бред.",
-        "createdAt": "2025-05-05 09:29:12",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 409
         }
     }
 }

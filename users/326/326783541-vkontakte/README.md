@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>68</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>69</sup>
 ---
 
 ## 2025
+
+### Понедельник начинается в субботу
+Стругацкие
+> [2025-06-20] 
+
 
 ### Хищные вещи века
 Стругацкие
