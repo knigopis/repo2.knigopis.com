@@ -1,4 +1,16 @@
 {
+    "d_lbXBvHE_": {
+        "id": "d_lbXBvHE_",
+        "title": "Муму",
+        "author": "Тургенев И.С.",
+        "notes": "",
+        "createdAt": "2025-06-21 02:25:22",
+        "user": {
+            "id": "105803270930838059244-google",
+            "nickname": null,
+            "booksCount": 28
+        }
+    },
     "JWuu6OgBzy": {
         "id": "JWuu6OgBzy",
         "title": "Про Федота-стрельца, удалого молодца",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 65
-        }
-    },
-    "DbhHOgRTLZ": {
-        "id": "DbhHOgRTLZ",
-        "title": "Маленький принц",
-        "author": "Антуан де сент-экзюпери",
-        "notes": "Очень интересно как он летал по разным землям и узнавал мир",
-        "createdAt": "2025-05-08 16:45:51",
-        "user": {
-            "id": "108237148933511407715-google",
-            "nickname": "Сандро",
-            "booksCount": 1
         }
     }
 }
