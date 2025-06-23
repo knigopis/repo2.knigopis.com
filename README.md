@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/105/105803270930838059244-google)<sup>28</sup> 
+[](users/105/105803270930838059244-google)<sup>29</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>69</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>520</sup> 
 [](users/107/107756383717359753203-google)<sup>53</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/537/5373417-vkontakte)<sup>0</sup> 
 
 
-_21.06.2025 02:25:22_
+_23.06.2025 01:36:33_
