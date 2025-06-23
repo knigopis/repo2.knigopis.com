@@ -1,4 +1,10 @@
 {
+    "110922225860264388705-google": {
+        "id": "110922225860264388705-google",
+        "nickname": "bulatgab",
+        "booksCount": 0,
+        "updatedAt": "2025-06-23 07:30:08"
+    },
     "105803270930838059244-google": {
         "id": "105803270930838059244-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Amorphis",
         "booksCount": 1,
         "updatedAt": "2024-12-27 21:15:37"
-    },
-    "5373417-vkontakte": {
-        "id": "5373417-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2024-12-08 21:36:29"
     }
 }
