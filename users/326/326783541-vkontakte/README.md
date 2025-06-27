@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>69</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>70</sup>
 ---
 
 ## 2025
+
+### Сказка о тройке
+Стругацкие
+> [2025-06-27] 
+
 
 ### Понедельник начинается в субботу
 Стругацкие

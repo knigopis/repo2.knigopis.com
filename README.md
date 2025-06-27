@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>70</sup> 
 [](users/107/107756383717359753203-google)<sup>54</sup> 
 [bulatgab](users/110/110922225860264388705-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>69</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>520</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>74</sup> 
 [noch' nezhna](users/114/114697375851244071129-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 
 
-_26.06.2025 14:58:32_
+_27.06.2025 17:15:07_

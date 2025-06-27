@@ -1,4 +1,16 @@
 {
+    "h3yfwKxK9G": {
+        "id": "h3yfwKxK9G",
+        "title": "Сказка о тройке",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2025-06-27 17:15:07",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 70
+        }
+    },
     "54a_39FtoJ": {
         "id": "54a_39FtoJ",
         "title": "Вторая жизнь Уве",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 68
-        }
-    },
-    "JAUFV7_qGa": {
-        "id": "JAUFV7_qGa",
-        "title": "Гиперборей",
-        "author": "Юрий Никитин",
-        "notes": "",
-        "createdAt": "2025-05-12 06:55:54",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
