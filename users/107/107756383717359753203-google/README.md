@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>54</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>55</sup>
 ---
 
 ## 2025
+
+### Медвежий угол
+Фредрик Бакман
+> [2025-06-30] 
+
 
 ### Вторая жизнь Уве
 Фредрик Бакман

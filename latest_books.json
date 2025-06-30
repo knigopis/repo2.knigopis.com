@@ -1,4 +1,16 @@
 {
+    "KY9WOAfWiD": {
+        "id": "KY9WOAfWiD",
+        "title": "Медвежий угол",
+        "author": "Фредрик Бакман",
+        "notes": "",
+        "createdAt": "2025-06-30 18:51:10",
+        "user": {
+            "id": "107756383717359753203-google",
+            "nickname": null,
+            "booksCount": 55
+        }
+    },
     "h3yfwKxK9G": {
         "id": "h3yfwKxK9G",
         "title": "Сказка о тройке",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 69
-        }
-    },
-    "UNu1l4Negl": {
-        "id": "UNu1l4Negl",
-        "title": "Немые голоса",
-        "author": "Энн Кливз",
-        "notes": "Серия: Вера Стенхоуп -4",
-        "createdAt": "2025-05-16 08:51:58",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 68
         }
     }
 }
