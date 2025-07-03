@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/107/107756383717359753203-google)<sup>55</sup> 
+[](users/107/107756383717359753203-google)<sup>56</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>70</sup> 
 [bulatgab](users/110/110922225860264388705-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 
 
-_30.06.2025 18:51:10_
+_03.07.2025 22:44:27_

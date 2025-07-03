@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>55</sup>
+# List of books read by [](https://plus.google.com/u/0/107756383717359753203/)<sup>56</sup>
 ---
 
 ## 2025
+
+### Мы против вас
+Фредрик Бакман
+> [2025-07-03] 
+
 
 ### Медвежий угол
 Фредрик Бакман
