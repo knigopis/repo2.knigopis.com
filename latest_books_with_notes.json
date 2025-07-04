@@ -1,4 +1,16 @@
 {
+    "wjwzOXX7Tx": {
+        "id": "wjwzOXX7Tx",
+        "title": "Толковая Библия. Том 1",
+        "author": "Лопухин Александр Павлович",
+        "notes": "Ветхий Завет (пятикнижие Моисея: Бытие, Исход, Левит, Числа, Второзаконие)",
+        "createdAt": "2025-07-04 20:38:31",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 410
+        }
+    },
     "Tzdfue-fOv": {
         "id": "Tzdfue-fOv",
         "title": "Онлайн игра для ленивого злодея",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 512
-        }
-    },
-    "enbV1NwkDx": {
-        "id": "enbV1NwkDx",
-        "title": "Семь сестер . Потерянная сестра",
-        "author": "Люсинда Райли",
-        "notes": "7. Мэрри . Ирландия",
-        "createdAt": "2025-03-26 06:37:49",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 52
         }
     }
 }

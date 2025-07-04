@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Толковая Библия. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>410</sup>
+    > Ветхий Завет (пятикнижие Моисея: Бытие, Исход, Левит, Числа, Второзаконие)
+
 * Онлайн игра для ленивого злодея ~ [Chiffi](users/105/105831994080785626680-google)<sup>520</sup>
     > https://author.today/reader/453989
     > https://author.today/work/series/24811
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Коля рекомендует
 
 * Драко Малфой и мучительное испытание любовью ~ [Askaliya](users/326/326783541-vkontakte)<sup>67</sup>
-    > Фанфик
 
 * Меж двух миров ~ [Chiffi](users/105/105831994080785626680-google)<sup>519</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Супруги по соседству ~ [zehan_v](users/174/174598622-vkontakte)<sup>70</sup>
 
-* Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>410</sup> 
 [](users/107/107756383717359753203-google)<sup>56</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>70</sup> 
 [bulatgab](users/110/110922225860264388705-google)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>409</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 
 
-_03.07.2025 22:44:27_
+_04.07.2025 20:38:31_
