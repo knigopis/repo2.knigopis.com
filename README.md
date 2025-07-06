@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>258</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>410</sup> 
 [](users/107/107756383717359753203-google)<sup>56</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>70</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Айгуль](users/110/110628523588337726163-google)<sup>1</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>257</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amorphis](users/111/111813311426128919318-google)<sup>1</sup> 
 
 
-_04.07.2025 20:38:31_
+_06.07.2025 00:32:06_
