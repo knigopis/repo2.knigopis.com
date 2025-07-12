@@ -1,4 +1,16 @@
 {
+    "NKKDR0j6ze": {
+        "id": "NKKDR0j6ze",
+        "title": "Запретная тетрадь",
+        "author": "Альба де Сеспедес",
+        "notes": "",
+        "createdAt": "2025-07-12 10:20:54",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 477
+        }
+    },
     "zh7vk2fMdd": {
         "id": "zh7vk2fMdd",
         "title": "После тяжелой продолжительной болезни. Время Николая II",
@@ -345,18 +357,6 @@
             "id": "105803270930838059244-google",
             "nickname": null,
             "booksCount": 25
-        }
-    },
-    "a_AbE7yOMm": {
-        "id": "a_AbE7yOMm",
-        "title": "Человек в высоком замке",
-        "author": "Филип Дик",
-        "notes": "",
-        "createdAt": "2025-05-28 22:55:45",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 66
         }
     }
 }
