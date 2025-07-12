@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/106/106288897753354227117-google)<sup>0</sup> 
+[Lena](users/106/106288897753354227117-google)<sup>469</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>260</sup> 
 [](users/100/100698173543506909054-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>410</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/115/115891840326495240870-google)<sup>99</sup> 
 
 
-_08.07.2025 14:54:33_
+_12.07.2025 10:14:01_
