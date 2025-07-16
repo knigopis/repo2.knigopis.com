@@ -1,4 +1,16 @@
 {
+    "lsx7BC_SQQ": {
+        "id": "lsx7BC_SQQ",
+        "title": "Тайный город. Охотники на вампиров",
+        "author": "Панов, Вадим и Пронин, Игорь",
+        "notes": "Персонажи не внятные, развитие сюжета притянуто за уши. Хотя сама идея интересная.",
+        "createdAt": "2025-07-16 20:23:33",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 411
+        }
+    },
     "NKKDR0j6ze": {
         "id": "NKKDR0j6ze",
         "title": "Запретная тетрадь",
@@ -345,18 +357,6 @@
             "id": "105803270930838059244-google",
             "nickname": null,
             "booksCount": 27
-        }
-    },
-    "JDyTWmXyTu": {
-        "id": "JDyTWmXyTu",
-        "title": "След Пираньи",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2025-05-29 06:38:30",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 25
         }
     }
 }

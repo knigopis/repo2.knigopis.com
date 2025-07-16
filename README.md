@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный город. Охотники на вампиров ~ [Garka](users/115/115753719718250012620-google)<sup>411</sup>
+    > Персонажи не внятные, развитие сюжета притянуто за уши. Хотя сама идея интересная.
+
 * Толковая Библия. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>410</sup>
     > Ветхий Завет (пятикнижие Моисея: Бытие, Исход, Левит, Числа, Второзаконие)
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Похоже, что должно быть продолжение, но..
 
 * Хищные вещи века ~ [Askaliya](users/326/326783541-vkontakte)<sup>68</sup>
-    > Коля рекомендует
 
 * Драко Малфой и мучительное испытание любовью ~ [Askaliya](users/326/326783541-vkontakte)<sup>67</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * "Собиратели ракушек" ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
 
-* Супруги по соседству ~ [zehan_v](users/174/174598622-vkontakte)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>411</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>477</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>260</sup> 
 [](users/100/100698173543506909054-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>410</sup> 
 [](users/107/107756383717359753203-google)<sup>56</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>70</sup> 
 [bulatgab](users/110/110922225860264388705-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/115/115891840326495240870-google)<sup>99</sup> 
 
 
-_12.07.2025 10:20:54_
+_16.07.2025 20:23:33_
