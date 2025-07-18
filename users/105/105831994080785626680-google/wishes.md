@@ -9,6 +9,10 @@
 Горбов Котобус Александр
 > https://www.litlib.net/author/58174
 
+### `78` На золотом крыльце
+Капба Евгений
+> https://share.google/MWhG2gkJjkBD5X8o4
+
 ### `77` Хранитель древа мира
 Дорничев Дмитрий
 > https://readli.net/chitat-online/?b=1340886&pg=20
