@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MW](users/112/112939273652151342554-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>411</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>477</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>260</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Акс](users/105/105584644059159770670-google)<sup>1</sup> 
 [евгения](users/108/108327816194861875647-google)<sup>0</sup> 
 [Carleutto](users/118/118270319028469737508-google)<sup>129</sup> 
-[aktoty](users/115/115891840326495240870-google)<sup>99</sup> 
 
 
-_16.07.2025 20:23:33_
+_19.07.2025 07:53:47_
