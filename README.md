@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный город. Семейное дело ~ [Garka](users/115/115753719718250012620-google)<sup>412</sup>
+    > Хорошо написано. Моряна, шас и метоморфы в Озёрске
+
 * Тайный город. Охотники на вампиров ~ [Garka](users/115/115753719718250012620-google)<sup>411</sup>
     > Персонажи не внятные, развитие сюжета притянуто за уши. Хотя сама идея интересная.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Ветхий Завет (пятикнижие Моисея: Бытие, Исход, Левит, Числа, Второзаконие)
 
 * Онлайн игра для ленивого злодея ~ [Chiffi](users/105/105831994080785626680-google)<sup>520</sup>
-    > https://author.today/reader/453989
-    > https://author.today/work/series/24811
-    > Похоже, что должно быть продолжение, но..
 
 * Хищные вещи века ~ [Askaliya](users/326/326783541-vkontakte)<sup>68</sup>
 
@@ -28,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Щенок Монти или развесили меня ~ [Сандро](users/108/108237148933511407715-google)<sup>3</sup>
 
-* "Собиратели ракушек" ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>412</sup> 
 [KMS](users/116/116225468654936056801-google)<sup>0</sup> 
 [MW](users/112/112939273652151342554-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>411</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>477</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>260</sup> 
 [](users/100/100698173543506909054-google)<sup>0</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [евгения](users/108/108327816194861875647-google)<sup>0</sup> 
 
 
-_21.07.2025 14:13:38_
+_21.07.2025 15:31:49_

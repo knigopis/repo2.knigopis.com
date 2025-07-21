@@ -1,4 +1,16 @@
 {
+    "az5p69Gbt5": {
+        "id": "az5p69Gbt5",
+        "title": "Тайный город. Семейное дело",
+        "author": "Панов Вадим, Посняков Андрей",
+        "notes": "Хорошо написано. Моряна, шас и метоморфы в Озёрске",
+        "createdAt": "2025-07-21 15:31:48",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 412
+        }
+    },
     "lsx7BC_SQQ": {
         "id": "lsx7BC_SQQ",
         "title": "Тайный город. Охотники на вампиров",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 73
-        }
-    },
-    "uOYY-6vPJ4": {
-        "id": "uOYY-6vPJ4",
-        "title": "Крючок для Пираньи",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2025-05-29 08:44:54",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 27
         }
     }
 }
