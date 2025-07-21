@@ -1,4 +1,10 @@
 {
+    "116225468654936056801-google": {
+        "id": "116225468654936056801-google",
+        "nickname": "KMS",
+        "booksCount": 0,
+        "updatedAt": "2025-07-21 14:13:38"
+    },
     "112939273652151342554-google": {
         "id": "112939273652151342554-google",
         "nickname": "MW",
@@ -172,11 +178,5 @@
         "nickname": "евгения",
         "booksCount": 0,
         "updatedAt": "2025-02-03 16:51:50"
-    },
-    "118270319028469737508-google": {
-        "id": "118270319028469737508-google",
-        "nickname": "Carleutto",
-        "booksCount": 129,
-        "updatedAt": "2025-02-03 13:04:03"
     }
 }
