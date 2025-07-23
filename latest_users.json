@@ -1,4 +1,10 @@
 {
+    "109028180913620975319-google": {
+        "id": "109028180913620975319-google",
+        "nickname": "ITggDart",
+        "booksCount": 0,
+        "updatedAt": "2025-07-23 06:47:31"
+    },
     "102752109452258353282-google": {
         "id": "102752109452258353282-google",
         "nickname": "Sacramantis",
@@ -172,11 +178,5 @@
         "nickname": "gfgf",
         "booksCount": 1,
         "updatedAt": "2025-02-08 11:44:13"
-    },
-    "105584644059159770670-google": {
-        "id": "105584644059159770670-google",
-        "nickname": "Акс",
-        "booksCount": 1,
-        "updatedAt": "2025-02-05 11:29:27"
     }
 }
