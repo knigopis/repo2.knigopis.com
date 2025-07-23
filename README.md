@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>412</sup> 
 [KMS](users/116/116225468654936056801-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>294</sup> 
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
-[Акс](users/105/105584644059159770670-google)<sup>1</sup> 
 
 
-_22.07.2025 23:04:40_
+_23.07.2025 06:47:32_
