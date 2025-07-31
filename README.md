@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
+    > опыт явно доказал, что лучше выстрелить, перезарядить и снова выстрелить, чем спрашивать «Кто там?».
+
 * Тайный город. Семейное дело ~ [Garka](users/115/115753719718250012620-google)<sup>412</sup>
     > Хорошо написано. Моряна, шас и метоморфы в Озёрске
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Персонажи не внятные, развитие сюжета притянуто за уши. Хотя сама идея интересная.
 
 * Толковая Библия. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>410</sup>
-    > Ветхий Завет (пятикнижие Моисея: Бытие, Исход, Левит, Числа, Второзаконие)
 
 * Онлайн игра для ленивого злодея ~ [Chiffi](users/105/105831994080785626680-google)<sup>520</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Последний гость на свадьбе» ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
 
-* Щенок Монти или развесили меня ~ [Сандро](users/108/108237148933511407715-google)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>521</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>478</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>70</sup> 
 [bulatgab](users/110/110922225860264388705-google)<sup>0</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>520</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>74</sup> 
 [noch' nezhna](users/114/114697375851244071129-google)<sup>0</sup> 
 [Айгуль](users/110/110628523588337726163-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 
 
-_25.07.2025 21:36:31_
+_31.07.2025 21:10:38_

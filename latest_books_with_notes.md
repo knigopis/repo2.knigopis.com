@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
 * Тайный город. Семейное дело ~ [Garka](users/115/115753719718250012620-google)<sup>412</sup>
 * Тайный город. Охотники на вампиров ~ [Garka](users/115/115753719718250012620-google)<sup>411</sup>
 * Толковая Библия. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>410</sup>
@@ -30,7 +31,6 @@
 * «Дневник служанки» ~ [zehan_v](users/174/174598622-vkontakte)<sup>57</sup>
 * «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
 * Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
-* Что дальше, миссис Норидж? ~ [zehan_v](users/174/174598622-vkontakte)<sup>54</sup>
 
 
-_21.07.2025 15:31:49_
+_31.07.2025 21:10:38_
