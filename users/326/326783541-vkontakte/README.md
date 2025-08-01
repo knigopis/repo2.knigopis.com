@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>70</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>71</sup>
 ---
 
 ## 2025
+
+### Попытка к бегству
+Стругацкие
+> [2025-08-01] 
+
 
 ### Сказка о тройке
 Стругацкие
