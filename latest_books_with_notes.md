@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* НекроХантик ~ [Chiffi](users/105/105831994080785626680-google)<sup>522</sup>
 * Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
 * Тайный город. Семейное дело ~ [Garka](users/115/115753719718250012620-google)<sup>412</sup>
 * Тайный город. Охотники на вампиров ~ [Garka](users/115/115753719718250012620-google)<sup>411</sup>
@@ -30,7 +31,6 @@
 * Хрустальное озеро ~ [zehan_v](users/174/174598622-vkontakte)<sup>58</sup>
 * «Дневник служанки» ~ [zehan_v](users/174/174598622-vkontakte)<sup>57</sup>
 * «Хрустальная пирамида» ~ [zehan_v](users/174/174598622-vkontakte)<sup>56</sup>
-* Ты меня не видишь ~ [zehan_v](users/174/174598622-vkontakte)<sup>55</sup>
 
 
-_31.07.2025 21:10:38_
+_04.08.2025 06:55:41_

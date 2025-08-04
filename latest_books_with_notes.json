@@ -1,4 +1,16 @@
 {
+    "_cJWv9YR8S": {
+        "id": "_cJWv9YR8S",
+        "title": "НекроХантик",
+        "author": "Борисов Олег",
+        "notes": "https://readli.net/nekrohanik/",
+        "createdAt": "2025-08-04 06:55:41",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 522
+        }
+    },
     "wtMNIS0u9V": {
         "id": "wtMNIS0u9V",
         "title": "Деревня",
@@ -345,18 +357,6 @@
             "id": "174598622-vkontakte",
             "nickname": "zehan_v",
             "booksCount": 56
-        }
-    },
-    "XmAuF4Args": {
-        "id": "XmAuF4Args",
-        "title": "Ты меня не видишь",
-        "author": "Эва Бьёрг Айисдоттир",
-        "notes": "«Скандинавский нуар»",
-        "createdAt": "2025-04-01 05:19:44",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 55
         }
     }
 }

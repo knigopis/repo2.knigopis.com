@@ -1,4 +1,16 @@
 {
+    "_cJWv9YR8S": {
+        "id": "_cJWv9YR8S",
+        "title": "НекроХантик",
+        "author": "Борисов Олег",
+        "notes": "https://readli.net/nekrohanik/",
+        "createdAt": "2025-08-04 06:55:41",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 522
+        }
+    },
     "yO8rMAxX4s": {
         "id": "yO8rMAxX4s",
         "title": "Попытка к бегству",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 53
-        }
-    },
-    "HciQsMLwC5": {
-        "id": "HciQsMLwC5",
-        "title": "Хозяйка розария",
-        "author": "Шарлотта Линк",
-        "notes": "",
-        "createdAt": "2025-06-06 07:44:16",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 74
         }
     }
 }

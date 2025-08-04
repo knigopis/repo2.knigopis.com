@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* НекроХантик ~ [Chiffi](users/105/105831994080785626680-google)<sup>522</sup>
+    > https://readli.net/nekrohanik/
+
 * Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
     > опыт явно доказал, что лучше выстрелить, перезарядить и снова выстрелить, чем спрашивать «Кто там?».
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошо написано. Моряна, шас и метоморфы в Озёрске
 
 * Тайный город. Охотники на вампиров ~ [Garka](users/115/115753719718250012620-google)<sup>411</sup>
-    > Персонажи не внятные, развитие сюжета притянуто за уши. Хотя сама идея интересная.
 
 * Толковая Библия. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>410</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Ложь без спасения ~ [zehan_v](users/174/174598622-vkontakte)<sup>73</sup>
 
-* «Последний гость на свадьбе» ~ [zehan_v](users/174/174598622-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>522</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>71</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>521</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>478</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 
 
-_01.08.2025 16:00:25_
+_04.08.2025 06:55:41_
