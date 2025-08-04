@@ -1,4 +1,16 @@
 {
+    "VbNuN19kH0": {
+        "id": "VbNuN19kH0",
+        "title": "Рассказявки",
+        "author": "Горбов Котобус Александр",
+        "notes": "https://www.litlib.net/author/58174\nОчень милые коротыши",
+        "createdAt": "2025-08-04 06:55:59",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 523
+        }
+    },
     "_cJWv9YR8S": {
         "id": "_cJWv9YR8S",
         "title": "НекроХантик",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 67
-        }
-    },
-    "_hKvuvVk-U": {
-        "id": "_hKvuvVk-U",
-        "title": "Культ зверя и славянские оборотни",
-        "author": "М. Голубева",
-        "notes": "",
-        "createdAt": "2025-06-06 21:23:37",
-        "user": {
-            "id": "107756383717359753203-google",
-            "nickname": null,
-            "booksCount": 53
         }
     }
 }

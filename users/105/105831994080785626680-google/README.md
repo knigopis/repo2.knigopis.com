@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>522</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>523</sup>
 ---
 
 ## 2025
+
+### Рассказявки
+Горбов Котобус Александр
+> [2025-08-01] https://www.litlib.net/author/58174
+> Очень милые коротыши
+
 
 ### Деревня
 Дорничев

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказявки ~ [Chiffi](users/105/105831994080785626680-google)<sup>523</sup>
+    > https://www.litlib.net/author/58174
+    > Очень милые коротыши
+
 * НекроХантик ~ [Chiffi](users/105/105831994080785626680-google)<sup>522</sup>
     > https://readli.net/nekrohanik/
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > опыт явно доказал, что лучше выстрелить, перезарядить и снова выстрелить, чем спрашивать «Кто там?».
 
 * Тайный город. Семейное дело ~ [Garka](users/115/115753719718250012620-google)<sup>412</sup>
-    > Хорошо написано. Моряна, шас и метоморфы в Озёрске
 
 * Тайный город. Охотники на вампиров ~ [Garka](users/115/115753719718250012620-google)<sup>411</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Меж двух миров ~ [Chiffi](users/105/105831994080785626680-google)<sup>519</sup>
 
-* Ложь без спасения ~ [zehan_v](users/174/174598622-vkontakte)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>522</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>523</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>71</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>478</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 
 
-_04.08.2025 06:55:41_
+_04.08.2025 06:55:59_
