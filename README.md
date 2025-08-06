@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lena](users/106/106288897753354227117-google)<sup>479</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>72</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>523</sup> 
-[Lena](users/106/106288897753354227117-google)<sup>478</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>412</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 
 
-_06.08.2025 18:11:10_
+_06.08.2025 22:20:17_

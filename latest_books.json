@@ -1,4 +1,16 @@
 {
+    "gG6vhbmQVO": {
+        "id": "gG6vhbmQVO",
+        "title": "Пути сообщения",
+        "author": "Ксения Буржская",
+        "notes": "",
+        "createdAt": "2025-08-06 22:20:17",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 479
+        }
+    },
     "YkheQgRp7z": {
         "id": "YkheQgRp7z",
         "title": "Далекая радуга",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 520
-        }
-    },
-    "Qmw2UMewI9": {
-        "id": "Qmw2UMewI9",
-        "title": "Хищные вещи века",
-        "author": "Стругацкие",
-        "notes": "Коля рекомендует",
-        "createdAt": "2025-06-12 12:00:35",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 68
         }
     }
 }

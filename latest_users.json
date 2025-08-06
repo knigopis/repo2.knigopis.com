@@ -1,4 +1,10 @@
 {
+    "106288897753354227117-google": {
+        "id": "106288897753354227117-google",
+        "nickname": "Lena",
+        "booksCount": 479,
+        "updatedAt": "2025-08-06 22:20:17"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "Askaliya",
@@ -10,12 +16,6 @@
         "nickname": "Chiffi",
         "booksCount": 523,
         "updatedAt": "2025-08-04 06:55:59"
-    },
-    "106288897753354227117-google": {
-        "id": "106288897753354227117-google",
-        "nickname": "Lena",
-        "booksCount": 478,
-        "updatedAt": "2025-07-25 21:36:31"
     },
     "109028180913620975319-google": {
         "id": "109028180913620975319-google",
