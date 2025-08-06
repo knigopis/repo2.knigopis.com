@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](http://vk.com/id326783541)<sup>71</sup>
+# List of books read by [Askaliya](http://vk.com/id326783541)<sup>72</sup>
 ---
 
 ## 2025
+
+### Далекая радуга
+Стругацкие
+> [2025-08-06] 
+
 
 ### Попытка к бегству
 Стругацкие
