@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* НекроХаник ~ [Chiffi](users/105/105831994080785626680-google)<sup>524</sup>
+    > Максимально быстрый драп позже легко переименовать в стратегические отступление. Главное — дожить до этого момента
+    > https://readli.net/serie/27442/
+    > 
+    > Собаку зря убили.  Нет пророка в своем отечестве...
+
 * Рассказявки ~ [Chiffi](users/105/105831994080785626680-google)<sup>523</sup>
     > https://www.litlib.net/author/58174
     > Очень милые коротыши
@@ -13,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/nekrohanik/
 
 * Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
-    > опыт явно доказал, что лучше выстрелить, перезарядить и снова выстрелить, чем спрашивать «Кто там?».
 
 * Тайный город. Семейное дело ~ [Garka](users/115/115753719718250012620-google)<sup>412</sup>
 
@@ -27,16 +32,14 @@ Do not use pull requests to make changes here.
 
 * Драко Малфой и мучительное испытание любовью ~ [Askaliya](users/326/326783541-vkontakte)<sup>67</sup>
 
-* Меж двух миров ~ [Chiffi](users/105/105831994080785626680-google)<sup>519</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>524</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>479</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>72</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>523</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>412</sup> 
@@ -66,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfgf](users/116/116019493327313578692-google)<sup>1</sup> 
 
 
-_06.08.2025 22:20:17_
+_07.08.2025 06:42:43_
