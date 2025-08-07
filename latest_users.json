@@ -1,4 +1,10 @@
 {
+    "test-local": {
+        "id": "test-local",
+        "nickname": "test",
+        "booksCount": 0,
+        "updatedAt": "2025-08-07 13:58:14"
+    },
     "rnix-local": {
         "id": "rnix-local",
         "nickname": "rnix",
@@ -172,11 +178,5 @@
         "nickname": "CR_RONIN",
         "booksCount": 0,
         "updatedAt": "2025-03-11 20:07:30"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 294,
-        "updatedAt": "2025-03-09 17:07:16"
     }
 }
