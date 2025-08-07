@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rnix](users/rni/rnix-local)<sup>0</sup> 
+[rnix](users/rni/rnix-local)<sup>76</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>524</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>479</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>72</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>294</sup> 
 
 
-_07.08.2025 13:41:38_
+_07.08.2025 13:52:02_
