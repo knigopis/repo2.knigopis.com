@@ -1,4 +1,10 @@
 {
+    "rnix-local": {
+        "id": "rnix-local",
+        "nickname": "rnix",
+        "booksCount": 0,
+        "updatedAt": "2025-08-07 13:41:38"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 294,
         "updatedAt": "2025-03-09 17:07:16"
-    },
-    "116019493327313578692-google": {
-        "id": "116019493327313578692-google",
-        "nickname": "gfgf",
-        "booksCount": 1,
-        "updatedAt": "2025-02-08 11:44:13"
     }
 }
