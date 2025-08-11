@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Толковая Библия. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>413</sup>
+    > Книга Иисусу Навина, Книга Руфь, 1-4 Книги Царств
+
 * НекроХаник ~ [Chiffi](users/105/105831994080785626680-google)<sup>524</sup>
     > Максимально быстрый драп позже легко переименовать в стратегические отступление. Главное — дожить до этого момента
     > https://readli.net/serie/27442/
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Очень милые коротыши
 
 * НекроХантик ~ [Chiffi](users/105/105831994080785626680-google)<sup>522</sup>
-    > https://readli.net/nekrohanik/
 
 * Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Хищные вещи века ~ [Askaliya](users/326/326783541-vkontakte)<sup>68</sup>
 
-* Драко Малфой и мучительное испытание любовью ~ [Askaliya](users/326/326783541-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>413</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>74</sup> 
 [test](users/tes/test-local)<sup>0</sup> 
 [rnix](users/rni/rnix-local)<sup>76</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lena](users/106/106288897753354227117-google)<sup>479</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>412</sup> 
 [KMS](users/116/116225468654936056801-google)<sup>0</sup> 
 [MW](users/112/112939273652151342554-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>260</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 
 
-_11.08.2025 00:29:10_
+_11.08.2025 21:18:59_
