@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>73</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>74</sup> 
 [test](users/tes/test-local)<sup>0</sup> 
 [rnix](users/rni/rnix-local)<sup>76</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>524</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 
 
-_09.08.2025 23:39:25_
+_11.08.2025 00:29:10_
