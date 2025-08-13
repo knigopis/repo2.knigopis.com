@@ -1,4 +1,16 @@
 {
+    "TCUIlVy1Zn": {
+        "id": "TCUIlVy1Zn",
+        "title": "Такого света в мире не было до появления N.",
+        "author": "Оксана Васякина",
+        "notes": "",
+        "createdAt": "2025-08-13 23:46:19",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 480
+        }
+    },
     "EVfp4AC7DR": {
         "id": "EVfp4AC7DR",
         "title": "Толковая Библия. Том 2",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 54
-        }
-    },
-    "05RRA1-NpC": {
-        "id": "05RRA1-NpC",
-        "title": "Трудно быть богом",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2025-06-23 01:36:33",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 29
         }
     }
 }

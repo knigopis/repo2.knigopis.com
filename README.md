@@ -37,12 +37,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lena](users/106/106288897753354227117-google)<sup>480</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>413</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>74</sup> 
 [test](users/tes/test-local)<sup>0</sup> 
 [rnix](users/rni/rnix-local)<sup>76</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>524</sup> 
-[Lena](users/106/106288897753354227117-google)<sup>479</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
 [KMS](users/116/116225468654936056801-google)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 
 
-_11.08.2025 21:18:59_
+_13.08.2025 23:46:19_
