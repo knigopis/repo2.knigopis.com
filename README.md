@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Сова](users/111/111678706154782248327-google)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>480</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>413</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>74</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
 [Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
-[CR_RONIN](users/117/117421856236745123056-google)<sup>0</sup> 
 
 
-_13.08.2025 23:46:19_
+_18.08.2025 15:32:51_
