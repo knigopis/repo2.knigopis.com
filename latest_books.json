@@ -1,4 +1,16 @@
 {
+    "bX6DcSUYqc": {
+        "id": "bX6DcSUYqc",
+        "title": "Герцог и я",
+        "author": "Джулии Куин",
+        "notes": "Книга по которой сняли Бриджертонов, интересный легкий роман",
+        "createdAt": "2025-08-23 08:06:13",
+        "user": {
+            "id": "115891840326495240870-google",
+            "nickname": "aktoty",
+            "booksCount": 100
+        }
+    },
     "-jXVVszxrC": {
         "id": "-jXVVszxrC",
         "title": "Хранитель древа мира 8 книг",
@@ -345,18 +357,6 @@
             "id": "107756383717359753203-google",
             "nickname": null,
             "booksCount": 55
-        }
-    },
-    "h3yfwKxK9G": {
-        "id": "h3yfwKxK9G",
-        "title": "Сказка о тройке",
-        "author": "Стругацкие",
-        "notes": "",
-        "createdAt": "2025-06-27 17:15:07",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 70
         }
     }
 }

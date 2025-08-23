@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герцог и я ~ [aktoty](users/115/115891840326495240870-google)<sup>100</sup>
+    > Книга по которой сняли Бриджертонов, интересный легкий роман
+
 * Хранитель древа мира 8 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>525</sup>
     > https://readli.net/chitat-online/?b=1340886&pg=20
     > Люди, которых зaгнaли в угол, опaсны. А вот с теми, которым до углa ещё идти и идти, можно иметь делa и дaвить нa них. Ну и пить из них все соки, покa те не остaнутся высушенными кaк изюм.
@@ -18,10 +21,6 @@ Do not use pull requests to make changes here.
     > Книга Иисусу Навина, Книга Руфь, 1-4 Книги Царств
 
 * НекроХаник ~ [Chiffi](users/105/105831994080785626680-google)<sup>524</sup>
-    > Максимально быстрый драп позже легко переименовать в стратегические отступление. Главное — дожить до этого момента
-    > https://readli.net/serie/27442/
-    > 
-    > Собаку зря убили.  Нет пророка в своем отечестве...
 
 * Рассказявки ~ [Chiffi](users/105/105831994080785626680-google)<sup>523</sup>
 
@@ -35,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Толковая Библия. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>410</sup>
 
-* Онлайн игра для ленивого злодея ~ [Chiffi](users/105/105831994080785626680-google)<sup>520</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aktoty](users/115/115891840326495240870-google)<sup>100</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>525</sup> 
 [Сова](users/111/111678706154782248327-google)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>480</sup> 
@@ -71,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
-[Cr_RONIN](users/112/112090473416384685204-google)<sup>16</sup> 
 
 
-_22.08.2025 07:39:28_
+_23.08.2025 08:06:13_
