@@ -1,4 +1,16 @@
 {
+    "AMDuEbAjxz": {
+        "id": "AMDuEbAjxz",
+        "title": "Охота на маленькую щуку",
+        "author": "Юхани Карила",
+        "notes": "",
+        "createdAt": "2025-08-24 18:58:06",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 481
+        }
+    },
     "qRyA3FVO_0": {
         "id": "qRyA3FVO_0",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 259
-        }
-    },
-    "wjwzOXX7Tx": {
-        "id": "wjwzOXX7Tx",
-        "title": "Толковая Библия. Том 1",
-        "author": "Лопухин Александр Павлович",
-        "notes": "Ветхий Завет (пятикнижие Моисея: Бытие, Исход, Левит, Числа, Второзаконие)",
-        "createdAt": "2025-07-04 20:38:31",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 410
         }
     }
 }
