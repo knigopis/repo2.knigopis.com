@@ -1,4 +1,16 @@
 {
+    "_PEiOwjZfL": {
+        "id": "_PEiOwjZfL",
+        "title": "Гарри Поттер и методы рационального мышления",
+        "author": "Е. Юдковский",
+        "notes": "",
+        "createdAt": "2025-08-26 15:32:46",
+        "user": {
+            "id": "326783541-vkontakte",
+            "nickname": "Askaliya",
+            "booksCount": 75
+        }
+    },
     "qR9stHROSM": {
         "id": "qR9stHROSM",
         "title": "Империализм как высшая стадия капитализма",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 260
-        }
-    },
-    "tBJMthJETW": {
-        "id": "tBJMthJETW",
-        "title": "Кавказский пленник",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2025-07-07 07:26:18",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 259
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 75,
+        "updatedAt": "2025-08-26 15:32:46"
+    },
     "105803270930838059244-google": {
         "id": "105803270930838059244-google",
         "nickname": null,
@@ -34,12 +40,6 @@
         "nickname": "Garka",
         "booksCount": 413,
         "updatedAt": "2025-08-11 21:18:59"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 74,
-        "updatedAt": "2025-08-11 00:29:10"
     },
     "test-local": {
         "id": "test-local",

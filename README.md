@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
 [](users/105/105803270930838059244-google)<sup>30</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>481</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>102</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>525</sup> 
 [Сова](users/111/111678706154782248327-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>413</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>74</sup> 
 [test](users/tes/test-local)<sup>0</sup> 
 [rnix](users/rni/rnix-local)<sup>76</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
 
 
-_26.08.2025 02:01:24_
+_26.08.2025 15:32:46_
