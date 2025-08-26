@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112499141381613191217-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
 [](users/105/105803270930838059244-google)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 [Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
-[Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
 
 
-_26.08.2025 19:45:39_
+_26.08.2025 23:04:06_
