@@ -1,4 +1,10 @@
 {
+    "112499141381613191217-google": {
+        "id": "112499141381613191217-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2025-08-26 23:04:06"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Лунев Виталий",
         "booksCount": 0,
         "updatedAt": "2025-03-19 14:11:51"
-    },
-    "13413591548892934957-mailru": {
-        "id": "13413591548892934957-mailru",
-        "nickname": "Shellena",
-        "booksCount": 469,
-        "updatedAt": "2025-03-18 16:20:51"
     }
 }
