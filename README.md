@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
+[Askaliya](users/326/326783541-vkontakte)<sup>76</sup> 
 [](users/105/105803270930838059244-google)<sup>30</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>481</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>102</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Shellena](users/134/13413591548892934957-mailru)<sup>469</sup> 
 
 
-_26.08.2025 15:32:46_
+_26.08.2025 15:33:16_
