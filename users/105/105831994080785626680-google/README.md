@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>525</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>526</sup>
 ---
 
 ## 2025
+
+### Пустые зеркала. Медвежье озеро
+Обухова Лена
+> [2025-08-26] 
+
 
 ### Хранитель древа мира 8 книг
 Дорничев Дмитрий
