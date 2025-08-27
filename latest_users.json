@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 414,
+        "updatedAt": "2025-08-27 17:52:33"
+    },
     "112499141381613191217-google": {
         "id": "112499141381613191217-google",
         "nickname": null,
@@ -40,12 +46,6 @@
         "nickname": "Сова",
         "booksCount": 0,
         "updatedAt": "2025-08-18 15:32:50"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 413,
-        "updatedAt": "2025-08-11 21:18:59"
     },
     "test-local": {
         "id": "test-local",

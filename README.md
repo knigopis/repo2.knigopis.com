@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Двенадцатая планета ~ [Garka](users/115/115753719718250012620-google)<sup>414</sup>
+    > Теория палеоконтакта.Двенадцатая планета Солнечной смистемы (шумеры Луну за планету считали) с периодом обращения 3600лет.
+
 * Дом странных детей ~ [aktoty](users/115/115891840326495240870-google)<sup>102</sup>
     > В фильме показали сразу две книги( из за спойлеров решила не читать вторую часть
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вторая книга из серии, по которой снимали Бриджертонов. Очень много разницы в книге и сериале, из-за чего в книге главный герой более эксцентричный.
 
 * Герцог и я ~ [aktoty](users/115/115891840326495240870-google)<sup>100</sup>
-    > Книга по которой сняли Бриджертонов, интересный легкий роман
 
 * Хранитель древа мира 8 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>525</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
 
-* Тайный город. Семейное дело ~ [Garka](users/115/115753719718250012620-google)<sup>412</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>414</sup> 
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lena](users/106/106288897753354227117-google)<sup>481</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>102</sup> 
 [Сова](users/111/111678706154782248327-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>413</sup> 
 [test](users/tes/test-local)<sup>0</sup> 
 [rnix](users/rni/rnix-local)<sup>76</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 
 
-_26.08.2025 23:04:06_
+_27.08.2025 17:52:33_
