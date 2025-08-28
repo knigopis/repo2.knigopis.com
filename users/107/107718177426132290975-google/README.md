@@ -1,5 +1,13 @@
-# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>22</sup>
+# List of books read by [Dinara ](https://plus.google.com/u/0/107718177426132290975/)<sup>23</sup>
 ---
+
+## 2025
+
+### Девушка в лабиринте
+Донато Карризи
+> [2025-08-28] 
+
+
 
 ## 2024
 

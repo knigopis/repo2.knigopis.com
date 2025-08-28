@@ -1,4 +1,16 @@
 {
+    "4_GTh5zCms": {
+        "id": "4_GTh5zCms",
+        "title": "Девушка в лабиринте",
+        "author": "Донато Карризи",
+        "notes": "",
+        "createdAt": "2025-08-28 16:50:11",
+        "user": {
+            "id": "107718177426132290975-google",
+            "nickname": "Dinara ",
+            "booksCount": 23
+        }
+    },
     "O8nEsZiVSd": {
         "id": "O8nEsZiVSd",
         "title": "Славянская мифология. Часть 2",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 474
-        }
-    },
-    "J7TXGvg4sm": {
-        "id": "J7TXGvg4sm",
-        "title": "Птица Скорби",
-        "author": "Мубанга Калимамуквенто",
-        "notes": "",
-        "createdAt": "2025-07-12 10:18:21",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 473
         }
     }
 }

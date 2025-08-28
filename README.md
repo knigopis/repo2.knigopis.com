@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dinara ](users/107/107718177426132290975-google)<sup>23</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>416</sup> 
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 [Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
-[Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 
 
-_28.08.2025 09:53:10_
+_28.08.2025 16:50:11_
