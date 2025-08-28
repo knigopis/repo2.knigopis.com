@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Славянская мифология. Часть 1 ~ [Garka](users/115/115753719718250012620-google)<sup>415</sup>
+    > Аудио
+
 * Двенадцатая планета ~ [Garka](users/115/115753719718250012620-google)<sup>414</sup>
     > Теория палеоконтакта.Двенадцатая планета Солнечной смистемы (шумеры Луну за планету считали) с периодом обращения 3600лет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В фильме показали сразу две книги( из за спойлеров решила не читать вторую часть
 
 * Виконт, который любил меня ~ [aktoty](users/115/115891840326495240870-google)<sup>101</sup>
-    > Вторая книга из серии, по которой снимали Бриджертонов. Очень много разницы в книге и сериале, из-за чего в книге главный герой более эксцентричный.
 
 * Герцог и я ~ [aktoty](users/115/115891840326495240870-google)<sup>100</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * НекроХантик ~ [Chiffi](users/105/105831994080785626680-google)<sup>522</sup>
 
-* Деревня ~ [Chiffi](users/105/105831994080785626680-google)<sup>521</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>414</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>415</sup> 
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 
 
-_27.08.2025 17:52:33_
+_28.08.2025 09:52:49_

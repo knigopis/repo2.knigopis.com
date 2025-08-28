@@ -1,4 +1,16 @@
 {
+    "EstirrJElv": {
+        "id": "EstirrJElv",
+        "title": "Славянская мифология. Часть 1",
+        "author": "Баркова, Александра",
+        "notes": "Аудио",
+        "createdAt": "2025-08-28 09:52:49",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 415
+        }
+    },
     "O942b-AJfZ": {
         "id": "O942b-AJfZ",
         "title": "Двенадцатая планета",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 517
-        }
-    },
-    "JeDK-yqVNk": {
-        "id": "JeDK-yqVNk",
-        "title": "«Скрытые глубины»",
-        "author": "Энн Кливз",
-        "notes": "Серия «Вера Стенхоуп» - 3",
-        "createdAt": "2025-04-24 04:28:34",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 65
         }
     }
 }
