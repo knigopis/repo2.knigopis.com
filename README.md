@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Славянская мифология. Часть 2 ~ [Garka](users/115/115753719718250012620-google)<sup>416</sup>
+    > Аудио
+
 * Славянская мифология. Часть 1 ~ [Garka](users/115/115753719718250012620-google)<sup>415</sup>
     > Аудио
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Теория палеоконтакта.Двенадцатая планета Солнечной смистемы (шумеры Луну за планету считали) с периодом обращения 3600лет.
 
 * Дом странных детей ~ [aktoty](users/115/115891840326495240870-google)<sup>102</sup>
-    > В фильме показали сразу две книги( из за спойлеров решила не читать вторую часть
 
 * Виконт, который любил меня ~ [aktoty](users/115/115891840326495240870-google)<sup>101</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рассказявки ~ [Chiffi](users/105/105831994080785626680-google)<sup>523</sup>
 
-* НекроХантик ~ [Chiffi](users/105/105831994080785626680-google)<sup>522</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>415</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>416</sup> 
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лунев Виталий](users/105/105094667890867197709-google)<sup>0</sup> 
 
 
-_28.08.2025 09:52:49_
+_28.08.2025 09:53:10_
