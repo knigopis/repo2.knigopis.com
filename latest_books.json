@@ -1,4 +1,16 @@
 {
+    "VPua2xULLA": {
+        "id": "VPua2xULLA",
+        "title": "Тайный город. Ночь Солнца",
+        "author": "Панов, Вадим; Зимний Александр",
+        "notes": "Клан массанов Лигар, амулет крови \"Ночь Солнца\"",
+        "createdAt": "2025-09-01 20:57:36",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 417
+        }
+    },
     "4_GTh5zCms": {
         "id": "4_GTh5zCms",
         "title": "Девушка в лабиринте",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 475
-        }
-    },
-    "SKhvPdZCbI": {
-        "id": "SKhvPdZCbI",
-        "title": "Моралите",
-        "author": "Барри Ансуорт",
-        "notes": "",
-        "createdAt": "2025-07-12 10:18:54",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 474
         }
     }
 }
