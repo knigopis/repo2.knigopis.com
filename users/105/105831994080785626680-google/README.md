@@ -1,7 +1,15 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>525</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>526</sup>
 ---
 
 ## 2025
+
+### Демонология по Волкову (3 части)
+Тимошенко Наталья
+> [2025-09-02] http://flibusta.site/b/810607
+>  Мистика, детектив, любовь. Затягивает
+> https://loveread.info/books/nauchnaya-fantastika/267727-demonologiya-po-volkovu-snohodcy-natalya-nikolaevna.html#fullstory-text
+> Все кончилось предсказуемого: не свадьба, но предложение))
+
 
 ### Пустые зеркала. Медвежье озеро
 Обухова Лена

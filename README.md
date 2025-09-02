@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Демонология по Волкову (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>526</sup>
+    > http://flibusta.site/b/810607
+    >  Мистика, детектив, любовь. Затягивает
+    > https://loveread.info/books/nauchnaya-fantastika/267727-demonologiya-po-volkovu-snohodcy-natalya-nikolaevna.html#fullstory-text
+    > Все кончилось предсказуемого: не свадьба, но предложение))
+
 * Тайный город. Ночь Солнца ~ [Garka](users/115/115753719718250012620-google)<sup>417</sup>
     > Клан массанов Лигар, амулет крови "Ночь Солнца"
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Славянская мифология. Часть 1 ~ [Garka](users/115/115753719718250012620-google)<sup>415</sup>
-    > Аудио
 
 * Двенадцатая планета ~ [Garka](users/115/115753719718250012620-google)<sup>414</sup>
 
@@ -26,15 +31,13 @@ Do not use pull requests to make changes here.
 
 * Толковая Библия. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>413</sup>
 
-* НекроХаник ~ [Chiffi](users/105/105831994080785626680-google)<sup>524</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>417</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>525</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>23</sup> 
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
 
 
-_01.09.2025 20:57:36_
+_02.09.2025 04:52:22_
