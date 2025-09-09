@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108887983030919100717-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>417</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>23</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
-[Лунев Виталий](users/d51/d51d3296763ca6fa-liveid)<sup>0</sup> 
 
 
-_02.09.2025 04:52:22_
+_09.09.2025 22:22:24_
