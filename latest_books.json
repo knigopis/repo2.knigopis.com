@@ -1,4 +1,16 @@
 {
+    "DPSq6ocJvG": {
+        "id": "DPSq6ocJvG",
+        "title": "The Case of the Man Who Two-Thirds Wasn't There",
+        "author": "Фанфик",
+        "notes": "Фанфик",
+        "createdAt": "2025-09-10 20:32:53",
+        "user": {
+            "id": "108887983030919100717-google",
+            "nickname": "Askaliya",
+            "booksCount": 2
+        }
+    },
     "v2OBklr1-l": {
         "id": "v2OBklr1-l",
         "title": "Колдун с неглинки",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 412
-        }
-    },
-    "lsx7BC_SQQ": {
-        "id": "lsx7BC_SQQ",
-        "title": "Тайный город. Охотники на вампиров",
-        "author": "Панов, Вадим и Пронин, Игорь",
-        "notes": "Персонажи не внятные, развитие сюжета притянуто за уши. Хотя сама идея интересная.",
-        "createdAt": "2025-07-16 20:23:33",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 411
         }
     }
 }
