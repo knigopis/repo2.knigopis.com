@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Колдун с неглинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>527</sup>
+    > Мистика с ужасом. Реалистично. Жалко гг
+
 * Демонология по Волкову (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>526</sup>
     > http://flibusta.site/b/810607
     >  Мистика, детектив, любовь. Затягивает
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Клан массанов Лигар, амулет крови "Ночь Солнца"
 
 * Славянская мифология. Часть 2 ~ [Garka](users/115/115753719718250012620-google)<sup>416</sup>
-    > Аудио
 
 * Славянская мифология. Часть 1 ~ [Garka](users/115/115753719718250012620-google)<sup>415</sup>
 
@@ -29,15 +31,13 @@ Do not use pull requests to make changes here.
 
 * Хранитель древа мира 8 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>525</sup>
 
-* Толковая Библия. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>413</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>527</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>526</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>417</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>23</sup> 
 [](users/112/112499141381613191217-google)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 
 
-_09.09.2025 22:25:36_
+_10.09.2025 18:37:06_

@@ -1,4 +1,16 @@
 {
+    "v2OBklr1-l": {
+        "id": "v2OBklr1-l",
+        "title": "Колдун с неглинки",
+        "author": "Степанова Саша",
+        "notes": "Мистика с ужасом. Реалистично. Жалко гг",
+        "createdAt": "2025-09-10 18:37:06",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 527
+        }
+    },
     "qqPwzVlbww": {
         "id": "qqPwzVlbww",
         "title": "Демонология по Волкову (3 части)",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 65
-        }
-    },
-    "FTBUpLHVHV": {
-        "id": "FTBUpLHVHV",
-        "title": "Туз, дама, смерть",
-        "author": "Туз, дама, смерть",
-        "notes": "Год написания - 2023\nИинспектор Тэсс Фокс\nСлабо, разочаровала концовка",
-        "createdAt": "2025-05-07 07:52:24",
-        "user": {
-            "id": "174598622-vkontakte",
-            "nickname": "zehan_v",
-            "booksCount": 67
         }
     }
 }

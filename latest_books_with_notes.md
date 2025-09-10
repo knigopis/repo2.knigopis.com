@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Колдун с неглинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>527</sup>
 * Демонология по Волкову (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>526</sup>
 * Тайный город. Ночь Солнца ~ [Garka](users/115/115753719718250012620-google)<sup>417</sup>
 * Славянская мифология. Часть 2 ~ [Garka](users/115/115753719718250012620-google)<sup>416</sup>
@@ -30,7 +31,6 @@
 * Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
 * Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
-* Туз, дама, смерть ~ [zehan_v](users/174/174598622-vkontakte)<sup>67</sup>
 
 
-_02.09.2025 04:52:22_
+_10.09.2025 18:37:06_
