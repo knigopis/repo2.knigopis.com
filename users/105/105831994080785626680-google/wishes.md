@@ -1,6 +1,10 @@
 # Wish list of books by [Chiffi](https://plus.google.com/105831994080785626680)
 ---
 
+### `91` Демон скучающий. Феликс Сербин 4
+Панов Вадим
+> Демон скучающий (fb2) | Флибуста https://share.google/nRvCVRHSbJ9gzXy6A
+
 ### `90` Пятая бездна
 Степанова Саша
 > https://loveread.info/books/nauchnaya-fantastika/185352-pyataya-bezdna-sasha-stepanova.html
