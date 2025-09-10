@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Осиная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>418</sup>
 * Колдун с неглинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>527</sup>
 * Демонология по Волкову (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>526</sup>
 * Тайный город. Ночь Солнца ~ [Garka](users/115/115753719718250012620-google)<sup>417</sup>
@@ -30,7 +31,6 @@
 * Супруги по соседству ~ [zehan_v](users/174/174598622-vkontakte)<sup>70</sup>
 * Комната из стекла ~ [zehan_v](users/174/174598622-vkontakte)<sup>69</sup>
 * Немые голоса ~ [zehan_v](users/174/174598622-vkontakte)<sup>68</sup>
-* Шестой год ~ [Askaliya](users/326/326783541-vkontakte)<sup>65</sup>
 
 
-_10.09.2025 18:37:06_
+_10.09.2025 20:36:43_

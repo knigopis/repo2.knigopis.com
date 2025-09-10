@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осиная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>418</sup>
+    > Неоднозначная книга.При чтение вызывает чувство, что вляпался во что-то мерзкое, в конце Френсиса конечно жалко, но для себя я его (её) оправдать не могу.
+
 * Колдун с неглинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>527</sup>
     > Мистика с ужасом. Реалистично. Жалко гг
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Все кончилось предсказуемого: не свадьба, но предложение))
 
 * Тайный город. Ночь Солнца ~ [Garka](users/115/115753719718250012620-google)<sup>417</sup>
-    > Клан массанов Лигар, амулет крови "Ночь Солнца"
 
 * Славянская мифология. Часть 2 ~ [Garka](users/115/115753719718250012620-google)<sup>416</sup>
 
@@ -29,16 +31,14 @@ Do not use pull requests to make changes here.
 
 * Герцог и я ~ [aktoty](users/115/115891840326495240870-google)<sup>100</sup>
 
-* Хранитель древа мира 8 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>525</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>418</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>527</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>417</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>23</sup> 
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 
 
-_10.09.2025 20:32:53_
+_10.09.2025 20:36:43_
