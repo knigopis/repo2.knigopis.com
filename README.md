@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lena](users/106/106288897753354227117-google)<sup>482</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>418</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>527</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
 [](users/105/105803270930838059244-google)<sup>30</sup> 
-[Lena](users/106/106288897753354227117-google)<sup>481</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>102</sup> 
 [Сова](users/111/111678706154782248327-google)<sup>0</sup> 
 [test](users/tes/test-local)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 
 
-_10.09.2025 20:36:43_
+_13.09.2025 21:41:27_
