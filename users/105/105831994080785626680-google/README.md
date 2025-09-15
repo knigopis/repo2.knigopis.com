@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>527</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>528</sup>
 ---
 
 ## 2025
+
+### Пятая бездна
+Степанова Саша
+> [2025-09-10] https://loveread.info/books/nauchnaya-fantastika/185352-pyataya-bezdna-sasha-stepanova.html
+
 
 ### Колдун с неглинки
 Степанова Саша
