@@ -1,4 +1,16 @@
 {
+    "DCxuEiUX8h": {
+        "id": "DCxuEiUX8h",
+        "title": "Перстень Парацельса",
+        "author": "Панов, Вадим и Василевский, Артур",
+        "notes": "Артефакт, делающий людей рабами. Но это не точно",
+        "createdAt": "2025-09-24 19:32:57",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 420
+        }
+    },
     "TZSH2d5uOv": {
         "id": "TZSH2d5uOv",
         "title": "Лестница в небо. В поисках бессмертия",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 524
-        }
-    },
-    "gG6vhbmQVO": {
-        "id": "gG6vhbmQVO",
-        "title": "Пути сообщения",
-        "author": "Ксения Буржская",
-        "notes": "",
-        "createdAt": "2025-08-06 22:20:17",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 479
         }
     }
 }

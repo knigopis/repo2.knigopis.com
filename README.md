@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Перстень Парацельса ~ [Garka](users/115/115753719718250012620-google)<sup>420</sup>
+    > Артефакт, делающий людей рабами. Но это не точно
+
 * Лестница в небо. В поисках бессмертия ~ [Garka](users/115/115753719718250012620-google)<sup>419</sup>
     > Сама теория интересна, ссылки на древние артефакты и письмена тоже, но очень много "воды" и повторений одного и того же
 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Какая разница, где именно радоваться? Если ты живой, то можешь радоваться в любом месте. Это мёртвым уже всё равно, а пока не умер, будь добр, веселись, пока есть возможность.
 
 * Пятая бездна ~ [Chiffi](users/105/105831994080785626680-google)<sup>528</sup>
-    > https://loveread.info/books/nauchnaya-fantastika/185352-pyataya-bezdna-sasha-stepanova.html
 
 * Осиная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>418</sup>
 
@@ -34,14 +36,12 @@ Do not use pull requests to make changes here.
 
 * Славянская мифология. Часть 1 ~ [Garka](users/115/115753719718250012620-google)<sup>415</sup>
 
-* Двенадцатая планета ~ [Garka](users/115/115753719718250012620-google)<sup>414</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>419</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>420</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>529</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>3</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>483</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 
 
-_24.09.2025 19:25:52_
+_24.09.2025 19:32:58_
