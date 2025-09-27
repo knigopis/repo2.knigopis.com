@@ -13,7 +13,7 @@
 > [2025-09-19] 
 
 
-### The case of s man who two-thirds wasn't there
+### The case of a man who two-thirds wasn't there
 Фанфик
 > [2025-09-10] 
 
