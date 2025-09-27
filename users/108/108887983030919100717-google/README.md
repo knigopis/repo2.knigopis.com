@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](https://plus.google.com/u/0/108887983030919100717/)<sup>77</sup>
+# List of books read by [Askaliya](https://plus.google.com/u/0/108887983030919100717/)<sup>78</sup>
 ---
 
 ## 2025
+
+### Скованные
+Фанфик
+> [2025-09-19] 
+
 
 ### The case of s man who two-thirds wasn't there
 Фанфик
