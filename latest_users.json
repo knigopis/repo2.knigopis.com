@@ -1,4 +1,10 @@
 {
+    "Anastasia-local": {
+        "id": "Anastasia-local",
+        "nickname": "Anastasia",
+        "booksCount": 0,
+        "updatedAt": "2025-09-27 15:24:29"
+    },
     "108887983030919100717-google": {
         "id": "108887983030919100717-google",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": "rnixik",
         "booksCount": 76,
         "updatedAt": "2025-03-26 10:08:47"
-    },
-    "100034469369076891567-google": {
-        "id": "100034469369076891567-google",
-        "nickname": "Lacfor",
-        "booksCount": 0,
-        "updatedAt": "2025-03-20 07:47:29"
     }
 }

@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anastasia](users/Ana/Anastasia-local)<sup>0</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>4</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>420</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>529</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
-[Lacfor](users/100/100034469369076891567-google)<sup>0</sup> 
 
 
-_26.09.2025 01:07:28_
+_27.09.2025 15:24:29_
