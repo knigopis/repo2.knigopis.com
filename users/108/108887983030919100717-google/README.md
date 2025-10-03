@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](https://plus.google.com/u/0/108887983030919100717/)<sup>79</sup>
+# List of books read by [Askaliya](https://plus.google.com/u/0/108887983030919100717/)<sup>80</sup>
 ---
 
 ## 2025
+
+### Космобиолухи [2]
+Громыко
+> [2025-10-04] 
+
 
 ### Creep
 Фанфик
