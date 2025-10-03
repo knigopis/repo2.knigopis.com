@@ -1,4 +1,16 @@
 {
+    "6CQDOZTARL": {
+        "id": "6CQDOZTARL",
+        "title": "Уклады",
+        "author": "Сборник рассказов",
+        "notes": "",
+        "createdAt": "2025-10-03 23:35:02",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 484
+        }
+    },
     "DGlAXxnqwn": {
         "id": "DGlAXxnqwn",
         "title": "Космобиолухи [2]",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 525
-        }
-    },
-    "TCUIlVy1Zn": {
-        "id": "TCUIlVy1Zn",
-        "title": "Такого света в мире не было до появления N.",
-        "author": "Оксана Васякина",
-        "notes": "",
-        "createdAt": "2025-08-13 23:46:19",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 480
         }
     }
 }
