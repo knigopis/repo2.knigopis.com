@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>529</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>530</sup>
 ---
 
 ## 2025
+
+### Второй шанс . Книга 4
+Звездная Елена
+> [2025-10-05] https://readli.net/vtoroy-shans-kniga-chetvertaya/
+> Подозреваю, что должен быть 5том. Очень хочется верить, что гг будет счастлива
+
 
 ### Дядя самых честных правил
 Горбов Александр
