@@ -1,4 +1,16 @@
 {
+    "wa6e-1lawF": {
+        "id": "wa6e-1lawF",
+        "title": "Сказка",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2025-10-13 21:54:29",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 485
+        }
+    },
     "Mw5QwLJMOd": {
         "id": "Mw5QwLJMOd",
         "title": "Второй шанс . Книга 4",
@@ -345,18 +357,6 @@
             "id": "115891840326495240870-google",
             "nickname": "aktoty",
             "booksCount": 101
-        }
-    },
-    "bX6DcSUYqc": {
-        "id": "bX6DcSUYqc",
-        "title": "Герцог и я",
-        "author": "Джулии Куин",
-        "notes": "Книга по которой сняли Бриджертонов, интересный легкий роман",
-        "createdAt": "2025-08-23 08:06:13",
-        "user": {
-            "id": "115891840326495240870-google",
-            "nickname": "aktoty",
-            "booksCount": 100
         }
     }
 }
