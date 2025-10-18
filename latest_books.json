@@ -1,4 +1,16 @@
 {
+    "FEMIsXbkKh": {
+        "id": "FEMIsXbkKh",
+        "title": "Кровавый круиз",
+        "author": "Матc Страндберг",
+        "notes": "",
+        "createdAt": "2025-10-18 10:05:19",
+        "user": {
+            "id": "112939273652151342554-google",
+            "nickname": "MW",
+            "booksCount": 296
+        }
+    },
     "ugYzX6zv2g": {
         "id": "ugYzX6zv2g",
         "title": "Человек-ответ",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 79
-        }
-    },
-    "qR9stHROSM": {
-        "id": "qR9stHROSM",
-        "title": "Империализм как высшая стадия капитализма",
-        "author": "Владимир Ильич Ленин",
-        "notes": "",
-        "createdAt": "2025-08-26 02:01:24",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 30
         }
     }
 }
