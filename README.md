@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[MW](users/112/112939273652151342554-google)<sup>298</sup> 
+[MW](users/112/112939273652151342554-google)<sup>299</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>486</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>421</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_18.10.2025 10:07:25_
+_18.10.2025 10:08:06_
