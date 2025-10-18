@@ -1,4 +1,16 @@
 {
+    "Mg8siVrgzK": {
+        "id": "Mg8siVrgzK",
+        "title": "Флорри",
+        "author": "Адам Нэвилл",
+        "notes": "",
+        "createdAt": "2025-10-18 10:06:03",
+        "user": {
+            "id": "112939273652151342554-google",
+            "nickname": "MW",
+            "booksCount": 297
+        }
+    },
     "FEMIsXbkKh": {
         "id": "FEMIsXbkKh",
         "title": "Кровавый круиз",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 526
-        }
-    },
-    "SByzH9U3Bz": {
-        "id": "SByzH9U3Bz",
-        "title": "Гарри Поттер и методы рационального мышления",
-        "author": "Е. Юдковский",
-        "notes": "",
-        "createdAt": "2025-08-26 16:04:14",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 79
         }
     }
 }
