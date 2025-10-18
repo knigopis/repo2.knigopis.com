@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MW](users/112/112939273652151342554-google)<sup>294</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>486</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>421</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
 [KMS](users/116/116225468654936056801-google)<sup>0</sup> 
-[MW](users/112/112939273652151342554-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>260</sup> 
 [](users/100/100698173543506909054-google)<sup>0</sup> 
 [](users/107/107756383717359753203-google)<sup>56</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_17.10.2025 15:31:44_
+_18.10.2025 10:00:03_
