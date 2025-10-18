@@ -1,4 +1,16 @@
 {
+    "8Gls7Nmn0L": {
+        "id": "8Gls7Nmn0L",
+        "title": "Солнце полуночи",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2025-10-18 10:07:25",
+        "user": {
+            "id": "112939273652151342554-google",
+            "nickname": "MW",
+            "booksCount": 298
+        }
+    },
     "Mg8siVrgzK": {
         "id": "Mg8siVrgzK",
         "title": "Флорри",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 414
-        }
-    },
-    "I_NhDsVGYv": {
-        "id": "I_NhDsVGYv",
-        "title": "Пустые зеркала. Медвежье озеро",
-        "author": "Обухова Лена",
-        "notes": "",
-        "createdAt": "2025-08-26 19:45:39",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 526
         }
     }
 }
