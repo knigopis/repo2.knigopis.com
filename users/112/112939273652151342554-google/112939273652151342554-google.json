@@ -5,7 +5,9 @@
     "profile": "",
     "identity": "https://plus.google.com/u/0/112939273652151342554/",
     "booksCount": 0,
-    "subscriptions": [],
+    "subscriptions": {
+        "94738840-vkontakte": 294
+    },
     "createdAt": "2025-07-19 07:53:47",
-    "updatedAt": "2025-09-03 13:49:06"
+    "updatedAt": "2025-10-18 09:59:22"
 }
