@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рожденный туманом. Книга 1. Пепел и сталь ~ [Garka](users/115/115753719718250012620-google)<sup>422</sup>
+    > Аудио
+
 * Двурожденные. Книга 4. Утраченный металл ~ [Garka](users/115/115753719718250012620-google)<sup>421</sup>
     > Конец второй эры рождённых туманом. Грустная концовка, но логичная. Явно должно быть продолжение - история Сейза и Кела не закончена.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Подозреваю, что должен быть 5том. Очень хочется верить, что гг будет счастлива
 
 * Перстень Парацельса ~ [Garka](users/115/115753719718250012620-google)<sup>420</sup>
-    > Артефакт, делающий людей рабами. Но это не точно
 
 * Лестница в небо. В поисках бессмертия ~ [Garka](users/115/115753719718250012620-google)<sup>419</sup>
 
@@ -27,16 +29,14 @@ Do not use pull requests to make changes here.
 
 * Демонология по Волкову (3 части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>526</sup>
 
-* Тайный город. Ночь Солнца ~ [Garka](users/115/115753719718250012620-google)<sup>417</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>422</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>487</sup> 
 [MW](users/112/112939273652151342554-google)<sup>300</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>421</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>530</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>80</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_21.10.2025 21:38:49_
+_23.10.2025 16:09:08_
