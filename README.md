@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный город. Жажда. ~ [Garka](users/115/115753719718250012620-google)<sup>423</sup>
+    > Ростов-на Дону со своими маньяками, вечная борьба людов и чудов
+
 * Мое пространственное убежище ~ [Chiffi](users/105/105831994080785626680-google)<sup>531</sup>
     > Ура, закончилось. Идея не плохая, но наворотил.....
     >  Взаимовыгодные дела нужно вести лишь с равными, со слабых нужно выжимать максимально выгодные условия, а с сильными дел нельзя вести в принципе»
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Аудио
 
 * Двурожденные. Книга 4. Утраченный металл ~ [Garka](users/115/115753719718250012620-google)<sup>421</sup>
-    > Конец второй эры рождённых туманом. Грустная концовка, но логичная. Явно должно быть продолжение - история Сейза и Кела не закончена.
 
 * Второй шанс . Книга 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>530</sup>
 
@@ -28,16 +30,14 @@ Do not use pull requests to make changes here.
 
 * Осиная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>418</sup>
 
-* Колдун с неглинки ~ [Chiffi](users/105/105831994080785626680-google)<sup>527</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>423</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>531</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>82</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>422</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>487</sup> 
 [MW](users/112/112939273652151342554-google)<sup>300</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_27.10.2025 08:03:56_
+_29.10.2025 17:38:15_

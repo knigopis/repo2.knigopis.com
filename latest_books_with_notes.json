@@ -1,4 +1,16 @@
 {
+    "tHKXy3USGz": {
+        "id": "tHKXy3USGz",
+        "title": "Тайный город. Жажда.",
+        "author": "Панов, Вадим и Бондарев Олег",
+        "notes": "Ростов-на Дону со своими маньяками, вечная борьба людов и чудов",
+        "createdAt": "2025-10-29 17:38:15",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 423
+        }
+    },
     "BDnLaQqdqx": {
         "id": "BDnLaQqdqx",
         "title": "Мое пространственное убежище",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 68
-        }
-    },
-    "KXb_onyQuQ": {
-        "id": "KXb_onyQuQ",
-        "title": "Драко Малфой и мучительное испытание любовью",
-        "author": "",
-        "notes": "Фанфик",
-        "createdAt": "2025-06-09 09:35:36",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 67
         }
     }
 }
