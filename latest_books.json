@@ -1,4 +1,16 @@
 {
+    "DKLZuWKPML": {
+        "id": "DKLZuWKPML",
+        "title": "Мёртвые пашни",
+        "author": "Кликин Михаил",
+        "notes": "Бросила на 80%.",
+        "createdAt": "2025-11-05 21:59:33",
+        "user": {
+            "id": "112939273652151342554-google",
+            "nickname": "MW",
+            "booksCount": 302
+        }
+    },
     "Ex7MV2KpAt": {
         "id": "Ex7MV2KpAt",
         "title": "День четвертый",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 483
-        }
-    },
-    "UWEa0uj5j0": {
-        "id": "UWEa0uj5j0",
-        "title": "Пятая бездна",
-        "author": "Степанова Саша",
-        "notes": "https://loveread.info/books/nauchnaya-fantastika/185352-pyataya-bezdna-sasha-stepanova.html",
-        "createdAt": "2025-09-15 19:21:56",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 528
         }
     }
 }

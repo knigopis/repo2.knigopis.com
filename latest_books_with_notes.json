@@ -1,4 +1,16 @@
 {
+    "DKLZuWKPML": {
+        "id": "DKLZuWKPML",
+        "title": "Мёртвые пашни",
+        "author": "Кликин Михаил",
+        "notes": "Бросила на 80%.",
+        "createdAt": "2025-11-05 21:59:33",
+        "user": {
+            "id": "112939273652151342554-google",
+            "nickname": "MW",
+            "booksCount": 302
+        }
+    },
     "kBeWp0CPbh": {
         "id": "kBeWp0CPbh",
         "title": "Демон скучающий. Феликс Сербин 4",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 410
-        }
-    },
-    "Tzdfue-fOv": {
-        "id": "Tzdfue-fOv",
-        "title": "Онлайн игра для ленивого злодея",
-        "author": "Дорничев Дмитрий",
-        "notes": "https://author.today/reader/453989\nhttps://author.today/work/series/24811\nПохоже, что должно быть продолжение, но..",
-        "createdAt": "2025-06-15 17:37:43",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 520
         }
     }
 }
