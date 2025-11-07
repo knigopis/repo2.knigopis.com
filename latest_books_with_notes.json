@@ -1,4 +1,16 @@
 {
+    "6EOfekXH-7": {
+        "id": "6EOfekXH-7",
+        "title": "Дела тайной канцелярии",
+        "author": "Дашкевич Виктор",
+        "notes": "http://flibusta.site/b/842214/read#t10\nКак же мне нравится эта серия.",
+        "createdAt": "2025-11-07 21:43:34",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 533
+        }
+    },
     "DKLZuWKPML": {
         "id": "DKLZuWKPML",
         "title": "Мёртвые пашни",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 411
-        }
-    },
-    "wjwzOXX7Tx": {
-        "id": "wjwzOXX7Tx",
-        "title": "Толковая Библия. Том 1",
-        "author": "Лопухин Александр Павлович",
-        "notes": "Ветхий Завет (пятикнижие Моисея: Бытие, Исход, Левит, Числа, Второзаконие)",
-        "createdAt": "2025-07-04 20:38:31",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 410
         }
     }
 }

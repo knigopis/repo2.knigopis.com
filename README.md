@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дела тайной канцелярии ~ [Chiffi](users/105/105831994080785626680-google)<sup>533</sup>
+    > http://flibusta.site/b/842214/read#t10
+    > Как же мне нравится эта серия.
+
 * Мёртвые пашни ~ [MW](users/112/112939273652151342554-google)<sup>302</sup>
     > Бросила на 80%.
 
@@ -17,7 +21,6 @@ Do not use pull requests to make changes here.
     > – Эта опция по запросу.
 
 * Тайный город. Жажда. ~ [Garka](users/115/115753719718250012620-google)<sup>423</sup>
-    > Ростов-на Дону со своими маньяками, вечная борьба людов и чудов
 
 * Мое пространственное убежище ~ [Chiffi](users/105/105831994080785626680-google)<sup>531</sup>
 
@@ -31,15 +34,13 @@ Do not use pull requests to make changes here.
 
 * Лестница в небо. В поисках бессмертия ~ [Garka](users/115/115753719718250012620-google)<sup>419</sup>
 
-* Дядя самых честных правил ~ [Chiffi](users/105/105831994080785626680-google)<sup>529</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>533</sup> 
 [MW](users/112/112939273652151342554-google)<sup>302</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>532</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>423</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>82</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>487</sup> 
@@ -70,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnixik](users/116/116191270391964650818-google)<sup>76</sup> 
 
 
-_05.11.2025 21:59:33_
+_07.11.2025 21:43:34_

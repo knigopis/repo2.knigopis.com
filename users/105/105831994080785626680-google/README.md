@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>532</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>533</sup>
 ---
 
 ## 2025
+
+### Дела тайной канцелярии
+Дашкевич Виктор
+> [2025-11-07] http://flibusta.site/b/842214/read#t10
+> Как же мне нравится эта серия.
+
 
 ### Демон скучающий. Феликс Сербин 4
 Панов Вадим
