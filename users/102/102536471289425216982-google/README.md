@@ -30,7 +30,7 @@
 ## 2022
 
 ### La cantatrice chauve (аудио)
-IONESO Eugène
+IONESCO Eugène
 > [2022-10-05] 
 
 
