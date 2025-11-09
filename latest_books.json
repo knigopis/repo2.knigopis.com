@@ -1,4 +1,16 @@
 {
+    "JPbmviL7Ry": {
+        "id": "JPbmviL7Ry",
+        "title": "Воображаемый друг",
+        "author": "Стивен Чбоски",
+        "notes": "",
+        "createdAt": "2025-11-09 11:21:07",
+        "user": {
+            "id": "112939273652151342554-google",
+            "nickname": "MW",
+            "booksCount": 303
+        }
+    },
     "fiKKPZ1p0a": {
         "id": "fiKKPZ1p0a",
         "title": "Я помню музыку Прованса",
@@ -345,18 +357,6 @@
             "id": "Anastasia-local",
             "nickname": "Anastasia",
             "booksCount": 76
-        }
-    },
-    "DCxuEiUX8h": {
-        "id": "DCxuEiUX8h",
-        "title": "Перстень Парацельса",
-        "author": "Панов, Вадим и Василевский, Артур",
-        "notes": "Артефакт, делающий людей рабами. Но это не точно",
-        "createdAt": "2025-09-24 19:32:57",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 420
         }
     }
 }
