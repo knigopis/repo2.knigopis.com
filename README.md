@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тень, ключ и мятное печенье ~ [Chiffi](users/105/105831994080785626680-google)<sup>534</sup>
+    > http://flibusta.site/b/792642/read
+
 * Тайный город. Исполняющий желания ~ [Garka](users/115/115753719718250012620-google)<sup>424</sup>
     > Шамбала, хваны
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Как же мне нравится эта серия.
 
 * Мёртвые пашни ~ [MW](users/112/112939273652151342554-google)<sup>302</sup>
-    > Бросила на 80%.
 
 * Демон скучающий. Феликс Сербин 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>532</sup>
 
@@ -27,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Второй шанс . Книга 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>530</sup>
 
-* Перстень Парацельса ~ [Garka](users/115/115753719718250012620-google)<sup>420</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>534</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>424</sup> 
 [MW](users/112/112939273652151342554-google)<sup>303</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>488</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>533</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>82</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
 [Anastasia](users/Ana/Anastasia-local)<sup>76</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 
 
-_11.11.2025 20:42:12_
+_11.11.2025 22:04:37_
