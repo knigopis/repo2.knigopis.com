@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный город. Исполняющий желания ~ [Garka](users/115/115753719718250012620-google)<sup>424</sup>
+    > Шамбала, хваны
+
 * Дела тайной канцелярии ~ [Chiffi](users/105/105831994080785626680-google)<sup>533</sup>
     > http://flibusta.site/b/842214/read#t10
     > Как же мне нравится эта серия.
@@ -13,12 +16,6 @@ Do not use pull requests to make changes here.
     > Бросила на 80%.
 
 * Демон скучающий. Феликс Сербин 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>532</sup>
-    > Демон скучающий (fb2) | Флибуста https://share.google/nRvCVRHSbJ9gzXy6A
-    > Интересно, но тяжело шло.. хороший детектив
-    > Мёртвый лев не сразу протухает, – сказал ему дед. – Можно успеть отрезать от него кусок». Однако для этого нужны не только подлость и хитрость, но и толика удачи.
-    > ты получишь право иногда задавать мне вопросы.
-    > – И получать ответы?
-    > – Эта опция по запросу.
 
 * Тайный город. Жажда. ~ [Garka](users/115/115753719718250012620-google)<sup>423</sup>
 
@@ -32,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Перстень Парацельса ~ [Garka](users/115/115753719718250012620-google)<sup>420</sup>
 
-* Лестница в небо. В поисках бессмертия ~ [Garka](users/115/115753719718250012620-google)<sup>419</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>424</sup> 
 [MW](users/112/112939273652151342554-google)<sup>303</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>488</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>533</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>423</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>82</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
 [Anastasia](users/Ana/Anastasia-local)<sup>76</sup> 
@@ -71,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 
 
-_09.11.2025 11:21:07_
+_11.11.2025 20:42:12_

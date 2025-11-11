@@ -1,4 +1,16 @@
 {
+    "mPaAzFD0fm": {
+        "id": "mPaAzFD0fm",
+        "title": "Тайный город. Исполняющий желания",
+        "author": "Панов, Вадим и Шалыгин Вячеслав",
+        "notes": "Шамбала, хваны",
+        "createdAt": "2025-11-11 20:42:12",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 424
+        }
+    },
     "JPbmviL7Ry": {
         "id": "JPbmviL7Ry",
         "title": "Воображаемый друг",
@@ -344,18 +356,6 @@
         "user": {
             "id": "108887983030919100717-google",
             "nickname": "Askaliya",
-            "booksCount": 76
-        }
-    },
-    "MZa5AJmMl9": {
-        "id": "MZa5AJmMl9",
-        "title": "",
-        "author": "Чернышевский",
-        "notes": "",
-        "createdAt": "2025-09-27 15:28:20",
-        "user": {
-            "id": "Anastasia-local",
-            "nickname": "Anastasia",
             "booksCount": 76
         }
     }
