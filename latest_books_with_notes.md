@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайный город. Родная кровь ~ [Garka](users/115/115753719718250012620-google)<sup>425</sup>
 * Яма ~ [lucius](users/113/113248293394986559131-google)<sup>166</sup>
 * Мальчик у Моря ~ [lucius](users/113/113248293394986559131-google)<sup>165</sup>
 * Generation П ~ [lucius](users/113/113248293394986559131-google)<sup>164</sup>
@@ -30,7 +31,6 @@
 * Виконт, который любил меня ~ [aktoty](users/115/115891840326495240870-google)<sup>101</sup>
 * Герцог и я ~ [aktoty](users/115/115891840326495240870-google)<sup>100</sup>
 * Хранитель древа мира 8 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>525</sup>
-* Толковая Библия. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>413</sup>
 
 
-_15.11.2025 06:25:12_
+_15.11.2025 21:10:41_

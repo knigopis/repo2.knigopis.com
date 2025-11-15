@@ -1,4 +1,16 @@
 {
+    "DKA1KwF2bR": {
+        "id": "DKA1KwF2bR",
+        "title": "Тайный город. Родная кровь",
+        "author": "Панов Валим; Зарубина Дарья",
+        "notes": "Воронеж, массоны-маги",
+        "createdAt": "2025-11-15 21:10:41",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 425
+        }
+    },
     "36jAFtvG6t": {
         "id": "36jAFtvG6t",
         "title": "Яма",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 525
-        }
-    },
-    "EVfp4AC7DR": {
-        "id": "EVfp4AC7DR",
-        "title": "Толковая Библия. Том 2",
-        "author": "Лопухин Александр Павлович",
-        "notes": "Книга Иисусу Навина, Книга Руфь, 1-4 Книги Царств",
-        "createdAt": "2025-08-11 21:18:59",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 413
         }
     }
 }
