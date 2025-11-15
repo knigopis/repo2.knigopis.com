@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Generation П ~ [lucius](users/113/113248293394986559131-google)<sup>164</sup>
+    > Часто встречал описание и решил прочитать. Много интересных идей и забавных находок, но впечатление гнетущее. Убедился, что Пелевин - это не моё
+
 * Властелин ~ [lucius](users/113/113248293394986559131-google)<sup>163</sup>
     > Прикольное фентези для лёгкого чтения, специфичный юмор автора, очень много всяких отсылок, интересный мир.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > http://flibusta.site/b/792642/read
 
 * Тайный город. Исполняющий желания ~ [Garka](users/115/115753719718250012620-google)<sup>424</sup>
-    > Шамбала, хваны
 
 * Дела тайной канцелярии ~ [Chiffi](users/105/105831994080785626680-google)<sup>533</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рожденный туманом. Книга 1. Пепел и сталь ~ [Garka](users/115/115753719718250012620-google)<sup>422</sup>
 
-* Двурожденные. Книга 4. Утраченный металл ~ [Garka](users/115/115753719718250012620-google)<sup>421</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lucius](users/113/113248293394986559131-google)<sup>163</sup> 
+[lucius](users/113/113248293394986559131-google)<sup>164</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>261</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>489</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>534</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 
 
-_15.11.2025 06:13:44_
+_15.11.2025 06:16:23_

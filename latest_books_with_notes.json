@@ -1,4 +1,16 @@
 {
+    "-6F95PmWqr": {
+        "id": "-6F95PmWqr",
+        "title": "Generation П",
+        "author": "Виктор Пелевин",
+        "notes": "Часто встречал описание и решил прочитать. Много интересных идей и забавных находок, но впечатление гнетущее. Убедился, что Пелевин - это не моё",
+        "createdAt": "2025-11-15 06:16:23",
+        "user": {
+            "id": "113248293394986559131-google",
+            "nickname": "lucius",
+            "booksCount": 164
+        }
+    },
     "mbIn8PpZQi": {
         "id": "mbIn8PpZQi",
         "title": "Властелин",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 523
-        }
-    },
-    "_cJWv9YR8S": {
-        "id": "_cJWv9YR8S",
-        "title": "НекроХантик",
-        "author": "Борисов Олег",
-        "notes": "https://readli.net/nekrohanik/",
-        "createdAt": "2025-08-04 06:55:41",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 522
         }
     }
 }
