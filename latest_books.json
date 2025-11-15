@@ -1,4 +1,16 @@
 {
+    "36jAFtvG6t": {
+        "id": "36jAFtvG6t",
+        "title": "Яма",
+        "author": "Александр Куприн",
+        "notes": "О проститутках и о проститутках в дореволюционной России. Очень тяжёлая, всем рекомендую",
+        "createdAt": "2025-11-15 06:25:12",
+        "user": {
+            "id": "113248293394986559131-google",
+            "nickname": "lucius",
+            "booksCount": 166
+        }
+    },
     "acSr16uR5_": {
         "id": "acSr16uR5_",
         "title": "Мальчик у Моря",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 485
-        }
-    },
-    "Mw5QwLJMOd": {
-        "id": "Mw5QwLJMOd",
-        "title": "Второй шанс . Книга 4",
-        "author": "Звездная Елена",
-        "notes": "https://readli.net/vtoroy-shans-kniga-chetvertaya/\nПодозреваю, что должен быть 5том. Очень хочется верить, что гг будет счастлива",
-        "createdAt": "2025-10-06 20:06:13",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 530
         }
     }
 }
