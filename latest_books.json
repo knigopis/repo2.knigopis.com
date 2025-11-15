@@ -1,4 +1,16 @@
 {
+    "mbIn8PpZQi": {
+        "id": "mbIn8PpZQi",
+        "title": "Властелин",
+        "author": "Александр Рудазов",
+        "notes": "Прикольное фентези для лёгкого чтения, специфичный юмор автора, очень много всяких отсылок, интересный мир.",
+        "createdAt": "2025-11-15 06:13:44",
+        "user": {
+            "id": "113248293394986559131-google",
+            "nickname": "lucius",
+            "booksCount": 163
+        }
+    },
     "VqPqZHO5gL": {
         "id": "VqPqZHO5gL",
         "title": "Улица светлячков",
@@ -345,18 +357,6 @@
             "id": "108887983030919100717-google",
             "nickname": "Askaliya",
             "booksCount": 80
-        }
-    },
-    "PUsvBKmAwh": {
-        "id": "PUsvBKmAwh",
-        "title": "Creep",
-        "author": "Фанфик",
-        "notes": "",
-        "createdAt": "2025-09-27 16:01:24",
-        "user": {
-            "id": "108887983030919100717-google",
-            "nickname": "Askaliya",
-            "booksCount": 79
         }
     }
 }

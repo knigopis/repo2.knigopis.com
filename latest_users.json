@@ -1,4 +1,10 @@
 {
+    "113248293394986559131-google": {
+        "id": "113248293394986559131-google",
+        "nickname": "lucius",
+        "booksCount": 163,
+        "updatedAt": "2025-11-15 06:13:44"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "Elixir",
         "booksCount": 460,
         "updatedAt": "2025-05-04 10:13:14"
-    },
-    "111754056754751183886-google": {
-        "id": "111754056754751183886-google",
-        "nickname": "Linas",
-        "booksCount": 2,
-        "updatedAt": "2025-04-25 02:26:14"
     }
 }

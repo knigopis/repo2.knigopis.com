@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин ~ [lucius](users/113/113248293394986559131-google)<sup>163</sup>
+    > Прикольное фентези для лёгкого чтения, специфичный юмор автора, очень много всяких отсылок, интересный мир.
+
 * Тень, ключ и мятное печенье ~ [Chiffi](users/105/105831994080785626680-google)<sup>534</sup>
     > http://flibusta.site/b/792642/read
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Шамбала, хваны
 
 * Дела тайной канцелярии ~ [Chiffi](users/105/105831994080785626680-google)<sup>533</sup>
-    > http://flibusta.site/b/842214/read#t10
-    > Как же мне нравится эта серия.
 
 * Мёртвые пашни ~ [MW](users/112/112939273652151342554-google)<sup>302</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Двурожденные. Книга 4. Утраченный металл ~ [Garka](users/115/115753719718250012620-google)<sup>421</sup>
 
-* Второй шанс . Книга 4 ~ [Chiffi](users/105/105831994080785626680-google)<sup>530</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/113/113248293394986559131-google)<sup>163</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>261</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>489</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>534</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
-[Linas](users/111/111754056754751183886-google)<sup>2</sup> 
 
 
-_15.11.2025 02:20:17_
+_15.11.2025 06:13:44_
