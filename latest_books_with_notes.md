@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мальчик у Моря ~ [lucius](users/113/113248293394986559131-google)<sup>165</sup>
 * Generation П ~ [lucius](users/113/113248293394986559131-google)<sup>164</sup>
 * Властелин ~ [lucius](users/113/113248293394986559131-google)<sup>163</sup>
 * Тень, ключ и мятное печенье ~ [Chiffi](users/105/105831994080785626680-google)<sup>534</sup>
@@ -30,7 +31,6 @@
 * Хранитель древа мира 8 книг ~ [Chiffi](users/105/105831994080785626680-google)<sup>525</sup>
 * Толковая Библия. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>413</sup>
 * НекроХаник ~ [Chiffi](users/105/105831994080785626680-google)<sup>524</sup>
-* Рассказявки ~ [Chiffi](users/105/105831994080785626680-google)<sup>523</sup>
 
 
-_15.11.2025 06:16:23_
+_15.11.2025 06:23:15_
