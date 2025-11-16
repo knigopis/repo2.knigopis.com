@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Тень, ключ и мятное печенье ~ [Chiffi](users/105/105831994080785626680-google)<sup>535</sup>
+* Тень, ключ и мятное печенье ~ [Chiffi](users/105/105831994080785626680-google)<sup>536</sup>
     > http://flibusta.site/b/792642/read
 
 * Тайный город. Родная кровь ~ [Garka](users/115/115753719718250012620-google)<sup>425</sup>
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>535</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>536</sup> 
 [MW](users/112/112939273652151342554-google)<sup>304</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>425</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>166</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 
 
-_16.11.2025 21:50:37_
+_16.11.2025 21:50:42_
