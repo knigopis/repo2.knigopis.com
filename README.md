@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Наследники. Дети клана Орловых ~ [Chiffi](users/105/105831994080785626680-google)<sup>539</sup>
+    > Напоминает Хроники Амбера.
+    > https://searchfloor.org/s/%D0%94%D0%B5%D1%82%D0%B8%20%D0%BA%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%8B%D1%85?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9,%20shellina
+
 * Гиблые земли (2 книги) ~ [Chiffi](users/105/105831994080785626680-google)<sup>538</sup>
     > https://searchfloor.org/s/%D0%93%D0%B8%D0%B1%D0%BB%D1%8B%D0%B5%20%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9,%20shellina
     > На удивление приятный двухтомник. Могла бы получиться хорошая серия. Но автор закончил логично и интересно.
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > http://flibusta.site/b/792642/read
 
 * Тайный город. Родная кровь ~ [Garka](users/115/115753719718250012620-google)<sup>425</sup>
-    > Воронеж, массоны-маги
 
 * Яма ~ [lucius](users/113/113248293394986559131-google)<sup>166</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Дела тайной канцелярии ~ [Chiffi](users/105/105831994080785626680-google)<sup>533</sup>
 
-* Мёртвые пашни ~ [MW](users/112/112939273652151342554-google)<sup>302</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>538</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>539</sup> 
 [MW](users/112/112939273652151342554-google)<sup>304</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>425</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>166</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 
 
-_17.11.2025 22:03:25_
+_22.11.2025 07:17:57_
