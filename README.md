@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lena](users/106/106288897753354227117-google)<sup>490</sup> 
 [MW](users/112/112939273652151342554-google)<sup>305</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>539</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>425</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>166</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>261</sup> 
-[Lena](users/106/106288897753354227117-google)<sup>489</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>82</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 
 
-_22.11.2025 14:11:52_
+_23.11.2025 23:09:17_
