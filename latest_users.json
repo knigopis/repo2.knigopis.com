@@ -1,4 +1,10 @@
 {
+    "logan135-local": {
+        "id": "logan135-local",
+        "nickname": "logan135",
+        "booksCount": 0,
+        "updatedAt": "2025-11-24 14:10:47"
+    },
     "106288897753354227117-google": {
         "id": "106288897753354227117-google",
         "nickname": "Lena",
@@ -172,11 +178,5 @@
         "nickname": "777",
         "booksCount": 0,
         "updatedAt": "2025-05-14 08:50:11"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": "Elixir",
-        "booksCount": 460,
-        "updatedAt": "2025-05-04 10:13:14"
     }
 }

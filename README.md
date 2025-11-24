@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[logan135](users/log/logan135-local)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>490</sup> 
 [MW](users/112/112939273652151342554-google)<sup>305</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>539</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>460</sup> 
 
 
-_23.11.2025 23:09:17_
+_24.11.2025 14:10:47_
