@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Незаконный наследник ~ [Chiffi](users/105/105831994080785626680-google)<sup>540</sup>
+    > Хороший цикл. Чем то напоминает Хроники Амбера
+    > Наличие фонтанов, за которыми ухаживают, воду в чашах и бассейнах которых меняют и обеззараживают — признак благосостояния не просто города, где они находятся, а страны. В страна, где перестают работать фонтаны, где они начинают постепенно разрушаться, что-то не так. Эти фонтаны, как видимое проявление тяжелой болезни, которую незамедлительно нужно лечить.
+    > 
+    > Продолжение Дети клана Орловых (Наследнички)
+    > https://searchfloor.org/s/%D0%9D%D0%B5%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%2C%20shellina
+
 * Наследники. Дети клана Орловых ~ [Chiffi](users/105/105831994080785626680-google)<sup>539</sup>
     > Напоминает Хроники Амбера.
     > https://searchfloor.org/s/%D0%94%D0%B5%D1%82%D0%B8%20%D0%BA%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%8B%D1%85?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9,%20shellina
@@ -14,7 +21,6 @@ Do not use pull requests to make changes here.
     > На удивление приятный двухтомник. Могла бы получиться хорошая серия. Но автор закончил логично и интересно.
 
 * Тень, ключ и мятное печенье ~ [Chiffi](users/105/105831994080785626680-google)<sup>537</sup>
-    > http://flibusta.site/b/792642/read
 
 * Тайный город. Родная кровь ~ [Garka](users/115/115753719718250012620-google)<sup>425</sup>
 
@@ -28,17 +34,15 @@ Do not use pull requests to make changes here.
 
 * Тайный город. Исполняющий желания ~ [Garka](users/115/115753719718250012620-google)<sup>424</sup>
 
-* Дела тайной канцелярии ~ [Chiffi](users/105/105831994080785626680-google)<sup>533</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>540</sup> 
 [logan135](users/log/logan135-local)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>490</sup> 
 [MW](users/112/112939273652151342554-google)<sup>305</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>539</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>425</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>166</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>261</sup> 
@@ -67,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [777](users/110/110447263603270793076-google)<sup>0</sup> 
 
 
-_24.11.2025 14:10:47_
+_29.11.2025 09:25:42_
