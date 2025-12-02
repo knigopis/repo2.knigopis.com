@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/103/103397594840265920578-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>540</sup> 
 [logan135](users/log/logan135-local)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>490</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Айгуль](users/110/110628523588337726163-google)<sup>1</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 [LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
-[777](users/110/110447263603270793076-google)<sup>0</sup> 
 
 
-_29.11.2025 09:25:42_
+_02.12.2025 06:13:00_
