@@ -1,4 +1,10 @@
 {
+    "103397594840265920578-google": {
+        "id": "103397594840265920578-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2025-12-02 06:12:59"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "LongGemin",
         "booksCount": 0,
         "updatedAt": "2025-05-19 19:07:42"
-    },
-    "110447263603270793076-google": {
-        "id": "110447263603270793076-google",
-        "nickname": "777",
-        "booksCount": 0,
-        "updatedAt": "2025-05-14 08:50:11"
     }
 }
