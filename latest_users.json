@@ -1,4 +1,16 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 262,
+        "updatedAt": "2025-12-04 04:33:08"
+    },
+    "Fazlyyeva-local": {
+        "id": "Fazlyyeva-local",
+        "nickname": "Fazlyyeva",
+        "booksCount": 0,
+        "updatedAt": "2025-12-03 17:04:08"
+    },
     "103397594840265920578-google": {
         "id": "103397594840265920578-google",
         "nickname": null,
@@ -40,12 +52,6 @@
         "nickname": "lucius",
         "booksCount": 166,
         "updatedAt": "2025-11-15 06:25:12"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 261,
-        "updatedAt": "2025-11-15 02:20:17"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
@@ -172,11 +178,5 @@
         "nickname": "Сандро",
         "booksCount": 3,
         "updatedAt": "2025-05-22 07:32:13"
-    },
-    "115529136518387382118-google": {
-        "id": "115529136518387382118-google",
-        "nickname": "LongGemin",
-        "booksCount": 0,
-        "updatedAt": "2025-05-19 19:07:42"
     }
 }

@@ -39,6 +39,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>262</sup> 
+[Fazlyyeva](users/Faz/Fazlyyeva-local)<sup>0</sup> 
 [](users/103/103397594840265920578-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>540</sup> 
 [logan135](users/log/logan135-local)<sup>0</sup> 
@@ -46,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [MW](users/112/112939273652151342554-google)<sup>305</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>425</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>166</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>261</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>82</sup> 
 [](users/105/105803270930838059244-google)<sup>29</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [noch' nezhna](users/114/114697375851244071129-google)<sup>0</sup> 
 [Айгуль](users/110/110628523588337726163-google)<sup>1</sup> 
 [Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
-[LongGemin](users/115/115529136518387382118-google)<sup>0</sup> 
 
 
-_02.12.2025 06:14:56_
+_04.12.2025 04:33:08_
