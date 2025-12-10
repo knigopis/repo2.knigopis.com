@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lena](users/106/106288897753354227117-google)<sup>491</sup> 
+[Lena](users/106/106288897753354227117-google)<sup>492</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>262</sup> 
 [Fazlyyeva](users/Faz/Fazlyyeva-local)<sup>0</sup> 
 [](users/103/103397594840265920578-google)<sup>1</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 
 
-_06.12.2025 12:06:04_
+_10.12.2025 00:02:15_
