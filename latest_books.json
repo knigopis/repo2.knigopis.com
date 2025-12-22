@@ -1,4 +1,16 @@
 {
+    "GV5iDKMUrv": {
+        "id": "GV5iDKMUrv",
+        "title": "Мор - ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2025-12-22 17:11:55",
+        "user": {
+            "id": "105803270930838059244-google",
+            "nickname": null,
+            "booksCount": 30
+        }
+    },
     "oD_UdfQk_D": {
         "id": "oD_UdfQk_D",
         "title": "Голод",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 532
-        }
-    },
-    "tHKXy3USGz": {
-        "id": "tHKXy3USGz",
-        "title": "Тайный город. Жажда.",
-        "author": "Панов, Вадим и Бондарев Олег",
-        "notes": "Ростов-на Дону со своими маньяками, вечная борьба людов и чудов",
-        "createdAt": "2025-10-29 17:38:15",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 423
         }
     }
 }
