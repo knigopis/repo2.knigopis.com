@@ -1,7 +1,12 @@
-# List of books read by [Askaliya](https://plus.google.com/u/0/108887983030919100717/)<sup>82</sup>
+# List of books read by [Askaliya](https://plus.google.com/u/0/108887983030919100717/)<sup>83</sup>
 ---
 
 ## 2025
+
+### Яма
+Куприн
+> [2025-12-24] 
+
 
 ### Что делать?
 Чернышевский
