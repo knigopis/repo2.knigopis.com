@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Визионер ~ [Chiffi](users/105/105831994080785626680-google)<sup>542</sup>
+    > https://fantasy-worlds.org/lib/id36961/read/
+    > В июне ещё зелёные яблоки надо проредить, чтобы дерево смогло прокормить будущий урожай. А он в этом году обещает быть щедрым. В жару нужен обильный полив, после которого должно прорыхлить землю и укрыть соломой. Так влага сохранится дольше. В конце июля хорошо бы подпитать корни древесной золой. А в начале августа время ставить деревянные рогульки, чтобы ветви смогли удержать спелые плоды.
+    > Есть такая порода прагматичных и праведных женщин, что прикрывают равнодушие и безразличие к чужому горю молитвами, поклонами и чётким соблюдением ритуалов. На деле им всё равно.
+    > Ценность и стоимость не тождественны. Стоимость устанавливается продавцом. Но ценность… Ценность определяет покупатель, его отношение, значение, которое он придаёт объекту.
+
 * Сам себе властелин. 5 частей ~ [Chiffi](users/105/105831994080785626680-google)<sup>541</sup>
     > https://searchfloor.org/s/%D0%A1%D0%B0%D0%BC%20%D1%81%D0%B5%D0%B1%D0%B5%20%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%93%D0%BE%D1%80%D0%B1%D0%BE%D0%B2
     > настоящий мастер не может творить в душной атмосфере безденежья.
@@ -20,8 +26,6 @@ Do not use pull requests to make changes here.
     > https://searchfloor.org/s/%D0%9D%D0%B5%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%2C%20shellina
 
 * Наследники. Дети клана Орловых ~ [Chiffi](users/105/105831994080785626680-google)<sup>539</sup>
-    > Напоминает Хроники Амбера.
-    > https://searchfloor.org/s/%D0%94%D0%B5%D1%82%D0%B8%20%D0%BA%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%8B%D1%85?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9,%20shellina
 
 * Гиблые земли (2 книги) ~ [Chiffi](users/105/105831994080785626680-google)<sup>538</sup>
 
@@ -35,17 +39,15 @@ Do not use pull requests to make changes here.
 
 * Generation П ~ [lucius](users/113/113248293394986559131-google)<sup>164</sup>
 
-* Властелин ~ [lucius](users/113/113248293394986559131-google)<sup>163</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>542</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>83</sup> 
 [](users/105/105803270930838059244-google)<sup>30</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>494</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>541</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>262</sup> 
 [Fazlyyeva](users/Faz/Fazlyyeva-local)<sup>0</sup> 
 [](users/103/103397594840265920578-google)<sup>1</sup> 
@@ -74,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 
 
-_24.12.2025 20:31:30_
+_28.12.2025 20:56:34_
