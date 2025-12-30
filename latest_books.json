@@ -1,4 +1,16 @@
 {
+    "MHjeMTEgKO": {
+        "id": "MHjeMTEgKO",
+        "title": "Сказки Нового года",
+        "author": "Сборник рассказов",
+        "notes": "",
+        "createdAt": "2025-12-30 17:20:16",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 495
+        }
+    },
     "uyP4ptDkzi": {
         "id": "uyP4ptDkzi",
         "title": "Визионер",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 533
-        }
-    },
-    "DKLZuWKPML": {
-        "id": "DKLZuWKPML",
-        "title": "Мёртвые пашни",
-        "author": "Кликин Михаил",
-        "notes": "Бросила на 80%.",
-        "createdAt": "2025-11-05 21:59:33",
-        "user": {
-            "id": "112939273652151342554-google",
-            "nickname": "MW",
-            "booksCount": 302
         }
     }
 }
