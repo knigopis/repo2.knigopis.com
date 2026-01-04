@@ -1,5 +1,13 @@
-# List of books read by vechno7t<sup>99</sup>
+# List of books read by vechno7t<sup>100</sup>
 ---
+
+## 2025
+
+### Пустошь. Нулевой круг
+Михаил Игнатов
+> [2025-12] 
+
+
 
 ## 2024
 

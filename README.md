@@ -48,6 +48,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vechno7t](users/102/102483077884312127500-google)<sup>100</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>84</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>543</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>495</sup> 
@@ -77,7 +78,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zehan_v](users/174/174598622-vkontakte)<sup>74</sup> 
 [noch' nezhna](users/114/114697375851244071129-google)<sup>0</sup> 
 [Айгуль](users/110/110628523588337726163-google)<sup>1</sup> 
-[Сандро](users/108/108237148933511407715-google)<sup>3</sup> 
 
 
-_04.01.2026 00:42:42_
+_04.01.2026 01:05:09_
