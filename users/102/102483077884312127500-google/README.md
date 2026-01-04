@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>103</sup>
+# List of books read by vechno7t<sup>104</sup>
 ---
 
 ## 2025
+
+### Исход. Первый пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Путь силы. Первый пояс
 Михаил Игнатов
