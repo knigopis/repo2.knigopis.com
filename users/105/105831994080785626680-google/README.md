@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>543</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>544</sup>
 ---
 
 ## 2026
+
+### Стажер зеркального сыска
+Гладкая Юлия
+> [2026-01-04] https://fantasy-worlds.org/lib/id38721/
+
 
 ### Посредник
 Гравис Женя

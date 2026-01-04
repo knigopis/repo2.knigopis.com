@@ -1,4 +1,16 @@
 {
+    "PBaN_Qi_rl": {
+        "id": "PBaN_Qi_rl",
+        "title": "Стажер зеркального сыска",
+        "author": "Гладкая Юлия",
+        "notes": "https://fantasy-worlds.org/lib/id38721/",
+        "createdAt": "2026-01-04 15:59:52",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 544
+        }
+    },
     "APXaVuAYcy": {
         "id": "APXaVuAYcy",
         "title": "Посредник",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 417
-        }
-    },
-    "O8nEsZiVSd": {
-        "id": "O8nEsZiVSd",
-        "title": "Славянская мифология. Часть 2",
-        "author": "Баркова, Александра",
-        "notes": "Аудио",
-        "createdAt": "2025-08-28 09:53:10",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 416
         }
     }
 }
