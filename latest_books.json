@@ -1,4 +1,16 @@
 {
+    "126r3IaQ1j": {
+        "id": "126r3IaQ1j",
+        "title": "Путь силы. Первый пояс",
+        "author": "Михаил Игнатов",
+        "notes": "",
+        "createdAt": "2026-01-04 01:45:04",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 103
+        }
+    },
     "WfixWD12MH": {
         "id": "WfixWD12MH",
         "title": "Морозная Гряда. Первый пояс",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 261
-        }
-    },
-    "yxk-6eY0dI": {
-        "id": "yxk-6eY0dI",
-        "title": "Оскар и я",
-        "author": "Мария Парр",
-        "notes": "",
-        "createdAt": "2025-11-14 11:00:36",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 489
         }
     }
 }

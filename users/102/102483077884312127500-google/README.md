@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>102</sup>
+# List of books read by vechno7t<sup>103</sup>
 ---
 
 ## 2025
+
+### Путь силы. Первый пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Морозная Гряда. Первый пояс
 Михаил Игнатов
