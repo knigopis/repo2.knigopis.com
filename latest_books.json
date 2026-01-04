@@ -1,4 +1,16 @@
 {
+    "WfixWD12MH": {
+        "id": "WfixWD12MH",
+        "title": "Морозная Гряда. Первый пояс",
+        "author": "Михаил Игнатов",
+        "notes": "",
+        "createdAt": "2026-01-04 01:44:56",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 102
+        }
+    },
     "zWQvxGo6il": {
         "id": "zWQvxGo6il",
         "title": "Школа. Первый пояс",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 489
-        }
-    },
-    "mPaAzFD0fm": {
-        "id": "mPaAzFD0fm",
-        "title": "Тайный город. Исполняющий желания",
-        "author": "Панов, Вадим и Шалыгин Вячеслав",
-        "notes": "Шамбала, хваны",
-        "createdAt": "2025-11-11 20:42:12",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 424
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>101</sup>
+# List of books read by vechno7t<sup>102</sup>
 ---
 
 ## 2025
+
+### Морозная Гряда. Первый пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Школа. Первый пояс
 Михаил Игнатов
