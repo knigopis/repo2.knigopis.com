@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>112</sup>
+# List of books read by vechno7t<sup>113</sup>
 ---
 
 ## 2025
+
+### Осознание. Пятый пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Разочарование. Пятый пояс
 Михаил Игнатов
