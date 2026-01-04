@@ -1,4 +1,16 @@
 {
+    "B2kaye1lW4": {
+        "id": "B2kaye1lW4",
+        "title": "Чемпион. Второй пояс",
+        "author": "Михаил Игнатов",
+        "notes": "",
+        "createdAt": "2026-01-04 01:46:04",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 111
+        }
+    },
     "bdyRPyzDAf": {
         "id": "bdyRPyzDAf",
         "title": "Имперец. Земли Итреи",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 538
-        }
-    },
-    "oNxXQiYnQT": {
-        "id": "oNxXQiYnQT",
-        "title": "Тень, ключ и мятное печенье",
-        "author": "",
-        "notes": "http://flibusta.site/b/792642/read",
-        "createdAt": "2025-11-16 21:50:51",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 537
         }
     }
 }

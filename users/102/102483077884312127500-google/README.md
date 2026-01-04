@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>110</sup>
+# List of books read by vechno7t<sup>111</sup>
 ---
 
 ## 2025
+
+### Чемпион. Второй пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Имперец. Земли Итреи
 Михаил Игнатов
