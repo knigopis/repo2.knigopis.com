@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>108</sup>
+# List of books read by vechno7t<sup>109</sup>
 ---
 
 ## 2025
+
+### Защитник. Второй пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Ученик. Второй пояс
 Михаил Игнатов

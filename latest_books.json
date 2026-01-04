@@ -1,4 +1,16 @@
 {
+    "ObN5U5XZnJ": {
+        "id": "ObN5U5XZnJ",
+        "title": "Защитник. Второй пояс",
+        "author": "Михаил Игнатов",
+        "notes": "",
+        "createdAt": "2026-01-04 01:45:50",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 109
+        }
+    },
     "9BGpfVdTH0": {
         "id": "9BGpfVdTH0",
         "title": "Ученик. Второй пояс",
@@ -345,18 +357,6 @@
             "id": "112939273652151342554-google",
             "nickname": "MW",
             "booksCount": 304
-        }
-    },
-    "DKA1KwF2bR": {
-        "id": "DKA1KwF2bR",
-        "title": "Тайный город. Родная кровь",
-        "author": "Панов Валим; Зарубина Дарья",
-        "notes": "Воронеж, массоны-маги",
-        "createdAt": "2025-11-15 21:10:41",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 425
         }
     }
 }
