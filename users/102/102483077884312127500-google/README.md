@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>106</sup>
+# List of books read by vechno7t<sup>107</sup>
 ---
 
 ## 2025
+
+### Беглец. Второй пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Искатель. Второй пояс
 Михаил Игнатов
