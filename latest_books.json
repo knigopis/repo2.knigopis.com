@@ -1,4 +1,16 @@
 {
+    "bdyRPyzDAf": {
+        "id": "bdyRPyzDAf",
+        "title": "Имперец. Земли Итреи",
+        "author": "Михаил Игнатов",
+        "notes": "",
+        "createdAt": "2026-01-04 01:45:58",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 110
+        }
+    },
     "ObN5U5XZnJ": {
         "id": "ObN5U5XZnJ",
         "title": "Защитник. Второй пояс",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 537
-        }
-    },
-    "I-kozijEFQ": {
-        "id": "I-kozijEFQ",
-        "title": "Комната правды",
-        "author": "Синъитиро Юки",
-        "notes": "",
-        "createdAt": "2025-11-15 22:13:47",
-        "user": {
-            "id": "112939273652151342554-google",
-            "nickname": "MW",
-            "booksCount": 304
         }
     }
 }

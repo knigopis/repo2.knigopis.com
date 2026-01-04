@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>109</sup>
+# List of books read by vechno7t<sup>110</sup>
 ---
 
 ## 2025
+
+### Имперец. Земли Итреи
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Защитник. Второй пояс
 Михаил Игнатов
