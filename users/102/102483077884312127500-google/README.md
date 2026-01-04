@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>100</sup>
+# List of books read by vechno7t<sup>101</sup>
 ---
 
 ## 2025
+
+### Школа. Первый пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Пустошь. Нулевой круг
 Михаил Игнатов

@@ -1,4 +1,16 @@
 {
+    "zWQvxGo6il": {
+        "id": "zWQvxGo6il",
+        "title": "Школа. Первый пояс",
+        "author": "Михаил Игнатов",
+        "notes": "",
+        "createdAt": "2026-01-04 01:05:24",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 101
+        }
+    },
     "ux52u_z079": {
         "id": "ux52u_z079",
         "title": "Пустошь. Нулевой круг",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 424
-        }
-    },
-    "JPbmviL7Ry": {
-        "id": "JPbmviL7Ry",
-        "title": "Воображаемый друг",
-        "author": "Стивен Чбоски",
-        "notes": "",
-        "createdAt": "2025-11-09 11:21:07",
-        "user": {
-            "id": "112939273652151342554-google",
-            "nickname": "MW",
-            "booksCount": 303
         }
     }
 }
