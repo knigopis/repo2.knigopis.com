@@ -1,7 +1,12 @@
-# List of books read by vechno7t<sup>111</sup>
+# List of books read by vechno7t<sup>112</sup>
 ---
 
 ## 2025
+
+### Разочарование. Пятый пояс
+Михаил Игнатов
+> [2025-12] 
+
 
 ### Чемпион. Второй пояс
 Михаил Игнатов
