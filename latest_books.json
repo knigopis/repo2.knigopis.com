@@ -1,4 +1,16 @@
 {
+    "9BGpfVdTH0": {
+        "id": "9BGpfVdTH0",
+        "title": "Ученик. Второй пояс",
+        "author": "Михаил Игнатов",
+        "notes": "",
+        "createdAt": "2026-01-04 01:45:44",
+        "user": {
+            "id": "102483077884312127500-google",
+            "nickname": "vechno7t",
+            "booksCount": 108
+        }
+    },
     "iHSt6tSj78": {
         "id": "iHSt6tSj78",
         "title": "Беглец. Второй пояс",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 425
-        }
-    },
-    "36jAFtvG6t": {
-        "id": "36jAFtvG6t",
-        "title": "Яма",
-        "author": "Александр Куприн",
-        "notes": "О проститутках и о проститутках в дореволюционной России. Очень тяжёлая, всем рекомендую",
-        "createdAt": "2025-11-15 06:25:12",
-        "user": {
-            "id": "113248293394986559131-google",
-            "nickname": "lucius",
-            "booksCount": 166
         }
     }
 }
