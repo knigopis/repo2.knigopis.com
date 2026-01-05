@@ -1,4 +1,16 @@
 {
+    "1k146MGKT4": {
+        "id": "1k146MGKT4",
+        "title": "Принцесса для советника",
+        "author": "Мягкова (Нуар) Нинель",
+        "notes": "https://loveread.info/books/romany/172785-princessa-dlya-sovetnika-ninel-myagkova.html\nОчень милая сказка",
+        "createdAt": "2026-01-05 21:49:12",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 545
+        }
+    },
     "PBaN_Qi_rl": {
         "id": "PBaN_Qi_rl",
         "title": "Стажер зеркального сыска",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 526
-        }
-    },
-    "VPua2xULLA": {
-        "id": "VPua2xULLA",
-        "title": "Тайный город. Ночь Солнца",
-        "author": "Панов, Вадим; Зимний Александр",
-        "notes": "Клан массанов Лигар, амулет крови \"Ночь Солнца\"",
-        "createdAt": "2025-09-01 20:57:36",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 417
         }
     }
 }
