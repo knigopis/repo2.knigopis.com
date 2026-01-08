@@ -1,4 +1,16 @@
 {
+    "JHVBJGrZx3": {
+        "id": "JHVBJGrZx3",
+        "title": "Оттенки тьмы (три части)",
+        "author": "Мягкова (Нуар) Нинель",
+        "notes": "https://readli.net/serie/42277/\nНемного напоминает Второй шанс Е. Звездной\nОчень милая сказка. Про любовь, дружбу и надежду,",
+        "createdAt": "2026-01-08 20:19:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 546
+        }
+    },
     "1k146MGKT4": {
         "id": "1k146MGKT4",
         "title": "Принцесса для советника",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 541
-        }
-    },
-    "lYJ0pXFibp": {
-        "id": "lYJ0pXFibp",
-        "title": "Сны поездов",
-        "author": "Денис Джонсон",
-        "notes": "",
-        "createdAt": "2025-12-13 23:36:42",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 493
         }
     }
 }
