@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>548</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>547</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>263</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>118</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>84</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Айгуль](users/110/110628523588337726163-google)<sup>1</sup> 
 
 
-_10.01.2026 18:44:20_
+_10.01.2026 18:46:15_
