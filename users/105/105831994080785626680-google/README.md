@@ -1,4 +1,4 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>547</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>546</sup>
 ---
 
 ## 2026
@@ -102,10 +102,6 @@
 ### Тень, ключ и мятное печенье
 Котейко Алексей
 > [2025-11-12] http://flibusta.site/b/792642/read
-
-
-### Тень, ключ и мятное печенье
-> [2025-11-11] http://flibusta.site/b/792642/read
 
 
 ### Дела тайной канцелярии
