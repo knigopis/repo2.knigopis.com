@@ -1,4 +1,4 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>546</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>545</sup>
 ---
 
 ## 2026
@@ -93,10 +93,6 @@
 Ключевский Аоекс
 > [2025-11-16] https://searchfloor.org/s/%D0%93%D0%B8%D0%B1%D0%BB%D1%8B%D0%B5%20%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9,%20shellina
 > На удивление приятный двухтомник. Могла бы получиться хорошая серия. Но автор закончил логично и интересно.
-
-
-### Тень, ключ и мятное печенье
-> [2025-11-16] http://flibusta.site/b/792642/read
 
 
 ### Тень, ключ и мятное печенье
