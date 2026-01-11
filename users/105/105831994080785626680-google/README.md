@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>545</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>546</sup>
 ---
 
 ## 2026
+
+### Снежная невеста
+Мягкова (Нуар) Нинель
+> [2026-01-11] https://searchfloor.org/book-reader/10283 сказка на вечер
+
 
 ### КОМ: казачий особый механизированный
 Войлошниковы

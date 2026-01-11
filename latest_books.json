@@ -1,4 +1,16 @@
 {
+    "2IrfPp7azz": {
+        "id": "2IrfPp7azz",
+        "title": "Снежная невеста",
+        "author": "Мягкова (Нуар) Нинель",
+        "notes": "https://searchfloor.org/book-reader/10283 сказка на вечер",
+        "createdAt": "2026-01-11 15:57:28",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 546
+        }
+    },
     "sRFLzhE861": {
         "id": "sRFLzhE861",
         "title": "Посредник",
@@ -345,18 +357,6 @@
             "id": "108887983030919100717-google",
             "nickname": "Askaliya",
             "booksCount": 83
-        }
-    },
-    "GV5iDKMUrv": {
-        "id": "GV5iDKMUrv",
-        "title": "Мор - ученик Смерти",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2025-12-22 17:11:55",
-        "user": {
-            "id": "105803270930838059244-google",
-            "nickname": null,
-            "booksCount": 30
         }
     }
 }
