@@ -1,4 +1,16 @@
 {
+    "8PKRF0gFJR": {
+        "id": "8PKRF0gFJR",
+        "title": "Крупа бывает разная 2",
+        "author": "Дашкевич Виктор",
+        "notes": "https://author.today/work/430329",
+        "createdAt": "2026-01-11 17:42:03",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 547
+        }
+    },
     "2IrfPp7azz": {
         "id": "2IrfPp7azz",
         "title": "Снежная невеста",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 529
-        }
-    },
-    "UWEa0uj5j0": {
-        "id": "UWEa0uj5j0",
-        "title": "Пятая бездна",
-        "author": "Степанова Саша",
-        "notes": "https://loveread.info/books/nauchnaya-fantastika/185352-pyataya-bezdna-sasha-stepanova.html",
-        "createdAt": "2025-09-15 19:21:56",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 528
         }
     }
 }

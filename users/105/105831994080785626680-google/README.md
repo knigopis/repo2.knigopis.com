@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>546</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>547</sup>
 ---
 
 ## 2026
+
+### Крупа бывает разная 2
+Дашкевич Виктор
+> [2026-01-11] https://author.today/work/430329
+
 
 ### Снежная невеста
 Мягкова (Нуар) Нинель
