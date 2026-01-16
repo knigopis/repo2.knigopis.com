@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mailsweetmail123@mail.ru](users/mai/mailsweetmail123@mail.ru-local)<sup>0</sup> 
 [MW](users/112/112939273652151342554-google)<sup>306</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>547</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>263</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bulatgab](users/110/110922225860264388705-google)<sup>0</sup> 
 [zehan_v](users/174/174598622-vkontakte)<sup>74</sup> 
 [noch' nezhna](users/114/114697375851244071129-google)<sup>0</sup> 
-[Айгуль](users/110/110628523588337726163-google)<sup>1</sup> 
 
 
-_12.01.2026 15:48:22_
+_16.01.2026 11:03:36_

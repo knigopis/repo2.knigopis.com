@@ -1,4 +1,10 @@
 {
+    "mailsweetmail123@mail.ru-local": {
+        "id": "mailsweetmail123@mail.ru-local",
+        "nickname": "mailsweetmail123@mail.ru",
+        "booksCount": 0,
+        "updatedAt": "2026-01-16 11:03:36"
+    },
     "112939273652151342554-google": {
         "id": "112939273652151342554-google",
         "nickname": "MW",
@@ -172,11 +178,5 @@
         "nickname": "noch' nezhna",
         "booksCount": 0,
         "updatedAt": "2025-05-26 20:10:18"
-    },
-    "110628523588337726163-google": {
-        "id": "110628523588337726163-google",
-        "nickname": "Айгуль",
-        "booksCount": 1,
-        "updatedAt": "2025-05-26 15:10:21"
     }
 }
