@@ -1,4 +1,16 @@
 {
+    "xFKGoqq7Bu": {
+        "id": "xFKGoqq7Bu",
+        "title": "Котлован",
+        "author": "Платонов",
+        "notes": "",
+        "createdAt": "2026-01-17 21:38:22",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "ZdmrijEDfN": {
         "id": "ZdmrijEDfN",
         "title": "Мысли о мире во время воздушного налёта",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 102
-        }
-    },
-    "zWQvxGo6il": {
-        "id": "zWQvxGo6il",
-        "title": "Школа. Первый пояс",
-        "author": "Михаил Игнатов",
-        "notes": "",
-        "createdAt": "2026-01-04 01:05:24",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 101
         }
     }
 }
