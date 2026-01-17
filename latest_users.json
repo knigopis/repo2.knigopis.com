@@ -1,4 +1,10 @@
 {
+    "114910255112764096954-google": {
+        "id": "114910255112764096954-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2026-01-17 08:33:42"
+    },
     "mailsweetmail123@mail.ru-local": {
         "id": "mailsweetmail123@mail.ru-local",
         "nickname": "mailsweetmail123@mail.ru",
@@ -172,11 +178,5 @@
         "nickname": "zehan_v",
         "booksCount": 74,
         "updatedAt": "2025-06-06 07:44:16"
-    },
-    "114697375851244071129-google": {
-        "id": "114697375851244071129-google",
-        "nickname": "noch' nezhna",
-        "booksCount": 0,
-        "updatedAt": "2025-05-26 20:10:18"
     }
 }
