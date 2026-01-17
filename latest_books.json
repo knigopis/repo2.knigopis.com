@@ -1,4 +1,16 @@
 {
+    "ZdmrijEDfN": {
+        "id": "ZdmrijEDfN",
+        "title": "Мысли о мире во время воздушного налёта",
+        "author": "Вирджиния Вульф",
+        "notes": "",
+        "createdAt": "2026-01-17 08:36:25",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "7wX8cjt4hw": {
         "id": "7wX8cjt4hw",
         "title": "Bookship: Последний книжный магазин во Вселенной",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 101
-        }
-    },
-    "ux52u_z079": {
-        "id": "ux52u_z079",
-        "title": "Пустошь. Нулевой круг",
-        "author": "Михаил Игнатов",
-        "notes": "",
-        "createdAt": "2026-01-04 01:05:09",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 100
         }
     }
 }
