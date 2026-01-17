@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>1</sup>
+# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>2</sup>
 ---
 
 ## 2026
+
+### Bookship: Последний книжный магазин во Вселенной
+Мария Закрученко
+> [2026-01-10] 
+
 
 ### Все люди смертны
 Симона Де Бовуар
