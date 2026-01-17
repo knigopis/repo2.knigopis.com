@@ -1,4 +1,16 @@
 {
+    "9zLkYODayk": {
+        "id": "9zLkYODayk",
+        "title": "Все люди смертны",
+        "author": "Симона Де Бовуар",
+        "notes": "",
+        "createdAt": "2026-01-17 08:34:31",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "jVNjUQ_7qH": {
         "id": "jVNjUQ_7qH",
         "title": "Событие",
@@ -345,18 +357,6 @@
             "id": "108887983030919100717-google",
             "nickname": "Askaliya",
             "booksCount": 84
-        }
-    },
-    "MHjeMTEgKO": {
-        "id": "MHjeMTEgKO",
-        "title": "Сказки Нового года",
-        "author": "Сборник рассказов",
-        "notes": "",
-        "createdAt": "2025-12-30 17:20:16",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 495
         }
     }
 }
