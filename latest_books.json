@@ -1,4 +1,16 @@
 {
+    "S97vmNxlQw": {
+        "id": "S97vmNxlQw",
+        "title": "Предатель в Северной Корее",
+        "author": "Мортен Тровик",
+        "notes": "",
+        "createdAt": "2026-01-19 10:19:39",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "MM3lPAftiI": {
         "id": "MM3lPAftiI",
         "title": "Побочный эффект",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 104
-        }
-    },
-    "126r3IaQ1j": {
-        "id": "126r3IaQ1j",
-        "title": "Путь силы. Первый пояс",
-        "author": "Михаил Игнатов",
-        "notes": "",
-        "createdAt": "2026-01-04 01:45:04",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 103
         }
     }
 }
