@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>5</sup>
+# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>6</sup>
 ---
 
 ## 2026
+
+### Канцтовары Цубаки
+Ито Огава
+> [2026-02-01] 
+
 
 ### Предатель в Северной Корее
 Мортен Тровик

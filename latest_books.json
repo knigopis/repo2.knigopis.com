@@ -1,4 +1,16 @@
 {
+    "DzGMGfx0UY": {
+        "id": "DzGMGfx0UY",
+        "title": "Канцтовары Цубаки",
+        "author": "Ито Огава",
+        "notes": "",
+        "createdAt": "2026-02-01 08:19:40",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "36EdtZYg0V": {
         "id": "36EdtZYg0V",
         "title": "Улица Холодова",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 108
-        }
-    },
-    "iHSt6tSj78": {
-        "id": "iHSt6tSj78",
-        "title": "Беглец. Второй пояс",
-        "author": "Михаил Игнатов",
-        "notes": "",
-        "createdAt": "2026-01-04 01:45:37",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 107
         }
     }
 }
