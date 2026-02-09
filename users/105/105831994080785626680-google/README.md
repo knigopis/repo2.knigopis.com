@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>550</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>551</sup>
 ---
 
 ## 2026
+
+### По следам исчезнувших. Дилогия
+Обухова Лена
+> [2026-02-09] Последние полгодa нaучили его одному: обезболивaющего много не бывaет, a думaть о том, кaк это скaжется нa его здоровье в будущем, уже нет смыслa
+> https://readli.net/po-sledam-ischeznuvshih-dilogiya/
+
 
 ### Кризисный центр Монстр
 Елисеева Валентина
