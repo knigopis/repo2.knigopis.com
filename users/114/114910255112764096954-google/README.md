@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>7</sup>
+# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>8</sup>
 ---
 
 ## 2026
+
+### Тревожные люди
+Фредрик Бакман
+> [2026-02-11] 
+
 
 ### Несуществующий причал
 Нина Дашевская
