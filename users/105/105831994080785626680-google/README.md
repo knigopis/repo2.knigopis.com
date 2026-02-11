@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>551</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>552</sup>
 ---
 
 ## 2026
+
+### Неожиданные знакомства. Фанфик по Графу Аверину
+Коран Рая
+> [2026-02-10] https://author.today/reader/374665/4022365#
+
 
 ### По следам исчезнувших. Дилогия
 Обухова Лена

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неожиданные знакомства. Фанфик по Графу Аверину ~ [Chiffi](users/105/105831994080785626680-google)<sup>552</sup>
+    > https://author.today/reader/374665/4022365#
+
 * По следам исчезнувших. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>551</sup>
     > Последние полгодa нaучили его одному: обезболивaющего много не бывaет, a думaть о том, кaк это скaжется нa его здоровье в будущем, уже нет смыслa
     > https://readli.net/po-sledam-ischeznuvshih-dilogiya/
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 10 (24-27)
 
 * Кризисный центр Монстр ~ [Chiffi](users/105/105831994080785626680-google)<sup>550</sup>
-    > https://loveread.info/books/romany/178573-krizisnyi-centr-monstr-valentina-ilinichna-eliseeva.html Если вы просите Судьбу о встрече с Мужчиной своей Мечты – не забудьте вымолить у неё способность понимать его! Не надейтесь, что вам повезёт, как сказочной царевне-лебедь и поступки вашего мужчины будут естественны и логичны! Что превращаться в насекомое он будет с очевидной целью повидать отца. Заговаривать о белочках и богатырях – из-за нормального желания поразить того же отца чудесами заморскими. Что, заявив о намерении жениться на царевне, он точно на ней женится, без подвохов и диких выходок! Просите у Судьбы такого же князя Гвидона, идеального героя, чьи мотивы всегда очевидны, а намерения всем понятны! Иначе вы рискуете безнадёжно увязнуть в попытках разобраться в закономерности происходящих с вами событий...
 
 * Бесы ~ [Chiffi](users/105/105831994080785626680-google)<sup>549</sup>
 
@@ -28,16 +30,14 @@ Do not use pull requests to make changes here.
 
 * КОМ: казачий особый механизированный ~ [Chiffi](users/105/105831994080785626680-google)<sup>547</sup>
 
-* Оттенки тьмы (три части) ~ [Chiffi](users/105/105831994080785626680-google)<sup>546</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>552</sup> 
 [](users/114/114910255112764096954-google)<sup>8</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>498</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>551</sup> 
 [mailsweetmail123@mail.ru](users/mai/mailsweetmail123@mail.ru-local)<sup>0</sup> 
 [MW](users/112/112939273652151342554-google)<sup>306</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>263</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zehan_v](users/174/174598622-vkontakte)<sup>74</sup> 
 
 
-_11.02.2026 12:01:20_
+_11.02.2026 22:13:44_
