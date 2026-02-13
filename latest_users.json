@@ -1,4 +1,10 @@
 {
+    "106288897753354227117-google": {
+        "id": "106288897753354227117-google",
+        "nickname": "Lena",
+        "booksCount": 499,
+        "updatedAt": "2026-02-13 19:48:44"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -10,12 +16,6 @@
         "nickname": null,
         "booksCount": 8,
         "updatedAt": "2026-02-11 12:01:20"
-    },
-    "106288897753354227117-google": {
-        "id": "106288897753354227117-google",
-        "nickname": "Lena",
-        "booksCount": 498,
-        "updatedAt": "2026-02-10 23:31:27"
     },
     "mailsweetmail123@mail.ru-local": {
         "id": "mailsweetmail123@mail.ru-local",
