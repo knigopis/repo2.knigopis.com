@@ -1,4 +1,16 @@
 {
+    "qGd_4OE2Ip": {
+        "id": "qGd_4OE2Ip",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "Великолепная классика",
+        "createdAt": "2026-02-15 19:17:31",
+        "user": {
+            "id": "Beeban-local",
+            "nickname": "Beeban",
+            "booksCount": 1
+        }
+    },
     "jm-CAtdhkZ": {
         "id": "jm-CAtdhkZ",
         "title": "Курорт",
@@ -345,18 +357,6 @@
             "id": "102483077884312127500-google",
             "nickname": "vechno7t",
             "booksCount": 116
-        }
-    },
-    "9bDZgysDMo": {
-        "id": "9bDZgysDMo",
-        "title": "Основание. Пятый пояс",
-        "author": "Михаил Игнатов",
-        "notes": "",
-        "createdAt": "2026-01-04 01:46:30",
-        "user": {
-            "id": "102483077884312127500-google",
-            "nickname": "vechno7t",
-            "booksCount": 115
         }
     }
 }
