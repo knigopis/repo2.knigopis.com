@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beeban](users/Bee/Beeban-local)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>499</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>552</sup> 
 [](users/114/114910255112764096954-google)<sup>8</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100698173543506909054-google)<sup>0</sup> 
 [](users/107/107756383717359753203-google)<sup>56</sup> 
 [bulatgab](users/110/110922225860264388705-google)<sup>0</sup> 
-[zehan_v](users/174/174598622-vkontakte)<sup>74</sup> 
 
 
-_13.02.2026 19:48:44_
+_15.02.2026 19:16:34_

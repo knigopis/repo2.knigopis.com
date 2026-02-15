@@ -1,4 +1,10 @@
 {
+    "Beeban-local": {
+        "id": "Beeban-local",
+        "nickname": "Beeban",
+        "booksCount": 0,
+        "updatedAt": "2026-02-15 19:16:34"
+    },
     "106288897753354227117-google": {
         "id": "106288897753354227117-google",
         "nickname": "Lena",
@@ -172,11 +178,5 @@
         "nickname": "bulatgab",
         "booksCount": 0,
         "updatedAt": "2025-06-23 07:30:08"
-    },
-    "174598622-vkontakte": {
-        "id": "174598622-vkontakte",
-        "nickname": "zehan_v",
-        "booksCount": 74,
-        "updatedAt": "2025-06-06 07:44:16"
     }
 }
