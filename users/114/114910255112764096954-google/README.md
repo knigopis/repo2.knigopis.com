@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>8</sup>
+# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>9</sup>
 ---
 
 ## 2026
+
+### Если бы не ты, то бы и не я
+Вера Тихонова
+> [2026-02-16] 
+
 
 ### Тревожные люди
 Фредрик Бакман
