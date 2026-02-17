@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>10</sup>
+# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>11</sup>
 ---
 
 ## 2026
+
+### Дочь своего отца
+Жанна Немцова
+> [2026-02-17] 
+
 
 ### Путешествие в Россию
 Йозеф Рот
