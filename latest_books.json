@@ -1,4 +1,16 @@
 {
+    "vR5gQ5vE1p": {
+        "id": "vR5gQ5vE1p",
+        "title": "Земля будет вам прахом",
+        "author": "Майкл Маршалл Смит",
+        "notes": "",
+        "createdAt": "2026-02-21 23:47:54",
+        "user": {
+            "id": "112939273652151342554-google",
+            "nickname": "MW",
+            "booksCount": 307
+        }
+    },
     "FcbaiTR3Ft": {
         "id": "FcbaiTR3Ft",
         "title": "Дочь своего отца",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 545
-        }
-    },
-    "PBaN_Qi_rl": {
-        "id": "PBaN_Qi_rl",
-        "title": "Стажер зеркального сыска",
-        "author": "Гладкая Юлия",
-        "notes": "https://fantasy-worlds.org/lib/id38721/",
-        "createdAt": "2026-01-04 15:59:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 544
         }
     }
 }
