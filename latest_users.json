@@ -1,4 +1,10 @@
 {
+    "110272311226794631650-google": {
+        "id": "110272311226794631650-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2026-02-25 13:58:31"
+    },
     "112939273652151342554-google": {
         "id": "112939273652151342554-google",
         "nickname": "MW",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 56,
         "updatedAt": "2025-07-03 22:44:27"
-    },
-    "110922225860264388705-google": {
-        "id": "110922225860264388705-google",
-        "nickname": "bulatgab",
-        "booksCount": 0,
-        "updatedAt": "2025-06-23 07:30:08"
     }
 }
