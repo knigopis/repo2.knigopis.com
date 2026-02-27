@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сердце шторма ~ [Chiffi](users/105/105831994080785626680-google)<sup>553</sup>
+    > https://author.today/reader/430996
+    > Любое обучение - это череда контролируемых ошибок
+    > Детство кончается внезапно. И момент, когда твои ошибки никто не может накрывать, всегда приходит  неожиданно
+    > Дальше берега вода не поднимется
+    > Я всегда прихожу вовремя. Просто оно не всегда совпадает с заранее оговоренные временем.
+
 * Неожиданные знакомства. Фанфик по Графу Аверину ~ [Chiffi](users/105/105831994080785626680-google)<sup>552</sup>
     > https://author.today/reader/374665/4022365#
 
@@ -13,8 +20,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/po-sledam-ischeznuvshih-dilogiya/
 
 * Несуществующий причал ~ [](users/114/114910255112764096954-google)<sup>7</sup>
-    > Страница (строчка) 
-    > 10 (24-27)
 
 * Кризисный центр Монстр ~ [Chiffi](users/105/105831994080785626680-google)<sup>550</sup>
 
@@ -28,19 +33,17 @@ Do not use pull requests to make changes here.
 
 * Посредник ~ [Chiffi](users/105/105831994080785626680-google)<sup>548</sup>
 
-* КОМ: казачий особый механизированный ~ [Chiffi](users/105/105831994080785626680-google)<sup>547</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>553</sup> 
 [](users/110/110272311226794631650-google)<sup>0</sup> 
 [MW](users/112/112939273652151342554-google)<sup>307</sup> 
 [](users/114/114910255112764096954-google)<sup>11</sup> 
 [Beeban](users/Bee/Beeban-local)<sup>1</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>499</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>552</sup> 
 [mailsweetmail123@mail.ru](users/mai/mailsweetmail123@mail.ru-local)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>263</sup> 
 [vechno7t](users/102/102483077884312127500-google)<sup>118</sup> 
@@ -67,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107756383717359753203-google)<sup>56</sup> 
 
 
-_25.02.2026 13:58:32_
+_27.02.2026 07:11:31_
