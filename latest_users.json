@@ -1,4 +1,10 @@
 {
+    "113394353543510653657-google": {
+        "id": "113394353543510653657-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2026-03-03 01:10:20"
+    },
     "108887983030919100717-google": {
         "id": "108887983030919100717-google",
         "nickname": "Askaliya",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2025-07-07 20:05:47"
-    },
-    "107756383717359753203-google": {
-        "id": "107756383717359753203-google",
-        "nickname": null,
-        "booksCount": 56,
-        "updatedAt": "2025-07-03 22:44:27"
     }
 }
