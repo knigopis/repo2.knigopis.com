@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 13й демон Асмодея ~ [Chiffi](users/105/105831994080785626680-google)<sup>554</sup>
+    > Идея не плохая, но затянуто (хотя всего 5 книг).  
+    > Ошибаться можно различно, верно поступать можно лишь одним путём, поэтому-то первое легко, а второе трудно; легко промахнуться, трудно попасть в цель.Аристотель
+    > 
+    > https://readli.net/serie/38848/
+
 * Сердце шторма ~ [Chiffi](users/105/105831994080785626680-google)<sup>553</sup>
     > https://author.today/reader/430996
     > Любое обучение - это череда контролируемых ошибок
@@ -16,8 +22,6 @@ Do not use pull requests to make changes here.
     > https://author.today/reader/374665/4022365#
 
 * По следам исчезнувших. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>551</sup>
-    > Последние полгодa нaучили его одному: обезболивaющего много не бывaет, a думaть о том, кaк это скaжется нa его здоровье в будущем, уже нет смыслa
-    > https://readli.net/po-sledam-ischeznuvshih-dilogiya/
 
 * Несуществующий причал ~ [](users/114/114910255112764096954-google)<sup>7</sup>
 
@@ -31,17 +35,15 @@ Do not use pull requests to make changes here.
 
 * Снежная невеста ~ [Chiffi](users/105/105831994080785626680-google)<sup>546</sup>
 
-* Посредник ~ [Chiffi](users/105/105831994080785626680-google)<sup>548</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>554</sup> 
 [](users/113/113394353543510653657-google)<sup>0</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>85</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>500</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>553</sup> 
 [](users/110/110272311226794631650-google)<sup>0</sup> 
 [MW](users/112/112939273652151342554-google)<sup>307</sup> 
 [](users/114/114910255112764096954-google)<sup>11</sup> 
@@ -70,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/100/100698173543506909054-google)<sup>0</sup> 
 
 
-_03.03.2026 01:10:20_
+_05.03.2026 22:32:31_
