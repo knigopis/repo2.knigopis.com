@@ -1,4 +1,10 @@
 {
+    "118090822174611442117-google": {
+        "id": "118090822174611442117-google",
+        "nickname": "KotSamson",
+        "booksCount": 0,
+        "updatedAt": "2026-03-12 13:37:16"
+    },
     "114910255112764096954-google": {
         "id": "114910255112764096954-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "KMS",
         "booksCount": 0,
         "updatedAt": "2025-07-21 14:13:38"
-    },
-    "100698173543506909054-google": {
-        "id": "100698173543506909054-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2025-07-07 20:05:47"
     }
 }
