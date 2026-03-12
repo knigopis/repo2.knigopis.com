@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[KotSamson](users/118/118090822174611442117-google)<sup>0</sup> 
 [](users/114/114910255112764096954-google)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>554</sup> 
 [](users/113/113394353543510653657-google)<sup>0</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
 [KMS](users/116/116225468654936056801-google)<sup>0</sup> 
-[](users/100/100698173543506909054-google)<sup>0</sup> 
 
 
-_08.03.2026 09:39:28_
+_12.03.2026 13:37:17_
