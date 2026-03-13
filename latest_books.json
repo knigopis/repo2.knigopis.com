@@ -1,4 +1,16 @@
 {
+    "fXY5yijWUT": {
+        "id": "fXY5yijWUT",
+        "title": "Зона умолчания",
+        "author": "Сборник рассказов",
+        "notes": "",
+        "createdAt": "2026-03-13 00:22:58",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 501
+        }
+    },
     "Sc5enYPdFa": {
         "id": "Sc5enYPdFa",
         "title": "Повелитель механического легиона",
@@ -345,18 +357,6 @@
             "id": "112939273652151342554-google",
             "nickname": "MW",
             "booksCount": 306
-        }
-    },
-    "8PKRF0gFJR": {
-        "id": "8PKRF0gFJR",
-        "title": "Крупа бывает разная 2",
-        "author": "Дашкевич Виктор",
-        "notes": "https://author.today/work/430329",
-        "createdAt": "2026-01-11 17:42:03",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 547
         }
     }
 }

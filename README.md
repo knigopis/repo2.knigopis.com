@@ -44,12 +44,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lena](users/106/106288897753354227117-google)<sup>501</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>555</sup> 
 [KotSamson](users/118/118090822174611442117-google)<sup>0</sup> 
 [](users/114/114910255112764096954-google)<sup>12</sup> 
 [](users/113/113394353543510653657-google)<sup>0</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>85</sup> 
-[Lena](users/106/106288897753354227117-google)<sup>500</sup> 
 [](users/110/110272311226794631650-google)<sup>0</sup> 
 [MW](users/112/112939273652151342554-google)<sup>307</sup> 
 [Beeban](users/Bee/Beeban-local)<sup>1</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [KMS](users/116/116225468654936056801-google)<sup>0</sup> 
 
 
-_12.03.2026 21:40:23_
+_13.03.2026 00:22:58_
