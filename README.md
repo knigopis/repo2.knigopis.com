@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[YuTYu](users/103/103670030395866719459-google)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>501</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>555</sup> 
 [KotSamson](users/118/118090822174611442117-google)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rnix](users/rni/rnix-local)<sup>76</sup> 
 [ITggDart](users/109/109028180913620975319-google)<sup>0</sup> 
 [Sacramantis](users/102/102752109452258353282-google)<sup>0</sup> 
-[KMS](users/116/116225468654936056801-google)<sup>0</sup> 
 
 
-_13.03.2026 00:22:58_
+_14.03.2026 15:38:00_
