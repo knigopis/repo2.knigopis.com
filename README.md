@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Системный геймер ~ [Chiffi](users/105/105831994080785626680-google)<sup>556</sup>
+    > Такое((. https://searchfloor.org/s/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%B5%D0%B9%D0%BC%D0%B5%D1%80?authors=%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%BD,%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D0%B8%D0%BD
+
 * Повелитель механического легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>555</sup>
     > сохранив кусочек ребёнка в душе мы избавляем себя от скуки и безумия, что приходит к старости.
     > Если мы не посвящены, значит мы ресурс на страницах чужих планов.
@@ -19,11 +22,6 @@ Do not use pull requests to make changes here.
     > https://readli.net/serie/38848/
 
 * Сердце шторма ~ [Chiffi](users/105/105831994080785626680-google)<sup>553</sup>
-    > https://author.today/reader/430996
-    > Любое обучение - это череда контролируемых ошибок
-    > Детство кончается внезапно. И момент, когда твои ошибки никто не может накрывать, всегда приходит  неожиданно
-    > Дальше берега вода не поднимется
-    > Я всегда прихожу вовремя. Просто оно не всегда совпадает с заранее оговоренные временем.
 
 * Неожиданные знакомства. Фанфик по Графу Аверину ~ [Chiffi](users/105/105831994080785626680-google)<sup>552</sup>
 
@@ -37,18 +35,16 @@ Do not use pull requests to make changes here.
 
 * Побочный эффект ~ [Chiffi](users/105/105831994080785626680-google)<sup>548</sup>
 
-* Крупа бывает разная 2 ~ [Chiffi](users/105/105831994080785626680-google)<sup>547</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>556</sup> 
 [zehan_v](users/101/101591183721429265201-google)<sup>0</sup> 
 [Катрин-ка](users/109/109156974000935369979-google)<sup>0</sup> 
 [YuTYu](users/103/103670030395866719459-google)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>501</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>555</sup> 
 [KotSamson](users/118/118090822174611442117-google)<sup>0</sup> 
 [](users/114/114910255112764096954-google)<sup>12</sup> 
 [](users/113/113394353543510653657-google)<sup>0</sup> 
@@ -76,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnix](users/rni/rnix-local)<sup>76</sup> 
 
 
-_17.03.2026 14:14:27_
+_19.03.2026 22:45:44_
