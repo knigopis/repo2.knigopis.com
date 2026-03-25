@@ -40,7 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lena](users/106/106288897753354227117-google)<sup>502</sup> 
+[Lena](users/106/106288897753354227117-google)<sup>503</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>556</sup> 
 [zehan_v](users/101/101591183721429265201-google)<sup>0</sup> 
 [Катрин-ка](users/109/109156974000935369979-google)<sup>0</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rnix](users/rni/rnix-local)<sup>76</sup> 
 
 
-_20.03.2026 21:58:55_
+_25.03.2026 23:30:24_
