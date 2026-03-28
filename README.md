@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Uma](users/103/103471615923947001694-google)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>503</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>556</sup> 
 [zehan_v](users/101/101591183721429265201-google)<sup>0</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aktoty](users/115/115891840326495240870-google)<sup>102</sup> 
 [Сова](users/111/111678706154782248327-google)<sup>0</sup> 
 [test](users/tes/test-local)<sup>0</sup> 
-[rnix](users/rni/rnix-local)<sup>76</sup> 
 
 
-_25.03.2026 23:30:24_
+_28.03.2026 21:54:30_
