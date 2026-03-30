@@ -35,6 +35,10 @@
 Ключевский Алекс
 > https://mir-knigi.info/books/fantastika-i-fentezi/fentezi/170757-chastnyi-detektiv-vtorogo-ranga-kniga-1-si.html
 
+### `90` Ревизор возвращается в ссср
+Винтеркей Серж
+> Хочешь произвести благоприятное впечатление на важного собеседника, заканчивай встречу сам, когда ты ему любопытен, а не заставляй его тебя выгонять.
+
 Войлошниковы
 > https://readli.net/zapiski-o-slomannom-mire/
 
