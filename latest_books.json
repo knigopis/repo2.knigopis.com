@@ -1,4 +1,16 @@
 {
+    "QVd_FbvmuF": {
+        "id": "QVd_FbvmuF",
+        "title": "Камера обскура",
+        "author": "Набоков",
+        "notes": "",
+        "createdAt": "2026-04-02 11:59:30",
+        "user": {
+            "id": "108887983030919100717-google",
+            "nickname": "Askaliya",
+            "booksCount": 86
+        }
+    },
     "MsTFJeaWHG": {
         "id": "MsTFJeaWHG",
         "title": "Только дальний свет фар",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "ZdmrijEDfN": {
-        "id": "ZdmrijEDfN",
-        "title": "Мысли о мире во время воздушного налёта",
-        "author": "Вирджиния Вульф",
-        "notes": "",
-        "createdAt": "2026-01-17 08:36:25",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
