@@ -1,4 +1,16 @@
 {
+    "Du0d7Iy37b": {
+        "id": "Du0d7Iy37b",
+        "title": "Царствие мне небесное",
+        "author": "Вера Богданова",
+        "notes": "",
+        "createdAt": "2026-04-04 22:47:24",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 504
+        }
+    },
     "QVd_FbvmuF": {
         "id": "QVd_FbvmuF",
         "title": "Камера обскура",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 548
-        }
-    },
-    "xFKGoqq7Bu": {
-        "id": "xFKGoqq7Bu",
-        "title": "Котлован",
-        "author": "Платонов",
-        "notes": "",
-        "createdAt": "2026-01-17 21:38:22",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }
