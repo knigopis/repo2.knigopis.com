@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>432</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>433</sup>
 ---
 
 ## 2026
+
+### Тайный город. Самый главный приз
+Панов Вадим
+> [2026-02-04] 
+
 
 ### Тайный город. Порченая кровь
 Сборник

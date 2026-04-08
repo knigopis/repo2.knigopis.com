@@ -1,4 +1,16 @@
 {
+    "1ELTtWX5az": {
+        "id": "1ELTtWX5az",
+        "title": "Тайный город. Самый главный приз",
+        "author": "Панов Вадим",
+        "notes": "",
+        "createdAt": "2026-04-08 16:48:39",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 433
+        }
+    },
     "0Om3fNiGdr": {
         "id": "0Om3fNiGdr",
         "title": "Тайный город. Порченая кровь",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 498
-        }
-    },
-    "mHuq_Fqw32": {
-        "id": "mHuq_Fqw32",
-        "title": "По следам исчезнувших. Дилогия",
-        "author": "Обухова Лена",
-        "notes": "Последние полгодa нaучили его одному: обезболивaющего много не бывaет, a думaть о том, кaк это скaжется нa его здоровье в будущем, уже нет смыслa\nhttps://readli.net/po-sledam-ischeznuvshih-dilogiya/",
-        "createdAt": "2026-02-09 18:57:32",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 551
         }
     }
 }
