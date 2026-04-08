@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>426</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>505</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>86</sup> 
 [Uma](users/103/103471615923947001694-google)<sup>0</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fazlyyeva](users/Faz/Fazlyyeva-local)<sup>0</sup> 
 [](users/103/103397594840265920578-google)<sup>1</sup> 
 [logan135](users/log/logan135-local)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>425</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>166</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 [Anastasia](users/Ana/Anastasia-local)<sup>76</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [test](users/tes/test-local)<sup>0</sup> 
 
 
-_06.04.2026 00:46:24_
+_08.04.2026 16:38:13_

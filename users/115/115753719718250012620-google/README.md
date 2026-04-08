@@ -1,5 +1,13 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>425</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>426</sup>
 ---
+
+## 2026
+
+### Тайный город. Доказательство силы
+Панов Вадим; Точинов Виктор
+> [2026-11-24] 
+
+
 
 ## 2025
 
