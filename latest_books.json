@@ -1,4 +1,16 @@
 {
+    "Y8T3Sb3gC4": {
+        "id": "Y8T3Sb3gC4",
+        "title": "Тайный город. Высшая каста",
+        "author": "Панов Вадим",
+        "notes": "",
+        "createdAt": "2026-04-08 16:51:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 438
+        }
+    },
     "PNv_kGvnPE": {
         "id": "PNv_kGvnPE",
         "title": "Тайный город. Ангел мертвеца",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "qGd_4OE2Ip": {
-        "id": "qGd_4OE2Ip",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "Великолепная классика",
-        "createdAt": "2026-02-15 19:17:31",
-        "user": {
-            "id": "Beeban-local",
-            "nickname": "Beeban",
-            "booksCount": 1
         }
     }
 }
