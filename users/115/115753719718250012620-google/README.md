@@ -1,5 +1,13 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>429</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>430</sup>
 ---
+
+## 2026
+
+### Тайный город. Наследие великанов
+Панов Вадим
+> [2026-01-01] 
+
+
 
 ## 2025
 

@@ -1,4 +1,16 @@
 {
+    "dv3EzqR07d": {
+        "id": "dv3EzqR07d",
+        "title": "Тайный город. Наследие великанов",
+        "author": "Панов Вадим",
+        "notes": "",
+        "createdAt": "2026-04-08 16:45:30",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 430
+        }
+    },
     "9Sn5aMvU0b": {
         "id": "9Sn5aMvU0b",
         "title": "Секта в доме моей бабушки",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 7
-        }
-    },
-    "DzGMGfx0UY": {
-        "id": "DzGMGfx0UY",
-        "title": "Канцтовары Цубаки",
-        "author": "Ито Огава",
-        "notes": "",
-        "createdAt": "2026-02-01 08:19:40",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }
