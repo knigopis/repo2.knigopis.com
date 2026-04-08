@@ -1,4 +1,16 @@
 {
+    "0Om3fNiGdr": {
+        "id": "0Om3fNiGdr",
+        "title": "Тайный город. Порченая кровь",
+        "author": "Панов Вадим",
+        "notes": "",
+        "createdAt": "2026-04-08 16:47:01",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 432
+        }
+    },
     "gHjKX9AMpf": {
         "id": "gHjKX9AMpf",
         "title": "Тайный город. Красная угроза",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 551
-        }
-    },
-    "7IQ9iihnAK": {
-        "id": "7IQ9iihnAK",
-        "title": "Дислексия",
-        "author": "Светлана Олонцева",
-        "notes": "",
-        "createdAt": "2026-02-04 23:50:03",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 497
         }
     }
 }

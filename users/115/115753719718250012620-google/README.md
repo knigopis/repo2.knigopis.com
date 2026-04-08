@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>431</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>432</sup>
 ---
 
 ## 2026
+
+### Тайный город. Порченая кровь
+Панов Вадим
+> [2026-01-22] 
+
 
 ### Тайный город. Красная угроза
 Панов Вадим
