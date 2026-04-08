@@ -1,4 +1,16 @@
 {
+    "6mySCwKQZ1": {
+        "id": "6mySCwKQZ1",
+        "title": "Тайный город. Тёмные церемонии",
+        "author": "Панов Вадим",
+        "notes": "",
+        "createdAt": "2026-04-08 16:49:51",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 435
+        }
+    },
     "9_piXdDYjP": {
         "id": "9_piXdDYjP",
         "title": "Контакт",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 552
-        }
-    },
-    "APhoO6NBL6": {
-        "id": "APhoO6NBL6",
-        "title": "Тревожные люди",
-        "author": "Фредрик Бакман",
-        "notes": "",
-        "createdAt": "2026-02-11 12:01:20",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
