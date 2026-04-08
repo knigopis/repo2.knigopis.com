@@ -1,4 +1,16 @@
 {
+    "s0cDEV9cF_": {
+        "id": "s0cDEV9cF_",
+        "title": "Тайный город. Быстрые перемены",
+        "author": "Сборник",
+        "notes": "",
+        "createdAt": "2026-04-08 16:50:30",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 436
+        }
+    },
     "6mySCwKQZ1": {
         "id": "6mySCwKQZ1",
         "title": "Тайный город. Тёмные церемонии",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 499
-        }
-    },
-    "IyKIapb1cF": {
-        "id": "IyKIapb1cF",
-        "title": "Неожиданные знакомства. Фанфик по Графу Аверину",
-        "author": "Коран Рая",
-        "notes": "https://author.today/reader/374665/4022365#",
-        "createdAt": "2026-02-11 22:13:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 552
         }
     }
 }
