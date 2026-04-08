@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>436</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>437</sup>
 ---
 
 ## 2026
+
+### Тайный город. Ангел мертвеца
+Панов Вадим
+> [2026-03-21] 
+
 
 ### Тайный город. Быстрые перемены
 Сборник
