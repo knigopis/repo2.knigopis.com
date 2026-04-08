@@ -1,4 +1,16 @@
 {
+    "gHjKX9AMpf": {
+        "id": "gHjKX9AMpf",
+        "title": "Тайный город. Красная угроза",
+        "author": "Панов Вадим",
+        "notes": "",
+        "createdAt": "2026-04-08 16:46:24",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 431
+        }
+    },
     "dv3EzqR07d": {
         "id": "dv3EzqR07d",
         "title": "Тайный город. Наследие великанов",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 497
-        }
-    },
-    "HmkBO-at1y": {
-        "id": "HmkBO-at1y",
-        "title": "Несуществующий причал",
-        "author": "Нина Дашевская",
-        "notes": "Страница (строчка) \n10 (24-27)",
-        "createdAt": "2026-02-04 10:46:25",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }

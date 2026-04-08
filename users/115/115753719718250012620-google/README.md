@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>430</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>431</sup>
 ---
 
 ## 2026
+
+### Тайный город. Красная угроза
+Панов Вадим
+> [2026-01-12] 
+
 
 ### Тайный город. Наследие великанов
 Панов Вадим
