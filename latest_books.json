@@ -1,4 +1,16 @@
 {
+    "o-zmNM_P51": {
+        "id": "o-zmNM_P51",
+        "title": "Мост на Дрине",
+        "author": "Иво Андрич",
+        "notes": "480 с.",
+        "createdAt": "2026-04-20 10:50:10",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "ZZqJ6I0tvJ": {
         "id": "ZZqJ6I0tvJ",
         "title": "Формы движения материи",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 11
-        }
-    },
-    "m35hlYIm0F": {
-        "id": "m35hlYIm0F",
-        "title": "Путешествие в Россию",
-        "author": "Йозеф Рот",
-        "notes": "",
-        "createdAt": "2026-02-16 11:34:10",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }

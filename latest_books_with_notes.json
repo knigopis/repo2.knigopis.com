@@ -1,4 +1,16 @@
 {
+    "o-zmNM_P51": {
+        "id": "o-zmNM_P51",
+        "title": "Мост на Дрине",
+        "author": "Иво Андрич",
+        "notes": "480 с.",
+        "createdAt": "2026-04-20 10:50:10",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "UHKrdpIcIh": {
         "id": "UHKrdpIcIh",
         "title": "Системный геймер",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 424
-        }
-    },
-    "6EOfekXH-7": {
-        "id": "6EOfekXH-7",
-        "title": "Дела тайной канцелярии",
-        "author": "Дашкевич Виктор",
-        "notes": "http://flibusta.site/b/842214/read#t10\nКак же мне нравится эта серия.",
-        "createdAt": "2025-11-07 21:43:34",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 533
         }
     }
 }

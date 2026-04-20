@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>12</sup>
+# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>13</sup>
 ---
 
 ## 2026
+
+### Мост на Дрине
+Иво Андрич
+> [2026-04-20] 480 с.
+
 
 ### Мы не умрем
 > [2026-03-08] 
