@@ -1,4 +1,16 @@
 {
+    "HUGG6_9USL": {
+        "id": "HUGG6_9USL",
+        "title": "Гомер навсегда",
+        "author": "Ласло Краснахоркаи",
+        "notes": "",
+        "createdAt": "2026-04-21 22:43:37",
+        "user": {
+            "id": "106288897753354227117-google",
+            "nickname": "Lena",
+            "booksCount": 506
+        }
+    },
     "o-zmNM_P51": {
         "id": "o-zmNM_P51",
         "title": "Мост на Дрине",
@@ -345,18 +357,6 @@
             "id": "112939273652151342554-google",
             "nickname": "MW",
             "booksCount": 307
-        }
-    },
-    "FcbaiTR3Ft": {
-        "id": "FcbaiTR3Ft",
-        "title": "Дочь своего отца",
-        "author": "Жанна Немцова",
-        "notes": "",
-        "createdAt": "2026-02-17 19:48:22",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 11
         }
     }
 }

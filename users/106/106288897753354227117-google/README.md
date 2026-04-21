@@ -1,7 +1,12 @@
-# List of books read by [Lena](https://plus.google.com/u/0/106288897753354227117/)<sup>505</sup>
+# List of books read by [Lena](https://plus.google.com/u/0/106288897753354227117/)<sup>506</sup>
 ---
 
 ## 2026
+
+### Гомер навсегда
+Ласло Краснахоркаи
+> [2026-04-22] 
+
 
 ### Кошки японской поэзии
 100 хайку Кобаяси Иссы
