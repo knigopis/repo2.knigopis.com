@@ -1,4 +1,10 @@
 {
+    "asdf-local": {
+        "id": "asdf-local",
+        "nickname": "asdf",
+        "booksCount": 0,
+        "updatedAt": "2026-04-26 22:01:58"
+    },
     "114910255112764096954-google": {
         "id": "114910255112764096954-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Сова",
         "booksCount": 0,
         "updatedAt": "2025-08-18 15:32:50"
-    },
-    "test-local": {
-        "id": "test-local",
-        "nickname": "test",
-        "booksCount": 0,
-        "updatedAt": "2025-08-07 13:58:14"
     }
 }
