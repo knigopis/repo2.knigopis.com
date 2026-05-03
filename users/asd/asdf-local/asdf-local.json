@@ -4,6 +4,9 @@
     "nickname": "asdf",
     "identity": "local/asdf",
     "booksCount": 1,
+    "subscriptions": {
+        "114910255112764096954-google": 15
+    },
     "createdAt": "2026-04-26 22:01:58",
-    "updatedAt": "2026-05-03 21:44:22"
+    "updatedAt": "2026-05-03 21:44:37"
 }
