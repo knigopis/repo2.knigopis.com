@@ -1,4 +1,16 @@
 {
+    "7yGGq9iERw": {
+        "id": "7yGGq9iERw",
+        "title": "1984",
+        "author": "",
+        "notes": "",
+        "createdAt": "2026-05-03 21:44:22",
+        "user": {
+            "id": "asdf-local",
+            "nickname": "asdf",
+            "booksCount": 1
+        }
+    },
     "wiaus29xws": {
         "id": "wiaus29xws",
         "title": "Вторая жизнь Уве",
@@ -345,18 +357,6 @@
             "id": "108887983030919100717-google",
             "nickname": "Askaliya",
             "booksCount": 85
-        }
-    },
-    "5Q3GYNrGHY": {
-        "id": "5Q3GYNrGHY",
-        "title": "Верю каждому зверю",
-        "author": "Настасья Мартен",
-        "notes": "",
-        "createdAt": "2026-02-28 14:49:28",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 500
         }
     }
 }
