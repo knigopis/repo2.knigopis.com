@@ -1,4 +1,10 @@
 {
+    "aaaa-local": {
+        "id": "aaaa-local",
+        "nickname": "aaaa",
+        "booksCount": 0,
+        "updatedAt": "2026-05-03 19:42:05"
+    },
     "114910255112764096954-google": {
         "id": "114910255112764096954-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "aktoty",
         "booksCount": 102,
         "updatedAt": "2025-08-23 20:25:19"
-    },
-    "111678706154782248327-google": {
-        "id": "111678706154782248327-google",
-        "nickname": "Сова",
-        "booksCount": 0,
-        "updatedAt": "2025-08-18 15:32:50"
     }
 }

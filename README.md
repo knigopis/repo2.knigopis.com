@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aaaa](users/aaa/aaaa-local)<sup>0</sup> 
 [](users/114/114910255112764096954-google)<sup>15</sup> 
 [asdf](users/asd/asdf-local)<sup>0</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>506</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112499141381613191217-google)<sup>0</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>75</sup> 
 [aktoty](users/115/115891840326495240870-google)<sup>102</sup> 
-[Сова](users/111/111678706154782248327-google)<sup>0</sup> 
 
 
-_02.05.2026 14:08:07_
+_03.05.2026 19:42:05_
