@@ -1,4 +1,10 @@
 {
+    "gsie56-local": {
+        "id": "gsie56-local",
+        "nickname": "gsie56",
+        "booksCount": 0,
+        "updatedAt": "2026-05-04 03:53:03"
+    },
     "asdf-local": {
         "id": "asdf-local",
         "nickname": "asdf",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2025-08-26 23:04:06"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 75,
-        "updatedAt": "2025-08-26 16:05:04"
     }
 }
