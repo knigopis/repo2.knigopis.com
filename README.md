@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elixir](users/eli/elixir-local)<sup>0</sup> 
 [gsie56](users/gsi/gsie56-local)<sup>2</sup> 
 [asdf](users/asd/asdf-local)<sup>1</sup> 
 [bbbb](users/bbb/bbbb-local)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 [Anastasia](users/Ana/Anastasia-local)<sup>76</sup> 
 [Dinara ](users/107/107718177426132290975-google)<sup>23</sup> 
-[](users/112/112499141381613191217-google)<sup>0</sup> 
 
 
-_04.05.2026 03:58:38_
+_10.05.2026 18:54:11_

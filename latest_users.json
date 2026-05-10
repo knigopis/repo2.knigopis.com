@@ -1,4 +1,10 @@
 {
+    "elixir-local": {
+        "id": "elixir-local",
+        "nickname": "elixir",
+        "booksCount": 0,
+        "updatedAt": "2026-05-10 18:54:11"
+    },
     "gsie56-local": {
         "id": "gsie56-local",
         "nickname": "gsie56",
@@ -172,11 +178,5 @@
         "nickname": "Dinara ",
         "booksCount": 23,
         "updatedAt": "2025-08-28 16:50:11"
-    },
-    "112499141381613191217-google": {
-        "id": "112499141381613191217-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2025-08-26 23:04:06"
     }
 }
