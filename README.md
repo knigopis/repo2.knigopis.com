@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elixir](users/eli/elixir-local)<sup>458</sup> 
+[elixir](users/eli/elixir-local)<sup>457</sup> 
 [gsie56](users/gsi/gsie56-local)<sup>2</sup> 
 [asdf](users/asd/asdf-local)<sup>1</sup> 
 [bbbb](users/bbb/bbbb-local)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dinara ](users/107/107718177426132290975-google)<sup>23</sup> 
 
 
-_10.05.2026 19:01:56_
+_10.05.2026 19:02:26_
