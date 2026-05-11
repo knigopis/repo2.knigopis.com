@@ -1,4 +1,16 @@
 {
+    "PVMqJvpZAK": {
+        "id": "PVMqJvpZAK",
+        "title": "О чем молчит ласточка",
+        "author": "Малисова, Сильванова",
+        "notes": "",
+        "createdAt": "2026-05-11 07:27:23",
+        "user": {
+            "id": "elixir-local",
+            "nickname": "elixir",
+            "booksCount": 459
+        }
+    },
     "JK5UXHfzvt": {
         "id": "JK5UXHfzvt",
         "title": "Лето в пионерском галстуке",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 556
-        }
-    },
-    "fXY5yijWUT": {
-        "id": "fXY5yijWUT",
-        "title": "Зона умолчания",
-        "author": "Сборник рассказов",
-        "notes": "",
-        "createdAt": "2026-03-13 00:22:58",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 501
         }
     }
 }
