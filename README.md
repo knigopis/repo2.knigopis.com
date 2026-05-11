@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maxim](users/Max/Maxim-local)<sup>0</sup> 
 [elixir](users/eli/elixir-local)<sup>464</sup> 
 [lena](users/len/lena-local)<sup>506</sup> 
 [gsie56](users/gsi/gsie56-local)<sup>2</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [logan135](users/log/logan135-local)<sup>0</sup> 
 [lucius](users/113/113248293394986559131-google)<sup>166</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
-[Anastasia](users/Ana/Anastasia-local)<sup>76</sup> 
 
 
-_11.05.2026 09:11:54_
+_11.05.2026 16:49:42_

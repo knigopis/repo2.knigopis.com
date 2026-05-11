@@ -1,4 +1,10 @@
 {
+    "Maxim-local": {
+        "id": "Maxim-local",
+        "nickname": "Maxim",
+        "booksCount": 0,
+        "updatedAt": "2026-05-11 16:49:42"
+    },
     "elixir-local": {
         "id": "elixir-local",
         "nickname": "elixir",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 26,
         "updatedAt": "2025-11-08 22:22:11"
-    },
-    "Anastasia-local": {
-        "id": "Anastasia-local",
-        "nickname": "Anastasia",
-        "booksCount": 76,
-        "updatedAt": "2025-09-27 15:28:20"
     }
 }
