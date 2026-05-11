@@ -1,4 +1,16 @@
 {
+    "ug0gtgVS7S": {
+        "id": "ug0gtgVS7S",
+        "title": "Кадавры",
+        "author": "Полярников Алексей",
+        "notes": "",
+        "createdAt": "2026-05-11 07:55:23",
+        "user": {
+            "id": "elixir-local",
+            "nickname": "elixir",
+            "booksCount": 463
+        }
+    },
     "_ySBsbskCb": {
         "id": "_ySBsbskCb",
         "title": "Радикальное прощение",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 504
-        }
-    },
-    "QVd_FbvmuF": {
-        "id": "QVd_FbvmuF",
-        "title": "Камера обскура",
-        "author": "Набоков",
-        "notes": "",
-        "createdAt": "2026-04-02 11:59:30",
-        "user": {
-            "id": "108887983030919100717-google",
-            "nickname": "Askaliya",
-            "booksCount": 86
         }
     }
 }
