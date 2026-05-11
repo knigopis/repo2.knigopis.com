@@ -1,4 +1,16 @@
 {
+    "_ySBsbskCb": {
+        "id": "_ySBsbskCb",
+        "title": "Радикальное прощение",
+        "author": "Типпинг Колин",
+        "notes": "",
+        "createdAt": "2026-05-11 07:37:59",
+        "user": {
+            "id": "elixir-local",
+            "nickname": "elixir",
+            "booksCount": 462
+        }
+    },
     "E9D0CKW5nR": {
         "id": "E9D0CKW5nR",
         "title": "Запретная тетрадь",
@@ -345,18 +357,6 @@
             "id": "108887983030919100717-google",
             "nickname": "Askaliya",
             "booksCount": 86
-        }
-    },
-    "MsTFJeaWHG": {
-        "id": "MsTFJeaWHG",
-        "title": "Только дальний свет фар",
-        "author": "Илья Мамаев-Найлз",
-        "notes": "",
-        "createdAt": "2026-03-25 23:30:24",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 503
         }
     }
 }
