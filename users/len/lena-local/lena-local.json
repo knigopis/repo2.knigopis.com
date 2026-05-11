@@ -4,6 +4,9 @@
     "nickname": "lena",
     "identity": "local/lena",
     "booksCount": 506,
+    "subscriptions": {
+        "elixir-local": 457
+    },
     "createdAt": "2026-05-11 00:36:42",
-    "updatedAt": "2026-05-11 00:37:12"
+    "updatedAt": "2026-05-11 00:38:31"
 }
