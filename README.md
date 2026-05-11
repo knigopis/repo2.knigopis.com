@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elixir](users/eli/elixir-local)<sup>463</sup> 
+[elixir](users/eli/elixir-local)<sup>464</sup> 
 [lena](users/len/lena-local)<sup>506</sup> 
 [gsie56](users/gsi/gsie56-local)<sup>2</sup> 
 [asdf](users/asd/asdf-local)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anastasia](users/Ana/Anastasia-local)<sup>76</sup> 
 
 
-_11.05.2026 07:55:24_
+_11.05.2026 08:21:11_

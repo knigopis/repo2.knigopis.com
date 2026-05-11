@@ -1,4 +1,16 @@
 {
+    "3MJG3xpzKz": {
+        "id": "3MJG3xpzKz",
+        "title": "Окна во двор",
+        "author": "Франко Никита",
+        "notes": "",
+        "createdAt": "2026-05-11 08:21:11",
+        "user": {
+            "id": "elixir-local",
+            "nickname": "elixir",
+            "booksCount": 464
+        }
+    },
     "ug0gtgVS7S": {
         "id": "ug0gtgVS7S",
         "title": "Кадавры",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 505
-        }
-    },
-    "Du0d7Iy37b": {
-        "id": "Du0d7Iy37b",
-        "title": "Царствие мне небесное",
-        "author": "Вера Богданова",
-        "notes": "",
-        "createdAt": "2026-04-04 22:47:24",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 504
         }
     }
 }
