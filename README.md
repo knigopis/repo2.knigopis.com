@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/114/114910255112764096954-google)<sup>16</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
 [elixir](users/eli/elixir-local)<sup>464</sup> 
 [lena](users/len/lena-local)<sup>506</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [asdf](users/asd/asdf-local)<sup>1</sup> 
 [bbbb](users/bbb/bbbb-local)<sup>0</sup> 
 [aaaa](users/aaa/aaaa-local)<sup>0</sup> 
-[](users/114/114910255112764096954-google)<sup>15</sup> 
 [Lena](users/106/106288897753354227117-google)<sup>506</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>438</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_11.05.2026 16:49:42_
+_13.05.2026 16:34:50_
