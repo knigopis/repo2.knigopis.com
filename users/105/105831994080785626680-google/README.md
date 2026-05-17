@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>556</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>557</sup>
 ---
 
 ## 2026
+
+### Секретарь лорда демона
+Лунева Мария
+> [2026-05-17] https://free.loveread.info/books/other/250502-sekretar-lorda-demona-mariya-pavlovna-luneva.html#fullstory-text
+> Но я же упертая. Я же знаки судьбы читать не умею.
+
 
 ### Системный геймер
 Лисицын Евгений, Карелин Сергей
