@@ -33,6 +33,7 @@
 ### `93` Секретарь лорда демона
 Лунева Мария
 > https://free.loveread.info/books/other/250502-sekretar-lorda-demona-mariya-pavlovna-luneva.html#fullstory-text
+> Но я же упертая. Я же знаки судьбы читать не умею.
 
 ### `92` Стратегия одиночки
 Зайцев Александр
