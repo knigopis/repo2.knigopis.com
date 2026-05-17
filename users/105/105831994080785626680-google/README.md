@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>557</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>558</sup>
 ---
 
 ## 2026
+
+### Телохранитель для дочери генерала
+Лунные Мария
+> [2026-05-17] https://free.loveread.info/books/romany/272931-telohranitel-dlya-docheri-generala-drakonov-mariya.html
+
 
 ### Секретарь лорда демона
 Лунева Мария

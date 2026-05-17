@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Телохранитель для дочери генерала ~ [Chiffi](users/105/105831994080785626680-google)<sup>558</sup>
+    > https://free.loveread.info/books/romany/272931-telohranitel-dlya-docheri-generala-drakonov-mariya.html
+
 * Секретарь лорда демона ~ [Chiffi](users/105/105831994080785626680-google)<sup>557</sup>
     > https://free.loveread.info/books/other/250502-sekretar-lorda-demona-mariya-pavlovna-luneva.html#fullstory-text
     > Но я же упертая. Я же знаки судьбы читать не умею.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > 480 с.
 
 * Системный геймер ~ [Chiffi](users/105/105831994080785626680-google)<sup>556</sup>
-    > Такое((. https://searchfloor.org/s/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%B5%D0%B9%D0%BC%D0%B5%D1%80?authors=%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%BD,%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D0%B8%D0%BD
 
 * Повелитель механического легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>555</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Несуществующий причал ~ [](users/114/114910255112764096954-google)<sup>7</sup>
 
-* Кризисный центр Монстр ~ [Chiffi](users/105/105831994080785626680-google)<sup>550</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>557</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>558</sup> 
 [elixir](users/eli/elixir-local)<sup>465</sup> 
 [](users/114/114910255112764096954-google)<sup>16</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_17.05.2026 11:09:11_
+_17.05.2026 18:29:46_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Телохранитель для дочери генерала ~ [Chiffi](users/105/105831994080785626680-google)<sup>558</sup>
 * Секретарь лорда демона ~ [Chiffi](users/105/105831994080785626680-google)<sup>557</sup>
 * Мост на Дрине ~ [](users/114/114910255112764096954-google)<sup>13</sup>
 * Системный геймер ~ [Chiffi](users/105/105831994080785626680-google)<sup>556</sup>
@@ -30,7 +31,6 @@
 * Яма ~ [lucius](users/113/113248293394986559131-google)<sup>166</sup>
 * Мальчик у Моря ~ [lucius](users/113/113248293394986559131-google)<sup>165</sup>
 * Generation П ~ [lucius](users/113/113248293394986559131-google)<sup>164</sup>
-* Властелин ~ [lucius](users/113/113248293394986559131-google)<sup>163</sup>
 
 
-_17.05.2026 11:09:11_
+_17.05.2026 18:29:46_
