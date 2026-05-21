@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мигрирующая империя ~ [Chiffi](users/105/105831994080785626680-google)<sup>559</sup>
+    > Суровость законов компенсируется необязательностью их исполнения,
+    > 
+    > Кошмар, не читаемо. Идея была неплохая, но исполнение....
+
 * Телохранитель для дочери генерала ~ [Chiffi](users/105/105831994080785626680-google)<sup>558</sup>
     > https://free.loveread.info/books/romany/272931-telohranitel-dlya-docheri-generala-drakonov-mariya.html
 
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > Но я же упертая. Я же знаки судьбы читать не умею.
 
 * Мост на Дрине ~ [](users/114/114910255112764096954-google)<sup>13</sup>
-    > 480 с.
 
 * Системный геймер ~ [Chiffi](users/105/105831994080785626680-google)<sup>556</sup>
 
@@ -27,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * По следам исчезнувших. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>551</sup>
 
-* Несуществующий причал ~ [](users/114/114910255112764096954-google)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>558</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>559</sup> 
 [elixir](users/eli/elixir-local)<sup>465</sup> 
 [](users/114/114910255112764096954-google)<sup>16</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_17.05.2026 18:29:46_
+_21.05.2026 19:22:24_
