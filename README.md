@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стратегия одиночки ~ [Chiffi](users/105/105831994080785626680-google)<sup>560</sup>
+    > Похоже, что дописано не будет. Остановились на 10 томе 6 глава.... жаль, было интересно. https://searchfloor.org/book-reader/233
+    > Меньше знаешь, крепче спишь. Какой самый крепкий сон - смерть. Значит, меньше знаешь, быстрее умрешь
+    > Если раздразнить всех пауков в банке и вовремя не убрать руку, то кусать они будут не друг друга, а твою ладонь.
+    > если ты приручаешь кошку, собаку или даже хомячка, то ты и правда несёшь за него ответственность. Но когда дело заходит о людях, тут я в корне не согласен. Человек — не животное, у него есть свои мозги, и если он «приручился», а вы не его мама или папа, то это его личный выбор. И ответственность за этот выбор должен нести сам «прирученный», а не тот человек, к которому кто-то привязался.
+    > хорошо быть таким умным, как моя жена потом. Все мы крепки задним умом, а всё просчитать заранее невозможно.
+
 * Мигрирующая империя ~ [Chiffi](users/105/105831994080785626680-google)<sup>559</sup>
     > Суровость законов компенсируется необязательностью их исполнения,
     > 
@@ -14,8 +21,6 @@ Do not use pull requests to make changes here.
     > https://free.loveread.info/books/romany/272931-telohranitel-dlya-docheri-generala-drakonov-mariya.html
 
 * Секретарь лорда демона ~ [Chiffi](users/105/105831994080785626680-google)<sup>557</sup>
-    > https://free.loveread.info/books/other/250502-sekretar-lorda-demona-mariya-pavlovna-luneva.html#fullstory-text
-    > Но я же упертая. Я же знаки судьбы читать не умею.
 
 * Мост на Дрине ~ [](users/114/114910255112764096954-google)<sup>13</sup>
 
@@ -29,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Неожиданные знакомства. Фанфик по Графу Аверину ~ [Chiffi](users/105/105831994080785626680-google)<sup>552</sup>
 
-* По следам исчезнувших. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>551</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>559</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>560</sup> 
 [elixir](users/eli/elixir-local)<sup>465</sup> 
 [](users/114/114910255112764096954-google)<sup>16</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
@@ -68,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_21.05.2026 19:22:24_
+_23.05.2026 14:16:07_
