@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Станция Глизе ~ [Chiffi](users/105/105831994080785626680-google)<sup>561</sup>
+    > не нужно бежать быстрее убийцы, достаточно обогнать хотя бы одну потенциальную жертву.
+    > https://free.loveread.info/books/nauchnaya-fantastika/288194-stanciya-glize-mariya-pavlovna-luneva.html#fullstory-text
+
 * Стратегия одиночки ~ [Chiffi](users/105/105831994080785626680-google)<sup>560</sup>
     > Похоже, что дописано не будет. Остановились на 10 томе 6 глава.... жаль, было интересно. https://searchfloor.org/book-reader/233
     > Меньше знаешь, крепче спишь. Какой самый крепкий сон - смерть. Значит, меньше знаешь, быстрее умрешь
@@ -18,7 +22,6 @@ Do not use pull requests to make changes here.
     > Кошмар, не читаемо. Идея была неплохая, но исполнение....
 
 * Телохранитель для дочери генерала ~ [Chiffi](users/105/105831994080785626680-google)<sup>558</sup>
-    > https://free.loveread.info/books/romany/272931-telohranitel-dlya-docheri-generala-drakonov-mariya.html
 
 * Секретарь лорда демона ~ [Chiffi](users/105/105831994080785626680-google)<sup>557</sup>
 
@@ -32,14 +35,12 @@ Do not use pull requests to make changes here.
 
 * Сердце шторма ~ [Chiffi](users/105/105831994080785626680-google)<sup>553</sup>
 
-* Неожиданные знакомства. Фанфик по Графу Аверину ~ [Chiffi](users/105/105831994080785626680-google)<sup>552</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>560</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>561</sup> 
 [elixir](users/eli/elixir-local)<sup>465</sup> 
 [](users/114/114910255112764096954-google)<sup>16</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
@@ -71,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_23.05.2026 14:16:07_
+_25.05.2026 21:01:41_

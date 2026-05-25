@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>560</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>561</sup>
 ---
 
 ## 2026
+
+### Станция Глизе
+Лунева Мария
+> [2026-05-26] не нужно бежать быстрее убийцы, достаточно обогнать хотя бы одну потенциальную жертву.
+> https://free.loveread.info/books/nauchnaya-fantastika/288194-stanciya-glize-mariya-pavlovna-luneva.html#fullstory-text
+
 
 ### Мигрирующая империя
 Дорничев Дмитрий
