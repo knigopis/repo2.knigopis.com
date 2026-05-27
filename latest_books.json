@@ -1,4 +1,16 @@
 {
+    "2dHzruV9KV": {
+        "id": "2dHzruV9KV",
+        "title": "Кому на Руси сидеть хорошо?",
+        "author": "Ева Меркачёва",
+        "notes": "",
+        "createdAt": "2026-05-27 13:39:48",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "M7vOnx5sJt": {
         "id": "M7vOnx5sJt",
         "title": "Станция Глизе",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 434
-        }
-    },
-    "1ELTtWX5az": {
-        "id": "1ELTtWX5az",
-        "title": "Тайный город. Самый главный приз",
-        "author": "Панов Вадим",
-        "notes": "",
-        "createdAt": "2026-04-08 16:48:39",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 433
         }
     }
 }
