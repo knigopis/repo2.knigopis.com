@@ -1,4 +1,16 @@
 {
+    "4jA4wb29Yy": {
+        "id": "4jA4wb29Yy",
+        "title": "Не река",
+        "author": "Сельва Альмада",
+        "notes": "",
+        "createdAt": "2026-06-05 10:59:09",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 508
+        }
+    },
     "Bg6H1GiB28": {
         "id": "Bg6H1GiB28",
         "title": "Валанлань",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 436
-        }
-    },
-    "6mySCwKQZ1": {
-        "id": "6mySCwKQZ1",
-        "title": "Тайный город. Тёмные церемонии",
-        "author": "Панов Вадим",
-        "notes": "",
-        "createdAt": "2026-04-08 16:49:51",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 435
         }
     }
 }
