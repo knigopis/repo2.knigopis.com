@@ -1,4 +1,16 @@
 {
+    "Bg6H1GiB28": {
+        "id": "Bg6H1GiB28",
+        "title": "Валанлань",
+        "author": "Анастасия Шумилова",
+        "notes": "",
+        "createdAt": "2026-06-05 10:58:32",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 507
+        }
+    },
     "2dHzruV9KV": {
         "id": "2dHzruV9KV",
         "title": "Кому на Руси сидеть хорошо?",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 435
-        }
-    },
-    "9_piXdDYjP": {
-        "id": "9_piXdDYjP",
-        "title": "Контакт",
-        "author": "Саган Карл",
-        "notes": "",
-        "createdAt": "2026-04-08 16:49:15",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 434
         }
     }
 }
