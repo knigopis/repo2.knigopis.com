@@ -1,4 +1,16 @@
 {
+    "MIkP_M8iUC": {
+        "id": "MIkP_M8iUC",
+        "title": "Макар Волков",
+        "author": "Свин Петыр",
+        "notes": "",
+        "createdAt": "2026-06-05 18:38:42",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 509
+        }
+    },
     "4jA4wb29Yy": {
         "id": "4jA4wb29Yy",
         "title": "Не река",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 437
-        }
-    },
-    "s0cDEV9cF_": {
-        "id": "s0cDEV9cF_",
-        "title": "Тайный город. Быстрые перемены",
-        "author": "Сборник",
-        "notes": "",
-        "createdAt": "2026-04-08 16:50:30",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 436
         }
     }
 }
