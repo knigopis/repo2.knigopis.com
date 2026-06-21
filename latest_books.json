@@ -1,4 +1,16 @@
 {
+    "65rsDxeDvi": {
+        "id": "65rsDxeDvi",
+        "title": "Исповедь бунтаря",
+        "author": "Борис Немцов",
+        "notes": "",
+        "createdAt": "2026-06-21 18:02:07",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 18
+        }
+    },
     "8jxKmT3O01": {
         "id": "8jxKmT3O01",
         "title": "(Бесчело)вечность",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "ZZqJ6I0tvJ": {
-        "id": "ZZqJ6I0tvJ",
-        "title": "Формы движения материи",
-        "author": "Артюхов, Селеменев",
-        "notes": "",
-        "createdAt": "2026-04-10 19:30:15",
-        "user": {
-            "id": "108887983030919100717-google",
-            "nickname": "Askaliya",
-            "booksCount": 87
         }
     }
 }
