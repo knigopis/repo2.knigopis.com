@@ -1,4 +1,16 @@
 {
+    "9CCPGbSJqy": {
+        "id": "9CCPGbSJqy",
+        "title": "Манюня",
+        "author": "Наринэ Абгарян",
+        "notes": "",
+        "createdAt": "2026-06-24 14:50:02",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "65rsDxeDvi": {
         "id": "65rsDxeDvi",
         "title": "Исповедь бунтаря",
@@ -345,18 +357,6 @@
             "id": "106288897753354227117-google",
             "nickname": "Lena",
             "booksCount": 506
-        }
-    },
-    "o-zmNM_P51": {
-        "id": "o-zmNM_P51",
-        "title": "Мост на Дрине",
-        "author": "Иво Андрич",
-        "notes": "480 с.",
-        "createdAt": "2026-04-20 10:50:10",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 13
         }
     }
 }
