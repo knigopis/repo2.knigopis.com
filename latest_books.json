@@ -1,4 +1,16 @@
 {
+    "Jp30mPvkKf": {
+        "id": "Jp30mPvkKf",
+        "title": "Чему я могу научиться у Антуана де Сент-Экзюпери",
+        "author": "Валерия Мартьянова",
+        "notes": "",
+        "createdAt": "2026-06-24 19:19:14",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "9CCPGbSJqy": {
         "id": "9CCPGbSJqy",
         "title": "Манюня",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 14
-        }
-    },
-    "HUGG6_9USL": {
-        "id": "HUGG6_9USL",
-        "title": "Гомер навсегда",
-        "author": "Ласло Краснахоркаи",
-        "notes": "",
-        "createdAt": "2026-04-21 22:43:37",
-        "user": {
-            "id": "106288897753354227117-google",
-            "nickname": "Lena",
-            "booksCount": 506
         }
     }
 }
