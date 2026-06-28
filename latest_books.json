@@ -1,4 +1,16 @@
 {
+    "tEO67vR2zw": {
+        "id": "tEO67vR2zw",
+        "title": "Почему не было великих художниц?",
+        "author": "Линда Нохлин",
+        "notes": "",
+        "createdAt": "2026-06-28 13:12:02",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "VqvTNbMRYC": {
         "id": "VqvTNbMRYC",
         "title": "Чему я могу научиться у Антуана де Сент-Экзюпери",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 15
-        }
-    },
-    "aVIJKK2CpU": {
-        "id": "aVIJKK2CpU",
-        "title": "Очерки России ХХ века - о тех, кто уехал, и тех, кто остался",
-        "author": "Егор Сенников",
-        "notes": "",
-        "createdAt": "2026-04-24 13:38:32",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 14
         }
     }
 }
