@@ -1,4 +1,10 @@
 {
+    "lena-local": {
+        "id": "lena-local",
+        "nickname": "lena",
+        "booksCount": 510,
+        "updatedAt": "2026-06-30 08:06:57"
+    },
     "114910255112764096954-google": {
         "id": "114910255112764096954-google",
         "nickname": null,
@@ -10,12 +16,6 @@
         "nickname": "Chiffi",
         "booksCount": 564,
         "updatedAt": "2026-06-09 20:34:48"
-    },
-    "lena-local": {
-        "id": "lena-local",
-        "nickname": "lena",
-        "booksCount": 509,
-        "updatedAt": "2026-06-05 18:38:42"
     },
     "elixir-local": {
         "id": "elixir-local",

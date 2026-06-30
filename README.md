@@ -44,9 +44,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lena](users/len/lena-local)<sup>510</sup> 
 [](users/114/114910255112764096954-google)<sup>21</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>564</sup> 
-[lena](users/len/lena-local)<sup>509</sup> 
 [elixir](users/eli/elixir-local)<sup>465</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
 [gsie56](users/gsi/gsie56-local)<sup>2</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_28.06.2026 13:12:02_
+_30.06.2026 08:06:57_

@@ -1,4 +1,16 @@
 {
+    "A3po5wObpc": {
+        "id": "A3po5wObpc",
+        "title": "Тут недалеко",
+        "author": "Кира Ярмыш",
+        "notes": "",
+        "createdAt": "2026-06-30 08:06:57",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 510
+        }
+    },
     "tEO67vR2zw": {
         "id": "tEO67vR2zw",
         "title": "Почему не было великих художниц?",
@@ -345,18 +357,6 @@
             "id": "asdf-local",
             "nickname": "asdf",
             "booksCount": 1
-        }
-    },
-    "wiaus29xws": {
-        "id": "wiaus29xws",
-        "title": "Вторая жизнь Уве",
-        "author": "Фредрик Бакман",
-        "notes": "",
-        "createdAt": "2026-05-02 14:08:07",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }
