@@ -1,4 +1,16 @@
 {
+    "WRiTcs0Wv2": {
+        "id": "WRiTcs0Wv2",
+        "title": "Записки о сломанном мире",
+        "author": "Войлошниковы",
+        "notes": "",
+        "createdAt": "2026-06-30 17:34:32",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 565
+        }
+    },
     "A3po5wObpc": {
         "id": "A3po5wObpc",
         "title": "Тут недалеко",
@@ -344,18 +356,6 @@
         "user": {
             "id": "gsie56-local",
             "nickname": "gsie56",
-            "booksCount": 1
-        }
-    },
-    "7yGGq9iERw": {
-        "id": "7yGGq9iERw",
-        "title": "1984",
-        "author": "",
-        "notes": "",
-        "createdAt": "2026-05-03 21:44:22",
-        "user": {
-            "id": "asdf-local",
-            "nickname": "asdf",
             "booksCount": 1
         }
     }
