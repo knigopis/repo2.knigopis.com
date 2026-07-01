@@ -1,4 +1,16 @@
 {
+    "64ZCZCcIAM": {
+        "id": "64ZCZCcIAM",
+        "title": "Женщина с зонтиком",
+        "author": "Баранская Наталья",
+        "notes": "",
+        "createdAt": "2026-07-01 01:08:26",
+        "user": {
+            "id": "elixir-local",
+            "nickname": "elixir",
+            "booksCount": 466
+        }
+    },
     "WRiTcs0Wv2": {
         "id": "WRiTcs0Wv2",
         "title": "Записки о сломанном мире",
@@ -345,18 +357,6 @@
             "id": "gsie56-local",
             "nickname": "gsie56",
             "booksCount": 3
-        }
-    },
-    "pPeeJtVst-": {
-        "id": "pPeeJtVst-",
-        "title": "Профессия – киллер",
-        "author": "Лев Пучков",
-        "notes": "",
-        "createdAt": "2026-05-04 03:55:40",
-        "user": {
-            "id": "gsie56-local",
-            "nickname": "gsie56",
-            "booksCount": 1
         }
     }
 }
