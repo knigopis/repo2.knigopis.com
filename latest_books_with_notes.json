@@ -1,4 +1,16 @@
 {
+    "EP7pHKGCJL": {
+        "id": "EP7pHKGCJL",
+        "title": "Записки о сломанном мире 2 части",
+        "author": "Войлошниковы",
+        "notes": "https://readli.net/zapiski-o-slomannom-mire/",
+        "createdAt": "2026-07-01 18:08:57",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 566
+        }
+    },
     "8jxKmT3O01": {
         "id": "8jxKmT3O01",
         "title": "(Бесчело)вечность",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 539
-        }
-    },
-    "K7NH2zgkwl": {
-        "id": "K7NH2zgkwl",
-        "title": "Гиблые земли (2 книги)",
-        "author": "Ключевский Аоекс",
-        "notes": "https://searchfloor.org/s/%D0%93%D0%B8%D0%B1%D0%BB%D1%8B%D0%B5%20%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8?authors=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9,%20shellina\nНа удивление приятный двухтомник. Могла бы получиться хорошая серия. Но автор закончил логично и интересно.",
-        "createdAt": "2025-11-17 22:03:25",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 538
         }
     }
 }

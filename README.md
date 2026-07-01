@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Записки о сломанном мире 2 части ~ [Chiffi](users/105/105831994080785626680-google)<sup>566</sup>
+    > https://readli.net/zapiski-o-slomannom-mire/
+
 * (Бесчело)вечность ~ [Chiffi](users/105/105831994080785626680-google)<sup>564</sup>
     > никто ведь не знал, что происходит,а когда не знаешь, обязательно примеряешь происходящее на свой город… На себя
     > Всё упирается в деньги у низших, которых мы убедили, что нет ничего важнее, и заставили посвящать свою жизнь складыванию бумажек или пересчёту цифр в банке. Для них действительно нет ничего важнее.
@@ -22,8 +25,6 @@ Do not use pull requests to make changes here.
     > Упавший духом гибнет раньше срока.
 
 * Станция Глизе ~ [Chiffi](users/105/105831994080785626680-google)<sup>561</sup>
-    > не нужно бежать быстрее убийцы, достаточно обогнать хотя бы одну потенциальную жертву.
-    > https://free.loveread.info/books/nauchnaya-fantastika/288194-stanciya-glize-mariya-pavlovna-luneva.html#fullstory-text
 
 * Стратегия одиночки ~ [Chiffi](users/105/105831994080785626680-google)<sup>560</sup>
 
@@ -37,15 +38,13 @@ Do not use pull requests to make changes here.
 
 * Системный геймер ~ [Chiffi](users/105/105831994080785626680-google)<sup>556</sup>
 
-* Повелитель механического легиона ~ [Chiffi](users/105/105831994080785626680-google)<sup>555</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>566</sup> 
 [elixir](users/eli/elixir-local)<sup>466</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>565</sup> 
 [lena](users/len/lena-local)<sup>510</sup> 
 [](users/114/114910255112764096954-google)<sup>21</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
@@ -76,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_01.07.2026 01:08:26_
+_01.07.2026 18:08:58_

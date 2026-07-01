@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>565</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>566</sup>
 ---
 
 ## 2026
+
+### Записки о сломанном мире 2 части
+Войлошниковы
+> [2026-06-30] https://readli.net/zapiski-o-slomannom-mire/
+
 
 ### Элирм (8 частей)
 Готлейб Владимир

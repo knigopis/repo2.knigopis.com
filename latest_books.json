@@ -1,4 +1,16 @@
 {
+    "EP7pHKGCJL": {
+        "id": "EP7pHKGCJL",
+        "title": "Записки о сломанном мире 2 части",
+        "author": "Войлошниковы",
+        "notes": "https://readli.net/zapiski-o-slomannom-mire/",
+        "createdAt": "2026-07-01 18:08:57",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 566
+        }
+    },
     "64ZCZCcIAM": {
         "id": "64ZCZCcIAM",
         "title": "Женщина с зонтиком",
@@ -345,18 +357,6 @@
             "id": "elixir-local",
             "nickname": "elixir",
             "booksCount": 458
-        }
-    },
-    "KSpRMed-WL": {
-        "id": "KSpRMed-WL",
-        "title": "Дикая степь",
-        "author": "Лев Пучков",
-        "notes": "",
-        "createdAt": "2026-05-04 03:56:48",
-        "user": {
-            "id": "gsie56-local",
-            "nickname": "gsie56",
-            "booksCount": 3
         }
     }
 }
