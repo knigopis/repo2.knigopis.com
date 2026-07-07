@@ -1,4 +1,16 @@
 {
+    "6JiYaxTux2": {
+        "id": "6JiYaxTux2",
+        "title": "Un otoño de perros",
+        "author": "Andreas Steinhöfel",
+        "notes": "",
+        "createdAt": "2026-07-07 16:16:01",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 511
+        }
+    },
     "EP7pHKGCJL": {
         "id": "EP7pHKGCJL",
         "title": "Записки о сломанном мире 2 части",
@@ -341,18 +353,6 @@
         "author": "Малисова, Сильванова",
         "notes": "",
         "createdAt": "2026-05-11 07:26:37",
-        "user": {
-            "id": "elixir-local",
-            "nickname": "elixir",
-            "booksCount": 458
-        }
-    },
-    "b4ysiBy-1S": {
-        "id": "b4ysiBy-1S",
-        "title": "Прррр",
-        "author": "",
-        "notes": "",
-        "createdAt": "2026-05-10 19:01:56",
         "user": {
             "id": "elixir-local",
             "nickname": "elixir",
