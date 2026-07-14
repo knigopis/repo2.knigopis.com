@@ -1,4 +1,16 @@
 {
+    "dV_k_wfTrN": {
+        "id": "dV_k_wfTrN",
+        "title": "Возвращение государства. Россия в нулевые. 2000-2012",
+        "author": "Екатерина Шульман",
+        "notes": "",
+        "createdAt": "2026-07-14 09:24:32",
+        "user": {
+            "id": "114910255112764096954-google",
+            "nickname": null,
+            "booksCount": 22
+        }
+    },
     "7TftSxaC94": {
         "id": "7TftSxaC94",
         "title": "В закоулках мироздания",
@@ -345,18 +357,6 @@
             "id": "elixir-local",
             "nickname": "elixir",
             "booksCount": 460
-        }
-    },
-    "PVMqJvpZAK": {
-        "id": "PVMqJvpZAK",
-        "title": "О чем молчит ласточка",
-        "author": "Малисова, Сильванова",
-        "notes": "",
-        "createdAt": "2026-05-11 07:27:23",
-        "user": {
-            "id": "elixir-local",
-            "nickname": "elixir",
-            "booksCount": 459
         }
     }
 }
