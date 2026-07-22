@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повелитель гоблинов ~ [Chiffi](users/105/105831994080785626680-google)<sup>569</sup>
+    > Было очень интересно, но под конец все слишком ускорилось. https://searchfloor.org/s/%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2?authors=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA,%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D0%B8%D0%BD
+    > 
+    > Если тебе где-то не рaды в рвaных носкaх, то и в целых тудa идти не стоит
+    > «Лучше посрaть и опоздaть, чем прийти вовремя и обосрaться
+    > В древности рaзбойники нa дорогaх тоже нaлог брaли. Но они хотя бы вещи своими именaми нaзывaли, когдa тебя грaбили.
+
 * Мои неотразимые гадюки ~ [Chiffi](users/105/105831994080785626680-google)<sup>568</sup>
     > Люди не зря говорят: удачу нужно чаще накликать, и тогда она обязательно снизойдёт. Хотя бы ради того, чтобы отделаться от назойливого попрошайки. На свете нет ни одного даже самого безнадежного неудачника, которого хотя бы раз в жизни не обрадовали.
     > испарились с непревзойдённой лёгкостью оставленной на жаре воды
@@ -31,7 +38,6 @@ Do not use pull requests to make changes here.
     > Творец государей, 8 книга. Больше пока не могу, перебор
 
 * Записки о сломанном мире 2 части ~ [Chiffi](users/105/105831994080785626680-google)<sup>566</sup>
-    > https://readli.net/zapiski-o-slomannom-mire/
 
 * (Бесчело)вечность ~ [Chiffi](users/105/105831994080785626680-google)<sup>564</sup>
 
@@ -45,14 +51,12 @@ Do not use pull requests to make changes here.
 
 * Телохранитель для дочери генерала ~ [Chiffi](users/105/105831994080785626680-google)<sup>558</sup>
 
-* Секретарь лорда демона ~ [Chiffi](users/105/105831994080785626680-google)<sup>557</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>568</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>569</sup> 
 [](users/114/114910255112764096954-google)<sup>22</sup> 
 [lena](users/len/lena-local)<sup>511</sup> 
 [elixir](users/eli/elixir-local)<sup>466</sup> 
@@ -84,4 +88,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_18.07.2026 20:53:35_
+_22.07.2026 18:42:26_
