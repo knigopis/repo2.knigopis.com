@@ -1,4 +1,16 @@
 {
+    "b30JQe33DZ": {
+        "id": "b30JQe33DZ",
+        "title": "Отец Сережа",
+        "author": "Марина Чуфистова",
+        "notes": "",
+        "createdAt": "2026-07-25 19:40:07",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 512
+        }
+    },
     "iYaSG5FGrU": {
         "id": "iYaSG5FGrU",
         "title": "Дом северных медведей",
@@ -345,18 +357,6 @@
             "id": "elixir-local",
             "nickname": "elixir",
             "booksCount": 464
-        }
-    },
-    "ug0gtgVS7S": {
-        "id": "ug0gtgVS7S",
-        "title": "Кадавры",
-        "author": "Полярников Алексей",
-        "notes": "",
-        "createdAt": "2026-05-11 07:55:23",
-        "user": {
-            "id": "elixir-local",
-            "nickname": "elixir",
-            "booksCount": 463
         }
     }
 }
