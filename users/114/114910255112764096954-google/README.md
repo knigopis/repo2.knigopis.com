@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>23</sup>
+# List of books read by [](https://plus.google.com/u/0/114910255112764096954/)<sup>24</sup>
 ---
 
 ## 2026
+
+### Моя мама - уборщица
+Чжан Сяомань
+> [2026-07-29] 
+
 
 ### Патриот
 Алексей Навальный
