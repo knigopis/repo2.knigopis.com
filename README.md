@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Перекресток судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>572</sup>
+    > https://searchfloor.org/s/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BA%20%D0%A1%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%202%20%D0%9C%D0%B0%D0%B3?authors=%D0%AE%D1%80%D0%B8%D0%B9%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE
+    > Пустышку прочитала. Маг-нет
+    > главный закон… женщины спят с кем хотят, а мужчины с кем удастся. А вот на счёт замужества и женитьбы, тут ситуация в точности до наоборот
+
 * Звездные скитальцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>571</sup>
     > это как назваться «Смитом». Из общей массы порой особенно выделяется тот, кто старается казаться самым идеальным образчиком заурядного человека, без приметных особенностей
     > не рефлексируй в бою на тему того, на что не можешь повлиять.
@@ -29,11 +34,6 @@ Do not use pull requests to make changes here.
     > Две из восьми и больше не осилю
 
 * Повелитель гоблинов ~ [Chiffi](users/105/105831994080785626680-google)<sup>569</sup>
-    > Было очень интересно, но под конец все слишком ускорилось. https://searchfloor.org/s/%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%B3%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2?authors=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA,%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D0%B8%D0%BD
-    > 
-    > Если тебе где-то не рaды в рвaных носкaх, то и в целых тудa идти не стоит
-    > «Лучше посрaть и опоздaть, чем прийти вовремя и обосрaться
-    > В древности рaзбойники нa дорогaх тоже нaлог брaли. Но они хотя бы вещи своими именaми нaзывaли, когдa тебя грaбили.
 
 * Мои неотразимые гадюки ~ [Chiffi](users/105/105831994080785626680-google)<sup>568</sup>
 
@@ -47,15 +47,13 @@ Do not use pull requests to make changes here.
 
 * Станция Глизе ~ [Chiffi](users/105/105831994080785626680-google)<sup>561</sup>
 
-* Стратегия одиночки ~ [Chiffi](users/105/105831994080785626680-google)<sup>560</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>572</sup> 
 [](users/114/114910255112764096954-google)<sup>24</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>571</sup> 
 [lena](users/len/lena-local)<sup>512</sup> 
 [elixir](users/eli/elixir-local)<sup>466</sup> 
 [Maxim](users/Max/Maxim-local)<sup>0</sup> 
@@ -86,4 +84,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_29.07.2026 12:38:15_
+_31.07.2026 17:33:48_
