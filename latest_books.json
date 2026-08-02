@@ -1,4 +1,16 @@
 {
+    "gwq15tMAmX": {
+        "id": "gwq15tMAmX",
+        "title": "Холодное сияние звезд. Малой",
+        "author": "Москаленко Юрий",
+        "notes": "https://searchfloor.org/book-reader/2414\nИдея неплохая, но не читаемо",
+        "createdAt": "2026-08-02 19:55:47",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 574
+        }
+    },
     "NC8WJQ_3jS": {
         "id": "NC8WJQ_3jS",
         "title": "Жена и любовница генерала драконов",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 559
-        }
-    },
-    "XqMldeWp8A": {
-        "id": "XqMldeWp8A",
-        "title": "Телохранитель для дочери генерала",
-        "author": "Лунные Мария",
-        "notes": "https://free.loveread.info/books/romany/272931-telohranitel-dlya-docheri-generala-drakonov-mariya.html",
-        "createdAt": "2026-05-17 18:29:46",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 558
         }
     }
 }
