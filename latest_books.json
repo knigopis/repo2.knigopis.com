@@ -1,4 +1,16 @@
 {
+    "S16RvJlUzC": {
+        "id": "S16RvJlUzC",
+        "title": "Мышь",
+        "author": "Иван Филиппов",
+        "notes": "",
+        "createdAt": "2026-08-18 16:28:16",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 513
+        }
+    },
     "vGb4ax2WxP": {
         "id": "vGb4ax2WxP",
         "title": "Путешествие Галеота",
@@ -345,18 +357,6 @@
             "id": "lena-local",
             "nickname": "lena",
             "booksCount": 507
-        }
-    },
-    "2dHzruV9KV": {
-        "id": "2dHzruV9KV",
-        "title": "Кому на Руси сидеть хорошо?",
-        "author": "Ева Меркачёва",
-        "notes": "",
-        "createdAt": "2026-05-27 13:39:48",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }
