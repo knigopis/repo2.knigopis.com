@@ -1,5 +1,13 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>30</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>31</sup>
 ---
+
+## 2026
+
+### Встреча над Тускаророй
+Иван Ефремов
+> [2026-08-24] 
+
+
 
 ## 2025
 
