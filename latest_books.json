@@ -1,4 +1,16 @@
 {
+    "sJ6TP7UvxJ": {
+        "id": "sJ6TP7UvxJ",
+        "title": "София возвращалась домой",
+        "author": "Наринэ Абгарян",
+        "notes": "",
+        "createdAt": "2026-08-28 00:54:21",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 514
+        }
+    },
     "S26x1JqS33": {
         "id": "S26x1JqS33",
         "title": "Встреча над Тускаророй",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 563
-        }
-    },
-    "MIkP_M8iUC": {
-        "id": "MIkP_M8iUC",
-        "title": "Макар Волков",
-        "author": "Свин Петыр",
-        "notes": "",
-        "createdAt": "2026-06-05 18:38:42",
-        "user": {
-            "id": "lena-local",
-            "nickname": "lena",
-            "booksCount": 509
         }
     }
 }
