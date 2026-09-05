@@ -1,4 +1,16 @@
 {
+    "aSZ99wSL73": {
+        "id": "aSZ99wSL73",
+        "title": "Белые ночи",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2026-09-05 21:47:25",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 515
+        }
+    },
     "BbBjYrkKmG": {
         "id": "BbBjYrkKmG",
         "title": "Where the Duck Minerva McGonagall",
@@ -345,18 +357,6 @@
             "id": "114910255112764096954-google",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "9CCPGbSJqy": {
-        "id": "9CCPGbSJqy",
-        "title": "Манюня",
-        "author": "Наринэ Абгарян",
-        "notes": "",
-        "createdAt": "2026-06-24 14:50:02",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 19
         }
     }
 }
