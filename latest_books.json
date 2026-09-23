@@ -1,4 +1,16 @@
 {
+    "CxAvGFcfL9": {
+        "id": "CxAvGFcfL9",
+        "title": "Свободная",
+        "author": "Лев Юпи",
+        "notes": "",
+        "createdAt": "2026-09-23 23:41:25",
+        "user": {
+            "id": "lena-local",
+            "nickname": "lena",
+            "booksCount": 517
+        }
+    },
     "e3W1_SmVeT": {
         "id": "e3W1_SmVeT",
         "title": "Обширная территория",
@@ -345,18 +357,6 @@
             "id": "lena-local",
             "nickname": "lena",
             "booksCount": 510
-        }
-    },
-    "tEO67vR2zw": {
-        "id": "tEO67vR2zw",
-        "title": "Почему не было великих художниц?",
-        "author": "Линда Нохлин",
-        "notes": "",
-        "createdAt": "2026-06-28 13:12:02",
-        "user": {
-            "id": "114910255112764096954-google",
-            "nickname": null,
-            "booksCount": 21
         }
     }
 }
