@@ -47,7 +47,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/105/105803270930838059244-google)<sup>25</sup> 
+[](users/105/105803270930838059244-google)<sup>24</sup> 
 [lena](users/len/lena-local)<sup>517</sup> 
 [Askaliya](users/108/108887983030919100717-google)<sup>88</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>578</sup> 
@@ -79,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>26</sup> 
 
 
-_29.09.2026 05:51:40_
+_29.09.2026 05:53:16_
