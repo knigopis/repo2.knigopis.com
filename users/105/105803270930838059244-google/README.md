@@ -1,12 +1,5 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>31</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>30</sup>
 ---
-
-## 2026
-
-### Эллинский секрет
-Иван Ефремов
-
-
 
 ## 2025
 
