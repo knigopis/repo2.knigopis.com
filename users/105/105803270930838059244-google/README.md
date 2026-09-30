@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>21</sup>
+# List of books read by [](https://plus.google.com/u/0/105803270930838059244/)<sup>20</sup>
 ---
 
 ## 2025
@@ -51,10 +51,6 @@
 
 ### Дубровский
 Пушкин А.С.
-
-
-### Истребивший магию
-Юрий Никитин
 
 
 
